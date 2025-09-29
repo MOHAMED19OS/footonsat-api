@@ -175,6 +175,14 @@
             "related_to": "     Feyenoord   vs   Utrecht"
         },
         {
+            "channel": "Thriller TV+ [online] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.trillertv.com/join/trillertv-subscription/",
+            "related_to": "     Feyenoord   vs   Utrecht"
+        },
+        {
             "compet": "Dutch Eredivisie - Week 8",
             "match": "     AZ Alkmaar   vs   Telstar",
             "flags": {
@@ -190,6 +198,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "#",
+            "related_to": "     AZ Alkmaar   vs   Telstar"
+        },
+        {
+            "channel": "Thriller TV+ [online] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.trillertv.com/join/trillertv-subscription/",
             "related_to": "     AZ Alkmaar   vs   Telstar"
         },
         {
@@ -209,6 +225,42 @@
             "encry": "",
             "link": "#",
             "related_to": "     Go Ahead Eagles   vs   NEC Nijmegen"
+        },
+        {
+            "compet": "Dutch Eredivisie - Week 9",
+            "match": "     PSV Eindhoven   vs   Go Ahead Eagles",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "16:45",
+            "date": "2025-10-18"
+        },
+        {
+            "channel": "Premier Sports GB Player HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": "     PSV Eindhoven   vs   Go Ahead Eagles"
+        },
+        {
+            "compet": "Dutch Eredivisie - Week 9",
+            "match": "     Ajax   vs   AZ Alkmaar",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "19:00",
+            "date": "2025-10-18"
+        },
+        {
+            "channel": "Premier Sports GB Player HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": "     Ajax   vs   AZ Alkmaar"
         },
         {
             "compet": "Dutch Eredivisie - Week 10",

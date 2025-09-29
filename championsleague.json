@@ -2967,6 +2967,38 @@
             "related_to": "     Barcelona   vs   Olympiacos"
         },
         {
+            "channel": "TNT Sports 1 HD",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "3798 R 19167 - 3/5",
+            "encry": "Irdeto [c]",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Olympiacos"
+        },
+        {
+            "channel": "Virgin Media PLAY (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Olympiacos"
+        },
+        {
+            "channel": "Virgin Media TV [app] (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Olympiacos"
+        },
+        {
+            "channel": "Virgin Media Two HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11856 V 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Olympiacos"
+        },
+        {
             "compet": "UEFA Champions League - Matchday 3",
             "match": "     Kairat Almaty   vs   Pafos FC",
             "flags": {
@@ -2983,6 +3015,74 @@
             "encry": "",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
             "related_to": "     Kairat Almaty   vs   Pafos FC"
+        },
+        {
+            "channel": "TNT Sports 3 HD",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11582 H 23000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Kairat Almaty   vs   Pafos FC"
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 3",
+            "match": "     Villarreal   vs   Manchester City",
+            "flags": {
+                "team1": "spain",
+                "team2": "england"
+            },
+            "time": "19:00",
+            "date": "2025-10-21"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "     Villarreal   vs   Manchester City"
+        },
+        {
+            "channel": "TNT Sports 1 HD",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "3798 R 19167 - 3/5",
+            "encry": "Irdeto [c]",
+            "link": "#",
+            "related_to": "     Villarreal   vs   Manchester City"
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 3",
+            "match": "     Newcastle United   vs   Benfica",
+            "flags": {
+                "team1": "england",
+                "team2": "portugal"
+            },
+            "time": "19:00",
+            "date": "2025-10-21"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "     Newcastle United   vs   Benfica"
+        },
+        {
+            "channel": "TNT Sports 2 HD",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11582 H 23000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Newcastle United   vs   Benfica"
+        },
+        {
+            "channel": "TNT Sports Ultimate UHD",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12207 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Newcastle United   vs   Benfica"
         },
         {
             "compet": "UEFA Champions League - Matchday 3",
@@ -3029,6 +3129,14 @@
             "related_to": "     Bayer Leverkusen   vs   Paris St Germain"
         },
         {
+            "channel": "TNT Sports 5 HD",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11582 H 23000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Bayer Leverkusen   vs   Paris St Germain"
+        },
+        {
             "compet": "UEFA Champions League - Matchday 3",
             "match": "     FC Copenhagen   vs   Borussia Dortmund",
             "flags": {
@@ -3047,22 +3155,12 @@
             "related_to": "     FC Copenhagen   vs   Borussia Dortmund"
         },
         {
-            "compet": "UEFA Champions League - Matchday 3",
-            "match": "     Newcastle United   vs   Benfica",
-            "flags": {
-                "team1": "england",
-                "team2": "portugal"
-            },
-            "time": "19:00",
-            "date": "2025-10-21"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "     Newcastle United   vs   Benfica"
+            "channel": "TNT Sports 7",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11597 V 22000 - 5/6",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     FC Copenhagen   vs   Borussia Dortmund"
         },
         {
             "compet": "UEFA Champions League - Matchday 3",
@@ -3080,6 +3178,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "     PSV Eindhoven   vs   Napoli"
+        },
+        {
+            "channel": "TNT Sports 6",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11597 V 22000 - 5/6",
+            "encry": "VideoGuard",
+            "link": "#",
             "related_to": "     PSV Eindhoven   vs   Napoli"
         },
         {
@@ -3101,22 +3207,12 @@
             "related_to": "     Union St Gilloise   vs   Inter Milan"
         },
         {
-            "compet": "UEFA Champions League - Matchday 3",
-            "match": "     Villarreal   vs   Manchester City",
-            "flags": {
-                "team1": "spain",
-                "team2": "england"
-            },
-            "time": "19:00",
-            "date": "2025-10-21"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "     Villarreal   vs   Manchester City"
+            "channel": "TNT Sports 8",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11597 V 22000 - 5/6",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Union St Gilloise   vs   Inter Milan"
         },
         {
             "compet": "UEFA Champions League - Matchday 3",
@@ -3137,6 +3233,14 @@
             "related_to": "     Athletic Bilbao   vs   Qarabagh"
         },
         {
+            "channel": "TNT Sports 4 HD",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11582 H 23000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Athletic Bilbao   vs   Qarabagh"
+        },
+        {
             "compet": "UEFA Champions League - Matchday 3",
             "match": "     Galatasaray   vs   Bod\u00f8/Glimt",
             "flags": {
@@ -3152,6 +3256,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "     Galatasaray   vs   Bod\u00f8/Glimt"
+        },
+        {
+            "channel": "TNT Sports 10",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11597 V 23000 - 2/3",
+            "encry": "VideoGuard",
+            "link": "#",
             "related_to": "     Galatasaray   vs   Bod\u00f8/Glimt"
         },
         {
