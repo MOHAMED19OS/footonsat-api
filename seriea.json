@@ -171,6 +171,14 @@
             "related_to": "     Parma   vs   Torino"
         },
         {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "11650 V 10000 - 3/4",
+            "encry": "HD TrophyAccess",
+            "link": "#",
+            "related_to": "     Parma   vs   Torino"
+        },
+        {
             "channel": "Sport 2 Israel HD",
             "sat": "Amos 7 4.0\u00b0w",
             "freq": "11030 V 27500 - 3/4",
@@ -237,10 +245,26 @@
             "related_to": "     Genoa   vs   Lazio"
         },
         {
+            "channel": "Arena Premium 2 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "0000 0",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Genoa   vs   Lazio"
+        },
+        {
             "channel": "Arena Premium 3 Srbija HD",
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12422 H 30000 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Genoa   vs   Lazio"
+        },
+        {
+            "channel": "Arena Sport 2 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11554 H 30000 - 5/6",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Genoa   vs   Lazio"
         },
@@ -265,6 +289,30 @@
             "sat": "Eutelsat 7C 7.0\u00b0e",
             "freq": "10981 V 45000 - 5/6",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Genoa   vs   Lazio"
+        },
+        {
+            "channel": "Cosmote Sport 2 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "11843 V 27500 - 3/5",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Genoa   vs   Lazio"
+        },
+        {
+            "channel": "Cytavision Sports 4 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Genoa   vs   Lazio"
+        },
+        {
+            "channel": "DAZN 2 Bar Deutsch HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11798 H 27500 - 9/0",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Genoa   vs   Lazio"
         },
@@ -341,6 +389,14 @@
             "related_to": "     Genoa   vs   Lazio"
         },
         {
+            "channel": "Fast Sports 1 Armenia ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://fasttv.am/tv-channels/fastsports1",
+            "related_to": "     Genoa   vs   Lazio"
+        },
+        {
             "channel": "Fast Sports [online] ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -370,6 +426,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.mtv.fi/urheilu",
+            "related_to": "     Genoa   vs   Lazio"
+        },
+        {
+            "channel": "MTV Urheilu 1 Suomi HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12476 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
             "related_to": "     Genoa   vs   Lazio"
         },
         {
@@ -413,9 +477,49 @@
             "related_to": "     Genoa   vs   Lazio"
         },
         {
+            "channel": "Setanta Sports 1 Baltic",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11958 H 27500 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Genoa   vs   Lazio"
+        },
+        {
+            "channel": "Setanta Sports 2 Georgia HD",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "11650 V 10000 - 3/4",
+            "encry": "HD TrophyAccess",
+            "link": "#",
+            "related_to": "     Genoa   vs   Lazio"
+        },
+        {
+            "channel": "Setanta Sports Qazaqstan HD",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "12657 V 45000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Genoa   vs   Lazio"
+        },
+        {
+            "channel": "Sky Sport 251 Italia HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12054 H 29900 - 5/6",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Genoa   vs   Lazio"
+        },
+        {
             "channel": "Sky Sport Calcio HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "12073 V 29900 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Genoa   vs   Lazio"
+        },
+        {
+            "channel": "Sky Sport Italia 4K UHD",
+            "sat": "Hotbird 13E 13.0\u00b0e",
+            "freq": "11996 V 29900 - 5/6",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Genoa   vs   Lazio"
@@ -425,6 +529,38 @@
             "sat": "Amos 7 4.0\u00b0w",
             "freq": "11030 V 27500 - 3/4",
             "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Genoa   vs   Lazio"
+        },
+        {
+            "channel": "Sport TV2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Genoa   vs   Lazio"
+        },
+        {
+            "channel": "SuperSport Football HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11514 H 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Genoa   vs   Lazio"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 360",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12130 H 27500 - 2/3",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Genoa   vs   Lazio"
+        },
+        {
+            "channel": "Tivibu Spor 1 HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11880 H 20000 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Genoa   vs   Lazio"
         },
@@ -458,6 +594,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://play.tv2.dk/sport",
+            "related_to": "     Genoa   vs   Lazio"
+        },
+        {
+            "channel": "TV2 Sport Dansk HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11305 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
             "related_to": "     Genoa   vs   Lazio"
         },
         {
