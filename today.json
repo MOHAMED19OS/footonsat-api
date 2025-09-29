@@ -139,6 +139,22 @@
             "date": "2025-09-29"
         },
         {
+            "channel": "Al Kass 6 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10770 H 27500 - 3/4",
+            "encry": "HD Free To Air",
+            "link": "#",
+            "related_to": "     Nasaf Qarshi   vs   Al Hilal"
+        },
+        {
+            "channel": "Astro Football HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10932 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Nasaf Qarshi   vs   Al Hilal"
+        },
+        {
             "channel": "beIN Sports MENA 1 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 H 27500 - 2/3",
@@ -235,10 +251,42 @@
             "related_to": "     Nasaf Qarshi   vs   Al Hilal"
         },
         {
+            "channel": "Sport 3 Ukraine",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Nasaf Qarshi   vs   Al Hilal"
+        },
+        {
+            "channel": "Sport TV Uzbekistan",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "#",
+            "related_to": "     Nasaf Qarshi   vs   Al Hilal"
+        },
+        {
             "channel": "Sportdigital 1+ Deutsch HD",
             "sat": "Astra 1L 19.2\u00b0e",
             "freq": "11186 V 22000 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Nasaf Qarshi   vs   Al Hilal"
+        },
+        {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Nasaf Qarshi   vs   Al Hilal"
+        },
+        {
+            "channel": "SportKlub 3 Slovenija",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11231 V 42000 - 5/6",
+            "encry": "MPEG-4 NDS",
             "link": "#",
             "related_to": "     Nasaf Qarshi   vs   Al Hilal"
         },
@@ -325,6 +373,32 @@
             "encry": "HD Viaccess",
             "link": "#",
             "related_to": "     Metaloglobus   vs   Botosani"
+        },
+        {
+            "compet": "Greek Super League 1 - Week 5",
+            "match": "     Atromitos   vs   AEL Larissa",
+            "flags": {
+                "team1": "greece",
+                "team2": "greece"
+            },
+            "time": "15:00",
+            "date": "2025-09-29"
+        },
+        {
+            "channel": "SportKlub 4 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Atromitos   vs   AEL Larissa"
+        },
+        {
+            "channel": "SportKlub 4 Slovenija",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Atromitos   vs   AEL Larissa"
         },
         {
             "compet": "Polish Ekstraklasa - Week 10",
@@ -415,6 +489,22 @@
             "date": "2025-09-29"
         },
         {
+            "channel": "Al Kass 5 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10770 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "http://www.alkass.net/alkass/live.aspx?ch=five",
+            "related_to": "     Al Gharafa   vs   Al Shorta"
+        },
+        {
+            "channel": "Astro Arena Bola 2 HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10892 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Gharafa   vs   Al Shorta"
+        },
+        {
             "channel": "beIN Sports MENA 1 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 H 27500 - 2/3",
@@ -479,9 +569,49 @@
             "related_to": "     Al Gharafa   vs   Al Shorta"
         },
         {
+            "channel": "Sport 1 Baltic",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Gharafa   vs   Al Shorta"
+        },
+        {
             "channel": "Sport 1 Ukraine",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Gharafa   vs   Al Shorta"
+        },
+        {
+            "channel": "Sport 3 Ukraine",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Gharafa   vs   Al Shorta"
+        },
+        {
+            "channel": "Sport TV Uzbekistan",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "#",
+            "related_to": "     Al Gharafa   vs   Al Shorta"
+        },
+        {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Gharafa   vs   Al Shorta"
+        },
+        {
+            "channel": "SportKlub 5 Slovenija",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
             "encry": "",
             "link": "#",
             "related_to": "     Al Gharafa   vs   Al Shorta"
@@ -511,6 +641,22 @@
             },
             "time": "16:00",
             "date": "2025-09-29"
+        },
+        {
+            "channel": "Al Kass 6 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10770 H 27500 - 3/4",
+            "encry": "HD Free To Air",
+            "link": "#",
+            "related_to": "     Tractor Sazi   vs   Al Wahda"
+        },
+        {
+            "channel": "Astro Arena Bola HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10772 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Tractor Sazi   vs   Al Wahda"
         },
         {
             "channel": "beIN Sports MENA 2 HD",
@@ -553,6 +699,22 @@
             "related_to": "     Tractor Sazi   vs   Al Wahda"
         },
         {
+            "channel": "Futbol TV Uzbekistan",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "#",
+            "related_to": "     Tractor Sazi   vs   Al Wahda"
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Intelsat 39 62.0\u00b0e",
+            "freq": "11555 V 30000 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Tractor Sazi   vs   Al Wahda"
+        },
+        {
             "channel": "Persiana Sport HD",
             "sat": "MonacoSat 52.0\u00b0e",
             "freq": "10804 H 27500 - 2/3",
@@ -577,10 +739,34 @@
             "related_to": "     Tractor Sazi   vs   Al Wahda"
         },
         {
+            "channel": "Sport 2 Baltic",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Tractor Sazi   vs   Al Wahda"
+        },
+        {
             "channel": "Sport 2 Ukraine",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Tractor Sazi   vs   Al Wahda"
+        },
+        {
+            "channel": "SportKlub HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11595 V 30000 - 3/5",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Tractor Sazi   vs   Al Wahda"
+        },
+        {
+            "channel": "TV Start Triumph HD",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "11785 R 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess",
             "link": "#",
             "related_to": "     Tractor Sazi   vs   Al Wahda"
         },
@@ -727,6 +913,14 @@
             "related_to": "     Parma   vs   Torino"
         },
         {
+            "channel": "Astro Football HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10932 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Parma   vs   Torino"
+        },
+        {
             "channel": "Azam Sports 2 HD",
             "sat": "Eutelsat 7C 7.0\u00b0e",
             "freq": "10981 V 45000 - 5/6",
@@ -815,6 +1009,14 @@
             "related_to": "     Parma   vs   Torino"
         },
         {
+            "channel": "MAX Sport 3 Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12600 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Parma   vs   Torino"
+        },
+        {
             "channel": "MTV Katsomon+ ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -835,6 +1037,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Parma   vs   Torino"
+        },
+        {
+            "channel": "S Sport 2 T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11880 H 20000 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Parma   vs   Torino"
         },
@@ -947,6 +1157,22 @@
             "related_to": "     Besiktas   vs   Kocaelispor"
         },
         {
+            "channel": "SportKlub 2 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Besiktas   vs   Kocaelispor"
+        },
+        {
+            "channel": "SportKlub 3 Slovenija",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11231 V 42000 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Besiktas   vs   Kocaelispor"
+        },
+        {
             "compet": "T\u00fcrkiye 1. Lig - Week 8",
             "match": "     Sakaryaspor   vs   Sivasspor",
             "flags": {
@@ -1029,6 +1255,30 @@
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12304 H 30000 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Midtjylland   vs   Randers"
+        },
+        {
+            "channel": "ONE Sport Israel HD",
+            "sat": "Amos 3 4.0\u00b0w",
+            "freq": "10806 V 27500 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Midtjylland   vs   Randers"
+        },
+        {
+            "channel": "SportKlub 3 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Midtjylland   vs   Randers"
+        },
+        {
+            "channel": "SportKlub 4 Slovenija",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Midtjylland   vs   Randers"
         },
@@ -1269,6 +1519,24 @@
             "related_to": "     Oster   vs   IFK Gotenberg"
         },
         {
+            "compet": "Bulgarian First League - Week 10",
+            "match": "     Beroe   vs   Dobrudzha",
+            "flags": {
+                "team1": "bulgaria",
+                "team2": "bulgaria"
+            },
+            "time": "17:15",
+            "date": "2025-09-29"
+        },
+        {
+            "channel": "SportKlub 4 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Beroe   vs   Dobrudzha"
+        },
+        {
             "channel": "5 SPORT Israel HD",
             "sat": "Amos 3 4.0\u00b0w",
             "freq": "10806 V 27500 - 3/4",
@@ -1331,6 +1599,22 @@
             "date": "2025-09-29"
         },
         {
+            "channel": "Al Kass 5 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10770 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "http://www.alkass.net/alkass/live.aspx?ch=five",
+            "related_to": "     Al Duhail   vs   Al Ahli"
+        },
+        {
+            "channel": "Astro Arena Bola HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10772 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Duhail   vs   Al Ahli"
+        },
+        {
             "channel": "beIN Sports MENA 1 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 H 27500 - 2/3",
@@ -1360,6 +1644,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.fancode.com/rugby/schedule/upcoming",
+            "related_to": "     Al Duhail   vs   Al Ahli"
+        },
+        {
+            "channel": "Futbol TV Uzbekistan",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "#",
             "related_to": "     Al Duhail   vs   Al Ahli"
         },
         {
@@ -1395,10 +1687,34 @@
             "related_to": "     Al Duhail   vs   Al Ahli"
         },
         {
+            "channel": "Sport 1 Baltic",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Duhail   vs   Al Ahli"
+        },
+        {
             "channel": "Sport 1 Ukraine",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Al Duhail   vs   Al Ahli"
+        },
+        {
+            "channel": "Sport 3 Ukraine",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Duhail   vs   Al Ahli"
+        },
+        {
+            "channel": "SportKlub HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11595 V 30000 - 3/5",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Al Duhail   vs   Al Ahli"
         },
@@ -1479,6 +1795,14 @@
             "date": "2025-09-29"
         },
         {
+            "channel": "beIN Sports 3 HD (Astro)",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Legan\u00e9s   vs   Castell\u00f3n"
+        },
+        {
             "channel": "DAZN Espa\u00f1a ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1491,6 +1815,22 @@
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "10758 V 22000 - 5/6",
             "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Legan\u00e9s   vs   Castell\u00f3n"
+        },
+        {
+            "channel": "MAX Sport 2 Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "11475 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Legan\u00e9s   vs   Castell\u00f3n"
+        },
+        {
+            "channel": "ONE2 Sport Israel HD",
+            "sat": "Amos 7 4.0\u00b0w",
+            "freq": "11058 V 13750 - 5/6",
+            "encry": "VideoGuard",
             "link": "#",
             "related_to": "     Legan\u00e9s   vs   Castell\u00f3n"
         },
@@ -1627,6 +1967,14 @@
             "related_to": "     Genoa   vs   Lazio"
         },
         {
+            "channel": "Astro Football HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10932 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Genoa   vs   Lazio"
+        },
+        {
             "channel": "Azam Sports 3 HD",
             "sat": "Eutelsat 7C 7.0\u00b0e",
             "freq": "10981 V 45000 - 5/6",
@@ -1723,6 +2071,14 @@
             "related_to": "     Genoa   vs   Lazio"
         },
         {
+            "channel": "MAX Sport 3 Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12600 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Genoa   vs   Lazio"
+        },
+        {
             "channel": "MTV Katsomon+ ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -1751,6 +2107,14 @@
             "sat": "MonacoSat 52.0\u00b0e",
             "freq": "10804 H 27500 - 2/3",
             "encry": "FTA",
+            "link": "#",
+            "related_to": "     Genoa   vs   Lazio"
+        },
+        {
+            "channel": "S Sport 2 T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11880 H 20000 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Genoa   vs   Lazio"
         },
@@ -1883,6 +2247,14 @@
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12402 V 30000 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Everton   vs   West Ham United"
+        },
+        {
+            "channel": "Astro Grandstand HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10932 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Everton   vs   West Ham United"
         },
@@ -2201,6 +2573,14 @@
             "related_to": "     Valencia   vs   Real Oviedo"
         },
         {
+            "channel": "beIN Sports 1 HD (Astro)",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "11142 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Valencia   vs   Real Oviedo"
+        },
+        {
             "channel": "beIN Sports MENA 3 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 H 27500 - 2/3",
@@ -2313,6 +2693,14 @@
             "related_to": "     Valencia   vs   Real Oviedo"
         },
         {
+            "channel": "MAX Sport 4 Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "11475 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Valencia   vs   Real Oviedo"
+        },
+        {
             "channel": "MTV Katsomon+ ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -2333,6 +2721,14 @@
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11934 V 27500 - 3/4",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Valencia   vs   Real Oviedo"
+        },
+        {
+            "channel": "ONE Sport Israel HD",
+            "sat": "Amos 3 4.0\u00b0w",
+            "freq": "10806 V 27500 - 3/4",
+            "encry": "VideoGuard",
             "link": "#",
             "related_to": "     Valencia   vs   Real Oviedo"
         },
@@ -2358,6 +2754,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": "     Valencia   vs   Real Oviedo"
+        },
+        {
+            "channel": "S Sport 1 T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "12188 V 27500 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
             "related_to": "     Valencia   vs   Real Oviedo"
         },
         {
@@ -2531,11 +2935,43 @@
             "related_to": "     Arouca   vs   FC Porto"
         },
         {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Arouca   vs   FC Porto"
+        },
+        {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Arouca   vs   FC Porto"
+        },
+        {
+            "channel": "SportKlub 2 Slovenija",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11387 H 32000 - 3/4",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Arouca   vs   FC Porto"
+        },
+        {
             "channel": "Thriller TV+ [online] ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.trillertv.com/join/trillertv-subscription/",
+            "related_to": "     Arouca   vs   FC Porto"
+        },
+        {
+            "channel": "TV Start Triumph HD",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "11785 R 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess",
+            "link": "#",
             "related_to": "     Arouca   vs   FC Porto"
         },
         {
