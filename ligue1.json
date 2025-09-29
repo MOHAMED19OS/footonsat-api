@@ -694,6 +694,32 @@
         },
         {
             "compet": "French Ligue 1 - Week 11",
+            "match": "     Paris St Germain   vs   Nice",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "16:00",
+            "date": "2025-11-01"
+        },
+        {
+            "channel": "beIN Connect France",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://connect.beinsports.com/france/",
+            "related_to": "     Paris St Germain   vs   Nice"
+        },
+        {
+            "channel": "beIN Sports France 1 HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Nice"
+        },
+        {
+            "compet": "French Ligue 1 - Week 11",
             "match": "     Monaco   vs   Paris FC",
             "flags": {
                 "team1": "france",
