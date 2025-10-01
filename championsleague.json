@@ -11,6 +11,14 @@
             "date": "2025-10-01"
         },
         {
+            "channel": "4 Sports HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
+            "related_to": "     Union St Gilloise   vs   Newcastle United"
+        },
+        {
             "channel": "Arena Premium 1 BiH HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "0000 0",
@@ -525,6 +533,14 @@
             },
             "time": "19:00",
             "date": "2025-10-01"
+        },
+        {
+            "channel": "4 Sports HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
+            "related_to": "     Arsenal   vs   Olympiacos"
         },
         {
             "channel": "Arena Sport 2 BiH HD",
@@ -1099,6 +1115,14 @@
             "related_to": "     Barcelona   vs   Paris St Germain"
         },
         {
+            "channel": "Meraj TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11221 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Paris St Germain"
+        },
+        {
             "channel": "MTV Katsomon+ ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -1119,6 +1143,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Paris St Germain"
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Barcelona   vs   Paris St Germain"
         },
@@ -1175,6 +1207,14 @@
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "12073 V 29900 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Paris St Germain"
+        },
+        {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Barcelona   vs   Paris St Germain"
         },
@@ -1271,6 +1311,14 @@
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12129 V 29900 - 3/4",
             "encry": "MPEG-4 Viaccess",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Paris St Germain"
+        },
+        {
+            "channel": "Zor TV Uzbekistan",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix",
             "link": "#",
             "related_to": "     Barcelona   vs   Paris St Germain"
         },
@@ -2112,32 +2160,6 @@
         },
         {
             "compet": "UEFA Champions League - Matchday 3",
-            "match": "     Villarreal   vs   Manchester City",
-            "flags": {
-                "team1": "spain",
-                "team2": "england"
-            },
-            "time": "19:00",
-            "date": "2025-10-21"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "     Villarreal   vs   Manchester City"
-        },
-        {
-            "channel": "TNT Sports 1 HD",
-            "sat": "NSS 12 57.0\u00b0e",
-            "freq": "3798 R 19167 - 3/5",
-            "encry": "Irdeto [c]",
-            "link": "#",
-            "related_to": "     Villarreal   vs   Manchester City"
-        },
-        {
-            "compet": "UEFA Champions League - Matchday 3",
             "match": "     Newcastle United   vs   Benfica",
             "flags": {
                 "team1": "england",
@@ -2247,6 +2269,32 @@
             "encry": "VideoGuard",
             "link": "#",
             "related_to": "     FC Copenhagen   vs   Borussia Dortmund"
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 3",
+            "match": "     Villarreal   vs   Manchester City",
+            "flags": {
+                "team1": "spain",
+                "team2": "england"
+            },
+            "time": "19:00",
+            "date": "2025-10-21"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "     Villarreal   vs   Manchester City"
+        },
+        {
+            "channel": "TNT Sports 1 HD",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "3798 R 19167 - 3/5",
+            "encry": "Irdeto [c]",
+            "link": "#",
+            "related_to": "     Villarreal   vs   Manchester City"
         },
         {
             "compet": "UEFA Champions League - Matchday 3",
