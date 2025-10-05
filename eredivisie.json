@@ -251,6 +251,14 @@
             "related_to": "     PSV Eindhoven   vs   Go Ahead Eagles"
         },
         {
+            "channel": "Thriller TV+ [online] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.trillertv.com/join/trillertv-subscription/",
+            "related_to": "     PSV Eindhoven   vs   Go Ahead Eagles"
+        },
+        {
             "compet": "Dutch Eredivisie - Week 9",
             "match": "     Ajax   vs   AZ Alkmaar",
             "flags": {
@@ -335,6 +343,40 @@
             "encry": "",
             "link": "https://www.premiersports.com/fr/live-now-on-demand",
             "related_to": "     Feyenoord   vs   PSV Eindhoven"
+        },
+        {
+            "compet": "Dutch Eredivisie - Week 11",
+            "match": "     PSV Eindhoven   vs   Fortuna Sittard",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "19:00",
+            "date": "2025-10-31"
+        },
+        {
+            "channel": "Premier Sports 2 Ireland HD",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12188 H 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     PSV Eindhoven   vs   Fortuna Sittard"
+        },
+        {
+            "channel": "Premier Sports 2 UK HD",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11671 H 23000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     PSV Eindhoven   vs   Fortuna Sittard"
+        },
+        {
+            "channel": "Premier Sports GB Player HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": "     PSV Eindhoven   vs   Fortuna Sittard"
         }
     ]
 }
