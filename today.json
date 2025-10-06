@@ -283,6 +283,22 @@
             "related_to": "     Cultural Leonesa   vs   Albacete"
         },
         {
+            "channel": "Megogo Futbol 1 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
+            "related_to": "     Cultural Leonesa   vs   Albacete"
+        },
+        {
+            "channel": "Megogo Sport Ukraine HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12285 V 30000 - 2/3",
+            "encry": "FTA",
+            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
+            "related_to": "     Cultural Leonesa   vs   Albacete"
+        },
+        {
             "compet": "English League Two - Week 11",
             "match": "     Harrogate Town   vs   Crewe Alexandra",
             "flags": {
@@ -307,6 +323,32 @@
             "encry": "MPEG-4 NDS",
             "link": "#",
             "related_to": "     Harrogate Town   vs   Crewe Alexandra"
+        },
+        {
+            "compet": "Uruguay Primera Divisi\u00f3n - Clausura - 10",
+            "match": "     Defensor Sporting   vs   Wanderers",
+            "flags": {
+                "team1": "uraguay",
+                "team2": "uraguay"
+            },
+            "time": "22:00",
+            "date": "2025-10-06"
+        },
+        {
+            "channel": "GolTV Play ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://play.goltv.tv/",
+            "related_to": "     Defensor Sporting   vs   Wanderers"
+        },
+        {
+            "channel": "viju+ Sport HD",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "10720 H 30000 - 3/4",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Defensor Sporting   vs   Wanderers"
         }
     ]
 }
