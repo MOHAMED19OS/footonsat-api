@@ -20,6 +20,24 @@
         },
         {
             "compet": "French Ligue 1 - Week 8",
+            "match": "     Nice   vs   Lyon",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "15:00",
+            "date": "2025-10-18"
+        },
+        {
+            "channel": "5 PLUS Israel HD",
+            "sat": "Amos 3 4.0\u00b0w",
+            "freq": "10806 V 27500 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Nice   vs   Lyon"
+        },
+        {
+            "compet": "French Ligue 1 - Week 8",
             "match": "     Angers   vs   Monaco",
             "flags": {
                 "team1": "france",
@@ -45,6 +63,14 @@
             },
             "time": "19:05",
             "date": "2025-10-18"
+        },
+        {
+            "channel": "5 PLUS Israel HD",
+            "sat": "Amos 3 4.0\u00b0w",
+            "freq": "10806 V 27500 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Marseille   vs   Le Havre"
         },
         {
             "channel": "Ligue 1+ ($/geo/R)",
