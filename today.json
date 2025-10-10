@@ -41,7 +41,7 @@
                 "team1": "sthsudan",
                 "team2": "senegal"
             },
-            "time": "12:00",
+            "time": "13:00",
             "date": "2025-10-10"
         },
         {
@@ -66,6 +66,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://lequipe.fr/",
+            "related_to": "     South Sudan   vs   Senegal"
+        },
+        {
+            "channel": "New World Sport 2 Mauritius",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
             "related_to": "     South Sudan   vs   Senegal"
         },
         {
@@ -143,6 +151,14 @@
             "related_to": "     Gambia   vs   Gabon"
         },
         {
+            "channel": "New World Sport 4 Togo",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Gambia   vs   Gabon"
+        },
+        {
             "channel": "SportKlub 1 Slovenija HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11471 H 30000 - 3/4",
@@ -198,6 +214,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://lequipe.fr/",
+            "related_to": "     Seychelles   vs   Ivory Coast"
+        },
+        {
+            "channel": "New World Sport 3 Togo",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
             "related_to": "     Seychelles   vs   Ivory Coast"
         },
         {
@@ -266,6 +290,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://lequipe.fr/",
+            "related_to": "     Togo   vs   Congo DR"
+        },
+        {
+            "channel": "New World Sport 1 Mauritius",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
             "related_to": "     Togo   vs   Congo DR"
         },
         {
@@ -933,6 +965,14 @@
             "related_to": "     S\u00e3o Tom\u00e9 & Pr\u00edncipe   vs   Tunisia"
         },
         {
+            "channel": "Watania 1 HD",
+            "sat": "Badr 4 26.0\u00b0e",
+            "freq": "12643 H 27500 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     S\u00e3o Tom\u00e9 & Pr\u00edncipe   vs   Tunisia"
+        },
+        {
             "compet": "FIFA/CAF WC 2026 Qualifiers - Group C, Round 9",
             "match": "     Zimbabwe   vs   South Africa",
             "flags": {
@@ -1175,6 +1215,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Inter Milan   vs   Atl\u00e9tico Madrid"
+        },
+        {
+            "channel": "Libya Sport TV1 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "12360 V 27500 - 5/6",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Inter Milan   vs   Atl\u00e9tico Madrid"
         },
@@ -2713,7 +2761,7 @@
             "related_to": "     Germany   vs   Luxembourg"
         },
         {
-            "channel": "ART Motion Sport 2 HD",
+            "channel": "ART Motion Sport 3 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
@@ -3131,6 +3179,14 @@
             "related_to": "     France   vs   Azerbaijan"
         },
         {
+            "channel": "ART Motion Sport 2 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "     France   vs   Azerbaijan"
+        },
+        {
             "channel": "beIN Sports MENA 1 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 H 27500 - 2/3",
@@ -3327,6 +3383,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     France   vs   Azerbaijan"
+        },
+        {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     France   vs   Azerbaijan"
         },
