@@ -1717,6 +1717,14 @@
             "related_to": "     Zambia   vs   Niger"
         },
         {
+            "channel": "MBC 5",
+            "sat": "NigComSat 1R 42.5\u00b0e",
+            "freq": "12589 H 26250 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Zambia   vs   Niger"
+        },
+        {
             "channel": "New World Sport 1 Mauritius",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "12562 H 30000 - 2/3",
@@ -5171,6 +5179,14 @@
             "related_to": "     Lithuania   vs   Poland"
         },
         {
+            "channel": "TVP Sport Polska HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "10834 V 27500 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Lithuania   vs   Poland"
+        },
+        {
             "channel": "UEFA.TV [online] (geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -5326,6 +5342,22 @@
             "freq": "0000 0",
             "encry": "-",
             "link": "https://www.fifa.com/fifaplus/en/live",
+            "related_to": "     Egypt   vs   Guinea-Bissau"
+        },
+        {
+            "channel": "MBC Masr 2 HD",
+            "sat": "Badr 7 26.0\u00b0e",
+            "freq": "11270 V 27500 - 5/6",
+            "encry": "BISS",
+            "link": "#",
+            "related_to": "     Egypt   vs   Guinea-Bissau"
+        },
+        {
+            "channel": "ON Sport 1 HD",
+            "sat": "Eutelsat 7 West A 7.0\u00b0w",
+            "freq": "11862 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "     Egypt   vs   Guinea-Bissau"
         },
         {
