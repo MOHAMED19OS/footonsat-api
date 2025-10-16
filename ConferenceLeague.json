@@ -11,6 +11,14 @@
             "date": "2025-10-23"
         },
         {
+            "channel": "beIN Sports MENA English 2 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "11390 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     AEK Athens   vs   Aberdeen"
+        },
+        {
             "channel": "Discovery+ UK ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -205,6 +213,14 @@
             "date": "2025-10-23"
         },
         {
+            "channel": "beIN Sports MENA English 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   AEK Larnaca"
+        },
+        {
             "channel": "Discovery+ UK ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -219,6 +235,74 @@
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Crystal Palace   vs   AEK Larnaca"
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 2",
+            "match": "     Mainz 05   vs   Zrinjski",
+            "flags": {
+                "team1": "germany",
+                "team2": "bosnia"
+            },
+            "time": "19:00",
+            "date": "2025-10-23"
+        },
+        {
+            "channel": "beIN Sports MENA English 2 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "11390 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Mainz 05   vs   Zrinjski"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "     Mainz 05   vs   Zrinjski"
+        },
+        {
+            "channel": "RTL+ Deutschland (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://plus.rtl.de/video-tv/live",
+            "related_to": "     Mainz 05   vs   Zrinjski"
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 2",
+            "match": "     Samsunspor   vs   Dynamo Kyiv",
+            "flags": {
+                "team1": "turkey",
+                "team2": "ukraine"
+            },
+            "time": "19:00",
+            "date": "2025-10-23"
+        },
+        {
+            "channel": "beIN Sports MENA Xtra 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Samsunspor   vs   Dynamo Kyiv"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "     Samsunspor   vs   Dynamo Kyiv"
+        },
+        {
+            "channel": "TRT 1 T\u00fcrkiye HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11054 V 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "https://www.trtizle.com/canli/tv/trt-1",
+            "related_to": "     Samsunspor   vs   Dynamo Kyiv"
         },
         {
             "compet": "UEFA Conference League - Matchday 2",
@@ -273,58 +357,6 @@
             "encry": "",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
             "related_to": "     Lincoln Red Imps   vs   Lech Poznan"
-        },
-        {
-            "compet": "UEFA Conference League - Matchday 2",
-            "match": "     Mainz 05   vs   Zrinjski",
-            "flags": {
-                "team1": "germany",
-                "team2": "bosnia"
-            },
-            "time": "19:00",
-            "date": "2025-10-23"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "     Mainz 05   vs   Zrinjski"
-        },
-        {
-            "channel": "RTL+ Deutschland (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://plus.rtl.de/video-tv/live",
-            "related_to": "     Mainz 05   vs   Zrinjski"
-        },
-        {
-            "compet": "UEFA Conference League - Matchday 2",
-            "match": "     Samsunspor   vs   Dynamo Kyiv",
-            "flags": {
-                "team1": "turkey",
-                "team2": "ukraine"
-            },
-            "time": "19:00",
-            "date": "2025-10-23"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "     Samsunspor   vs   Dynamo Kyiv"
-        },
-        {
-            "channel": "TRT 1 T\u00fcrkiye HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11054 V 30000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "https://www.trtizle.com/canli/tv/trt-1",
-            "related_to": "     Samsunspor   vs   Dynamo Kyiv"
         },
         {
             "compet": "UEFA Conference League - Matchday 2",
