@@ -237,6 +237,14 @@
             "related_to": "     Pisa   vs   Hellas Verona"
         },
         {
+            "channel": "Sport 1 Czechia HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "12070 H 27500 - 3/4",
+            "encry": "HD CryptoWorks",
+            "link": "#",
+            "related_to": "     Pisa   vs   Hellas Verona"
+        },
+        {
             "channel": "Tring Sport 2 HD",
             "sat": "Hellas Sat 4 39.0\u00b0e",
             "freq": "10890 H 30000 - 5/6",
@@ -407,6 +415,14 @@
             "related_to": "     Torino   vs   Napoli"
         },
         {
+            "channel": "Polsat Sport Premium 1 HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11117 V 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Torino   vs   Napoli"
+        },
+        {
             "channel": "S Sport 2 T\u00fcrkiye HD",
             "sat": "Turksat 4A 42.0\u00b0e",
             "freq": "11880 H 20000 - 3/4",
@@ -427,6 +443,14 @@
             "sat": "KazSat 3 58.5\u00b0e",
             "freq": "12657 V 45000 - 3/4",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Torino   vs   Napoli"
+        },
+        {
+            "channel": "Sport 1 Czechia HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "12070 H 27500 - 3/4",
+            "encry": "HD CryptoWorks",
             "link": "#",
             "related_to": "     Torino   vs   Napoli"
         },
@@ -685,6 +709,14 @@
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "11958 V 27500 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Roma   vs   Inter Milan"
+        },
+        {
+            "channel": "Sport 1 Czechia HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "12070 H 27500 - 3/4",
+            "encry": "HD CryptoWorks",
             "link": "#",
             "related_to": "     Roma   vs   Inter Milan"
         },
@@ -963,6 +995,14 @@
             "related_to": "     Como   vs   Juventus"
         },
         {
+            "channel": "Sport 2 Czechia HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "12090 V 29900 - 2/3",
+            "encry": "HD CryptoWorks",
+            "link": "#",
+            "related_to": "     Como   vs   Juventus"
+        },
+        {
             "channel": "Tring Sport 1 HD",
             "sat": "Hellas Sat 4 39.0\u00b0e",
             "freq": "10890 H 30000 - 5/6",
@@ -1137,6 +1177,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Cagliari   vs   Bologna"
+        },
+        {
+            "channel": "Sport 2 Czechia HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "12090 V 29900 - 2/3",
+            "encry": "HD CryptoWorks",
             "link": "#",
             "related_to": "     Cagliari   vs   Bologna"
         },
@@ -1457,6 +1505,14 @@
             "related_to": "     Atalanta   vs   Lazio"
         },
         {
+            "channel": "Polsat Sport Premium 2 HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11117 V 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Atalanta   vs   Lazio"
+        },
+        {
             "channel": "S Sport 2 T\u00fcrkiye HD",
             "sat": "Turksat 4A 42.0\u00b0e",
             "freq": "11880 H 20000 - 3/4",
@@ -1493,6 +1549,14 @@
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "12073 V 29900 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Atalanta   vs   Lazio"
+        },
+        {
+            "channel": "Sport 2 Czechia HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "12090 V 29900 - 2/3",
+            "encry": "HD CryptoWorks",
             "link": "#",
             "related_to": "     Atalanta   vs   Lazio"
         },
@@ -1719,6 +1783,14 @@
             "sat": "KazSat 3 58.5\u00b0e",
             "freq": "12657 V 45000 - 3/4",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     AC Milan   vs   Fiorentina"
+        },
+        {
+            "channel": "Sport 2 Czechia HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "12090 V 29900 - 2/3",
+            "encry": "HD CryptoWorks",
             "link": "#",
             "related_to": "     AC Milan   vs   Fiorentina"
         },
@@ -2117,10 +2189,26 @@
             "related_to": "     Napoli   vs   Inter Milan"
         },
         {
+            "channel": "Discovery+ UK ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "     Napoli   vs   Inter Milan"
+        },
+        {
             "channel": "S Sport+ Streaming",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Napoli   vs   Inter Milan"
+        },
+        {
+            "channel": "TNT Sports 1 HD",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "3798 R 19167 - 3/5",
+            "encry": "Irdeto [c]",
             "link": "#",
             "related_to": "     Napoli   vs   Inter Milan"
         },
@@ -2457,10 +2545,26 @@
             "related_to": "     Lazio   vs   Juventus"
         },
         {
+            "channel": "Discovery+ UK ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "     Lazio   vs   Juventus"
+        },
+        {
             "channel": "S Sport+ Streaming",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Lazio   vs   Juventus"
+        },
+        {
+            "channel": "TNT Sports 1 HD",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "3798 R 19167 - 3/5",
+            "encry": "Irdeto [c]",
             "link": "#",
             "related_to": "     Lazio   vs   Juventus"
         },
@@ -2507,10 +2611,26 @@
             "related_to": "     Lecce   vs   Napoli"
         },
         {
+            "channel": "Discovery+ UK ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "     Lecce   vs   Napoli"
+        },
+        {
             "channel": "S Sport+ Streaming",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Lecce   vs   Napoli"
+        },
+        {
+            "channel": "TNT Sports 1 HD",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "3798 R 19167 - 3/5",
+            "encry": "Irdeto [c]",
             "link": "#",
             "related_to": "     Lecce   vs   Napoli"
         },
@@ -2557,10 +2677,26 @@
             "related_to": "     Atalanta   vs   AC Milan"
         },
         {
+            "channel": "Discovery+ UK ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "     Atalanta   vs   AC Milan"
+        },
+        {
             "channel": "S Sport+ Streaming",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Atalanta   vs   AC Milan"
+        },
+        {
+            "channel": "TNT Sports 1 HD",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "3798 R 19167 - 3/5",
+            "encry": "Irdeto [c]",
             "link": "#",
             "related_to": "     Atalanta   vs   AC Milan"
         },
@@ -3493,6 +3629,32 @@
             "encry": "",
             "link": "https://www.dazn.com/en-IE/home",
             "related_to": "     Sassuolo   vs   Pisa"
+        },
+        {
+            "compet": "Italian Serie A - Week 22",
+            "match": "     Lecce   vs   Lazio",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "19:45",
+            "date": "2025-01-24"
+        },
+        {
+            "channel": "DAZN Great Britain (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "     Lecce   vs   Lazio"
+        },
+        {
+            "channel": "DAZN Ireland ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "     Lecce   vs   Lazio"
         }
     ]
 }
