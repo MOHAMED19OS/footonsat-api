@@ -374,104 +374,6 @@
         },
         {
             "compet": "German 2. Bundesliga - Week 9",
-            "match": "     Fortuna D\u00fcsseldorf   vs   Braunschweig",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "16:30",
-            "date": "2025-10-17"
-        },
-        {
-            "channel": "ESPN+ USA ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Fortuna D\u00fcsseldorf   vs   Braunschweig"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     Fortuna D\u00fcsseldorf   vs   Braunschweig"
-        },
-        {
-            "channel": "Sky Sport Bundesliga 4 HD",
-            "sat": "Astra 1N 19.2\u00b0e",
-            "freq": "12032 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Fortuna D\u00fcsseldorf   vs   Braunschweig"
-        },
-        {
-            "channel": "Sport 1 Israel HD",
-            "sat": "Amos 7 4.0\u00b0w",
-            "freq": "11474 V 27500 - 3/4",
-            "encry": "VideoGuard",
-            "link": "#",
-            "related_to": "     Fortuna D\u00fcsseldorf   vs   Braunschweig"
-        },
-        {
-            "channel": "Tivibu Spor 3 HD",
-            "sat": "Turksat 4A 42.0\u00b0e",
-            "freq": "11880 H 20000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Fortuna D\u00fcsseldorf   vs   Braunschweig"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Fortuna D\u00fcsseldorf   vs   Braunschweig"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Fortuna D\u00fcsseldorf   vs   Braunschweig"
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Fortuna D\u00fcsseldorf   vs   Braunschweig"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Fortuna D\u00fcsseldorf   vs   Braunschweig"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Fortuna D\u00fcsseldorf   vs   Braunschweig"
-        },
-        {
-            "channel": "YouTube: German Football (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.youtube.com/@GermanFootball/streams",
-            "related_to": "     Fortuna D\u00fcsseldorf   vs   Braunschweig"
-        },
-        {
-            "compet": "German 2. Bundesliga - Week 9",
             "match": "     Hannover 96   vs   Schalke 04",
             "flags": {
                 "team1": "germany",
@@ -489,10 +391,26 @@
             "related_to": "     Hannover 96   vs   Schalke 04"
         },
         {
+            "channel": "Diema Sport 2 HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12137 V 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Hannover 96   vs   Schalke 04"
+        },
+        {
             "channel": "ESPN+ USA ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Hannover 96   vs   Schalke 04"
+        },
+        {
+            "channel": "Nova Sport 4 Czech HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11934 V 27500 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Hannover 96   vs   Schalke 04"
         },
@@ -591,6 +509,120 @@
             "encry": "",
             "link": "https://www.youtube.com/@GermanFootball/streams",
             "related_to": "     Hannover 96   vs   Schalke 04"
+        },
+        {
+            "compet": "German 2. Bundesliga - Week 9",
+            "match": "     Fortuna D\u00fcsseldorf   vs   Braunschweig",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "16:30",
+            "date": "2025-10-17"
+        },
+        {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Fortuna D\u00fcsseldorf   vs   Braunschweig"
+        },
+        {
+            "channel": "Nova Sport 6 Czech HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12090 V 29900 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Fortuna D\u00fcsseldorf   vs   Braunschweig"
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12560 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Fortuna D\u00fcsseldorf   vs   Braunschweig"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     Fortuna D\u00fcsseldorf   vs   Braunschweig"
+        },
+        {
+            "channel": "Sky Sport Bundesliga 4 HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12032 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Fortuna D\u00fcsseldorf   vs   Braunschweig"
+        },
+        {
+            "channel": "Sport 1 Israel HD",
+            "sat": "Amos 7 4.0\u00b0w",
+            "freq": "11474 V 27500 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Fortuna D\u00fcsseldorf   vs   Braunschweig"
+        },
+        {
+            "channel": "Tivibu Spor 3 HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11880 H 20000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Fortuna D\u00fcsseldorf   vs   Braunschweig"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Fortuna D\u00fcsseldorf   vs   Braunschweig"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Fortuna D\u00fcsseldorf   vs   Braunschweig"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Fortuna D\u00fcsseldorf   vs   Braunschweig"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Fortuna D\u00fcsseldorf   vs   Braunschweig"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Fortuna D\u00fcsseldorf   vs   Braunschweig"
+        },
+        {
+            "channel": "YouTube: German Football (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.youtube.com/@GermanFootball/streams",
+            "related_to": "     Fortuna D\u00fcsseldorf   vs   Braunschweig"
         },
         {
             "compet": "Danish 1. Division - Week 13",
@@ -1039,6 +1071,30 @@
             "related_to": "     Union Berlin   vs   M\u00f6nchengladbach"
         },
         {
+            "channel": "Nova Sport 3 Czech HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11934 V 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Union Berlin   vs   M\u00f6nchengladbach"
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12560 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Union Berlin   vs   M\u00f6nchengladbach"
+        },
+        {
+            "channel": "Nova Sports 3 Cyprus HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11823 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Union Berlin   vs   M\u00f6nchengladbach"
+        },
+        {
             "channel": "Okko Futbol HD ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -1115,6 +1171,14 @@
             "sat": "Amos 7 4.0\u00b0w",
             "freq": "11474 V 27500 - 3/4",
             "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Union Berlin   vs   M\u00f6nchengladbach"
+        },
+        {
+            "channel": "SporTV Brazil HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Union Berlin   vs   M\u00f6nchengladbach"
         },
@@ -1241,11 +1305,27 @@
             "related_to": "     Andorra   vs   Granada"
         },
         {
+            "channel": "Megogo Futbol 3 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Andorra   vs   Granada"
+        },
+        {
             "channel": "Premier Sports GB Player HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": "     Andorra   vs   Granada"
+        },
+        {
+            "channel": "Silk Universal HD",
+            "sat": "Astra 5B 31.5\u00b0e",
+            "freq": "12207 V 27500 - 5/6",
+            "encry": "MPEG-4 Bulcrypt",
+            "link": "#",
             "related_to": "     Andorra   vs   Granada"
         },
         {
@@ -1393,10 +1473,26 @@
             "related_to": "     Paris St Germain   vs   Strasbourg"
         },
         {
+            "channel": "Cablenet Sports 2 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Strasbourg"
+        },
+        {
             "channel": "DAZN 1 Bar Deutsch HD",
             "sat": "Astra 1N 19.2\u00b0e",
             "freq": "12070 H 27500 - 9/10",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Strasbourg"
+        },
+        {
+            "channel": "Diema Sport 3 HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto",
             "link": "#",
             "related_to": "     Paris St Germain   vs   Strasbourg"
         },
@@ -1422,6 +1518,22 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://plus.ligue1.com/home",
+            "related_to": "     Paris St Germain   vs   Strasbourg"
+        },
+        {
+            "channel": "Megogo Futbol 1 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
+            "related_to": "     Paris St Germain   vs   Strasbourg"
+        },
+        {
+            "channel": "Nova Sport 4 Czech HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11934 V 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
             "related_to": "     Paris St Germain   vs   Strasbourg"
         },
         {
@@ -1485,6 +1597,22 @@
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "10845 H 30000 - 3/5",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Strasbourg"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 360",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12130 H 27500 - 2/3",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Strasbourg"
+        },
+        {
+            "channel": "SuperSport Variety 4 HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11170 H 30000 - 5/6",
+            "encry": "Irdeto",
             "link": "#",
             "related_to": "     Paris St Germain   vs   Strasbourg"
         },
@@ -1957,6 +2085,22 @@
             "related_to": "     Middlesbrough   vs   Ipswich Town"
         },
         {
+            "channel": "Diema Sport 2 HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12137 V 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Middlesbrough   vs   Ipswich Town"
+        },
+        {
+            "channel": "ESPN 2 Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "3980 L 21600 - 3/4",
+            "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     Middlesbrough   vs   Ipswich Town"
+        },
+        {
             "channel": "Futbol TV Tajikistan",
             "sat": "ABS 2A 75.0\u00b0e",
             "freq": "12252 H 10000 - 3/4",
@@ -2045,6 +2189,22 @@
             "related_to": "     Middlesbrough   vs   Ipswich Town"
         },
         {
+            "channel": "SuperSport M\u00e1Ximo 2A HD",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12169 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Middlesbrough   vs   Ipswich Town"
+        },
+        {
+            "channel": "SuperSport Premier League HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11554 V 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Middlesbrough   vs   Ipswich Town"
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2095,6 +2255,14 @@
             "date": "2025-10-17"
         },
         {
+            "channel": "ART Motion Sport 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "     Real Oviedo   vs   Espanyol"
+        },
+        {
             "channel": "Azam Sports 4 HD",
             "sat": "Eutelsat 7C 7.0\u00b0e",
             "freq": "10981 V 45000 - 5/6",
@@ -2127,6 +2295,14 @@
             "related_to": "     Real Oviedo   vs   Espanyol"
         },
         {
+            "channel": "Cytavision Sports 7 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Real Oviedo   vs   Espanyol"
+        },
+        {
             "channel": "DAZN Espa\u00f1a ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2155,6 +2331,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Real Oviedo   vs   Espanyol"
+        },
+        {
+            "channel": "ESPN 3 Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "3980 L 21600 - 3/4",
+            "encry": "HD PowerVu",
             "link": "#",
             "related_to": "     Real Oviedo   vs   Espanyol"
         },
@@ -2223,6 +2407,30 @@
             "related_to": "     Real Oviedo   vs   Espanyol"
         },
         {
+            "channel": "M+ LaLiga HDR",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Real Oviedo   vs   Espanyol"
+        },
+        {
+            "channel": "MAX Sport 4 Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "11475 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Real Oviedo   vs   Espanyol"
+        },
+        {
+            "channel": "Megogo Futbol 2 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Real Oviedo   vs   Espanyol"
+        },
+        {
             "channel": "Megogo Sport Ukraine HD",
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12285 V 30000 - 2/3",
@@ -2243,6 +2451,14 @@
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "12604 H 30000 - 3/4",
             "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Real Oviedo   vs   Espanyol"
+        },
+        {
+            "channel": "Nova Sport 5 Czech HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11954 H 29900 - 2/3",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Real Oviedo   vs   Espanyol"
         },
@@ -2279,6 +2495,14 @@
             "related_to": "     Real Oviedo   vs   Espanyol"
         },
         {
+            "channel": "Silk Sport 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Real Oviedo   vs   Espanyol"
+        },
+        {
             "channel": "ST Sports Premium HD",
             "sat": "Belintersat 1 51.5\u00b0e",
             "freq": "11098 H 16665 - 1/2",
@@ -2291,6 +2515,30 @@
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "10845 H 30000 - 3/5",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Real Oviedo   vs   Espanyol"
+        },
+        {
+            "channel": "SuperSport LaLiga HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11554 V 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Real Oviedo   vs   Espanyol"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 1 HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Real Oviedo   vs   Espanyol"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 3A HD",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12169 V 27500 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Real Oviedo   vs   Espanyol"
         },
@@ -2382,6 +2630,22 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "     Le Havre   vs   St Etienne"
+        },
+        {
+            "channel": "Nova Sport 2 Czech HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11973 V 29900 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Le Havre   vs   St Etienne"
+        },
+        {
+            "channel": "SuperSport Variety 3 HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11170 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
             "related_to": "     Le Havre   vs   St Etienne"
         }
     ]
