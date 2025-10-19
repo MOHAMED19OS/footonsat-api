@@ -2,6 +2,42 @@
     "footonsat": [
         {
             "compet": "Saudi Professional League - Week 5",
+            "match": "     Al Khaleej   vs   Al Riyadh",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "14:45",
+            "date": "2025-10-19"
+        },
+        {
+            "channel": "SporTV Brazil HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Al Khaleej   vs   Al Riyadh"
+        },
+        {
+            "compet": "Saudi Professional League - Week 5",
+            "match": "     Al Taawoun   vs   Damac FC",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "15:10",
+            "date": "2025-10-19"
+        },
+        {
+            "channel": "Band Sports Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "11680 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Taawoun   vs   Damac FC"
+        },
+        {
+            "compet": "Saudi Professional League - Week 5",
             "match": "     NEOM SC   vs   Al Qadisiyah",
             "flags": {
                 "team1": "saudiarabia",
@@ -43,6 +79,14 @@
             "related_to": "     NEOM SC   vs   Al Qadisiyah"
         },
         {
+            "channel": "Sport TV6 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     NEOM SC   vs   Al Qadisiyah"
+        },
+        {
             "channel": "Sportdigital FUSSBALL HD",
             "sat": "Astra 1L 19.2\u00b0e",
             "freq": "11186 V 22000 - 2/3",
@@ -79,6 +123,14 @@
             "sat": "Eutelsat 10B 10.0\u00b0e",
             "freq": "3736 R 07307 - 5/6",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     NEOM SC   vs   Al Qadisiyah"
+        },
+        {
+            "channel": "SuperSport ESPN HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
             "link": "#",
             "related_to": "     NEOM SC   vs   Al Qadisiyah"
         },
