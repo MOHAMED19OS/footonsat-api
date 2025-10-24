@@ -139,6 +139,14 @@
             "related_to": "     Erzurumspor   vs   Umraniyespor"
         },
         {
+            "channel": "5 LIVE Israel HD",
+            "sat": "Amos 7 4.0\u00b0w",
+            "freq": "11030 V 27500 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Ironi Modi'in   vs   Bnei Yehuda"
+        },
+        {
             "compet": "Romanian Superliga - Week 14",
             "match": "     Csikszereda   vs   Petrolul",
             "flags": {
@@ -737,6 +745,24 @@
             "related_to": "     Wacker Burghausen   vs   W\u00fcrzburger Kickers"
         },
         {
+            "compet": "Danish Superliga - Week 13",
+            "match": "     AGF \u00c5rhus   vs   Nordsj\u00e6lland",
+            "flags": {
+                "team1": "denmark",
+                "team2": "denmark"
+            },
+            "time": "17:00",
+            "date": "2025-10-24"
+        },
+        {
+            "channel": "ONE Sport Israel HD",
+            "sat": "Amos 3 4.0\u00b0w",
+            "freq": "10806 V 27500 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     AGF \u00c5rhus   vs   Nordsj\u00e6lland"
+        },
+        {
             "compet": "Romanian Superliga - Week 14",
             "match": "     Arges   vs   Dinamo Bucharest",
             "flags": {
@@ -979,6 +1005,14 @@
             "related_to": "     Al Ittihad   vs   Al Hilal"
         },
         {
+            "channel": "New World Sport 5 Togo",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Al Ittihad   vs   Al Hilal"
+        },
+        {
             "channel": "Prima Sport RO 3 HD",
             "sat": "Hellas Sat 3 39.0\u00b0e",
             "freq": "12606 V 30000 - 3/4",
@@ -992,6 +1026,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://tv.kyivstar.ua/en/setantasports",
+            "related_to": "     Al Ittihad   vs   Al Hilal"
+        },
+        {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "     Al Ittihad   vs   Al Hilal"
         },
         {
@@ -1207,6 +1249,14 @@
             "related_to": "     Werder Bremen   vs   Union Berlin"
         },
         {
+            "channel": "Canal+ Sport 1 Afrique HD",
+            "sat": "SES 4 22.0\u00b0w",
+            "freq": "11171 V 45000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Werder Bremen   vs   Union Berlin"
+        },
+        {
             "channel": "DAZN 3 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
@@ -1231,6 +1281,14 @@
             "related_to": "     Werder Bremen   vs   Union Berlin"
         },
         {
+            "channel": "New World Sport 1 Mauritius",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Werder Bremen   vs   Union Berlin"
+        },
+        {
             "channel": "Nova Sport 3 Czech HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11934 V 27500 - 3/4",
@@ -1243,6 +1301,14 @@
             "sat": "AzerSpace 2 45.0\u00b0e",
             "freq": "12560 V 30000 - 5/6",
             "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Werder Bremen   vs   Union Berlin"
+        },
+        {
+            "channel": "Nova Sports 3 Cyprus HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11823 H 27500 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Werder Bremen   vs   Union Berlin"
         },
@@ -1461,11 +1527,35 @@
             "related_to": "     Huesca   vs   Las Palmas"
         },
         {
+            "channel": "Canal+ Sport 4 Afrique HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10886 H 30000 - 8/9",
+            "encry": "HD Mediaguard",
+            "link": "#",
+            "related_to": "     Huesca   vs   Las Palmas"
+        },
+        {
+            "channel": "Cytavision Sports 7 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Huesca   vs   Las Palmas"
+        },
+        {
             "channel": "GOL Espa\u00f1a HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 - -",
             "encry": "NagraVision",
             "link": "https://www.goltelevision.com/en-directo",
+            "related_to": "     Huesca   vs   Las Palmas"
+        },
+        {
+            "channel": "Megogo Futbol 4 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
             "related_to": "     Huesca   vs   Las Palmas"
         },
         {
@@ -1567,6 +1657,22 @@
             "related_to": "     AC Milan   vs   Pisa"
         },
         {
+            "channel": "Cytavision Sports 4 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     AC Milan   vs   Pisa"
+        },
+        {
+            "channel": "Cytavision Sports PPV 4 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     AC Milan   vs   Pisa"
+        },
+        {
             "channel": "DAZN 1 Bar Deutsch HD",
             "sat": "Astra 1N 19.2\u00b0e",
             "freq": "12070 H 27500 - 9/10",
@@ -1635,6 +1741,30 @@
             "sat": "AzerSpace 2 45.0\u00b0e",
             "freq": "12600 V 30000 - 5/6",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     AC Milan   vs   Pisa"
+        },
+        {
+            "channel": "Megogo Futbol 1 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
+            "related_to": "     AC Milan   vs   Pisa"
+        },
+        {
+            "channel": "New World Sport 2 Mauritius",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     AC Milan   vs   Pisa"
+        },
+        {
+            "channel": "ONE2 Sport Israel HD",
+            "sat": "Amos 7 4.0\u00b0w",
+            "freq": "11058 V 13750 - 5/6",
+            "encry": "VideoGuard",
             "link": "#",
             "related_to": "     AC Milan   vs   Pisa"
         },
@@ -1801,6 +1931,14 @@
             "date": "2025-10-24"
         },
         {
+            "channel": "5 PLUS Israel HD",
+            "sat": "Amos 3 4.0\u00b0w",
+            "freq": "10806 V 27500 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Paris FC   vs   Nantes"
+        },
+        {
             "channel": "Arena Sport 2 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11554 H 30000 - 5/6",
@@ -1841,11 +1979,43 @@
             "related_to": "     Paris FC   vs   Nantes"
         },
         {
+            "channel": "Cablenet Sports 2 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Paris FC   vs   Nantes"
+        },
+        {
+            "channel": "Canal+ Sport 2 Afrique HD",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "11785 H 27500 - 3/4",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Paris FC   vs   Nantes"
+        },
+        {
             "channel": "Ligue 1+ ($/geo/R)",
             "sat": "Download APP 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "https://plus.ligue1.com/home",
+            "related_to": "     Paris FC   vs   Nantes"
+        },
+        {
+            "channel": "Megogo Futbol 3 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Paris FC   vs   Nantes"
+        },
+        {
+            "channel": "Megogo Sport Ukraine HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12285 V 30000 - 2/3",
+            "encry": "FTA",
+            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
             "related_to": "     Paris FC   vs   Nantes"
         },
         {
@@ -2033,6 +2203,30 @@
             "related_to": "     Leeds United   vs   West Ham United"
         },
         {
+            "channel": "Canal+ Sport 3 Afrique HD",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "11823 H 27500 - 3/4",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Leeds United   vs   West Ham United"
+        },
+        {
+            "channel": "Cytavision Sports 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Leeds United   vs   West Ham United"
+        },
+        {
+            "channel": "Cytavision Sports PPV 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Leeds United   vs   West Ham United"
+        },
+        {
             "channel": "DAZN 1 Bar Espana",
             "sat": "Astra 1L 19.2\u00b0e",
             "freq": "11097 V 22000 - 5/6",
@@ -2189,6 +2383,14 @@
             "sat": "Astra 2F 28.2\u00b0e",
             "freq": "12246 V 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Leeds United   vs   West Ham United"
+        },
+        {
+            "channel": "Sport 2 Israel HD",
+            "sat": "Amos 7 4.0\u00b0w",
+            "freq": "11030 V 27500 - 3/4",
+            "encry": "VideoGuard",
             "link": "#",
             "related_to": "     Leeds United   vs   West Ham United"
         },
@@ -2355,6 +2557,14 @@
             "related_to": "     Preston N.E.   vs   Sheffield United"
         },
         {
+            "channel": "Sport 3 Israel HD",
+            "sat": "Amos 3 4.0\u00b0w",
+            "freq": "10806 V 27500 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Preston N.E.   vs   Sheffield United"
+        },
+        {
             "channel": "SuperSport Action HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "10970 V 30000 - 5/6",
@@ -2416,6 +2626,14 @@
             "channel": "Blue Sport 3 Live HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Sevilla"
+        },
+        {
+            "channel": "Cytavision Sports 8 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
             "encry": "",
             "link": "#",
             "related_to": "     Real Sociedad   vs   Sevilla"
@@ -2501,10 +2719,34 @@
             "related_to": "     Real Sociedad   vs   Sevilla"
         },
         {
+            "channel": "Megogo Futbol 2 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Sevilla"
+        },
+        {
+            "channel": "New World Sport 3 Togo",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Sevilla"
+        },
+        {
             "channel": "Nova Sport 6 Czech HD",
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12090 V 29900 - 3/4",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Sevilla"
+        },
+        {
+            "channel": "ONE Sport Israel HD",
+            "sat": "Amos 3 4.0\u00b0w",
+            "freq": "10806 V 27500 - 3/4",
+            "encry": "VideoGuard",
             "link": "#",
             "related_to": "     Real Sociedad   vs   Sevilla"
         },
@@ -2545,6 +2787,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Sevilla"
+        },
+        {
+            "channel": "Silk Sport 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Real Sociedad   vs   Sevilla"
         },
@@ -2653,6 +2903,14 @@
             "sat": "Eutelsat 9B 9.0\u00b0e",
             "freq": "12149 V 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Alverca   vs   Gil Vicente"
+        },
+        {
+            "channel": "Megogo Futbol 5 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Alverca   vs   Gil Vicente"
         },
