@@ -75,6 +75,14 @@
             "related_to": "     Parma   vs   Como"
         },
         {
+            "channel": "Fox Deportes USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Parma   vs   Como"
+        },
+        {
             "channel": "MAX Sport 3 Bulgaria HD",
             "sat": "AzerSpace 2 45.0\u00b0e",
             "freq": "12600 V 30000 - 5/6",
@@ -155,6 +163,14 @@
             "related_to": "     Parma   vs   Como"
         },
         {
+            "channel": "Tivibu Spor 1 HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11880 H 20000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Parma   vs   Como"
+        },
+        {
             "channel": "Tring Sport 1 HD",
             "sat": "Hellas Sat 4 39.0\u00b0e",
             "freq": "10890 H 30000 - 5/6",
@@ -167,6 +183,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Parma   vs   Como"
+        },
+        {
+            "channel": "TV4 Sport Live 1 HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10934 H 25000 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Parma   vs   Como"
         },
@@ -463,11 +487,27 @@
             "related_to": "     Napoli   vs   Inter Milan"
         },
         {
+            "channel": "ESPN 4 Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "4095 R 30000 - 5/6",
+            "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     Napoli   vs   Inter Milan"
+        },
+        {
             "channel": "Fast Sports 2 Armenia ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "https://fasttv.am/tv-channels/fastsports2",
+            "related_to": "     Napoli   vs   Inter Milan"
+        },
+        {
+            "channel": "Fox Deportes USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
             "related_to": "     Napoli   vs   Inter Milan"
         },
         {
@@ -492,6 +532,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
+            "related_to": "     Napoli   vs   Inter Milan"
+        },
+        {
+            "channel": "MTV MAX Suomi HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10841 H 25000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
             "related_to": "     Napoli   vs   Inter Milan"
         },
         {
@@ -599,6 +647,14 @@
             "related_to": "     Napoli   vs   Inter Milan"
         },
         {
+            "channel": "Tivibu Spor 1 HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11880 H 20000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Napoli   vs   Inter Milan"
+        },
+        {
             "channel": "TNT Sports 1 HD",
             "sat": "NSS 12 57.0\u00b0e",
             "freq": "3798 R 19167 - 3/5",
@@ -623,9 +679,25 @@
             "related_to": "     Napoli   vs   Inter Milan"
         },
         {
+            "channel": "Turkmenistan Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "12303 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://turkmentv.gov.tm/page/6",
+            "related_to": "     Napoli   vs   Inter Milan"
+        },
+        {
             "channel": "TV2 Sport X Dansk HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "10716 H 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Napoli   vs   Inter Milan"
+        },
+        {
+            "channel": "TV4 Fotboll HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10872 V 25000 - 3/4",
             "encry": "HD Conax",
             "link": "#",
             "related_to": "     Napoli   vs   Inter Milan"
@@ -769,6 +841,22 @@
             "related_to": "     Cremonese   vs   Atalanta"
         },
         {
+            "channel": "ESPN 4 Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "4095 R 30000 - 5/6",
+            "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     Cremonese   vs   Atalanta"
+        },
+        {
+            "channel": "Fox Deportes USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Cremonese   vs   Atalanta"
+        },
+        {
             "channel": "MAX Sport 3 Bulgaria HD",
             "sat": "AzerSpace 2 45.0\u00b0e",
             "freq": "12600 V 30000 - 5/6",
@@ -782,6 +870,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
+            "related_to": "     Cremonese   vs   Atalanta"
+        },
+        {
+            "channel": "MTV Urheilu 2 Suomi HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "11247 V 24500 - 7/8",
+            "encry": "HD Conax",
+            "link": "#",
             "related_to": "     Cremonese   vs   Atalanta"
         },
         {
@@ -873,6 +969,14 @@
             "related_to": "     Cremonese   vs   Atalanta"
         },
         {
+            "channel": "Tivibu Spor 2 HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11853 H 25000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Cremonese   vs   Atalanta"
+        },
+        {
             "channel": "Tring Sport 1 HD",
             "sat": "Hellas Sat 4 39.0\u00b0e",
             "freq": "10890 H 30000 - 5/6",
@@ -885,6 +989,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Cremonese   vs   Atalanta"
+        },
+        {
+            "channel": "TV4 Sportkanalen HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10778 H 25000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Cremonese   vs   Atalanta"
         },
@@ -1193,6 +1305,14 @@
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "11488 H 27500 - 3/4",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Sassuolo   vs   Roma"
+        },
+        {
+            "channel": "ESPN 4 Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "4095 R 30000 - 5/6",
+            "encry": "HD PowerVu",
             "link": "#",
             "related_to": "     Sassuolo   vs   Roma"
         },

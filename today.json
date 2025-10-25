@@ -1025,6 +1025,14 @@
             "related_to": "     Girona   vs   Real Oviedo"
         },
         {
+            "channel": "MTV Urheilu 1 Suomi HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12476 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Girona   vs   Real Oviedo"
+        },
+        {
             "channel": "New World Sport 3 Togo",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "12604 H 30000 - 3/4",
@@ -1133,6 +1141,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Girona   vs   Real Oviedo"
+        },
+        {
+            "channel": "TV2 Sport Premium HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Girona   vs   Real Oviedo"
         },
@@ -1871,6 +1887,14 @@
             "related_to": "     Parma   vs   Como"
         },
         {
+            "channel": "Fox Deportes USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Parma   vs   Como"
+        },
+        {
             "channel": "MAX Sport 3 Bulgaria HD",
             "sat": "AzerSpace 2 45.0\u00b0e",
             "freq": "12600 V 30000 - 5/6",
@@ -1971,6 +1995,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Parma   vs   Como"
+        },
+        {
+            "channel": "TV4 Sport Live 1 HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10934 H 25000 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Parma   vs   Como"
         },
@@ -2122,240 +2154,6 @@
         },
         {
             "compet": "German 1. Bundesliga - Week 8",
-            "match": "     M\u00f6nchengladbach   vs   Bayern Munich",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "13:30",
-            "date": "2025-10-25"
-        },
-        {
-            "channel": "Arena Premium 4 Srbija HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12246 V 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
-        },
-        {
-            "channel": "Azam Sports 2 HD",
-            "sat": "Eutelsat 7C 7.0\u00b0e",
-            "freq": "10981 V 45000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
-        },
-        {
-            "channel": "beIN Sports 3 HD (Astro)",
-            "sat": "Measat 3b 91.5\u00b0e",
-            "freq": "10732 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
-        },
-        {
-            "channel": "beIN Sports France 2 HD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11856 V 29700 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "AzerSpace 2 45.0\u00b0e",
-            "freq": "12520 V 30000 - 5/6",
-            "encry": "MPEG-4 Irdeto",
-            "link": "#",
-            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
-        },
-        {
-            "channel": "Digi Sport 3 Romania",
-            "sat": "Thor 6 0.8\u00b0w",
-            "freq": "11900 H 28000 - 5/6",
-            "encry": "NagraVision",
-            "link": "#",
-            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
-        },
-        {
-            "channel": "Eleven Sports 1 Polska HD",
-            "sat": "Hotbird 13G 13.0\u00b0e",
-            "freq": "11488 H 27500 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
-        },
-        {
-            "channel": "Fast Sports 2 Armenia ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://fasttv.am/tv-channels/fastsports2",
-            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
-        },
-        {
-            "channel": "Go3 Sport 3 Baltic",
-            "sat": "Astra 4A 5.0\u00b0e",
-            "freq": "11938 V 27500 - 5/6",
-            "encry": "MPEG-4 NDS",
-            "link": "https://go3.tv/en/live_tv",
-            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
-        },
-        {
-            "channel": "Nova Sport 3 Czech HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11934 V 27500 - 3/4",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
-        },
-        {
-            "channel": "Nova Sports 3 Hellas HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "11823 H 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
-        },
-        {
-            "channel": "Prima Sport RO 2 HD",
-            "sat": "Hellas Sat 3 39.0\u00b0e",
-            "freq": "12290 V 30000 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
-        },
-        {
-            "channel": "Setanta Sports 2 Baltic",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
-        },
-        {
-            "channel": "Setanta Sports 2 Eurasia HD",
-            "sat": "KazSat 3 58.5\u00b0e",
-            "freq": "12657 V 45000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
-        },
-        {
-            "channel": "Setanta Sports 3 Georgia HD",
-            "sat": "Eutelsat 36C 35.9\u00b0e",
-            "freq": "11650 V 10000 - 3/4",
-            "encry": "HD TrophyAccess",
-            "link": "#",
-            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
-        },
-        {
-            "channel": "Setanta Sports Premium HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://tv.kyivstar.ua/en/setantasports",
-            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
-        },
-        {
-            "channel": "Sky Sport Bundesliga 1 HD",
-            "sat": "Astra 1N 19.2\u00b0e",
-            "freq": "11914 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
-        },
-        {
-            "channel": "Sky Sport Bundesliga HD",
-            "sat": "Astra 1N 19.2\u00b0e",
-            "freq": "12304 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
-        },
-        {
-            "channel": "Sky Sport Bundesliga UHD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11798 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
-        },
-        {
-            "channel": "Sky Sport Max Italia HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "11977 H 29900 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
-        },
-        {
-            "channel": "Sky Sport Top Event HD",
-            "sat": "Astra 1N 19.2\u00b0e",
-            "freq": "11914 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
-        },
-        {
-            "channel": "Sport 3 Israel HD",
-            "sat": "Amos 3 4.0\u00b0w",
-            "freq": "10806 V 27500 - 3/4",
-            "encry": "VideoGuard",
-            "link": "#",
-            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
-        },
-        {
-            "channel": "Sport TV Azerbaijan (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
-        },
-        {
-            "channel": "ST World Football HD",
-            "sat": "Eutelsat 10B 10.0\u00b0e",
-            "freq": "3736 R 07307 - 5/6",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
-        },
-        {
-            "channel": "Tivibu Spor 2 HD",
-            "sat": "Turksat 4A 42.0\u00b0e",
-            "freq": "11853 H 25000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
-        },
-        {
-            "channel": "Tring Sport 3 HD",
-            "sat": "Hellas Sat 4 39.0\u00b0e",
-            "freq": "10890 H 30000 - 5/6",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
-        },
-        {
-            "channel": "TSN Malta 5 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
-        },
-        {
-            "compet": "German 1. Bundesliga - Week 8",
             "match": "     Hamburg   vs   Wolfsburg",
             "flags": {
                 "team1": "germany",
@@ -2495,6 +2293,14 @@
             "related_to": "     Hoffenheim   vs   Heidenheim"
         },
         {
+            "channel": "SportKlub 3 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Hoffenheim   vs   Heidenheim"
+        },
+        {
             "channel": "ST Sports Focus",
             "sat": "Thor 6 5.0\u00b0e",
             "freq": "11977 V 27500 - 3/4",
@@ -2569,10 +2375,42 @@
             "related_to": "     Eintracht Frankfurt   vs   St Pauli"
         },
         {
+            "channel": "Sony Sports TEN 5 India HD",
+            "sat": "G-Sat 10 83.0\u00b0e",
+            "freq": "11840 V 32720 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Eintracht Frankfurt   vs   St Pauli"
+        },
+        {
+            "channel": "Sport TV3 Slovenija",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Eintracht Frankfurt   vs   St Pauli"
+        },
+        {
+            "channel": "SportKlub 4 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Eintracht Frankfurt   vs   St Pauli"
+        },
+        {
             "channel": "ST Sports Arena",
             "sat": "Thor 6 5.0\u00b0e",
             "freq": "11938 V 27500 - 3/4",
             "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Eintracht Frankfurt   vs   St Pauli"
+        },
+        {
+            "channel": "Tivibu Spor 3 HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11880 H 20000 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Eintracht Frankfurt   vs   St Pauli"
         },
@@ -2635,6 +2473,14 @@
             "related_to": "     Augsburg   vs   RB Leipzig"
         },
         {
+            "channel": "Sport TV2 Slovenija",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Augsburg   vs   RB Leipzig"
+        },
+        {
             "channel": "ST Sports Focus",
             "sat": "Thor 6 5.0\u00b0e",
             "freq": "11977 V 27500 - 3/4",
@@ -2643,10 +2489,26 @@
             "related_to": "     Augsburg   vs   RB Leipzig"
         },
         {
+            "channel": "Tivibu Spor 4 HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11880 H 20000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Augsburg   vs   RB Leipzig"
+        },
+        {
             "channel": "Tring Sport 5 HD",
             "sat": "Hellas Sat 4 39.0\u00b0e",
             "freq": "10890 H 30000 - 5/6",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Augsburg   vs   RB Leipzig"
+        },
+        {
+            "channel": "V Sport 2 Norge HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11345 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Augsburg   vs   RB Leipzig"
         },
@@ -2721,6 +2583,320 @@
             "encry": "",
             "link": "https://onefootball.com/en/matches",
             "related_to": "     MSK Zilina   vs   Skalica"
+        },
+        {
+            "compet": "German 1. Bundesliga - Week 8",
+            "match": "     M\u00f6nchengladbach   vs   Bayern Munich",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "13:45",
+            "date": "2025-10-25"
+        },
+        {
+            "channel": "Arena Premium 4 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
+        },
+        {
+            "channel": "Azam Sports 2 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
+        },
+        {
+            "channel": "beIN Sports 3 HD (Astro)",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
+        },
+        {
+            "channel": "beIN Sports France 2 HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
+        },
+        {
+            "channel": "Canal+ Sport 1 Afrique HD",
+            "sat": "SES 4 22.0\u00b0w",
+            "freq": "11171 V 45000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
+        },
+        {
+            "channel": "DAZN 3 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
+        },
+        {
+            "channel": "Diema Sport 3 HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
+        },
+        {
+            "channel": "Digi Sport 3 Romania",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "11900 H 28000 - 5/6",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
+        },
+        {
+            "channel": "Eleven Sports 1 Polska HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11488 H 27500 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
+        },
+        {
+            "channel": "Fast Sports 2 Armenia ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://fasttv.am/tv-channels/fastsports2",
+            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
+        },
+        {
+            "channel": "Go3 Sport 3 Baltic",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11938 V 27500 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "https://go3.tv/en/live_tv",
+            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
+        },
+        {
+            "channel": "Nova Sport 3 Czech HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11934 V 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
+        },
+        {
+            "channel": "Nova Sports 3 Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11823 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
+        },
+        {
+            "channel": "Okko Prime Sport HD ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
+        },
+        {
+            "channel": "Persiana Sports 2 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
+            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
+        },
+        {
+            "channel": "Prima Sport RO 2 HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12290 V 30000 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
+        },
+        {
+            "channel": "Setanta Sports 2 Baltic",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
+        },
+        {
+            "channel": "Setanta Sports 2 Eurasia HD",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "12657 V 45000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
+        },
+        {
+            "channel": "Setanta Sports 3 Georgia HD",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "11650 V 10000 - 3/4",
+            "encry": "HD TrophyAccess",
+            "link": "#",
+            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
+        },
+        {
+            "channel": "Setanta Sports Premium HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.kyivstar.ua/en/setantasports",
+            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
+        },
+        {
+            "channel": "Sky Sport Bundesliga 1 HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "11914 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
+        },
+        {
+            "channel": "Sky Sport Bundesliga HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12304 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
+        },
+        {
+            "channel": "Sky Sport Bundesliga UHD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11798 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
+        },
+        {
+            "channel": "Sky Sport Max Italia HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11977 H 29900 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
+        },
+        {
+            "channel": "Sky Sport Top Event HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "11914 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
+        },
+        {
+            "channel": "Sony Sports TEN 2 India HD",
+            "sat": "G-Sat 10 83.0\u00b0e",
+            "freq": "11090 V 32720 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
+        },
+        {
+            "channel": "Sport 3 Israel HD",
+            "sat": "Amos 3 4.0\u00b0w",
+            "freq": "10806 V 27500 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
+        },
+        {
+            "channel": "Sport TV Azerbaijan (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
+        },
+        {
+            "channel": "Sport TV1 Slovenija",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11231 V 42000 - 3/5",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
+        },
+        {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
+        },
+        {
+            "channel": "SporTV Brazil HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
+        },
+        {
+            "channel": "ST World Football HD",
+            "sat": "Eutelsat 10B 10.0\u00b0e",
+            "freq": "3736 R 07307 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
+        },
+        {
+            "channel": "Tivibu Spor 2 HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11853 H 25000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
+        },
+        {
+            "channel": "Tring Sport 3 HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
+        },
+        {
+            "channel": "TSN Malta 5 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
+        },
+        {
+            "channel": "V Sport Extra Sverige HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10903 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
+        },
+        {
+            "channel": "ViaPlay 3 Urheilu HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11823 V 27500 - 3/4",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
         },
         {
             "compet": "English Championship - Week 12",
@@ -2801,6 +2977,22 @@
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12360 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Blackburn Rovers   vs   Southampton"
+        },
+        {
+            "channel": "V Sport 1 Norge HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11305 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Blackburn Rovers   vs   Southampton"
+        },
+        {
+            "channel": "ViaPlay Sport Sverige HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Blackburn Rovers   vs   Southampton"
         },
@@ -2905,6 +3097,14 @@
             "related_to": "     Newcastle United   vs   Fulham"
         },
         {
+            "channel": "Canal+ Sport 3 Afrique HD",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "11823 H 27500 - 3/4",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Newcastle United   vs   Fulham"
+        },
+        {
             "channel": "Canal+ Sport 360 HD",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "12090 V 29700 - 2/3",
@@ -2941,6 +3141,14 @@
             "sat": "Astra 1KR 19.2\u00b0e",
             "freq": "11156 V 22000 - 5/6",
             "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Newcastle United   vs   Fulham"
+        },
+        {
+            "channel": "DAZN 2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Newcastle United   vs   Fulham"
         },
@@ -3029,6 +3237,22 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Newcastle United   vs   Fulham"
+        },
+        {
+            "channel": "V Sport Football HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Newcastle United   vs   Fulham"
+        },
+        {
+            "channel": "ViaPlay 1 Urheilu HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "11278 V 25000 - 3/4",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Newcastle United   vs   Fulham"
         },
@@ -3195,6 +3419,14 @@
             "related_to": "     Chelsea   vs   Sunderland"
         },
         {
+            "channel": "Canal+ Sport 4 Afrique HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10886 H 30000 - 8/9",
+            "encry": "HD Mediaguard",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Sunderland"
+        },
+        {
             "channel": "Canal+ Sport 5 Czech HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -3243,6 +3475,14 @@
             "related_to": "     Chelsea   vs   Sunderland"
         },
         {
+            "channel": "DAZN 1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12399 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Sunderland"
+        },
+        {
             "channel": "DAZN Espa\u00f1a ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -3255,6 +3495,14 @@
             "sat": "Hellas Sat 3 39.0\u00b0e",
             "freq": "12137 V 30000 - 5/6",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Sunderland"
+        },
+        {
+            "channel": "ESPN 1 Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "3980 L 21600 - 3/4",
+            "encry": "HD PowerVu",
             "link": "#",
             "related_to": "     Chelsea   vs   Sunderland"
         },
@@ -3288,6 +3536,14 @@
             "freq": "12303 H 27500 - 3/4",
             "encry": "MPEG-4 Conax",
             "link": "https://www.nci.ci/",
+            "related_to": "     Chelsea   vs   Sunderland"
+        },
+        {
+            "channel": "Meraj TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11221 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "     Chelsea   vs   Sunderland"
         },
         {
@@ -3379,6 +3635,14 @@
             "related_to": "     Chelsea   vs   Sunderland"
         },
         {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Sunderland"
+        },
+        {
             "channel": "Sport 1 Israel HD",
             "sat": "Amos 7 4.0\u00b0w",
             "freq": "11474 V 27500 - 3/4",
@@ -3435,6 +3699,14 @@
             "related_to": "     Chelsea   vs   Sunderland"
         },
         {
+            "channel": "Turkmenistan Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "12303 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://turkmentv.gov.tm/page/6",
+            "related_to": "     Chelsea   vs   Sunderland"
+        },
+        {
             "channel": "TV3 MAX Dansk HD",
             "sat": "Thor 6 5.0\u00b0e",
             "freq": "11345 V 30000 - 3/4",
@@ -3447,6 +3719,22 @@
             "sat": "Eutelsat 7C 7.0\u00b0e",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Sunderland"
+        },
+        {
+            "channel": "V Sport Premium HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10903 V 25000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Sunderland"
+        },
+        {
+            "channel": "ViaPlay 2 Urheilu HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "11278 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Chelsea   vs   Sunderland"
         },
@@ -3857,6 +4145,14 @@
             "date": "2025-10-25"
         },
         {
+            "channel": "CBS Sports Network USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Middlesbrough   vs   Wrexham"
+        },
+        {
             "channel": "Paramount+ USA ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -4003,6 +4299,22 @@
             "related_to": "     Espanyol   vs   Elche"
         },
         {
+            "channel": "DAZN 4 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12399 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Espanyol   vs   Elche"
+        },
+        {
+            "channel": "ESPN Deportes",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Espanyol   vs   Elche"
+        },
+        {
             "channel": "LaLiga TV Bar HD",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "10876 V 22000 - 5/6",
@@ -4031,6 +4343,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Espanyol   vs   Elche"
+        },
+        {
+            "channel": "MTV Urheilu 1 Suomi HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12476 H 30000 - 3/4",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Espanyol   vs   Elche"
         },
@@ -4111,6 +4431,22 @@
             "sat": "Express AMU1 36.1\u00b0e",
             "freq": "12169 V 27500 - 3/4",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Espanyol   vs   Elche"
+        },
+        {
+            "channel": "TV2 Sport Premium HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Espanyol   vs   Elche"
+        },
+        {
+            "channel": "TV4 Sportkanalen HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10778 H 25000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Espanyol   vs   Elche"
         },
@@ -4313,6 +4649,14 @@
             "related_to": "     Brest   vs   Paris St Germain"
         },
         {
+            "channel": "Canal+ Sport 2 Afrique HD",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "11785 H 27500 - 3/4",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Brest   vs   Paris St Germain"
+        },
+        {
             "channel": "Megogo Futbol 3 ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -4325,6 +4669,14 @@
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11954 H 29900 - 2/3",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Brest   vs   Paris St Germain"
+        },
+        {
+            "channel": "Okko Futbol HD ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Brest   vs   Paris St Germain"
         },
@@ -4382,6 +4734,22 @@
             "freq": "11170 H 30000 - 5/6",
             "encry": "Irdeto",
             "link": "#",
+            "related_to": "     Brest   vs   Paris St Germain"
+        },
+        {
+            "channel": "V Sport 1 Sverige HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Brest   vs   Paris St Germain"
+        },
+        {
+            "channel": "VOYO Pro TV Romania [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://voyo.protv.ro/premier-league",
             "related_to": "     Brest   vs   Paris St Germain"
         },
         {
@@ -4733,11 +5101,27 @@
             "related_to": "     Napoli   vs   Inter Milan"
         },
         {
+            "channel": "ESPN 4 Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "4095 R 30000 - 5/6",
+            "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     Napoli   vs   Inter Milan"
+        },
+        {
             "channel": "Fast Sports 2 Armenia ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "https://fasttv.am/tv-channels/fastsports2",
+            "related_to": "     Napoli   vs   Inter Milan"
+        },
+        {
+            "channel": "Fox Deportes USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
             "related_to": "     Napoli   vs   Inter Milan"
         },
         {
@@ -4762,6 +5146,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
+            "related_to": "     Napoli   vs   Inter Milan"
+        },
+        {
+            "channel": "MTV MAX Suomi HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10841 H 25000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
             "related_to": "     Napoli   vs   Inter Milan"
         },
         {
@@ -4901,9 +5293,25 @@
             "related_to": "     Napoli   vs   Inter Milan"
         },
         {
+            "channel": "Turkmenistan Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "12303 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://turkmentv.gov.tm/page/6",
+            "related_to": "     Napoli   vs   Inter Milan"
+        },
+        {
             "channel": "TV2 Sport X Dansk HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "10716 H 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Napoli   vs   Inter Milan"
+        },
+        {
+            "channel": "TV4 Fotboll HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10872 V 25000 - 3/4",
             "encry": "HD Conax",
             "link": "#",
             "related_to": "     Napoli   vs   Inter Milan"
@@ -5008,6 +5416,14 @@
             "channel": "Blue Sport D 1 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     St Gallen   vs   Grasshoppers"
+        },
+        {
+            "channel": "SportKlub 6 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
             "encry": "",
             "link": "#",
             "related_to": "     St Gallen   vs   Grasshoppers"
@@ -5257,6 +5673,14 @@
             "related_to": "     Manchester United   vs   Brighton H.A."
         },
         {
+            "channel": "Canal+ Sport 4 Afrique HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10886 H 30000 - 8/9",
+            "encry": "HD Mediaguard",
+            "link": "#",
+            "related_to": "     Manchester United   vs   Brighton H.A."
+        },
+        {
             "channel": "Canal+ Sport 5 Czech HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -5305,6 +5729,14 @@
             "related_to": "     Manchester United   vs   Brighton H.A."
         },
         {
+            "channel": "DAZN 1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12399 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Manchester United   vs   Brighton H.A."
+        },
+        {
             "channel": "DAZN Espa\u00f1a ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -5317,6 +5749,14 @@
             "sat": "Hellas Sat 3 39.0\u00b0e",
             "freq": "12137 V 30000 - 5/6",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Manchester United   vs   Brighton H.A."
+        },
+        {
+            "channel": "ESPN 1 Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "3980 L 21600 - 3/4",
+            "encry": "HD PowerVu",
             "link": "#",
             "related_to": "     Manchester United   vs   Brighton H.A."
         },
@@ -5361,11 +5801,27 @@
             "related_to": "     Manchester United   vs   Brighton H.A."
         },
         {
+            "channel": "Meraj TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11221 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Manchester United   vs   Brighton H.A."
+        },
+        {
             "channel": "Nova Sports Premier League HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "11804 V 29700 - 3/4",
             "encry": "HD Irdeto",
             "link": "#",
+            "related_to": "     Manchester United   vs   Brighton H.A."
+        },
+        {
+            "channel": "Persiana Sports 2 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
             "related_to": "     Manchester United   vs   Brighton H.A."
         },
         {
@@ -5457,6 +5913,14 @@
             "related_to": "     Manchester United   vs   Brighton H.A."
         },
         {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Manchester United   vs   Brighton H.A."
+        },
+        {
             "channel": "Sport 1 Israel HD",
             "sat": "Amos 7 4.0\u00b0w",
             "freq": "11474 V 27500 - 3/4",
@@ -5513,9 +5977,25 @@
             "related_to": "     Manchester United   vs   Brighton H.A."
         },
         {
+            "channel": "V Sport Premium HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10903 V 25000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Manchester United   vs   Brighton H.A."
+        },
+        {
             "channel": "V Sport Ultra 4K UHD (geo/R)",
             "sat": "Thor 5 0.8\u00b0w",
             "freq": "11372 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Manchester United   vs   Brighton H.A."
+        },
+        {
+            "channel": "ViaPlay 2 Urheilu HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "11278 V 25000 - 3/4",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Manchester United   vs   Brighton H.A."
@@ -5595,6 +6075,22 @@
             "related_to": "     Borussia Dortmund   vs   FC Cologne"
         },
         {
+            "channel": "Canal+ Sport 1 Afrique HD",
+            "sat": "SES 4 22.0\u00b0w",
+            "freq": "11171 V 45000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   FC Cologne"
+        },
+        {
+            "channel": "DAZN 2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   FC Cologne"
+        },
+        {
             "channel": "Eleven Sports 3 Polska HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "11488 H 27500 - 3/4",
@@ -5615,6 +6111,14 @@
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "11823 H 27500 - 3/4",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   FC Cologne"
+        },
+        {
+            "channel": "Okko Prime Sport HD ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Borussia Dortmund   vs   FC Cologne"
         },
@@ -5707,10 +6211,34 @@
             "related_to": "     Borussia Dortmund   vs   FC Cologne"
         },
         {
+            "channel": "Sony Sports TEN 2 India HD",
+            "sat": "G-Sat 10 83.0\u00b0e",
+            "freq": "11090 V 32720 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   FC Cologne"
+        },
+        {
             "channel": "Sport 2 Israel HD",
             "sat": "Amos 7 4.0\u00b0w",
             "freq": "11030 V 27500 - 3/4",
             "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   FC Cologne"
+        },
+        {
+            "channel": "Sport TV1 Slovenija",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11231 V 42000 - 3/5",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   FC Cologne"
+        },
+        {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Borussia Dortmund   vs   FC Cologne"
         },
@@ -5751,6 +6279,30 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   FC Cologne"
+        },
+        {
+            "channel": "V Sport 2 Norge HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11345 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   FC Cologne"
+        },
+        {
+            "channel": "V Sport Football HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   FC Cologne"
+        },
+        {
+            "channel": "ViaPlay 3 Urheilu HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11823 V 27500 - 3/4",
+            "encry": "MPEG-4 NDS",
             "link": "#",
             "related_to": "     Borussia Dortmund   vs   FC Cologne"
         },
@@ -5821,6 +6373,22 @@
             "related_to": "     Athletic Bilbao   vs   Getafe"
         },
         {
+            "channel": "DAZN 3 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Athletic Bilbao   vs   Getafe"
+        },
+        {
+            "channel": "ESPN Deportes",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Athletic Bilbao   vs   Getafe"
+        },
+        {
             "channel": "Go3 Sport 3 Baltic",
             "sat": "Astra 4A 5.0\u00b0e",
             "freq": "11938 V 27500 - 5/6",
@@ -5849,6 +6417,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Athletic Bilbao   vs   Getafe"
+        },
+        {
+            "channel": "MTV Urheilu 1 Suomi HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12476 H 30000 - 3/4",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Athletic Bilbao   vs   Getafe"
         },
@@ -5945,6 +6521,22 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Athletic Bilbao   vs   Getafe"
+        },
+        {
+            "channel": "TV2 Sport Premium HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Athletic Bilbao   vs   Getafe"
+        },
+        {
+            "channel": "TV4 Sport Live 1 HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10934 H 25000 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Athletic Bilbao   vs   Getafe"
         },
@@ -6065,6 +6657,14 @@
             "sat": "Astra 5B 31.5\u00b0e",
             "freq": "12207 V 27500 - 5/6",
             "encry": "MPEG-4 Bulcrypt",
+            "link": "#",
+            "related_to": "     Granada   vs   C\u00e1diz"
+        },
+        {
+            "channel": "TV4 Sportkanalen HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10778 H 25000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Granada   vs   C\u00e1diz"
         },
@@ -6209,6 +6809,14 @@
             "related_to": "     Monaco   vs   Toulouse"
         },
         {
+            "channel": "Canal+ Sport 2 Afrique HD",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "11785 H 27500 - 3/4",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Monaco   vs   Toulouse"
+        },
+        {
             "channel": "Eleven Sports 4 Polska HD",
             "sat": "Hotbird 13G 13.0\u00b0e",
             "freq": "11278 V 27500 - 3/4",
@@ -6241,6 +6849,14 @@
             "related_to": "     Monaco   vs   Toulouse"
         },
         {
+            "channel": "Okko Futbol HD ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Monaco   vs   Toulouse"
+        },
+        {
             "channel": "Setanta Sports 2 Georgia HD",
             "sat": "Eutelsat 36C 35.9\u00b0e",
             "freq": "11650 V 10000 - 3/4",
@@ -6262,6 +6878,22 @@
             "freq": "12246 H 27500 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
+            "related_to": "     Monaco   vs   Toulouse"
+        },
+        {
+            "channel": "V Sport 1 Sverige HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Monaco   vs   Toulouse"
+        },
+        {
+            "channel": "VOYO Pro TV Romania [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://voyo.protv.ro/premier-league",
             "related_to": "     Monaco   vs   Toulouse"
         },
         {
@@ -6453,6 +7085,14 @@
             "related_to": "     Al Hazem   vs   Al Nassr"
         },
         {
+            "channel": "Fox Soccer Plus USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Hazem   vs   Al Nassr"
+        },
+        {
             "channel": "M+ #Vamos Bar",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "10876 V 22000 - 5/6",
@@ -6509,6 +7149,14 @@
             "related_to": "     Al Hazem   vs   Al Nassr"
         },
         {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Hazem   vs   Al Nassr"
+        },
+        {
             "channel": "Sport TV4 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12360 H 27500 - 3/4",
@@ -6525,14 +7173,6 @@
             "related_to": "     Al Hazem   vs   Al Nassr"
         },
         {
-            "channel": "Sportitalia HD",
-            "sat": "Eutelsat 9B 9.0\u00b0e",
-            "freq": "12341 V 31400 - 5/6",
-            "encry": "FTA",
-            "link": "https://sportitalialive.it/sihd/",
-            "related_to": "     Al Hazem   vs   Al Nassr"
-        },
-        {
             "channel": "Sportitalia SoloCalcio HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "11179 H 27500 - 2/3",
@@ -6541,10 +7181,50 @@
             "related_to": "     Al Hazem   vs   Al Nassr"
         },
         {
+            "channel": "SportKlub 4 Slovenija",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Hazem   vs   Al Nassr"
+        },
+        {
+            "channel": "SportKlub 6 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Hazem   vs   Al Nassr"
+        },
+        {
+            "channel": "SporTV 3 Brazil HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Al Hazem   vs   Al Nassr"
+        },
+        {
             "channel": "ST Sports Life",
             "sat": "Thor 6 5.0\u00b0e",
             "freq": "12418 H 27500 - 3/4",
             "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Al Hazem   vs   Al Nassr"
+        },
+        {
+            "channel": "Strike TV",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "12245 H 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Al Hazem   vs   Al Nassr"
+        },
+        {
+            "channel": "SuperSport ESPN HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
             "link": "#",
             "related_to": "     Al Hazem   vs   Al Nassr"
         },
@@ -6596,6 +7276,14 @@
             "channel": "beIN Sports France 4 HD max",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Hertha Berlin   vs   Fortuna D\u00fcsseldorf"
+        },
+        {
+            "channel": "DAZN 3 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Hertha Berlin   vs   Fortuna D\u00fcsseldorf"
@@ -6705,6 +7393,22 @@
             "related_to": "     Hertha Berlin   vs   Fortuna D\u00fcsseldorf"
         },
         {
+            "channel": "Sport TV1 Slovenija",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11231 V 42000 - 3/5",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Hertha Berlin   vs   Fortuna D\u00fcsseldorf"
+        },
+        {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Hertha Berlin   vs   Fortuna D\u00fcsseldorf"
+        },
+        {
             "channel": "Tivibu Spor 1 HD",
             "sat": "Turksat 4A 42.0\u00b0e",
             "freq": "11880 H 20000 - 3/4",
@@ -6717,6 +7421,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Hertha Berlin   vs   Fortuna D\u00fcsseldorf"
+        },
+        {
+            "channel": "V Sport 2 Norge HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11345 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Hertha Berlin   vs   Fortuna D\u00fcsseldorf"
         },
@@ -6919,6 +7631,22 @@
             "related_to": "     Cremonese   vs   Atalanta"
         },
         {
+            "channel": "ESPN 4 Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "4095 R 30000 - 5/6",
+            "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     Cremonese   vs   Atalanta"
+        },
+        {
+            "channel": "Fox Deportes USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Cremonese   vs   Atalanta"
+        },
+        {
             "channel": "MAX Sport 3 Bulgaria HD",
             "sat": "AzerSpace 2 45.0\u00b0e",
             "freq": "12600 V 30000 - 5/6",
@@ -6932,6 +7660,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
+            "related_to": "     Cremonese   vs   Atalanta"
+        },
+        {
+            "channel": "MTV Urheilu 2 Suomi HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "11247 V 24500 - 7/8",
+            "encry": "HD Conax",
+            "link": "#",
             "related_to": "     Cremonese   vs   Atalanta"
         },
         {
@@ -7043,6 +7779,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Cremonese   vs   Atalanta"
+        },
+        {
+            "channel": "TV4 Sportkanalen HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10778 H 25000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Cremonese   vs   Atalanta"
         },
@@ -7187,6 +7931,14 @@
             "related_to": "     Brentford   vs   Liverpool"
         },
         {
+            "channel": "Canal+ Sport 4 Afrique HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10886 H 30000 - 8/9",
+            "encry": "HD Mediaguard",
+            "link": "#",
+            "related_to": "     Brentford   vs   Liverpool"
+        },
+        {
             "channel": "Cytavision Sports 3 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -7222,6 +7974,14 @@
             "channel": "DAZN 1 Espana HD",
             "sat": "Astra 1KR 19.2\u00b0e",
             "freq": "10729 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Brentford   vs   Liverpool"
+        },
+        {
+            "channel": "DAZN 1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12399 H 27500 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Brentford   vs   Liverpool"
@@ -7287,6 +8047,14 @@
             "sat": "Intelsat 39 62.0\u00b0e",
             "freq": "11555 V 30000 - 2/3",
             "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Brentford   vs   Liverpool"
+        },
+        {
+            "channel": "Meraj TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11221 V 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Brentford   vs   Liverpool"
         },
@@ -7407,6 +8175,30 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Brentford   vs   Liverpool"
+        },
+        {
+            "channel": "Turkmenistan Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "12303 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://turkmentv.gov.tm/page/6",
+            "related_to": "     Brentford   vs   Liverpool"
+        },
+        {
+            "channel": "TV3+ Norge HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12437 H 30000 - 2/3",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Brentford   vs   Liverpool"
+        },
+        {
+            "channel": "ViaPlay 2 Urheilu HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "11278 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Brentford   vs   Liverpool"
         },
@@ -7533,6 +8325,14 @@
             "related_to": "     Valencia   vs   Villarreal"
         },
         {
+            "channel": "Canal+ Sport 5 Afrique",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11512 H 30000 - 8/9",
+            "encry": "MPEG-4 Seca",
+            "link": "#",
+            "related_to": "     Valencia   vs   Villarreal"
+        },
+        {
             "channel": "Cytavision Sports 8 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -7545,6 +8345,14 @@
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "11843 V 29900 - 5/6",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Valencia   vs   Villarreal"
+        },
+        {
+            "channel": "DAZN 2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Valencia   vs   Villarreal"
         },
@@ -7569,6 +8377,14 @@
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "11488 H 27500 - 3/4",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Valencia   vs   Villarreal"
+        },
+        {
+            "channel": "ESPN Deportes",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Valencia   vs   Villarreal"
         },
@@ -7625,6 +8441,14 @@
             "sat": "Astra 1L 19.2\u00b0e",
             "freq": "11097 V 22000 - 5/6",
             "encry": "Seca",
+            "link": "#",
+            "related_to": "     Valencia   vs   Villarreal"
+        },
+        {
+            "channel": "MTV Urheilu 1 Suomi HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12476 H 30000 - 3/4",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Valencia   vs   Villarreal"
         },
@@ -7733,9 +8557,25 @@
             "related_to": "     Valencia   vs   Villarreal"
         },
         {
+            "channel": "TV2 Sport Premium HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Valencia   vs   Villarreal"
+        },
+        {
             "channel": "TV2 Sport X Dansk HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "10716 H 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Valencia   vs   Villarreal"
+        },
+        {
+            "channel": "TV4 Fotboll HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10872 V 25000 - 3/4",
             "encry": "HD Conax",
             "link": "#",
             "related_to": "     Valencia   vs   Villarreal"
@@ -7867,6 +8707,14 @@
             "related_to": "     Lens   vs   Marseille"
         },
         {
+            "channel": "Canal+ Sport 2 Afrique HD",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "11785 H 27500 - 3/4",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Lens   vs   Marseille"
+        },
+        {
             "channel": "Eleven Sports 4 Polska HD",
             "sat": "Hotbird 13G 13.0\u00b0e",
             "freq": "11278 V 27500 - 3/4",
@@ -7904,6 +8752,22 @@
             "freq": "12560 V 30000 - 5/6",
             "encry": "MPEG-4 Irdeto",
             "link": "#",
+            "related_to": "     Lens   vs   Marseille"
+        },
+        {
+            "channel": "Okko Prime Sport HD ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Lens   vs   Marseille"
+        },
+        {
+            "channel": "Persiana Sports 2 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
             "related_to": "     Lens   vs   Marseille"
         },
         {
@@ -8011,6 +8875,22 @@
             "related_to": "     Lens   vs   Marseille"
         },
         {
+            "channel": "V Sport Premium HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10903 V 25000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Lens   vs   Marseille"
+        },
+        {
+            "channel": "VOYO Pro TV Romania [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://voyo.protv.ro/premier-league",
+            "related_to": "     Lens   vs   Marseille"
+        },
+        {
             "compet": "Portuguese Liga Portugal - Week 9",
             "match": "     Benfica   vs   Arouca",
             "flags": {
@@ -8019,6 +8899,14 @@
             },
             "time": "19:30",
             "date": "2025-10-25"
+        },
+        {
+            "channel": "Arena Sport 1 Slovakia HD",
+            "sat": "Belintersat 1 51.5\u00b0e",
+            "freq": "11290 H 45000 - 8/9",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Benfica   vs   Arouca"
         },
         {
             "channel": "Arena Sport 2 Srbija HD",
@@ -8053,6 +8941,22 @@
             "related_to": "     Benfica   vs   Arouca"
         },
         {
+            "channel": "ESPN 2 Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "3980 L 21600 - 3/4",
+            "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     Benfica   vs   Arouca"
+        },
+        {
+            "channel": "Kuwait Sport HD",
+            "sat": "Badr 4 26.0\u00b0e",
+            "freq": "12523 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Benfica   vs   Arouca"
+        },
+        {
             "channel": "Megogo Futbol 4 ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -8061,7 +8965,23 @@
             "related_to": "     Benfica   vs   Arouca"
         },
         {
+            "channel": "Ring Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12600 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Benfica   vs   Arouca"
+        },
+        {
             "channel": "Silk Sport 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Benfica   vs   Arouca"
+        },
+        {
+            "channel": "Sport 1 Lithuania HD [$]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
@@ -8093,11 +9013,43 @@
             "related_to": "     Benfica   vs   Arouca"
         },
         {
+            "channel": "SportKlub HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11595 V 30000 - 3/5",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Benfica   vs   Arouca"
+        },
+        {
             "channel": "Thriller TV+ [online] ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.trillertv.com/join/trillertv-subscription/",
+            "related_to": "     Benfica   vs   Arouca"
+        },
+        {
+            "channel": "Tivibu Spor 3 HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11880 H 20000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Benfica   vs   Arouca"
+        },
+        {
+            "channel": "Tring Sport 2 HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Benfica   vs   Arouca"
+        },
+        {
+            "channel": "TV Start Russia HD",
+            "sat": "ABS 2A 75.0\u00b0e",
+            "freq": "11605 V 43200 - 7/8",
+            "encry": "MPEG-4 DreCrypt",
+            "link": "#",
             "related_to": "     Benfica   vs   Arouca"
         },
         {
