@@ -818,6 +818,32 @@
         },
         {
             "compet": "French Ligue 1 - Week 10",
+            "match": "     Metz   vs   Lens",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "18:00",
+            "date": "2025-10-29"
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Metz   vs   Lens"
+        },
+        {
+            "channel": "Ligue 1+ ($/geo/R)",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://plus.ligue1.com/home",
+            "related_to": "     Metz   vs   Lens"
+        },
+        {
+            "compet": "French Ligue 1 - Week 10",
             "match": "     Nice   vs   Lille",
             "flags": {
                 "team1": "france",
@@ -885,24 +911,6 @@
             "encry": "",
             "link": "https://plus.ligue1.com/home",
             "related_to": "     Lorient   vs   Paris St Germain"
-        },
-        {
-            "compet": "French Ligue 1 - Week 10",
-            "match": "     Metz   vs   Lens",
-            "flags": {
-                "team1": "france",
-                "team2": "france"
-            },
-            "time": "18:00",
-            "date": "2025-10-29"
-        },
-        {
-            "channel": "Ligue 1+ ($/geo/R)",
-            "sat": "Download APP 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://plus.ligue1.com/home",
-            "related_to": "     Metz   vs   Lens"
         },
         {
             "compet": "French Ligue 1 - Week 10",
@@ -1049,6 +1057,14 @@
             },
             "time": "20:05",
             "date": "2025-10-29"
+        },
+        {
+            "channel": "",
+            "sat": " \u00b0",
+            "freq": " ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Toulouse   vs   Rennes"
         },
         {
             "channel": "Ligue 1+ ($/geo/R)",
