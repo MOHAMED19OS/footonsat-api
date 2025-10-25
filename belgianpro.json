@@ -2,32 +2,6 @@
     "footonsat": [
         {
             "compet": "Belgian Pro League - Week 12",
-            "match": "     Sporting Charleroi   vs   Anderlecht",
-            "flags": {
-                "team1": "belgium",
-                "team2": "belgium"
-            },
-            "time": "18:45",
-            "date": "2025-10-24"
-        },
-        {
-            "channel": "DAZN Great Britain (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": "     Sporting Charleroi   vs   Anderlecht"
-        },
-        {
-            "channel": "DAZN Ireland ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.dazn.com/en-IE/home",
-            "related_to": "     Sporting Charleroi   vs   Anderlecht"
-        },
-        {
-            "compet": "Belgian Pro League - Week 12",
             "match": "     Westerlo   vs   Dender",
             "flags": {
                 "team1": "belgium",
@@ -195,6 +169,22 @@
             "date": "2025-10-31"
         },
         {
+            "channel": "DAZN Great Britain (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "     Standard Li\u00e8ge   vs   Sporting Charleroi"
+        },
+        {
+            "channel": "DAZN Ireland ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "     Standard Li\u00e8ge   vs   Sporting Charleroi"
+        },
+        {
             "channel": "DAZN Pro League 1 HD",
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12129 V 29900 - 3/4",
@@ -211,6 +201,22 @@
             },
             "time": "15:00",
             "date": "2025-11-01"
+        },
+        {
+            "channel": "DAZN Great Britain (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "     Zulte Waregem   vs   Union St Gilloise"
+        },
+        {
+            "channel": "DAZN Ireland ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "     Zulte Waregem   vs   Union St Gilloise"
         },
         {
             "channel": "DAZN Pro League 1 HD",
