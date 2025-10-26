@@ -349,6 +349,14 @@
             "related_to": "     Real Madrid   vs   Barcelona"
         },
         {
+            "channel": "Canal+ Sport 4 Afrique HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10886 H 30000 - 8/9",
+            "encry": "HD Mediaguard",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Barcelona"
+        },
+        {
             "channel": "Cytavision Sports 8 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -441,6 +449,14 @@
             "sat": "AzerSpace 1 46.0\u00b0e",
             "freq": "11175 H 30000 - 5/6",
             "encry": "FTA",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Barcelona"
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Intelsat 39 62.0\u00b0e",
+            "freq": "11555 V 30000 - 3/4",
+            "encry": "HD BISS",
             "link": "#",
             "related_to": "     Real Madrid   vs   Barcelona"
         },
@@ -697,6 +713,14 @@
             "sat": "Eutelsat 36D 35.9\u00b0e",
             "freq": "11346 V 30000 - 5/6",
             "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Barcelona"
+        },
+        {
+            "channel": "Ziggo Sport HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "HD Viaccess",
             "link": "#",
             "related_to": "     Real Madrid   vs   Barcelona"
         },
@@ -1031,6 +1055,22 @@
             "related_to": "     Osasuna   vs   Celta Vigo"
         },
         {
+            "channel": "Ziggo Sport 5",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Osasuna   vs   Celta Vigo"
+        },
+        {
+            "channel": "Ziggo Sport HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Osasuna   vs   Celta Vigo"
+        },
+        {
             "compet": "Spanish La Liga (Primera) - Week 10",
             "match": "     Rayo Vallecano   vs   Alav\u00e9s",
             "flags": {
@@ -1293,6 +1333,14 @@
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "10872 V 25000 - 3/4",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Rayo Vallecano   vs   Alav\u00e9s"
+        },
+        {
+            "channel": "Ziggo Sport 2",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "MPEG-4 Viaccess",
             "link": "#",
             "related_to": "     Rayo Vallecano   vs   Alav\u00e9s"
         },
