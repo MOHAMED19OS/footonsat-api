@@ -1427,6 +1427,14 @@
             "related_to": "     Lazio   vs   Juventus"
         },
         {
+            "channel": "Zor TV Uzbekistan",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "#",
+            "related_to": "     Lazio   vs   Juventus"
+        },
+        {
             "compet": "Italian Serie A - Week 9",
             "match": "     Lecce   vs   Napoli",
             "flags": {
@@ -1880,6 +1888,24 @@
         },
         {
             "compet": "Italian Serie A - Week 10",
+            "match": "     Udinese   vs   Atalanta",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "14:00",
+            "date": "2025-11-01"
+        },
+        {
+            "channel": "beIN Sports Australia 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Udinese   vs   Atalanta"
+        },
+        {
+            "compet": "Italian Serie A - Week 10",
             "match": "     Napoli   vs   Como",
             "flags": {
                 "team1": "italy",
@@ -1913,6 +1939,14 @@
             },
             "time": "19:45",
             "date": "2025-11-01"
+        },
+        {
+            "channel": "beIN Sports Australia 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Cremonese   vs   Juventus"
         },
         {
             "channel": "DAZN Great Britain (geo/R)",
