@@ -329,6 +329,14 @@
             "related_to": "     Gaziantep   vs   Fenerbah\u00e7e"
         },
         {
+            "channel": "Sport+ Qazaqstan",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "10720 H 30000 - 3/4",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Gaziantep   vs   Fenerbah\u00e7e"
+        },
+        {
             "channel": "SportKlub 1 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11471 H 30000 - 3/4",
@@ -423,6 +431,14 @@
             "related_to": "     Brommapojkarna   vs   GAIS"
         },
         {
+            "channel": "HBO Max Extra 2 HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "11341 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Brommapojkarna   vs   GAIS"
+        },
+        {
             "channel": "TV4 Play Sverige [online]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -473,6 +489,24 @@
             "related_to": "     Radomiak Radom   vs   Wisla Plock"
         },
         {
+            "compet": "Danish Superliga - Week 13",
+            "match": "     OB Odense   vs   Br\u00f8ndby",
+            "flags": {
+                "team1": "denmark",
+                "team2": "denmark"
+            },
+            "time": "18:00",
+            "date": "2025-10-27"
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "     OB Odense   vs   Br\u00f8ndby"
+        },
+        {
             "compet": "Swedish Allsvenskan - Week 28",
             "match": "     Malm\u00f6   vs   Hammarby",
             "flags": {
@@ -488,6 +522,14 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.discoveryplus.se/sport/fotboll",
+            "related_to": "     Malm\u00f6   vs   Hammarby"
+        },
+        {
+            "channel": "HBO Max Extra 1 HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "11341 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
             "related_to": "     Malm\u00f6   vs   Hammarby"
         },
         {
@@ -673,6 +715,54 @@
             "related_to": "     Port Vale   vs   Stockport County"
         },
         {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Port Vale   vs   Stockport County"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Port Vale   vs   Stockport County"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Port Vale   vs   Stockport County"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Port Vale   vs   Stockport County"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Port Vale   vs   Stockport County"
+        },
+        {
+            "channel": "ViaPlay \u00cdsland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Port Vale   vs   Stockport County"
+        },
+        {
             "compet": "Spanish La Liga (Primera) - Week 10",
             "match": "     Real Betis   vs   Atl\u00e9tico Madrid",
             "flags": {
@@ -847,6 +937,22 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Real Betis   vs   Atl\u00e9tico Madrid"
+        },
+        {
+            "channel": "TV4 Fotboll HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10872 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Real Betis   vs   Atl\u00e9tico Madrid"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Real Betis   vs   Atl\u00e9tico Madrid"
         },
