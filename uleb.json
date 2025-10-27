@@ -19,6 +19,22 @@
             "related_to": "     Red Star Belgrade   vs   Asvel Villeurbanne"
         },
         {
+            "channel": "Magenta Sport ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": "     Red Star Belgrade   vs   Asvel Villeurbanne"
+        },
+        {
+            "channel": "Nova Sports Extra 1 Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12169 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Red Star Belgrade   vs   Asvel Villeurbanne"
+        },
+        {
             "compet": "ULEB Euroleague - Round 7",
             "match": "     Zalgiris Kaunas   vs   Virtus Bologna",
             "flags": {
@@ -35,6 +51,80 @@
             "encry": "LiveOnSat.com",
             "link": "https://tv.euroleague.net/",
             "related_to": "     Zalgiris Kaunas   vs   Virtus Bologna"
+        },
+        {
+            "channel": "Magenta Sport ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": "     Zalgiris Kaunas   vs   Virtus Bologna"
+        },
+        {
+            "channel": "Nova Sports 2 Cyprus HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Zalgiris Kaunas   vs   Virtus Bologna"
+        },
+        {
+            "channel": "Nova Sports 2 Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Zalgiris Kaunas   vs   Virtus Bologna"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 7",
+            "match": "     Bayern Munich   vs   Real Madrid",
+            "flags": {
+                "team1": "germany",
+                "team2": "spain"
+            },
+            "time": "19:00",
+            "date": "2025-10-28"
+        },
+        {
+            "channel": "EuroLeague TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://tv.euroleague.net/",
+            "related_to": "     Bayern Munich   vs   Real Madrid"
+        },
+        {
+            "channel": "Magenta Sport ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": "     Bayern Munich   vs   Real Madrid"
+        },
+        {
+            "channel": "Nova Sports 6 Cyprus HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11804 V 29700 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Bayern Munich   vs   Real Madrid"
+        },
+        {
+            "channel": "Nova Sports 6 Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11804 V 29700 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Bayern Munich   vs   Real Madrid"
+        },
+        {
+            "channel": "Setanta Sports 2 Eurasia HD",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "12657 V 45000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Bayern Munich   vs   Real Madrid"
         },
         {
             "compet": "ULEB Euroleague - Round 7",
@@ -71,6 +161,30 @@
             "related_to": "     Panathinaikos   vs   Maccabi Tel Aviv"
         },
         {
+            "channel": "Magenta Sport ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": "     Panathinaikos   vs   Maccabi Tel Aviv"
+        },
+        {
+            "channel": "Nova Sports Prime Cyprus HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Panathinaikos   vs   Maccabi Tel Aviv"
+        },
+        {
+            "channel": "Nova Sports Prime Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Panathinaikos   vs   Maccabi Tel Aviv"
+        },
+        {
             "compet": "ULEB Euroleague - Round 7",
             "match": "     Baskonia   vs   Dubai Basketball",
             "flags": {
@@ -89,22 +203,28 @@
             "related_to": "     Baskonia   vs   Dubai Basketball"
         },
         {
-            "compet": "ULEB Euroleague - Round 7",
-            "match": "     Bayern Munich   vs   Real Madrid",
-            "flags": {
-                "team1": "germany",
-                "team2": "spain"
-            },
-            "time": "19:30",
-            "date": "2025-10-28"
-        },
-        {
-            "channel": "EuroLeague TV ($/geo/R)",
+            "channel": "Magenta Sport ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "https://tv.euroleague.net/",
-            "related_to": "     Bayern Munich   vs   Real Madrid"
+            "encry": "",
+            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": "     Baskonia   vs   Dubai Basketball"
+        },
+        {
+            "channel": "Nova Sports Start Cyprus HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11804 V 29700 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Baskonia   vs   Dubai Basketball"
+        },
+        {
+            "channel": "Nova Sports Start Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11804 V 29700 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Baskonia   vs   Dubai Basketball"
         },
         {
             "compet": "ULEB Euroleague - Round 7",
@@ -133,10 +253,42 @@
             "related_to": "     Barcelona   vs   Olimpia Milano"
         },
         {
+            "channel": "Magenta Sport ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": "     Barcelona   vs   Olimpia Milano"
+        },
+        {
+            "channel": "Nova Sports 3 Cyprus HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11823 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Olimpia Milano"
+        },
+        {
+            "channel": "Nova Sports 3 Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11823 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Olimpia Milano"
+        },
+        {
             "channel": "Setanta Sports Qazaqstan HD",
             "sat": "KazSat 3 58.5\u00b0e",
             "freq": "12657 V 45000 - 3/4",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Olimpia Milano"
+        },
+        {
+            "channel": "Setanta Sports Ukraine HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "12207 V 30000 - 2/3",
+            "encry": "HD Verimatrix",
             "link": "#",
             "related_to": "     Barcelona   vs   Olimpia Milano"
         },
@@ -159,6 +311,30 @@
             "related_to": "     Paris Basketball   vs   Anadolu Efes"
         },
         {
+            "channel": "Magenta Sport ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": "     Paris Basketball   vs   Anadolu Efes"
+        },
+        {
+            "channel": "Nova Sports 5 Cyprus HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11823 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Paris Basketball   vs   Anadolu Efes"
+        },
+        {
+            "channel": "Nova Sports 5 Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11823 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Paris Basketball   vs   Anadolu Efes"
+        },
+        {
             "compet": "ULEB Euroleague - Round 7",
             "match": "     Valencia   vs   Fenerbahce",
             "flags": {
@@ -174,6 +350,30 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://tv.euroleague.net/",
+            "related_to": "     Valencia   vs   Fenerbahce"
+        },
+        {
+            "channel": "Magenta Sport ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": "     Valencia   vs   Fenerbahce"
+        },
+        {
+            "channel": "Nova Sports 2 Cyprus HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Valencia   vs   Fenerbahce"
+        },
+        {
+            "channel": "Nova Sports 2 Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
             "related_to": "     Valencia   vs   Fenerbahce"
         },
         {
@@ -203,6 +403,38 @@
             "related_to": "     Hapoel Tel Aviv   vs   Partizan Belgrade"
         },
         {
+            "channel": "Magenta Sport ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": "     Hapoel Tel Aviv   vs   Partizan Belgrade"
+        },
+        {
+            "channel": "Nova Sports 4 Cyprus HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12169 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Hapoel Tel Aviv   vs   Partizan Belgrade"
+        },
+        {
+            "channel": "Nova Sports 4 Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12169 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Hapoel Tel Aviv   vs   Partizan Belgrade"
+        },
+        {
+            "channel": "Setanta Sports+ Ukraine HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "12207 V 30000 - 2/3",
+            "encry": "HD Verimatrix",
+            "link": "#",
+            "related_to": "     Hapoel Tel Aviv   vs   Partizan Belgrade"
+        },
+        {
             "compet": "ULEB Euroleague - Round 7",
             "match": "     Olympiacos   vs   Monaco Basket",
             "flags": {
@@ -229,6 +461,30 @@
             "related_to": "     Olympiacos   vs   Monaco Basket"
         },
         {
+            "channel": "Magenta Sport ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": "     Olympiacos   vs   Monaco Basket"
+        },
+        {
+            "channel": "Nova Sports Prime Cyprus HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Olympiacos   vs   Monaco Basket"
+        },
+        {
+            "channel": "Nova Sports Prime Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Olympiacos   vs   Monaco Basket"
+        },
+        {
             "compet": "ULEB Euroleague - Round 8",
             "match": "     Zalgiris Kaunas   vs   Asvel Villeurbanne",
             "flags": {
@@ -244,6 +500,38 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://tv.euroleague.net/",
+            "related_to": "     Zalgiris Kaunas   vs   Asvel Villeurbanne"
+        },
+        {
+            "channel": "Magenta Sport ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": "     Zalgiris Kaunas   vs   Asvel Villeurbanne"
+        },
+        {
+            "channel": "Nova Sports Start Cyprus HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11804 V 29700 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Zalgiris Kaunas   vs   Asvel Villeurbanne"
+        },
+        {
+            "channel": "Nova Sports Start Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11804 V 29700 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Zalgiris Kaunas   vs   Asvel Villeurbanne"
+        },
+        {
+            "channel": "Setanta Sports 1 Eurasia HD",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "12657 V 45000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
             "related_to": "     Zalgiris Kaunas   vs   Asvel Villeurbanne"
         },
         {
@@ -273,6 +561,30 @@
             "related_to": "     Maccabi Tel Aviv   vs   Red Star Belgrade"
         },
         {
+            "channel": "Magenta Sport ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": "     Maccabi Tel Aviv   vs   Red Star Belgrade"
+        },
+        {
+            "channel": "Nova Sports 2 Cyprus HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Maccabi Tel Aviv   vs   Red Star Belgrade"
+        },
+        {
+            "channel": "Nova Sports 2 Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Maccabi Tel Aviv   vs   Red Star Belgrade"
+        },
+        {
             "compet": "ULEB Euroleague - Round 8",
             "match": "     Bayern Munich   vs   Virtus Bologna",
             "flags": {
@@ -291,6 +603,38 @@
             "related_to": "     Bayern Munich   vs   Virtus Bologna"
         },
         {
+            "channel": "Magenta Sport ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": "     Bayern Munich   vs   Virtus Bologna"
+        },
+        {
+            "channel": "Nova Sports 5 Cyprus HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11823 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Bayern Munich   vs   Virtus Bologna"
+        },
+        {
+            "channel": "Nova Sports 5 Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11823 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Bayern Munich   vs   Virtus Bologna"
+        },
+        {
+            "channel": "Setanta Sports+ Ukraine HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "12207 V 30000 - 2/3",
+            "encry": "HD Verimatrix",
+            "link": "#",
+            "related_to": "     Bayern Munich   vs   Virtus Bologna"
+        },
+        {
             "compet": "ULEB Euroleague - Round 8",
             "match": "     Valencia   vs   Dubai Basketball",
             "flags": {
@@ -306,6 +650,30 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://tv.euroleague.net/",
+            "related_to": "     Valencia   vs   Dubai Basketball"
+        },
+        {
+            "channel": "Magenta Sport ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": "     Valencia   vs   Dubai Basketball"
+        },
+        {
+            "channel": "Nova Sports 6 Cyprus HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11804 V 29700 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Valencia   vs   Dubai Basketball"
+        },
+        {
+            "channel": "Nova Sports 6 Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11804 V 29700 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
             "related_to": "     Valencia   vs   Dubai Basketball"
         },
         {
@@ -335,6 +703,30 @@
             "related_to": "     Olimpia Milano   vs   Paris Basketball"
         },
         {
+            "channel": "Magenta Sport ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": "     Olimpia Milano   vs   Paris Basketball"
+        },
+        {
+            "channel": "Nova Sports 4 Cyprus HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12169 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Olimpia Milano   vs   Paris Basketball"
+        },
+        {
+            "channel": "Nova Sports 4 Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12169 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Olimpia Milano   vs   Paris Basketball"
+        },
+        {
             "channel": "Setanta Sports Qazaqstan HD",
             "sat": "KazSat 3 58.5\u00b0e",
             "freq": "12657 V 45000 - 3/4",
@@ -357,6 +749,54 @@
             "sat": "Amos 3 4.0\u00b0w",
             "freq": "10806 V 27500 - 3/4",
             "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Fenerbahce"
+        },
+        {
+            "channel": "EuroLeague TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://tv.euroleague.net/",
+            "related_to": "     Real Madrid   vs   Fenerbahce"
+        },
+        {
+            "channel": "Magenta Sport ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": "     Real Madrid   vs   Fenerbahce"
+        },
+        {
+            "channel": "Nova Sports Prime Cyprus HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Fenerbahce"
+        },
+        {
+            "channel": "Nova Sports Prime Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Fenerbahce"
+        },
+        {
+            "channel": "Setanta Sports 1 Eurasia HD",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "12657 V 45000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Fenerbahce"
+        },
+        {
+            "channel": "Setanta Sports Ukraine HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "12207 V 30000 - 2/3",
+            "encry": "HD Verimatrix",
             "link": "#",
             "related_to": "     Real Madrid   vs   Fenerbahce"
         },
@@ -387,6 +827,46 @@
             "related_to": "     Monaco Basket   vs   Panathinaikos"
         },
         {
+            "channel": "Magenta Sport ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": "     Monaco Basket   vs   Panathinaikos"
+        },
+        {
+            "channel": "Nova Sports 4 Cyprus HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12169 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Monaco Basket   vs   Panathinaikos"
+        },
+        {
+            "channel": "Nova Sports 4 Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12169 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Monaco Basket   vs   Panathinaikos"
+        },
+        {
+            "channel": "Setanta Sports 1 Eurasia HD",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "12657 V 45000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Monaco Basket   vs   Panathinaikos"
+        },
+        {
+            "channel": "Setanta Sports Ukraine HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "12207 V 30000 - 2/3",
+            "encry": "HD Verimatrix",
+            "link": "#",
+            "related_to": "     Monaco Basket   vs   Panathinaikos"
+        },
+        {
             "compet": "ULEB Euroleague - Round 8",
             "match": "     Olympiacos   vs   Hapoel Tel Aviv",
             "flags": {
@@ -410,6 +890,30 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://tv.euroleague.net/",
+            "related_to": "     Olympiacos   vs   Hapoel Tel Aviv"
+        },
+        {
+            "channel": "Magenta Sport ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": "     Olympiacos   vs   Hapoel Tel Aviv"
+        },
+        {
+            "channel": "Nova Sports Prime Cyprus HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Olympiacos   vs   Hapoel Tel Aviv"
+        },
+        {
+            "channel": "Nova Sports Prime Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
             "related_to": "     Olympiacos   vs   Hapoel Tel Aviv"
         },
         {
@@ -439,6 +943,30 @@
             "related_to": "     Baskonia   vs   Anadolu Efes"
         },
         {
+            "channel": "Magenta Sport ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": "     Baskonia   vs   Anadolu Efes"
+        },
+        {
+            "channel": "Nova Sports Start Cyprus HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11804 V 29700 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Baskonia   vs   Anadolu Efes"
+        },
+        {
+            "channel": "Nova Sports Start Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11804 V 29700 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Baskonia   vs   Anadolu Efes"
+        },
+        {
             "compet": "ULEB Euroleague - Round 8",
             "match": "     Partizan Belgrade   vs   Barcelona",
             "flags": {
@@ -462,6 +990,30 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://tv.euroleague.net/",
+            "related_to": "     Partizan Belgrade   vs   Barcelona"
+        },
+        {
+            "channel": "Magenta Sport ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": "     Partizan Belgrade   vs   Barcelona"
+        },
+        {
+            "channel": "Nova Sports 6 Cyprus HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11804 V 29700 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Partizan Belgrade   vs   Barcelona"
+        },
+        {
+            "channel": "Nova Sports 6 Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11804 V 29700 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
             "related_to": "     Partizan Belgrade   vs   Barcelona"
         },
         {
