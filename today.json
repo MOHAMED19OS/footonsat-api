@@ -37,6 +37,14 @@
             "date": "2025-10-27"
         },
         {
+            "channel": "Arena Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11678 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Botosani   vs   Hermannstadt"
+        },
+        {
             "channel": "Digi Sport 1 Romania HD",
             "sat": "Thor 5 0.8\u00b0w",
             "freq": "11862 H 28000 - 7/8",
@@ -51,6 +59,32 @@
             "encry": "HD Viaccess",
             "link": "#",
             "related_to": "     Botosani   vs   Hermannstadt"
+        },
+        {
+            "compet": "Russian Premier League - Week 13",
+            "match": "     Akhmat Grozny   vs   Sochi",
+            "flags": {
+                "team1": "russia",
+                "team2": "russia"
+            },
+            "time": "16:30",
+            "date": "2025-10-27"
+        },
+        {
+            "channel": "Arena Sport 2 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11554 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Akhmat Grozny   vs   Sochi"
+        },
+        {
+            "channel": "MATCH! Premier HD",
+            "sat": "Horizons 2 84.8\u00b0e",
+            "freq": "11720 H 28800 - 3/4",
+            "encry": "Conax",
+            "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
+            "related_to": "     Akhmat Grozny   vs   Sochi"
         },
         {
             "compet": "T\u00fcrkiye S\u00fcper Lig - Week 10",
@@ -387,6 +421,40 @@
             "related_to": "     Maccabi Tel Aviv   vs   Ironi Kiryat Shmona"
         },
         {
+            "compet": "Polish Ekstraklasa - Week 13",
+            "match": "     Radomiak Radom   vs   Wisla Plock",
+            "flags": {
+                "team1": "poland",
+                "team2": "poland"
+            },
+            "time": "18:00",
+            "date": "2025-10-27"
+        },
+        {
+            "channel": "Arena Sport 3 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11512 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Radomiak Radom   vs   Wisla Plock"
+        },
+        {
+            "channel": "Canal+ Sport 3 Polska HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "10892 H 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Radomiak Radom   vs   Wisla Plock"
+        },
+        {
+            "channel": "Ekstraklasa TV ($/PPV)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.ekstraklasa.tv/ekstraklasa/",
+            "related_to": "     Radomiak Radom   vs   Wisla Plock"
+        },
+        {
             "compet": "Swedish Allsvenskan - Week 28",
             "match": "     Malm\u00f6   vs   Hammarby",
             "flags": {
@@ -421,6 +489,14 @@
             },
             "time": "18:30",
             "date": "2025-10-27"
+        },
+        {
+            "channel": "Arena Sport 2 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11554 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Rapid Bucharest   vs   Unirea Slobozia"
         },
         {
             "channel": "Digi Sport 1 Romania HD",
@@ -499,6 +575,14 @@
             "date": "2025-10-27"
         },
         {
+            "channel": "Arena Sport 3 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11512 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Port Vale   vs   Stockport County"
+        },
+        {
             "channel": "beIN Sports MENA 2 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 H 27500 - 2/3",
@@ -573,6 +657,14 @@
             "date": "2025-10-27"
         },
         {
+            "channel": "Arena Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11678 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Real Betis   vs   Atl\u00e9tico Madrid"
+        },
+        {
             "channel": "ART Motion Sport 1 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -625,6 +717,14 @@
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "11390 V 27500 - 2/3",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Real Betis   vs   Atl\u00e9tico Madrid"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Real Betis   vs   Atl\u00e9tico Madrid"
         },
