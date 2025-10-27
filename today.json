@@ -353,6 +353,14 @@
             "related_to": "     Gaziantep   vs   Fenerbah\u00e7e"
         },
         {
+            "channel": "SuperSport 2 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Gaziantep   vs   Fenerbah\u00e7e"
+        },
+        {
             "channel": "SuperSport ESPN HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "10970 V 30000 - 5/6",
@@ -933,6 +941,14 @@
             "related_to": "     Real Betis   vs   Atl\u00e9tico Madrid"
         },
         {
+            "channel": "SuperSport 2 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Real Betis   vs   Atl\u00e9tico Madrid"
+        },
+        {
             "channel": "TSN Malta 4 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -981,6 +997,24 @@
             "encry": "VideoGuard",
             "link": "#",
             "related_to": "     Moreirense   vs   FC Porto"
+        },
+        {
+            "compet": "Major League Soccer (MLS) - Round of 16",
+            "match": "     Cincinnati   vs   Columbus Crew",
+            "flags": {
+                "team1": "usa",
+                "team2": "usa"
+            },
+            "time": "22:45",
+            "date": "2025-10-27"
+        },
+        {
+            "channel": "MLS Season Pass [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Cincinnati   vs   Columbus Crew"
         }
     ]
 }
