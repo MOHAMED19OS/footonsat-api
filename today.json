@@ -1975,6 +1975,14 @@
             "date": "2025-10-28"
         },
         {
+            "channel": "** P-O-S-T-P-O-N-E-D **",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Iceland   vs   Northern Ireland"
+        },
+        {
             "channel": "BBC iPlayer (geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2041,10 +2049,34 @@
             "related_to": "     Al Nassr   vs   Al Ittihad"
         },
         {
+            "channel": "Meraj TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11221 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Nassr   vs   Al Ittihad"
+        },
+        {
             "channel": "Movistar Plus+ 2 HD",
             "sat": "Astra 1L 19.2\u00b0e",
             "freq": "11097 V 22000 - 5/6",
             "encry": "Seca",
+            "link": "#",
+            "related_to": "     Al Nassr   vs   Al Ittihad"
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Nassr   vs   Al Ittihad"
+        },
+        {
+            "channel": "Polsat Sport Extra 1 HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "12265 V 27500 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Al Nassr   vs   Al Ittihad"
         },
@@ -3802,6 +3834,14 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "     Coleraine   vs   Linfield"
+        },
+        {
+            "channel": "BBC Sport NI Online",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.bbc.com/sport/northern-ireland",
             "related_to": "     Coleraine   vs   Linfield"
         },
         {
