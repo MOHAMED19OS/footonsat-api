@@ -125,6 +125,24 @@
             "related_to": "     52 Orduspor   vs   Sariyer"
         },
         {
+            "compet": "Serbian Cup (Kup Srbije) - Round of 32",
+            "match": "     Javor Ivanjica   vs   Zeleznicar",
+            "flags": {
+                "team1": "serbia",
+                "team2": "serbia"
+            },
+            "time": "12:30",
+            "date": "2025-10-28"
+        },
+        {
+            "channel": "Arena Premium 4 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Javor Ivanjica   vs   Zeleznicar"
+        },
+        {
             "compet": "Albanian Superliga - Week 9",
             "match": "     Bylis   vs   Vora",
             "flags": {
@@ -177,6 +195,14 @@
             },
             "time": "13:45",
             "date": "2025-10-28"
+        },
+        {
+            "channel": "Diema Sport HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Fratria   vs   Arda"
         },
         {
             "channel": "SportKlub 3 Hrvatska",
@@ -293,6 +319,14 @@
             "related_to": "     Sparta Prague   vs   Bohemians 1905"
         },
         {
+            "channel": "Polsat Sport Premium 2 HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11117 V 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Sparta Prague   vs   Bohemians 1905"
+        },
+        {
             "compet": "Czech Cup (Pohar CMFS) - Round of 16",
             "match": "     Jablonec   vs   Dukla Prague",
             "flags": {
@@ -339,6 +373,14 @@
             "date": "2025-10-28"
         },
         {
+            "channel": "Diema Sport HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Dunav Ruse   vs   Lokomotiv Plovdiv"
+        },
+        {
             "channel": "SportKlub 3 Hrvatska",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -373,6 +415,32 @@
             "related_to": "     Austria   vs   Czechia"
         },
         {
+            "compet": "UEFA Womens Nations League - Relegation Play-Off (2nd Leg)",
+            "match": "     Denmark   vs   Finland",
+            "flags": {
+                "team1": "denmark",
+                "team2": "finland"
+            },
+            "time": "17:00",
+            "date": "2025-10-28"
+        },
+        {
+            "channel": "DR TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dr.dk/drtv/kanal/20875",
+            "related_to": "     Denmark   vs   Finland"
+        },
+        {
+            "channel": "DR2 Dansk HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11881 H 28000 - 3/4",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Denmark   vs   Finland"
+        },
+        {
             "compet": "Italian Serie A - Week 9",
             "match": "     Lecce   vs   Napoli",
             "flags": {
@@ -381,6 +449,14 @@
             },
             "time": "17:30",
             "date": "2025-10-28"
+        },
+        {
+            "channel": "Arena Premium 4 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Lecce   vs   Napoli"
         },
         {
             "channel": "Arena Sport 1 Hrvatska HD",
@@ -447,11 +523,27 @@
             "related_to": "     Lecce   vs   Napoli"
         },
         {
+            "channel": "Eleven Sports 1 Polska HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11488 H 27500 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Lecce   vs   Napoli"
+        },
+        {
             "channel": "Fast Sports [online] ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "     Lecce   vs   Napoli"
+        },
+        {
+            "channel": "MAX Sport 3 Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12600 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
             "related_to": "     Lecce   vs   Napoli"
         },
         {
@@ -577,6 +669,14 @@
             "date": "2025-10-28"
         },
         {
+            "channel": "Arena Sport 1 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12460 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Eintracht Frankfurt   vs   Borussia Dortmund"
+        },
+        {
             "channel": "Arena Sport 3 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11512 H 30000 - 3/4",
@@ -590,6 +690,22 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.dfbplay.tv/",
+            "related_to": "     Eintracht Frankfurt   vs   Borussia Dortmund"
+        },
+        {
+            "channel": "Diema Sport 3 HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Eintracht Frankfurt   vs   Borussia Dortmund"
+        },
+        {
+            "channel": "Eleven Sports 2 Polska HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11488 V 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
             "related_to": "     Eintracht Frankfurt   vs   Borussia Dortmund"
         },
         {
@@ -691,6 +807,14 @@
             "related_to": "     Wolfsburg   vs   Holstein Kiel"
         },
         {
+            "channel": "Diema Sport 2 HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12137 V 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Wolfsburg   vs   Holstein Kiel"
+        },
+        {
             "channel": "Megogo Futbol 6 ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -717,6 +841,14 @@
             "date": "2025-10-28"
         },
         {
+            "channel": "Arena Sport 2 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11798 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Heidenheim   vs   Hamburg"
+        },
+        {
             "channel": "Arena Sport 9 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11678 H 30000 - 3/4",
@@ -733,10 +865,26 @@
             "related_to": "     Heidenheim   vs   Hamburg"
         },
         {
+            "channel": "Eleven Sports 3 Polska HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11488 H 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Heidenheim   vs   Hamburg"
+        },
+        {
             "channel": "Megogo Futbol 4 ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Heidenheim   vs   Hamburg"
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12560 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto",
             "link": "#",
             "related_to": "     Heidenheim   vs   Hamburg"
         },
@@ -807,6 +955,24 @@
             "encry": "MPEG-4 Irdeto",
             "link": "#",
             "related_to": "     Kayserispor   vs   Nigde Belediyesi Spor"
+        },
+        {
+            "compet": "Serbian Cup (Kup Srbije) - Round of 32",
+            "match": "     Macva Sabac   vs   Partizan Belgrade",
+            "flags": {
+                "team1": "serbia",
+                "team2": "serbia"
+            },
+            "time": "17:30",
+            "date": "2025-10-28"
+        },
+        {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12480 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Macva Sabac   vs   Partizan Belgrade"
         },
         {
             "compet": "English League Trophy - Group Stage",
@@ -1017,6 +1183,72 @@
             "related_to": "     Walsall   vs   Chelsea U-21"
         },
         {
+            "compet": "UEFA Womens Nations League - Semi Final (2nd Leg)",
+            "match": "     Sweden   vs   Spain",
+            "flags": {
+                "team1": "sweden",
+                "team2": "spain"
+            },
+            "time": "18:00",
+            "date": "2025-10-28"
+        },
+        {
+            "channel": "Polsat Sport 3 HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "12284 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Sweden   vs   Spain"
+        },
+        {
+            "channel": "RTVE Play ($/geoR)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.rtve.es/play/deportes/",
+            "related_to": "     Sweden   vs   Spain"
+        },
+        {
+            "channel": "Sport TV5 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Sweden   vs   Spain"
+        },
+        {
+            "channel": "SVT 2 Sverige HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "11216 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Sweden   vs   Spain"
+        },
+        {
+            "channel": "SVT 24 Sverige HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "11216 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Sweden   vs   Spain"
+        },
+        {
+            "channel": "SVT Play HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.svtplay.se/",
+            "related_to": "     Sweden   vs   Spain"
+        },
+        {
+            "channel": "TVE La 1 HD Espa\u00f1a",
+            "sat": "*DTT 0.0\u00b0-",
+            "freq": "0000 - -",
+            "encry": "NagraVision",
+            "link": "http://www.rtve.es/directo/la-1/",
+            "related_to": "     Sweden   vs   Spain"
+        },
+        {
             "compet": "Spanish Cup (Copa del Rey) - 1st Round",
             "match": "     Const\u00e0ncia   vs   Girona",
             "flags": {
@@ -1131,24 +1363,6 @@
             "related_to": "     Iceland   vs   Northern Ireland"
         },
         {
-            "compet": "UEFA Womens Nations League - Relegation Play-Off (2nd Leg)",
-            "match": "     Sweden   vs   Spain",
-            "flags": {
-                "team1": "sweden",
-                "team2": "spain"
-            },
-            "time": "18:00",
-            "date": "2025-10-28"
-        },
-        {
-            "channel": "Sport TV5 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12360 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Sweden   vs   Spain"
-        },
-        {
             "channel": "5 SPORT Israel HD",
             "sat": "Amos 3 4.0\u00b0w",
             "freq": "10806 V 27500 - 3/4",
@@ -1245,6 +1459,46 @@
             },
             "time": "19:10",
             "date": "2025-10-28"
+        },
+        {
+            "channel": "FIFA+ [app] (geo/R)",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "-",
+            "link": "https://www.fifa.com/fifaplus/en/live",
+            "related_to": "     France   vs   Germany"
+        },
+        {
+            "channel": "Polsat Sport 3 HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "12284 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     France   vs   Germany"
+        },
+        {
+            "channel": "Polsat Sport Extra 1 HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "12265 V 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     France   vs   Germany"
+        },
+        {
+            "channel": "W9 France HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12168 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "https://www.6play.fr/w9/direct",
+            "related_to": "     France   vs   Germany"
+        },
+        {
+            "channel": "W9 Suisse HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12034 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     France   vs   Germany"
         },
         {
             "channel": "YouTube: German Football (geo/R)",
@@ -1887,6 +2141,14 @@
             "related_to": "     Wycombe Wanderers   vs   Fulham"
         },
         {
+            "channel": "Diema Sport HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Wycombe Wanderers   vs   Fulham"
+        },
+        {
             "channel": "Nova Sport 6 Czech HD",
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12090 V 29900 - 3/4",
@@ -1977,6 +2239,14 @@
             "date": "2025-10-28"
         },
         {
+            "channel": "Arena Premium 4 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Atalanta   vs   AC Milan"
+        },
+        {
             "channel": "Arena Sport 1 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11678 H 30000 - 3/4",
@@ -2033,11 +2303,27 @@
             "related_to": "     Atalanta   vs   AC Milan"
         },
         {
+            "channel": "Eleven Sports 1 Polska HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11488 H 27500 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Atalanta   vs   AC Milan"
+        },
+        {
             "channel": "Fast Sports [online] ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "     Atalanta   vs   AC Milan"
+        },
+        {
+            "channel": "MAX Sport 3 Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12600 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
             "related_to": "     Atalanta   vs   AC Milan"
         },
         {
@@ -2355,10 +2641,34 @@
             "date": "2025-10-28"
         },
         {
+            "channel": "Arena Sport 4 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11798 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     M\u00f6nchengladbach   vs   Karlsruhe"
+        },
+        {
+            "channel": "Eleven Sports 3 Polska HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11488 H 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     M\u00f6nchengladbach   vs   Karlsruhe"
+        },
+        {
             "channel": "Megogo Futbol 7 ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     M\u00f6nchengladbach   vs   Karlsruhe"
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12560 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto",
             "link": "#",
             "related_to": "     M\u00f6nchengladbach   vs   Karlsruhe"
         },
@@ -2439,9 +2749,41 @@
             "date": "2025-10-28"
         },
         {
+            "channel": "Arena Sport 3 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11798 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Energie Cottbus   vs   RB Leipzig"
+        },
+        {
             "channel": "Arena Sport 5 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11678 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Energie Cottbus   vs   RB Leipzig"
+        },
+        {
+            "channel": "Diema Sport 3 HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Energie Cottbus   vs   RB Leipzig"
+        },
+        {
+            "channel": "Eleven Sports 2 Polska HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11488 V 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Energie Cottbus   vs   RB Leipzig"
+        },
+        {
+            "channel": "Eleven Sports 4 Polska HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11278 V 27500 - 3/4",
             "encry": "HD Conax",
             "link": "#",
             "related_to": "     Energie Cottbus   vs   RB Leipzig"
@@ -2559,6 +2901,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Wrexham   vs   Cardiff City"
+        },
+        {
+            "channel": "Diema Sport 2 HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12137 V 30000 - 5/6",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Wrexham   vs   Cardiff City"
         },
