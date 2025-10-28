@@ -1,13 +1,49 @@
 {
     "footonsat": [
         {
-            "compet": "Saudi King's Cup",
+            "compet": "Saudi King's Cup - Round of 16",
+            "match": "     Al Qadisiyah   vs   Al Hazem",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "14:35",
+            "date": "2025-10-28"
+        },
+        {
+            "channel": "Thamanya 1 KSA HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Qadisiyah   vs   Al Hazem"
+        },
+        {
+            "compet": "Saudi King's Cup - Round of 16",
+            "match": "     Al Shabab   vs   Al Zulfi",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "14:50",
+            "date": "2025-10-28"
+        },
+        {
+            "channel": "Thamanya 2 KSA HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Shabab   vs   Al Zulfi"
+        },
+        {
+            "compet": "Saudi King's Cup - Round of 16",
             "match": "     Al Akhdoud   vs   Al Hilal",
             "flags": {
                 "team1": "saudiarabia",
                 "team2": "saudiarabia"
             },
-            "time": "14:10",
+            "time": "15:10",
             "date": "2025-10-28"
         },
         {
@@ -19,14 +55,22 @@
             "related_to": "     Al Akhdoud   vs   Al Hilal"
         },
         {
-            "compet": "Saudi King's Cup",
+            "compet": "Saudi King's Cup - Round of 16",
             "match": "     Al Nassr   vs   Al Ittihad",
             "flags": {
                 "team1": "saudiarabia",
                 "team2": "saudiarabia"
             },
-            "time": "17:00",
+            "time": "18:00",
             "date": "2025-10-28"
+        },
+        {
+            "channel": "Azam Sports 4 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Al Nassr   vs   Al Ittihad"
         },
         {
             "channel": "Band Sports Brazil HD",
@@ -41,6 +85,22 @@
             "sat": "Eutelsat 9B 9.0\u00b0e",
             "freq": "12418 V 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Nassr   vs   Al Ittihad"
+        },
+        {
+            "channel": "M+ Liga de Campeones 2 HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "10729 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Al Nassr   vs   Al Ittihad"
+        },
+        {
+            "channel": "Movistar Plus+ 2 HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11097 V 22000 - 5/6",
+            "encry": "Seca",
             "link": "#",
             "related_to": "     Al Nassr   vs   Al Ittihad"
         },

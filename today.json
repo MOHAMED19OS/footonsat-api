@@ -299,22 +299,40 @@
             "related_to": "     Csikszereda   vs   Sepsi OSK"
         },
         {
-            "compet": "Saudi King's Cup",
-            "match": "     Al Akhdoud   vs   Al Hilal",
+            "compet": "Saudi King's Cup - Round of 16",
+            "match": "     Al Qadisiyah   vs   Al Hazem",
             "flags": {
                 "team1": "saudiarabia",
                 "team2": "saudiarabia"
             },
-            "time": "14:10",
+            "time": "14:35",
             "date": "2025-10-28"
         },
         {
-            "channel": "Thmanyah 3 HD",
+            "channel": "Thamanya 1 KSA HD",
             "sat": "Badr 8 26.0\u00b0e",
             "freq": "11919 H 27500 - 3/4",
             "encry": "FTA",
             "link": "#",
-            "related_to": "     Al Akhdoud   vs   Al Hilal"
+            "related_to": "     Al Qadisiyah   vs   Al Hazem"
+        },
+        {
+            "compet": "Saudi King's Cup - Round of 16",
+            "match": "     Al Shabab   vs   Al Zulfi",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "14:50",
+            "date": "2025-10-28"
+        },
+        {
+            "channel": "Thamanya 2 KSA HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Shabab   vs   Al Zulfi"
         },
         {
             "compet": "Portuguese Liga Revela\u00e7\u00e3o U-23 - Regular Season Serie A - 8",
@@ -351,6 +369,24 @@
             "encry": "MPEG-4 Irdeto",
             "link": "#",
             "related_to": "     Sakaryaspor   vs   Ineg\u00f6lspor"
+        },
+        {
+            "compet": "Saudi King's Cup - Round of 16",
+            "match": "     Al Akhdoud   vs   Al Hilal",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "15:10",
+            "date": "2025-10-28"
+        },
+        {
+            "channel": "Thmanyah 3 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Akhdoud   vs   Al Hilal"
         },
         {
             "compet": "Albanian Superliga - Week 9",
@@ -579,64 +615,6 @@
             "related_to": "     Denmark   vs   Finland"
         },
         {
-            "compet": "Saudi King's Cup",
-            "match": "     Al Nassr   vs   Al Ittihad",
-            "flags": {
-                "team1": "saudiarabia",
-                "team2": "saudiarabia"
-            },
-            "time": "17:00",
-            "date": "2025-10-28"
-        },
-        {
-            "channel": "Band Sports Brazil HD",
-            "sat": "SES 6 40.5\u00b0w",
-            "freq": "11680 V 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Al Nassr   vs   Al Ittihad"
-        },
-        {
-            "channel": "Cosmote Sport 5 HD",
-            "sat": "Eutelsat 9B 9.0\u00b0e",
-            "freq": "12418 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Al Nassr   vs   Al Ittihad"
-        },
-        {
-            "channel": "Sport TV3 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Al Nassr   vs   Al Ittihad"
-        },
-        {
-            "channel": "SporTV 2 Brazil HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Al Nassr   vs   Al Ittihad"
-        },
-        {
-            "channel": "SuperSport 3 Albania HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "10845 H 30000 - 3/5",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Al Nassr   vs   Al Ittihad"
-        },
-        {
-            "channel": "Thmanyah 1 HD",
-            "sat": "Badr 8 26.0\u00b0e",
-            "freq": "11919 H 27500 - 3/4",
-            "encry": "FTA",
-            "link": "#",
-            "related_to": "     Al Nassr   vs   Al Ittihad"
-        },
-        {
             "compet": "Italian Serie A - Week 9",
             "match": "     Lecce   vs   Napoli",
             "flags": {
@@ -683,6 +661,14 @@
             "sat": "Measat 3b 91.5\u00b0e",
             "freq": "10932 V 30000 - 5/6",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Lecce   vs   Napoli"
+        },
+        {
+            "channel": "Azam Sports 3 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Lecce   vs   Napoli"
         },
@@ -1076,6 +1062,14 @@
             "channel": "Azam Sports 2 HD",
             "sat": "Eutelsat 7C 7.0\u00b0e",
             "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Eintracht Frankfurt   vs   Borussia Dortmund"
+        },
+        {
+            "channel": "DAZN 1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12399 H 27500 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Eintracht Frankfurt   vs   Borussia Dortmund"
@@ -1903,6 +1897,88 @@
             "encry": "LiveOnSat.com",
             "link": "https://www.bbc.com/sport/northern-ireland",
             "related_to": "     Iceland   vs   Northern Ireland"
+        },
+        {
+            "compet": "Saudi King's Cup - Round of 16",
+            "match": "     Al Nassr   vs   Al Ittihad",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "18:00",
+            "date": "2025-10-28"
+        },
+        {
+            "channel": "Azam Sports 4 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Al Nassr   vs   Al Ittihad"
+        },
+        {
+            "channel": "Band Sports Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "11680 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Nassr   vs   Al Ittihad"
+        },
+        {
+            "channel": "Cosmote Sport 5 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12418 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Nassr   vs   Al Ittihad"
+        },
+        {
+            "channel": "M+ Liga de Campeones 2 HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "10729 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Al Nassr   vs   Al Ittihad"
+        },
+        {
+            "channel": "Movistar Plus+ 2 HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11097 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "#",
+            "related_to": "     Al Nassr   vs   Al Ittihad"
+        },
+        {
+            "channel": "Sport TV3 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Al Nassr   vs   Al Ittihad"
+        },
+        {
+            "channel": "SporTV 2 Brazil HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Al Nassr   vs   Al Ittihad"
+        },
+        {
+            "channel": "SuperSport 3 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Al Nassr   vs   Al Ittihad"
+        },
+        {
+            "channel": "Thmanyah 1 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Nassr   vs   Al Ittihad"
         },
         {
             "channel": "5 SPORT Israel HD",
@@ -2813,6 +2889,14 @@
             "related_to": "     Atalanta   vs   AC Milan"
         },
         {
+            "channel": "Azam Sports 3 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Atalanta   vs   AC Milan"
+        },
+        {
             "channel": "Cosmote Sport 2 HD",
             "sat": "Eutelsat 9B 9.0\u00b0e",
             "freq": "11843 V 27500 - 3/5",
@@ -3652,6 +3736,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://artmotion.net/tv/",
+            "related_to": "     St Pauli   vs   Hoffenheim"
+        },
+        {
+            "channel": "DAZN 2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
             "related_to": "     St Pauli   vs   Hoffenheim"
         },
         {
