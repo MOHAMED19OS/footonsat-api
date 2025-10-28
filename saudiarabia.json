@@ -1,6 +1,82 @@
 {
     "footonsat": [
         {
+            "compet": "Saudi King's Cup",
+            "match": "     Al Akhdoud   vs   Al Hilal",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "14:10",
+            "date": "2025-10-28"
+        },
+        {
+            "channel": "Thmanyah 3 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Akhdoud   vs   Al Hilal"
+        },
+        {
+            "compet": "Saudi King's Cup",
+            "match": "     Al Nassr   vs   Al Ittihad",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "17:00",
+            "date": "2025-10-28"
+        },
+        {
+            "channel": "Band Sports Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "11680 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Nassr   vs   Al Ittihad"
+        },
+        {
+            "channel": "Cosmote Sport 5 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12418 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Nassr   vs   Al Ittihad"
+        },
+        {
+            "channel": "Sport TV3 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Al Nassr   vs   Al Ittihad"
+        },
+        {
+            "channel": "SporTV 2 Brazil HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Al Nassr   vs   Al Ittihad"
+        },
+        {
+            "channel": "SuperSport 3 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Al Nassr   vs   Al Ittihad"
+        },
+        {
+            "channel": "Thmanyah 1 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Nassr   vs   Al Ittihad"
+        },
+        {
             "compet": "Saudi Division 1 - Round of 16",
             "match": "     Al Nassr   vs   Al Ittihad",
             "flags": {
@@ -105,6 +181,14 @@
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11231 V 42000 - 5/6",
             "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Al Riyadh"
+        },
+        {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Al Ahli   vs   Al Riyadh"
         },
