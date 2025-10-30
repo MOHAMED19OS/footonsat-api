@@ -1106,8 +1106,16 @@
         },
         {
             "channel": "Sport 1 Czechia HD",
-            "sat": "Astra 3B 23.5\u00b0e",
+            "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12070 H 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Cagliari   vs   Sassuolo"
+        },
+        {
+            "channel": "Sport 1 Slovakia HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12012 V 29900 - 3/4",
             "encry": "HD CryptoWorks",
             "link": "#",
             "related_to": "     Cagliari   vs   Sassuolo"
@@ -1665,6 +1673,24 @@
             "related_to": "     Sparta Rotterdam   vs   Groningen"
         },
         {
+            "compet": "Hungarian Cup (Magyar Cup) - 4th Round",
+            "match": "     Debrecen   vs   Honv\u00e9d",
+            "flags": {
+                "team1": "hungary",
+                "team2": "hungary"
+            },
+            "time": "19:00",
+            "date": "2025-10-30"
+        },
+        {
+            "channel": "M4 Sport Hungary HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11778 V 29900 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://m4sport.hu/elo/mtv4live/",
+            "related_to": "     Debrecen   vs   Honv\u00e9d"
+        },
+        {
             "compet": "Swiss Super League - Week 11",
             "match": "     Grasshoppers   vs   Young Boys",
             "flags": {
@@ -2032,8 +2058,16 @@
         },
         {
             "channel": "Sport 1 Czechia HD",
-            "sat": "Astra 3B 23.5\u00b0e",
+            "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12070 H 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Pisa   vs   Lazio"
+        },
+        {
+            "channel": "Sport 1 Slovakia HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12012 V 29900 - 3/4",
             "encry": "HD CryptoWorks",
             "link": "#",
             "related_to": "     Pisa   vs   Lazio"
