@@ -2,6 +2,56 @@
     "footonsat": [
         {
             "compet": "UEFA Europa League - Matchday 4",
+            "match": "     Malm\u00f6   vs   Panathinaikos",
+            "flags": {
+                "team1": "sweden",
+                "team2": "greece"
+            },
+            "time": "17:45",
+            "date": "2025-11-06"
+        },
+        {
+            "channel": "beIN Sports MENA 6 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Malm\u00f6   vs   Panathinaikos"
+        },
+        {
+            "channel": "Canal+ Live 8 France HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "12090 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Malm\u00f6   vs   Panathinaikos"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "     Malm\u00f6   vs   Panathinaikos"
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Malm\u00f6   vs   Panathinaikos"
+        },
+        {
+            "channel": "TNT Sports 10",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11597 V 23000 - 2/3",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Malm\u00f6   vs   Panathinaikos"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 4",
             "match": "     Midtjylland   vs   Celtic",
             "flags": {
                 "team1": "denmark",
@@ -57,6 +107,90 @@
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Midtjylland   vs   Celtic"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 4",
+            "match": "     Salzburg   vs   Go Ahead Eagles",
+            "flags": {
+                "team1": "austria",
+                "team2": "holland"
+            },
+            "time": "17:45",
+            "date": "2025-11-06"
+        },
+        {
+            "channel": "beIN Sports MENA 7 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Salzburg   vs   Go Ahead Eagles"
+        },
+        {
+            "channel": "Canal+ Live 9 France HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12207 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Salzburg   vs   Go Ahead Eagles"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "     Salzburg   vs   Go Ahead Eagles"
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Salzburg   vs   Go Ahead Eagles"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 4",
+            "match": "     Sturm Graz   vs   Nottingham Forest",
+            "flags": {
+                "team1": "austria",
+                "team2": "england"
+            },
+            "time": "17:45",
+            "date": "2025-11-06"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Sturm Graz   vs   Nottingham Forest"
+        },
+        {
+            "channel": "Canal+ Live 4 France HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11934 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Sturm Graz   vs   Nottingham Forest"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "     Sturm Graz   vs   Nottingham Forest"
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Sturm Graz   vs   Nottingham Forest"
         },
         {
             "compet": "UEFA Europa League - Matchday 4",
@@ -133,48 +267,6 @@
             "encry": "VideoGuard",
             "link": "#",
             "related_to": "     Dinamo Zagreb   vs   Celta Vigo"
-        },
-        {
-            "compet": "UEFA Europa League - Matchday 4",
-            "match": "     Malm\u00f6   vs   Panathinaikos",
-            "flags": {
-                "team1": "sweden",
-                "team2": "greece"
-            },
-            "time": "17:45",
-            "date": "2025-11-06"
-        },
-        {
-            "channel": "Canal+ Live 8 France HD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "12090 V 29700 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Malm\u00f6   vs   Panathinaikos"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "     Malm\u00f6   vs   Panathinaikos"
-        },
-        {
-            "channel": "Paramount+ USA ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Malm\u00f6   vs   Panathinaikos"
-        },
-        {
-            "channel": "TNT Sports 10",
-            "sat": "Astra 2G 28.2\u00b0e",
-            "freq": "11597 V 23000 - 2/3",
-            "encry": "VideoGuard",
-            "link": "#",
-            "related_to": "     Malm\u00f6   vs   Panathinaikos"
         },
         {
             "compet": "UEFA Europa League - Matchday 4",
@@ -270,74 +362,6 @@
         },
         {
             "compet": "UEFA Europa League - Matchday 4",
-            "match": "     Salzburg   vs   Go Ahead Eagles",
-            "flags": {
-                "team1": "austria",
-                "team2": "holland"
-            },
-            "time": "17:45",
-            "date": "2025-11-06"
-        },
-        {
-            "channel": "Canal+ Live 9 France HD",
-            "sat": "Astra 1N 19.2\u00b0e",
-            "freq": "12207 V 29700 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Salzburg   vs   Go Ahead Eagles"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "     Salzburg   vs   Go Ahead Eagles"
-        },
-        {
-            "channel": "Paramount+ USA ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Salzburg   vs   Go Ahead Eagles"
-        },
-        {
-            "compet": "UEFA Europa League - Matchday 4",
-            "match": "     Sturm Graz   vs   Nottingham Forest",
-            "flags": {
-                "team1": "austria",
-                "team2": "england"
-            },
-            "time": "17:45",
-            "date": "2025-11-06"
-        },
-        {
-            "channel": "Canal+ Live 4 France HD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11934 V 29700 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Sturm Graz   vs   Nottingham Forest"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "     Sturm Graz   vs   Nottingham Forest"
-        },
-        {
-            "channel": "Paramount+ USA ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Sturm Graz   vs   Nottingham Forest"
-        },
-        {
-            "compet": "UEFA Europa League - Matchday 4",
             "match": "     Utrecht   vs   FC Porto",
             "flags": {
                 "team1": "holland",
@@ -397,6 +421,14 @@
             "date": "2025-11-06"
         },
         {
+            "channel": "beIN Sports MENA English 2 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "11390 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Maccabi Tel Aviv"
+        },
+        {
             "channel": "Canal+ Live 3 France HD",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "12090 V 29700 - 2/3",
@@ -445,6 +477,14 @@
             },
             "time": "20:00",
             "date": "2025-11-06"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Rangers   vs   Roma"
         },
         {
             "channel": "Canal+ Live 4 France HD",
@@ -496,6 +536,56 @@
         },
         {
             "compet": "UEFA Europa League - Matchday 4",
+            "match": "     Ferencv\u00e1ros   vs   Ludogorets",
+            "flags": {
+                "team1": "hungary",
+                "team2": "bulgaria"
+            },
+            "time": "20:00",
+            "date": "2025-11-06"
+        },
+        {
+            "channel": "beIN Sports MENA 7 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Ferencv\u00e1ros   vs   Ludogorets"
+        },
+        {
+            "channel": "Canal+ Live 9 France HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12207 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Ferencv\u00e1ros   vs   Ludogorets"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "     Ferencv\u00e1ros   vs   Ludogorets"
+        },
+        {
+            "channel": "M4 Sport Hungary HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11778 V 29900 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://m4sport.hu/elo/mtv4live/",
+            "related_to": "     Ferencv\u00e1ros   vs   Ludogorets"
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Ferencv\u00e1ros   vs   Ludogorets"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 4",
             "match": "     Bologna   vs   Brann",
             "flags": {
                 "team1": "italy",
@@ -535,48 +625,6 @@
             "encry": "VideoGuard",
             "link": "#",
             "related_to": "     Bologna   vs   Brann"
-        },
-        {
-            "compet": "UEFA Europa League - Matchday 4",
-            "match": "     Ferencv\u00e1ros   vs   Ludogorets",
-            "flags": {
-                "team1": "hungary",
-                "team2": "bulgaria"
-            },
-            "time": "20:00",
-            "date": "2025-11-06"
-        },
-        {
-            "channel": "Canal+ Live 9 France HD",
-            "sat": "Astra 1N 19.2\u00b0e",
-            "freq": "12207 V 29700 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Ferencv\u00e1ros   vs   Ludogorets"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "     Ferencv\u00e1ros   vs   Ludogorets"
-        },
-        {
-            "channel": "M4 Sport Hungary HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11778 V 29900 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "https://m4sport.hu/elo/mtv4live/",
-            "related_to": "     Ferencv\u00e1ros   vs   Ludogorets"
-        },
-        {
-            "channel": "Paramount+ USA ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Ferencv\u00e1ros   vs   Ludogorets"
         },
         {
             "compet": "UEFA Europa League - Matchday 4",
