@@ -249,6 +249,22 @@
             "date": "2025-11-01"
         },
         {
+            "channel": "beIN Sports MENA 8 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Milwaukee Bucks   vs   Sacramento Kings"
+        },
+        {
+            "channel": "beIN Sports MENA French 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "11390 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Milwaukee Bucks   vs   Sacramento Kings"
+        },
+        {
             "channel": "Cytavision Sports 5 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -443,6 +459,30 @@
             "date": "2025-11-02"
         },
         {
+            "channel": "beIN Sports MENA 8 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Detroit Pistons   vs   Dallas Mavericks"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Detroit Pistons   vs   Dallas Mavericks"
+        },
+        {
+            "channel": "beIN Sports MENA French 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "11390 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Detroit Pistons   vs   Dallas Mavericks"
+        },
+        {
             "channel": "NBA League Pass ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -566,6 +606,64 @@
         },
         {
             "compet": "NBA Regular Season",
+            "match": "     Cleveland Cavaliers   vs   Atlanta Hawks",
+            "flags": {
+                "team1": "assocnba",
+                "team2": "assocnba"
+            },
+            "time": "23:00",
+            "date": "2025-11-02"
+        },
+        {
+            "channel": "beIN Sports MENA 8 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Cleveland Cavaliers   vs   Atlanta Hawks"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Cleveland Cavaliers   vs   Atlanta Hawks"
+        },
+        {
+            "channel": "beIN Sports MENA French 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "11390 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Cleveland Cavaliers   vs   Atlanta Hawks"
+        },
+        {
+            "channel": "NBA League Pass ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Cleveland Cavaliers   vs   Atlanta Hawks"
+        },
+        {
+            "channel": "Sport 1 Hungary HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "11727 V 28000 - 7/8",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Cleveland Cavaliers   vs   Atlanta Hawks"
+        },
+        {
+            "channel": "Tring Sport 1 HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Cleveland Cavaliers   vs   Atlanta Hawks"
+        },
+        {
+            "compet": "NBA Regular Season",
             "match": "     Brooklyn Nets   vs   Philadelphia 76ers",
             "flags": {
                 "team1": "assocnba",
@@ -599,40 +697,6 @@
             "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Charlotte Hornets   vs   Utah Jazz"
-        },
-        {
-            "compet": "NBA Regular Season",
-            "match": "     Cleveland Cavaliers   vs   Atlanta Hawks",
-            "flags": {
-                "team1": "assocnba",
-                "team2": "assocnba"
-            },
-            "time": "23:00",
-            "date": "2025-11-02"
-        },
-        {
-            "channel": "NBA League Pass ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Cleveland Cavaliers   vs   Atlanta Hawks"
-        },
-        {
-            "channel": "Sport 1 Hungary HD",
-            "sat": "Thor 6 0.8\u00b0w",
-            "freq": "11727 V 28000 - 7/8",
-            "encry": "NagraVision",
-            "link": "#",
-            "related_to": "     Cleveland Cavaliers   vs   Atlanta Hawks"
-        },
-        {
-            "channel": "Tring Sport 1 HD",
-            "sat": "Hellas Sat 4 39.0\u00b0e",
-            "freq": "10890 H 30000 - 5/6",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Cleveland Cavaliers   vs   Atlanta Hawks"
         },
         {
             "compet": "NBA Regular Season",
@@ -723,6 +787,22 @@
             },
             "time": "00:00",
             "date": "2025-11-04"
+        },
+        {
+            "channel": "beIN Sports MENA 8 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Brooklyn Nets   vs   Minnesota Timberwolves"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Brooklyn Nets   vs   Minnesota Timberwolves"
         },
         {
             "channel": "NBA League Pass ($/geo/R)",
@@ -921,6 +1001,30 @@
             "date": "2025-11-05"
         },
         {
+            "channel": "beIN Sports MENA 8 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Atlanta Hawks   vs   Orlando Magic"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Atlanta Hawks   vs   Orlando Magic"
+        },
+        {
+            "channel": "beIN Sports MENA French 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "11390 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Atlanta Hawks   vs   Orlando Magic"
+        },
+        {
             "channel": "NBA League Pass ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1017,6 +1121,30 @@
             "date": "2025-11-05"
         },
         {
+            "channel": "beIN Sports MENA 8 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Los Angeles Clippers   vs   Oklahoma Thunder"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Los Angeles Clippers   vs   Oklahoma Thunder"
+        },
+        {
+            "channel": "beIN Sports MENA French 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "11390 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Los Angeles Clippers   vs   Oklahoma Thunder"
+        },
+        {
             "channel": "NBA League Pass ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1096,6 +1224,40 @@
         },
         {
             "compet": "NBA Regular Season",
+            "match": "     New York Knicks   vs   Minnesota Timberwolves",
+            "flags": {
+                "team1": "assocnba",
+                "team2": "assocnba"
+            },
+            "time": "00:30",
+            "date": "2025-11-06"
+        },
+        {
+            "channel": "beIN Sports MENA 8 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     New York Knicks   vs   Minnesota Timberwolves"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     New York Knicks   vs   Minnesota Timberwolves"
+        },
+        {
+            "channel": "NBA League Pass ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     New York Knicks   vs   Minnesota Timberwolves"
+        },
+        {
+            "compet": "NBA Regular Season",
             "match": "     Boston Celtics   vs   Washington Wizards",
             "flags": {
                 "team1": "assocnba",
@@ -1119,24 +1281,6 @@
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Boston Celtics   vs   Washington Wizards"
-        },
-        {
-            "compet": "NBA Regular Season",
-            "match": "     New York Knicks   vs   Minnesota Timberwolves",
-            "flags": {
-                "team1": "assocnba",
-                "team2": "assocnba"
-            },
-            "time": "00:30",
-            "date": "2025-11-06"
-        },
-        {
-            "channel": "NBA League Pass ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     New York Knicks   vs   Minnesota Timberwolves"
         },
         {
             "compet": "NBA Regular Season",
@@ -1201,6 +1345,22 @@
             },
             "time": "03:00",
             "date": "2025-11-06"
+        },
+        {
+            "channel": "beIN Sports MENA 8 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Los Angeles Lakers   vs   San Antonio Spurs"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Los Angeles Lakers   vs   San Antonio Spurs"
         },
         {
             "channel": "NBA League Pass ($/geo/R)",

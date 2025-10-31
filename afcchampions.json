@@ -11,6 +11,22 @@
             "date": "2025-11-03"
         },
         {
+            "channel": "beIN Sports MENA 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Nasaf Qarshi   vs   Al Wahda"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Nasaf Qarshi   vs   Al Wahda"
+        },
+        {
             "channel": "YouTube: The AFC Hub",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -63,6 +79,30 @@
             "date": "2025-11-03"
         },
         {
+            "channel": "beIN Sports MENA 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Al Duhail   vs   Shabab Al Ahli"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Al Duhail   vs   Shabab Al Ahli"
+        },
+        {
+            "channel": "Sport 2 Israel HD",
+            "sat": "Amos 7 4.0\u00b0w",
+            "freq": "11030 V 27500 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Al Duhail   vs   Shabab Al Ahli"
+        },
+        {
             "channel": "YouTube: The AFC Hub",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -79,6 +119,22 @@
             },
             "time": "18:15",
             "date": "2025-11-03"
+        },
+        {
+            "channel": "beIN Sports MENA 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Al Gharafa   vs   Al Hilal"
+        },
+        {
+            "channel": "beIN Sports MENA English 2 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "11390 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Al Gharafa   vs   Al Hilal"
         },
         {
             "channel": "ESPN 4 Nederland HD",
@@ -255,6 +311,22 @@
             "date": "2025-11-04"
         },
         {
+            "channel": "beIN Sports MENA 3 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Sadd   vs   Al Ahli"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Al Sadd   vs   Al Ahli"
+        },
+        {
             "channel": "ESPN 2 Nederland HD",
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "11856 V 29900 - 3/4",
@@ -279,6 +351,14 @@
             },
             "time": "18:15",
             "date": "2025-11-04"
+        },
+        {
+            "channel": "beIN Sports MENA 3 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Al Ittihad   vs   Sharjah"
         },
         {
             "channel": "ESPN 1 Nederland HD",
@@ -357,6 +437,32 @@
             "related_to": "     Nam Dinh   vs   Gamba Osaka"
         },
         {
+            "compet": "AFC Champions League 2 - Round 4",
+            "match": "     Eastern   vs   Ratchaburi",
+            "flags": {
+                "team1": "hongkong",
+                "team2": "thailand"
+            },
+            "time": "12:15",
+            "date": "2025-11-05"
+        },
+        {
+            "channel": "beIN Sports MENA 3 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Eastern   vs   Ratchaburi"
+        },
+        {
+            "channel": "YouTube: The AFC Hub",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.youtube.com/@TheAFCHub/streams",
+            "related_to": "     Eastern   vs   Ratchaburi"
+        },
+        {
             "compet": "AFC Champions League Elite - Round 4",
             "match": "     Johor Darul Ta'zim   vs   Shanghai Shenhua",
             "flags": {
@@ -384,24 +490,6 @@
         },
         {
             "compet": "AFC Champions League 2 - Round 4",
-            "match": "     Eastern   vs   Ratchaburi",
-            "flags": {
-                "team1": "hongkong",
-                "team2": "thailand"
-            },
-            "time": "12:15",
-            "date": "2025-11-05"
-        },
-        {
-            "channel": "YouTube: The AFC Hub",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "     Eastern   vs   Ratchaburi"
-        },
-        {
-            "compet": "AFC Champions League 2 - Round 4",
             "match": "     Al Wasl   vs   Muharraq",
             "flags": {
                 "team1": "uae",
@@ -409,6 +497,14 @@
             },
             "time": "13:45",
             "date": "2025-11-05"
+        },
+        {
+            "channel": "beIN Sports MENA 2 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Al Wasl   vs   Muharraq"
         },
         {
             "channel": "YouTube: The AFC Hub",
@@ -429,30 +525,20 @@
             "date": "2025-11-05"
         },
         {
+            "channel": "beIN Sports MENA 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Arkadag   vs   Al Ahli"
+        },
+        {
             "channel": "YouTube: The AFC Hub",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.youtube.com/@TheAFCHub/streams",
             "related_to": "     Arkadag   vs   Al Ahli"
-        },
-        {
-            "compet": "AFC Champions League 2 - Round 4",
-            "match": "     Al Khalidiya   vs   Andijan",
-            "flags": {
-                "team1": "bahrain",
-                "team2": "uzbekistan"
-            },
-            "time": "16:00",
-            "date": "2025-11-05"
-        },
-        {
-            "channel": "YouTube: The AFC Hub",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "     Al Khalidiya   vs   Andijan"
         },
         {
             "compet": "AFC Champions League 2 - Round 4",
@@ -465,12 +551,46 @@
             "date": "2025-11-05"
         },
         {
+            "channel": "beIN Sports MENA 4 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Al Zawra'a   vs   Istiqlol"
+        },
+        {
             "channel": "YouTube: The AFC Hub",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.youtube.com/@TheAFCHub/streams",
             "related_to": "     Al Zawra'a   vs   Istiqlol"
+        },
+        {
+            "compet": "AFC Champions League 2 - Round 4",
+            "match": "     Al Khalidiya   vs   Andijan",
+            "flags": {
+                "team1": "bahrain",
+                "team2": "uzbekistan"
+            },
+            "time": "16:00",
+            "date": "2025-11-05"
+        },
+        {
+            "channel": "beIN Sports MENA 5 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Al Khalidiya   vs   Andijan"
+        },
+        {
+            "channel": "YouTube: The AFC Hub",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.youtube.com/@TheAFCHub/streams",
+            "related_to": "     Al Khalidiya   vs   Andijan"
         },
         {
             "compet": "AFC Champions League 2 - Round 4",
@@ -509,6 +629,14 @@
             "date": "2025-11-05"
         },
         {
+            "channel": "beIN Sports MENA 2 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Al Nassr   vs   FC Goa"
+        },
+        {
             "channel": "ESPN 1 Nederland HD",
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "11739 V 29900 - 3/4",
@@ -533,6 +661,14 @@
             },
             "time": "07:45",
             "date": "2025-11-06"
+        },
+        {
+            "channel": "beIN Sports MENA 5 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Macarthur FC   vs   C\u00f4ng An H\u00e0 N\u00f4i"
         },
         {
             "channel": "YouTube: The AFC Hub",
@@ -647,6 +783,14 @@
             "date": "2025-11-06"
         },
         {
+            "channel": "beIN Sports MENA 3 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Beijing Guoan   vs   Tai Po"
+        },
+        {
             "channel": "YouTube: The AFC Hub",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -663,6 +807,14 @@
             },
             "time": "12:15",
             "date": "2025-11-06"
+        },
+        {
+            "channel": "beIN Sports MENA 5 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Pathum United   vs   Kaya FC"
         },
         {
             "channel": "YouTube: The AFC Hub",
