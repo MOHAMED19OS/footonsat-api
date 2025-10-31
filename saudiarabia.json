@@ -115,6 +115,14 @@
             "related_to": "     Al Hilal   vs   Al Shabab"
         },
         {
+            "channel": "Sportitalia HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12341 V 31400 - 5/6",
+            "encry": "FTA",
+            "link": "https://sportitalialive.it/sihd/",
+            "related_to": "     Al Hilal   vs   Al Shabab"
+        },
+        {
             "channel": "SportKlub 1 Slovenija HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11471 H 30000 - 3/4",
@@ -255,10 +263,26 @@
             "related_to": "     Al Nassr   vs   Al Fayha"
         },
         {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Nassr   vs   Al Fayha"
+        },
+        {
             "channel": "Sp\u00edler 1 TV Hungary HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "11766 V 28000 - 7/8",
             "encry": "Conax",
+            "link": "#",
+            "related_to": "     Al Nassr   vs   Al Fayha"
+        },
+        {
+            "channel": "SuperSport 5 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10804 H 29950 - 2/3",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Al Nassr   vs   Al Fayha"
         },
