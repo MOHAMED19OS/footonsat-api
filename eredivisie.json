@@ -67,6 +67,14 @@
             "related_to": "     PSV Eindhoven   vs   Fortuna Sittard"
         },
         {
+            "channel": "GOL Espa\u00f1a HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 - -",
+            "encry": "NagraVision",
+            "link": "https://www.goltelevision.com/en-directo",
+            "related_to": "     PSV Eindhoven   vs   Fortuna Sittard"
+        },
+        {
             "channel": "Nova Sports Extra 1 Hellas HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "12169 H 27500 - 3/4",
@@ -371,11 +379,27 @@
             "related_to": "     Ajax   vs   Heerenveen"
         },
         {
+            "channel": "SuperSport ESPN 2 HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Ajax   vs   Heerenveen"
+        },
+        {
             "channel": "Thriller TV+ [online] ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.trillertv.com/join/trillertv-subscription/",
+            "related_to": "     Ajax   vs   Heerenveen"
+        },
+        {
+            "channel": "Tivibu Spor 4 HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11880 H 20000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
             "related_to": "     Ajax   vs   Heerenveen"
         },
         {
@@ -553,6 +577,14 @@
             "related_to": "     Feyenoord   vs   Volendam"
         },
         {
+            "channel": "Tivibu Spor 3 HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11880 H 20000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Feyenoord   vs   Volendam"
+        },
+        {
             "channel": "TV Start Russia HD",
             "sat": "ABS 2A 75.0\u00b0e",
             "freq": "11605 V 43200 - 7/8",
@@ -627,6 +659,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Heracles Almelo   vs   PEC Zwolle"
+        },
+        {
+            "channel": "SuperSport ESPN HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
             "link": "#",
             "related_to": "     Heracles Almelo   vs   PEC Zwolle"
         },
@@ -746,6 +786,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.trillertv.com/join/trillertv-subscription/",
+            "related_to": "     Sparta Rotterdam   vs   AZ Alkmaar"
+        },
+        {
+            "channel": "Tivibu Spor 3 HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11880 H 20000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
             "related_to": "     Sparta Rotterdam   vs   AZ Alkmaar"
         },
         {

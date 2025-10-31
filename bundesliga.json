@@ -27,6 +27,14 @@
             "related_to": "     Augsburg   vs   Borussia Dortmund"
         },
         {
+            "channel": "Azam Sports 2 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Augsburg   vs   Borussia Dortmund"
+        },
+        {
             "channel": "BBC iPlayer (geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -557,6 +565,14 @@
             "related_to": "     Heidenheim   vs   Eintracht Frankfurt"
         },
         {
+            "channel": "Tivibu Spor 3 HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11880 H 20000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Heidenheim   vs   Eintracht Frankfurt"
+        },
+        {
             "channel": "Tring Sport 3 HD",
             "sat": "Hellas Sat 4 39.0\u00b0e",
             "freq": "10890 H 30000 - 5/6",
@@ -655,6 +671,14 @@
             "related_to": "     RB Leipzig   vs   Stuttgart"
         },
         {
+            "channel": "Canal+ Sport 1 Afrique HD",
+            "sat": "SES 4 22.0\u00b0w",
+            "freq": "11171 V 45000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Stuttgart"
+        },
+        {
             "channel": "DAZN 4 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12399 H 27500 - 3/4",
@@ -683,6 +707,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Stuttgart"
+        },
+        {
+            "channel": "Nova Sport 3 Czech HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11934 V 27500 - 3/4",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     RB Leipzig   vs   Stuttgart"
         },
@@ -728,6 +760,14 @@
         },
         {
             "channel": "Prima Sport RO PPV 2",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Stuttgart"
+        },
+        {
+            "channel": "Setanta Sports 2 Baltic",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
@@ -799,10 +839,26 @@
             "related_to": "     RB Leipzig   vs   Stuttgart"
         },
         {
+            "channel": "Tivibu Spor 2 HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11853 H 25000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Stuttgart"
+        },
+        {
             "channel": "Tring Sport 2 HD",
             "sat": "Hellas Sat 4 39.0\u00b0e",
             "freq": "10890 H 30000 - 5/6",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Stuttgart"
+        },
+        {
+            "channel": "V Sport 1 Norge HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11305 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     RB Leipzig   vs   Stuttgart"
         },
@@ -1008,6 +1064,14 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
+            "related_to": "     St Pauli   vs   M\u00f6nchengladbach"
+        },
+        {
+            "channel": "Go3 Sport Open Baltic",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11958 H 27500 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "https://go3.tv/en/live_tv",
             "related_to": "     St Pauli   vs   M\u00f6nchengladbach"
         },
         {
@@ -1271,6 +1335,14 @@
             "related_to": "     Bayern Munich   vs   Bayer Leverkusen"
         },
         {
+            "channel": "Canal+ Sport 1 Afrique HD",
+            "sat": "SES 4 22.0\u00b0w",
+            "freq": "11171 V 45000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Bayern Munich   vs   Bayer Leverkusen"
+        },
+        {
             "channel": "DAZN 2 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
@@ -1335,6 +1407,38 @@
             "related_to": "     Bayern Munich   vs   Bayer Leverkusen"
         },
         {
+            "channel": "Go3 Sport 1 Baltic HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11938 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "https://go3.tv/en/live_tv",
+            "related_to": "     Bayern Munich   vs   Bayer Leverkusen"
+        },
+        {
+            "channel": "IRIB Varzesh HD",
+            "sat": "Intelsat 39 62.0\u00b0e",
+            "freq": "11555 V 30000 - 2/3",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Bayern Munich   vs   Bayer Leverkusen"
+        },
+        {
+            "channel": "MBC Action HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "12399 V 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Bayern Munich   vs   Bayer Leverkusen"
+        },
+        {
+            "channel": "Nova Sport 3 Czech HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11934 V 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Bayern Munich   vs   Bayer Leverkusen"
+        },
+        {
             "channel": "Nova Sports 3 Cyprus HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "11823 H 27500 - 3/4",
@@ -1379,6 +1483,14 @@
             "sat": "Thor 6 5.0\u00b0e",
             "freq": "11265 H 30000 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Bayern Munich   vs   Bayer Leverkusen"
+        },
+        {
+            "channel": "Setanta Sports 2 Baltic",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Bayern Munich   vs   Bayer Leverkusen"
         },
@@ -1471,6 +1583,14 @@
             "related_to": "     Bayern Munich   vs   Bayer Leverkusen"
         },
         {
+            "channel": "Sport 4 Israel HD",
+            "sat": "Amos 7 4.0\u00b0w",
+            "freq": "11030 V 27500 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Bayern Munich   vs   Bayer Leverkusen"
+        },
+        {
             "channel": "Sport TV 2 Azerbaijan (geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -1499,6 +1619,14 @@
             "sat": "Astra 2F 28.2\u00b0e",
             "freq": "12605 V 30000 - 5/6",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Bayern Munich   vs   Bayer Leverkusen"
+        },
+        {
+            "channel": "Tivibu Spor 2 HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11853 H 25000 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Bayern Munich   vs   Bayer Leverkusen"
         },
@@ -1575,6 +1703,14 @@
             "related_to": "     Bayern Munich   vs   Bayer Leverkusen"
         },
         {
+            "channel": "Z Sports 2 Angola",
+            "sat": "Eutelsat 36D 35.9\u00b0e",
+            "freq": "11388 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Bayern Munich   vs   Bayer Leverkusen"
+        },
+        {
             "compet": "German 1. Bundesliga - Week 9",
             "match": "     FC Cologne   vs   Hamburg",
             "flags": {
@@ -1605,6 +1741,14 @@
             "sat": "Measat 3b 91.5\u00b0e",
             "freq": "10732 V 30000 - 5/6",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     FC Cologne   vs   Hamburg"
+        },
+        {
+            "channel": "Canal+ Sport 1 Afrique HD",
+            "sat": "SES 4 22.0\u00b0w",
+            "freq": "11171 V 45000 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     FC Cologne   vs   Hamburg"
         },
@@ -1661,6 +1805,22 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     FC Cologne   vs   Hamburg"
+        },
+        {
+            "channel": "MBC Action HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "12399 V 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     FC Cologne   vs   Hamburg"
+        },
+        {
+            "channel": "Nova Sport 3 Czech HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11934 V 27500 - 3/4",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     FC Cologne   vs   Hamburg"
         },
@@ -1737,6 +1897,14 @@
             "related_to": "     FC Cologne   vs   Hamburg"
         },
         {
+            "channel": "Sport 3 Israel HD",
+            "sat": "Amos 3 4.0\u00b0w",
+            "freq": "10806 V 27500 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     FC Cologne   vs   Hamburg"
+        },
+        {
             "channel": "Sport TV2 Slovenija",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1749,6 +1917,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     FC Cologne   vs   Hamburg"
+        },
+        {
+            "channel": "Tivibu Spor 2 HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11853 H 25000 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     FC Cologne   vs   Hamburg"
         },
@@ -1923,6 +2099,14 @@
             "related_to": "     Wolfsburg   vs   Hoffenheim"
         },
         {
+            "channel": "Nova Sport 3 Czech HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11934 V 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Wolfsburg   vs   Hoffenheim"
+        },
+        {
             "channel": "Nova Sport Bulgaria HD",
             "sat": "AzerSpace 2 45.0\u00b0e",
             "freq": "12560 V 30000 - 5/6",
@@ -2023,6 +2207,22 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Wolfsburg   vs   Hoffenheim"
+        },
+        {
+            "channel": "Tivibu Spor 1 HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11880 H 20000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Wolfsburg   vs   Hoffenheim"
+        },
+        {
+            "channel": "Tring Sport 2 HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Wolfsburg   vs   Hoffenheim"
         },
@@ -2189,6 +2389,14 @@
             "related_to": "     Werder Bremen   vs   Wolfsburg"
         },
         {
+            "channel": "Tring Sport 2 HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Werder Bremen   vs   Wolfsburg"
+        },
+        {
             "channel": "ViaPlay 2 Urheilu HD",
             "sat": "Thor 5 0.8\u00b0w",
             "freq": "11278 V 25000 - 3/4",
@@ -2291,6 +2499,14 @@
             "sat": "Astra 1N 19.2\u00b0e",
             "freq": "12304 H 27500 - 9/10",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Bayer Leverkusen   vs   Heidenheim"
+        },
+        {
+            "channel": "Tring Sport 6 HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Bayer Leverkusen   vs   Heidenheim"
         },
@@ -2405,6 +2621,14 @@
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "11798 H 27500 - 9/10",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Hamburg   vs   Borussia Dortmund"
+        },
+        {
+            "channel": "Tring Sport 5 HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Hamburg   vs   Borussia Dortmund"
         },
@@ -2605,6 +2829,14 @@
             "related_to": "     Union Berlin   vs   Bayern Munich"
         },
         {
+            "channel": "Tring Sport 4 HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Union Berlin   vs   Bayern Munich"
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2735,6 +2967,14 @@
             "related_to": "     M\u00f6nchengladbach   vs   FC Cologne"
         },
         {
+            "channel": "Tring Sport 2 HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     M\u00f6nchengladbach   vs   FC Cologne"
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2846,6 +3086,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.primevideo.com/",
+            "related_to": "     Freiburg   vs   St Pauli"
+        },
+        {
+            "channel": "Tring Sport 3 HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
             "related_to": "     Freiburg   vs   St Pauli"
         },
         {
@@ -2963,6 +3211,14 @@
             "related_to": "     Stuttgart   vs   Augsburg"
         },
         {
+            "channel": "Tring Sport 2 HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Stuttgart   vs   Augsburg"
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -3074,6 +3330,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.primevideo.com/",
+            "related_to": "     Eintracht Frankfurt   vs   Mainz 05"
+        },
+        {
+            "channel": "Tring Sport 3 HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
             "related_to": "     Eintracht Frankfurt   vs   Mainz 05"
         },
         {
