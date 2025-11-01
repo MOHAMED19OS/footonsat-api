@@ -541,6 +541,24 @@
             "related_to": "     Avellino   vs   Reggiana"
         },
         {
+            "compet": "Norwegian Toppserien (W) - Week 25",
+            "match": "     Lyn Oslo   vs   R\u00f8a IL",
+            "flags": {
+                "team1": "norway",
+                "team2": "norway"
+            },
+            "time": "11:30",
+            "date": "2025-11-01"
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "     Lyn Oslo   vs   R\u00f8a IL"
+        },
+        {
             "compet": "Chinese Super League - Week 29",
             "match": "     Meizhou Hakka   vs   Dalian Yingbo",
             "flags": {
@@ -645,6 +663,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Chelmsford City   vs   Braintree Town"
+        },
+        {
+            "channel": "V Sport 3 Norge HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11345 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Chelmsford City   vs   Braintree Town"
         },
@@ -2117,6 +2143,24 @@
             "related_to": "     Norwich City   vs   Hull City"
         },
         {
+            "compet": "Norwegian Toppserien (W) - Week 25",
+            "match": "     Brann   vs   Rosenborg",
+            "flags": {
+                "team1": "norway",
+                "team2": "norway"
+            },
+            "time": "12:30",
+            "date": "2025-11-01"
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "     Brann   vs   Rosenborg"
+        },
+        {
             "compet": "Bulgarian First League - Week 14",
             "match": "     Lokomotiv Plovdiv   vs   Botev Plovdiv",
             "flags": {
@@ -2621,11 +2665,27 @@
             "related_to": "     Villarreal   vs   Rayo Vallecano"
         },
         {
+            "channel": "TV2 Play Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "     Villarreal   vs   Rayo Vallecano"
+        },
+        {
             "channel": "TV4 Fotboll HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "10872 V 25000 - 3/4",
             "encry": "HD Conax",
             "link": "#",
+            "related_to": "     Villarreal   vs   Rayo Vallecano"
+        },
+        {
+            "channel": "TV4 Play Sverige [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.tv4play.se/sport",
             "related_to": "     Villarreal   vs   Rayo Vallecano"
         },
         {
@@ -7717,6 +7777,14 @@
             "related_to": "     Atl\u00e9tico Madrid   vs   Sevilla"
         },
         {
+            "channel": "TV2 Play Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "     Atl\u00e9tico Madrid   vs   Sevilla"
+        },
+        {
             "channel": "TV2 Sport Premium HD",
             "sat": "Thor 6 5.0\u00b0e",
             "freq": "11385 V 30000 - 3/4",
@@ -7730,6 +7798,14 @@
             "freq": "10872 V 25000 - 3/4",
             "encry": "HD Conax",
             "link": "#",
+            "related_to": "     Atl\u00e9tico Madrid   vs   Sevilla"
+        },
+        {
+            "channel": "TV4 Play Sverige [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.tv4play.se/sport",
             "related_to": "     Atl\u00e9tico Madrid   vs   Sevilla"
         },
         {
@@ -9797,6 +9873,72 @@
             "related_to": "     Rostov   vs   Akron"
         },
         {
+            "compet": "Scottish League Cup - Semi Final",
+            "match": "     Motherwell   vs   St Mirren",
+            "flags": {
+                "team1": "scotland",
+                "team2": "scotland"
+            },
+            "time": "17:30",
+            "date": "2025-11-01"
+        },
+        {
+            "channel": "Cosmote Sport 7 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12149 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Motherwell   vs   St Mirren"
+        },
+        {
+            "channel": "Motherwell TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://live.motherwellfc.co.uk/",
+            "related_to": "     Motherwell   vs   St Mirren"
+        },
+        {
+            "channel": "Premier Sports 1 Ireland HD",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12188 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Motherwell   vs   St Mirren"
+        },
+        {
+            "channel": "Premier Sports 1 UK HD",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11686 V 23000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Motherwell   vs   St Mirren"
+        },
+        {
+            "channel": "Premier Sports GB Player HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": "     Motherwell   vs   St Mirren"
+        },
+        {
+            "channel": "St Mirren TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://tv.stmirren.com/",
+            "related_to": "     Motherwell   vs   St Mirren"
+        },
+        {
+            "channel": "SuperSport ESPN 2 HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Motherwell   vs   St Mirren"
+        },
+        {
             "compet": "English Premier League - Week 10",
             "match": "     Tottenham Hotspur   vs   Chelsea",
             "flags": {
@@ -11221,6 +11363,14 @@
             "related_to": "     Real Sociedad   vs   Athletic Bilbao"
         },
         {
+            "channel": "TV2 Play Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "     Real Sociedad   vs   Athletic Bilbao"
+        },
+        {
             "channel": "TV2 Sport 1 Norge HD",
             "sat": "Thor 6 5.0\u00b0e",
             "freq": "11385 V 30000 - 3/4",
@@ -11234,6 +11384,14 @@
             "freq": "10872 V 25000 - 3/4",
             "encry": "HD Conax",
             "link": "#",
+            "related_to": "     Real Sociedad   vs   Athletic Bilbao"
+        },
+        {
+            "channel": "TV4 Play Sverige [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.tv4play.se/sport",
             "related_to": "     Real Sociedad   vs   Athletic Bilbao"
         },
         {
@@ -11251,64 +11409,6 @@
             "encry": "HD Viaccess",
             "link": "#",
             "related_to": "     Real Sociedad   vs   Athletic Bilbao"
-        },
-        {
-            "compet": "Scottish League Cup - Semi Final",
-            "match": "     Motherwell   vs   St Mirren",
-            "flags": {
-                "team1": "scotland",
-                "team2": "scotland"
-            },
-            "time": "17:30",
-            "date": "2025-11-01"
-        },
-        {
-            "channel": "Cosmote Sport 7 HD",
-            "sat": "Eutelsat 9B 9.0\u00b0e",
-            "freq": "12149 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Motherwell   vs   St Mirren"
-        },
-        {
-            "channel": "Motherwell TV ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "https://live.motherwellfc.co.uk/",
-            "related_to": "     Motherwell   vs   St Mirren"
-        },
-        {
-            "channel": "Premier Sports 1 Ireland HD",
-            "sat": "Astra 2F 28.2\u00b0e",
-            "freq": "12188 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Motherwell   vs   St Mirren"
-        },
-        {
-            "channel": "Premier Sports 1 UK HD",
-            "sat": "Astra 2G 28.2\u00b0e",
-            "freq": "11686 V 23000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Motherwell   vs   St Mirren"
-        },
-        {
-            "channel": "Premier Sports GB Player HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.premiersports.com/fr/live-now-on-demand",
-            "related_to": "     Motherwell   vs   St Mirren"
-        },
-        {
-            "channel": "St Mirren TV ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://tv.stmirren.com/",
-            "related_to": "     Motherwell   vs   St Mirren"
         },
         {
             "compet": "Northern Ireland Premiership - Week 14",
@@ -14285,6 +14385,14 @@
             "related_to": "     Real Madrid   vs   Valencia"
         },
         {
+            "channel": "TV2 Play Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "     Real Madrid   vs   Valencia"
+        },
+        {
             "channel": "TV2 Sport 1 Norge HD",
             "sat": "Thor 6 5.0\u00b0e",
             "freq": "11385 V 30000 - 3/4",
@@ -14306,6 +14414,14 @@
             "freq": "10872 V 25000 - 3/4",
             "encry": "HD Conax",
             "link": "#",
+            "related_to": "     Real Madrid   vs   Valencia"
+        },
+        {
+            "channel": "TV4 Play Sverige [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.tv4play.se/sport",
             "related_to": "     Real Madrid   vs   Valencia"
         },
         {
