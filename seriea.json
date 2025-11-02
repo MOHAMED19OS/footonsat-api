@@ -4511,6 +4511,14 @@
             "related_to": "     Cremonese   vs   Roma"
         },
         {
+            "channel": "Discovery+ UK ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "     Cremonese   vs   Roma"
+        },
+        {
             "channel": "Fast Sports [online] ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -4539,6 +4547,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Cremonese   vs   Roma"
+        },
+        {
+            "channel": "TNT Sports 2 HD",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11582 H 23000 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Cremonese   vs   Roma"
         },
@@ -4707,6 +4723,14 @@
             "related_to": "     Inter Milan   vs   AC Milan"
         },
         {
+            "channel": "Discovery+ UK ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "     Inter Milan   vs   AC Milan"
+        },
+        {
             "channel": "Fast Sports [online] ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -4735,6 +4759,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Inter Milan   vs   AC Milan"
+        },
+        {
+            "channel": "TNT Sports 1 HD",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "3798 R 19167 - 3/5",
+            "encry": "Irdeto [c]",
             "link": "#",
             "related_to": "     Inter Milan   vs   AC Milan"
         },
@@ -4957,6 +4989,422 @@
             "encry": "",
             "link": "https://www.vgtv.no/live",
             "related_to": "     Sassuolo   vs   Pisa"
+        },
+        {
+            "compet": "Italian Serie A - Week 13",
+            "match": "     Como   vs   Sassuolo",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "19:45",
+            "date": "2025-11-28"
+        },
+        {
+            "channel": "DAZN Great Britain (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "     Como   vs   Sassuolo"
+        },
+        {
+            "channel": "DAZN Ireland ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "     Como   vs   Sassuolo"
+        },
+        {
+            "compet": "Italian Serie A - Week 13",
+            "match": "     Juventus   vs   Cagliari",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "17:00",
+            "date": "2025-11-29"
+        },
+        {
+            "channel": "DAZN Great Britain (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "     Juventus   vs   Cagliari"
+        },
+        {
+            "channel": "DAZN Ireland ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "     Juventus   vs   Cagliari"
+        },
+        {
+            "compet": "Italian Serie A - Week 13",
+            "match": "     AC Milan   vs   Lazio",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "19:45",
+            "date": "2025-11-29"
+        },
+        {
+            "channel": "DAZN Great Britain (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "     AC Milan   vs   Lazio"
+        },
+        {
+            "channel": "DAZN Ireland ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "     AC Milan   vs   Lazio"
+        },
+        {
+            "compet": "Italian Serie A - Week 13",
+            "match": "     Lecce   vs   Torino",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "11:30",
+            "date": "2025-11-30"
+        },
+        {
+            "channel": "DAZN Great Britain (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "     Lecce   vs   Torino"
+        },
+        {
+            "channel": "DAZN Ireland ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "     Lecce   vs   Torino"
+        },
+        {
+            "compet": "Italian Serie A - Week 13",
+            "match": "     Pisa   vs   Inter Milan",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "14:00",
+            "date": "2025-11-30"
+        },
+        {
+            "channel": "DAZN Great Britain (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "     Pisa   vs   Inter Milan"
+        },
+        {
+            "channel": "DAZN Ireland ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "     Pisa   vs   Inter Milan"
+        },
+        {
+            "compet": "Italian Serie A - Week 13",
+            "match": "     Atalanta   vs   Fiorentina",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "17:00",
+            "date": "2025-11-30"
+        },
+        {
+            "channel": "DAZN Great Britain (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "     Atalanta   vs   Fiorentina"
+        },
+        {
+            "channel": "DAZN Ireland ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "     Atalanta   vs   Fiorentina"
+        },
+        {
+            "compet": "Italian Serie A - Week 13",
+            "match": "     Roma   vs   Napoli",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "19:45",
+            "date": "2025-11-30"
+        },
+        {
+            "channel": "DAZN Great Britain (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "     Roma   vs   Napoli"
+        },
+        {
+            "channel": "DAZN Ireland ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "     Roma   vs   Napoli"
+        },
+        {
+            "compet": "Italian Serie A - Week 13",
+            "match": "     Bologna   vs   Cremonese",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "19:45",
+            "date": "2025-12-01"
+        },
+        {
+            "channel": "DAZN Great Britain (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "     Bologna   vs   Cremonese"
+        },
+        {
+            "channel": "DAZN Ireland ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "     Bologna   vs   Cremonese"
+        },
+        {
+            "compet": "Italian Serie A - Week 14",
+            "match": "     Inter Milan   vs   Como",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "17:00",
+            "date": "2025-12-06"
+        },
+        {
+            "channel": "DAZN Great Britain (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "     Inter Milan   vs   Como"
+        },
+        {
+            "channel": "DAZN Ireland ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "     Inter Milan   vs   Como"
+        },
+        {
+            "compet": "Italian Serie A - Week 14",
+            "match": "     Hellas Verona   vs   Atalanta",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "19:45",
+            "date": "2025-12-06"
+        },
+        {
+            "channel": "DAZN Great Britain (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "     Hellas Verona   vs   Atalanta"
+        },
+        {
+            "channel": "DAZN Ireland ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "     Hellas Verona   vs   Atalanta"
+        },
+        {
+            "compet": "Italian Serie A - Week 14",
+            "match": "     Cremonese   vs   Lecce",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "11:30",
+            "date": "2025-12-07"
+        },
+        {
+            "channel": "DAZN Great Britain (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "     Cremonese   vs   Lecce"
+        },
+        {
+            "channel": "DAZN Ireland ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "     Cremonese   vs   Lecce"
+        },
+        {
+            "compet": "Italian Serie A - Week 14",
+            "match": "     Cagliari   vs   Roma",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "14:00",
+            "date": "2025-12-07"
+        },
+        {
+            "channel": "DAZN Great Britain (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "     Cagliari   vs   Roma"
+        },
+        {
+            "channel": "DAZN Ireland ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "     Cagliari   vs   Roma"
+        },
+        {
+            "compet": "Italian Serie A - Week 14",
+            "match": "     Lazio   vs   Bologna",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "17:00",
+            "date": "2025-12-07"
+        },
+        {
+            "channel": "DAZN Great Britain (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "     Lazio   vs   Bologna"
+        },
+        {
+            "channel": "DAZN Ireland ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "     Lazio   vs   Bologna"
+        },
+        {
+            "compet": "Italian Serie A - Week 14",
+            "match": "     Napoli   vs   Juventus",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "19:45",
+            "date": "2025-12-07"
+        },
+        {
+            "channel": "DAZN Great Britain (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "     Napoli   vs   Juventus"
+        },
+        {
+            "channel": "DAZN Ireland ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "     Napoli   vs   Juventus"
+        },
+        {
+            "compet": "Italian Serie A - Week 14",
+            "match": "     Pisa   vs   Parma",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "14:00",
+            "date": "2025-12-08"
+        },
+        {
+            "channel": "DAZN Great Britain (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "     Pisa   vs   Parma"
+        },
+        {
+            "channel": "DAZN Ireland ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "     Pisa   vs   Parma"
+        },
+        {
+            "compet": "Italian Serie A - Week 14",
+            "match": "     Udinese   vs   Genoa",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "17:00",
+            "date": "2025-12-08"
+        },
+        {
+            "channel": "DAZN Great Britain (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "     Udinese   vs   Genoa"
+        },
+        {
+            "channel": "DAZN Ireland ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "     Udinese   vs   Genoa"
         },
         {
             "compet": "Italian Serie A - Week 22",

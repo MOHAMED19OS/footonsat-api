@@ -807,6 +807,14 @@
             "related_to": "     Real Valladolid   vs   Las Palmas"
         },
         {
+            "channel": "Premier Sports GB Player HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": "     Real Valladolid   vs   Las Palmas"
+        },
+        {
             "compet": "Spanish La Liga 2 - Week 14",
             "match": "     Castell\u00f3n   vs   Real Sociedad II",
             "flags": {
@@ -985,6 +993,24 @@
             "encry": "",
             "link": "#",
             "related_to": "     Cultural Leonesa   vs   M\u00e1laga"
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 15",
+            "match": "     Las Palmas   vs   Albacete",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "19:30",
+            "date": "2025-11-21"
+        },
+        {
+            "channel": "Premier Sports GB Player HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": "     Las Palmas   vs   Albacete"
         }
     ]
 }
