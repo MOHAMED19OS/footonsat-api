@@ -5011,6 +5011,14 @@
             "related_to": "     Hamburg   vs   Eintracht Frankfurt"
         },
         {
+            "channel": "DFB Play TV (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dfbplay.tv/",
+            "related_to": "     Hamburg   vs   Eintracht Frankfurt"
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -6449,6 +6457,14 @@
             "related_to": "     Real Sociedad   vs   Barcelona"
         },
         {
+            "channel": "DAZN Great Britain (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "     Real Sociedad   vs   Barcelona"
+        },
+        {
             "channel": "DAZN Ireland ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -6462,6 +6478,14 @@
             "freq": "11259 V 22000 - 2/3",
             "encry": "HD NagraVision",
             "link": "#",
+            "related_to": "     Real Sociedad   vs   Barcelona"
+        },
+        {
+            "channel": "YouTube: DAZN Women",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@DAZNWomensFootball",
             "related_to": "     Real Sociedad   vs   Barcelona"
         },
         {
@@ -6953,6 +6977,14 @@
             },
             "time": "15:30",
             "date": "2025-11-02"
+        },
+        {
+            "channel": "DFB Play TV (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dfbplay.tv/",
+            "related_to": "     Rot-Weiss Essen   vs   Schweinfurt"
         },
         {
             "channel": "Magenta Sport ($/geo/R)",
@@ -8113,6 +8145,14 @@
             "related_to": "     Lille   vs   Angers"
         },
         {
+            "channel": "Okko Futbol HD ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Lille   vs   Angers"
+        },
+        {
             "channel": "Sport TV5 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12360 H 27500 - 3/4",
@@ -8897,6 +8937,14 @@
             "related_to": "     Wolfsburg   vs   Hoffenheim"
         },
         {
+            "channel": "Azam Sports 2 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Wolfsburg   vs   Hoffenheim"
+        },
+        {
             "channel": "beIN Sports 3 HD (Astro)",
             "sat": "Measat 3b 91.5\u00b0e",
             "freq": "10732 V 30000 - 5/6",
@@ -8997,6 +9045,14 @@
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "11804 V 29700 - 3/4",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Wolfsburg   vs   Hoffenheim"
+        },
+        {
+            "channel": "Okko Sport HD Russia ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Wolfsburg   vs   Hoffenheim"
         },
@@ -10483,6 +10539,14 @@
             "related_to": "     Barcelona   vs   Elche"
         },
         {
+            "channel": "Azam Sports 4 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Elche"
+        },
+        {
             "channel": "beIN Sports 1 HD (Astro)",
             "sat": "Measat 3b 91.5\u00b0e",
             "freq": "11142 V 30000 - 5/6",
@@ -11271,6 +11335,14 @@
             "date": "2025-11-02"
         },
         {
+            "channel": "DFB Play TV (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dfbplay.tv/",
+            "related_to": "     Alemannia Aachen   vs   Saarbr\u00fccken"
+        },
+        {
             "channel": "Magenta Sport ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -11765,6 +11837,14 @@
             "sat": "Measat 3b 91.5\u00b0e",
             "freq": "10932 V 30000 - 5/6",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     AC Milan   vs   Roma"
+        },
+        {
+            "channel": "Azam Sports 3 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     AC Milan   vs   Roma"
         },
@@ -12339,6 +12419,22 @@
             "related_to": "     Brest   vs   Lyon"
         },
         {
+            "channel": "Okko Futbol HD ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Brest   vs   Lyon"
+        },
+        {
+            "channel": "Okko Sport HD Russia ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Brest   vs   Lyon"
+        },
+        {
             "channel": "Prime Video UK PPV [$]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -12498,6 +12594,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://artmotion.net/tv/",
+            "related_to": "     Real Betis   vs   Mallorca"
+        },
+        {
+            "channel": "Azam Sports 4 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
             "related_to": "     Real Betis   vs   Mallorca"
         },
         {
@@ -12875,6 +12979,14 @@
             "sat": "Download APP 0.0\u00b0",
             "freq": "0000 0",
             "encry": "FTA",
+            "link": "#",
+            "related_to": "     Kansas City   vs   San Diego Wave"
+        },
+        {
+            "channel": "TNT Sports 3 HD",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11582 H 23000 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Kansas City   vs   San Diego Wave"
         },
@@ -13279,6 +13391,14 @@
             "sat": "Download APP 0.0\u00b0",
             "freq": "0000 0",
             "encry": "FTA",
+            "link": "#",
+            "related_to": "     North Carolina Courage   vs   NJ/NY Gotham"
+        },
+        {
+            "channel": "TNT Sports 3 HD",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11582 H 23000 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     North Carolina Courage   vs   NJ/NY Gotham"
         },
