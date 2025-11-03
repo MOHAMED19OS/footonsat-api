@@ -305,6 +305,22 @@
             "related_to": "     Coventry City   vs   Sheffield United"
         },
         {
+            "channel": "V Sport 1 Norge HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11305 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Coventry City   vs   Sheffield United"
+        },
+        {
+            "channel": "V Sport Extra Sverige HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10903 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Coventry City   vs   Sheffield United"
+        },
+        {
             "channel": "ViaPlay 2 Urheilu HD",
             "sat": "Thor 5 0.8\u00b0w",
             "freq": "11278 V 25000 - 3/4",
@@ -3026,32 +3042,6 @@
         },
         {
             "compet": "English Championship - Week 26",
-            "match": "     Queens Park Rangers   vs   Sheffield Wednesday",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "12:00",
-            "date": "2025-01-04"
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Queens Park Rangers   vs   Sheffield Wednesday"
-        },
-        {
-            "channel": "Sky Sports+ TV HD",
-            "sat": "Astra 2F 28.2\u00b0e",
-            "freq": "12226 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Queens Park Rangers   vs   Sheffield Wednesday"
-        },
-        {
-            "compet": "English Championship - Week 26",
             "match": "     Birmingham City   vs   Coventry City",
             "flags": {
                 "team1": "england",
@@ -3075,6 +3065,32 @@
             "encry": "MPEG-4 NDS",
             "link": "#",
             "related_to": "     Birmingham City   vs   Coventry City"
+        },
+        {
+            "compet": "English Championship - Week 26",
+            "match": "     Queens Park Rangers   vs   Sheffield Wednesday",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "12:00",
+            "date": "2025-01-04"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Queens Park Rangers   vs   Sheffield Wednesday"
+        },
+        {
+            "channel": "Sky Sports+ TV HD",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12226 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Queens Park Rangers   vs   Sheffield Wednesday"
         },
         {
             "compet": "English Championship - Week 26",
