@@ -279,6 +279,14 @@
             "date": "2025-11-03"
         },
         {
+            "channel": "MATCH! Planeta",
+            "sat": "ABS 2A 75.0\u00b0e",
+            "freq": "12533 V 44950 - 4/5",
+            "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Rotor Volgograd   vs   Arsenal Tula"
+        },
+        {
             "channel": "MATCH! Russia HD",
             "sat": "Yamal 401 90.0\u00b0e",
             "freq": "3786 R 15284 - 3/4",
@@ -619,6 +627,14 @@
             "related_to": "     Argentina U-17   vs   Belgium U-17"
         },
         {
+            "channel": "Pickx+ Sports 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Argentina U-17   vs   Belgium U-17"
+        },
+        {
             "channel": "Premier Sports 1 Ireland HD",
             "sat": "Astra 2F 28.2\u00b0e",
             "freq": "12188 H 27500 - 2/3",
@@ -777,6 +793,24 @@
             "encry": "HD Viaccess",
             "link": "#",
             "related_to": "     Farul Constanta   vs   Csikszereda"
+        },
+        {
+            "compet": "Russian FNL - Week 17",
+            "match": "     Fakel Voronezh   vs   Torpedo Moscow",
+            "flags": {
+                "team1": "russia",
+                "team2": "russia"
+            },
+            "time": "15:30",
+            "date": "2025-11-03"
+        },
+        {
+            "channel": "MATCH! Planeta",
+            "sat": "ABS 2A 75.0\u00b0e",
+            "freq": "12533 V 44950 - 4/5",
+            "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Fakel Voronezh   vs   Torpedo Moscow"
         },
         {
             "compet": "FIFA U-17 World Cup - Group Stage, Round 1",
@@ -1947,6 +1981,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Sassuolo   vs   Genoa"
+        },
+        {
+            "channel": "Setanta Sports 1 Eurasia HD",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "12657 V 45000 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Sassuolo   vs   Genoa"
         },
@@ -3431,6 +3473,14 @@
             "related_to": "     Lazio   vs   Cagliari"
         },
         {
+            "channel": "Setanta Sports 2 Eurasia HD",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "12657 V 45000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Lazio   vs   Cagliari"
+        },
+        {
             "channel": "Sky Sport 251 Italia HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "12054 H 29900 - 5/6",
@@ -3809,6 +3859,22 @@
             "related_to": "     Sunderland   vs   Everton"
         },
         {
+            "channel": "Setanta Sports 1 Eurasia HD",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "12657 V 45000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Everton"
+        },
+        {
+            "channel": "Setanta Sports Ukraine HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "12207 V 30000 - 2/3",
+            "encry": "HD Verimatrix",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Everton"
+        },
+        {
             "channel": "Sky Go UK [online]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -4079,6 +4145,14 @@
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 H 27500 - 2/3",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Real Oviedo   vs   Osasuna"
+        },
+        {
+            "channel": "Belarus 5 HD",
+            "sat": "Belintersat 1 51.5\u00b0e",
+            "freq": "11350 H 45000 - 3/4",
+            "encry": "HD DRE-Crypt",
             "link": "#",
             "related_to": "     Real Oviedo   vs   Osasuna"
         },
@@ -4387,6 +4461,14 @@
             "sat": "Eutelsat 9B 9.0\u00b0e",
             "freq": "11843 V 27500 - 3/5",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Gil Vicente   vs   Santa Clara"
+        },
+        {
+            "channel": "Megogo Futbol 4 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Gil Vicente   vs   Santa Clara"
         },
