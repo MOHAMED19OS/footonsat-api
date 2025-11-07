@@ -579,6 +579,14 @@
             "related_to": "     Everton   vs   Fulham"
         },
         {
+            "channel": "Diema Sport 3 HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Everton   vs   Fulham"
+        },
+        {
             "channel": "Fubo Sports USA ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -731,6 +739,14 @@
             "related_to": "     Everton   vs   Fulham"
         },
         {
+            "channel": "SuperSport 2 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Everton   vs   Fulham"
+        },
+        {
             "channel": "SuperSport GOtv Africa",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -771,10 +787,26 @@
             "related_to": "     Everton   vs   Fulham"
         },
         {
+            "channel": "TV3 MAX Dansk HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11345 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Everton   vs   Fulham"
+        },
+        {
             "channel": "USA Network HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Everton   vs   Fulham"
+        },
+        {
+            "channel": "UTV Tanzania",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Everton   vs   Fulham"
         },
@@ -1002,6 +1034,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.stan.com.au/sport",
+            "related_to": "     West Ham United   vs   Burnley"
+        },
+        {
+            "channel": "SuperSport 3 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
             "related_to": "     West Ham United   vs   Burnley"
         },
         {
@@ -1439,6 +1479,14 @@
             "related_to": "     Sunderland   vs   Arsenal"
         },
         {
+            "channel": "TV3 MAX Dansk HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11345 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Arsenal"
+        },
+        {
             "channel": "V Sport Premier League HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "10809 V 25000 - 3/4",
@@ -1793,6 +1841,14 @@
             "related_to": "     Chelsea   vs   Wolves"
         },
         {
+            "channel": "SuperSport 2 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Wolves"
+        },
+        {
             "channel": "SuperSport M\u00e1Ximo 2A HD",
             "sat": "Express AMU1 36.1\u00b0e",
             "freq": "12169 H 27500 - 2/3",
@@ -2099,6 +2155,14 @@
             "related_to": "     Brentford   vs   Newcastle United"
         },
         {
+            "channel": "SuperSport 2 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Brentford   vs   Newcastle United"
+        },
+        {
             "channel": "SuperSport M\u00e1Ximo 2A HD",
             "sat": "Express AMU1 36.1\u00b0e",
             "freq": "12169 H 27500 - 2/3",
@@ -2201,6 +2265,562 @@
             "encry": "",
             "link": "https://voyo.protv.ro/premier-league",
             "related_to": "     Brentford   vs   Newcastle United"
+        },
+        {
+            "compet": "English Premier League - Week 11",
+            "match": "     Aston Villa   vs   Bournemouth",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "14:00",
+            "date": "2025-11-09"
+        },
+        {
+            "channel": "Arena Sport 3 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11895 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Bournemouth"
+        },
+        {
+            "channel": "Arena Sport 3 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11798 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Bournemouth"
+        },
+        {
+            "channel": "Arena Sport 9 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11678 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Bournemouth"
+        },
+        {
+            "channel": "Astro Grandstand HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10932 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Bournemouth"
+        },
+        {
+            "channel": "Astro Premier League HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10772 V 30000 - 5/6",
+            "encry": "HD Mediaguard",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Bournemouth"
+        },
+        {
+            "channel": "beIN Connect MENA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect.bein.com/",
+            "related_to": "     Aston Villa   vs   Bournemouth"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Aston Villa   vs   Bournemouth"
+        },
+        {
+            "channel": "beIN Sports MENA 9 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Bournemouth"
+        },
+        {
+            "channel": "Canal+ Extra 1 Polska HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11278 V 27500 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Bournemouth"
+        },
+        {
+            "channel": "DAZN Espa\u00f1a ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Bournemouth"
+        },
+        {
+            "channel": "Diema Sport 2 HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12137 V 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Bournemouth"
+        },
+        {
+            "channel": "Fubo Sports USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.fubosportsnetwork.com/",
+            "related_to": "     Aston Villa   vs   Bournemouth"
+        },
+        {
+            "channel": "FuboTV Canada ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Bournemouth"
+        },
+        {
+            "channel": "Go3 Extra Sports Baltics ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "https://go3.tv/extra_sports",
+            "related_to": "     Aston Villa   vs   Bournemouth"
+        },
+        {
+            "channel": "Hub Premier 2 HD ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.starhubtvplus.com/eplmatches",
+            "related_to": "     Aston Villa   vs   Bournemouth"
+        },
+        {
+            "channel": "Nova Sports 5 Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11823 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Bournemouth"
+        },
+        {
+            "channel": "Play Sports 1 Belgium",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Bournemouth"
+        },
+        {
+            "channel": "Setanta Sports 1 Eurasia HD",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "12657 V 45000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Bournemouth"
+        },
+        {
+            "channel": "Sky Go UK [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Bournemouth"
+        },
+        {
+            "channel": "Sky Sport 8 Deutsch HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11798 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Bournemouth"
+        },
+        {
+            "channel": "Sky Sports Cricket HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "12090 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Bournemouth"
+        },
+        {
+            "channel": "Sport 4 Israel HD",
+            "sat": "Amos 7 4.0\u00b0w",
+            "freq": "11030 V 27500 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Bournemouth"
+        },
+        {
+            "channel": "Sp\u00edler 1 TV Hungary HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "11766 V 28000 - 7/8",
+            "encry": "Conax",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Bournemouth"
+        },
+        {
+            "channel": "Stan Sport Australia ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.stan.com.au/sport",
+            "related_to": "     Aston Villa   vs   Bournemouth"
+        },
+        {
+            "channel": "SuperSport 1 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Bournemouth"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 1 HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Bournemouth"
+        },
+        {
+            "channel": "SuperSport Variety 3 HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11170 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Bournemouth"
+        },
+        {
+            "channel": "TSN Malta 2 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Bournemouth"
+        },
+        {
+            "channel": "USA Network HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Bournemouth"
+        },
+        {
+            "channel": "V Sport Premier League 4 HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12437 H 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Bournemouth"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Bournemouth"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Bournemouth"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Bournemouth"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Bournemouth"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Bournemouth"
+        },
+        {
+            "channel": "VOYO Pro TV Romania [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://voyo.protv.ro/premier-league",
+            "related_to": "     Aston Villa   vs   Bournemouth"
+        },
+        {
+            "compet": "English Premier League - Week 11",
+            "match": "     Crystal Palace   vs   Brighton H.A.",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "14:00",
+            "date": "2025-11-09"
+        },
+        {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12480 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Brighton H.A."
+        },
+        {
+            "channel": "Arena Sport 7 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11595 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Brighton H.A."
+        },
+        {
+            "channel": "Astro Premier League 3 HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10892 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Brighton H.A."
+        },
+        {
+            "channel": "beIN Connect MENA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect.bein.com/",
+            "related_to": "     Crystal Palace   vs   Brighton H.A."
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Crystal Palace   vs   Brighton H.A."
+        },
+        {
+            "channel": "beIN Sports MENA 3 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Brighton H.A."
+        },
+        {
+            "channel": "Canal+ Extra 5 Polska HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Brighton H.A."
+        },
+        {
+            "channel": "DAZN 1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12399 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Brighton H.A."
+        },
+        {
+            "channel": "DAZN Espa\u00f1a ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Brighton H.A."
+        },
+        {
+            "channel": "FuboTV Canada ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Brighton H.A."
+        },
+        {
+            "channel": "Go3 Extra Sports Baltics ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "https://go3.tv/extra_sports",
+            "related_to": "     Crystal Palace   vs   Brighton H.A."
+        },
+        {
+            "channel": "Hub Premier 3 HD ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.starhubtvplus.com/eplmatches",
+            "related_to": "     Crystal Palace   vs   Brighton H.A."
+        },
+        {
+            "channel": "Nova Sports News HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11938 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Brighton H.A."
+        },
+        {
+            "channel": "Peacock Premium USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Brighton H.A."
+        },
+        {
+            "channel": "Play Sports 2 Belgium",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Brighton H.A."
+        },
+        {
+            "channel": "Sky Go UK [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Brighton H.A."
+        },
+        {
+            "channel": "Sky Sport 6 Deutsch HD",
+            "sat": "Astra 1KR 19.2\u00b0e",
+            "freq": "11171 H 22000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Brighton H.A."
+        },
+        {
+            "channel": "Sky Sports+ TV HD",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12148 H 27500 - 2/3",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Brighton H.A."
+        },
+        {
+            "channel": "Stan Sport Australia ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.stan.com.au/sport",
+            "related_to": "     Crystal Palace   vs   Brighton H.A."
+        },
+        {
+            "channel": "SuperSport 4 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Brighton H.A."
+        },
+        {
+            "channel": "SuperSport Action HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Brighton H.A."
+        },
+        {
+            "channel": "SuperSport OTT 2",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Brighton H.A."
+        },
+        {
+            "channel": "TSN Malta 8 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Brighton H.A."
+        },
+        {
+            "channel": "V Sport Football HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Brighton H.A."
+        },
+        {
+            "channel": "V Sport Premier League 3 HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12111 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Brighton H.A."
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Brighton H.A."
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Brighton H.A."
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Brighton H.A."
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Brighton H.A."
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Brighton H.A."
+        },
+        {
+            "channel": "VOYO Pro TV Romania [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://voyo.protv.ro/premier-league",
+            "related_to": "     Crystal Palace   vs   Brighton H.A."
         },
         {
             "compet": "English Premier League - Week 11",
@@ -2470,546 +3090,6 @@
         },
         {
             "compet": "English Premier League - Week 11",
-            "match": "     Aston Villa   vs   Bournemouth",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "14:00",
-            "date": "2025-11-09"
-        },
-        {
-            "channel": "Arena Sport 3 BiH HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11895 V 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Aston Villa   vs   Bournemouth"
-        },
-        {
-            "channel": "Arena Sport 3 Srbija HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11798 H 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Aston Villa   vs   Bournemouth"
-        },
-        {
-            "channel": "Arena Sport 9 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11678 H 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Aston Villa   vs   Bournemouth"
-        },
-        {
-            "channel": "Astro Grandstand HD",
-            "sat": "Measat 3b 91.5\u00b0e",
-            "freq": "10932 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Aston Villa   vs   Bournemouth"
-        },
-        {
-            "channel": "Astro Premier League HD",
-            "sat": "Measat 3b 91.5\u00b0e",
-            "freq": "10772 V 30000 - 5/6",
-            "encry": "HD Mediaguard",
-            "link": "#",
-            "related_to": "     Aston Villa   vs   Bournemouth"
-        },
-        {
-            "channel": "beIN Connect MENA",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://connect.bein.com/",
-            "related_to": "     Aston Villa   vs   Bournemouth"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Aston Villa   vs   Bournemouth"
-        },
-        {
-            "channel": "beIN Sports MENA 9 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10850 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Aston Villa   vs   Bournemouth"
-        },
-        {
-            "channel": "Canal+ Extra 1 Polska HD",
-            "sat": "Hotbird 13G 13.0\u00b0e",
-            "freq": "11278 V 27500 - 5/6",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Aston Villa   vs   Bournemouth"
-        },
-        {
-            "channel": "DAZN Espa\u00f1a ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Aston Villa   vs   Bournemouth"
-        },
-        {
-            "channel": "Diema Sport 2 HD",
-            "sat": "Hellas Sat 3 39.0\u00b0e",
-            "freq": "12137 V 30000 - 5/6",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Aston Villa   vs   Bournemouth"
-        },
-        {
-            "channel": "Fubo Sports USA ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.fubosportsnetwork.com/",
-            "related_to": "     Aston Villa   vs   Bournemouth"
-        },
-        {
-            "channel": "FuboTV Canada ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Aston Villa   vs   Bournemouth"
-        },
-        {
-            "channel": "Go3 Extra Sports Baltics ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "https://go3.tv/extra_sports",
-            "related_to": "     Aston Villa   vs   Bournemouth"
-        },
-        {
-            "channel": "Hub Premier 2 HD ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.starhubtvplus.com/eplmatches",
-            "related_to": "     Aston Villa   vs   Bournemouth"
-        },
-        {
-            "channel": "Nova Sports 5 Hellas HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "11823 H 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Aston Villa   vs   Bournemouth"
-        },
-        {
-            "channel": "Play Sports 1 Belgium",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Aston Villa   vs   Bournemouth"
-        },
-        {
-            "channel": "Setanta Sports 1 Eurasia HD",
-            "sat": "KazSat 3 58.5\u00b0e",
-            "freq": "12657 V 45000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Aston Villa   vs   Bournemouth"
-        },
-        {
-            "channel": "Sky Go UK [online]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Aston Villa   vs   Bournemouth"
-        },
-        {
-            "channel": "Sky Sport 8 Deutsch HD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11798 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Aston Villa   vs   Bournemouth"
-        },
-        {
-            "channel": "Sky Sports Cricket HD",
-            "sat": "Astra 2E 28.2\u00b0e",
-            "freq": "12090 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Aston Villa   vs   Bournemouth"
-        },
-        {
-            "channel": "Sport 4 Israel HD",
-            "sat": "Amos 7 4.0\u00b0w",
-            "freq": "11030 V 27500 - 3/4",
-            "encry": "VideoGuard",
-            "link": "#",
-            "related_to": "     Aston Villa   vs   Bournemouth"
-        },
-        {
-            "channel": "Sp\u00edler 1 TV Hungary HD",
-            "sat": "Thor 6 0.8\u00b0w",
-            "freq": "11766 V 28000 - 7/8",
-            "encry": "Conax",
-            "link": "#",
-            "related_to": "     Aston Villa   vs   Bournemouth"
-        },
-        {
-            "channel": "Stan Sport Australia ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.stan.com.au/sport",
-            "related_to": "     Aston Villa   vs   Bournemouth"
-        },
-        {
-            "channel": "SuperSport M\u00e1Ximo 1 HD",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "11594 V 27500 - 5/6",
-            "encry": "Irdeto",
-            "link": "#",
-            "related_to": "     Aston Villa   vs   Bournemouth"
-        },
-        {
-            "channel": "SuperSport Variety 3 HD",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "11170 H 30000 - 5/6",
-            "encry": "Irdeto",
-            "link": "#",
-            "related_to": "     Aston Villa   vs   Bournemouth"
-        },
-        {
-            "channel": "TSN Malta 2 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Aston Villa   vs   Bournemouth"
-        },
-        {
-            "channel": "USA Network HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Aston Villa   vs   Bournemouth"
-        },
-        {
-            "channel": "V Sport Premier League 4 HD",
-            "sat": "Thor 7 0.6\u00b0w",
-            "freq": "12437 H 30000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Aston Villa   vs   Bournemouth"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Aston Villa   vs   Bournemouth"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Aston Villa   vs   Bournemouth"
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Aston Villa   vs   Bournemouth"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Aston Villa   vs   Bournemouth"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Aston Villa   vs   Bournemouth"
-        },
-        {
-            "channel": "VOYO Pro TV Romania [$]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://voyo.protv.ro/premier-league",
-            "related_to": "     Aston Villa   vs   Bournemouth"
-        },
-        {
-            "compet": "English Premier League - Week 11",
-            "match": "     Crystal Palace   vs   Brighton H.A.",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "14:00",
-            "date": "2025-11-09"
-        },
-        {
-            "channel": "Arena Premium 2 Srbija HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12480 V 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Crystal Palace   vs   Brighton H.A."
-        },
-        {
-            "channel": "Arena Sport 7 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11595 H 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Crystal Palace   vs   Brighton H.A."
-        },
-        {
-            "channel": "Astro Premier League 3 HD",
-            "sat": "Measat 3b 91.5\u00b0e",
-            "freq": "10892 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Crystal Palace   vs   Brighton H.A."
-        },
-        {
-            "channel": "beIN Connect MENA",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://connect.bein.com/",
-            "related_to": "     Crystal Palace   vs   Brighton H.A."
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Crystal Palace   vs   Brighton H.A."
-        },
-        {
-            "channel": "beIN Sports MENA 3 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Crystal Palace   vs   Brighton H.A."
-        },
-        {
-            "channel": "Canal+ Extra 5 Polska HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Crystal Palace   vs   Brighton H.A."
-        },
-        {
-            "channel": "DAZN 1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12399 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Crystal Palace   vs   Brighton H.A."
-        },
-        {
-            "channel": "DAZN Espa\u00f1a ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Crystal Palace   vs   Brighton H.A."
-        },
-        {
-            "channel": "FuboTV Canada ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Crystal Palace   vs   Brighton H.A."
-        },
-        {
-            "channel": "Go3 Extra Sports Baltics ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "https://go3.tv/extra_sports",
-            "related_to": "     Crystal Palace   vs   Brighton H.A."
-        },
-        {
-            "channel": "Hub Premier 3 HD ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.starhubtvplus.com/eplmatches",
-            "related_to": "     Crystal Palace   vs   Brighton H.A."
-        },
-        {
-            "channel": "Nova Sports News HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "11938 H 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Crystal Palace   vs   Brighton H.A."
-        },
-        {
-            "channel": "Peacock Premium USA ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Crystal Palace   vs   Brighton H.A."
-        },
-        {
-            "channel": "Play Sports 2 Belgium",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Crystal Palace   vs   Brighton H.A."
-        },
-        {
-            "channel": "Sky Go UK [online]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Crystal Palace   vs   Brighton H.A."
-        },
-        {
-            "channel": "Sky Sport 6 Deutsch HD",
-            "sat": "Astra 1KR 19.2\u00b0e",
-            "freq": "11171 H 22000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Crystal Palace   vs   Brighton H.A."
-        },
-        {
-            "channel": "Sky Sports+ TV HD",
-            "sat": "Astra 2F 28.2\u00b0e",
-            "freq": "12148 H 27500 - 2/3",
-            "encry": "VideoGuard",
-            "link": "#",
-            "related_to": "     Crystal Palace   vs   Brighton H.A."
-        },
-        {
-            "channel": "Stan Sport Australia ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.stan.com.au/sport",
-            "related_to": "     Crystal Palace   vs   Brighton H.A."
-        },
-        {
-            "channel": "SuperSport Action HD",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "10970 V 30000 - 5/6",
-            "encry": "Irdeto",
-            "link": "#",
-            "related_to": "     Crystal Palace   vs   Brighton H.A."
-        },
-        {
-            "channel": "SuperSport OTT 2",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Crystal Palace   vs   Brighton H.A."
-        },
-        {
-            "channel": "TSN Malta 8 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Crystal Palace   vs   Brighton H.A."
-        },
-        {
-            "channel": "V Sport Football HD",
-            "sat": "Thor 6 0.8\u00b0w",
-            "freq": "10809 V 25000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Crystal Palace   vs   Brighton H.A."
-        },
-        {
-            "channel": "V Sport Premier League 3 HD",
-            "sat": "Thor 7 0.6\u00b0w",
-            "freq": "12111 V 30000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Crystal Palace   vs   Brighton H.A."
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Crystal Palace   vs   Brighton H.A."
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Crystal Palace   vs   Brighton H.A."
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Crystal Palace   vs   Brighton H.A."
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Crystal Palace   vs   Brighton H.A."
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Crystal Palace   vs   Brighton H.A."
-        },
-        {
-            "channel": "VOYO Pro TV Romania [$]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://voyo.protv.ro/premier-league",
-            "related_to": "     Crystal Palace   vs   Brighton H.A."
-        },
-        {
-            "compet": "English Premier League - Week 11",
             "match": "     Manchester City   vs   Liverpool",
             "flags": {
                 "team1": "england",
@@ -3247,6 +3327,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Manchester City   vs   Liverpool"
+        },
+        {
+            "channel": "See Dansk HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11265 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Manchester City   vs   Liverpool"
         },
