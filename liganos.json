@@ -193,6 +193,14 @@
             "related_to": "     Santa Clara   vs   Sporting Lisbon"
         },
         {
+            "channel": "Silk Sport 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Santa Clara   vs   Sporting Lisbon"
+        },
+        {
             "channel": "Sport Live Dansk HD",
             "sat": "Thor 6 5.0\u00b0e",
             "freq": "10934 V 25000 - 2/4",
@@ -205,6 +213,14 @@
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Santa Clara   vs   Sporting Lisbon"
+        },
+        {
+            "channel": "Sport+ Qazaqstan",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "10720 H 30000 - 3/4",
+            "encry": "MPEG-4 NDS",
             "link": "#",
             "related_to": "     Santa Clara   vs   Sporting Lisbon"
         },
@@ -577,10 +593,26 @@
             "related_to": "     Benfica   vs   Casa Pia"
         },
         {
+            "channel": "Silk Universal HD",
+            "sat": "Astra 5B 31.5\u00b0e",
+            "freq": "12207 V 27500 - 5/6",
+            "encry": "MPEG-4 Bulcrypt",
+            "link": "#",
+            "related_to": "     Benfica   vs   Casa Pia"
+        },
+        {
             "channel": "Sport 1 Lithuania HD [$]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Benfica   vs   Casa Pia"
+        },
+        {
+            "channel": "Sport+ Qazaqstan",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "10720 H 30000 - 3/4",
+            "encry": "MPEG-4 NDS",
             "link": "#",
             "related_to": "     Benfica   vs   Casa Pia"
         },
