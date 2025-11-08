@@ -2,64 +2,6 @@
     "footonsat": [
         {
             "compet": "NBA Regular Season",
-            "match": "     Phoenix Suns   vs   Los Angeles Clippers",
-            "flags": {
-                "team1": "assocnba",
-                "team2": "assocnba"
-            },
-            "time": "02:00",
-            "date": "2025-11-07"
-        },
-        {
-            "channel": "beIN Sports France 1 HD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11856 V 29700 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Phoenix Suns   vs   Los Angeles Clippers"
-        },
-        {
-            "channel": "beIN Sports MENA 8 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Phoenix Suns   vs   Los Angeles Clippers"
-        },
-        {
-            "channel": "Cosmote Sport 4 HD",
-            "sat": "Eutelsat 9B 9.0\u00b0e",
-            "freq": "12149 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Phoenix Suns   vs   Los Angeles Clippers"
-        },
-        {
-            "channel": "NBA League Pass ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Phoenix Suns   vs   Los Angeles Clippers"
-        },
-        {
-            "channel": "Setanta Sports 1 Eurasia HD",
-            "sat": "KazSat 3 58.5\u00b0e",
-            "freq": "12657 V 45000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Phoenix Suns   vs   Los Angeles Clippers"
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Phoenix Suns   vs   Los Angeles Clippers"
-        },
-        {
-            "compet": "NBA Regular Season",
             "match": "     Orlando Magic   vs   Boston Celtics",
             "flags": {
                 "team1": "assocnba",
@@ -527,6 +469,14 @@
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12480 V 30000 - 3/4",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Milwaukee Bucks   vs   Houston Rockets"
+        },
+        {
+            "channel": "Canal+ Sport 4 Afrique HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10886 H 30000 - 8/9",
+            "encry": "HD Mediaguard",
             "link": "#",
             "related_to": "     Milwaukee Bucks   vs   Houston Rockets"
         },
@@ -1639,6 +1589,14 @@
             "date": "2025-11-15"
         },
         {
+            "channel": "beIN Sports France 3 HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Cleveland Cavaliers   vs   Memphis Grizzlies"
+        },
+        {
             "channel": "NBA League Pass ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1684,6 +1642,32 @@
         },
         {
             "compet": "NBA Regular Season",
+            "match": "     Minnesota Timberwolves   vs   Denver Nuggets",
+            "flags": {
+                "team1": "assocnba",
+                "team2": "assocnba"
+            },
+            "time": "01:00",
+            "date": "2025-11-16"
+        },
+        {
+            "channel": "beIN Sports France 1 HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Minnesota Timberwolves   vs   Denver Nuggets"
+        },
+        {
+            "channel": "NBA League Pass ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Minnesota Timberwolves   vs   Denver Nuggets"
+        },
+        {
+            "compet": "NBA Regular Season",
             "match": "     Milwaukee Bucks   vs   Los Angeles Lakers",
             "flags": {
                 "team1": "assocnba",
@@ -1699,24 +1683,6 @@
             "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Milwaukee Bucks   vs   Los Angeles Lakers"
-        },
-        {
-            "compet": "NBA Regular Season",
-            "match": "     Minnesota Timberwolves   vs   Denver Nuggets",
-            "flags": {
-                "team1": "assocnba",
-                "team2": "assocnba"
-            },
-            "time": "01:00",
-            "date": "2025-11-16"
-        },
-        {
-            "channel": "NBA League Pass ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Minnesota Timberwolves   vs   Denver Nuggets"
         },
         {
             "compet": "NBA Regular Season",

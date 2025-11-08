@@ -2,100 +2,6 @@
     "footonsat": [
         {
             "compet": "T\u00fcrkiye 1. Lig - Week 13",
-            "match": "     Sariyer   vs   Van BB",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "11:30",
-            "date": "2025-11-07"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Sariyer   vs   Van BB"
-        },
-        {
-            "channel": "beIN Sports T\u00fcrkiye 2 HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11676 V 24444 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Sariyer   vs   Van BB"
-        },
-        {
-            "channel": "TRT Spor T\u00fcrkiye HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11096 H 30000 - 5/6",
-            "encry": "FTA",
-            "link": "https://www.trtizle.com/canli/tv/trt-spor",
-            "related_to": "     Sariyer   vs   Van BB"
-        },
-        {
-            "compet": "T\u00fcrkiye 1. Lig - Week 13",
-            "match": "     Bodrumspor   vs   Istanbulspor",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "14:00",
-            "date": "2025-11-07"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Bodrumspor   vs   Istanbulspor"
-        },
-        {
-            "channel": "beIN Sports T\u00fcrkiye 2 HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11676 V 24444 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Bodrumspor   vs   Istanbulspor"
-        },
-        {
-            "channel": "TRT Spor T\u00fcrkiye HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11096 H 30000 - 5/6",
-            "encry": "FTA",
-            "link": "https://www.trtizle.com/canli/tv/trt-spor",
-            "related_to": "     Bodrumspor   vs   Istanbulspor"
-        },
-        {
-            "compet": "T\u00fcrkiye S\u00fcper Lig - Week 12",
-            "match": "     Gen\u00e7lerbirligi   vs   Istanbul Basaksehir",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "17:00",
-            "date": "2025-11-07"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Gen\u00e7lerbirligi   vs   Istanbul Basaksehir"
-        },
-        {
-            "channel": "beIN Sports T\u00fcrkiye 1 HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11180 H 30000 - 3/4",
-            "encry": "Irdeto",
-            "link": "#",
-            "related_to": "     Gen\u00e7lerbirligi   vs   Istanbul Basaksehir"
-        },
-        {
-            "compet": "T\u00fcrkiye 1. Lig - Week 13",
             "match": "     Sivasspor   vs   Manisa FK",
             "flags": {
                 "team1": "turkey",
@@ -377,6 +283,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Antalyaspor   vs   Besiktas"
+        },
+        {
+            "channel": "SuperSport ESPN 2 HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
             "link": "#",
             "related_to": "     Antalyaspor   vs   Besiktas"
         },
