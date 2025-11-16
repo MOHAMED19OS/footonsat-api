@@ -1377,6 +1377,14 @@
             "related_to": "     Portugal   vs   Armenia"
         },
         {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Portugal   vs   Armenia"
+        },
+        {
             "channel": "Sony Sports TEN 2 India HD",
             "sat": "G-Sat 10 83.0\u00b0e",
             "freq": "11090 V 32720 - 2/3",
@@ -1585,6 +1593,24 @@
             "related_to": "     Newcastle United   vs   Sunderland"
         },
         {
+            "compet": "German W/Cup (DFB-Pokal Frauen) - Round of 16",
+            "match": "     Hamburg   vs   Bayer Leverkusen",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "14:00",
+            "date": "2025-11-16"
+        },
+        {
+            "channel": "YouTube Channel (see link)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Hamburg   vs   Bayer Leverkusen"
+        },
+        {
             "compet": "English Womens Super League - Week 9",
             "match": "     Tottenham Hotspur   vs   Arsenal",
             "flags": {
@@ -1709,6 +1735,24 @@
             "encry": "",
             "link": "#",
             "related_to": "     Sevilla   vs   DUX Logro\u00f1o"
+        },
+        {
+            "compet": "German W/Cup (DFB-Pokal Frauen) - Round of 16",
+            "match": "     RB Leipzig   vs   Werder Bremen",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "15:00",
+            "date": "2025-11-16"
+        },
+        {
+            "channel": "YouTube Channel (see link)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Werder Bremen"
         },
         {
             "compet": "Spanish La Liga 2 - Week 14",
@@ -2161,6 +2205,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Albania   vs   England"
+        },
+        {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Albania   vs   England"
         },
@@ -2694,6 +2746,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "     Azerbaijan   vs   France"
+        },
+        {
+            "channel": "GEM Sport HD",
+            "sat": "Al Yah 1 52.5\u00b0e",
+            "freq": "12034 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "     Azerbaijan   vs   France"
         },
         {
@@ -3725,6 +3785,14 @@
             "sat": "Astra 5B 31.5\u00b0e",
             "freq": "12207 V 27500 - 5/6",
             "encry": "MPEG-4 Bulcrypt",
+            "link": "#",
+            "related_to": "     Italy   vs   Norway"
+        },
+        {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Italy   vs   Norway"
         },
