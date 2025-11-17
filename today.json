@@ -29,11 +29,11 @@
             "date": "2025-11-17"
         },
         {
-            "channel": "Abu Dhabi Sports 1 HD",
+            "channel": "Abu Dhabi Sports 2 HD",
             "sat": "Eutelsat 7 West A 7.0\u00b0w",
             "freq": "11411 H 30000 - 3/4",
             "encry": "FTA",
-            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%201",
+            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%202",
             "related_to": "     Egypt   vs   Cape Verde"
         },
         {
@@ -1087,6 +1087,14 @@
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "11996 V 29900 - 5/6",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Germany   vs   Slovakia"
+        },
+        {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Germany   vs   Slovakia"
         },
