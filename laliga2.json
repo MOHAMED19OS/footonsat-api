@@ -11,10 +11,42 @@
             "date": "2025-11-21"
         },
         {
+            "channel": "Arena Sport 2 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11554 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Las Palmas   vs   Albacete"
+        },
+        {
+            "channel": "Arena Sport 3 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11895 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Las Palmas   vs   Albacete"
+        },
+        {
+            "channel": "Arena Sport 4 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11798 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Las Palmas   vs   Albacete"
+        },
+        {
             "channel": "DAZN Espa\u00f1a HD FTA (geo)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 - -",
             "encry": "FTA",
+            "link": "#",
+            "related_to": "     Las Palmas   vs   Albacete"
+        },
+        {
+            "channel": "MATCH! Futbol 3 HD",
+            "sat": "Horizons 2 84.8\u00b0e",
+            "freq": "11840 H 28800 - 2/3",
+            "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     Las Palmas   vs   Albacete"
         },
@@ -95,6 +127,14 @@
             },
             "time": "17:30",
             "date": "2025-11-22"
+        },
+        {
+            "channel": "Arena Sport 1x2 Srbija",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Eibar   vs   Real Zaragoza"
         },
         {
             "channel": "DAZN Espa\u00f1a HD FTA (geo)",
@@ -237,6 +277,22 @@
             },
             "time": "20:00",
             "date": "2025-11-23"
+        },
+        {
+            "channel": "Arena Sport 2 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11798 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     M\u00e1laga   vs   Mirand\u00e9s"
+        },
+        {
+            "channel": "Arena Sport 4 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11895 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     M\u00e1laga   vs   Mirand\u00e9s"
         },
         {
             "channel": "DAZN Espa\u00f1a HD FTA (geo)",
