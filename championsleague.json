@@ -221,6 +221,14 @@
             "date": "2025-11-25"
         },
         {
+            "channel": "beIN Sports MENA 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Barcelona"
+        },
+        {
             "channel": "beIN Sports MENA English 1 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10850 V 27500 - 2/3",
@@ -365,6 +373,14 @@
             "date": "2025-11-26"
         },
         {
+            "channel": "beIN Sports MENA English 2 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "11390 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Pafos FC   vs   Monaco"
+        },
+        {
             "channel": "Discovery+ UK ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -433,6 +449,14 @@
             "date": "2025-11-26"
         },
         {
+            "channel": "beIN Sports MENA English 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Arsenal   vs   Bayern Munich"
+        },
+        {
             "channel": "Discovery+ UK ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -463,6 +487,48 @@
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Arsenal   vs   Bayern Munich"
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 5",
+            "match": "     Eintracht Frankfurt   vs   Atalanta",
+            "flags": {
+                "team1": "germany",
+                "team2": "italy"
+            },
+            "time": "20:00",
+            "date": "2025-11-26"
+        },
+        {
+            "channel": "beIN Sports MENA 6 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Eintracht Frankfurt   vs   Atalanta"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "     Eintracht Frankfurt   vs   Atalanta"
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "     Eintracht Frankfurt   vs   Atalanta"
+        },
+        {
+            "channel": "TNT Sports 7",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11597 V 22000 - 5/6",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Eintracht Frankfurt   vs   Atalanta"
         },
         {
             "compet": "UEFA Champions League - Matchday 5",
@@ -542,6 +608,56 @@
         },
         {
             "compet": "UEFA Champions League - Matchday 5",
+            "match": "     Sporting Lisbon   vs   Club Brugge",
+            "flags": {
+                "team1": "portugal",
+                "team2": "belgium"
+            },
+            "time": "20:00",
+            "date": "2025-11-26"
+        },
+        {
+            "channel": "beIN Sports MENA 7 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Sporting Lisbon   vs   Club Brugge"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "     Sporting Lisbon   vs   Club Brugge"
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "     Sporting Lisbon   vs   Club Brugge"
+        },
+        {
+            "channel": "RTL Club Belgique",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11411 H 27500 - 3/4",
+            "encry": "MPEG-4 Seca",
+            "link": "#",
+            "related_to": "     Sporting Lisbon   vs   Club Brugge"
+        },
+        {
+            "channel": "TNT Sports 8",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11597 V 22000 - 5/6",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Sporting Lisbon   vs   Club Brugge"
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 5",
             "match": "     Atl\u00e9tico Madrid   vs   Inter Milan",
             "flags": {
                 "team1": "spain",
@@ -600,40 +716,6 @@
         },
         {
             "compet": "UEFA Champions League - Matchday 5",
-            "match": "     Eintracht Frankfurt   vs   Atalanta",
-            "flags": {
-                "team1": "germany",
-                "team2": "italy"
-            },
-            "time": "20:00",
-            "date": "2025-11-26"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "     Eintracht Frankfurt   vs   Atalanta"
-        },
-        {
-            "channel": "MTV Katsomon+ ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.mtv.fi/urheilu",
-            "related_to": "     Eintracht Frankfurt   vs   Atalanta"
-        },
-        {
-            "channel": "TNT Sports 7",
-            "sat": "Astra 2G 28.2\u00b0e",
-            "freq": "11597 V 22000 - 5/6",
-            "encry": "VideoGuard",
-            "link": "#",
-            "related_to": "     Eintracht Frankfurt   vs   Atalanta"
-        },
-        {
-            "compet": "UEFA Champions League - Matchday 5",
             "match": "     Olympiacos   vs   Real Madrid",
             "flags": {
                 "team1": "greece",
@@ -665,48 +747,6 @@
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Olympiacos   vs   Real Madrid"
-        },
-        {
-            "compet": "UEFA Champions League - Matchday 5",
-            "match": "     Sporting Lisbon   vs   Club Brugge",
-            "flags": {
-                "team1": "portugal",
-                "team2": "belgium"
-            },
-            "time": "20:00",
-            "date": "2025-11-26"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "     Sporting Lisbon   vs   Club Brugge"
-        },
-        {
-            "channel": "MTV Katsomon+ ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.mtv.fi/urheilu",
-            "related_to": "     Sporting Lisbon   vs   Club Brugge"
-        },
-        {
-            "channel": "RTL Club Belgique",
-            "sat": "Hotbird 13G 13.0\u00b0e",
-            "freq": "11411 H 27500 - 3/4",
-            "encry": "MPEG-4 Seca",
-            "link": "#",
-            "related_to": "     Sporting Lisbon   vs   Club Brugge"
-        },
-        {
-            "channel": "TNT Sports 8",
-            "sat": "Astra 2G 28.2\u00b0e",
-            "freq": "11597 V 22000 - 5/6",
-            "encry": "VideoGuard",
-            "link": "#",
-            "related_to": "     Sporting Lisbon   vs   Club Brugge"
         },
         {
             "compet": "UEFA Champions League - Matchday 6",
