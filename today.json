@@ -87,6 +87,86 @@
             "related_to": "     Guatemala   vs   Suriname"
         },
         {
+            "compet": "Friendly International",
+            "match": "     Mexico   vs   Paraguay",
+            "flags": {
+                "team1": "mexico",
+                "team2": "paraguay"
+            },
+            "time": "01:30",
+            "date": "2025-11-19"
+        },
+        {
+            "channel": "Fox Deportes USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Mexico   vs   Paraguay"
+        },
+        {
+            "compet": "Friendly International",
+            "match": "     Colombia   vs   Australia",
+            "flags": {
+                "team1": "colombia",
+                "team2": "australia"
+            },
+            "time": "01:30",
+            "date": "2025-11-19"
+        },
+        {
+            "channel": "Sport TV2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Colombia   vs   Australia"
+        },
+        {
+            "compet": "Friendly International",
+            "match": "     Canada   vs   Venezuela",
+            "flags": {
+                "team1": "canada",
+                "team2": "venezuela"
+            },
+            "time": "01:30",
+            "date": "2025-11-19"
+        },
+        {
+            "channel": "Sport TV3 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Canada   vs   Venezuela"
+        },
+        {
+            "channel": "TSN Canada 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Canada   vs   Venezuela"
+        },
+        {
+            "compet": "Friendly International",
+            "match": "     Ecuador   vs   New Zealand",
+            "flags": {
+                "team1": "ecuador",
+                "team2": "newzealand"
+            },
+            "time": "01:30",
+            "date": "2025-11-19"
+        },
+        {
+            "channel": "Sport TV4 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Ecuador   vs   New Zealand"
+        },
+        {
             "compet": "Serbian Cup (Kup Srbije) - 2nd Round",
             "match": "     Sloven Ruma   vs   Red Star Belgrade",
             "flags": {
@@ -111,6 +191,32 @@
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Sloven Ruma   vs   Red Star Belgrade"
+        },
+        {
+            "compet": "Portuguese Liga Revela\u00e7\u00e3o U-23 - Regular Season Serie B - 17",
+            "match": "     Farense U-23   vs   Estrela U-23",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "15:00",
+            "date": "2025-11-19"
+        },
+        {
+            "channel": "Canal 11 [online] (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.canal11.pt/",
+            "related_to": "     Farense U-23   vs   Estrela U-23"
+        },
+        {
+            "channel": "Canal 11 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12437 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Farense U-23   vs   Estrela U-23"
         },
         {
             "compet": "French F\u00e9minine Premi\u00e8re Ligue - Week 7",
@@ -139,6 +245,14 @@
             },
             "time": "17:45",
             "date": "2025-11-19"
+        },
+        {
+            "channel": "beIN Sports 3 HD (Astro)",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Juventus   vs   Lyon"
         },
         {
             "channel": "beIN Sports MENA 3 HD",
@@ -175,6 +289,14 @@
             "date": "2025-11-19"
         },
         {
+            "channel": "beIN Sports 1 HD (Astro)",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "11142 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Wolfsburg   vs   Manchester United"
+        },
+        {
             "channel": "beIN Sports MENA English 2 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "11390 V 27500 - 2/3",
@@ -199,6 +321,14 @@
             },
             "time": "20:00",
             "date": "2025-11-19"
+        },
+        {
+            "channel": "beIN Sports 1 HD (Astro)",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "11142 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Arsenal   vs   Real Madrid"
         },
         {
             "channel": "beIN Sports MENA 3 HD",
@@ -243,6 +373,14 @@
             "date": "2025-11-19"
         },
         {
+            "channel": "beIN Sports 2 HD (Astro)",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     V\u00e5lerenga   vs   St P\u00f6lten"
+        },
+        {
             "channel": "beIN Sports MENA Xtra 1 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10850 H 27500 - 2/3",
@@ -269,6 +407,14 @@
             "date": "2025-11-19"
         },
         {
+            "channel": "beIN Sports 3 HD (Astro)",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Paris FC   vs   Benfica"
+        },
+        {
             "channel": "Disney+ UK ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -287,10 +433,26 @@
             "date": "2025-11-19"
         },
         {
+            "channel": "Canal 11 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12437 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Palmeiras   vs   Vit\u00f3ria Bahia"
+        },
+        {
             "channel": "MATCH! Futbol 3 HD",
             "sat": "Horizons 2 84.8\u00b0e",
             "freq": "11840 H 28800 - 2/3",
             "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Palmeiras   vs   Vit\u00f3ria Bahia"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Palmeiras   vs   Vit\u00f3ria Bahia"
         }
