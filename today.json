@@ -103,10 +103,26 @@
             "date": "2025-11-20"
         },
         {
+            "channel": "ART Motion Sport 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "       - PLAY OFF DRAW -       "
+        },
+        {
             "channel": "BBC *RED Button HD",
             "sat": "Astra 2E 28.2\u00b0e",
             "freq": "10788 V 23000 - 3/4",
             "encry": "FTA",
+            "link": "#",
+            "related_to": "       - PLAY OFF DRAW -       "
+        },
+        {
+            "channel": "Diema Sport 2 HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12137 V 30000 - 5/6",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "       - PLAY OFF DRAW -       "
         },
@@ -119,6 +135,14 @@
             "related_to": "       - PLAY OFF DRAW -       "
         },
         {
+            "channel": "MTV Urheilu 1 Suomi HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12476 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "       - PLAY OFF DRAW -       "
+        },
+        {
             "channel": "Nova Sports Prime Hellas HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "12130 H 27500 - 3/4",
@@ -127,11 +151,107 @@
             "related_to": "       - PLAY OFF DRAW -       "
         },
         {
+            "channel": "Okko Prime Sport HD ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "       - PLAY OFF DRAW -       "
+        },
+        {
+            "channel": "Prima Sport RO 1 HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12290 V 30000 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "       - PLAY OFF DRAW -       "
+        },
+        {
+            "channel": "RAI Sport",
+            "sat": "Eutelsat 5 West B 5.0\u00b0w",
+            "freq": "11179 V 35300 - 2/3",
+            "encry": "FTA",
+            "link": "https://www.raiplay.it/dirette",
+            "related_to": "       - PLAY OFF DRAW -       "
+        },
+        {
+            "channel": "RAI Sport+ HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11013 H 29900 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "https://www.raiplay.it/dirette",
+            "related_to": "       - PLAY OFF DRAW -       "
+        },
+        {
+            "channel": "Sky Sport 24 HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11862 H 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "       - PLAY OFF DRAW -       "
+        },
+        {
+            "channel": "SportKlub 1 Slovenija HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "       - PLAY OFF DRAW -       "
+        },
+        {
+            "channel": "SportKlub 5 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "       - PLAY OFF DRAW -       "
+        },
+        {
+            "channel": "SuperSport 1 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "       - PLAY OFF DRAW -       "
+        },
+        {
+            "channel": "SVT Play HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.svtplay.se/",
+            "related_to": "       - PLAY OFF DRAW -       "
+        },
+        {
             "channel": "TV2 Play Danmark ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
             "link": "https://play.tv2.dk/sport",
+            "related_to": "       - PLAY OFF DRAW -       "
+        },
+        {
+            "channel": "TV2 Sport X Dansk HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10716 H 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "       - PLAY OFF DRAW -       "
+        },
+        {
+            "channel": "TV4 Play Sverige [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "       - PLAY OFF DRAW -       "
+        },
+        {
+            "channel": "ViaPlay Sport Sverige HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
             "related_to": "       - PLAY OFF DRAW -       "
         },
         {
@@ -165,6 +285,74 @@
             "encry": "FTA",
             "link": "https://www.youtube.com/fifatv",
             "related_to": "       - PLAY OFF DRAW -       "
+        },
+        {
+            "compet": "Romanian Liga 2 - Week 14",
+            "match": "     Concordia Chiajna   vs   Bihor Oradea",
+            "flags": {
+                "team1": "romania",
+                "team2": "romania"
+            },
+            "time": "17:30",
+            "date": "2025-11-20"
+        },
+        {
+            "channel": "Digi Sport 1 Romania HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "11862 H 28000 - 7/8",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Concordia Chiajna   vs   Bihor Oradea"
+        },
+        {
+            "channel": "Prima Sport RO 1 HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12290 V 30000 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Concordia Chiajna   vs   Bihor Oradea"
+        },
+        {
+            "compet": "Danish 1. Division - Week 17",
+            "match": "     Hobro   vs   Hvidovre",
+            "flags": {
+                "team1": "denmark",
+                "team2": "denmark"
+            },
+            "time": "17:30",
+            "date": "2025-11-20"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Hobro   vs   Hvidovre"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Hobro   vs   Hvidovre"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Hobro   vs   Hvidovre"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Hobro   vs   Hvidovre"
         },
         {
             "compet": "UEFA Womens Champions League - League Stage: Round 4",
@@ -289,6 +477,14 @@
             "sat": "Eutelsat 9B 9.0\u00b0e",
             "freq": "11843 V 27500 - 3/5",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Peterborough United   vs   Stockport County"
+        },
+        {
+            "channel": "Diema Sport 2 HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12137 V 30000 - 5/6",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Peterborough United   vs   Stockport County"
         },
