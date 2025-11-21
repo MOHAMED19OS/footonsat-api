@@ -171,6 +171,14 @@
             "related_to": "     Burnley   vs   Chelsea"
         },
         {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "11650 V 10000 - 3/4",
+            "encry": "HD TrophyAccess",
+            "link": "#",
+            "related_to": "     Burnley   vs   Chelsea"
+        },
+        {
             "channel": "Setanta Sports Ukraine HD",
             "sat": "Astra 4A 5.0\u00b0e",
             "freq": "12207 V 30000 - 2/3",
@@ -182,6 +190,14 @@
             "channel": "Sky Sport Calcio HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "12073 V 29900 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Burnley   vs   Chelsea"
+        },
+        {
+            "channel": "Sky Sport Italia 4K UHD",
+            "sat": "Hotbird 13E 13.0\u00b0e",
+            "freq": "11996 V 29900 - 5/6",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Burnley   vs   Chelsea"
@@ -199,6 +215,14 @@
             "sat": "Amos 7 4.0\u00b0w",
             "freq": "11474 V 27500 - 3/4",
             "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Burnley   vs   Chelsea"
+        },
+        {
+            "channel": "Sp\u00edler 1 TV Hungary HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "11766 V 28000 - 7/8",
+            "encry": "Conax",
             "link": "#",
             "related_to": "     Burnley   vs   Chelsea"
         },
@@ -373,6 +397,14 @@
             "related_to": "     Bournemouth   vs   West Ham United"
         },
         {
+            "channel": "Match 4 Hungary HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12130 H 28000 - 7/8",
+            "encry": "Conax",
+            "link": "#",
+            "related_to": "     Bournemouth   vs   West Ham United"
+        },
+        {
             "channel": "Nova Sports 4 Hellas HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "12169 H 27500 - 3/4",
@@ -451,168 +483,6 @@
             "encry": "",
             "link": "https://voyo.protv.ro/premier-league",
             "related_to": "     Bournemouth   vs   West Ham United"
-        },
-        {
-            "compet": "English Premier League - Week 12",
-            "match": "     Wolves   vs   Crystal Palace",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "15:00",
-            "date": "2025-11-22"
-        },
-        {
-            "channel": "Arena Sport 10 Hrvatska HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Wolves   vs   Crystal Palace"
-        },
-        {
-            "channel": "Arena Sport 6 Srbija HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11817 V 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Wolves   vs   Crystal Palace"
-        },
-        {
-            "channel": "Astro Premier League 4 HD",
-            "sat": "Measat 3b 91.5\u00b0e",
-            "freq": "10732 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Wolves   vs   Crystal Palace"
-        },
-        {
-            "channel": "beIN Connect MENA",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://connect.bein.com/",
-            "related_to": "     Wolves   vs   Crystal Palace"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Wolves   vs   Crystal Palace"
-        },
-        {
-            "channel": "beIN Sports MENA 5 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Wolves   vs   Crystal Palace"
-        },
-        {
-            "channel": "beIN Sports MENA 6 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 V 27500 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Wolves   vs   Crystal Palace"
-        },
-        {
-            "channel": "beIN Sports T\u00fcrkiye Max 1 HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11676 V 24444 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Wolves   vs   Crystal Palace"
-        },
-        {
-            "channel": "DAZN Espa\u00f1a ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Wolves   vs   Crystal Palace"
-        },
-        {
-            "channel": "FuboTV Canada ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Wolves   vs   Crystal Palace"
-        },
-        {
-            "channel": "Go3 Extra Sports Baltics ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "https://go3.tv/extra_sports",
-            "related_to": "     Wolves   vs   Crystal Palace"
-        },
-        {
-            "channel": "Nova Sports 5 Hellas HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "11823 H 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Wolves   vs   Crystal Palace"
-        },
-        {
-            "channel": "Stan Sport Australia ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.stan.com.au/sport",
-            "related_to": "     Wolves   vs   Crystal Palace"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Wolves   vs   Crystal Palace"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Wolves   vs   Crystal Palace"
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Wolves   vs   Crystal Palace"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Wolves   vs   Crystal Palace"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Wolves   vs   Crystal Palace"
-        },
-        {
-            "channel": "VOYO Pro TV Romania [$]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://voyo.protv.ro/premier-league",
-            "related_to": "     Wolves   vs   Crystal Palace"
         },
         {
             "compet": "English Premier League - Week 12",
@@ -721,6 +591,14 @@
             "related_to": "     Liverpool   vs   Nottingham Forest"
         },
         {
+            "channel": "CRTV Sports Cameroon",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12610 H 12500 - 3/4",
+            "encry": "HEVC SD Nagravision",
+            "link": "#",
+            "related_to": "     Liverpool   vs   Nottingham Forest"
+        },
+        {
             "channel": "DAZN 1 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12399 H 27500 - 3/4",
@@ -785,6 +663,14 @@
             "related_to": "     Liverpool   vs   Nottingham Forest"
         },
         {
+            "channel": "RTS 2 Senegal HD",
+            "sat": "Amos 17 17.0\u00b0e",
+            "freq": "11968 V 34030 - 5/6",
+            "encry": "HD Conax",
+            "link": "https://live.rts.sn/livetv/rts2",
+            "related_to": "     Liverpool   vs   Nottingham Forest"
+        },
+        {
             "channel": "Setanta Sports 1 Eurasia HD",
             "sat": "KazSat 3 58.5\u00b0e",
             "freq": "12657 V 45000 - 3/4",
@@ -793,10 +679,26 @@
             "related_to": "     Liverpool   vs   Nottingham Forest"
         },
         {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "11650 V 10000 - 3/4",
+            "encry": "HD TrophyAccess",
+            "link": "#",
+            "related_to": "     Liverpool   vs   Nottingham Forest"
+        },
+        {
             "channel": "Setanta Sports Ukraine HD",
             "sat": "Astra 4A 5.0\u00b0e",
             "freq": "12207 V 30000 - 2/3",
             "encry": "HD Verimatrix",
+            "link": "#",
+            "related_to": "     Liverpool   vs   Nottingham Forest"
+        },
+        {
+            "channel": "Sky Sport Uno Italia HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11958 V 27500 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Liverpool   vs   Nottingham Forest"
         },
@@ -825,6 +727,14 @@
             "related_to": "     Liverpool   vs   Nottingham Forest"
         },
         {
+            "channel": "Sp\u00edler 1 TV Hungary HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "11766 V 28000 - 7/8",
+            "encry": "Conax",
+            "link": "#",
+            "related_to": "     Liverpool   vs   Nottingham Forest"
+        },
+        {
             "channel": "Stan Sport Australia ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -837,6 +747,14 @@
             "sat": "Thor 6 5.0\u00b0e",
             "freq": "11345 V 30000 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Liverpool   vs   Nottingham Forest"
+        },
+        {
+            "channel": "UTV Tanzania",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Liverpool   vs   Nottingham Forest"
         },
@@ -1027,6 +945,14 @@
             "related_to": "     Brighton H.A.   vs   Brentford"
         },
         {
+            "channel": "Sky Sport 258 Italia HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11843 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Brighton H.A.   vs   Brentford"
+        },
+        {
             "channel": "Sky Sport MIX Deutsch HD",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "11758 H 27500 - 9/10",
@@ -1213,6 +1139,14 @@
             "related_to": "     Fulham   vs   Sunderland"
         },
         {
+            "channel": "Sky Sport 257 Italia HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12073 V 29900 - 5/6",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Fulham   vs   Sunderland"
+        },
+        {
             "channel": "Stan Sport Australia ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1267,6 +1201,176 @@
             "encry": "",
             "link": "https://voyo.protv.ro/premier-league",
             "related_to": "     Fulham   vs   Sunderland"
+        },
+        {
+            "compet": "English Premier League - Week 12",
+            "match": "     Wolves   vs   Crystal Palace",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "15:00",
+            "date": "2025-11-22"
+        },
+        {
+            "channel": "Arena Sport 10 Hrvatska HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Wolves   vs   Crystal Palace"
+        },
+        {
+            "channel": "Arena Sport 6 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11817 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Wolves   vs   Crystal Palace"
+        },
+        {
+            "channel": "Astro Premier League 4 HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Wolves   vs   Crystal Palace"
+        },
+        {
+            "channel": "beIN Connect MENA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect.bein.com/",
+            "related_to": "     Wolves   vs   Crystal Palace"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Wolves   vs   Crystal Palace"
+        },
+        {
+            "channel": "beIN Sports MENA 5 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Wolves   vs   Crystal Palace"
+        },
+        {
+            "channel": "beIN Sports MENA 6 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Wolves   vs   Crystal Palace"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye Max 1 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Wolves   vs   Crystal Palace"
+        },
+        {
+            "channel": "DAZN Espa\u00f1a ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Wolves   vs   Crystal Palace"
+        },
+        {
+            "channel": "FuboTV Canada ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Wolves   vs   Crystal Palace"
+        },
+        {
+            "channel": "Go3 Extra Sports Baltics ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "https://go3.tv/extra_sports",
+            "related_to": "     Wolves   vs   Crystal Palace"
+        },
+        {
+            "channel": "Nova Sports 5 Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11823 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Wolves   vs   Crystal Palace"
+        },
+        {
+            "channel": "Sky Sport 259 Italia HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12341 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Wolves   vs   Crystal Palace"
+        },
+        {
+            "channel": "Stan Sport Australia ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.stan.com.au/sport",
+            "related_to": "     Wolves   vs   Crystal Palace"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Wolves   vs   Crystal Palace"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Wolves   vs   Crystal Palace"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Wolves   vs   Crystal Palace"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Wolves   vs   Crystal Palace"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Wolves   vs   Crystal Palace"
+        },
+        {
+            "channel": "VOYO Pro TV Romania [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://voyo.protv.ro/premier-league",
+            "related_to": "     Wolves   vs   Crystal Palace"
         },
         {
             "compet": "English Premier League - Week 12",
@@ -1431,6 +1535,14 @@
             "related_to": "     Newcastle United   vs   Manchester City"
         },
         {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "11650 V 10000 - 3/4",
+            "encry": "HD TrophyAccess",
+            "link": "#",
+            "related_to": "     Newcastle United   vs   Manchester City"
+        },
+        {
             "channel": "Setanta Sports Ukraine HD",
             "sat": "Astra 4A 5.0\u00b0e",
             "freq": "12207 V 30000 - 2/3",
@@ -1447,9 +1559,25 @@
             "related_to": "     Newcastle United   vs   Manchester City"
         },
         {
+            "channel": "Sky Sport Italia 4K UHD",
+            "sat": "Hotbird 13E 13.0\u00b0e",
+            "freq": "11996 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Newcastle United   vs   Manchester City"
+        },
+        {
             "channel": "Sky Sport Premier League DE HD",
             "sat": "Astra 1N 19.2\u00b0e",
             "freq": "12032 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Newcastle United   vs   Manchester City"
+        },
+        {
+            "channel": "Sky Sport Uno Italia HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11958 V 27500 - 3/4",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Newcastle United   vs   Manchester City"
@@ -1491,6 +1619,14 @@
             "sat": "Amos 7 4.0\u00b0w",
             "freq": "11474 V 27500 - 3/4",
             "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Newcastle United   vs   Manchester City"
+        },
+        {
+            "channel": "Sp\u00edler 1 TV Hungary HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "11766 V 28000 - 7/8",
+            "encry": "Conax",
             "link": "#",
             "related_to": "     Newcastle United   vs   Manchester City"
         },
@@ -1713,6 +1849,14 @@
             "related_to": "     Leeds United   vs   Aston Villa"
         },
         {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "11650 V 10000 - 3/4",
+            "encry": "HD TrophyAccess",
+            "link": "#",
+            "related_to": "     Leeds United   vs   Aston Villa"
+        },
+        {
             "channel": "Setanta Sports Ukraine HD",
             "sat": "Astra 4A 5.0\u00b0e",
             "freq": "12207 V 30000 - 2/3",
@@ -1729,9 +1873,25 @@
             "related_to": "     Leeds United   vs   Aston Villa"
         },
         {
+            "channel": "Sky Sport Italia 4K UHD",
+            "sat": "Hotbird 13E 13.0\u00b0e",
+            "freq": "11996 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Leeds United   vs   Aston Villa"
+        },
+        {
             "channel": "Sky Sport Premier League DE HD",
             "sat": "Astra 1N 19.2\u00b0e",
             "freq": "12032 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Leeds United   vs   Aston Villa"
+        },
+        {
+            "channel": "Sky Sport Uno Italia HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11958 V 27500 - 3/4",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Leeds United   vs   Aston Villa"
@@ -1773,6 +1933,14 @@
             "sat": "Amos 7 4.0\u00b0w",
             "freq": "11474 V 27500 - 3/4",
             "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Leeds United   vs   Aston Villa"
+        },
+        {
+            "channel": "Sp\u00edler 1 TV Hungary HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "11766 V 28000 - 7/8",
+            "encry": "Conax",
             "link": "#",
             "related_to": "     Leeds United   vs   Aston Villa"
         },
@@ -2003,6 +2171,14 @@
             "related_to": "     Arsenal   vs   Tottenham Hotspur"
         },
         {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "11650 V 10000 - 3/4",
+            "encry": "HD TrophyAccess",
+            "link": "#",
+            "related_to": "     Arsenal   vs   Tottenham Hotspur"
+        },
+        {
             "channel": "Setanta Sports Ukraine HD",
             "sat": "Astra 4A 5.0\u00b0e",
             "freq": "12207 V 30000 - 2/3",
@@ -2030,6 +2206,14 @@
             "channel": "Sky Sport Top Event HD",
             "sat": "Astra 1N 19.2\u00b0e",
             "freq": "11914 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Arsenal   vs   Tottenham Hotspur"
+        },
+        {
+            "channel": "Sky Sport Uno Italia HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11958 V 27500 - 3/4",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Arsenal   vs   Tottenham Hotspur"
@@ -2071,6 +2255,14 @@
             "sat": "Amos 7 4.0\u00b0w",
             "freq": "11474 V 27500 - 3/4",
             "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Arsenal   vs   Tottenham Hotspur"
+        },
+        {
+            "channel": "Sp\u00edler 1 TV Hungary HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "11766 V 28000 - 7/8",
+            "encry": "Conax",
             "link": "#",
             "related_to": "     Arsenal   vs   Tottenham Hotspur"
         },
@@ -3098,128 +3290,6 @@
         },
         {
             "compet": "English Premier League - Week 13",
-            "match": "     Aston Villa   vs   Wolves",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "14:05",
-            "date": "2025-11-30"
-        },
-        {
-            "channel": "beIN Connect MENA",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://connect.bein.com/",
-            "related_to": "     Aston Villa   vs   Wolves"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Aston Villa   vs   Wolves"
-        },
-        {
-            "channel": "DAZN Espa\u00f1a ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Aston Villa   vs   Wolves"
-        },
-        {
-            "channel": "FuboTV Canada ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Aston Villa   vs   Wolves"
-        },
-        {
-            "channel": "Go3 Extra Sports Baltics ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "https://go3.tv/extra_sports",
-            "related_to": "     Aston Villa   vs   Wolves"
-        },
-        {
-            "channel": "Sky Go UK [online]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Aston Villa   vs   Wolves"
-        },
-        {
-            "channel": "Sky Sport 6 Deutsch HD",
-            "sat": "Astra 1KR 19.2\u00b0e",
-            "freq": "11171 H 22000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Aston Villa   vs   Wolves"
-        },
-        {
-            "channel": "Sky Sports Premier League HD",
-            "sat": "Astra 2E 28.2\u00b0e",
-            "freq": "11934 V 27500 - 5/6",
-            "encry": "VideoGuard",
-            "link": "#",
-            "related_to": "     Aston Villa   vs   Wolves"
-        },
-        {
-            "channel": "Sky Sports UK HD",
-            "sat": "Astra 2E 28.2\u00b0e",
-            "freq": "11856 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Aston Villa   vs   Wolves"
-        },
-        {
-            "channel": "Stan Sport Australia ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.stan.com.au/sport",
-            "related_to": "     Aston Villa   vs   Wolves"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Aston Villa   vs   Wolves"
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Aston Villa   vs   Wolves"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Aston Villa   vs   Wolves"
-        },
-        {
-            "channel": "VOYO Pro TV Romania [$]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://voyo.protv.ro/premier-league",
-            "related_to": "     Aston Villa   vs   Wolves"
-        },
-        {
-            "compet": "English Premier League - Week 13",
             "match": "     West Ham United   vs   Liverpool",
             "flags": {
                 "team1": "england",
@@ -3363,6 +3433,128 @@
             "encry": "",
             "link": "https://voyo.protv.ro/premier-league",
             "related_to": "     West Ham United   vs   Liverpool"
+        },
+        {
+            "compet": "English Premier League - Week 13",
+            "match": "     Aston Villa   vs   Wolves",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "14:05",
+            "date": "2025-11-30"
+        },
+        {
+            "channel": "beIN Connect MENA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect.bein.com/",
+            "related_to": "     Aston Villa   vs   Wolves"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Aston Villa   vs   Wolves"
+        },
+        {
+            "channel": "DAZN Espa\u00f1a ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Wolves"
+        },
+        {
+            "channel": "FuboTV Canada ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Wolves"
+        },
+        {
+            "channel": "Go3 Extra Sports Baltics ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "https://go3.tv/extra_sports",
+            "related_to": "     Aston Villa   vs   Wolves"
+        },
+        {
+            "channel": "Sky Go UK [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Wolves"
+        },
+        {
+            "channel": "Sky Sport 6 Deutsch HD",
+            "sat": "Astra 1KR 19.2\u00b0e",
+            "freq": "11171 H 22000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Wolves"
+        },
+        {
+            "channel": "Sky Sports Premier League HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11934 V 27500 - 5/6",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Wolves"
+        },
+        {
+            "channel": "Sky Sports UK HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11856 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Wolves"
+        },
+        {
+            "channel": "Stan Sport Australia ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.stan.com.au/sport",
+            "related_to": "     Aston Villa   vs   Wolves"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Wolves"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Wolves"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Wolves"
+        },
+        {
+            "channel": "VOYO Pro TV Romania [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://voyo.protv.ro/premier-league",
+            "related_to": "     Aston Villa   vs   Wolves"
         },
         {
             "compet": "English Premier League - Week 13",
