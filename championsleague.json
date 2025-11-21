@@ -457,6 +457,14 @@
             "date": "2025-11-25"
         },
         {
+            "channel": "5 SPORT Israel HD",
+            "sat": "Amos 3 4.0\u00b0w",
+            "freq": "10806 V 27500 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Barcelona"
+        },
+        {
             "channel": "beIN Sports MENA 1 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 H 27500 - 2/3",
@@ -1175,6 +1183,14 @@
             },
             "time": "20:00",
             "date": "2025-11-26"
+        },
+        {
+            "channel": "5 SPORT Israel HD",
+            "sat": "Amos 3 4.0\u00b0w",
+            "freq": "10806 V 27500 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Arsenal   vs   Bayern Munich"
         },
         {
             "channel": "beIN Sports MENA 2 HD",
@@ -1930,6 +1946,56 @@
         },
         {
             "compet": "UEFA Champions League - Matchday 6",
+            "match": "     Inter Milan   vs   Liverpool",
+            "flags": {
+                "team1": "italy",
+                "team2": "england"
+            },
+            "time": "20:00",
+            "date": "2025-12-09"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "     Inter Milan   vs   Liverpool"
+        },
+        {
+            "channel": "Premier Sports 1 Ireland HD",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12188 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Inter Milan   vs   Liverpool"
+        },
+        {
+            "channel": "Prime Video UK [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.primevideo.com/",
+            "related_to": "     Inter Milan   vs   Liverpool"
+        },
+        {
+            "channel": "TNT Sports 2 HD",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11582 H 23000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Inter Milan   vs   Liverpool"
+        },
+        {
+            "channel": "UEFA.TV [online] (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.uefa.tv/",
+            "related_to": "     Inter Milan   vs   Liverpool"
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 6",
             "match": "     Atalanta   vs   Chelsea",
             "flags": {
                 "team1": "italy",
@@ -1963,32 +2029,6 @@
             "encry": "",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
             "related_to": "     Barcelona   vs   Eintracht Frankfurt"
-        },
-        {
-            "compet": "UEFA Champions League - Matchday 6",
-            "match": "     Inter Milan   vs   Liverpool",
-            "flags": {
-                "team1": "italy",
-                "team2": "england"
-            },
-            "time": "20:00",
-            "date": "2025-12-09"
-        },
-        {
-            "channel": "Premier Sports 1 Ireland HD",
-            "sat": "Astra 2F 28.2\u00b0e",
-            "freq": "12188 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Inter Milan   vs   Liverpool"
-        },
-        {
-            "channel": "Prime Video UK [$]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.primevideo.com/",
-            "related_to": "     Inter Milan   vs   Liverpool"
         },
         {
             "compet": "UEFA Champions League - Matchday 6",
