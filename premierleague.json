@@ -2841,6 +2841,14 @@
             "related_to": "     Leeds United   vs   Aston Villa"
         },
         {
+            "channel": "Premier Sports 2 Mongolia HD",
+            "sat": "Telstar 18 138.0\u00b0e",
+            "freq": "12598 H 45000 - 5/6",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "#",
+            "related_to": "     Leeds United   vs   Aston Villa"
+        },
+        {
             "channel": "Setanta Sports 1 Eurasia HD",
             "sat": "KazSat 3 58.5\u00b0e",
             "freq": "12657 V 45000 - 3/4",
@@ -3331,6 +3339,14 @@
             "related_to": "     Arsenal   vs   Tottenham Hotspur"
         },
         {
+            "channel": "Premier Sports 2 Mongolia HD",
+            "sat": "Telstar 18 138.0\u00b0e",
+            "freq": "12598 H 45000 - 5/6",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "#",
+            "related_to": "     Arsenal   vs   Tottenham Hotspur"
+        },
+        {
             "channel": "See Dansk HD",
             "sat": "Thor 6 5.0\u00b0e",
             "freq": "11265 H 30000 - 3/4",
@@ -3677,6 +3693,14 @@
             "related_to": "     Manchester United   vs   Everton"
         },
         {
+            "channel": "Premier Sports 2 Mongolia HD",
+            "sat": "Telstar 18 138.0\u00b0e",
+            "freq": "12598 H 45000 - 5/6",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "#",
+            "related_to": "     Manchester United   vs   Everton"
+        },
+        {
             "channel": "Sky Go UK [online]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -3936,6 +3960,112 @@
         },
         {
             "compet": "English Premier League - Week 13",
+            "match": "     Sunderland   vs   Bournemouth",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "15:00",
+            "date": "2025-11-29"
+        },
+        {
+            "channel": "beIN Connect MENA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect.bein.com/",
+            "related_to": "     Sunderland   vs   Bournemouth"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Sunderland   vs   Bournemouth"
+        },
+        {
+            "channel": "beIN Sports MENA 5 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Bournemouth"
+        },
+        {
+            "channel": "DAZN Espa\u00f1a ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Bournemouth"
+        },
+        {
+            "channel": "FuboTV Canada ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Bournemouth"
+        },
+        {
+            "channel": "Go3 Extra Sports Baltics ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "https://go3.tv/extra_sports",
+            "related_to": "     Sunderland   vs   Bournemouth"
+        },
+        {
+            "channel": "Sky Sport MIX Deutsch HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11758 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Bournemouth"
+        },
+        {
+            "channel": "Stan Sport Australia ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.stan.com.au/sport",
+            "related_to": "     Sunderland   vs   Bournemouth"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Bournemouth"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Bournemouth"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Bournemouth"
+        },
+        {
+            "channel": "VOYO Pro TV Romania [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://voyo.protv.ro/premier-league",
+            "related_to": "     Sunderland   vs   Bournemouth"
+        },
+        {
+            "compet": "English Premier League - Week 13",
             "match": "     Manchester City   vs   Leeds United",
             "flags": {
                 "team1": "england",
@@ -4047,112 +4177,6 @@
             "encry": "",
             "link": "https://voyo.protv.ro/premier-league",
             "related_to": "     Manchester City   vs   Leeds United"
-        },
-        {
-            "compet": "English Premier League - Week 13",
-            "match": "     Sunderland   vs   Bournemouth",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "15:00",
-            "date": "2025-11-29"
-        },
-        {
-            "channel": "beIN Connect MENA",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://connect.bein.com/",
-            "related_to": "     Sunderland   vs   Bournemouth"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Sunderland   vs   Bournemouth"
-        },
-        {
-            "channel": "beIN Sports MENA 5 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Bournemouth"
-        },
-        {
-            "channel": "DAZN Espa\u00f1a ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Bournemouth"
-        },
-        {
-            "channel": "FuboTV Canada ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Bournemouth"
-        },
-        {
-            "channel": "Go3 Extra Sports Baltics ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "https://go3.tv/extra_sports",
-            "related_to": "     Sunderland   vs   Bournemouth"
-        },
-        {
-            "channel": "Sky Sport MIX Deutsch HD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11758 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Bournemouth"
-        },
-        {
-            "channel": "Stan Sport Australia ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.stan.com.au/sport",
-            "related_to": "     Sunderland   vs   Bournemouth"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Bournemouth"
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Bournemouth"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Bournemouth"
-        },
-        {
-            "channel": "VOYO Pro TV Romania [$]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://voyo.protv.ro/premier-league",
-            "related_to": "     Sunderland   vs   Bournemouth"
         },
         {
             "compet": "English Premier League - Week 13",
