@@ -981,6 +981,14 @@
             "related_to": "     Preu\u00dfen M\u00fcnster   vs   Schalke 04"
         },
         {
+            "channel": "ST Sports Focus",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11977 V 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Preu\u00dfen M\u00fcnster   vs   Schalke 04"
+        },
+        {
             "channel": "Tivibu Spor 2 HD",
             "sat": "Turksat 4A 42.0\u00b0e",
             "freq": "11853 H 25000 - 3/4",
@@ -1213,6 +1221,14 @@
             "related_to": "     Burnley   vs   Chelsea"
         },
         {
+            "channel": "Canal+ France HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12728 V 23500 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Burnley   vs   Chelsea"
+        },
+        {
             "channel": "Canal+ Sport 1 Czech HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11973 V 29900 - 2/3",
@@ -1241,6 +1257,22 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Burnley   vs   Chelsea"
+        },
+        {
+            "channel": "DAZN 1 Bar Espana",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11097 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Burnley   vs   Chelsea"
+        },
+        {
+            "channel": "DAZN 1 Espana HD",
+            "sat": "Astra 1KR 19.2\u00b0e",
+            "freq": "10729 V 22000 - 2/3",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Burnley   vs   Chelsea"
         },
@@ -1290,6 +1322,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "#",
+            "related_to": "     Burnley   vs   Chelsea"
+        },
+        {
+            "channel": "Fast Sports 1 Armenia ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://fasttv.am/tv-channels/fastsports1",
             "related_to": "     Burnley   vs   Chelsea"
         },
         {
@@ -1464,6 +1504,38 @@
             "channel": "TNT Sports Ultimate UHD",
             "sat": "Astra 2F 28.2\u00b0e",
             "freq": "12207 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Burnley   vs   Chelsea"
+        },
+        {
+            "channel": "TV3+ Norge HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12437 H 30000 - 2/3",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Burnley   vs   Chelsea"
+        },
+        {
+            "channel": "V Sport Premier League HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Burnley   vs   Chelsea"
+        },
+        {
+            "channel": "V Sport Premium HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10903 V 25000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Burnley   vs   Chelsea"
+        },
+        {
+            "channel": "ViaPlay 2 Urheilu HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "11278 V 25000 - 3/4",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Burnley   vs   Chelsea"
@@ -1699,6 +1771,22 @@
             "sat": "Thor 6 5.0\u00b0e",
             "freq": "11345 V 30000 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Coventry City   vs   West Bromwich Albion"
+        },
+        {
+            "channel": "V Sport Extra Sverige HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10903 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Coventry City   vs   West Bromwich Albion"
+        },
+        {
+            "channel": "ViaPlay 1 Urheilu HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "11278 V 25000 - 3/4",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Coventry City   vs   West Bromwich Albion"
         },
@@ -2235,7 +2323,15 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
-            "link": "https://www.mtv.fi/urheilu",
+            "link": "https://kauppa.telia.fi/kauppa/mtv-katsomo",
+            "related_to": "     Alav\u00e9s   vs   Celta Vigo"
+        },
+        {
+            "channel": "MTV Urheilu 1 Suomi HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12476 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
             "related_to": "     Alav\u00e9s   vs   Celta Vigo"
         },
         {
@@ -2356,6 +2452,22 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://play.tv2.dk/sport",
+            "related_to": "     Alav\u00e9s   vs   Celta Vigo"
+        },
+        {
+            "channel": "TV2 Sport Premium HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Alav\u00e9s   vs   Celta Vigo"
+        },
+        {
+            "channel": "TV4 Fotboll HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10872 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
             "related_to": "     Alav\u00e9s   vs   Celta Vigo"
         },
         {
@@ -2601,6 +2713,14 @@
             "related_to": "     Hansa Rostock   vs   Schweinfurt"
         },
         {
+            "channel": "SportKlub 3 Slovenija",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11231 V 42000 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Hansa Rostock   vs   Schweinfurt"
+        },
+        {
             "channel": "SportKlub 5 Hrvatska",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -2674,6 +2794,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://onefootball.com/en/matches",
+            "related_to": "     Waldhof Mannheim   vs   Wehen Wiesbaden"
+        },
+        {
+            "channel": "SportKlub 6 Slovenija",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
             "related_to": "     Waldhof Mannheim   vs   Wehen Wiesbaden"
         },
         {
@@ -3689,6 +3817,14 @@
             "related_to": "     Udinese   vs   Bologna"
         },
         {
+            "channel": "MTV Urheilu 3 Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Udinese   vs   Bologna"
+        },
+        {
             "channel": "ONE2 Sport Israel HD",
             "sat": "Amos 7 4.0\u00b0w",
             "freq": "11058 V 13750 - 5/6",
@@ -3790,6 +3926,14 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.tv4play.se/sport",
+            "related_to": "     Udinese   vs   Bologna"
+        },
+        {
+            "channel": "TV4 Sport Live 1 HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10934 H 25000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
             "related_to": "     Udinese   vs   Bologna"
         },
         {
@@ -4345,6 +4489,14 @@
             "related_to": "     Bayern Munich   vs   Freiburg"
         },
         {
+            "channel": "V Sport 1 Norge HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11305 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Bayern Munich   vs   Freiburg"
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -4365,6 +4517,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Bayern Munich   vs   Freiburg"
+        },
+        {
+            "channel": "ViaPlay Sport Sverige HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Bayern Munich   vs   Freiburg"
         },
@@ -4487,6 +4647,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Wolfsburg   vs   Bayer Leverkusen"
+        },
+        {
+            "channel": "ST Sports Focus",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11977 V 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     Wolfsburg   vs   Bayer Leverkusen"
         },
@@ -4781,6 +4949,14 @@
             "date": "2025-11-22"
         },
         {
+            "channel": "beIN Sports France 7 HD max",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11895 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Augsburg   vs   Hamburg"
+        },
+        {
             "channel": "DAZN Japan ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -4929,6 +5105,22 @@
             "related_to": "     Al Hilal   vs   Al Fateh"
         },
         {
+            "channel": "M+ #Vamos Bar",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "10876 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Al Hilal   vs   Al Fateh"
+        },
+        {
+            "channel": "M+ Liga de Campeones HD",
+            "sat": "Astra 1KR 19.2\u00b0e",
+            "freq": "11259 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Al Hilal   vs   Al Fateh"
+        },
+        {
             "channel": "New World Sport 4 Togo",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "12604 H 30000 - 3/4",
@@ -4965,6 +5157,14 @@
             "sat": "Measat 3b 91.5\u00b0e",
             "freq": "10772 V 30000 - 5/6",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Hilal   vs   Al Fateh"
+        },
+        {
+            "channel": "ST Sports Life",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "12418 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     Al Hilal   vs   Al Fateh"
         },
@@ -5365,6 +5565,14 @@
             "related_to": "     Liverpool   vs   Nottingham Forest"
         },
         {
+            "channel": "beIN Sports MENA 4K UHD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "11310 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Liverpool   vs   Nottingham Forest"
+        },
+        {
             "channel": "beIN Sports MENA English 1 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10850 V 27500 - 2/3",
@@ -5394,6 +5602,14 @@
             "freq": "11973 V 29900 - 2/3",
             "encry": "HD Conax",
             "link": "https://livetv.skylink.cz",
+            "related_to": "     Liverpool   vs   Nottingham Forest"
+        },
+        {
+            "channel": "Canal+ Sport 360 HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "12090 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
             "related_to": "     Liverpool   vs   Nottingham Forest"
         },
         {
@@ -5429,6 +5645,22 @@
             "related_to": "     Liverpool   vs   Nottingham Forest"
         },
         {
+            "channel": "DAZN 1 Bar Espana",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11097 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Liverpool   vs   Nottingham Forest"
+        },
+        {
+            "channel": "DAZN 1 Espana HD",
+            "sat": "Astra 1KR 19.2\u00b0e",
+            "freq": "10729 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Liverpool   vs   Nottingham Forest"
+        },
+        {
             "channel": "DAZN 1 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12399 H 27500 - 3/4",
@@ -5450,6 +5682,14 @@
             "freq": "12137 V 30000 - 5/6",
             "encry": "HD Conax",
             "link": "#",
+            "related_to": "     Liverpool   vs   Nottingham Forest"
+        },
+        {
+            "channel": "Fast Sports 1 Armenia ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://fasttv.am/tv-channels/fastsports1",
             "related_to": "     Liverpool   vs   Nottingham Forest"
         },
         {
@@ -5637,9 +5877,33 @@
             "related_to": "     Liverpool   vs   Nottingham Forest"
         },
         {
+            "channel": "V Sport Premier League HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Liverpool   vs   Nottingham Forest"
+        },
+        {
+            "channel": "V Sport Premium HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10903 V 25000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Liverpool   vs   Nottingham Forest"
+        },
+        {
             "channel": "V Sport Ultra 4K UHD (geo/R)",
             "sat": "Thor 5 0.8\u00b0w",
             "freq": "11372 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Liverpool   vs   Nottingham Forest"
+        },
+        {
+            "channel": "ViaPlay 2 Urheilu HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "11278 V 25000 - 3/4",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Liverpool   vs   Nottingham Forest"
@@ -5716,6 +5980,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://onefootball.com/en/matches",
+            "related_to": "     V\u00e5lerenga   vs   Kristiansund"
+        },
+        {
+            "channel": "SportKlub 6 Slovenija",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
             "related_to": "     V\u00e5lerenga   vs   Kristiansund"
         },
         {
@@ -5825,6 +6097,14 @@
             "related_to": "     Bournemouth   vs   West Ham United"
         },
         {
+            "channel": "Canal+ Live 7 France HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11934 V 29900 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Bournemouth   vs   West Ham United"
+        },
+        {
             "channel": "Canal+ Sport 7 Czech HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -5837,6 +6117,22 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Bournemouth   vs   West Ham United"
+        },
+        {
+            "channel": "DAZN 2 Bar Espana",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11097 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Bournemouth   vs   West Ham United"
+        },
+        {
+            "channel": "DAZN 2 Espana HD",
+            "sat": "Astra 1KR 19.2\u00b0e",
+            "freq": "11156 V 22000 - 5/6",
+            "encry": "NagraVision",
             "link": "#",
             "related_to": "     Bournemouth   vs   West Ham United"
         },
@@ -5909,6 +6205,30 @@
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11170 H 30000 - 5/6",
             "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Bournemouth   vs   West Ham United"
+        },
+        {
+            "channel": "V Sport Football HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Bournemouth   vs   West Ham United"
+        },
+        {
+            "channel": "V Sport Premier League 2 HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "11372 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Bournemouth   vs   West Ham United"
+        },
+        {
+            "channel": "ViaPlay 1 Urheilu HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "11278 V 25000 - 3/4",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Bournemouth   vs   West Ham United"
         },
@@ -6059,6 +6379,14 @@
             "related_to": "     Brighton H.A.   vs   Brentford"
         },
         {
+            "channel": "Canal+ Live 10 France HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11895 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Brighton H.A.   vs   Brentford"
+        },
+        {
             "channel": "Canal+ Sport 5 Czech HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -6159,6 +6487,22 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Brighton H.A.   vs   Brentford"
+        },
+        {
+            "channel": "V Sport 1 Sverige HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Brighton H.A.   vs   Brentford"
+        },
+        {
+            "channel": "V Sport Premier League 3 HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12111 V 30000 - 2/3",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Brighton H.A.   vs   Brentford"
         },
@@ -6293,6 +6637,14 @@
             "related_to": "     Fulham   vs   Sunderland"
         },
         {
+            "channel": "Canal+ Live 9 France HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12207 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Fulham   vs   Sunderland"
+        },
+        {
             "channel": "Canal+ Sport 8 Czech HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -6305,6 +6657,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Fulham   vs   Sunderland"
+        },
+        {
+            "channel": "DAZN 3 Espana HD",
+            "sat": "Astra 1KR 19.2\u00b0e",
+            "freq": "11436 V 22000 - 2/3",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Fulham   vs   Sunderland"
         },
@@ -6393,6 +6753,22 @@
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11514 V 30000 - 2/3",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Fulham   vs   Sunderland"
+        },
+        {
+            "channel": "V Sport Extra Sverige HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10903 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Fulham   vs   Sunderland"
+        },
+        {
+            "channel": "V Sport Premier League 4 HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12437 H 30000 - 2/3",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Fulham   vs   Sunderland"
         },
@@ -6527,6 +6903,14 @@
             "related_to": "     Wolves   vs   Crystal Palace"
         },
         {
+            "channel": "Canal+ Live 8 France HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "12090 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Wolves   vs   Crystal Palace"
+        },
+        {
             "channel": "Canal+ Sport 6 Czech HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -6539,6 +6923,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Wolves   vs   Crystal Palace"
+        },
+        {
+            "channel": "DAZN 4 Espana HD",
+            "sat": "Astra 1KR 19.2\u00b0e",
+            "freq": "11436 V 22000 - 2/3",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Wolves   vs   Crystal Palace"
         },
@@ -6603,6 +6995,14 @@
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "10970 V 30000 - 5/6",
             "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Wolves   vs   Crystal Palace"
+        },
+        {
+            "channel": "V Sport Premier League 1 HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "11309 V 25000 - 3/4",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Wolves   vs   Crystal Palace"
         },
@@ -7509,6 +7909,14 @@
             "related_to": "     Barcelona   vs   Athletic Bilbao"
         },
         {
+            "channel": "Fast Sports 2 Armenia ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://fasttv.am/tv-channels/fastsports2",
+            "related_to": "     Barcelona   vs   Athletic Bilbao"
+        },
+        {
             "channel": "Fubo Sports USA ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -7569,7 +7977,15 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
-            "link": "https://www.mtv.fi/urheilu",
+            "link": "https://kauppa.telia.fi/kauppa/mtv-katsomo",
+            "related_to": "     Barcelona   vs   Athletic Bilbao"
+        },
+        {
+            "channel": "MTV Urheilu 1 Suomi HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12476 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
             "related_to": "     Barcelona   vs   Athletic Bilbao"
         },
         {
@@ -7645,6 +8061,14 @@
             "related_to": "     Barcelona   vs   Athletic Bilbao"
         },
         {
+            "channel": "Silk Universal HD",
+            "sat": "Astra 5B 31.5\u00b0e",
+            "freq": "12207 V 27500 - 5/6",
+            "encry": "MPEG-4 Bulcrypt",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Athletic Bilbao"
+        },
+        {
             "channel": "Sp\u00edler 2 TV Hungary HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "11727 V 28000 - 7/8",
@@ -7701,10 +8125,34 @@
             "related_to": "     Barcelona   vs   Athletic Bilbao"
         },
         {
+            "channel": "TV2 Sport Premium HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Athletic Bilbao"
+        },
+        {
             "channel": "TV2 Sport X Dansk HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "10716 H 25000 - 3/4",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Athletic Bilbao"
+        },
+        {
+            "channel": "TV4 Sportkanalen HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10778 H 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Athletic Bilbao"
+        },
+        {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
             "link": "#",
             "related_to": "     Barcelona   vs   Athletic Bilbao"
         },
@@ -8817,6 +9265,14 @@
             "related_to": "     Fiorentina   vs   Juventus"
         },
         {
+            "channel": "Fast Sports 1 Armenia ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://fasttv.am/tv-channels/fastsports1",
+            "related_to": "     Fiorentina   vs   Juventus"
+        },
+        {
             "channel": "Fast Sports [online] ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -8854,6 +9310,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.mtv.fi/urheilu",
+            "related_to": "     Fiorentina   vs   Juventus"
+        },
+        {
+            "channel": "MTV Urheilu 3 Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
             "related_to": "     Fiorentina   vs   Juventus"
         },
         {
@@ -8969,6 +9433,14 @@
             "related_to": "     Fiorentina   vs   Juventus"
         },
         {
+            "channel": "TV4 Fotboll HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10872 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Fiorentina   vs   Juventus"
+        },
+        {
             "channel": "TV4 Play Sverige [online]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -9053,6 +9525,14 @@
             "related_to": "     Molde   vs   Brann"
         },
         {
+            "channel": "SportKlub 6 Slovenija",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Molde   vs   Brann"
+        },
+        {
             "channel": "SportKlub 8 Hrvatska",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -9066,6 +9546,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://play.tv2.no/sport",
+            "related_to": "     Molde   vs   Brann"
+        },
+        {
+            "channel": "TV2 Sport 1 Norge HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
             "related_to": "     Molde   vs   Brann"
         },
         {
@@ -9395,6 +9883,14 @@
             "related_to": "     Newcastle United   vs   Manchester City"
         },
         {
+            "channel": "beIN Sports MENA 4K UHD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "11310 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Newcastle United   vs   Manchester City"
+        },
+        {
             "channel": "beIN Sports MENA English 1 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10850 V 27500 - 2/3",
@@ -9415,6 +9911,14 @@
             "sat": "Hotbird 13G 13.0\u00b0e",
             "freq": "11278 V 27500 - 5/6",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Newcastle United   vs   Manchester City"
+        },
+        {
+            "channel": "Canal+ Foot HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Newcastle United   vs   Manchester City"
         },
@@ -9451,6 +9955,22 @@
             "related_to": "     Newcastle United   vs   Manchester City"
         },
         {
+            "channel": "DAZN 1 Bar Espana",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11097 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Newcastle United   vs   Manchester City"
+        },
+        {
+            "channel": "DAZN 1 Espana HD",
+            "sat": "Astra 1KR 19.2\u00b0e",
+            "freq": "10729 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Newcastle United   vs   Manchester City"
+        },
+        {
             "channel": "DAZN 1 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12399 H 27500 - 3/4",
@@ -9472,6 +9992,14 @@
             "freq": "12137 V 30000 - 5/6",
             "encry": "HD Conax",
             "link": "#",
+            "related_to": "     Newcastle United   vs   Manchester City"
+        },
+        {
+            "channel": "Fast Sports TV Armenia",
+            "sat": "Eutelsat 70B 70.5\u00b0e",
+            "freq": "11050 H 20030 - 1/2",
+            "encry": "MPEG-4 Biss",
+            "link": "https://fasttv.am/tv-channels/fastsports",
             "related_to": "     Newcastle United   vs   Manchester City"
         },
         {
@@ -9667,9 +10195,41 @@
             "related_to": "     Newcastle United   vs   Manchester City"
         },
         {
+            "channel": "V Sport Premier League HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Newcastle United   vs   Manchester City"
+        },
+        {
+            "channel": "V Sport Premium HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10903 V 25000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Newcastle United   vs   Manchester City"
+        },
+        {
             "channel": "V Sport Ultra 4K UHD (geo/R)",
             "sat": "Thor 5 0.8\u00b0w",
             "freq": "11372 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Newcastle United   vs   Manchester City"
+        },
+        {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Newcastle United   vs   Manchester City"
+        },
+        {
+            "channel": "ViaPlay 2 Urheilu HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "11278 V 25000 - 3/4",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Newcastle United   vs   Manchester City"
@@ -9753,6 +10313,14 @@
             "sat": "Measat 3b 91.5\u00b0e",
             "freq": "10732 V 30000 - 5/6",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     FC Cologne   vs   Eintracht Frankfurt"
+        },
+        {
+            "channel": "beIN Sports France 5 HD max",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     FC Cologne   vs   Eintracht Frankfurt"
         },
@@ -9933,6 +10501,14 @@
             "related_to": "     FC Cologne   vs   Eintracht Frankfurt"
         },
         {
+            "channel": "ST Sports Arena",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11938 V 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     FC Cologne   vs   Eintracht Frankfurt"
+        },
+        {
             "channel": "Tivibu Spor 2 HD",
             "sat": "Turksat 4A 42.0\u00b0e",
             "freq": "11853 H 25000 - 3/4",
@@ -9953,6 +10529,30 @@
             "sat": "Thor 6 5.0\u00b0e",
             "freq": "11345 V 30000 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     FC Cologne   vs   Eintracht Frankfurt"
+        },
+        {
+            "channel": "V Sport 1 Norge HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11305 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     FC Cologne   vs   Eintracht Frankfurt"
+        },
+        {
+            "channel": "V Sport Football HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     FC Cologne   vs   Eintracht Frankfurt"
+        },
+        {
+            "channel": "ViaPlay 3 Urheilu HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11823 V 27500 - 3/4",
+            "encry": "MPEG-4 NDS",
             "link": "#",
             "related_to": "     FC Cologne   vs   Eintracht Frankfurt"
         },
@@ -10203,7 +10803,15 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
-            "link": "https://www.mtv.fi/urheilu",
+            "link": "https://kauppa.telia.fi/kauppa/mtv-katsomo",
+            "related_to": "     Osasuna   vs   Real Sociedad"
+        },
+        {
+            "channel": "MTV Urheilu 1 Suomi HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12476 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
             "related_to": "     Osasuna   vs   Real Sociedad"
         },
         {
@@ -10332,6 +10940,22 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://play.tv2.dk/sport",
+            "related_to": "     Osasuna   vs   Real Sociedad"
+        },
+        {
+            "channel": "TV2 Sport Premium HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Osasuna   vs   Real Sociedad"
+        },
+        {
+            "channel": "TV4 Sport Live 1 HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10934 H 25000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
             "related_to": "     Osasuna   vs   Real Sociedad"
         },
         {
@@ -10917,6 +11541,14 @@
             "related_to": "     Rennes   vs   Monaco"
         },
         {
+            "channel": "V Sport 1 Sverige HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Rennes   vs   Monaco"
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -11013,6 +11645,22 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Sporting Lisbon   vs   Marinhense"
+        },
+        {
+            "channel": "SportKlub 5 Slovenija",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Sporting Lisbon   vs   Marinhense"
+        },
+        {
+            "channel": "ST Sports Focus",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11977 V 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     Sporting Lisbon   vs   Marinhense"
         },
@@ -11763,6 +12411,14 @@
             "related_to": "     Napoli   vs   Atalanta"
         },
         {
+            "channel": "Fast Sports TV Armenia",
+            "sat": "Eutelsat 70B 70.5\u00b0e",
+            "freq": "11050 H 20030 - 1/2",
+            "encry": "MPEG-4 Biss",
+            "link": "https://fasttv.am/tv-channels/fastsports",
+            "related_to": "     Napoli   vs   Atalanta"
+        },
+        {
             "channel": "Go3 Sport 3 Baltic",
             "sat": "Astra 4A 5.0\u00b0e",
             "freq": "11938 V 27500 - 5/6",
@@ -11799,7 +12455,15 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
-            "link": "https://www.mtv.fi/urheilu",
+            "link": "https://kauppa.telia.fi/kauppa/mtv-katsomo",
+            "related_to": "     Napoli   vs   Atalanta"
+        },
+        {
+            "channel": "MTV Urheilu 2 Suomi HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "11247 V 24500 - 7/8",
+            "encry": "HD Conax",
+            "link": "#",
             "related_to": "     Napoli   vs   Atalanta"
         },
         {
@@ -11971,11 +12635,27 @@
             "related_to": "     Napoli   vs   Atalanta"
         },
         {
+            "channel": "TV4 Fotboll HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10872 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Napoli   vs   Atalanta"
+        },
+        {
             "channel": "TV4 Play Sverige [online]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.tv4play.se/sport",
+            "related_to": "     Napoli   vs   Atalanta"
+        },
+        {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
             "related_to": "     Napoli   vs   Atalanta"
         },
         {
@@ -12273,6 +12953,14 @@
             "related_to": "     Villarreal   vs   Mallorca"
         },
         {
+            "channel": "beIN Sports France 3 HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Villarreal   vs   Mallorca"
+        },
+        {
             "channel": "beIN Sports MENA 2 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 H 27500 - 2/3",
@@ -12437,7 +13125,15 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
-            "link": "https://www.mtv.fi/urheilu",
+            "link": "https://kauppa.telia.fi/kauppa/mtv-katsomo",
+            "related_to": "     Villarreal   vs   Mallorca"
+        },
+        {
+            "channel": "MTV Urheilu 1 Suomi HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12476 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
             "related_to": "     Villarreal   vs   Mallorca"
         },
         {
@@ -12550,6 +13246,22 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://play.tv2.dk/sport",
+            "related_to": "     Villarreal   vs   Mallorca"
+        },
+        {
+            "channel": "TV2 Sport Premium HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Villarreal   vs   Mallorca"
+        },
+        {
+            "channel": "TV4 Sport Live 1 HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10934 H 25000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
             "related_to": "     Villarreal   vs   Mallorca"
         },
         {
@@ -12747,6 +13459,14 @@
             "related_to": "     Paris St Germain   vs   Le Havre"
         },
         {
+            "channel": "Fast Sports 2 Armenia ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://fasttv.am/tv-channels/fastsports2",
+            "related_to": "     Paris St Germain   vs   Le Havre"
+        },
+        {
             "channel": "IRIB Varzesh HD",
             "sat": "Intelsat 39 62.0\u00b0e",
             "freq": "11555 V 30000 - 2/3",
@@ -12899,6 +13619,22 @@
             "related_to": "     Paris St Germain   vs   Le Havre"
         },
         {
+            "channel": "V Sport Premium HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10903 V 25000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Le Havre"
+        },
+        {
+            "channel": "ViaPlay 3 Urheilu HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11823 V 27500 - 3/4",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Le Havre"
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -12981,6 +13717,22 @@
             "related_to": "     FC Porto   vs   Sintrense"
         },
         {
+            "channel": "SportKlub 5 Slovenija",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     FC Porto   vs   Sintrense"
+        },
+        {
+            "channel": "ST World Football HD",
+            "sat": "Eutelsat 10B 10.0\u00b0e",
+            "freq": "3736 R 07307 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     FC Porto   vs   Sintrense"
+        },
+        {
             "channel": "TV Start Russia HD",
             "sat": "ABS 2A 75.0\u00b0e",
             "freq": "11605 V 43200 - 7/8",
@@ -13039,6 +13791,14 @@
             "related_to": "     Lan\u00fas   vs   Atl\u00e9tico Mineiro"
         },
         {
+            "channel": "M+ Liga de Campeones HD",
+            "sat": "Astra 1KR 19.2\u00b0e",
+            "freq": "11259 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Lan\u00fas   vs   Atl\u00e9tico Mineiro"
+        },
+        {
             "channel": "M+ Vamos Espa\u00f1a HD",
             "sat": "Astra 1KR 19.2\u00b0e",
             "freq": "11156 V 22000 - 5/6",
@@ -13067,6 +13827,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Lan\u00fas   vs   Atl\u00e9tico Mineiro"
+        },
+        {
+            "channel": "Silk Universal HD",
+            "sat": "Astra 5B 31.5\u00b0e",
+            "freq": "12207 V 27500 - 5/6",
+            "encry": "MPEG-4 Bulcrypt",
             "link": "#",
             "related_to": "     Lan\u00fas   vs   Atl\u00e9tico Mineiro"
         },
