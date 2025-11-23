@@ -931,6 +931,14 @@
             "related_to": "     Heerenveen   vs   AZ Alkmaar"
         },
         {
+            "channel": "Tivibu Spor 2 HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11853 H 25000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Heerenveen   vs   AZ Alkmaar"
+        },
+        {
             "compet": "Polish Ekstraklasa - Week 16",
             "match": "     Jagiellonia   vs   GKS Katowice",
             "flags": {
@@ -1253,7 +1261,15 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
-            "link": "https://www.mtv.fi/urheilu",
+            "link": "https://kauppa.telia.fi/kauppa/mtv-katsomo",
+            "related_to": "     Hellas Verona   vs   Parma"
+        },
+        {
+            "channel": "MTV Urheilu 2 Suomi HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "11247 V 24500 - 7/8",
+            "encry": "HD Conax",
+            "link": "#",
             "related_to": "     Hellas Verona   vs   Parma"
         },
         {
@@ -1269,6 +1285,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Hellas Verona   vs   Parma"
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Hellas Verona   vs   Parma"
         },
@@ -1361,6 +1385,14 @@
             "related_to": "     Hellas Verona   vs   Parma"
         },
         {
+            "channel": "Tivibu Spor 1 HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11880 H 20000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Hellas Verona   vs   Parma"
+        },
+        {
             "channel": "Tring Sport 1 HD",
             "sat": "Hellas Sat 4 39.0\u00b0e",
             "freq": "10890 H 30000 - 5/6",
@@ -1423,6 +1455,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Como   vs   Roma"
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Como   vs   Roma"
         },
@@ -1741,10 +1781,26 @@
             "related_to": "     Sheffield Wednesday   vs   Sheffield United"
         },
         {
+            "channel": "V Sport 1 Norge HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11305 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Sheffield Wednesday   vs   Sheffield United"
+        },
+        {
             "channel": "V Sport 1 Sverige HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "10809 V 25000 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Sheffield Wednesday   vs   Sheffield United"
+        },
+        {
+            "channel": "ViaPlay 2 Urheilu HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "11278 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Sheffield Wednesday   vs   Sheffield United"
         },
@@ -2179,6 +2235,14 @@
             "related_to": "     Karlsruhe   vs   Elversberg"
         },
         {
+            "channel": "Okko Futbol HD ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Karlsruhe   vs   Elversberg"
+        },
+        {
             "channel": "OneFootball [app] ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -2231,6 +2295,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Karlsruhe   vs   Elversberg"
+        },
+        {
+            "channel": "Tivibu Spor 3 HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11880 H 20000 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Karlsruhe   vs   Elversberg"
         },
@@ -2465,6 +2537,14 @@
             "related_to": "     Real Oviedo   vs   Rayo Vallecano"
         },
         {
+            "channel": "DAZN LaLiga HD",
+            "sat": "Astra 1KR 19.2\u00b0e",
+            "freq": "11127 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Real Oviedo   vs   Rayo Vallecano"
+        },
+        {
             "channel": "Digi 4K UHD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2549,7 +2629,15 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
-            "link": "https://www.mtv.fi/urheilu",
+            "link": "https://kauppa.telia.fi/kauppa/mtv-katsomo",
+            "related_to": "     Real Oviedo   vs   Rayo Vallecano"
+        },
+        {
+            "channel": "MTV Urheilu 1 Suomi HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12476 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
             "related_to": "     Real Oviedo   vs   Rayo Vallecano"
         },
         {
@@ -2657,6 +2745,14 @@
             "related_to": "     Real Oviedo   vs   Rayo Vallecano"
         },
         {
+            "channel": "SuperSport 3 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Real Oviedo   vs   Rayo Vallecano"
+        },
+        {
             "channel": "SuperSport LaLiga HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11554 V 30000 - 2/3",
@@ -2678,6 +2774,22 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://play.tv2.dk/sport",
+            "related_to": "     Real Oviedo   vs   Rayo Vallecano"
+        },
+        {
+            "channel": "TV2 Sport Premium HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Real Oviedo   vs   Rayo Vallecano"
+        },
+        {
+            "channel": "TV4 Sport Live 1 HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10934 H 25000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
             "related_to": "     Real Oviedo   vs   Rayo Vallecano"
         },
         {
@@ -2797,6 +2909,14 @@
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11595 V 30000 - 3/5",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Sion   vs   Z\u00fcrich"
+        },
+        {
+            "channel": "SuperSport 5 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10804 H 29950 - 2/3",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Sion   vs   Z\u00fcrich"
         },
@@ -3219,11 +3339,27 @@
             "related_to": "     Feyenoord   vs   NEC Nijmegen"
         },
         {
+            "channel": "SuperSport 4 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Feyenoord   vs   NEC Nijmegen"
+        },
+        {
             "channel": "Thriller TV+ [online] ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.trillertv.com/join/trillertv-subscription/",
+            "related_to": "     Feyenoord   vs   NEC Nijmegen"
+        },
+        {
+            "channel": "Tivibu Spor HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11853 H 25000 - 3/4",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "     Feyenoord   vs   NEC Nijmegen"
         },
         {
@@ -3937,6 +4073,14 @@
             "related_to": "     Leeds United   vs   Aston Villa"
         },
         {
+            "channel": "SuperSport 2 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Leeds United   vs   Aston Villa"
+        },
+        {
             "channel": "SuperSport M\u00e1Ximo 2A HD",
             "sat": "Express AMU1 36.1\u00b0e",
             "freq": "12169 H 27500 - 2/3",
@@ -3961,9 +4105,33 @@
             "related_to": "     Leeds United   vs   Aston Villa"
         },
         {
+            "channel": "V Sport Football HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Leeds United   vs   Aston Villa"
+        },
+        {
+            "channel": "V Sport Premier League 1 HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "11309 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Leeds United   vs   Aston Villa"
+        },
+        {
             "channel": "V Sport Premier League HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "10809 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Leeds United   vs   Aston Villa"
+        },
+        {
+            "channel": "ViaPlay 1 Urheilu HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "11278 V 25000 - 3/4",
             "encry": "HD Conax",
             "link": "#",
             "related_to": "     Leeds United   vs   Aston Villa"
@@ -4263,7 +4431,15 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
-            "link": "https://www.mtv.fi/urheilu",
+            "link": "https://kauppa.telia.fi/kauppa/mtv-katsomo",
+            "related_to": "     Cremonese   vs   Roma"
+        },
+        {
+            "channel": "MTV Urheilu 2 Suomi HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "11247 V 24500 - 7/8",
+            "encry": "HD Conax",
+            "link": "#",
             "related_to": "     Cremonese   vs   Roma"
         },
         {
@@ -4375,6 +4551,14 @@
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11594 V 27500 - 5/6",
             "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Cremonese   vs   Roma"
+        },
+        {
+            "channel": "Tivibu Spor 1 HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11880 H 20000 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Cremonese   vs   Roma"
         },
@@ -4697,6 +4881,14 @@
             "related_to": "     Auxerre   vs   Lyon"
         },
         {
+            "channel": "ART Motion Sport 2 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "     Auxerre   vs   Lyon"
+        },
+        {
             "channel": "beIN Connect T\u00fcrkiye",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -4789,6 +4981,14 @@
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12090 V 29900 - 3/4",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Auxerre   vs   Lyon"
+        },
+        {
+            "channel": "Okko Prime Sport HD ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Auxerre   vs   Lyon"
         },
@@ -5159,6 +5359,14 @@
             "related_to": "     RB Leipzig   vs   Werder Bremen"
         },
         {
+            "channel": "Okko Futbol HD ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Werder Bremen"
+        },
+        {
             "channel": "OneFootball [app] ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -5279,10 +5487,26 @@
             "related_to": "     RB Leipzig   vs   Werder Bremen"
         },
         {
+            "channel": "Tivibu Spor 2 HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11853 H 25000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Werder Bremen"
+        },
+        {
             "channel": "Tring Sport 2 HD",
             "sat": "Hellas Sat 4 39.0\u00b0e",
             "freq": "10890 H 30000 - 5/6",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Werder Bremen"
+        },
+        {
+            "channel": "V Sport 1 Norge HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11305 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     RB Leipzig   vs   Werder Bremen"
         },
@@ -5307,6 +5531,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Werder Bremen"
+        },
+        {
+            "channel": "ViaPlay Sport Sverige HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     RB Leipzig   vs   Werder Bremen"
         },
@@ -5521,6 +5753,14 @@
             },
             "time": "15:00",
             "date": "2025-11-23"
+        },
+        {
+            "channel": "5 PLUS Israel HD",
+            "sat": "Amos 3 4.0\u00b0w",
+            "freq": "10806 V 27500 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Aberdeen   vs   Hearts"
         },
         {
             "channel": "Arena Sport 3 Srbija HD",
@@ -5881,6 +6121,14 @@
             "related_to": "     Real Betis   vs   Girona"
         },
         {
+            "channel": "beIN Sports France 4 HD max",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Real Betis   vs   Girona"
+        },
+        {
             "channel": "beIN Sports MENA 2 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 H 27500 - 2/3",
@@ -5977,6 +6225,22 @@
             "related_to": "     Real Betis   vs   Girona"
         },
         {
+            "channel": "M+ LaLiga HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "10818 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Real Betis   vs   Girona"
+        },
+        {
+            "channel": "M+ LaLiga HDR",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Real Betis   vs   Girona"
+        },
+        {
             "channel": "MATCH! Futbol 2 HD",
             "sat": "Horizons 2 84.8\u00b0e",
             "freq": "11840 H 28800 - 2/3",
@@ -6005,7 +6269,15 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
-            "link": "https://www.mtv.fi/urheilu",
+            "link": "https://kauppa.telia.fi/kauppa/mtv-katsomo",
+            "related_to": "     Real Betis   vs   Girona"
+        },
+        {
+            "channel": "MTV Urheilu 1 Suomi HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12476 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
             "related_to": "     Real Betis   vs   Girona"
         },
         {
@@ -6113,6 +6385,14 @@
             "related_to": "     Real Betis   vs   Girona"
         },
         {
+            "channel": "SuperSport 3 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Real Betis   vs   Girona"
+        },
+        {
             "channel": "SuperSport LaLiga HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11554 V 30000 - 2/3",
@@ -6134,6 +6414,22 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://play.tv2.dk/sport",
+            "related_to": "     Real Betis   vs   Girona"
+        },
+        {
+            "channel": "TV2 Sport Premium HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Real Betis   vs   Girona"
+        },
+        {
+            "channel": "TV4 Sport Live 1 HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10934 H 25000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
             "related_to": "     Real Betis   vs   Girona"
         },
         {
@@ -7345,6 +7641,14 @@
             "related_to": "     Arsenal   vs   Tottenham Hotspur"
         },
         {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Arsenal   vs   Tottenham Hotspur"
+        },
+        {
             "channel": "Play Sports 1 Belgium",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -7481,6 +7785,14 @@
             "related_to": "     Arsenal   vs   Tottenham Hotspur"
         },
         {
+            "channel": "SuperSport 2 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Arsenal   vs   Tottenham Hotspur"
+        },
+        {
             "channel": "SuperSport M\u00e1Ximo 2A HD",
             "sat": "Express AMU1 36.1\u00b0e",
             "freq": "12169 H 27500 - 2/3",
@@ -7517,6 +7829,14 @@
             "sat": "Thor 5 0.8\u00b0w",
             "freq": "11372 V 25000 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Arsenal   vs   Tottenham Hotspur"
+        },
+        {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
             "link": "#",
             "related_to": "     Arsenal   vs   Tottenham Hotspur"
         },
@@ -7707,6 +8027,14 @@
             "related_to": "     St Pauli   vs   Union Berlin"
         },
         {
+            "channel": "Okko Futbol HD ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     St Pauli   vs   Union Berlin"
+        },
+        {
             "channel": "OneFootball [app] ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -7779,6 +8107,14 @@
             "related_to": "     St Pauli   vs   Union Berlin"
         },
         {
+            "channel": "Tivibu Spor 3 HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11880 H 20000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     St Pauli   vs   Union Berlin"
+        },
+        {
             "channel": "Tring Sport 3 HD",
             "sat": "Hellas Sat 4 39.0\u00b0e",
             "freq": "10890 H 30000 - 5/6",
@@ -7791,6 +8127,22 @@
             "sat": "Thor 6 5.0\u00b0e",
             "freq": "11345 V 30000 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     St Pauli   vs   Union Berlin"
+        },
+        {
+            "channel": "V Sport 1 Norge HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11305 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     St Pauli   vs   Union Berlin"
+        },
+        {
+            "channel": "V Sport Football HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     St Pauli   vs   Union Berlin"
         },
@@ -8233,6 +8585,14 @@
             "related_to": "     Caykur Rizespor   vs   Fenerbah\u00e7e"
         },
         {
+            "channel": "SuperSport 4 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Caykur Rizespor   vs   Fenerbah\u00e7e"
+        },
+        {
             "channel": "ZhiBo8 TV (China)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -8439,7 +8799,15 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
-            "link": "https://www.mtv.fi/urheilu",
+            "link": "https://kauppa.telia.fi/kauppa/mtv-katsomo",
+            "related_to": "     Lazio   vs   Lecce"
+        },
+        {
+            "channel": "MTV Urheilu 2 Suomi HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "11247 V 24500 - 7/8",
+            "encry": "HD Conax",
+            "link": "#",
             "related_to": "     Lazio   vs   Lecce"
         },
         {
@@ -8551,6 +8919,14 @@
             "sat": "Express AMU1 36.1\u00b0e",
             "freq": "12130 H 27500 - 2/3",
             "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Lazio   vs   Lecce"
+        },
+        {
+            "channel": "Tivibu Spor 1 HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11880 H 20000 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Lazio   vs   Lecce"
         },
@@ -8963,6 +9339,14 @@
             "related_to": "     Getafe   vs   Atl\u00e9tico Madrid"
         },
         {
+            "channel": "DAZN LaLiga HD",
+            "sat": "Astra 1KR 19.2\u00b0e",
+            "freq": "11127 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Getafe   vs   Atl\u00e9tico Madrid"
+        },
+        {
             "channel": "Digi 4K UHD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -9055,7 +9439,15 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
-            "link": "https://www.mtv.fi/urheilu",
+            "link": "https://kauppa.telia.fi/kauppa/mtv-katsomo",
+            "related_to": "     Getafe   vs   Atl\u00e9tico Madrid"
+        },
+        {
+            "channel": "MTV Urheilu 1 Suomi HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12476 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
             "related_to": "     Getafe   vs   Atl\u00e9tico Madrid"
         },
         {
@@ -9171,6 +9563,14 @@
             "related_to": "     Getafe   vs   Atl\u00e9tico Madrid"
         },
         {
+            "channel": "SuperSport 3 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Getafe   vs   Atl\u00e9tico Madrid"
+        },
+        {
             "channel": "SuperSport LaLiga HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11554 V 30000 - 2/3",
@@ -9195,10 +9595,26 @@
             "related_to": "     Getafe   vs   Atl\u00e9tico Madrid"
         },
         {
+            "channel": "TV2 Sport Premium HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Getafe   vs   Atl\u00e9tico Madrid"
+        },
+        {
             "channel": "TV2 Sport X Dansk HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "10716 H 25000 - 3/4",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Getafe   vs   Atl\u00e9tico Madrid"
+        },
+        {
+            "channel": "TV4 Sportkanalen HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10778 H 25000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Getafe   vs   Atl\u00e9tico Madrid"
         },
@@ -9331,6 +9747,14 @@
             "related_to": "     Al Nassr   vs   Al Khaleej"
         },
         {
+            "channel": "DAZN France ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Nassr   vs   Al Khaleej"
+        },
+        {
             "channel": "M+ Liga de Campeones 2 HD",
             "sat": "Astra 1L 19.2\u00b0e",
             "freq": "10729 V 22000 - 5/6",
@@ -9343,6 +9767,14 @@
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "12604 H 30000 - 3/4",
             "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Al Nassr   vs   Al Khaleej"
+        },
+        {
+            "channel": "Okko Prime Sport HD ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Al Nassr   vs   Al Khaleej"
         },
@@ -9423,6 +9855,14 @@
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "12245 H 30000 - 3/4",
             "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Al Nassr   vs   Al Khaleej"
+        },
+        {
+            "channel": "SuperSport 5 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10804 H 29950 - 2/3",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Al Nassr   vs   Al Khaleej"
         },
@@ -9661,6 +10101,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     AEK Athens   vs   Aris Thessaloniki"
+        },
+        {
+            "channel": "SuperSport 4 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     AEK Athens   vs   Aris Thessaloniki"
         },
@@ -9991,7 +10439,15 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
-            "link": "https://www.mtv.fi/urheilu",
+            "link": "https://kauppa.telia.fi/kauppa/mtv-katsomo",
+            "related_to": "     Inter Milan   vs   AC Milan"
+        },
+        {
+            "channel": "MTV Urheilu 2 Suomi HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "11247 V 24500 - 7/8",
+            "encry": "HD Conax",
+            "link": "#",
             "related_to": "     Inter Milan   vs   AC Milan"
         },
         {
@@ -10015,6 +10471,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Inter Milan   vs   AC Milan"
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Inter Milan   vs   AC Milan"
         },
@@ -10115,6 +10579,14 @@
             "related_to": "     Inter Milan   vs   AC Milan"
         },
         {
+            "channel": "Tivibu Spor 1 HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11880 H 20000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Inter Milan   vs   AC Milan"
+        },
+        {
             "channel": "TNT Sports 1 HD",
             "sat": "NSS 12 57.0\u00b0e",
             "freq": "3798 R 19167 - 3/5",
@@ -10189,6 +10661,14 @@
             "date": "2025-11-23"
         },
         {
+            "channel": "5 PLUS Israel HD",
+            "sat": "Amos 3 4.0\u00b0w",
+            "freq": "10806 V 27500 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Lille   vs   Paris FC"
+        },
+        {
             "channel": "Arena Sport 3 Srbija HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11798 H 30000 - 3/4",
@@ -10210,6 +10690,14 @@
             "freq": "0000 0",
             "encry": "HD Conax",
             "link": "#",
+            "related_to": "     Lille   vs   Paris FC"
+        },
+        {
+            "channel": "ART Motion Sport 4 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
             "related_to": "     Lille   vs   Paris FC"
         },
         {
@@ -10301,6 +10789,14 @@
             "related_to": "     Lille   vs   Paris FC"
         },
         {
+            "channel": "Okko Prime Sport HD ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Lille   vs   Paris FC"
+        },
+        {
             "channel": "Prime Video UK [$]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -10329,6 +10825,14 @@
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Lille   vs   Paris FC"
+        },
+        {
+            "channel": "SuperSport 3 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Lille   vs   Paris FC"
         },
@@ -10623,6 +11127,22 @@
             "related_to": "     Elche   vs   Real Madrid"
         },
         {
+            "channel": "M+ LaLiga HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "10818 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Elche   vs   Real Madrid"
+        },
+        {
+            "channel": "M+ LaLiga HDR",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Elche   vs   Real Madrid"
+        },
+        {
             "channel": "MATCH! Futbol 2 HD",
             "sat": "Horizons 2 84.8\u00b0e",
             "freq": "11840 H 28800 - 2/3",
@@ -10651,7 +11171,15 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
-            "link": "https://www.mtv.fi/urheilu",
+            "link": "https://kauppa.telia.fi/kauppa/mtv-katsomo",
+            "related_to": "     Elche   vs   Real Madrid"
+        },
+        {
+            "channel": "MTV Urheilu 1 Suomi HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12476 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
             "related_to": "     Elche   vs   Real Madrid"
         },
         {
@@ -10775,6 +11303,14 @@
             "related_to": "     Elche   vs   Real Madrid"
         },
         {
+            "channel": "SuperSport 2 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Elche   vs   Real Madrid"
+        },
+        {
             "channel": "SuperSport LaLiga HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11554 V 30000 - 2/3",
@@ -10804,6 +11340,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://play.tv2.dk/sport",
+            "related_to": "     Elche   vs   Real Madrid"
+        },
+        {
+            "channel": "TV2 Sport Premium HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
             "related_to": "     Elche   vs   Real Madrid"
         },
         {
@@ -10894,6 +11438,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://play.tv2.dk/sport",
+            "related_to": "     M\u00e1laga   vs   Mirand\u00e9s"
+        },
+        {
+            "channel": "TV4 Sportkanalen HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10778 H 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
             "related_to": "     M\u00e1laga   vs   Mirand\u00e9s"
         },
         {
