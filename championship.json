@@ -3658,6 +3658,58 @@
         },
         {
             "compet": "English Championship - Week 35",
+            "match": "     Leicester City   vs   Norwich City",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "12:30",
+            "date": "2025-02-28"
+        },
+        {
+            "channel": "Sky Go UK [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Leicester City   vs   Norwich City"
+        },
+        {
+            "channel": "Sky Sports Football HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "12012 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Leicester City   vs   Norwich City"
+        },
+        {
+            "compet": "English Championship - Week 35",
+            "match": "     Portsmouth   vs   Hull City",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "12:30",
+            "date": "2025-02-28"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Portsmouth   vs   Hull City"
+        },
+        {
+            "channel": "Sky Sports+ TV HD",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12226 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Portsmouth   vs   Hull City"
+        },
+        {
+            "compet": "English Championship - Week 35",
             "match": "     Derby County   vs   Blackburn Rovers",
             "flags": {
                 "team1": "england",
@@ -3681,6 +3733,32 @@
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Derby County   vs   Blackburn Rovers"
+        },
+        {
+            "compet": "English Championship - Week 35",
+            "match": "     Birmingham City   vs   Middlesbrough",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "20:00",
+            "date": "2025-03-02"
+        },
+        {
+            "channel": "Sky Go UK [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Birmingham City   vs   Middlesbrough"
+        },
+        {
+            "channel": "Sky Sports Football HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "12012 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Birmingham City   vs   Middlesbrough"
         }
     ]
 }
