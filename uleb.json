@@ -20,6 +20,24 @@
         },
         {
             "compet": "ULEB Euroleague - Round 14",
+            "match": "     Zalgiris Kaunas   vs   Maccabi Tel Aviv",
+            "flags": {
+                "team1": "lithuania",
+                "team2": "israel"
+            },
+            "time": "18:00",
+            "date": "2025-12-04"
+        },
+        {
+            "channel": "5 SPORT Israel HD",
+            "sat": "Amos 3 4.0\u00b0w",
+            "freq": "10806 V 27500 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Zalgiris Kaunas   vs   Maccabi Tel Aviv"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 14",
             "match": "     Monaco Basket   vs   Paris Basketball",
             "flags": {
                 "team1": "monaco",
@@ -47,6 +65,14 @@
             "date": "2025-12-04"
         },
         {
+            "channel": "5 PLUS Israel HD",
+            "sat": "Amos 3 4.0\u00b0w",
+            "freq": "10806 V 27500 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Hapoel Tel Aviv   vs   Asvel Villeurbanne"
+        },
+        {
             "channel": "EuroLeague TV ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -63,6 +89,14 @@
             },
             "time": "19:15",
             "date": "2025-12-04"
+        },
+        {
+            "channel": "5 STARS Israel HD",
+            "sat": "Amos 7 4.0\u00b0w",
+            "freq": "11030 V 27500 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Olympiacos   vs   Fenerbahce"
         },
         {
             "channel": "EuroLeague TV ($/geo/R)",
@@ -99,6 +133,22 @@
             },
             "time": "19:15",
             "date": "2025-12-05"
+        },
+        {
+            "channel": "5 LIVE Israel HD",
+            "sat": "Amos 7 4.0\u00b0w",
+            "freq": "11030 V 27500 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Panathinaikos   vs   Valencia"
+        },
+        {
+            "channel": "5 STARS Israel HD",
+            "sat": "Amos 7 4.0\u00b0w",
+            "freq": "11030 V 27500 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Panathinaikos   vs   Valencia"
         },
         {
             "channel": "EuroLeague TV ($/geo/R)",
