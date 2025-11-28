@@ -123,10 +123,26 @@
             "related_to": "     PSV Eindhoven   vs   Volendam"
         },
         {
+            "channel": "Setanta Sports Premium HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.kyivstar.ua/en/setantasports",
+            "related_to": "     PSV Eindhoven   vs   Volendam"
+        },
+        {
             "channel": "Sport 4 Israel HD",
             "sat": "Amos 7 4.0\u00b0w",
             "freq": "10972 V 30000 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     PSV Eindhoven   vs   Volendam"
+        },
+        {
+            "channel": "SuperSport 2 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     PSV Eindhoven   vs   Volendam"
         },
@@ -187,6 +203,14 @@
             "sat": "Amos 7 4.0\u00b0w",
             "freq": "10972 V 30000 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Telstar   vs   Feyenoord"
+        },
+        {
+            "channel": "SuperSport 6 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10804 H 29950 - 2/3",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Telstar   vs   Feyenoord"
         },
@@ -295,6 +319,22 @@
             "sat": "Amos 7 4.0\u00b0w",
             "freq": "10972 V 30000 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Ajax   vs   Groningen"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL 2",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Ajax   vs   Groningen"
+        },
+        {
+            "channel": "SuperSport 4 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Ajax   vs   Groningen"
         },
