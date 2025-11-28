@@ -19,6 +19,14 @@
             "related_to": "     Brisbane Roar   vs   Melbourne Victory"
         },
         {
+            "channel": "Dubai Sports 1 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "12130 V 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.dubaisports.ae/content/dubaisports/livestreaming/channel-1.html",
+            "related_to": "     Brisbane Roar   vs   Melbourne Victory"
+        },
+        {
             "channel": "Sportdigital FUSSBALL HD",
             "sat": "Astra 1L 19.2\u00b0e",
             "freq": "11186 V 22000 - 2/3",
@@ -207,6 +215,14 @@
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "10970 V 30000 - 5/6",
             "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Al Kholood   vs   Al Khaleej"
+        },
+        {
+            "channel": "Thmanyah 1 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Al Kholood   vs   Al Khaleej"
         },
@@ -641,6 +657,14 @@
             "related_to": "     Al Ahli   vs   Al Qadisiyah"
         },
         {
+            "channel": "Thmanyah 1 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Al Qadisiyah"
+        },
+        {
             "compet": "German 3. Liga - Week 16",
             "match": "     Wehen Wiesbaden   vs   Erzgebirge Aue",
             "flags": {
@@ -853,6 +877,14 @@
             "date": "2025-11-28"
         },
         {
+            "channel": "Dubai Sports 1 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "12130 V 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.dubaisports.ae/content/dubaisports/livestreaming/channel-1.html",
+            "related_to": "     PEC Zwolle   vs   Heerenveen"
+        },
+        {
             "channel": "ESPN Extra Nederland",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1007,6 +1039,14 @@
             "related_to": "     M\u00f6nchengladbach   vs   RB Leipzig"
         },
         {
+            "channel": "MBC Action HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "12399 V 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     M\u00f6nchengladbach   vs   RB Leipzig"
+        },
+        {
             "channel": "Okko Prime Sport HD ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -1020,6 +1060,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://onefootball.com/en/matches",
+            "related_to": "     M\u00f6nchengladbach   vs   RB Leipzig"
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "     M\u00f6nchengladbach   vs   RB Leipzig"
         },
         {
@@ -1189,11 +1237,27 @@
             "date": "2025-11-28"
         },
         {
+            "channel": "Persiana Sports 4 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Germany   vs   Spain"
+        },
+        {
             "channel": "Sport TV6 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12360 H 27500 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
+            "related_to": "     Germany   vs   Spain"
+        },
+        {
+            "channel": "YouTube: German Football (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.youtube.com/@GermanFootball/streams",
             "related_to": "     Germany   vs   Spain"
         },
         {
@@ -1440,6 +1504,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "#",
+            "related_to": "     Como   vs   Sassuolo"
+        },
+        {
+            "channel": "Persiana Sports 2 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
             "related_to": "     Como   vs   Sassuolo"
         },
         {
@@ -1837,6 +1909,14 @@
             "related_to": "     Getafe   vs   Elche"
         },
         {
+            "channel": "Persiana Sports 3 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Getafe   vs   Elche"
+        },
+        {
             "channel": "Premier Sports GB Player HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -1903,6 +1983,14 @@
             },
             "time": "22:30",
             "date": "2025-11-28"
+        },
+        {
+            "channel": "Dubai Sports 1 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "12130 V 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.dubaisports.ae/content/dubaisports/livestreaming/channel-1.html",
+            "related_to": "     Vasco da Gama   vs   Internacional"
         },
         {
             "channel": "Sportdigital FUSSBALL HD",
