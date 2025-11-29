@@ -1239,6 +1239,14 @@
             "related_to": "     Mallorca   vs   Osasuna"
         },
         {
+            "channel": "M+ LaLiga HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "10818 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Mallorca   vs   Osasuna"
+        },
+        {
             "channel": "Premier Sports GB Player HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -2831,6 +2839,14 @@
             "related_to": "     Manchester City   vs   Leeds United"
         },
         {
+            "channel": "Nova Sports Premier League HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11804 V 29700 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Manchester City   vs   Leeds United"
+        },
+        {
             "channel": "ORTB Benin",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "10804 H 30000 - 2/3",
@@ -2860,6 +2876,14 @@
             "freq": "11968 V 34030 - 5/6",
             "encry": "HD Conax",
             "link": "https://live.rts.sn/livetv/rts2",
+            "related_to": "     Manchester City   vs   Leeds United"
+        },
+        {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "     Manchester City   vs   Leeds United"
         },
         {
@@ -3655,6 +3679,14 @@
             "related_to": "     Barcelona   vs   Alav\u00e9s"
         },
         {
+            "channel": "DAZN LaLiga HD",
+            "sat": "Astra 1KR 19.2\u00b0e",
+            "freq": "11127 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Alav\u00e9s"
+        },
+        {
             "channel": "ESPN Deportes",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -3676,6 +3708,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.fubosportsnetwork.com/",
+            "related_to": "     Barcelona   vs   Alav\u00e9s"
+        },
+        {
+            "channel": "GEM Sport HD",
+            "sat": "Al Yah 1 52.5\u00b0e",
+            "freq": "12034 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "     Barcelona   vs   Alav\u00e9s"
         },
         {
@@ -4435,6 +4475,14 @@
             "related_to": "     Everton   vs   Newcastle United"
         },
         {
+            "channel": "Nova Sports Premier League HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11804 V 29700 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Everton   vs   Newcastle United"
+        },
+        {
             "channel": "Sky Go UK [online]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -4847,6 +4895,14 @@
             "related_to": "     Levante   vs   Athletic Bilbao"
         },
         {
+            "channel": "M+ LaLiga HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "10818 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Levante   vs   Athletic Bilbao"
+        },
+        {
             "channel": "Premier Sports GB Player HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -4981,12 +5037,38 @@
             "related_to": "     Al Ittihad   vs   Al Shabab"
         },
         {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Ittihad   vs   Al Shabab"
+        },
+        {
             "channel": "SuperSport 5 Albania HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "10804 H 29950 - 2/3",
             "encry": "HD Conax",
             "link": "#",
             "related_to": "     Al Ittihad   vs   Al Shabab"
+        },
+        {
+            "compet": "Greek Super League 1 - Week 12",
+            "match": "     Aris Thessaloniki   vs   AEL Larissa",
+            "flags": {
+                "team1": "greece",
+                "team2": "greece"
+            },
+            "time": "17:30",
+            "date": "2025-11-29"
+        },
+        {
+            "channel": "Nova Sports Prime Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Aris Thessaloniki   vs   AEL Larissa"
         },
         {
             "compet": "Scottish Premiership - Week 14",
@@ -5805,6 +5887,14 @@
             "related_to": "     Tottenham Hotspur   vs   Fulham"
         },
         {
+            "channel": "Nova Sports Premier League HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11804 V 29700 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Tottenham Hotspur   vs   Fulham"
+        },
+        {
             "channel": "Sky Go UK [online]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -6007,6 +6097,14 @@
             "related_to": "     Atl\u00e9tico Madrid   vs   Real Oviedo"
         },
         {
+            "channel": "DAZN LaLiga HD",
+            "sat": "Astra 1KR 19.2\u00b0e",
+            "freq": "11127 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Atl\u00e9tico Madrid   vs   Real Oviedo"
+        },
+        {
             "channel": "Disney+ UK ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -6175,6 +6273,46 @@
             "sat": "Thor 6 5.0\u00b0e",
             "freq": "11345 V 30000 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Marseille   vs   Toulouse"
+        },
+        {
+            "channel": "TV5 Monde Afrique HD",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "11977 H 27500 - 3/4",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Marseille   vs   Toulouse"
+        },
+        {
+            "channel": "TV5 Monde Am\u00e9rique Latine",
+            "sat": "Intelsat 21 58.0\u00b0w",
+            "freq": "3840 V 27690 - 7/8",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Marseille   vs   Toulouse"
+        },
+        {
+            "channel": "TV5 Monde Asie",
+            "sat": "Telstar 18 138.0\u00b0e",
+            "freq": "12598 H 45000 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Marseille   vs   Toulouse"
+        },
+        {
+            "channel": "TV5 Monde Europe HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12688 V 30000 - 7/8",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Marseille   vs   Toulouse"
+        },
+        {
+            "channel": "TV5 Monde Maghreb-Orient HD",
+            "sat": "Eutelsat 33E 33.0\u00b0e",
+            "freq": "10758 V 27500 - 5/6",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Marseille   vs   Toulouse"
         },
