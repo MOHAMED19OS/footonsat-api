@@ -2025,6 +2025,14 @@
             "related_to": "     Bournemouth   vs   Chelsea"
         },
         {
+            "channel": "Nova Sports 2 Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Bournemouth   vs   Chelsea"
+        },
+        {
             "channel": "Stan Sport Australia ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2210,6 +2218,14 @@
             "freq": "0000 0",
             "encry": "LiveOnSat.com",
             "link": "https://go3.tv/extra_sports",
+            "related_to": "     Manchester City   vs   Sunderland"
+        },
+        {
+            "channel": "Nova Sports Premier League HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11804 V 29700 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
             "related_to": "     Manchester City   vs   Sunderland"
         },
         {
@@ -2865,6 +2881,24 @@
             "encry": "",
             "link": "#",
             "related_to": "     Sheffield United   vs   Stoke City"
+        },
+        {
+            "compet": "Greek Super League 1 - Week 13",
+            "match": "     Olympiacos   vs   OFI Crete",
+            "flags": {
+                "team1": "greece",
+                "team2": "greece"
+            },
+            "time": "15:00",
+            "date": "2025-12-06"
+        },
+        {
+            "channel": "Cosmote Sport 1 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "11843 V 27500 - 3/5",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Olympiacos   vs   OFI Crete"
         },
         {
             "compet": "Spanish La Liga (Primera) - Week 15",
@@ -3787,6 +3821,14 @@
             "related_to": "     Leeds United   vs   Liverpool"
         },
         {
+            "channel": "Nova Sports Premier League HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11804 V 29700 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Leeds United   vs   Liverpool"
+        },
+        {
             "channel": "Sky Go UK [online]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -4217,6 +4259,24 @@
             "related_to": "     AVS Futebol   vs   Rio Ave"
         },
         {
+            "compet": "Greek Super League 1 - Week 13",
+            "match": "     Volos NFC   vs   Kifisia",
+            "flags": {
+                "team1": "greece",
+                "team2": "greece"
+            },
+            "time": "18:30",
+            "date": "2025-12-06"
+        },
+        {
+            "channel": "Cosmote Sport 2 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "11843 V 27500 - 3/5",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Volos NFC   vs   Kifisia"
+        },
+        {
             "compet": "French Ligue 2 - Week 16",
             "match": "     Dunkerque   vs   St Etienne",
             "flags": {
@@ -4511,6 +4571,14 @@
             "related_to": "     Kilmarnock   vs   Rangers"
         },
         {
+            "channel": "Cosmote Sport 1 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "11843 V 27500 - 3/5",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Kilmarnock   vs   Rangers"
+        },
+        {
             "channel": "Kilmarnock TV ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -4640,6 +4708,14 @@
             "freq": "12130 V 30000 - 3/4",
             "encry": "FTA",
             "link": "https://www.dubaisports.ae/content/dubaisports/livestreaming/channel-2.html",
+            "related_to": "     Feyenoord   vs   PEC Zwolle"
+        },
+        {
+            "channel": "Nova Sports 2 Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
             "related_to": "     Feyenoord   vs   PEC Zwolle"
         },
         {
