@@ -20,6 +20,32 @@
         },
         {
             "compet": "Portuguese Liga Portugal - Week 14",
+            "match": "     Casa Pia   vs   Gil Vicente",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "15:30",
+            "date": "2025-12-13"
+        },
+        {
+            "channel": "beIN Sports France 10 HD max",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11895 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Casa Pia   vs   Gil Vicente"
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Casa Pia   vs   Gil Vicente"
+        },
+        {
+            "compet": "Portuguese Liga Portugal - Week 14",
             "match": "     Nacional Madeira   vs   Tondela",
             "flags": {
                 "team1": "portugal",
@@ -38,24 +64,6 @@
         },
         {
             "compet": "Portuguese Liga Portugal - Week 14",
-            "match": "     Casa Pia   vs   Gil Vicente",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "15:30",
-            "date": "2025-12-13"
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Casa Pia   vs   Gil Vicente"
-        },
-        {
-            "compet": "Portuguese Liga Portugal - Week 14",
             "match": "     Rio Ave   vs   Vit\u00f3ria Guimar\u00e3es",
             "flags": {
                 "team1": "portugal",
@@ -65,10 +73,26 @@
             "date": "2025-12-13"
         },
         {
+            "channel": "Blue Sport 1 Live HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Rio Ave   vs   Vit\u00f3ria Guimar\u00e3es"
+        },
+        {
             "channel": "Sport TV1 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Rio Ave   vs   Vit\u00f3ria Guimar\u00e3es"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL 2",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Rio Ave   vs   Vit\u00f3ria Guimar\u00e3es"
         },
@@ -83,6 +107,14 @@
             "date": "2025-12-13"
         },
         {
+            "channel": "Arena Sport 2 Slovakia HD",
+            "sat": "Belintersat 1 51.5\u00b0e",
+            "freq": "11230 H 45000 - 8/9",
+            "encry": "HD Panaccess",
+            "link": "#",
+            "related_to": "     Sporting Lisbon   vs   AVS Futebol"
+        },
+        {
             "channel": "Arena Sport 2 Srbija HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11798 H 30000 - 3/4",
@@ -91,10 +123,58 @@
             "related_to": "     Sporting Lisbon   vs   AVS Futebol"
         },
         {
+            "channel": "beIN Sports France 6 HD max",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Sporting Lisbon   vs   AVS Futebol"
+        },
+        {
+            "channel": "Blue Sport 1 Live HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Sporting Lisbon   vs   AVS Futebol"
+        },
+        {
+            "channel": "DAZN Italia ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Sporting Lisbon   vs   AVS Futebol"
+        },
+        {
+            "channel": "DAZN Japan ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Sporting Lisbon   vs   AVS Futebol"
+        },
+        {
+            "channel": "Sport 1 Lithuania HD [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Sporting Lisbon   vs   AVS Futebol"
+        },
+        {
             "channel": "Sport TV+ Portugal",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12476 H 27500 - 3/4",
             "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Sporting Lisbon   vs   AVS Futebol"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL 2",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Sporting Lisbon   vs   AVS Futebol"
         },
@@ -125,6 +205,14 @@
             },
             "time": "18:00",
             "date": "2025-12-14"
+        },
+        {
+            "channel": "DAZN Italia ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Moreirense   vs   Benfica"
         },
         {
             "channel": "TVi Portugal HD",
@@ -163,6 +251,14 @@
             "date": "2025-12-15"
         },
         {
+            "channel": "Arena Sport 1 Slovakia HD",
+            "sat": "Belintersat 1 51.5\u00b0e",
+            "freq": "11290 H 45000 - 8/9",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Sporting Braga   vs   Santa Clara"
+        },
+        {
             "channel": "Sport TV2 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
@@ -181,10 +277,42 @@
             "date": "2025-12-15"
         },
         {
+            "channel": "Arena Sport 1 Slovakia HD",
+            "sat": "Belintersat 1 51.5\u00b0e",
+            "freq": "11290 H 45000 - 8/9",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     FC Porto   vs   Estrela Amadora"
+        },
+        {
+            "channel": "DAZN Italia ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     FC Porto   vs   Estrela Amadora"
+        },
+        {
             "channel": "Sport TV1 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     FC Porto   vs   Estrela Amadora"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     FC Porto   vs   Estrela Amadora"
+        },
+        {
+            "channel": "Ziggo Sport 4",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "11727 V 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     FC Porto   vs   Estrela Amadora"
         }
