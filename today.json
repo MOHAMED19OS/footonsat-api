@@ -523,6 +523,14 @@
             "related_to": "     Fiorentina   vs   Dynamo Kyiv"
         },
         {
+            "channel": "Tabii Spor 4 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Fiorentina   vs   Dynamo Kyiv"
+        },
+        {
             "compet": "UEFA Conference League - Matchday 5",
             "match": "     BK H\u00e4cken   vs   AEK Larnaca",
             "flags": {
@@ -763,6 +771,14 @@
             "related_to": "     Celtic   vs   Roma"
         },
         {
+            "channel": "Sport 2 Czechia HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12090 V 29900 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Celtic   vs   Roma"
+        },
+        {
             "channel": "Tabii Spor T\u00fcrkiye ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -791,6 +807,14 @@
             "sat": "Astra 2F 28.2\u00b0e",
             "freq": "12207 V 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Celtic   vs   Roma"
+        },
+        {
+            "channel": "Zor TV Uzbekistan",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix",
             "link": "#",
             "related_to": "     Celtic   vs   Roma"
         },
@@ -1099,6 +1123,24 @@
             "encry": "",
             "link": "https://plus.rtl.de/video-tv/live",
             "related_to": "     Lech Poznan   vs   Mainz 05"
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 5",
+            "match": "     Hamrun Spartans   vs   Shakhtar Donetsk",
+            "flags": {
+                "team1": "malta",
+                "team2": "ukraine"
+            },
+            "time": "20:00",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "Tabii Spor 4 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Hamrun Spartans   vs   Shakhtar Donetsk"
         }
     ]
 }

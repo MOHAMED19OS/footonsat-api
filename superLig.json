@@ -557,10 +557,42 @@
             "related_to": "     Fenerbah\u00e7e   vs   Konyaspor"
         },
         {
+            "channel": "beIN Connect Malaysia",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-my.beinsports.com/en",
+            "related_to": "     Fenerbah\u00e7e   vs   Konyaspor"
+        },
+        {
+            "channel": "beIN Sports Australia 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Fenerbah\u00e7e   vs   Konyaspor"
+        },
+        {
+            "channel": "beIN Sports Philippines 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Fenerbah\u00e7e   vs   Konyaspor"
+        },
+        {
             "channel": "beIN Sports T\u00fcrkiye 1 HD",
             "sat": "Turksat 3A 42.0\u00b0e",
             "freq": "11180 H 30000 - 3/4",
             "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Fenerbah\u00e7e   vs   Konyaspor"
+        },
+        {
+            "channel": "Sport 2 Israel HD",
+            "sat": "Amos 7 4.0\u00b0w",
+            "freq": "11030 V 27500 - 3/4",
+            "encry": "VideoGuard",
             "link": "#",
             "related_to": "     Fenerbah\u00e7e   vs   Konyaspor"
         },
@@ -641,6 +673,76 @@
             "related_to": "     Kocaelispor   vs   Antalyaspor"
         },
         {
+            "compet": "T\u00fcrkiye 1. Lig - Week 18",
+            "match": "     Esenler Erokspor   vs   Sariyer",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "17:00",
+            "date": "2025-12-19"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Esenler Erokspor   vs   Sariyer"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye 2 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Esenler Erokspor   vs   Sariyer"
+        },
+        {
+            "channel": "TRT Spor T\u00fcrkiye HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11096 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "related_to": "     Esenler Erokspor   vs   Sariyer"
+        },
+        {
+            "compet": "T\u00fcrkiye 1. Lig - Week 18",
+            "match": "     Bandirmaspor   vs   Erzurumspor",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "10:30",
+            "date": "2025-12-20"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Bandirmaspor   vs   Erzurumspor"
+        },
+        {
+            "compet": "T\u00fcrkiye 1. Lig - Week 18",
+            "match": "     Igdirspor   vs   Sivasspor",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "10:30",
+            "date": "2025-12-20"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Igdirspor   vs   Sivasspor"
+        },
+        {
             "compet": "T\u00fcrkiye S\u00fcper Lig - Week 17",
             "match": "     Konyaspor   vs   Kayserispor",
             "flags": {
@@ -665,6 +767,40 @@
             "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Konyaspor   vs   Kayserispor"
+        },
+        {
+            "compet": "T\u00fcrkiye 1. Lig - Week 18",
+            "match": "     Boluspor   vs   Pendikspor",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "13:00",
+            "date": "2025-12-20"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Boluspor   vs   Pendikspor"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye 2 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Boluspor   vs   Pendikspor"
+        },
+        {
+            "channel": "TRT Spor T\u00fcrkiye HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11096 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "related_to": "     Boluspor   vs   Pendikspor"
         },
         {
             "compet": "T\u00fcrkiye S\u00fcper Lig - Week 17",
@@ -693,6 +829,40 @@
             "related_to": "     Ey\u00fcpspor   vs   Fenerbah\u00e7e"
         },
         {
+            "compet": "T\u00fcrkiye 1. Lig - Week 18",
+            "match": "     Manisa FK   vs   Ke\u00e7i\u00f6reng\u00fcc\u00fc",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "16:00",
+            "date": "2025-12-20"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Manisa FK   vs   Ke\u00e7i\u00f6reng\u00fcc\u00fc"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye 2 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Manisa FK   vs   Ke\u00e7i\u00f6reng\u00fcc\u00fc"
+        },
+        {
+            "channel": "TRT Spor T\u00fcrkiye HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11096 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "related_to": "     Manisa FK   vs   Ke\u00e7i\u00f6reng\u00fcc\u00fc"
+        },
+        {
             "compet": "T\u00fcrkiye S\u00fcper Lig - Week 17",
             "match": "     Besiktas   vs   Caykur Rizespor",
             "flags": {
@@ -717,6 +887,40 @@
             "encry": "Irdeto",
             "link": "#",
             "related_to": "     Besiktas   vs   Caykur Rizespor"
+        },
+        {
+            "compet": "T\u00fcrkiye 1. Lig - Week 18",
+            "match": "     Hatayspor   vs   Serik Belediyespor",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "10:30",
+            "date": "2025-12-21"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Hatayspor   vs   Serik Belediyespor"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye 2 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Hatayspor   vs   Serik Belediyespor"
+        },
+        {
+            "channel": "TRT Spor T\u00fcrkiye HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11096 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "related_to": "     Hatayspor   vs   Serik Belediyespor"
         },
         {
             "compet": "T\u00fcrkiye S\u00fcper Lig - Week 17",
@@ -745,261 +949,13 @@
             "related_to": "     Alanyaspor   vs   Fatih Karag\u00fcmr\u00fck"
         },
         {
-            "compet": "T\u00fcrkiye S\u00fcper Lig - Week 17",
-            "match": "     Istanbul Basaksehir   vs   Gaziantep",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "14:00",
-            "date": "2025-12-21"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Istanbul Basaksehir   vs   Gaziantep"
-        },
-        {
-            "channel": "beIN Sports T\u00fcrkiye 1 HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11180 H 30000 - 3/4",
-            "encry": "Irdeto",
-            "link": "#",
-            "related_to": "     Istanbul Basaksehir   vs   Gaziantep"
-        },
-        {
-            "compet": "T\u00fcrkiye S\u00fcper Lig - Week 17",
-            "match": "     Galatasaray   vs   Kasimpasa",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "17:00",
-            "date": "2025-12-21"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Galatasaray   vs   Kasimpasa"
-        },
-        {
-            "channel": "beIN Sports T\u00fcrkiye 1 HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11180 H 30000 - 3/4",
-            "encry": "Irdeto",
-            "link": "#",
-            "related_to": "     Galatasaray   vs   Kasimpasa"
-        },
-        {
-            "compet": "T\u00fcrkiye 1. Lig - Week 18",
-            "match": "     Boluspor   vs   Pendikspor",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "17:00",
-            "date": "2025-12-21"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Boluspor   vs   Pendikspor"
-        },
-        {
-            "channel": "beIN Sports T\u00fcrkiye 2 HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11676 V 24444 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Boluspor   vs   Pendikspor"
-        },
-        {
-            "channel": "TRT Spor T\u00fcrkiye HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11096 H 30000 - 5/6",
-            "encry": "FTA",
-            "link": "https://www.trtizle.com/canli/tv/trt-spor",
-            "related_to": "     Boluspor   vs   Pendikspor"
-        },
-        {
-            "compet": "T\u00fcrkiye S\u00fcper Lig - Week 17",
-            "match": "     G\u00f6ztepe   vs   Samsunspor",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "17:00",
-            "date": "2025-12-21"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     G\u00f6ztepe   vs   Samsunspor"
-        },
-        {
-            "channel": "beIN Sports T\u00fcrkiye 2 HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11676 V 24444 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     G\u00f6ztepe   vs   Samsunspor"
-        },
-        {
-            "compet": "T\u00fcrkiye 1. Lig - Week 18",
-            "match": "     Bodrumspor   vs   Amedspor",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "17:00",
-            "date": "2025-12-21"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Bodrumspor   vs   Amedspor"
-        },
-        {
-            "channel": "beIN Sports T\u00fcrkiye 2 HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11676 V 24444 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Bodrumspor   vs   Amedspor"
-        },
-        {
-            "channel": "TRT Spor T\u00fcrkiye HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11096 H 30000 - 5/6",
-            "encry": "FTA",
-            "link": "https://www.trtizle.com/canli/tv/trt-spor",
-            "related_to": "     Bodrumspor   vs   Amedspor"
-        },
-        {
-            "compet": "T\u00fcrkiye 1. Lig - Week 18",
-            "match": "     Hatayspor   vs   Serik Belediyespor",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "17:00",
-            "date": "2025-12-21"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Hatayspor   vs   Serik Belediyespor"
-        },
-        {
-            "channel": "beIN Sports T\u00fcrkiye 2 HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11676 V 24444 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Hatayspor   vs   Serik Belediyespor"
-        },
-        {
-            "channel": "TRT Spor T\u00fcrkiye HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11096 H 30000 - 5/6",
-            "encry": "FTA",
-            "link": "https://www.trtizle.com/canli/tv/trt-spor",
-            "related_to": "     Hatayspor   vs   Serik Belediyespor"
-        },
-        {
-            "compet": "T\u00fcrkiye 1. Lig - Week 18",
-            "match": "     Manisa FK   vs   Ke\u00e7i\u00f6reng\u00fcc\u00fc",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "17:00",
-            "date": "2025-12-21"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Manisa FK   vs   Ke\u00e7i\u00f6reng\u00fcc\u00fc"
-        },
-        {
-            "channel": "beIN Sports T\u00fcrkiye 2 HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11676 V 24444 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Manisa FK   vs   Ke\u00e7i\u00f6reng\u00fcc\u00fc"
-        },
-        {
-            "channel": "TRT Spor T\u00fcrkiye HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11096 H 30000 - 5/6",
-            "encry": "FTA",
-            "link": "https://www.trtizle.com/canli/tv/trt-spor",
-            "related_to": "     Manisa FK   vs   Ke\u00e7i\u00f6reng\u00fcc\u00fc"
-        },
-        {
-            "compet": "T\u00fcrkiye 1. Lig - Week 18",
-            "match": "     Esenler Erokspor   vs   Sariyer",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "17:00",
-            "date": "2025-12-21"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Esenler Erokspor   vs   Sariyer"
-        },
-        {
-            "channel": "beIN Sports T\u00fcrkiye 2 HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11676 V 24444 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Esenler Erokspor   vs   Sariyer"
-        },
-        {
-            "channel": "TRT Spor T\u00fcrkiye HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11096 H 30000 - 5/6",
-            "encry": "FTA",
-            "link": "https://www.trtizle.com/canli/tv/trt-spor",
-            "related_to": "     Esenler Erokspor   vs   Sariyer"
-        },
-        {
             "compet": "T\u00fcrkiye 1. Lig - Week 18",
             "match": "     Corum FK   vs   Sakaryaspor",
             "flags": {
                 "team1": "turkey",
                 "team2": "turkey"
             },
-            "time": "17:00",
+            "time": "13:00",
             "date": "2025-12-21"
         },
         {
@@ -1025,40 +981,6 @@
             "encry": "FTA",
             "link": "https://www.trtizle.com/canli/tv/trt-spor",
             "related_to": "     Corum FK   vs   Sakaryaspor"
-        },
-        {
-            "compet": "T\u00fcrkiye 1. Lig - Week 18",
-            "match": "     Istanbulspor   vs   Van BB",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "17:00",
-            "date": "2025-12-21"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Istanbulspor   vs   Van BB"
-        },
-        {
-            "channel": "beIN Sports T\u00fcrkiye Max 1 HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11676 V 24444 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Istanbulspor   vs   Van BB"
-        },
-        {
-            "channel": "TRT Spor T\u00fcrkiye HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11096 H 30000 - 5/6",
-            "encry": "FTA",
-            "link": "https://www.trtizle.com/canli/tv/trt-spor",
-            "related_to": "     Istanbulspor   vs   Van BB"
         },
         {
             "compet": "T\u00fcrkiye 1. Lig - Week 18",
@@ -1067,7 +989,7 @@
                 "team1": "turkey",
                 "team2": "turkey"
             },
-            "time": "17:00",
+            "time": "13:00",
             "date": "2025-12-21"
         },
         {
@@ -1096,7 +1018,41 @@
         },
         {
             "compet": "T\u00fcrkiye 1. Lig - Week 18",
-            "match": "     Bandirmaspor   vs   Erzurumspor",
+            "match": "     Istanbulspor   vs   Van BB",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "16:00",
+            "date": "2025-12-21"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Istanbulspor   vs   Van BB"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye Max 1 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Istanbulspor   vs   Van BB"
+        },
+        {
+            "channel": "TRT Spor T\u00fcrkiye HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11096 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "related_to": "     Istanbulspor   vs   Van BB"
+        },
+        {
+            "compet": "T\u00fcrkiye S\u00fcper Lig - Week 17",
+            "match": "     Galatasaray   vs   Kasimpasa",
             "flags": {
                 "team1": "turkey",
                 "team2": "turkey"
@@ -1110,11 +1066,19 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Bandirmaspor   vs   Erzurumspor"
+            "related_to": "     Galatasaray   vs   Kasimpasa"
         },
         {
-            "compet": "T\u00fcrkiye 1. Lig - Week 18",
-            "match": "     Igdirspor   vs   Sivasspor",
+            "channel": "beIN Sports T\u00fcrkiye 1 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11180 H 30000 - 3/4",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Galatasaray   vs   Kasimpasa"
+        },
+        {
+            "compet": "T\u00fcrkiye S\u00fcper Lig - Week 17",
+            "match": "     G\u00f6ztepe   vs   Samsunspor",
             "flags": {
                 "team1": "turkey",
                 "team2": "turkey"
@@ -1128,7 +1092,41 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Igdirspor   vs   Sivasspor"
+            "related_to": "     G\u00f6ztepe   vs   Samsunspor"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye 2 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     G\u00f6ztepe   vs   Samsunspor"
+        },
+        {
+            "compet": "T\u00fcrkiye S\u00fcper Lig - Week 17",
+            "match": "     Istanbul Basaksehir   vs   Gaziantep",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "14:00",
+            "date": "2025-12-22"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Istanbul Basaksehir   vs   Gaziantep"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye 1 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11180 H 30000 - 3/4",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Istanbul Basaksehir   vs   Gaziantep"
         },
         {
             "compet": "T\u00fcrkiye S\u00fcper Lig - Week 17",
@@ -1157,6 +1155,40 @@
             "related_to": "     Gen\u00e7lerbirligi   vs   Trabzonspor"
         },
         {
+            "compet": "T\u00fcrkiye 1. Lig - Week 18",
+            "match": "     Bodrumspor   vs   Amedspor",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "17:00",
+            "date": "2025-12-22"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Bodrumspor   vs   Amedspor"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye 2 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Bodrumspor   vs   Amedspor"
+        },
+        {
+            "channel": "TRT Spor T\u00fcrkiye HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11096 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "related_to": "     Bodrumspor   vs   Amedspor"
+        },
+        {
             "compet": "T\u00fcrkiye 1. Lig - Week 19",
             "match": "     Sakaryaspor   vs   Manisa FK",
             "flags": {
@@ -1164,7 +1196,7 @@
                 "team2": "turkey"
             },
             "time": "17:00",
-            "date": "2025-12-28"
+            "date": "2025-12-26"
         },
         {
             "channel": "beIN Connect T\u00fcrkiye",
@@ -1192,13 +1224,13 @@
         },
         {
             "compet": "T\u00fcrkiye 1. Lig - Week 19",
-            "match": "     Adana Demirspor   vs   Istanbulspor",
+            "match": "     Sivasspor   vs   Bandirmaspor",
             "flags": {
                 "team1": "turkey",
                 "team2": "turkey"
             },
-            "time": "17:00",
-            "date": "2025-12-28"
+            "time": "10:30",
+            "date": "2025-12-27"
         },
         {
             "channel": "beIN Connect T\u00fcrkiye",
@@ -1206,23 +1238,25 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Adana Demirspor   vs   Istanbulspor"
+            "related_to": "     Sivasspor   vs   Bandirmaspor"
         },
         {
-            "channel": "beIN Sports T\u00fcrkiye 2 HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11676 V 24444 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Adana Demirspor   vs   Istanbulspor"
+            "compet": "T\u00fcrkiye 1. Lig - Week 19",
+            "match": "     Sariyer   vs   Bodrumspor",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "10:30",
+            "date": "2025-12-27"
         },
         {
-            "channel": "TRT Spor T\u00fcrkiye HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11096 H 30000 - 5/6",
-            "encry": "FTA",
-            "link": "https://www.trtizle.com/canli/tv/trt-spor",
-            "related_to": "     Adana Demirspor   vs   Istanbulspor"
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Sariyer   vs   Bodrumspor"
         },
         {
             "compet": "T\u00fcrkiye 1. Lig - Week 19",
@@ -1231,8 +1265,8 @@
                 "team1": "turkey",
                 "team2": "turkey"
             },
-            "time": "17:00",
-            "date": "2025-12-28"
+            "time": "13:00",
+            "date": "2025-12-27"
         },
         {
             "channel": "beIN Connect T\u00fcrkiye",
@@ -1265,8 +1299,8 @@
                 "team1": "turkey",
                 "team2": "turkey"
             },
-            "time": "17:00",
-            "date": "2025-12-28"
+            "time": "16:00",
+            "date": "2025-12-27"
         },
         {
             "channel": "beIN Connect T\u00fcrkiye",
@@ -1294,12 +1328,30 @@
         },
         {
             "compet": "T\u00fcrkiye 1. Lig - Week 19",
+            "match": "     Serik Belediyespor   vs   Boluspor",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "10:30",
+            "date": "2025-12-28"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Serik Belediyespor   vs   Boluspor"
+        },
+        {
+            "compet": "T\u00fcrkiye 1. Lig - Week 19",
             "match": "     Erzurumspor   vs   Corum FK",
             "flags": {
                 "team1": "turkey",
                 "team2": "turkey"
             },
-            "time": "17:00",
+            "time": "13:00",
             "date": "2025-12-28"
         },
         {
@@ -1333,7 +1385,7 @@
                 "team1": "turkey",
                 "team2": "turkey"
             },
-            "time": "17:00",
+            "time": "16:00",
             "date": "2025-12-28"
         },
         {
@@ -1362,42 +1414,6 @@
         },
         {
             "compet": "T\u00fcrkiye 1. Lig - Week 19",
-            "match": "     Sivasspor   vs   Bandirmaspor",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "17:00",
-            "date": "2025-12-28"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Sivasspor   vs   Bandirmaspor"
-        },
-        {
-            "compet": "T\u00fcrkiye 1. Lig - Week 19",
-            "match": "     Sariyer   vs   Bodrumspor",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "17:00",
-            "date": "2025-12-28"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Sariyer   vs   Bodrumspor"
-        },
-        {
-            "compet": "T\u00fcrkiye 1. Lig - Week 19",
             "match": "     Ke\u00e7i\u00f6reng\u00fcc\u00fc   vs   Umraniyespor",
             "flags": {
                 "team1": "turkey",
@@ -1416,13 +1432,13 @@
         },
         {
             "compet": "T\u00fcrkiye 1. Lig - Week 19",
-            "match": "     Serik Belediyespor   vs   Boluspor",
+            "match": "     Adana Demirspor   vs   Istanbulspor",
             "flags": {
                 "team1": "turkey",
                 "team2": "turkey"
             },
-            "time": "17:00",
-            "date": "2025-12-28"
+            "time": "11:30",
+            "date": "2025-12-29"
         },
         {
             "channel": "beIN Connect T\u00fcrkiye",
@@ -1430,7 +1446,23 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Serik Belediyespor   vs   Boluspor"
+            "related_to": "     Adana Demirspor   vs   Istanbulspor"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye 2 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Adana Demirspor   vs   Istanbulspor"
+        },
+        {
+            "channel": "TRT Spor T\u00fcrkiye HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11096 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "related_to": "     Adana Demirspor   vs   Istanbulspor"
         },
         {
             "compet": "T\u00fcrkiye 1. Lig - Week 20",
