@@ -67,6 +67,14 @@
             "related_to": "     Liverpool   vs   Brighton H.A."
         },
         {
+            "channel": "Sport 1 Israel HD",
+            "sat": "Amos 7 4.0\u00b0w",
+            "freq": "11474 V 27500 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Liverpool   vs   Brighton H.A."
+        },
+        {
             "channel": "Stan Sport Australia ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -177,6 +185,14 @@
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "10804 H 30000 - 2/3",
             "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Everton"
+        },
+        {
+            "channel": "Sport 2 Israel HD",
+            "sat": "Amos 7 4.0\u00b0w",
+            "freq": "11030 V 27500 - 3/4",
+            "encry": "VideoGuard",
             "link": "#",
             "related_to": "     Chelsea   vs   Everton"
         },
@@ -327,6 +343,14 @@
             "related_to": "     Burnley   vs   Fulham"
         },
         {
+            "channel": "Sport 1 Israel HD",
+            "sat": "Amos 7 4.0\u00b0w",
+            "freq": "11474 V 27500 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Burnley   vs   Fulham"
+        },
+        {
             "channel": "Stan Sport Australia ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -430,6 +454,14 @@
             "freq": "0000 0",
             "encry": "LiveOnSat.com",
             "link": "https://go3.tv/extra_sports",
+            "related_to": "     Arsenal   vs   Wolves"
+        },
+        {
+            "channel": "Sport 1 Israel HD",
+            "sat": "Amos 7 4.0\u00b0w",
+            "freq": "11474 V 27500 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
             "related_to": "     Arsenal   vs   Wolves"
         },
         {
@@ -704,6 +736,14 @@
             "channel": "Sky Sports Premier League HD",
             "sat": "Astra 2E 28.2\u00b0e",
             "freq": "11934 V 27500 - 5/6",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Manchester City"
+        },
+        {
+            "channel": "Sport 2 Israel HD",
+            "sat": "Amos 7 4.0\u00b0w",
+            "freq": "11030 V 27500 - 3/4",
             "encry": "VideoGuard",
             "link": "#",
             "related_to": "     Crystal Palace   vs   Manchester City"
@@ -1217,6 +1257,14 @@
             "sat": "Astra 2F 28.2\u00b0e",
             "freq": "12246 V 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Manchester United   vs   Bournemouth"
+        },
+        {
+            "channel": "Sport 2 Israel HD",
+            "sat": "Amos 7 4.0\u00b0w",
+            "freq": "11030 V 27500 - 3/4",
+            "encry": "VideoGuard",
             "link": "#",
             "related_to": "     Manchester United   vs   Bournemouth"
         },
@@ -3026,6 +3074,48 @@
         },
         {
             "compet": "English Premier League - Week 19",
+            "match": "     Crystal Palace   vs   Fulham",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "17:30",
+            "date": "2025-01-01"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Crystal Palace   vs   Fulham"
+        },
+        {
+            "channel": "Sky Go UK [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Fulham"
+        },
+        {
+            "channel": "Sky Sports Premier League HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11934 V 27500 - 5/6",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Fulham"
+        },
+        {
+            "channel": "Sky Sports UK HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11856 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Fulham"
+        },
+        {
+            "compet": "English Premier League - Week 19",
             "match": "     Liverpool   vs   Leeds United",
             "flags": {
                 "team1": "england",
@@ -3081,48 +3171,6 @@
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Liverpool   vs   Leeds United"
-        },
-        {
-            "compet": "English Premier League - Week 19",
-            "match": "     Crystal Palace   vs   Fulham",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "17:30",
-            "date": "2025-01-01"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Crystal Palace   vs   Fulham"
-        },
-        {
-            "channel": "Sky Go UK [online]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Crystal Palace   vs   Fulham"
-        },
-        {
-            "channel": "Sky Sports Premier League HD",
-            "sat": "Astra 2E 28.2\u00b0e",
-            "freq": "11934 V 27500 - 5/6",
-            "encry": "VideoGuard",
-            "link": "#",
-            "related_to": "     Crystal Palace   vs   Fulham"
-        },
-        {
-            "channel": "Sky Sports UK HD",
-            "sat": "Astra 2E 28.2\u00b0e",
-            "freq": "11856 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Crystal Palace   vs   Fulham"
         },
         {
             "compet": "English Premier League - Week 19",
