@@ -2,66 +2,6 @@
     "footonsat": [
         {
             "compet": "Italian Serie A - Week 15",
-            "match": "     Parma   vs   Lazio",
-            "flags": {
-                "team1": "italy",
-                "team2": "italy"
-            },
-            "time": "17:00",
-            "date": "2025-12-13"
-        },
-        {
-            "channel": "DAZN Great Britain (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": "     Parma   vs   Lazio"
-        },
-        {
-            "channel": "DAZN Ireland ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.dazn.com/en-IE/home",
-            "related_to": "     Parma   vs   Lazio"
-        },
-        {
-            "channel": "Sport 2 Israel HD",
-            "sat": "Amos 7 4.0\u00b0w",
-            "freq": "11030 V 27500 - 3/4",
-            "encry": "VideoGuard",
-            "link": "#",
-            "related_to": "     Parma   vs   Lazio"
-        },
-        {
-            "compet": "Italian Serie A - Week 15",
-            "match": "     Atalanta   vs   Cagliari",
-            "flags": {
-                "team1": "italy",
-                "team2": "italy"
-            },
-            "time": "19:45",
-            "date": "2025-12-13"
-        },
-        {
-            "channel": "DAZN Great Britain (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": "     Atalanta   vs   Cagliari"
-        },
-        {
-            "channel": "DAZN Ireland ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.dazn.com/en-IE/home",
-            "related_to": "     Atalanta   vs   Cagliari"
-        },
-        {
-            "compet": "Italian Serie A - Week 15",
             "match": "     AC Milan   vs   Sassuolo",
             "flags": {
                 "team1": "italy",
@@ -95,38 +35,36 @@
             "related_to": "     AC Milan   vs   Sassuolo"
         },
         {
+            "channel": "S Sport 2 T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11880 H 20000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     AC Milan   vs   Sassuolo"
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     AC Milan   vs   Sassuolo"
+        },
+        {
+            "channel": "Tivibu Spor 1 HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11880 H 20000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     AC Milan   vs   Sassuolo"
+        },
+        {
             "channel": "TNT Sports 1 HD",
             "sat": "NSS 12 57.0\u00b0e",
             "freq": "3798 R 19167 - 3/5",
             "encry": "Irdeto [c]",
             "link": "#",
             "related_to": "     AC Milan   vs   Sassuolo"
-        },
-        {
-            "compet": "Italian Serie A - Week 15",
-            "match": "     Fiorentina   vs   Hellas Verona",
-            "flags": {
-                "team1": "italy",
-                "team2": "italy"
-            },
-            "time": "14:00",
-            "date": "2025-12-14"
-        },
-        {
-            "channel": "DAZN Great Britain (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": "     Fiorentina   vs   Hellas Verona"
-        },
-        {
-            "channel": "DAZN Ireland ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.dazn.com/en-IE/home",
-            "related_to": "     Fiorentina   vs   Hellas Verona"
         },
         {
             "compet": "Italian Serie A - Week 15",
@@ -155,12 +93,70 @@
             "related_to": "     Udinese   vs   Napoli"
         },
         {
+            "channel": "S Sport 2 T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11880 H 20000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Udinese   vs   Napoli"
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Udinese   vs   Napoli"
+        },
+        {
             "channel": "Sport 3 Israel HD",
             "sat": "Amos 3 4.0\u00b0w",
             "freq": "10806 V 27500 - 3/4",
             "encry": "VideoGuard",
             "link": "#",
             "related_to": "     Udinese   vs   Napoli"
+        },
+        {
+            "compet": "Italian Serie A - Week 15",
+            "match": "     Fiorentina   vs   Hellas Verona",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "14:00",
+            "date": "2025-12-14"
+        },
+        {
+            "channel": "DAZN Great Britain (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "     Fiorentina   vs   Hellas Verona"
+        },
+        {
+            "channel": "DAZN Ireland ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "     Fiorentina   vs   Hellas Verona"
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Fiorentina   vs   Hellas Verona"
+        },
+        {
+            "channel": "Tivibu Spor 4 HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11880 H 20000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Fiorentina   vs   Hellas Verona"
         },
         {
             "compet": "Italian Serie A - Week 15",
@@ -189,10 +185,34 @@
             "related_to": "     Genoa   vs   Inter Milan"
         },
         {
+            "channel": "S Sport 2 T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11880 H 20000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Genoa   vs   Inter Milan"
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Genoa   vs   Inter Milan"
+        },
+        {
             "channel": "Sport 2 Israel HD",
             "sat": "Amos 7 4.0\u00b0w",
             "freq": "11030 V 27500 - 3/4",
             "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Genoa   vs   Inter Milan"
+        },
+        {
+            "channel": "Tivibu Spor 1 HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11880 H 20000 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Genoa   vs   Inter Milan"
         },
@@ -231,10 +251,34 @@
             "related_to": "     Bologna   vs   Juventus"
         },
         {
+            "channel": "S Sport 2 T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11880 H 20000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Bologna   vs   Juventus"
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Bologna   vs   Juventus"
+        },
+        {
             "channel": "Sport 2 Israel HD",
             "sat": "Amos 7 4.0\u00b0w",
             "freq": "11030 V 27500 - 3/4",
             "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Bologna   vs   Juventus"
+        },
+        {
+            "channel": "Tivibu Spor 1 HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11880 H 20000 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Bologna   vs   Juventus"
         },
@@ -270,6 +314,30 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "     Roma   vs   Como"
+        },
+        {
+            "channel": "S Sport 2 T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11880 H 20000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Roma   vs   Como"
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Roma   vs   Como"
+        },
+        {
+            "channel": "Tivibu Spor 1 HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11880 H 20000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
             "related_to": "     Roma   vs   Como"
         },
         {
