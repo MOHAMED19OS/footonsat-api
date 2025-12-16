@@ -1,6 +1,42 @@
 {
     "footonsat": [
         {
+            "compet": "ASEAN Club Championship - Group Stage: Matchday 2",
+            "match": "     Lion City Sailors   vs   Shan United",
+            "flags": {
+                "team1": "singapore",
+                "team2": "myanmar"
+            },
+            "time": "10:30",
+            "date": "2025-12-17"
+        },
+        {
+            "channel": "Astro Arena 2 HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10852 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Lion City Sailors   vs   Shan United"
+        },
+        {
+            "compet": "ASEAN Club Championship - Group Stage: Matchday 1",
+            "match": "     Bangkok United   vs   Nam Dinh",
+            "flags": {
+                "team1": "thailand",
+                "team2": "vietnam"
+            },
+            "time": "12:00",
+            "date": "2025-12-17"
+        },
+        {
+            "channel": "Astro Arena Bola 2 HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10892 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Bangkok United   vs   Nam Dinh"
+        },
+        {
             "compet": "AFC Champions League Elite - Round 6",
             "match": "     Sharjah   vs   Al Hilal",
             "flags": {
@@ -9,6 +45,14 @@
             },
             "time": "16:00",
             "date": "2025-12-22"
+        },
+        {
+            "channel": "Astro Grandstand HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10932 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Sharjah   vs   Al Hilal"
         },
         {
             "channel": "beIN Sports MENA 6 HD",
@@ -67,6 +111,14 @@
             },
             "time": "16:00",
             "date": "2025-12-22"
+        },
+        {
+            "channel": "Astro Arena Bola HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10772 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Tractor Sazi   vs   Al Duhail"
         },
         {
             "channel": "beIN Sports MENA 1 HD",
