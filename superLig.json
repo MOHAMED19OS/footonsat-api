@@ -1,6 +1,104 @@
 {
     "footonsat": [
         {
+            "compet": "T\u00fcrkiye Cup - 1st Round",
+            "match": "     Fatih Karag\u00fcmr\u00fck   vs   Istanbulspor",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "12:00",
+            "date": "2025-12-17"
+        },
+        {
+            "channel": "A Spor T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "12053 H 27500 - 5/6",
+            "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Fatih Karag\u00fcmr\u00fck   vs   Istanbulspor"
+        },
+        {
+            "compet": "T\u00fcrkiye Cup - 1st Round",
+            "match": "     Caykur Rizespor   vs   Gaziantep",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "15:00",
+            "date": "2025-12-17"
+        },
+        {
+            "channel": "A Spor T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "12053 H 27500 - 5/6",
+            "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Caykur Rizespor   vs   Gaziantep"
+        },
+        {
+            "compet": "T\u00fcrkiye Cup - 1st Round",
+            "match": "     Trabzonspor   vs   Alanyaspor",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "17:30",
+            "date": "2025-12-17"
+        },
+        {
+            "channel": "A Spor T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "12053 H 27500 - 5/6",
+            "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Trabzonspor   vs   Alanyaspor"
+        },
+        {
+            "compet": "T\u00fcrkiye Cup - 1st Round",
+            "match": "     Gen\u00e7lerbirligi   vs   Bodrumspor",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "14:30",
+            "date": "2025-12-18"
+        },
+        {
+            "channel": "A Spor T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "12053 H 27500 - 5/6",
+            "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Gen\u00e7lerbirligi   vs   Bodrumspor"
+        },
+        {
+            "compet": "T\u00fcrkiye Cup - 1st Round",
+            "match": "     Galatasaray   vs   Istanbul Basaksehir",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "17:30",
+            "date": "2025-12-18"
+        },
+        {
+            "channel": "A Spor T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "12053 H 27500 - 5/6",
+            "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Galatasaray   vs   Istanbul Basaksehir"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
+            "related_to": "     Galatasaray   vs   Istanbul Basaksehir"
+        },
+        {
             "compet": "T\u00fcrkiye S\u00fcper Lig - Week 17",
             "match": "     Kocaelispor   vs   Antalyaspor",
             "flags": {
@@ -725,6 +823,24 @@
             "encry": "FTA",
             "link": "https://www.trtizle.com/canli/tv/trt-spor",
             "related_to": "     Bodrumspor   vs   Amedspor"
+        },
+        {
+            "compet": "T\u00fcrkiye Cup - 1st Round",
+            "match": "     Fenerbah\u00e7e   vs   Besiktas",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "17:30",
+            "date": "2025-12-23"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
+            "related_to": "     Fenerbah\u00e7e   vs   Besiktas"
         },
         {
             "compet": "T\u00fcrkiye 1. Lig - Week 19",

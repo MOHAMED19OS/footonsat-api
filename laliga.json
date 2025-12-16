@@ -171,6 +171,14 @@
             "related_to": "     Valencia   vs   Mallorca"
         },
         {
+            "channel": "Idman TV HD",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11175 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Valencia   vs   Mallorca"
+        },
+        {
             "channel": "LaLiga TV Bar HD",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "10876 V 22000 - 5/6",
@@ -208,6 +216,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.mtv.fi/urheilu",
+            "related_to": "     Valencia   vs   Mallorca"
+        },
+        {
+            "channel": "MTV Urheilu 3 Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
             "related_to": "     Valencia   vs   Mallorca"
         },
         {
@@ -259,6 +275,30 @@
             "related_to": "     Valencia   vs   Mallorca"
         },
         {
+            "channel": "SuperSport LaLiga HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11554 V 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Valencia   vs   Mallorca"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 3A HD",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12169 V 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Valencia   vs   Mallorca"
+        },
+        {
+            "channel": "Tivibu Spor 2 HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11853 H 25000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Valencia   vs   Mallorca"
+        },
+        {
             "channel": "TSN Malta 4 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -283,9 +323,25 @@
             "related_to": "     Valencia   vs   Mallorca"
         },
         {
+            "channel": "TV2 Sport Premium HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Valencia   vs   Mallorca"
+        },
+        {
             "channel": "TV2 Sport X Dansk HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "10716 H 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Valencia   vs   Mallorca"
+        },
+        {
+            "channel": "TV4 Fotboll HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10872 V 25000 - 3/4",
             "encry": "HD Conax",
             "link": "#",
             "related_to": "     Valencia   vs   Mallorca"
@@ -501,6 +557,14 @@
             "related_to": "     Real Oviedo   vs   Celta Vigo"
         },
         {
+            "channel": "MTV Urheilu 1 Suomi HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12476 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Real Oviedo   vs   Celta Vigo"
+        },
+        {
             "channel": "Nova Sport 4 Czech HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11934 V 27500 - 3/4",
@@ -557,6 +621,22 @@
             "related_to": "     Real Oviedo   vs   Celta Vigo"
         },
         {
+            "channel": "SuperSport LaLiga HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11554 V 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Real Oviedo   vs   Celta Vigo"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 3A HD",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12169 V 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Real Oviedo   vs   Celta Vigo"
+        },
+        {
             "channel": "TSN Malta 4 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -581,6 +661,22 @@
             "related_to": "     Real Oviedo   vs   Celta Vigo"
         },
         {
+            "channel": "TV2 Sport Premium HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Real Oviedo   vs   Celta Vigo"
+        },
+        {
+            "channel": "TV4 Fotboll HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10872 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Real Oviedo   vs   Celta Vigo"
+        },
+        {
             "channel": "TV4 Play Sverige [online]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -593,6 +689,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Real Oviedo   vs   Celta Vigo"
+        },
+        {
+            "channel": "Ziggo Sport HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "HD Viaccess",
             "link": "#",
             "related_to": "     Real Oviedo   vs   Celta Vigo"
         },
@@ -791,6 +895,14 @@
             "related_to": "     Levante   vs   Real Sociedad"
         },
         {
+            "channel": "MTV Urheilu 1 Suomi HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12476 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Levante   vs   Real Sociedad"
+        },
+        {
             "channel": "Nova Sport 4 Czech HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11934 V 27500 - 3/4",
@@ -839,6 +951,22 @@
             "related_to": "     Levante   vs   Real Sociedad"
         },
         {
+            "channel": "SuperSport LaLiga HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11554 V 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Levante   vs   Real Sociedad"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 3A HD",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12169 V 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Levante   vs   Real Sociedad"
+        },
+        {
             "channel": "TSN Malta 4 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -863,6 +991,14 @@
             "related_to": "     Levante   vs   Real Sociedad"
         },
         {
+            "channel": "TV2 Sport Premium HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Levante   vs   Real Sociedad"
+        },
+        {
             "channel": "TV4 Play Sverige [online]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -871,10 +1007,26 @@
             "related_to": "     Levante   vs   Real Sociedad"
         },
         {
+            "channel": "TV4 Sportkanalen HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10778 H 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Levante   vs   Real Sociedad"
+        },
+        {
             "channel": "ViaPlay Norge HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Levante   vs   Real Sociedad"
+        },
+        {
+            "channel": "Ziggo Sport HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "HD Viaccess",
             "link": "#",
             "related_to": "     Levante   vs   Real Sociedad"
         },
@@ -1089,6 +1241,14 @@
             "related_to": "     Osasuna   vs   Alav\u00e9s"
         },
         {
+            "channel": "MTV Urheilu 1 Suomi HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12476 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Osasuna   vs   Alav\u00e9s"
+        },
+        {
             "channel": "Nova Sport 4 Czech HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11934 V 27500 - 3/4",
@@ -1161,6 +1321,22 @@
             "related_to": "     Osasuna   vs   Alav\u00e9s"
         },
         {
+            "channel": "SuperSport LaLiga HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11554 V 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Osasuna   vs   Alav\u00e9s"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 3A HD",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12169 V 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Osasuna   vs   Alav\u00e9s"
+        },
+        {
             "channel": "TSN Malta 4 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1185,6 +1361,14 @@
             "related_to": "     Osasuna   vs   Alav\u00e9s"
         },
         {
+            "channel": "TV2 Sport Premium HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Osasuna   vs   Alav\u00e9s"
+        },
+        {
             "channel": "TV4 Play Sverige [online]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1193,10 +1377,26 @@
             "related_to": "     Osasuna   vs   Alav\u00e9s"
         },
         {
+            "channel": "TV4 Sport Live 1 HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10934 H 25000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Osasuna   vs   Alav\u00e9s"
+        },
+        {
             "channel": "ViaPlay Norge HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Osasuna   vs   Alav\u00e9s"
+        },
+        {
+            "channel": "Ziggo Sport HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "HD Viaccess",
             "link": "#",
             "related_to": "     Osasuna   vs   Alav\u00e9s"
         },
@@ -1439,7 +1639,15 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
-            "link": "https://www.mtv.fi/urheilu",
+            "link": "https://kauppa.telia.fi/kauppa/mtv-katsomo",
+            "related_to": "     Real Madrid   vs   Sevilla"
+        },
+        {
+            "channel": "MTV Urheilu 1 Suomi HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12476 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
             "related_to": "     Real Madrid   vs   Sevilla"
         },
         {
@@ -1507,6 +1715,22 @@
             "related_to": "     Real Madrid   vs   Sevilla"
         },
         {
+            "channel": "SuperSport LaLiga HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11554 V 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Sevilla"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 2A HD",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12169 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Sevilla"
+        },
+        {
             "channel": "TSN Malta 4 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1531,6 +1755,14 @@
             "related_to": "     Real Madrid   vs   Sevilla"
         },
         {
+            "channel": "TV2 Sport 1 Norge HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Sevilla"
+        },
+        {
             "channel": "TV2 Sport X Dansk HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "10716 H 25000 - 3/4",
@@ -1547,10 +1779,26 @@
             "related_to": "     Real Madrid   vs   Sevilla"
         },
         {
+            "channel": "TV4 Sportkanalen HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10778 H 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Sevilla"
+        },
+        {
             "channel": "ViaPlay Norge HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Sevilla"
+        },
+        {
+            "channel": "Ziggo Sport HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "HD Viaccess",
             "link": "#",
             "related_to": "     Real Madrid   vs   Sevilla"
         },
@@ -1741,6 +1989,14 @@
             "related_to": "     Girona   vs   Atl\u00e9tico Madrid"
         },
         {
+            "channel": "MTV Urheilu 1 Suomi HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12476 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Girona   vs   Atl\u00e9tico Madrid"
+        },
+        {
             "channel": "Nova Sport 4 Czech HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11934 V 27500 - 3/4",
@@ -1813,6 +2069,38 @@
             "related_to": "     Girona   vs   Atl\u00e9tico Madrid"
         },
         {
+            "channel": "SuperSport Grandstand HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11130 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Girona   vs   Atl\u00e9tico Madrid"
+        },
+        {
+            "channel": "SuperSport LaLiga HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11554 V 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Girona   vs   Atl\u00e9tico Madrid"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 1 HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Girona   vs   Atl\u00e9tico Madrid"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 3A HD",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12169 V 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Girona   vs   Atl\u00e9tico Madrid"
+        },
+        {
             "channel": "TSN Malta 4 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1845,6 +2133,22 @@
             "related_to": "     Girona   vs   Atl\u00e9tico Madrid"
         },
         {
+            "channel": "TV2 Sport Premium HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Girona   vs   Atl\u00e9tico Madrid"
+        },
+        {
+            "channel": "TV4 Fotboll HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10872 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Girona   vs   Atl\u00e9tico Madrid"
+        },
+        {
             "channel": "TV4 Play Sverige [online]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1857,6 +2161,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Girona   vs   Atl\u00e9tico Madrid"
+        },
+        {
+            "channel": "Ziggo Sport HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "HD Viaccess",
             "link": "#",
             "related_to": "     Girona   vs   Atl\u00e9tico Madrid"
         },
@@ -1947,6 +2259,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Villarreal   vs   Barcelona"
+        },
+        {
+            "channel": "DAZN LaLiga 2 HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "10758 V 22000 - 2/3",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Villarreal   vs   Barcelona"
         },
@@ -2047,6 +2367,14 @@
             "related_to": "     Villarreal   vs   Barcelona"
         },
         {
+            "channel": "MTV Urheilu 1 Suomi HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12476 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Villarreal   vs   Barcelona"
+        },
+        {
             "channel": "Nova Sport 4 Czech HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11934 V 27500 - 3/4",
@@ -2119,6 +2447,22 @@
             "related_to": "     Villarreal   vs   Barcelona"
         },
         {
+            "channel": "SuperSport LaLiga HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11554 V 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Villarreal   vs   Barcelona"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 3A HD",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12169 V 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Villarreal   vs   Barcelona"
+        },
+        {
             "channel": "TSN Malta 4 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2143,9 +2487,25 @@
             "related_to": "     Villarreal   vs   Barcelona"
         },
         {
+            "channel": "TV2 Sport Premium HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Villarreal   vs   Barcelona"
+        },
+        {
             "channel": "TV2 Sport X Dansk HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "10716 H 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Villarreal   vs   Barcelona"
+        },
+        {
+            "channel": "TV4 Fotboll HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10872 V 25000 - 3/4",
             "encry": "HD Conax",
             "link": "#",
             "related_to": "     Villarreal   vs   Barcelona"
@@ -2163,6 +2523,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Villarreal   vs   Barcelona"
+        },
+        {
+            "channel": "Ziggo Sport HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "HD Viaccess",
             "link": "#",
             "related_to": "     Villarreal   vs   Barcelona"
         },
@@ -2345,6 +2713,14 @@
             "related_to": "     Elche   vs   Rayo Vallecano"
         },
         {
+            "channel": "MTV Urheilu 1 Suomi HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12476 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Elche   vs   Rayo Vallecano"
+        },
+        {
             "channel": "Nova Sport 4 Czech HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11934 V 27500 - 3/4",
@@ -2409,6 +2785,22 @@
             "related_to": "     Elche   vs   Rayo Vallecano"
         },
         {
+            "channel": "SuperSport LaLiga HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11554 V 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Elche   vs   Rayo Vallecano"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 3A HD",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12169 V 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Elche   vs   Rayo Vallecano"
+        },
+        {
             "channel": "TSN Malta 4 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2433,6 +2825,22 @@
             "related_to": "     Elche   vs   Rayo Vallecano"
         },
         {
+            "channel": "TV2 Sport Premium HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Elche   vs   Rayo Vallecano"
+        },
+        {
+            "channel": "TV4 Fotboll HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10872 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Elche   vs   Rayo Vallecano"
+        },
+        {
             "channel": "TV4 Play Sverige [online]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2445,6 +2853,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Elche   vs   Rayo Vallecano"
+        },
+        {
+            "channel": "Ziggo Sport 2",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "MPEG-4 Viaccess",
             "link": "#",
             "related_to": "     Elche   vs   Rayo Vallecano"
         },
@@ -2643,6 +3059,14 @@
             "related_to": "     Real Betis   vs   Getafe"
         },
         {
+            "channel": "MTV Urheilu 1 Suomi HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12476 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Real Betis   vs   Getafe"
+        },
+        {
             "channel": "Nova Sport 4 Czech HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11934 V 27500 - 3/4",
@@ -2715,10 +3139,42 @@
             "related_to": "     Real Betis   vs   Getafe"
         },
         {
+            "channel": "SuperSport LaLiga HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11554 V 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Real Betis   vs   Getafe"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 1 HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Real Betis   vs   Getafe"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 3A HD",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12169 V 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Real Betis   vs   Getafe"
+        },
+        {
             "channel": "TSN Malta 4 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Real Betis   vs   Getafe"
+        },
+        {
+            "channel": "TV12 Sverige HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10872 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Real Betis   vs   Getafe"
         },
@@ -2736,6 +3192,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://play.tv2.no/sport",
+            "related_to": "     Real Betis   vs   Getafe"
+        },
+        {
+            "channel": "TV2 Sport 1 Norge HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
             "related_to": "     Real Betis   vs   Getafe"
         },
         {
@@ -2759,6 +3223,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Real Betis   vs   Getafe"
+        },
+        {
+            "channel": "Ziggo Sport 3",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Real Betis   vs   Getafe"
         },
@@ -2909,6 +3381,14 @@
             "related_to": "     Athletic Bilbao   vs   Espanyol"
         },
         {
+            "channel": "MTV Urheilu 1 Suomi HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12476 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Athletic Bilbao   vs   Espanyol"
+        },
+        {
             "channel": "Premier Sports 1 Ireland HD",
             "sat": "Astra 2F 28.2\u00b0e",
             "freq": "12188 H 27500 - 2/3",
@@ -2949,6 +3429,22 @@
             "related_to": "     Athletic Bilbao   vs   Espanyol"
         },
         {
+            "channel": "SuperSport LaLiga HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11554 V 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Athletic Bilbao   vs   Espanyol"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 3A HD",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12169 V 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Athletic Bilbao   vs   Espanyol"
+        },
+        {
             "channel": "TSN Malta 4 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2973,9 +3469,25 @@
             "related_to": "     Athletic Bilbao   vs   Espanyol"
         },
         {
+            "channel": "TV2 Sport Premium HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Athletic Bilbao   vs   Espanyol"
+        },
+        {
             "channel": "TV2 Sport X Dansk HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "10716 H 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Athletic Bilbao   vs   Espanyol"
+        },
+        {
+            "channel": "TV4 Fotboll HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10872 V 25000 - 3/4",
             "encry": "HD Conax",
             "link": "#",
             "related_to": "     Athletic Bilbao   vs   Espanyol"
@@ -2993,6 +3505,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Athletic Bilbao   vs   Espanyol"
+        },
+        {
+            "channel": "Ziggo Sport 4",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "11727 V 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     Athletic Bilbao   vs   Espanyol"
         },
@@ -3623,11 +4143,27 @@
             "related_to": "     Espanyol   vs   Barcelona"
         },
         {
+            "channel": "Movistar Plus+ HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11097 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "#",
+            "related_to": "     Espanyol   vs   Barcelona"
+        },
+        {
             "channel": "MTV Katsomon+ ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.mtv.fi/urheilu",
+            "related_to": "     Espanyol   vs   Barcelona"
+        },
+        {
+            "channel": "Orange F\u00fatbol 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
             "related_to": "     Espanyol   vs   Barcelona"
         },
         {
@@ -4013,14 +4549,6 @@
             "related_to": "     Alav\u00e9s   vs   Real Oviedo"
         },
         {
-            "channel": "LaLiga TV Bar HD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "10876 V 22000 - 5/6",
-            "encry": "NagraVision",
-            "link": "#",
-            "related_to": "     Alav\u00e9s   vs   Real Oviedo"
-        },
-        {
             "channel": "LaLiga TV UK [stream] ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -4124,14 +4652,6 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://fasttv.am/live-sports?sport_type=football",
-            "related_to": "     Mallorca   vs   Girona"
-        },
-        {
-            "channel": "LaLiga TV Bar HD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "10876 V 22000 - 5/6",
-            "encry": "NagraVision",
-            "link": "#",
             "related_to": "     Mallorca   vs   Girona"
         },
         {
@@ -5075,7 +5595,7 @@
                 "team1": "spain",
                 "team2": "spain"
             },
-            "time": "17:00",
+            "time": "16:00",
             "date": "2025-04-05"
         },
         {
