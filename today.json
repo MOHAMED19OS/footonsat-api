@@ -183,6 +183,14 @@
             "related_to": "     Deportivo La Coru\u00f1a   vs   Mallorca"
         },
         {
+            "channel": "Eleven Sports 3 Polska HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11488 H 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Deportivo La Coru\u00f1a   vs   Mallorca"
+        },
+        {
             "channel": "ESPN+ USA ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -289,32 +297,6 @@
             "encry": "",
             "link": "#",
             "related_to": "     AFC Amsterdam   vs   NEC Nijmegen"
-        },
-        {
-            "compet": "English National League Cup",
-            "match": "     Tamworth   vs   Newcastle United U-21",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "19:00",
-            "date": "2025-12-16"
-        },
-        {
-            "channel": "MUTV HD",
-            "sat": "Astra 2E 28.2\u00b0e",
-            "freq": "12266 V 29500 - 8/9",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Tamworth   vs   Newcastle United U-21"
-        },
-        {
-            "channel": "National League TV ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.nationalleaguetv.com/schedule",
-            "related_to": "     Tamworth   vs   Newcastle United U-21"
         },
         {
             "compet": "English National League Cup",
@@ -444,24 +426,6 @@
         },
         {
             "compet": "Scottish Challenge Cup - 2nd Round Play-Off",
-            "match": "     Montrose   vs   Spartans",
-            "flags": {
-                "team1": "scotland",
-                "team2": "scotland"
-            },
-            "time": "19:45",
-            "date": "2025-12-16"
-        },
-        {
-            "channel": "Montrose FC LIVE [$]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "hhttps://montrose.watch.pixellot.tv/",
-            "related_to": "     Montrose   vs   Spartans"
-        },
-        {
-            "compet": "Scottish Challenge Cup - 2nd Round Play-Off",
             "match": "     Queen of the South   vs   Dunfermline Athletic",
             "flags": {
                 "team1": "scotland",
@@ -469,6 +433,14 @@
             },
             "time": "19:45",
             "date": "2025-12-16"
+        },
+        {
+            "channel": "Pars TV [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://parstv.co.uk/",
+            "related_to": "     Queen of the South   vs   Dunfermline Athletic"
         },
         {
             "channel": "QOS TV Live [$]",
@@ -565,6 +537,32 @@
             "related_to": "     Elgin City   vs   East Fife"
         },
         {
+            "compet": "English National League Cup",
+            "match": "     Tamworth   vs   Newcastle United U-21",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:45",
+            "date": "2025-12-16"
+        },
+        {
+            "channel": "MUTV HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "12266 V 29500 - 8/9",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Tamworth   vs   Newcastle United U-21"
+        },
+        {
+            "channel": "National League TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.nationalleaguetv.com/schedule",
+            "related_to": "     Tamworth   vs   Newcastle United U-21"
+        },
+        {
             "compet": "Scottish Challenge Cup - 2nd Round Play-Off",
             "match": "     Dumbarton   vs   Inverness CT",
             "flags": {
@@ -599,6 +597,24 @@
             "encry": "LiveOnSat.com",
             "link": "https://tv.perthstjohnstonefc.co.uk/",
             "related_to": "     Hearts B   vs   St Johnstone"
+        },
+        {
+            "compet": "Scottish Challenge Cup - 2nd Round Play-Off",
+            "match": "     Queen's Park   vs   Clyde",
+            "flags": {
+                "team1": "scotland",
+                "team2": "scotland"
+            },
+            "time": "19:45",
+            "date": "2025-12-16"
+        },
+        {
+            "channel": "Clyde FC Live Stream ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://clydefc.univtec.com/home",
+            "related_to": "     Queen's Park   vs   Clyde"
         },
         {
             "compet": "English League Cup - Quarter Final",
@@ -973,6 +989,14 @@
             "related_to": "     Guadalajara   vs   Barcelona"
         },
         {
+            "channel": "Eleven Sports 1 Polska HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11488 H 27500 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Guadalajara   vs   Barcelona"
+        },
+        {
             "channel": "ESPN+ USA ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1217,6 +1241,22 @@
             },
             "time": "20:00",
             "date": "2025-12-16"
+        },
+        {
+            "channel": "Eleven Sports 2 Polska HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11488 V 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Sporting Gij\u00f3n   vs   Valencia"
+        },
+        {
+            "channel": "Eleven Sports 4 Polska HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11278 V 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Sporting Gij\u00f3n   vs   Valencia"
         },
         {
             "channel": "ESPN+ USA ($/geo/R)",
