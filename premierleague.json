@@ -1081,6 +1081,14 @@
             "related_to": "     Manchester City   vs   West Ham United"
         },
         {
+            "channel": "CRTV Sports Cameroon",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12610 H 12500 - 3/4",
+            "encry": "HEVC SD Nagravision",
+            "link": "#",
+            "related_to": "     Manchester City   vs   West Ham United"
+        },
+        {
             "channel": "DAZN 1 Bar Espana",
             "sat": "Astra 1L 19.2\u00b0e",
             "freq": "11097 V 22000 - 5/6",
@@ -1149,6 +1157,14 @@
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "11804 V 29700 - 3/4",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Manchester City   vs   West Ham United"
+        },
+        {
+            "channel": "ORTB Benin",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10804 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     Manchester City   vs   West Ham United"
         },
@@ -1350,6 +1366,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://voyo.protv.ro/premier-league",
+            "related_to": "     Manchester City   vs   West Ham United"
+        },
+        {
+            "channel": "YTV Botswana",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "12634 V 16166 - 5/6",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "     Manchester City   vs   West Ham United"
         },
         {
@@ -3986,136 +4010,6 @@
         },
         {
             "compet": "English Premier League - Week 18",
-            "match": "     Liverpool   vs   Wolves",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "15:00",
-            "date": "2025-12-27"
-        },
-        {
-            "channel": "beIN Connect MENA",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://connect.bein.com/",
-            "related_to": "     Liverpool   vs   Wolves"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Liverpool   vs   Wolves"
-        },
-        {
-            "channel": "DAZN Espa\u00f1a ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Liverpool   vs   Wolves"
-        },
-        {
-            "channel": "FuboTV Canada ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Liverpool   vs   Wolves"
-        },
-        {
-            "channel": "Go3 Extra Sport Baltics ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "https://go3.tv/extra_sports",
-            "related_to": "     Liverpool   vs   Wolves"
-        },
-        {
-            "channel": "Sp\u00edler 1 TV Hungary HD",
-            "sat": "Thor 6 0.8\u00b0w",
-            "freq": "11766 V 28000 - 7/8",
-            "encry": "Conax",
-            "link": "#",
-            "related_to": "     Liverpool   vs   Wolves"
-        },
-        {
-            "channel": "SuperSport Variety 3 HD",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "11170 H 30000 - 5/6",
-            "encry": "Irdeto",
-            "link": "#",
-            "related_to": "     Liverpool   vs   Wolves"
-        },
-        {
-            "channel": "TV3+ Dansk HD",
-            "sat": "Astra 4A 5.0\u00b0e",
-            "freq": "11823 V 27500 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Liverpool   vs   Wolves"
-        },
-        {
-            "channel": "ViaPlay 1 Urheilu HD",
-            "sat": "Thor 5 0.8\u00b0w",
-            "freq": "11278 V 25000 - 3/4",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Liverpool   vs   Wolves"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Liverpool   vs   Wolves"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Liverpool   vs   Wolves"
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Liverpool   vs   Wolves"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Liverpool   vs   Wolves"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Liverpool   vs   Wolves"
-        },
-        {
-            "channel": "VOYO Pro TV Romania [$]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://voyo.protv.ro/premier-league",
-            "related_to": "     Liverpool   vs   Wolves"
-        },
-        {
-            "compet": "English Premier League - Week 18",
             "match": "     Arsenal   vs   Brighton H.A.",
             "flags": {
                 "team1": "england",
@@ -4487,6 +4381,136 @@
             "encry": "",
             "link": "https://voyo.protv.ro/premier-league",
             "related_to": "     Burnley   vs   Everton"
+        },
+        {
+            "compet": "English Premier League - Week 18",
+            "match": "     Liverpool   vs   Wolves",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "15:00",
+            "date": "2025-12-27"
+        },
+        {
+            "channel": "beIN Connect MENA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect.bein.com/",
+            "related_to": "     Liverpool   vs   Wolves"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Liverpool   vs   Wolves"
+        },
+        {
+            "channel": "DAZN Espa\u00f1a ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Liverpool   vs   Wolves"
+        },
+        {
+            "channel": "FuboTV Canada ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Liverpool   vs   Wolves"
+        },
+        {
+            "channel": "Go3 Extra Sport Baltics ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "https://go3.tv/extra_sports",
+            "related_to": "     Liverpool   vs   Wolves"
+        },
+        {
+            "channel": "Sp\u00edler 1 TV Hungary HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "11766 V 28000 - 7/8",
+            "encry": "Conax",
+            "link": "#",
+            "related_to": "     Liverpool   vs   Wolves"
+        },
+        {
+            "channel": "SuperSport Variety 3 HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11170 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Liverpool   vs   Wolves"
+        },
+        {
+            "channel": "TV3+ Dansk HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11823 V 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Liverpool   vs   Wolves"
+        },
+        {
+            "channel": "ViaPlay 1 Urheilu HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "11278 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Liverpool   vs   Wolves"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Liverpool   vs   Wolves"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Liverpool   vs   Wolves"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Liverpool   vs   Wolves"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Liverpool   vs   Wolves"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Liverpool   vs   Wolves"
+        },
+        {
+            "channel": "VOYO Pro TV Romania [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://voyo.protv.ro/premier-league",
+            "related_to": "     Liverpool   vs   Wolves"
         },
         {
             "compet": "English Premier League - Week 18",
