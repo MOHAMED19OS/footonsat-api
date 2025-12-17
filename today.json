@@ -145,6 +145,14 @@
             "date": "2025-12-17"
         },
         {
+            "channel": "5 SPORT Israel HD",
+            "sat": "Amos 3 4.0\u00b0w",
+            "freq": "10806 V 27500 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Kavala   vs   Panathinaikos"
+        },
+        {
             "channel": "Cosmote Sport 1 HD",
             "sat": "Eutelsat 9B 9.0\u00b0e",
             "freq": "11843 V 27500 - 3/5",
@@ -225,6 +233,14 @@
             "date": "2025-12-17"
         },
         {
+            "channel": "5 LIVE Israel HD",
+            "sat": "Amos 7 4.0\u00b0w",
+            "freq": "11030 V 27500 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Olympiacos   vs   Iraklis 1908"
+        },
+        {
             "channel": "Cosmote Sport 2 HD",
             "sat": "Eutelsat 9B 9.0\u00b0e",
             "freq": "11843 V 27500 - 3/5",
@@ -241,6 +257,14 @@
             },
             "time": "17:00",
             "date": "2025-12-17"
+        },
+        {
+            "channel": "6play [online] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Flamengo"
         },
         {
             "channel": "beIN Sports 1 HD (Astro)",
@@ -271,6 +295,22 @@
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10850 V 27500 - 2/3",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Flamengo"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye 1 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11180 H 30000 - 3/4",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Flamengo"
+        },
+        {
+            "channel": "beIN Sports US Espa\u00f1ol",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Paris St Germain   vs   Flamengo"
         },
@@ -355,6 +395,38 @@
             "related_to": "     Paris St Germain   vs   Flamengo"
         },
         {
+            "channel": "M6 France HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12168 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "https://www.6play.fr/m6/direct",
+            "related_to": "     Paris St Germain   vs   Flamengo"
+        },
+        {
+            "channel": "M6 Suisse HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12034 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Flamengo"
+        },
+        {
+            "channel": "ONE Sport Israel HD",
+            "sat": "Amos 3 4.0\u00b0w",
+            "freq": "10806 V 27500 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Flamengo"
+        },
+        {
+            "channel": "Shahid MBC ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://shahid.mbc.net/en/livestream",
+            "related_to": "     Paris St Germain   vs   Flamengo"
+        },
+        {
             "compet": "Spanish Cup (Copa del Rey) - 4th Round",
             "match": "     Cultural Leonesa   vs   Levante",
             "flags": {
@@ -363,6 +435,14 @@
             },
             "time": "17:00",
             "date": "2025-12-17"
+        },
+        {
+            "channel": "DAZN France ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Cultural Leonesa   vs   Levante"
         },
         {
             "channel": "LaLiga TV Bar 2",
@@ -378,6 +458,14 @@
             "freq": "10818 V 22000 - 2/3",
             "encry": "HD NagraVision",
             "link": "#",
+            "related_to": "     Cultural Leonesa   vs   Levante"
+        },
+        {
+            "channel": "Shahid MBC ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://shahid.mbc.net/en/livestream",
             "related_to": "     Cultural Leonesa   vs   Levante"
         },
         {
@@ -441,6 +529,14 @@
             "related_to": "     Excelsior Maassluis   vs   Ajax"
         },
         {
+            "channel": "Sport 4 Israel HD",
+            "sat": "Amos 7 4.0\u00b0w",
+            "freq": "11030 V 27500 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Excelsior Maassluis   vs   Ajax"
+        },
+        {
             "channel": "Sportdigital FUSSBALL HD",
             "sat": "Astra 1L 19.2\u00b0e",
             "freq": "11186 V 22000 - 2/3",
@@ -475,11 +571,27 @@
             "date": "2025-12-17"
         },
         {
+            "channel": "DAZN France ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Huesca   vs   Osasuna"
+        },
+        {
             "channel": "M+ LaLiga 5",
             "sat": "Astra 1L 19.2\u00b0e",
             "freq": "10979 V 22000 - 5/6",
             "encry": "NagraVision",
             "link": "#",
+            "related_to": "     Huesca   vs   Osasuna"
+        },
+        {
+            "channel": "Shahid MBC ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://shahid.mbc.net/en/livestream",
             "related_to": "     Huesca   vs   Osasuna"
         },
         {
@@ -491,6 +603,14 @@
             },
             "time": "18:00",
             "date": "2025-12-17"
+        },
+        {
+            "channel": "DAZN France ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Racing Santander   vs   Villarreal"
         },
         {
             "channel": "Eleven Sports 3 Polska HD",
@@ -529,6 +649,14 @@
             "sat": "AzerSpace 2 45.0\u00b0e",
             "freq": "11475 V 30000 - 5/6",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Racing Santander   vs   Villarreal"
+        },
+        {
+            "channel": "Sport 2 Israel HD",
+            "sat": "Amos 7 4.0\u00b0w",
+            "freq": "11030 V 27500 - 3/4",
+            "encry": "VideoGuard",
             "link": "#",
             "related_to": "     Racing Santander   vs   Villarreal"
         },
@@ -587,6 +715,14 @@
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11554 H 30000 - 5/6",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Atl\u00e9tico Baleares   vs   Atl\u00e9tico Madrid"
+        },
+        {
+            "channel": "DAZN France ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Atl\u00e9tico Baleares   vs   Atl\u00e9tico Madrid"
         },
@@ -663,6 +799,14 @@
             "related_to": "     Atl\u00e9tico Baleares   vs   Atl\u00e9tico Madrid"
         },
         {
+            "channel": "Shahid MBC ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://shahid.mbc.net/en/livestream",
+            "related_to": "     Atl\u00e9tico Baleares   vs   Atl\u00e9tico Madrid"
+        },
+        {
             "channel": "Solh TV",
             "sat": "MonacoSat 52.0\u00b0e",
             "freq": "10845 V 27500 - 2/3",
@@ -697,11 +841,27 @@
             "date": "2025-12-17"
         },
         {
+            "channel": "DAZN France ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Albacete   vs   Celta Vigo"
+        },
+        {
             "channel": "M+ LaLiga 4",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "10876 V 22000 - 5/6",
             "encry": "Seca",
             "link": "#",
+            "related_to": "     Albacete   vs   Celta Vigo"
+        },
+        {
+            "channel": "Shahid MBC ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://shahid.mbc.net/en/livestream",
             "related_to": "     Albacete   vs   Celta Vigo"
         },
         {
@@ -713,6 +873,14 @@
             },
             "time": "18:00",
             "date": "2025-12-17"
+        },
+        {
+            "channel": "5 GOLD Israel",
+            "sat": "Amos 7 4.0\u00b0w",
+            "freq": "11553 V 27500 - 5/6",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     PAOK Thessaloniki   vs   Marko"
         },
         {
             "channel": "Cosmote Sport 1 HD",
@@ -1615,6 +1783,14 @@
             "related_to": "     Paris FC   vs   Barcelona"
         },
         {
+            "channel": "La Chaine L\u00b4\u00c9quipe HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11895 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "https://www.lequipe.fr/tv/",
+            "related_to": "     Paris FC   vs   Barcelona"
+        },
+        {
             "channel": "Persiana Sports 4 HD",
             "sat": "MonacoSat 52.0\u00b0e",
             "freq": "11420 V 27500 - 2/3",
@@ -1747,6 +1923,14 @@
             "related_to": "     Talavera   vs   Real Madrid"
         },
         {
+            "channel": "DAZN France ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Talavera   vs   Real Madrid"
+        },
+        {
             "channel": "Disney+ Danmark ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -1835,6 +2019,14 @@
             "related_to": "     Talavera   vs   Real Madrid"
         },
         {
+            "channel": "Sport 4 Israel HD",
+            "sat": "Amos 7 4.0\u00b0w",
+            "freq": "11030 V 27500 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Talavera   vs   Real Madrid"
+        },
+        {
             "channel": "SuperSport 3 Albania HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "10845 H 30000 - 3/5",
@@ -1848,6 +2040,14 @@
             "freq": "0000 - -",
             "encry": "NagraVision",
             "link": "http://www.rtve.es/directo/la-1/",
+            "related_to": "     Talavera   vs   Real Madrid"
+        },
+        {
+            "channel": "TVE La 1 UHD 4K",
+            "sat": "*DTT 0.0\u00b0-",
+            "freq": "0000 - -",
+            "encry": "Free To Air UHD",
+            "link": "#",
             "related_to": "     Talavera   vs   Real Madrid"
         },
         {
@@ -1945,6 +2145,14 @@
             "sat": "Al Yah 1 52.5\u00b0e",
             "freq": "12034 V 27500 - 3/4",
             "encry": "FTA",
+            "link": "#",
+            "related_to": "     Juventus   vs   Manchester United"
+        },
+        {
+            "channel": "ONE2 Sport Israel HD",
+            "sat": "Amos 7 4.0\u00b0w",
+            "freq": "11058 V 13750 - 5/6",
+            "encry": "VideoGuard",
             "link": "#",
             "related_to": "     Juventus   vs   Manchester United"
         },
@@ -2421,6 +2629,14 @@
             "date": "2025-12-17"
         },
         {
+            "channel": "DAZN France ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Alav\u00e9s   vs   Sevilla"
+        },
+        {
             "channel": "LaLiga TV Bar 2",
             "sat": "Astra 1L 19.2\u00b0e",
             "freq": "11038 V 22000 - 5/6",
@@ -2639,6 +2855,14 @@
             "related_to": "     Newcastle United   vs   Fulham"
         },
         {
+            "channel": "Sport 2 Israel HD",
+            "sat": "Amos 7 4.0\u00b0w",
+            "freq": "11030 V 27500 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Newcastle United   vs   Fulham"
+        },
+        {
             "channel": "Sport TV3 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
@@ -2813,6 +3037,30 @@
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12266 H 29900 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Farense   vs   Benfica"
+        },
+        {
+            "channel": "RTP 1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "https://www.rtp.pt/play/direto/rtp1",
+            "related_to": "     Farense   vs   Benfica"
+        },
+        {
+            "channel": "RTP Internacional",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "11977 H 27500 - 3/4",
+            "encry": "Irdeto",
+            "link": "https://www.rtp.pt/play/direto/rtpinternacional",
+            "related_to": "     Farense   vs   Benfica"
+        },
+        {
+            "channel": "Sport 3 Israel HD",
+            "sat": "Amos 3 4.0\u00b0w",
+            "freq": "10806 V 27500 - 3/4",
+            "encry": "VideoGuard",
             "link": "#",
             "related_to": "     Farense   vs   Benfica"
         },
