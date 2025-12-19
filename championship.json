@@ -179,6 +179,14 @@
             "related_to": "     Swansea City   vs   Wrexham"
         },
         {
+            "channel": "SuperSport 3 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Swansea City   vs   Wrexham"
+        },
+        {
             "channel": "SuperSport Football HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11514 H 30000 - 2/3",
@@ -449,6 +457,14 @@
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12360 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Southampton   vs   Coventry City"
+        },
+        {
+            "channel": "SuperSport 3 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Southampton   vs   Coventry City"
         },
@@ -2858,32 +2874,6 @@
         },
         {
             "compet": "English Championship - Week 31",
-            "match": "     Southampton   vs   Watford",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "12:30",
-            "date": "2025-02-07"
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Southampton   vs   Watford"
-        },
-        {
-            "channel": "Sky Sports+ TV HD",
-            "sat": "Astra 2F 28.2\u00b0e",
-            "freq": "12226 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Southampton   vs   Watford"
-        },
-        {
-            "compet": "English Championship - Week 31",
             "match": "     Derby County   vs   Ipswich Town",
             "flags": {
                 "team1": "england",
@@ -2907,6 +2897,32 @@
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Derby County   vs   Ipswich Town"
+        },
+        {
+            "compet": "English Championship - Week 31",
+            "match": "     Southampton   vs   Watford",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "12:30",
+            "date": "2025-02-07"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Southampton   vs   Watford"
+        },
+        {
+            "channel": "Sky Sports+ TV HD",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12226 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Southampton   vs   Watford"
         },
         {
             "compet": "English Championship - Week 31",
