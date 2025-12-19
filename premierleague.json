@@ -139,6 +139,14 @@
             "related_to": "     Newcastle United   vs   Chelsea"
         },
         {
+            "channel": "Cytavision Sports 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Newcastle United   vs   Chelsea"
+        },
+        {
             "channel": "DAZN 1 Bar Espana",
             "sat": "Astra 1L 19.2\u00b0e",
             "freq": "11097 V 22000 - 5/6",
@@ -565,6 +573,14 @@
             "related_to": "     Brighton H.A.   vs   Sunderland"
         },
         {
+            "channel": "Cytavision Sports 6 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Brighton H.A.   vs   Sunderland"
+        },
+        {
             "channel": "DAZN 3 Espana HD",
             "sat": "Astra 1KR 19.2\u00b0e",
             "freq": "11436 V 22000 - 2/3",
@@ -884,6 +900,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://livetv.skylink.cz",
+            "related_to": "     Bournemouth   vs   Burnley"
+        },
+        {
+            "channel": "Cytavision Sports 7 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
             "related_to": "     Bournemouth   vs   Burnley"
         },
         {
@@ -1229,6 +1253,14 @@
             "sat": "AzerSpace 2 45.0\u00b0e",
             "freq": "12610 H 12500 - 3/4",
             "encry": "HEVC SD Nagravision",
+            "link": "#",
+            "related_to": "     Manchester City   vs   West Ham United"
+        },
+        {
+            "channel": "Cytavision Sports 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Manchester City   vs   West Ham United"
         },
@@ -1651,6 +1683,14 @@
             "related_to": "     Wolves   vs   Brentford"
         },
         {
+            "channel": "Cytavision Sports 8 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Wolves   vs   Brentford"
+        },
+        {
             "channel": "DAZN 4 Espana HD",
             "sat": "Astra 1KR 19.2\u00b0e",
             "freq": "11436 V 22000 - 2/3",
@@ -1970,6 +2010,14 @@
             "freq": "11973 V 29900 - 2/3",
             "encry": "HD Conax",
             "link": "https://livetv.skylink.cz",
+            "related_to": "     Tottenham Hotspur   vs   Liverpool"
+        },
+        {
+            "channel": "Cytavision Sports 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
             "related_to": "     Tottenham Hotspur   vs   Liverpool"
         },
         {
@@ -2479,6 +2527,14 @@
             "related_to": "     Everton   vs   Arsenal"
         },
         {
+            "channel": "Cytavision Sports 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Everton   vs   Arsenal"
+        },
+        {
             "channel": "DAZN 1 Bar Espana",
             "sat": "Astra 1L 19.2\u00b0e",
             "freq": "11097 V 22000 - 5/6",
@@ -2913,6 +2969,14 @@
             "related_to": "     Leeds United   vs   Crystal Palace"
         },
         {
+            "channel": "Cytavision Sports 7 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Leeds United   vs   Crystal Palace"
+        },
+        {
             "channel": "DAZN 3 Espana HD",
             "sat": "Astra 1KR 19.2\u00b0e",
             "freq": "11436 V 22000 - 2/3",
@@ -3288,6 +3352,14 @@
             "freq": "11973 V 29900 - 2/3",
             "encry": "HD Conax",
             "link": "https://livetv.skylink.cz",
+            "related_to": "     Aston Villa   vs   Manchester United"
+        },
+        {
+            "channel": "Cytavision Sports 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
             "related_to": "     Aston Villa   vs   Manchester United"
         },
         {
@@ -3746,6 +3818,14 @@
             "freq": "11973 V 29900 - 2/3",
             "encry": "HD Conax",
             "link": "https://livetv.skylink.cz",
+            "related_to": "     Fulham   vs   Nottingham Forest"
+        },
+        {
+            "channel": "Cytavision Sports 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
             "related_to": "     Fulham   vs   Nottingham Forest"
         },
         {
@@ -6004,6 +6084,104 @@
         },
         {
             "compet": "English Premier League - Week 19",
+            "match": "     Burnley   vs   Newcastle United",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:30",
+            "date": "2025-12-30"
+        },
+        {
+            "channel": "beIN Connect MENA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect.bein.com/",
+            "related_to": "     Burnley   vs   Newcastle United"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Burnley   vs   Newcastle United"
+        },
+        {
+            "channel": "DAZN Espa\u00f1a ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Burnley   vs   Newcastle United"
+        },
+        {
+            "channel": "FuboTV Canada ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Burnley   vs   Newcastle United"
+        },
+        {
+            "channel": "Go3 Extra Sport Baltics ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "https://go3.tv/extra_sports",
+            "related_to": "     Burnley   vs   Newcastle United"
+        },
+        {
+            "channel": "Sky Go UK [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Burnley   vs   Newcastle United"
+        },
+        {
+            "channel": "Sky Sports UK HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11856 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Burnley   vs   Newcastle United"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Burnley   vs   Newcastle United"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Burnley   vs   Newcastle United"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Burnley   vs   Newcastle United"
+        },
+        {
+            "channel": "VOYO Pro TV Romania [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://voyo.protv.ro/premier-league",
+            "related_to": "     Burnley   vs   Newcastle United"
+        },
+        {
+            "compet": "English Premier League - Week 19",
             "match": "     Nottingham Forest   vs   Everton",
             "flags": {
                 "team1": "england",
@@ -6107,104 +6285,6 @@
             "encry": "",
             "link": "https://voyo.protv.ro/premier-league",
             "related_to": "     Nottingham Forest   vs   Everton"
-        },
-        {
-            "compet": "English Premier League - Week 19",
-            "match": "     Burnley   vs   Newcastle United",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "19:30",
-            "date": "2025-12-30"
-        },
-        {
-            "channel": "beIN Connect MENA",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://connect.bein.com/",
-            "related_to": "     Burnley   vs   Newcastle United"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Burnley   vs   Newcastle United"
-        },
-        {
-            "channel": "DAZN Espa\u00f1a ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Burnley   vs   Newcastle United"
-        },
-        {
-            "channel": "FuboTV Canada ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Burnley   vs   Newcastle United"
-        },
-        {
-            "channel": "Go3 Extra Sport Baltics ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "https://go3.tv/extra_sports",
-            "related_to": "     Burnley   vs   Newcastle United"
-        },
-        {
-            "channel": "Sky Go UK [online]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Burnley   vs   Newcastle United"
-        },
-        {
-            "channel": "Sky Sports UK HD",
-            "sat": "Astra 2E 28.2\u00b0e",
-            "freq": "11856 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Burnley   vs   Newcastle United"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Burnley   vs   Newcastle United"
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Burnley   vs   Newcastle United"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Burnley   vs   Newcastle United"
-        },
-        {
-            "channel": "VOYO Pro TV Romania [$]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://voyo.protv.ro/premier-league",
-            "related_to": "     Burnley   vs   Newcastle United"
         },
         {
             "compet": "English Premier League - Week 19",
