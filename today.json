@@ -511,6 +511,14 @@
             "related_to": "     Paderborn   vs   Darmstadt 98"
         },
         {
+            "channel": "Fast Sports [online] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "     Paderborn   vs   Darmstadt 98"
+        },
+        {
             "channel": "Nova Sport 5 Czech HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11954 H 29900 - 2/3",
@@ -678,6 +686,14 @@
             "freq": "11488 V 27500 - 3/4",
             "encry": "HD Conax",
             "link": "#",
+            "related_to": "     Hertha Berlin   vs   Arminia Bielefeld"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
             "related_to": "     Hertha Berlin   vs   Arminia Bielefeld"
         },
         {
@@ -1557,6 +1573,24 @@
             "related_to": "     FC Eindhoven   vs   AZ Youths"
         },
         {
+            "compet": "Premier League International Cup - Group Stage",
+            "match": "     Manchester Utd U-21   vs   Dortmund U-21",
+            "flags": {
+                "team1": "england",
+                "team2": "germany"
+            },
+            "time": "19:00",
+            "date": "2025-12-19"
+        },
+        {
+            "channel": "MUTV HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "12266 V 29500 - 8/9",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Manchester Utd U-21   vs   Dortmund U-21"
+        },
+        {
             "compet": "Swiss Challenge League - Week 18",
             "match": "     Vaduz   vs   Aarau",
             "flags": {
@@ -1712,6 +1746,14 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
+            "related_to": "     Borussia Dortmund   vs   M\u00f6nchengladbach"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
             "related_to": "     Borussia Dortmund   vs   M\u00f6nchengladbach"
         },
         {
@@ -2744,6 +2786,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.exxen.com/en",
+            "related_to": "     Swansea City   vs   Wrexham"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
             "related_to": "     Swansea City   vs   Wrexham"
         },
         {
