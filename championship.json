@@ -617,6 +617,14 @@
             "date": "2025-12-26"
         },
         {
+            "channel": "Arena Sport 1 Slovenija HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Birmingham City   vs   Derby County"
+        },
+        {
             "channel": "beIN Sports MENA 4 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 V 27500 - 2/3",
@@ -713,6 +721,14 @@
             "related_to": "     Birmingham City   vs   Derby County"
         },
         {
+            "channel": "ViaPlay Sport Sverige HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Birmingham City   vs   Derby County"
+        },
+        {
             "compet": "English Championship - Week 23",
             "match": "     Millwall   vs   Ipswich Town",
             "flags": {
@@ -791,6 +807,14 @@
             "date": "2025-12-26"
         },
         {
+            "channel": "Arena Sport 1 Slovenija HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Middlesbrough   vs   Blackburn Rovers"
+        },
+        {
             "channel": "beIN Sports MENA 4 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 V 27500 - 2/3",
@@ -867,6 +891,14 @@
             "sat": "Thor 5 0.8\u00b0w",
             "freq": "11278 V 25000 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Middlesbrough   vs   Blackburn Rovers"
+        },
+        {
+            "channel": "ViaPlay Sport Sverige HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Middlesbrough   vs   Blackburn Rovers"
         },
@@ -1055,6 +1087,14 @@
             "date": "2025-12-26"
         },
         {
+            "channel": "Arena Premium 1 Slovenija",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Wrexham   vs   Sheffield United"
+        },
+        {
             "channel": "beIN Sports MENA 4 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 V 27500 - 2/3",
@@ -1171,6 +1211,14 @@
             "sat": "Thor 5 0.8\u00b0w",
             "freq": "11278 V 25000 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Wrexham   vs   Sheffield United"
+        },
+        {
+            "channel": "ViaPlay Sport Sverige HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Wrexham   vs   Sheffield United"
         },
@@ -2988,32 +3036,6 @@
         },
         {
             "compet": "English Championship - Week 35",
-            "match": "     Leicester City   vs   Norwich City",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "12:30",
-            "date": "2025-02-28"
-        },
-        {
-            "channel": "Sky Go UK [online]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Leicester City   vs   Norwich City"
-        },
-        {
-            "channel": "Sky Sports Football HD",
-            "sat": "Astra 2E 28.2\u00b0e",
-            "freq": "12012 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Leicester City   vs   Norwich City"
-        },
-        {
-            "compet": "English Championship - Week 35",
             "match": "     Portsmouth   vs   Hull City",
             "flags": {
                 "team1": "england",
@@ -3037,6 +3059,32 @@
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Portsmouth   vs   Hull City"
+        },
+        {
+            "compet": "English Championship - Week 35",
+            "match": "     Leicester City   vs   Norwich City",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "12:30",
+            "date": "2025-02-28"
+        },
+        {
+            "channel": "Sky Go UK [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Leicester City   vs   Norwich City"
+        },
+        {
+            "channel": "Sky Sports Football HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "12012 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Leicester City   vs   Norwich City"
         },
         {
             "compet": "English Championship - Week 35",
