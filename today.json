@@ -155,6 +155,24 @@
             "related_to": "     Johor Darul Ta'zim   vs   Kelantan Real Warriors"
         },
         {
+            "compet": "Azerbaijan Premier League - Week 16",
+            "match": "     Karvan   vs   Neftchi",
+            "flags": {
+                "team1": "azerbaijan",
+                "team2": "azerbaijan"
+            },
+            "time": "10:00",
+            "date": "2025-12-20"
+        },
+        {
+            "channel": "CBC Sport HD",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11175 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Karvan   vs   Neftchi"
+        },
+        {
             "compet": "T\u00fcrkiye 1. Lig - Week 18",
             "match": "     Igdirspor   vs   Sivasspor",
             "flags": {
@@ -169,7 +187,15 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
+            "link": "https://www.beinconnect.com.tr/spor",
+            "related_to": "     Igdirspor   vs   Sivasspor"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye Max 2 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11180 H 29750 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
             "related_to": "     Igdirspor   vs   Sivasspor"
         },
         {
@@ -1451,6 +1477,14 @@
             "related_to": "     Newcastle United   vs   Chelsea"
         },
         {
+            "channel": "DAZN 1 Espana HD",
+            "sat": "Astra 1KR 19.2\u00b0e",
+            "freq": "10729 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Newcastle United   vs   Chelsea"
+        },
+        {
             "channel": "DAZN 1 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12399 H 27500 - 3/4",
@@ -2193,6 +2227,24 @@
             "related_to": "     Luft\u00ebtari   vs   Pogradeci"
         },
         {
+            "compet": "Azerbaijan Premier League - Week 16",
+            "match": "     Zira   vs   Imishli FK",
+            "flags": {
+                "team1": "azerbaijan",
+                "team2": "azerbaijan"
+            },
+            "time": "12:30",
+            "date": "2025-12-20"
+        },
+        {
+            "channel": "CBC Sport HD",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11175 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Zira   vs   Imishli FK"
+        },
+        {
             "compet": "T\u00fcrkiye 1. Lig - Week 18",
             "match": "     Boluspor   vs   Pendikspor",
             "flags": {
@@ -2285,10 +2337,10 @@
             "related_to": "     Real Oviedo   vs   Celta Vigo"
         },
         {
-            "channel": "beIN Sports MENA 6 HD",
+            "channel": "beIN Sports MENA 5 HD",
             "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 V 27500 - 2/3",
-            "encry": "HD Irdeto",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Real Oviedo   vs   Celta Vigo"
         },
@@ -4907,9 +4959,9 @@
             "related_to": "     Saint-Maur   vs   Lille"
         },
         {
-            "channel": "beIN Sports MENA French 1 HD",
+            "channel": "beIN Sports MENA French 2 HD",
             "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "11390 V 27500 - 2/3",
+            "freq": "10850 H 27500 - 2/3",
             "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Saint-Maur   vs   Lille"
@@ -5280,14 +5332,6 @@
             "channel": "beIN Sports MENA 4 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 V 27500 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Wolves   vs   Brentford"
-        },
-        {
-            "channel": "beIN Sports MENA 5 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 H 27500 - 2/3",
             "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Wolves   vs   Brentford"
@@ -9279,6 +9323,14 @@
             "related_to": "     Tottenham Hotspur   vs   Liverpool"
         },
         {
+            "channel": "M+ #Vamos Bar 2",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11097 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "#",
+            "related_to": "     Tottenham Hotspur   vs   Liverpool"
+        },
+        {
             "channel": "M+ Liga de Campeones HD",
             "sat": "Astra 1KR 19.2\u00b0e",
             "freq": "11259 V 22000 - 2/3",
@@ -12769,9 +12821,9 @@
             "related_to": "     Real Madrid   vs   Sevilla"
         },
         {
-            "channel": "beIN Sports MENA French 1 HD",
+            "channel": "beIN Sports MENA French 2 HD",
             "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "11390 V 27500 - 2/3",
+            "freq": "10850 H 27500 - 2/3",
             "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Real Madrid   vs   Sevilla"
@@ -13692,6 +13744,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://tv.comofootball.com/liveEvent.html",
+            "related_to": "     Estudiantes LP   vs   Platense"
+        },
+        {
+            "channel": "M+ Liga de Campeones HD",
+            "sat": "Astra 1KR 19.2\u00b0e",
+            "freq": "11259 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
             "related_to": "     Estudiantes LP   vs   Platense"
         },
         {

@@ -2,120 +2,6 @@
     "footonsat": [
         {
             "compet": "AFC Champions League Elite - Round 6",
-            "match": "     Sharjah   vs   Al Hilal",
-            "flags": {
-                "team1": "uae",
-                "team2": "saudiarabia"
-            },
-            "time": "16:00",
-            "date": "2025-12-22"
-        },
-        {
-            "channel": "Astro Grandstand HD",
-            "sat": "Measat 3b 91.5\u00b0e",
-            "freq": "10932 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Sharjah   vs   Al Hilal"
-        },
-        {
-            "channel": "beIN Sports MENA 2 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Sharjah   vs   Al Hilal"
-        },
-        {
-            "channel": "beIN Sports MENA 6 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 V 27500 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Sharjah   vs   Al Hilal"
-        },
-        {
-            "channel": "beIN Sports MENA English 1 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10850 V 27500 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Sharjah   vs   Al Hilal"
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "AzerSpace 2 45.0\u00b0e",
-            "freq": "12520 V 30000 - 5/6",
-            "encry": "MPEG-4 Irdeto",
-            "link": "#",
-            "related_to": "     Sharjah   vs   Al Hilal"
-        },
-        {
-            "channel": "ESPN 2 Nederland HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "11856 V 29900 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Sharjah   vs   Al Hilal"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     Sharjah   vs   Al Hilal"
-        },
-        {
-            "channel": "Silk Sport 1 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Sharjah   vs   Al Hilal"
-        },
-        {
-            "channel": "Sport 24 At Sea HD",
-            "sat": "NSS 12 57.0\u00b0e",
-            "freq": "4095 R 30000 - 3/4",
-            "encry": "HD PowerVu",
-            "link": "#",
-            "related_to": "     Sharjah   vs   Al Hilal"
-        },
-        {
-            "channel": "Sport 24 In Flight HD",
-            "sat": "NSS 12 57.0\u00b0e",
-            "freq": "4095 R 30000 - 3/4",
-            "encry": "HD PowerVu",
-            "link": "#",
-            "related_to": "     Sharjah   vs   Al Hilal"
-        },
-        {
-            "channel": "Sport 3 Israel HD",
-            "sat": "Amos 3 4.0\u00b0w",
-            "freq": "10806 V 27500 - 3/4",
-            "encry": "VideoGuard",
-            "link": "#",
-            "related_to": "     Sharjah   vs   Al Hilal"
-        },
-        {
-            "channel": "Sportdigital 1+ Deutsch HD",
-            "sat": "Astra 1L 19.2\u00b0e",
-            "freq": "11186 V 22000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Sharjah   vs   Al Hilal"
-        },
-        {
-            "channel": "YouTube: The AFC Hub",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "     Sharjah   vs   Al Hilal"
-        },
-        {
-            "compet": "AFC Champions League Elite - Round 6",
             "match": "     Tractor Sazi   vs   Al Duhail",
             "flags": {
                 "team1": "iran",
@@ -165,12 +51,134 @@
             "related_to": "     Tractor Sazi   vs   Al Duhail"
         },
         {
+            "channel": "Spor Smart 2 T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "12245 H 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Tractor Sazi   vs   Al Duhail"
+        },
+        {
             "channel": "YouTube: The AFC Hub",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.youtube.com/@TheAFCHub/streams",
             "related_to": "     Tractor Sazi   vs   Al Duhail"
+        },
+        {
+            "compet": "AFC Champions League Elite - Round 6",
+            "match": "     Sharjah   vs   Al Hilal",
+            "flags": {
+                "team1": "uae",
+                "team2": "saudiarabia"
+            },
+            "time": "16:00",
+            "date": "2025-12-22"
+        },
+        {
+            "channel": "Astro Grandstand HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10932 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Sharjah   vs   Al Hilal"
+        },
+        {
+            "channel": "beIN Sports MENA 2 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Sharjah   vs   Al Hilal"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Sharjah   vs   Al Hilal"
+        },
+        {
+            "channel": "Diema Sport 3 HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Sharjah   vs   Al Hilal"
+        },
+        {
+            "channel": "ESPN 2 Nederland HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11856 V 29900 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Sharjah   vs   Al Hilal"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     Sharjah   vs   Al Hilal"
+        },
+        {
+            "channel": "Silk Sport 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Sharjah   vs   Al Hilal"
+        },
+        {
+            "channel": "Spor Smart T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "12188 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Sharjah   vs   Al Hilal"
+        },
+        {
+            "channel": "Sport 24 At Sea HD",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "4095 R 30000 - 3/4",
+            "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     Sharjah   vs   Al Hilal"
+        },
+        {
+            "channel": "Sport 24 In Flight HD",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "4095 R 30000 - 3/4",
+            "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     Sharjah   vs   Al Hilal"
+        },
+        {
+            "channel": "Sport 3 Israel HD",
+            "sat": "Amos 3 4.0\u00b0w",
+            "freq": "10806 V 27500 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Sharjah   vs   Al Hilal"
+        },
+        {
+            "channel": "Sportdigital 1+ Deutsch HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Sharjah   vs   Al Hilal"
+        },
+        {
+            "channel": "YouTube: The AFC Hub",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.youtube.com/@TheAFCHub/streams",
+            "related_to": "     Sharjah   vs   Al Hilal"
         },
         {
             "compet": "AFC Champions League Elite - Round 6",
@@ -220,6 +228,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://onefootball.com/en/matches",
+            "related_to": "     Al Shorta   vs   Al Ahli"
+        },
+        {
+            "channel": "Spor Smart 2 T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "12245 H 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
             "related_to": "     Al Shorta   vs   Al Ahli"
         },
         {
@@ -286,6 +302,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://onefootball.com/en/matches",
+            "related_to": "     Al Gharafa   vs   Al Wahda"
+        },
+        {
+            "channel": "Spor Smart T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "12188 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
             "related_to": "     Al Gharafa   vs   Al Wahda"
         },
         {
@@ -415,6 +439,14 @@
             "related_to": "     Al Sadd   vs   Shabab Al Ahli"
         },
         {
+            "channel": "Spor Smart T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "12188 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Sadd   vs   Shabab Al Ahli"
+        },
+        {
             "channel": "Sport 3 Israel HD",
             "sat": "Amos 3 4.0\u00b0w",
             "freq": "10806 V 27500 - 3/4",
@@ -449,6 +481,22 @@
             "related_to": "     Al Ittihad   vs   Nasaf Qarshi"
         },
         {
+            "channel": "beIN Sports MENA 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Ittihad   vs   Nasaf Qarshi"
+        },
+        {
+            "channel": "beIN Sports MENA English 2 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "11390 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Al Ittihad   vs   Nasaf Qarshi"
+        },
+        {
             "channel": "ESPN 1 Nederland HD",
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "11739 V 29900 - 3/4",
@@ -470,6 +518,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://onefootball.com/en/matches",
+            "related_to": "     Al Ittihad   vs   Nasaf Qarshi"
+        },
+        {
+            "channel": "Spor Smart T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "12188 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
             "related_to": "     Al Ittihad   vs   Nasaf Qarshi"
         },
         {
@@ -495,6 +551,40 @@
             "encry": "",
             "link": "https://www.youtube.com/@TheAFCHub/streams",
             "related_to": "     Al Ittihad   vs   Nasaf Qarshi"
+        },
+        {
+            "compet": "AFC Champions League 2 - Round 6",
+            "match": "     FC Goa   vs   Istiqlol",
+            "flags": {
+                "team1": "india",
+                "team2": "tajikistan"
+            },
+            "time": "16:00",
+            "date": "2025-12-24"
+        },
+        {
+            "channel": "beIN Sports MENA 6 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     FC Goa   vs   Istiqlol"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     FC Goa   vs   Istiqlol"
+        },
+        {
+            "channel": "YouTube: The AFC Hub",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.youtube.com/@TheAFCHub/streams",
+            "related_to": "     FC Goa   vs   Istiqlol"
         },
         {
             "compet": "AFC Champions League 2 - Round 6",
@@ -529,6 +619,56 @@
             "encry": "",
             "link": "https://www.youtube.com/@TheAFCHub/streams",
             "related_to": "     Arkadag   vs   Al Khalidiya"
+        },
+        {
+            "compet": "AFC Champions League 2 - Round 6",
+            "match": "     Al Ahli   vs   Andijan",
+            "flags": {
+                "team1": "qatar",
+                "team2": "uzbekistan"
+            },
+            "time": "16:00",
+            "date": "2025-12-24"
+        },
+        {
+            "channel": "beIN Sports MENA 5 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Andijan"
+        },
+        {
+            "channel": "ESPN 2 Nederland HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11856 V 29900 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Andijan"
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12560 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Andijan"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     Al Ahli   vs   Andijan"
+        },
+        {
+            "channel": "YouTube: The AFC Hub",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.youtube.com/@TheAFCHub/streams",
+            "related_to": "     Al Ahli   vs   Andijan"
         },
         {
             "compet": "AFC Champions League 2 - Round 6",
@@ -582,48 +722,6 @@
         },
         {
             "compet": "AFC Champions League 2 - Round 6",
-            "match": "     Al Ahli   vs   Andijan",
-            "flags": {
-                "team1": "qatar",
-                "team2": "uzbekistan"
-            },
-            "time": "16:00",
-            "date": "2025-12-24"
-        },
-        {
-            "channel": "ESPN 2 Nederland HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "11856 V 29900 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Al Ahli   vs   Andijan"
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "sat": "AzerSpace 2 45.0\u00b0e",
-            "freq": "12560 V 30000 - 5/6",
-            "encry": "MPEG-4 Irdeto",
-            "link": "#",
-            "related_to": "     Al Ahli   vs   Andijan"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     Al Ahli   vs   Andijan"
-        },
-        {
-            "channel": "YouTube: The AFC Hub",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "     Al Ahli   vs   Andijan"
-        },
-        {
-            "compet": "AFC Champions League 2 - Round 6",
             "match": "     Al Wasl   vs   Al Wehdat",
             "flags": {
                 "team1": "uae",
@@ -647,32 +745,6 @@
             "encry": "",
             "link": "https://www.youtube.com/@TheAFCHub/streams",
             "related_to": "     Al Wasl   vs   Al Wehdat"
-        },
-        {
-            "compet": "AFC Champions League 2 - Round 6",
-            "match": "     FC Goa   vs   Istiqlol",
-            "flags": {
-                "team1": "india",
-                "team2": "tajikistan"
-            },
-            "time": "16:00",
-            "date": "2025-12-24"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     FC Goa   vs   Istiqlol"
-        },
-        {
-            "channel": "YouTube: The AFC Hub",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "     FC Goa   vs   Istiqlol"
         },
         {
             "compet": "AFC Champions League 2 - Round 6",
