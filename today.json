@@ -2341,42 +2341,6 @@
             "related_to": "     Umraniyespor   vs   Adana Demirspor"
         },
         {
-            "compet": "English WSL 2 - Week 11",
-            "match": "     Sheffield United   vs   Southampton",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "13:00",
-            "date": "2025-12-21"
-        },
-        {
-            "channel": "YouTube: W/Super League 2",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.youtube.com/@BarclaysWSL2/streams",
-            "related_to": "     Sheffield United   vs   Southampton"
-        },
-        {
-            "compet": "Scottish SWPL 1 - Week 14",
-            "match": "     Hibernian   vs   Celtic",
-            "flags": {
-                "team1": "scotland",
-                "team2": "scotland"
-            },
-            "time": "13:00",
-            "date": "2025-12-21"
-        },
-        {
-            "channel": "YouTube: Hibernian FC",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.youtube.com/c/HibsTV",
-            "related_to": "     Hibernian   vs   Celtic"
-        },
-        {
             "compet": "Spanish La Liga 2 - Week 19",
             "match": "     M\u00e1laga   vs   Almer\u00eda",
             "flags": {
@@ -2459,6 +2423,14 @@
             "related_to": "     M\u00e1laga   vs   Almer\u00eda"
         },
         {
+            "channel": "Premier Sports GB Player HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": "     M\u00e1laga   vs   Almer\u00eda"
+        },
+        {
             "channel": "Prima Sport RO PPV 3",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -2481,6 +2453,42 @@
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     M\u00e1laga   vs   Almer\u00eda"
+        },
+        {
+            "compet": "English WSL 2 - Week 11",
+            "match": "     Sheffield United   vs   Southampton",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "13:00",
+            "date": "2025-12-21"
+        },
+        {
+            "channel": "YouTube: W/Super League 2",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@BarclaysWSL2/streams",
+            "related_to": "     Sheffield United   vs   Southampton"
+        },
+        {
+            "compet": "Scottish SWPL 1 - Week 14",
+            "match": "     Hibernian   vs   Celtic",
+            "flags": {
+                "team1": "scotland",
+                "team2": "scotland"
+            },
+            "time": "13:00",
+            "date": "2025-12-21"
+        },
+        {
+            "channel": "YouTube: Hibernian FC",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/c/HibsTV",
+            "related_to": "     Hibernian   vs   Celtic"
         },
         {
             "compet": "German Frauen Bundesliga - Week 14",
@@ -9319,6 +9327,14 @@
             "related_to": "     Morocco   vs   Comoros"
         },
         {
+            "channel": "ORTB Benin",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10804 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Morocco   vs   Comoros"
+        },
+        {
             "channel": "ORTC Comoros",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "10845 H 30000 - 2/3",
@@ -9348,6 +9364,14 @@
             "freq": "10804 H 27500 - 2/3",
             "encry": "FTA",
             "link": "https://pokertvfa.live/",
+            "related_to": "     Morocco   vs   Comoros"
+        },
+        {
+            "channel": "RTB Burkina Faso",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "12437 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
             "related_to": "     Morocco   vs   Comoros"
         },
         {
