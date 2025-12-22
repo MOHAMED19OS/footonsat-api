@@ -2086,6 +2086,48 @@
         },
         {
             "compet": "NBA Regular Season",
+            "match": "     San Antonio Spurs   vs   Cleveland Cavaliers",
+            "flags": {
+                "team1": "assocnba",
+                "team2": "assocnba"
+            },
+            "time": "01:00",
+            "date": "2025-12-30"
+        },
+        {
+            "channel": "beIN Sports France 1 HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     San Antonio Spurs   vs   Cleveland Cavaliers"
+        },
+        {
+            "channel": "NBA League Pass ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     San Antonio Spurs   vs   Cleveland Cavaliers"
+        },
+        {
+            "channel": "Sky Sport 1 Deutsch HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "11914 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     San Antonio Spurs   vs   Cleveland Cavaliers"
+        },
+        {
+            "channel": "Sky Sport Top Event HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "11914 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     San Antonio Spurs   vs   Cleveland Cavaliers"
+        },
+        {
+            "compet": "NBA Regular Season",
             "match": "     Chicago Bulls   vs   Minnesota Timberwolves",
             "flags": {
                 "team1": "assocnba",
@@ -2158,40 +2200,6 @@
         },
         {
             "compet": "NBA Regular Season",
-            "match": "     San Antonio Spurs   vs   Cleveland Cavaliers",
-            "flags": {
-                "team1": "assocnba",
-                "team2": "assocnba"
-            },
-            "time": "01:00",
-            "date": "2025-12-30"
-        },
-        {
-            "channel": "NBA League Pass ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     San Antonio Spurs   vs   Cleveland Cavaliers"
-        },
-        {
-            "channel": "Sky Sport 1 Deutsch HD",
-            "sat": "Astra 1N 19.2\u00b0e",
-            "freq": "11914 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     San Antonio Spurs   vs   Cleveland Cavaliers"
-        },
-        {
-            "channel": "Sky Sport Top Event HD",
-            "sat": "Astra 1N 19.2\u00b0e",
-            "freq": "11914 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     San Antonio Spurs   vs   Cleveland Cavaliers"
-        },
-        {
-            "compet": "NBA Regular Season",
             "match": "     Portland Trail Blazers   vs   Dallas Mavericks",
             "flags": {
                 "team1": "assocnba",
@@ -2199,6 +2207,14 @@
             },
             "time": "03:30",
             "date": "2025-12-30"
+        },
+        {
+            "channel": "beIN Sports France 1 HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Portland Trail Blazers   vs   Dallas Mavericks"
         },
         {
             "channel": "NBA League Pass ($/geo/R)",
