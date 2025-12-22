@@ -1,6 +1,32 @@
 {
     "footonsat": [
         {
+            "compet": "T\u00fcrkiye S\u00fcper Lig - Week 17",
+            "match": "     Istanbul Basaksehir   vs   Gaziantep",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "14:00",
+            "date": "2025-12-22"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Istanbul Basaksehir   vs   Gaziantep"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye 1 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11180 H 30000 - 3/4",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Istanbul Basaksehir   vs   Gaziantep"
+        },
+        {
             "compet": "CAF African Cup of Nations - Group Stage: Round 1",
             "match": "     Mali   vs   Zambia",
             "flags": {
@@ -307,32 +333,6 @@
             "related_to": "     Mali   vs   Zambia"
         },
         {
-            "compet": "T\u00fcrkiye S\u00fcper Lig - Week 17",
-            "match": "     Istanbul Basaksehir   vs   Gaziantep",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "14:00",
-            "date": "2025-12-22"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Istanbul Basaksehir   vs   Gaziantep"
-        },
-        {
-            "channel": "beIN Sports T\u00fcrkiye 1 HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11180 H 30000 - 3/4",
-            "encry": "Irdeto",
-            "link": "#",
-            "related_to": "     Istanbul Basaksehir   vs   Gaziantep"
-        },
-        {
             "compet": "Azerbaijan Premier League - Week 16",
             "match": "     Sumqayit   vs   Sabah",
             "flags": {
@@ -398,6 +398,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://onefootball.com/en/matches",
+            "related_to": "     Tractor Sazi   vs   Al Duhail"
+        },
+        {
+            "channel": "Persiana Sports 2 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
             "related_to": "     Tractor Sazi   vs   Al Duhail"
         },
         {
@@ -587,288 +595,6 @@
             "encry": "HD Viaccess",
             "link": "#",
             "related_to": "     Panserraikos   vs   Levadiakos"
-        },
-        {
-            "compet": "CAF African Cup of Nations - Group Stage: Round 1",
-            "match": "     South Africa   vs   Angola",
-            "flags": {
-                "team1": "southafrica",
-                "team2": "angola"
-            },
-            "time": "17:00",
-            "date": "2025-12-22"
-        },
-        {
-            "channel": "4Seven",
-            "sat": "Astra 2E 28.2\u00b0e",
-            "freq": "10936 V 23000 - 3/4",
-            "encry": "FTA",
-            "link": "#",
-            "related_to": "     South Africa   vs   Angola"
-        },
-        {
-            "channel": "5 SPORT Israel [online]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.sport5.co.il/",
-            "related_to": "     South Africa   vs   Angola"
-        },
-        {
-            "channel": "Arena Premium 2 Srbija HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "#",
-            "related_to": "     South Africa   vs   Angola"
-        },
-        {
-            "channel": "Arryadia HD (RTM 3)",
-            "sat": "Eshail 1 25.5\u00b0e",
-            "freq": "11180 V 27500 - 3/4",
-            "encry": "FTA",
-            "link": "https://snrtlive.ma/fr/arryadia",
-            "related_to": "     South Africa   vs   Angola"
-        },
-        {
-            "channel": "beIN Connect USA",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://connect-us.beinsports.com/",
-            "related_to": "     South Africa   vs   Angola"
-        },
-        {
-            "channel": "beIN Sports 1 HD (Astro)",
-            "sat": "Measat 3b 91.5\u00b0e",
-            "freq": "11142 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     South Africa   vs   Angola"
-        },
-        {
-            "channel": "beIN Sports Australia 3 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     South Africa   vs   Angola"
-        },
-        {
-            "channel": "beIN Sports France 1 HD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11856 V 29700 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     South Africa   vs   Angola"
-        },
-        {
-            "channel": "beIN Sports MENA Max 1 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 V 27500 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     South Africa   vs   Angola"
-        },
-        {
-            "channel": "beIN Sports MENA Max 2 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10850 V 27500 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     South Africa   vs   Angola"
-        },
-        {
-            "channel": "beIN Sports MENA Max 3 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10850 H 27500 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     South Africa   vs   Angola"
-        },
-        {
-            "channel": "beIN Sports US Espa\u00f1ol",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     South Africa   vs   Angola"
-        },
-        {
-            "channel": "beIN Sports US HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     South Africa   vs   Angola"
-        },
-        {
-            "channel": "Channel 4 Streaming (ALL4)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.channel4.com/",
-            "related_to": "     South Africa   vs   Angola"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     South Africa   vs   Angola"
-        },
-        {
-            "channel": "DAZN Japan ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     South Africa   vs   Angola"
-        },
-        {
-            "channel": "EXXEN Digital T\u00fcrkiye [$]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.exxen.com/en",
-            "related_to": "     South Africa   vs   Angola"
-        },
-        {
-            "channel": "Fanatiz USA ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://fanatiz.com/",
-            "related_to": "     South Africa   vs   Angola"
-        },
-        {
-            "channel": "Fubo Sports USA ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.fubosportsnetwork.com/",
-            "related_to": "     South Africa   vs   Angola"
-        },
-        {
-            "channel": "M+ Liga de Campeones HD",
-            "sat": "Astra 1KR 19.2\u00b0e",
-            "freq": "11259 V 22000 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     South Africa   vs   Angola"
-        },
-        {
-            "channel": "MAX Sport 1 Bulgaria HD",
-            "sat": "AzerSpace 2 45.0\u00b0e",
-            "freq": "11475 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     South Africa   vs   Angola"
-        },
-        {
-            "channel": "Movistar Plus+ HD",
-            "sat": "Astra 1L 19.2\u00b0e",
-            "freq": "11097 V 22000 - 5/6",
-            "encry": "Seca",
-            "link": "#",
-            "related_to": "     South Africa   vs   Angola"
-        },
-        {
-            "channel": "SABC Sport HD",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "11514 V 28750 - 1/2",
-            "encry": "HD NagraVision",
-            "link": "https://www.sabcsport.com/tv/live/",
-            "related_to": "     South Africa   vs   Angola"
-        },
-        {
-            "channel": "Sport TV3 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     South Africa   vs   Angola"
-        },
-        {
-            "channel": "Sportdigital FUSSBALL HD",
-            "sat": "Astra 1L 19.2\u00b0e",
-            "freq": "11186 V 22000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     South Africa   vs   Angola"
-        },
-        {
-            "channel": "Sportitalia HD",
-            "sat": "Eutelsat 9B 9.0\u00b0e",
-            "freq": "12341 V 31400 - 5/6",
-            "encry": "FTA",
-            "link": "https://sportitalialive.it/sihd/",
-            "related_to": "     South Africa   vs   Angola"
-        },
-        {
-            "channel": "SportKlub 5 Slovenija",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     South Africa   vs   Angola"
-        },
-        {
-            "channel": "SuperSport Grandstand HD",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "11130 H 30000 - 5/6",
-            "encry": "Irdeto",
-            "link": "#",
-            "related_to": "     South Africa   vs   Angola"
-        },
-        {
-            "channel": "SuperSport M\u00e1Ximo 360",
-            "sat": "Express AMU1 36.1\u00b0e",
-            "freq": "12130 H 27500 - 2/3",
-            "encry": "Irdeto",
-            "link": "#",
-            "related_to": "     South Africa   vs   Angola"
-        },
-        {
-            "channel": "SuperSport PSL HD",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "11170 H 30000 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     South Africa   vs   Angola"
-        },
-        {
-            "channel": "VG+ Sport Norge ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.vgtv.no/live",
-            "related_to": "     South Africa   vs   Angola"
-        },
-        {
-            "channel": "YouTube: Channel 4 Sport",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.youtube.com/@Channel4Sport/streams",
-            "related_to": "     South Africa   vs   Angola"
-        },
-        {
-            "channel": "Ziggo Sport HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12129 V 29900 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     South Africa   vs   Angola"
-        },
-        {
-            "channel": "ZNBC TV 1",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "11130 H 30000 - 5/6",
-            "encry": "Irdeto",
-            "link": "#",
-            "related_to": "     South Africa   vs   Angola"
         },
         {
             "compet": "T\u00fcrkiye S\u00fcper Lig - Week 17",
@@ -1069,12 +795,310 @@
             "related_to": "     Bayer Leverkusen   vs   Bayern Munich"
         },
         {
+            "channel": "Persiana Sports 4 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Bayer Leverkusen   vs   Bayern Munich"
+        },
+        {
             "channel": "W-Sport HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "#",
             "related_to": "     Bayer Leverkusen   vs   Bayern Munich"
+        },
+        {
+            "compet": "CAF African Cup of Nations - Group Stage: Round 1",
+            "match": "     South Africa   vs   Angola",
+            "flags": {
+                "team1": "southafrica",
+                "team2": "angola"
+            },
+            "time": "17:00",
+            "date": "2025-12-22"
+        },
+        {
+            "channel": "4Seven",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "10936 V 23000 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     South Africa   vs   Angola"
+        },
+        {
+            "channel": "5 SPORT Israel [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.sport5.co.il/",
+            "related_to": "     South Africa   vs   Angola"
+        },
+        {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     South Africa   vs   Angola"
+        },
+        {
+            "channel": "Arryadia HD (RTM 3)",
+            "sat": "Eshail 1 25.5\u00b0e",
+            "freq": "11180 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "https://snrtlive.ma/fr/arryadia",
+            "related_to": "     South Africa   vs   Angola"
+        },
+        {
+            "channel": "beIN Connect USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://connect-us.beinsports.com/",
+            "related_to": "     South Africa   vs   Angola"
+        },
+        {
+            "channel": "beIN Sports 1 HD (Astro)",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "11142 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     South Africa   vs   Angola"
+        },
+        {
+            "channel": "beIN Sports Australia 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     South Africa   vs   Angola"
+        },
+        {
+            "channel": "beIN Sports France 1 HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     South Africa   vs   Angola"
+        },
+        {
+            "channel": "beIN Sports MENA Max 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     South Africa   vs   Angola"
+        },
+        {
+            "channel": "beIN Sports MENA Max 2 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     South Africa   vs   Angola"
+        },
+        {
+            "channel": "beIN Sports MENA Max 3 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     South Africa   vs   Angola"
+        },
+        {
+            "channel": "beIN Sports US Espa\u00f1ol",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     South Africa   vs   Angola"
+        },
+        {
+            "channel": "beIN Sports US HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     South Africa   vs   Angola"
+        },
+        {
+            "channel": "Channel 4 Streaming (ALL4)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.channel4.com/",
+            "related_to": "     South Africa   vs   Angola"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     South Africa   vs   Angola"
+        },
+        {
+            "channel": "DAZN Japan ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     South Africa   vs   Angola"
+        },
+        {
+            "channel": "EXXEN Digital T\u00fcrkiye [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.exxen.com/en",
+            "related_to": "     South Africa   vs   Angola"
+        },
+        {
+            "channel": "Fanatiz USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://fanatiz.com/",
+            "related_to": "     South Africa   vs   Angola"
+        },
+        {
+            "channel": "Fubo Sports USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.fubosportsnetwork.com/",
+            "related_to": "     South Africa   vs   Angola"
+        },
+        {
+            "channel": "M+ Liga de Campeones HD",
+            "sat": "Astra 1KR 19.2\u00b0e",
+            "freq": "11259 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     South Africa   vs   Angola"
+        },
+        {
+            "channel": "MAX Sport 1 Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "11475 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     South Africa   vs   Angola"
+        },
+        {
+            "channel": "Movistar Plus+ HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11097 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "#",
+            "related_to": "     South Africa   vs   Angola"
+        },
+        {
+            "channel": "Persiana Sports 3 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     South Africa   vs   Angola"
+        },
+        {
+            "channel": "SABC Sport HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11514 V 28750 - 1/2",
+            "encry": "HD NagraVision",
+            "link": "https://www.sabcsport.com/tv/live/",
+            "related_to": "     South Africa   vs   Angola"
+        },
+        {
+            "channel": "Sport TV3 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     South Africa   vs   Angola"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     South Africa   vs   Angola"
+        },
+        {
+            "channel": "Sportitalia HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12341 V 31400 - 5/6",
+            "encry": "FTA",
+            "link": "https://sportitalialive.it/sihd/",
+            "related_to": "     South Africa   vs   Angola"
+        },
+        {
+            "channel": "SportKlub 5 Slovenija",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     South Africa   vs   Angola"
+        },
+        {
+            "channel": "SuperSport Grandstand HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11130 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     South Africa   vs   Angola"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 360",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12130 H 27500 - 2/3",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     South Africa   vs   Angola"
+        },
+        {
+            "channel": "SuperSport PSL HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11170 H 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     South Africa   vs   Angola"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
+            "related_to": "     South Africa   vs   Angola"
+        },
+        {
+            "channel": "YouTube: Channel 4 Sport",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@Channel4Sport/streams",
+            "related_to": "     South Africa   vs   Angola"
+        },
+        {
+            "channel": "Ziggo Sport HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     South Africa   vs   Angola"
+        },
+        {
+            "channel": "ZNBC TV 1",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11130 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     South Africa   vs   Angola"
         },
         {
             "channel": "5 PLUS Israel HD",
@@ -1453,6 +1477,14 @@
             "related_to": "     Alverca   vs   FC Porto"
         },
         {
+            "channel": "Kuwait Sport HD",
+            "sat": "Badr 4 26.0\u00b0e",
+            "freq": "12523 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Alverca   vs   FC Porto"
+        },
+        {
             "channel": "Ring Bulgaria HD",
             "sat": "AzerSpace 2 45.0\u00b0e",
             "freq": "12600 V 30000 - 5/6",
@@ -1663,6 +1695,14 @@
             "related_to": "     Napoli   vs   Bologna"
         },
         {
+            "channel": "Persiana Sports 2 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
+            "related_to": "     Napoli   vs   Bologna"
+        },
+        {
             "channel": "Premier Sports 2 Ireland HD",
             "sat": "Astra 2F 28.2\u00b0e",
             "freq": "12188 H 27500 - 3/4",
@@ -1684,6 +1724,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": "     Napoli   vs   Bologna"
+        },
+        {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "     Napoli   vs   Bologna"
         },
         {
@@ -2077,6 +2125,14 @@
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "11804 V 29700 - 3/4",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Fulham   vs   Nottingham Forest"
+        },
+        {
+            "channel": "Persiana Sports 3 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Fulham   vs   Nottingham Forest"
         },
@@ -2957,6 +3013,14 @@
             "related_to": "     Egypt   vs   Zimbabwe"
         },
         {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Egypt   vs   Zimbabwe"
+        },
+        {
             "channel": "SABC Sport HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11514 V 28750 - 1/2",
@@ -3131,6 +3195,14 @@
             "sat": "Hotbird 13G 13.0\u00b0e",
             "freq": "11488 V 27500 - 3/4",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Benfica   vs   Famalic\u00e3o"
+        },
+        {
+            "channel": "Kuwait Sport HD",
+            "sat": "Badr 4 26.0\u00b0e",
+            "freq": "12523 H 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Benfica   vs   Famalic\u00e3o"
         },
