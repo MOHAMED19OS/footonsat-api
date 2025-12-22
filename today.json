@@ -187,6 +187,22 @@
             "related_to": "     Mali   vs   Zambia"
         },
         {
+            "channel": "ORTM 1 Mali",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12604 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Mali   vs   Zambia"
+        },
+        {
+            "channel": "ORTM 2 Mali",
+            "sat": "Intelsat 37e 18.0\u00b0w",
+            "freq": "4129 L 02060 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Mali   vs   Zambia"
+        },
+        {
             "channel": "SABC Sport HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11514 V 28750 - 1/2",
@@ -2313,296 +2329,6 @@
             "related_to": "     Fulham   vs   Nottingham Forest"
         },
         {
-            "compet": "CAF African Cup of Nations - Group Stage: Round 1",
-            "match": "     Egypt   vs   Zimbabwe",
-            "flags": {
-                "team1": "egypt",
-                "team2": "zimbabwe"
-            },
-            "time": "20:00",
-            "date": "2025-12-22"
-        },
-        {
-            "channel": "4Seven",
-            "sat": "Astra 2E 28.2\u00b0e",
-            "freq": "10936 V 23000 - 3/4",
-            "encry": "FTA",
-            "link": "#",
-            "related_to": "     Egypt   vs   Zimbabwe"
-        },
-        {
-            "channel": "5 LIVE Israel HD",
-            "sat": "Amos 7 4.0\u00b0w",
-            "freq": "11030 V 27500 - 3/4",
-            "encry": "VideoGuard",
-            "link": "#",
-            "related_to": "     Egypt   vs   Zimbabwe"
-        },
-        {
-            "channel": "Arena Sport 1 Srbija HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12460 H 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Egypt   vs   Zimbabwe"
-        },
-        {
-            "channel": "Arryadia HD (RTM 3)",
-            "sat": "Eshail 1 25.5\u00b0e",
-            "freq": "11180 V 27500 - 3/4",
-            "encry": "FTA",
-            "link": "https://snrtlive.ma/fr/arryadia",
-            "related_to": "     Egypt   vs   Zimbabwe"
-        },
-        {
-            "channel": "beIN Connect USA",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://connect-us.beinsports.com/",
-            "related_to": "     Egypt   vs   Zimbabwe"
-        },
-        {
-            "channel": "beIN Sports 2 HD (Astro)",
-            "sat": "Measat 3b 91.5\u00b0e",
-            "freq": "10732 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Egypt   vs   Zimbabwe"
-        },
-        {
-            "channel": "beIN Sports Australia 3 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Egypt   vs   Zimbabwe"
-        },
-        {
-            "channel": "beIN Sports France 1 HD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11856 V 29700 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Egypt   vs   Zimbabwe"
-        },
-        {
-            "channel": "beIN Sports MENA Max 1 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 V 27500 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Egypt   vs   Zimbabwe"
-        },
-        {
-            "channel": "beIN Sports MENA Max 2 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10850 V 27500 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Egypt   vs   Zimbabwe"
-        },
-        {
-            "channel": "beIN Sports MENA Max 3 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10850 H 27500 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Egypt   vs   Zimbabwe"
-        },
-        {
-            "channel": "beIN Sports US Espa\u00f1ol",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Egypt   vs   Zimbabwe"
-        },
-        {
-            "channel": "beIN Sports US HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Egypt   vs   Zimbabwe"
-        },
-        {
-            "channel": "Canal 2 International",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "21576 H 02420 - 3/4",
-            "encry": "MPEG-4 Conax",
-            "link": "#",
-            "related_to": "     Egypt   vs   Zimbabwe"
-        },
-        {
-            "channel": "Channel 4 Streaming (ALL4)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.channel4.com/",
-            "related_to": "     Egypt   vs   Zimbabwe"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Egypt   vs   Zimbabwe"
-        },
-        {
-            "channel": "DAZN Japan ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Egypt   vs   Zimbabwe"
-        },
-        {
-            "channel": "EXXEN Digital T\u00fcrkiye [$]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.exxen.com/en",
-            "related_to": "     Egypt   vs   Zimbabwe"
-        },
-        {
-            "channel": "Fanatiz USA ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://fanatiz.com/",
-            "related_to": "     Egypt   vs   Zimbabwe"
-        },
-        {
-            "channel": "Fubo Sports USA ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.fubosportsnetwork.com/",
-            "related_to": "     Egypt   vs   Zimbabwe"
-        },
-        {
-            "channel": "M+ Liga de Campeones HD",
-            "sat": "Astra 1KR 19.2\u00b0e",
-            "freq": "11259 V 22000 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Egypt   vs   Zimbabwe"
-        },
-        {
-            "channel": "MAX Sport 2 Bulgaria HD",
-            "sat": "AzerSpace 2 45.0\u00b0e",
-            "freq": "11475 V 30000 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Egypt   vs   Zimbabwe"
-        },
-        {
-            "channel": "ON Sport 1 HD",
-            "sat": "Eutelsat 7 West A 7.0\u00b0w",
-            "freq": "11862 V 27500 - 5/6",
-            "encry": "FTA",
-            "link": "#",
-            "related_to": "     Egypt   vs   Zimbabwe"
-        },
-        {
-            "channel": "SABC Sport HD",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "11514 V 28750 - 1/2",
-            "encry": "HD NagraVision",
-            "link": "https://www.sabcsport.com/tv/live/",
-            "related_to": "     Egypt   vs   Zimbabwe"
-        },
-        {
-            "channel": "Sport TV3 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Egypt   vs   Zimbabwe"
-        },
-        {
-            "channel": "Sportdigital FUSSBALL HD",
-            "sat": "Astra 1L 19.2\u00b0e",
-            "freq": "11186 V 22000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Egypt   vs   Zimbabwe"
-        },
-        {
-            "channel": "Sportitalia HD",
-            "sat": "Eutelsat 9B 9.0\u00b0e",
-            "freq": "12341 V 31400 - 5/6",
-            "encry": "FTA",
-            "link": "https://sportitalialive.it/sihd/",
-            "related_to": "     Egypt   vs   Zimbabwe"
-        },
-        {
-            "channel": "SportKlub 2 Slovenija",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11387 H 32000 - 3/4",
-            "encry": "MPEG-4 NDS",
-            "link": "#",
-            "related_to": "     Egypt   vs   Zimbabwe"
-        },
-        {
-            "channel": "SuperSport Grandstand HD",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "11130 H 30000 - 5/6",
-            "encry": "Irdeto",
-            "link": "#",
-            "related_to": "     Egypt   vs   Zimbabwe"
-        },
-        {
-            "channel": "SuperSport M\u00e1Ximo 360",
-            "sat": "Express AMU1 36.1\u00b0e",
-            "freq": "12130 H 27500 - 2/3",
-            "encry": "Irdeto",
-            "link": "#",
-            "related_to": "     Egypt   vs   Zimbabwe"
-        },
-        {
-            "channel": "SuperSport PSL HD",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "11170 H 30000 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Egypt   vs   Zimbabwe"
-        },
-        {
-            "channel": "VG+ Sport Norge ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.vgtv.no/live",
-            "related_to": "     Egypt   vs   Zimbabwe"
-        },
-        {
-            "channel": "YouTube: Channel 4 Sport",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.youtube.com/@Channel4Sport/streams",
-            "related_to": "     Egypt   vs   Zimbabwe"
-        },
-        {
-            "channel": "Ziggo Sport 2",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12129 V 29900 - 3/4",
-            "encry": "MPEG-4 Viaccess",
-            "link": "#",
-            "related_to": "     Egypt   vs   Zimbabwe"
-        },
-        {
-            "channel": "ZNBC TV 1",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "11130 H 30000 - 5/6",
-            "encry": "Irdeto",
-            "link": "#",
-            "related_to": "     Egypt   vs   Zimbabwe"
-        },
-        {
             "compet": "Spanish La Liga (Primera) - Week 17",
             "match": "     Athletic Bilbao   vs   Espanyol",
             "flags": {
@@ -3027,6 +2753,304 @@
             "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     Athletic Bilbao   vs   Espanyol"
+        },
+        {
+            "compet": "CAF African Cup of Nations - Group Stage: Round 1",
+            "match": "     Egypt   vs   Zimbabwe",
+            "flags": {
+                "team1": "egypt",
+                "team2": "zimbabwe"
+            },
+            "time": "20:00",
+            "date": "2025-12-22"
+        },
+        {
+            "channel": "4Seven",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "10936 V 23000 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Egypt   vs   Zimbabwe"
+        },
+        {
+            "channel": "5 LIVE Israel HD",
+            "sat": "Amos 7 4.0\u00b0w",
+            "freq": "11030 V 27500 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Egypt   vs   Zimbabwe"
+        },
+        {
+            "channel": "Arena Sport 1 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12460 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Egypt   vs   Zimbabwe"
+        },
+        {
+            "channel": "Arryadia HD (RTM 3)",
+            "sat": "Eshail 1 25.5\u00b0e",
+            "freq": "11180 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "https://snrtlive.ma/fr/arryadia",
+            "related_to": "     Egypt   vs   Zimbabwe"
+        },
+        {
+            "channel": "beIN Connect USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://connect-us.beinsports.com/",
+            "related_to": "     Egypt   vs   Zimbabwe"
+        },
+        {
+            "channel": "beIN Sports 2 HD (Astro)",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Egypt   vs   Zimbabwe"
+        },
+        {
+            "channel": "beIN Sports Australia 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Egypt   vs   Zimbabwe"
+        },
+        {
+            "channel": "beIN Sports France 1 HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Egypt   vs   Zimbabwe"
+        },
+        {
+            "channel": "beIN Sports MENA Max 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Egypt   vs   Zimbabwe"
+        },
+        {
+            "channel": "beIN Sports MENA Max 2 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Egypt   vs   Zimbabwe"
+        },
+        {
+            "channel": "beIN Sports MENA Max 3 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Egypt   vs   Zimbabwe"
+        },
+        {
+            "channel": "beIN Sports US Espa\u00f1ol",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Egypt   vs   Zimbabwe"
+        },
+        {
+            "channel": "beIN Sports US HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Egypt   vs   Zimbabwe"
+        },
+        {
+            "channel": "Canal 2 International",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "21576 H 02420 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Egypt   vs   Zimbabwe"
+        },
+        {
+            "channel": "Channel 4 Streaming (ALL4)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.channel4.com/",
+            "related_to": "     Egypt   vs   Zimbabwe"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Egypt   vs   Zimbabwe"
+        },
+        {
+            "channel": "DAZN Japan ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Egypt   vs   Zimbabwe"
+        },
+        {
+            "channel": "EXXEN Digital T\u00fcrkiye [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.exxen.com/en",
+            "related_to": "     Egypt   vs   Zimbabwe"
+        },
+        {
+            "channel": "Fanatiz USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://fanatiz.com/",
+            "related_to": "     Egypt   vs   Zimbabwe"
+        },
+        {
+            "channel": "Fubo Sports USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.fubosportsnetwork.com/",
+            "related_to": "     Egypt   vs   Zimbabwe"
+        },
+        {
+            "channel": "M+ Liga de Campeones HD",
+            "sat": "Astra 1KR 19.2\u00b0e",
+            "freq": "11259 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Egypt   vs   Zimbabwe"
+        },
+        {
+            "channel": "MAX Sport 2 Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "11475 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Egypt   vs   Zimbabwe"
+        },
+        {
+            "channel": "ON Sport 1 HD",
+            "sat": "Eutelsat 7 West A 7.0\u00b0w",
+            "freq": "11862 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Egypt   vs   Zimbabwe"
+        },
+        {
+            "channel": "ORTM 1 Mali",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12604 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Egypt   vs   Zimbabwe"
+        },
+        {
+            "channel": "SABC Sport HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11514 V 28750 - 1/2",
+            "encry": "HD NagraVision",
+            "link": "https://www.sabcsport.com/tv/live/",
+            "related_to": "     Egypt   vs   Zimbabwe"
+        },
+        {
+            "channel": "Sport TV3 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Egypt   vs   Zimbabwe"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Egypt   vs   Zimbabwe"
+        },
+        {
+            "channel": "Sportitalia HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12341 V 31400 - 5/6",
+            "encry": "FTA",
+            "link": "https://sportitalialive.it/sihd/",
+            "related_to": "     Egypt   vs   Zimbabwe"
+        },
+        {
+            "channel": "SportKlub 2 Slovenija",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11387 H 32000 - 3/4",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Egypt   vs   Zimbabwe"
+        },
+        {
+            "channel": "SuperSport Grandstand HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11130 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Egypt   vs   Zimbabwe"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 360",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12130 H 27500 - 2/3",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Egypt   vs   Zimbabwe"
+        },
+        {
+            "channel": "SuperSport PSL HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11170 H 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Egypt   vs   Zimbabwe"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
+            "related_to": "     Egypt   vs   Zimbabwe"
+        },
+        {
+            "channel": "YouTube: Channel 4 Sport",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@Channel4Sport/streams",
+            "related_to": "     Egypt   vs   Zimbabwe"
+        },
+        {
+            "channel": "Ziggo Sport 2",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "MPEG-4 Viaccess",
+            "link": "#",
+            "related_to": "     Egypt   vs   Zimbabwe"
+        },
+        {
+            "channel": "ZNBC TV 1",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11130 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Egypt   vs   Zimbabwe"
         },
         {
             "compet": "Portuguese Liga Portugal - Week 15",
