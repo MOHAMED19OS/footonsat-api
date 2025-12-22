@@ -35,6 +35,14 @@
             "related_to": "     Tractor Sazi   vs   Al Duhail"
         },
         {
+            "channel": "IRIB TV3 HD",
+            "sat": "Intelsat 39 62.0\u00b0e",
+            "freq": "11555 V 30000 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Tractor Sazi   vs   Al Duhail"
+        },
+        {
             "channel": "Nova Sport Bulgaria HD",
             "sat": "AzerSpace 2 45.0\u00b0e",
             "freq": "12560 V 30000 - 5/6",
@@ -173,6 +181,14 @@
             "related_to": "     Sharjah   vs   Al Hilal"
         },
         {
+            "channel": "IRIB Varzesh HD",
+            "sat": "Intelsat 39 62.0\u00b0e",
+            "freq": "11555 V 30000 - 2/3",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Sharjah   vs   Al Hilal"
+        },
+        {
             "channel": "OneFootball [app] ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -265,6 +281,14 @@
             "sat": "Eutelsat 36C 35.9\u00b0e",
             "freq": "11996 L 27500 - 3/4",
             "encry": "HD DRE-Crypt",
+            "link": "#",
+            "related_to": "     Sharjah   vs   Al Hilal"
+        },
+        {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
             "link": "#",
             "related_to": "     Sharjah   vs   Al Hilal"
         },
@@ -485,6 +509,14 @@
             "sat": "Eutelsat 36C 35.9\u00b0e",
             "freq": "11996 L 27500 - 3/4",
             "encry": "HD DRE-Crypt",
+            "link": "#",
+            "related_to": "     Al Gharafa   vs   Al Wahda"
+        },
+        {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
             "link": "#",
             "related_to": "     Al Gharafa   vs   Al Wahda"
         },
@@ -719,6 +751,14 @@
             "related_to": "     Al Sadd   vs   Shabab Al Ahli"
         },
         {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Al Sadd   vs   Shabab Al Ahli"
+        },
+        {
             "channel": "YouTube: The AFC Hub",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -833,54 +873,20 @@
             "related_to": "     Al Ittihad   vs   Nasaf Qarshi"
         },
         {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Al Ittihad   vs   Nasaf Qarshi"
+        },
+        {
             "channel": "YouTube: The AFC Hub",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.youtube.com/@TheAFCHub/streams",
             "related_to": "     Al Ittihad   vs   Nasaf Qarshi"
-        },
-        {
-            "compet": "AFC Champions League 2 - Round 6",
-            "match": "     FC Goa   vs   Istiqlol",
-            "flags": {
-                "team1": "india",
-                "team2": "tajikistan"
-            },
-            "time": "16:00",
-            "date": "2025-12-24"
-        },
-        {
-            "channel": "beIN Sports MENA 6 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     FC Goa   vs   Istiqlol"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     FC Goa   vs   Istiqlol"
-        },
-        {
-            "channel": "SportKlub 8 Hrvatska",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     FC Goa   vs   Istiqlol"
-        },
-        {
-            "channel": "YouTube: The AFC Hub",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "     FC Goa   vs   Istiqlol"
         },
         {
             "compet": "AFC Champions League 2 - Round 6",
@@ -1050,40 +1056,6 @@
         },
         {
             "compet": "AFC Champions League 2 - Round 6",
-            "match": "     Muharraq   vs   Esteghlal Tehran",
-            "flags": {
-                "team1": "bahrain",
-                "team2": "iran"
-            },
-            "time": "16:00",
-            "date": "2025-12-24"
-        },
-        {
-            "channel": "beIN Sports MENA 2 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Muharraq   vs   Esteghlal Tehran"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     Muharraq   vs   Esteghlal Tehran"
-        },
-        {
-            "channel": "YouTube: The AFC Hub",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "     Muharraq   vs   Esteghlal Tehran"
-        },
-        {
-            "compet": "AFC Champions League 2 - Round 6",
             "match": "     Al Nassr   vs   Al Zawra'a",
             "flags": {
                 "team1": "saudiarabia",
@@ -1163,6 +1135,82 @@
             "encry": "",
             "link": "https://www.youtube.com/@TheAFCHub/streams",
             "related_to": "     Al Nassr   vs   Al Zawra'a"
+        },
+        {
+            "compet": "AFC Champions League 2 - Round 6",
+            "match": "     FC Goa   vs   Istiqlol",
+            "flags": {
+                "team1": "india",
+                "team2": "tajikistan"
+            },
+            "time": "16:00",
+            "date": "2025-12-24"
+        },
+        {
+            "channel": "beIN Sports MENA 6 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     FC Goa   vs   Istiqlol"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     FC Goa   vs   Istiqlol"
+        },
+        {
+            "channel": "SportKlub 8 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     FC Goa   vs   Istiqlol"
+        },
+        {
+            "channel": "YouTube: The AFC Hub",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.youtube.com/@TheAFCHub/streams",
+            "related_to": "     FC Goa   vs   Istiqlol"
+        },
+        {
+            "compet": "AFC Champions League 2 - Round 6",
+            "match": "     Muharraq   vs   Esteghlal Tehran",
+            "flags": {
+                "team1": "bahrain",
+                "team2": "iran"
+            },
+            "time": "16:00",
+            "date": "2025-12-24"
+        },
+        {
+            "channel": "beIN Sports MENA 2 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Muharraq   vs   Esteghlal Tehran"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     Muharraq   vs   Esteghlal Tehran"
+        },
+        {
+            "channel": "YouTube: The AFC Hub",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.youtube.com/@TheAFCHub/streams",
+            "related_to": "     Muharraq   vs   Esteghlal Tehran"
         }
     ]
 }
