@@ -1053,7 +1053,7 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
-            "link": "https://www.mtv.fi/urheilu",
+            "link": "https://kauppa.telia.fi/kauppa/mtv-katsomo",
             "related_to": "     Udinese   vs   Lazio"
         },
         {
@@ -1861,6 +1861,14 @@
             "related_to": "     AC Milan   vs   Hellas Verona"
         },
         {
+            "channel": "Ziggo Sport 2",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     AC Milan   vs   Hellas Verona"
+        },
+        {
             "compet": "Italian Serie A - Week 17",
             "match": "     Cremonese   vs   Napoli",
             "flags": {
@@ -2164,6 +2172,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.vgtv.no/live",
+            "related_to": "     Cremonese   vs   Napoli"
+        },
+        {
+            "channel": "Ziggo Sport 2",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
             "related_to": "     Cremonese   vs   Napoli"
         },
         {
@@ -2481,6 +2497,14 @@
             "related_to": "     Bologna   vs   Sassuolo"
         },
         {
+            "channel": "Ziggo Sport 2",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Bologna   vs   Sassuolo"
+        },
+        {
             "compet": "Italian Serie A - Week 17",
             "match": "     Atalanta   vs   Inter Milan",
             "flags": {
@@ -2787,6 +2811,14 @@
             "related_to": "     Atalanta   vs   Inter Milan"
         },
         {
+            "channel": "Ziggo Sport 2",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Atalanta   vs   Inter Milan"
+        },
+        {
             "compet": "Italian Serie A - Week 17",
             "match": "     Roma   vs   Genoa",
             "flags": {
@@ -3034,6 +3066,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.vgtv.no/live",
+            "related_to": "     Roma   vs   Genoa"
+        },
+        {
+            "channel": "Ziggo Sport 3",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
             "related_to": "     Roma   vs   Genoa"
         },
         {
