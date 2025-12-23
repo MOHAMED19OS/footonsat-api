@@ -2319,6 +2319,14 @@
             "related_to": "     Cremonese   vs   Napoli"
         },
         {
+            "channel": "Sport 2 Israel HD",
+            "sat": "Amos 3 4.0\u00b0w",
+            "freq": "10972 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Cremonese   vs   Napoli"
+        },
+        {
             "channel": "Sport TV3 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
@@ -2689,6 +2697,14 @@
             "related_to": "     Bologna   vs   Sassuolo"
         },
         {
+            "channel": "Sport 2 Israel HD",
+            "sat": "Amos 3 4.0\u00b0w",
+            "freq": "10972 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Bologna   vs   Sassuolo"
+        },
+        {
             "channel": "Sport TV3 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
@@ -3031,6 +3047,14 @@
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12012 V 29900 - 3/4",
             "encry": "HD CryptoWorks",
+            "link": "#",
+            "related_to": "     Atalanta   vs   Inter Milan"
+        },
+        {
+            "channel": "Sport 2 Israel HD",
+            "sat": "Amos 3 4.0\u00b0w",
+            "freq": "10972 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Atalanta   vs   Inter Milan"
         },
@@ -7430,6 +7454,48 @@
         },
         {
             "compet": "Italian Serie A - Week 23",
+            "match": "     Napoli   vs   Fiorentina",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "14:00",
+            "date": "2025-02-01"
+        },
+        {
+            "channel": "DAZN Great Britain (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "     Napoli   vs   Fiorentina"
+        },
+        {
+            "channel": "DAZN Ireland ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "     Napoli   vs   Fiorentina"
+        },
+        {
+            "channel": "TNT Sports 1 HD",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "3798 R 19167 - 3/5",
+            "encry": "Irdeto [c]",
+            "link": "#",
+            "related_to": "     Napoli   vs   Fiorentina"
+        },
+        {
+            "channel": "TNT Sports 4 HD",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11582 H 23000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Napoli   vs   Fiorentina"
+        },
+        {
+            "compet": "Italian Serie A - Week 23",
             "match": "     Como   vs   Atalanta",
             "flags": {
                 "team1": "italy",
@@ -7479,48 +7545,6 @@
             "encry": "",
             "link": "https://www.dazn.com/en-IE/home",
             "related_to": "     Cremonese   vs   Inter Milan"
-        },
-        {
-            "compet": "Italian Serie A - Week 23",
-            "match": "     Napoli   vs   Fiorentina",
-            "flags": {
-                "team1": "italy",
-                "team2": "italy"
-            },
-            "time": "14:00",
-            "date": "2025-02-01"
-        },
-        {
-            "channel": "DAZN Great Britain (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": "     Napoli   vs   Fiorentina"
-        },
-        {
-            "channel": "DAZN Ireland ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.dazn.com/en-IE/home",
-            "related_to": "     Napoli   vs   Fiorentina"
-        },
-        {
-            "channel": "TNT Sports 1 HD",
-            "sat": "NSS 12 57.0\u00b0e",
-            "freq": "3798 R 19167 - 3/5",
-            "encry": "Irdeto [c]",
-            "link": "#",
-            "related_to": "     Napoli   vs   Fiorentina"
-        },
-        {
-            "channel": "TNT Sports 4 HD",
-            "sat": "Astra 2G 28.2\u00b0e",
-            "freq": "11582 H 23000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Napoli   vs   Fiorentina"
         },
         {
             "compet": "Italian Serie A - Week 23",
