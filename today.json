@@ -649,6 +649,48 @@
             "related_to": "     Racing Genk   vs   Club Brugge"
         },
         {
+            "compet": "English National League South - South - 23",
+            "match": "     Maidstone United   vs   Dover Athletic",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "13:00",
+            "date": "2025-12-26"
+        },
+        {
+            "channel": "DAZN Espa\u00f1a ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Maidstone United   vs   Dover Athletic"
+        },
+        {
+            "channel": "DAZN Great Britain (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "     Maidstone United   vs   Dover Athletic"
+        },
+        {
+            "channel": "DAZN Ireland ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "     Maidstone United   vs   Dover Athletic"
+        },
+        {
+            "channel": "DAZN Italia ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Maidstone United   vs   Dover Athletic"
+        },
+        {
             "compet": "English Championship - Week 23",
             "match": "     Millwall   vs   Ipswich Town",
             "flags": {
@@ -697,48 +739,6 @@
             "encry": "VideoGuard",
             "link": "#",
             "related_to": "     Millwall   vs   Ipswich Town"
-        },
-        {
-            "compet": "English National League South - South - 23",
-            "match": "     Maidstone United   vs   Dover Athletic",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "13:00",
-            "date": "2025-12-26"
-        },
-        {
-            "channel": "DAZN Espa\u00f1a ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Maidstone United   vs   Dover Athletic"
-        },
-        {
-            "channel": "DAZN Great Britain (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": "     Maidstone United   vs   Dover Athletic"
-        },
-        {
-            "channel": "DAZN Ireland ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.dazn.com/en-IE/home",
-            "related_to": "     Maidstone United   vs   Dover Athletic"
-        },
-        {
-            "channel": "DAZN Italia ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Maidstone United   vs   Dover Athletic"
         },
         {
             "compet": "Saudi Professional League - Week 11",
@@ -1023,6 +1023,22 @@
             "related_to": "     Egypt   vs   South Africa"
         },
         {
+            "channel": "Arryadia TNT HD",
+            "sat": "Eshail 1 25.5\u00b0e",
+            "freq": "11180 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Egypt   vs   South Africa"
+        },
+        {
+            "channel": "Band Sports Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "11680 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Egypt   vs   South Africa"
+        },
+        {
             "channel": "beIN Connect USA",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1119,6 +1135,14 @@
             "related_to": "     Egypt   vs   South Africa"
         },
         {
+            "channel": "CRTV Sports Cameroon",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12610 H 12500 - 3/4",
+            "encry": "HEVC SD Nagravision",
+            "link": "#",
+            "related_to": "     Egypt   vs   South Africa"
+        },
+        {
             "channel": "DAZN Deutsch ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1131,6 +1155,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Egypt   vs   South Africa"
+        },
+        {
+            "channel": "ERT 2 Sport Hellas HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12223 H 13381 - 3/4",
+            "encry": "MPEG-4 Biss",
             "link": "#",
             "related_to": "     Egypt   vs   South Africa"
         },
@@ -1159,10 +1191,42 @@
             "related_to": "     Egypt   vs   South Africa"
         },
         {
+            "channel": "Gabon 1\u00e8re",
+            "sat": "SES 5 5.0\u00b0e",
+            "freq": "11766 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "https://www.groupegabontelevisions.net/live",
+            "related_to": "     Egypt   vs   South Africa"
+        },
+        {
+            "channel": "IRIB Varzesh HD",
+            "sat": "Intelsat 39 62.0\u00b0e",
+            "freq": "11555 V 30000 - 2/3",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Egypt   vs   South Africa"
+        },
+        {
+            "channel": "La Nouvelle Cha\u00eene Ivorienne",
+            "sat": "SES 5 5.0\u00b0e",
+            "freq": "12303 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "https://www.nci.ci/",
+            "related_to": "     Egypt   vs   South Africa"
+        },
+        {
             "channel": "M+ Liga de Campeones HD",
             "sat": "Astra 1KR 19.2\u00b0e",
             "freq": "11259 V 22000 - 2/3",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Egypt   vs   South Africa"
+        },
+        {
+            "channel": "MAX Sport 4 Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "11475 V 30000 - 5/6",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Egypt   vs   South Africa"
         },
@@ -1175,10 +1239,66 @@
             "related_to": "     Egypt   vs   South Africa"
         },
         {
+            "channel": "ORTM 1 Mali",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12604 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Egypt   vs   South Africa"
+        },
+        {
+            "channel": "RTB Burkina Faso",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "12437 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Egypt   vs   South Africa"
+        },
+        {
+            "channel": "RTG Guinea",
+            "sat": "SES 5 5.0\u00b0e",
+            "freq": "11766 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Egypt   vs   South Africa"
+        },
+        {
+            "channel": "RTi La 3 C\u00f4te d\u2019Ivoire",
+            "sat": "SES 5 5.0\u00b0e",
+            "freq": "12341 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Egypt   vs   South Africa"
+        },
+        {
+            "channel": "RTNC Congo DR",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "11387 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Egypt   vs   South Africa"
+        },
+        {
+            "channel": "RTS 2 Senegal HD",
+            "sat": "Amos 17 17.0\u00b0e",
+            "freq": "11968 V 34030 - 5/6",
+            "encry": "HD Conax",
+            "link": "https://live.rts.sn/livetv/rts2",
+            "related_to": "     Egypt   vs   South Africa"
+        },
+        {
             "channel": "Sport TV1 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Egypt   vs   South Africa"
+        },
+        {
+            "channel": "Sport+ Qazaqstan",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "10720 H 30000 - 3/4",
+            "encry": "MPEG-4 NDS",
             "link": "#",
             "related_to": "     Egypt   vs   South Africa"
         },
@@ -1227,6 +1347,22 @@
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11170 H 30000 - 5/6",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Egypt   vs   South Africa"
+        },
+        {
+            "channel": "TV Miramar Mozambique",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "12245 H 27500 3/4",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Egypt   vs   South Africa"
+        },
+        {
+            "channel": "T\u00e9l\u00e9 Tchad",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12687 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     Egypt   vs   South Africa"
         },
@@ -3395,6 +3531,14 @@
             "related_to": "     Zambia   vs   Comoros"
         },
         {
+            "channel": "Band Sports Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "11680 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Zambia   vs   Comoros"
+        },
+        {
             "channel": "beIN Connect USA",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -3491,6 +3635,14 @@
             "related_to": "     Zambia   vs   Comoros"
         },
         {
+            "channel": "ERT 2 Sport Hellas HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12223 H 13381 - 3/4",
+            "encry": "MPEG-4 Biss",
+            "link": "#",
+            "related_to": "     Zambia   vs   Comoros"
+        },
+        {
             "channel": "EXXEN Digital T\u00fcrkiye [$]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -3515,6 +3667,14 @@
             "related_to": "     Zambia   vs   Comoros"
         },
         {
+            "channel": "La Nouvelle Cha\u00eene Ivorienne",
+            "sat": "SES 5 5.0\u00b0e",
+            "freq": "12303 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "https://www.nci.ci/",
+            "related_to": "     Zambia   vs   Comoros"
+        },
+        {
             "channel": "M+ Liga de Campeones HD",
             "sat": "Astra 1KR 19.2\u00b0e",
             "freq": "11259 V 22000 - 2/3",
@@ -3531,10 +3691,26 @@
             "related_to": "     Zambia   vs   Comoros"
         },
         {
+            "channel": "ORTC Comoros",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 2/3",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Zambia   vs   Comoros"
+        },
+        {
             "channel": "Sport TV1 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Zambia   vs   Comoros"
+        },
+        {
+            "channel": "Sport+ Qazaqstan",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "10720 H 30000 - 3/4",
+            "encry": "MPEG-4 NDS",
             "link": "#",
             "related_to": "     Zambia   vs   Comoros"
         },
@@ -3591,6 +3767,14 @@
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12129 V 29900 - 3/4",
             "encry": "MPEG-4 Seca",
+            "link": "#",
+            "related_to": "     Zambia   vs   Comoros"
+        },
+        {
+            "channel": "ZNBC TV 1",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11130 H 30000 - 5/6",
+            "encry": "Irdeto",
             "link": "#",
             "related_to": "     Zambia   vs   Comoros"
         },
@@ -3817,6 +4001,424 @@
             "related_to": "     Anderlecht   vs   Sporting Charleroi"
         },
         {
+            "compet": "CAF African Cup of Nations - Group Stage: Round 2",
+            "match": "     Morocco   vs   Mali",
+            "flags": {
+                "team1": "morocco",
+                "team2": "mali"
+            },
+            "time": "20:00",
+            "date": "2025-12-26"
+        },
+        {
+            "channel": "4Seven",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "10936 V 23000 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "5 SPORT Israel HD",
+            "sat": "Amos 3 4.0\u00b0w",
+            "freq": "10806 V 27500 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "Arena Premium 3 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12422 H 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "Arryadia TNT HD",
+            "sat": "Eshail 1 25.5\u00b0e",
+            "freq": "11180 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "Band Sports Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "11680 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "beIN Connect USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://connect-us.beinsports.com/",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "beIN Sports 1 HD (Astro)",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10812 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "beIN Sports Australia 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "beIN Sports France 1 HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "beIN Sports MENA Max 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "beIN Sports MENA Max 2 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "beIN Sports MENA Max 3 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "beIN Sports MENA Max 4 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "beIN Sports US Espa\u00f1ol",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "beIN Sports US HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "Canal 2 International",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "21576 H 02420 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "Channel 4 Streaming (ALL4)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.channel4.com/",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "CRTV Sports Cameroon",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12610 H 12500 - 3/4",
+            "encry": "HEVC SD Nagravision",
+            "link": "#",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "DAZN Japan ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "ERT 2 Sport Hellas HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12223 H 13381 - 3/4",
+            "encry": "MPEG-4 Biss",
+            "link": "#",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "EXXEN Digital T\u00fcrkiye [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.exxen.com/en",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "Fanatiz USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://fanatiz.com/",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "Fubo Sports USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.fubosportsnetwork.com/",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "Gabon 1\u00e8re",
+            "sat": "SES 5 5.0\u00b0e",
+            "freq": "11766 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "https://www.groupegabontelevisions.net/live",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "IRIB Varzesh HD",
+            "sat": "Intelsat 39 62.0\u00b0e",
+            "freq": "11555 V 30000 - 2/3",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "La Nouvelle Cha\u00eene Ivorienne",
+            "sat": "SES 5 5.0\u00b0e",
+            "freq": "12303 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "https://www.nci.ci/",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "M+ #Vamos Bar",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "10876 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "M+ Liga de Campeones HD",
+            "sat": "Astra 1KR 19.2\u00b0e",
+            "freq": "11259 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "M+ Vamos Espa\u00f1a HD",
+            "sat": "Astra 1P 19.2\u00b0e",
+            "freq": "10818 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "MAX Sport 4 Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "11475 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "Megogo Futbol 1 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "Movistar Plus+ HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11097 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "#",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "ORTM 1 Mali",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12604 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "ORTM 2 Mali",
+            "sat": "Intelsat 37e 18.0\u00b0w",
+            "freq": "4129 L 02060 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "RTB Burkina Faso",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "12437 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "RTG Guinea",
+            "sat": "SES 5 5.0\u00b0e",
+            "freq": "11766 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "RTi La 3 C\u00f4te d\u2019Ivoire",
+            "sat": "SES 5 5.0\u00b0e",
+            "freq": "12341 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "RTNC Congo DR",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "11387 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "RTS 1 Senegal HD",
+            "sat": "AsiaSat 5 100.5\u00b0e",
+            "freq": "4080 H 30000 - 5/6",
+            "encry": "MPEG-4 Conax",
+            "link": "https://live.rts.sn/livetv/rts1",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "RTS 2 Senegal HD",
+            "sat": "Amos 17 17.0\u00b0e",
+            "freq": "11968 V 34030 - 5/6",
+            "encry": "HD Conax",
+            "link": "https://live.rts.sn/livetv/rts2",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "Sport+ Qazaqstan",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "10720 H 30000 - 3/4",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "Sportitalia HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12341 V 31400 - 5/6",
+            "encry": "FTA",
+            "link": "https://sportitalialive.it/sihd/",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "SportKlub 2 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 360",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12130 H 27500 - 2/3",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "SuperSport PSL HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11170 H 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "T\u00e9l\u00e9 Tchad",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12687 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "YouTube: Channel 4 Sport",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@Channel4Sport/streams",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "Ziggo Sport HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
             "compet": "English Premier League - Week 18",
             "match": "     Manchester United   vs   Newcastle United",
             "flags": {
@@ -3887,7 +4489,7 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor",
+            "link": "https://www.beinconnect.com.tr/spor/",
             "related_to": "     Manchester United   vs   Newcastle United"
         },
         {
@@ -4313,280 +4915,6 @@
             "encry": "",
             "link": "https://voyo.protv.ro/premier-league",
             "related_to": "     Manchester United   vs   Newcastle United"
-        },
-        {
-            "compet": "CAF African Cup of Nations - Group Stage: Round 2",
-            "match": "     Morocco   vs   Mali",
-            "flags": {
-                "team1": "morocco",
-                "team2": "mali"
-            },
-            "time": "20:00",
-            "date": "2025-12-26"
-        },
-        {
-            "channel": "4Seven",
-            "sat": "Astra 2E 28.2\u00b0e",
-            "freq": "10936 V 23000 - 3/4",
-            "encry": "FTA",
-            "link": "#",
-            "related_to": "     Morocco   vs   Mali"
-        },
-        {
-            "channel": "5 SPORT Israel HD",
-            "sat": "Amos 3 4.0\u00b0w",
-            "freq": "10806 V 27500 - 3/4",
-            "encry": "VideoGuard",
-            "link": "#",
-            "related_to": "     Morocco   vs   Mali"
-        },
-        {
-            "channel": "Arena Premium 3 Srbija HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12422 H 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "#",
-            "related_to": "     Morocco   vs   Mali"
-        },
-        {
-            "channel": "beIN Connect USA",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://connect-us.beinsports.com/",
-            "related_to": "     Morocco   vs   Mali"
-        },
-        {
-            "channel": "beIN Sports 1 HD (Astro)",
-            "sat": "Measat 3b 91.5\u00b0e",
-            "freq": "10812 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Morocco   vs   Mali"
-        },
-        {
-            "channel": "beIN Sports Australia 3 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Morocco   vs   Mali"
-        },
-        {
-            "channel": "beIN Sports France 1 HD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11856 V 29700 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Morocco   vs   Mali"
-        },
-        {
-            "channel": "beIN Sports MENA Max 1 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Morocco   vs   Mali"
-        },
-        {
-            "channel": "beIN Sports MENA Max 2 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10850 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Morocco   vs   Mali"
-        },
-        {
-            "channel": "beIN Sports MENA Max 3 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10850 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Morocco   vs   Mali"
-        },
-        {
-            "channel": "beIN Sports MENA Max 4 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10850 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Morocco   vs   Mali"
-        },
-        {
-            "channel": "beIN Sports US Espa\u00f1ol",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Morocco   vs   Mali"
-        },
-        {
-            "channel": "beIN Sports US HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Morocco   vs   Mali"
-        },
-        {
-            "channel": "Canal 2 International",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "21576 H 02420 - 3/4",
-            "encry": "MPEG-4 Conax",
-            "link": "#",
-            "related_to": "     Morocco   vs   Mali"
-        },
-        {
-            "channel": "Channel 4 Streaming (ALL4)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.channel4.com/",
-            "related_to": "     Morocco   vs   Mali"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Morocco   vs   Mali"
-        },
-        {
-            "channel": "DAZN Japan ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Morocco   vs   Mali"
-        },
-        {
-            "channel": "EXXEN Digital T\u00fcrkiye [$]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.exxen.com/en",
-            "related_to": "     Morocco   vs   Mali"
-        },
-        {
-            "channel": "Fanatiz USA ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://fanatiz.com/",
-            "related_to": "     Morocco   vs   Mali"
-        },
-        {
-            "channel": "Fubo Sports USA ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.fubosportsnetwork.com/",
-            "related_to": "     Morocco   vs   Mali"
-        },
-        {
-            "channel": "M+ #Vamos Bar",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "10876 V 22000 - 5/6",
-            "encry": "NagraVision",
-            "link": "#",
-            "related_to": "     Morocco   vs   Mali"
-        },
-        {
-            "channel": "M+ Liga de Campeones HD",
-            "sat": "Astra 1KR 19.2\u00b0e",
-            "freq": "11259 V 22000 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Morocco   vs   Mali"
-        },
-        {
-            "channel": "M+ Vamos Espa\u00f1a HD",
-            "sat": "Astra 1P 19.2\u00b0e",
-            "freq": "10818 V 22000 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Morocco   vs   Mali"
-        },
-        {
-            "channel": "Megogo Futbol 1 ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
-            "related_to": "     Morocco   vs   Mali"
-        },
-        {
-            "channel": "Movistar Plus+ HD",
-            "sat": "Astra 1L 19.2\u00b0e",
-            "freq": "11097 V 22000 - 5/6",
-            "encry": "Seca",
-            "link": "#",
-            "related_to": "     Morocco   vs   Mali"
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Morocco   vs   Mali"
-        },
-        {
-            "channel": "Sportdigital FUSSBALL HD",
-            "sat": "Astra 1L 19.2\u00b0e",
-            "freq": "11186 V 22000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Morocco   vs   Mali"
-        },
-        {
-            "channel": "Sportitalia HD",
-            "sat": "Eutelsat 9B 9.0\u00b0e",
-            "freq": "12341 V 31400 - 5/6",
-            "encry": "FTA",
-            "link": "https://sportitalialive.it/sihd/",
-            "related_to": "     Morocco   vs   Mali"
-        },
-        {
-            "channel": "SportKlub 2 Hrvatska",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Morocco   vs   Mali"
-        },
-        {
-            "channel": "SuperSport M\u00e1Ximo 360",
-            "sat": "Express AMU1 36.1\u00b0e",
-            "freq": "12130 H 27500 - 2/3",
-            "encry": "Irdeto",
-            "link": "#",
-            "related_to": "     Morocco   vs   Mali"
-        },
-        {
-            "channel": "SuperSport PSL HD",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "11170 H 30000 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Morocco   vs   Mali"
-        },
-        {
-            "channel": "YouTube: Channel 4 Sport",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.youtube.com/@Channel4Sport/streams",
-            "related_to": "     Morocco   vs   Mali"
-        },
-        {
-            "channel": "Ziggo Sport HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12129 V 29900 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Morocco   vs   Mali"
         }
     ]
 }
