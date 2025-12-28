@@ -11,6 +11,14 @@
             "date": "2025-12-29"
         },
         {
+            "channel": "Arena Premium 1 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Coventry City   vs   Ipswich Town"
+        },
+        {
             "channel": "Arena Premium 2 Srbija HD",
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12402 V 30000 - 3/4",
@@ -103,6 +111,14 @@
             "sat": "KazSat 3 58.5\u00b0e",
             "freq": "12657 V 45000 - 3/4",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Coventry City   vs   Ipswich Town"
+        },
+        {
+            "channel": "Setanta Sports Ukraine HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "12207 V 30000 - 2/3",
+            "encry": "HD Verimatrix",
             "link": "#",
             "related_to": "     Coventry City   vs   Ipswich Town"
         },
@@ -285,6 +301,14 @@
             },
             "time": "19:45",
             "date": "2025-12-29"
+        },
+        {
+            "channel": "Arena Premium 3 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Wrexham   vs   Preston N.E."
         },
         {
             "channel": "Arena Sport 2 Srbija HD",
@@ -509,6 +533,14 @@
             },
             "time": "20:15",
             "date": "2025-12-29"
+        },
+        {
+            "channel": "Arena Premium 1 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Birmingham City   vs   Southampton"
         },
         {
             "channel": "Arena Premium 2 Srbija HD",
@@ -1425,6 +1457,14 @@
             "related_to": "     Birmingham City   vs   Coventry City"
         },
         {
+            "channel": "Sport TV3 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Birmingham City   vs   Coventry City"
+        },
+        {
             "channel": "STV Player (geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1715,6 +1755,14 @@
             "sat": "Astra 2F 28.2\u00b0e",
             "freq": "12246 V 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Leicester City   vs   West Bromwich Albion"
+        },
+        {
+            "channel": "Sport TV3 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Leicester City   vs   West Bromwich Albion"
         },
@@ -2734,32 +2782,6 @@
         },
         {
             "compet": "English Championship - Week 35",
-            "match": "     Leicester City   vs   Norwich City",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "12:30",
-            "date": "2025-02-28"
-        },
-        {
-            "channel": "Sky Go UK [online]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Leicester City   vs   Norwich City"
-        },
-        {
-            "channel": "Sky Sports Football HD",
-            "sat": "Astra 2E 28.2\u00b0e",
-            "freq": "12012 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Leicester City   vs   Norwich City"
-        },
-        {
-            "compet": "English Championship - Week 35",
             "match": "     Portsmouth   vs   Hull City",
             "flags": {
                 "team1": "england",
@@ -2783,6 +2805,32 @@
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Portsmouth   vs   Hull City"
+        },
+        {
+            "compet": "English Championship - Week 35",
+            "match": "     Leicester City   vs   Norwich City",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "12:30",
+            "date": "2025-02-28"
+        },
+        {
+            "channel": "Sky Go UK [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Leicester City   vs   Norwich City"
+        },
+        {
+            "channel": "Sky Sports Football HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "12012 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Leicester City   vs   Norwich City"
         },
         {
             "compet": "English Championship - Week 35",
