@@ -599,6 +599,14 @@
             "related_to": "     Coventry City   vs   Ipswich Town"
         },
         {
+            "channel": "Astro Football HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10932 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Coventry City   vs   Ipswich Town"
+        },
+        {
             "channel": "beIN Sports MENA 1 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 H 27500 - 2/3",
@@ -857,6 +865,14 @@
             "related_to": "     Zambia   vs   Morocco"
         },
         {
+            "channel": "beIN Sports 1 HD (Astro)",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10812 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Zambia   vs   Morocco"
+        },
+        {
             "channel": "beIN Sports MENA Max 1 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 V 27500 - 2/3",
@@ -1032,6 +1048,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://connect-us.beinsports.com/",
+            "related_to": "     Comoros   vs   Mali"
+        },
+        {
+            "channel": "beIN Sports 3 HD (Astro)",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
             "related_to": "     Comoros   vs   Mali"
         },
         {
@@ -1247,9 +1271,9 @@
             "related_to": "     Roma   vs   Genoa"
         },
         {
-            "channel": "Astro Football HD",
+            "channel": "Astro Arena Bola HD",
             "sat": "Measat 3b 91.5\u00b0e",
-            "freq": "10932 V 30000 - 5/6",
+            "freq": "10772 V 30000 - 5/6",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Roma   vs   Genoa"
@@ -1343,6 +1367,14 @@
             "related_to": "     Roma   vs   Genoa"
         },
         {
+            "channel": "Eleven Sports 1 Polska HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11488 H 27500 - 3/4",
+            "encry": "HD Mediaguard",
+            "link": "#",
+            "related_to": "     Roma   vs   Genoa"
+        },
+        {
             "channel": "Fast Sports [online] ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -1403,6 +1435,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Roma   vs   Genoa"
+        },
+        {
+            "channel": "Polsat Sport 3 HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "12284 H 27500 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Roma   vs   Genoa"
         },
@@ -1849,6 +1889,74 @@
             "encry": "",
             "link": "#",
             "related_to": "     Tranmere Rovers   vs   Barrow"
+        },
+        {
+            "compet": "English League Two - Week 23",
+            "match": "     Milton Keynes Dons   vs   Notts County",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:45",
+            "date": "2025-12-29"
+        },
+        {
+            "channel": "EFL iFollow ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Milton Keynes Dons   vs   Notts County"
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Milton Keynes Dons   vs   Notts County"
+        },
+        {
+            "channel": "Pies Player ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.nottscountyfc.co.uk/videos",
+            "related_to": "     Milton Keynes Dons   vs   Notts County"
+        },
+        {
+            "compet": "English League One - Week 23",
+            "match": "     Cardiff City   vs   Stevenage",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:45",
+            "date": "2025-12-29"
+        },
+        {
+            "channel": "Cardiff City TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.cardiffcityfc.co.uk/video/live",
+            "related_to": "     Cardiff City   vs   Stevenage"
+        },
+        {
+            "channel": "EFL iFollow ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Cardiff City   vs   Stevenage"
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Cardiff City   vs   Stevenage"
         },
         {
             "compet": "English Championship - Week 24",
