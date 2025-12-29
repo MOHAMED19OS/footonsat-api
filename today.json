@@ -341,6 +341,14 @@
             "related_to": "     Angola   vs   Egypt"
         },
         {
+            "channel": "RTi La 3 C\u00f4te d\u2019Ivoire",
+            "sat": "SES 5 5.0\u00b0e",
+            "freq": "12341 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Angola   vs   Egypt"
+        },
+        {
             "channel": "SABC 3 HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11514 V 28750 - 1/2",
@@ -591,11 +599,43 @@
             "related_to": "     Zimbabwe   vs   South Africa"
         },
         {
+            "channel": "ORTM 1 Mali",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12604 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Zimbabwe   vs   South Africa"
+        },
+        {
+            "channel": "ORTM 2 Mali",
+            "sat": "Intelsat 37e 18.0\u00b0w",
+            "freq": "4129 L 02060 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Zimbabwe   vs   South Africa"
+        },
+        {
             "channel": "Persiana Sports 2 HD",
             "sat": "MonacoSat 52.0\u00b0e",
             "freq": "10804 H 27500 - 2/3",
             "encry": "FTA",
             "link": "https://pokertvfa.live/",
+            "related_to": "     Zimbabwe   vs   South Africa"
+        },
+        {
+            "channel": "RTB Burkina Faso",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "12437 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Zimbabwe   vs   South Africa"
+        },
+        {
+            "channel": "RTNC Congo DR",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "11387 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
             "related_to": "     Zimbabwe   vs   South Africa"
         },
         {
@@ -1507,6 +1547,30 @@
             "related_to": "     Comoros   vs   Mali"
         },
         {
+            "channel": "ORTM 1 Mali",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12604 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Comoros   vs   Mali"
+        },
+        {
+            "channel": "RTB Burkina Faso",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "12437 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Comoros   vs   Mali"
+        },
+        {
+            "channel": "RTNC Congo DR",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "11387 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Comoros   vs   Mali"
+        },
+        {
             "channel": "RTS 1 Senegal HD",
             "sat": "AsiaSat 5 100.5\u00b0e",
             "freq": "4080 H 30000 - 5/6",
@@ -1645,6 +1709,282 @@
             "encry": "VideoGuard",
             "link": "#",
             "related_to": "     Leicester City   vs   Derby County"
+        },
+        {
+            "compet": "English Championship - Week 24",
+            "match": "     Wrexham   vs   Preston N.E.",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:45",
+            "date": "2025-12-29"
+        },
+        {
+            "channel": "Arena Premium 3 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Wrexham   vs   Preston N.E."
+        },
+        {
+            "channel": "Arena Sport 2 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11798 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Wrexham   vs   Preston N.E."
+        },
+        {
+            "channel": "Arena Sport 3 Slovenija HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Wrexham   vs   Preston N.E."
+        },
+        {
+            "channel": "Arena Sport 4 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11554 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Wrexham   vs   Preston N.E."
+        },
+        {
+            "channel": "beIN Sports MENA 3 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Wrexham   vs   Preston N.E."
+        },
+        {
+            "channel": "beIN Sports MENA English 2 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "11390 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Wrexham   vs   Preston N.E."
+        },
+        {
+            "channel": "Cosmote Sport 3 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "11843 V 27500 - 3/5",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Wrexham   vs   Preston N.E."
+        },
+        {
+            "channel": "Diema Sport 3 HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Wrexham   vs   Preston N.E."
+        },
+        {
+            "channel": "EXXEN Digital T\u00fcrkiye [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.exxen.com/en",
+            "related_to": "     Wrexham   vs   Preston N.E."
+        },
+        {
+            "channel": "Nova Sport 4 Czech HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11934 V 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Wrexham   vs   Preston N.E."
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Wrexham   vs   Preston N.E."
+        },
+        {
+            "channel": "Sport 2 Israel HD",
+            "sat": "Amos 3 4.0\u00b0w",
+            "freq": "10972 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Wrexham   vs   Preston N.E."
+        },
+        {
+            "channel": "Sport TV4 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Wrexham   vs   Preston N.E."
+        },
+        {
+            "channel": "TSN Malta 6 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Wrexham   vs   Preston N.E."
+        },
+        {
+            "channel": "V Sport 2 Norge HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11345 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Wrexham   vs   Preston N.E."
+        },
+        {
+            "channel": "ViaPlay 1 Urheilu HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "11278 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Wrexham   vs   Preston N.E."
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Wrexham   vs   Preston N.E."
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Wrexham   vs   Preston N.E."
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Wrexham   vs   Preston N.E."
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Wrexham   vs   Preston N.E."
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Wrexham   vs   Preston N.E."
+        },
+        {
+            "channel": "ViaPlay \u00cdsland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Wrexham   vs   Preston N.E."
+        },
+        {
+            "compet": "English Championship - Week 24",
+            "match": "     Sheffield Wednesday   vs   Blackburn Rovers",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:45",
+            "date": "2025-12-29"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Sheffield Wednesday   vs   Blackburn Rovers"
+        },
+        {
+            "compet": "English League One - Week 23",
+            "match": "     Bradford City   vs   Port Vale",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:45",
+            "date": "2025-12-29"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Bradford City   vs   Port Vale"
+        },
+        {
+            "compet": "English League One - Week 23",
+            "match": "     Plymouth Argyle   vs   Wycombe Wanderers",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:45",
+            "date": "2025-12-29"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Plymouth Argyle   vs   Wycombe Wanderers"
+        },
+        {
+            "compet": "English League Two - Week 23",
+            "match": "     Grimsby Town   vs   Shrewsbury Town",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:45",
+            "date": "2025-12-29"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Grimsby Town   vs   Shrewsbury Town"
+        },
+        {
+            "compet": "English League Two - Week 23",
+            "match": "     Tranmere Rovers   vs   Barrow",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:45",
+            "date": "2025-12-29"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Tranmere Rovers   vs   Barrow"
         },
         {
             "compet": "Italian Serie A - Week 17",
@@ -2063,282 +2403,6 @@
             "encry": "",
             "link": "#",
             "related_to": "     Roma   vs   Genoa"
-        },
-        {
-            "compet": "English Championship - Week 24",
-            "match": "     Wrexham   vs   Preston N.E.",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "19:45",
-            "date": "2025-12-29"
-        },
-        {
-            "channel": "Arena Premium 3 BiH HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Wrexham   vs   Preston N.E."
-        },
-        {
-            "channel": "Arena Sport 2 Srbija HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11798 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Wrexham   vs   Preston N.E."
-        },
-        {
-            "channel": "Arena Sport 3 Slovenija HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Wrexham   vs   Preston N.E."
-        },
-        {
-            "channel": "Arena Sport 4 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11554 H 30000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Wrexham   vs   Preston N.E."
-        },
-        {
-            "channel": "beIN Sports MENA 3 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Wrexham   vs   Preston N.E."
-        },
-        {
-            "channel": "beIN Sports MENA English 2 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "11390 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Wrexham   vs   Preston N.E."
-        },
-        {
-            "channel": "Cosmote Sport 3 HD",
-            "sat": "Eutelsat 9B 9.0\u00b0e",
-            "freq": "11843 V 27500 - 3/5",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Wrexham   vs   Preston N.E."
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "AzerSpace 2 45.0\u00b0e",
-            "freq": "12520 V 30000 - 5/6",
-            "encry": "MPEG-4 NDS",
-            "link": "#",
-            "related_to": "     Wrexham   vs   Preston N.E."
-        },
-        {
-            "channel": "EXXEN Digital T\u00fcrkiye [$]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.exxen.com/en",
-            "related_to": "     Wrexham   vs   Preston N.E."
-        },
-        {
-            "channel": "Nova Sport 4 Czech HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11934 V 27500 - 3/4",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Wrexham   vs   Preston N.E."
-        },
-        {
-            "channel": "Paramount+ USA ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Wrexham   vs   Preston N.E."
-        },
-        {
-            "channel": "Sport 2 Israel HD",
-            "sat": "Amos 3 4.0\u00b0w",
-            "freq": "10972 V 30000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Wrexham   vs   Preston N.E."
-        },
-        {
-            "channel": "Sport TV4 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12360 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Wrexham   vs   Preston N.E."
-        },
-        {
-            "channel": "TSN Malta 6 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Wrexham   vs   Preston N.E."
-        },
-        {
-            "channel": "V Sport 2 Norge HD",
-            "sat": "Thor 6 5.0\u00b0e",
-            "freq": "11345 H 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Wrexham   vs   Preston N.E."
-        },
-        {
-            "channel": "ViaPlay 1 Urheilu HD",
-            "sat": "Thor 5 0.8\u00b0w",
-            "freq": "11278 V 25000 - 3/4",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Wrexham   vs   Preston N.E."
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Wrexham   vs   Preston N.E."
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Wrexham   vs   Preston N.E."
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Wrexham   vs   Preston N.E."
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Wrexham   vs   Preston N.E."
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Wrexham   vs   Preston N.E."
-        },
-        {
-            "channel": "ViaPlay \u00cdsland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Wrexham   vs   Preston N.E."
-        },
-        {
-            "compet": "English Championship - Week 24",
-            "match": "     Sheffield Wednesday   vs   Blackburn Rovers",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "19:45",
-            "date": "2025-12-29"
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Sheffield Wednesday   vs   Blackburn Rovers"
-        },
-        {
-            "compet": "English League One - Week 23",
-            "match": "     Bradford City   vs   Port Vale",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "19:45",
-            "date": "2025-12-29"
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Bradford City   vs   Port Vale"
-        },
-        {
-            "compet": "English League One - Week 23",
-            "match": "     Plymouth Argyle   vs   Wycombe Wanderers",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "19:45",
-            "date": "2025-12-29"
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Plymouth Argyle   vs   Wycombe Wanderers"
-        },
-        {
-            "compet": "English League Two - Week 23",
-            "match": "     Grimsby Town   vs   Shrewsbury Town",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "19:45",
-            "date": "2025-12-29"
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Grimsby Town   vs   Shrewsbury Town"
-        },
-        {
-            "compet": "English League Two - Week 23",
-            "match": "     Tranmere Rovers   vs   Barrow",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "19:45",
-            "date": "2025-12-29"
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Tranmere Rovers   vs   Barrow"
         },
         {
             "compet": "English League Two - Week 23",
