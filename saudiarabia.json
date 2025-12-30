@@ -11,6 +11,22 @@
             "date": "2025-12-30"
         },
         {
+            "channel": "SporTV Brazil HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Al Fayha"
+        },
+        {
+            "channel": "Thmanyah 3 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Al Fayha"
+        },
+        {
             "channel": "Thmanyah KSA [app]",
             "sat": "Download APP 0.0\u00b0",
             "freq": "0000 0",
@@ -49,6 +65,22 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Al Ettifaq   vs   Al Nassr"
+        },
+        {
+            "channel": "Fox Deportes USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Ettifaq   vs   Al Nassr"
+        },
+        {
+            "channel": "Fox Sports 2 USA HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Al Ettifaq   vs   Al Nassr"
         },
@@ -109,11 +141,11 @@
             "related_to": "     Al Ettifaq   vs   Al Nassr"
         },
         {
-            "channel": "Sportitalia SoloCalcio HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "11179 H 27500 - 2/3",
-            "encry": "FTA",
-            "link": "https://sportitalialive.it/sisolocalcio/",
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
             "related_to": "     Al Ettifaq   vs   Al Nassr"
         },
         {
@@ -129,6 +161,14 @@
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11387 H 32000 - 3/4",
             "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Al Ettifaq   vs   Al Nassr"
+        },
+        {
+            "channel": "SporTV Brazil HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Al Ettifaq   vs   Al Nassr"
         },
@@ -149,6 +189,14 @@
             "related_to": "     Al Ettifaq   vs   Al Nassr"
         },
         {
+            "channel": "ST World Football HD",
+            "sat": "Eutelsat 10B 10.0\u00b0e",
+            "freq": "3736 R 07307 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Al Ettifaq   vs   Al Nassr"
+        },
+        {
             "channel": "Strike TV",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "12245 H 30000 - 3/4",
@@ -161,6 +209,14 @@
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "10970 V 30000 - 5/6",
             "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Al Ettifaq   vs   Al Nassr"
+        },
+        {
+            "channel": "Thmanyah 1 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Al Ettifaq   vs   Al Nassr"
         },
@@ -273,6 +329,22 @@
             "related_to": "     NEOM SC   vs   Al Ittihad"
         },
         {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     NEOM SC   vs   Al Ittihad"
+        },
+        {
+            "channel": "SportKlub 1 Slovenija HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     NEOM SC   vs   Al Ittihad"
+        },
+        {
             "channel": "SPOTV Malaysia 2 HD",
             "sat": "Measat 3b 91.5\u00b0e",
             "freq": "11102 V 30000 - 3/4",
@@ -285,6 +357,14 @@
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "11766 V 28000 - 7/8",
             "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     NEOM SC   vs   Al Ittihad"
+        },
+        {
+            "channel": "ST World Football HD",
+            "sat": "Eutelsat 10B 10.0\u00b0e",
+            "freq": "3736 R 07307 - 5/6",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     NEOM SC   vs   Al Ittihad"
         },
@@ -379,6 +459,22 @@
             "related_to": "     Al Kholood   vs   Al Hilal"
         },
         {
+            "channel": "SportKlub 3 Slovenija",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11231 V 42000 - 5/6",
+            "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Al Kholood   vs   Al Hilal"
+        },
+        {
+            "channel": "SportKlub 6 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Kholood   vs   Al Hilal"
+        },
+        {
             "channel": "SPOTV Malaysia HD",
             "sat": "Measat 3b 91.5\u00b0e",
             "freq": "10772 V 30000 - 5/6",
@@ -391,6 +487,14 @@
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "11766 V 28000 - 7/8",
             "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Al Kholood   vs   Al Hilal"
+        },
+        {
+            "channel": "ST World Football HD",
+            "sat": "Eutelsat 10B 10.0\u00b0e",
+            "freq": "3736 R 07307 - 5/6",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Al Kholood   vs   Al Hilal"
         },
