@@ -83,6 +83,14 @@
             "related_to": "     Gil Vicente   vs   Sporting Lisbon"
         },
         {
+            "channel": "Ring Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12600 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Gil Vicente   vs   Sporting Lisbon"
+        },
+        {
             "channel": "Sport Live Dansk HD",
             "sat": "Thor 6 5.0\u00b0e",
             "freq": "10934 V 25000 - 2/4",
@@ -176,24 +184,6 @@
         },
         {
             "compet": "Portuguese Liga Portugal - Week 17",
-            "match": "     Estrela Amadora   vs   Sporting Braga",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "18:00",
-            "date": "2025-01-03"
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Estrela Amadora   vs   Sporting Braga"
-        },
-        {
-            "compet": "Portuguese Liga Portugal - Week 17",
             "match": "     Benfica   vs   Estoril",
             "flags": {
                 "team1": "portugal",
@@ -243,6 +233,14 @@
             "related_to": "     Benfica   vs   Estoril"
         },
         {
+            "channel": "Ring Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12600 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Benfica   vs   Estoril"
+        },
+        {
             "channel": "S Sport+ Streaming",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -273,6 +271,24 @@
             "encry": "",
             "link": "https://www.vgtv.no/live",
             "related_to": "     Benfica   vs   Estoril"
+        },
+        {
+            "compet": "Portuguese Liga Portugal - Week 17",
+            "match": "     Estrela Amadora   vs   Sporting Braga",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "18:00",
+            "date": "2025-01-03"
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Estrela Amadora   vs   Sporting Braga"
         },
         {
             "compet": "Portuguese Liga Portugal - Week 17",
@@ -365,6 +381,14 @@
             "sat": "Hotbird 13G 13.0\u00b0e",
             "freq": "11278 V 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Santa Clara   vs   FC Porto"
+        },
+        {
+            "channel": "Ring Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12600 V 30000 - 5/6",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Santa Clara   vs   FC Porto"
         },

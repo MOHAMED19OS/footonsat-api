@@ -1643,7 +1643,7 @@
             "related_to": "     Arsenal   vs   Aston Villa"
         },
         {
-            "channel": "Hub Premier 1 UHD ($/geo/R)",
+            "channel": "Hub Premier 2 HD ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
@@ -1651,7 +1651,7 @@
             "related_to": "     Arsenal   vs   Aston Villa"
         },
         {
-            "channel": "Hub Premier 2 HD ($/geo/R)",
+            "channel": "Hub Premier 2 UHD ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
@@ -1815,6 +1815,14 @@
             "sat": "Astra 2E 28.2\u00b0e",
             "freq": "11934 V 27500 - 5/6",
             "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Arsenal   vs   Aston Villa"
+        },
+        {
+            "channel": "Sky UK Ultra HD 1",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12246 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Arsenal   vs   Aston Villa"
         },
@@ -2229,6 +2237,14 @@
             "related_to": "     Manchester United   vs   Wolves"
         },
         {
+            "channel": "Sky UK Ultra HD 2",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12324 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Manchester United   vs   Wolves"
+        },
+        {
             "channel": "Sport 4 Israel HD",
             "sat": "Amos 7 4.0\u00b0w",
             "freq": "10972 V 30000 - 2/3",
@@ -2483,6 +2499,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Fulham"
+        },
+        {
+            "channel": "Diema Sport 3 HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "MPEG-4 NDS",
             "link": "#",
             "related_to": "     Crystal Palace   vs   Fulham"
         },
@@ -2853,6 +2877,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Liverpool   vs   Leeds United"
+        },
+        {
+            "channel": "Diema Sport 2 HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12156 H 30000 - 5/6",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Liverpool   vs   Leeds United"
         },
@@ -3283,6 +3315,14 @@
             "related_to": "     Brentford   vs   Tottenham Hotspur"
         },
         {
+            "channel": "Diema Sport 3 HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Brentford   vs   Tottenham Hotspur"
+        },
+        {
             "channel": "FuboTV Canada ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -3649,6 +3689,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Manchester City"
+        },
+        {
+            "channel": "Diema Sport 2 HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12156 H 30000 - 5/6",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Sunderland   vs   Manchester City"
         },
@@ -4087,6 +4135,14 @@
             "related_to": "     Aston Villa   vs   Nottingham Forest"
         },
         {
+            "channel": "Diema Sport 2 HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12156 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Nottingham Forest"
+        },
+        {
             "channel": "FuboTV Canada ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -4393,6 +4449,14 @@
             "related_to": "     Brighton H.A.   vs   Burnley"
         },
         {
+            "channel": "Diema Sport 2 HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12156 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Brighton H.A.   vs   Burnley"
+        },
+        {
             "channel": "FuboTV Canada ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -4679,6 +4743,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Wolves   vs   West Ham United"
+        },
+        {
+            "channel": "Diema Sport 3 HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "MPEG-4 NDS",
             "link": "#",
             "related_to": "     Wolves   vs   West Ham United"
         },
@@ -5025,6 +5097,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Bournemouth   vs   Arsenal"
+        },
+        {
+            "channel": "Diema Sport 2 HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12156 H 30000 - 5/6",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Bournemouth   vs   Arsenal"
         },
@@ -5423,6 +5503,14 @@
             "related_to": "     Leeds United   vs   Manchester United"
         },
         {
+            "channel": "Diema Sport 2 HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12156 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Leeds United   vs   Manchester United"
+        },
+        {
             "channel": "Discovery+ UK ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -5745,6 +5833,14 @@
             "related_to": "     Fulham   vs   Liverpool"
         },
         {
+            "channel": "Diema Sport 2 HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12156 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Fulham   vs   Liverpool"
+        },
+        {
             "channel": "FuboTV Canada ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -6055,6 +6151,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Newcastle United   vs   Crystal Palace"
+        },
+        {
+            "channel": "Diema Sport HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Newcastle United   vs   Crystal Palace"
         },
@@ -6527,6 +6631,14 @@
             "related_to": "     Tottenham Hotspur   vs   Sunderland"
         },
         {
+            "channel": "Diema Sport 3 HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Tottenham Hotspur   vs   Sunderland"
+        },
+        {
             "channel": "FuboTV Canada ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -6869,6 +6981,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Manchester City   vs   Chelsea"
+        },
+        {
+            "channel": "Diema Sport 2 HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12156 H 30000 - 5/6",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Manchester City   vs   Chelsea"
         },

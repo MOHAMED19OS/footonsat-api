@@ -3827,6 +3827,14 @@
             "related_to": "     Motherwell   vs   Celtic"
         },
         {
+            "channel": "Ring Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12600 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Motherwell   vs   Celtic"
+        },
+        {
             "channel": "S Sport+ Streaming",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -4117,7 +4125,7 @@
             "related_to": "     Arsenal   vs   Aston Villa"
         },
         {
-            "channel": "Hub Premier 1 UHD ($/geo/R)",
+            "channel": "Hub Premier 2 HD ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
@@ -4125,7 +4133,7 @@
             "related_to": "     Arsenal   vs   Aston Villa"
         },
         {
-            "channel": "Hub Premier 2 HD ($/geo/R)",
+            "channel": "Hub Premier 2 UHD ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
@@ -4289,6 +4297,14 @@
             "sat": "Astra 2E 28.2\u00b0e",
             "freq": "11934 V 27500 - 5/6",
             "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Arsenal   vs   Aston Villa"
+        },
+        {
+            "channel": "Sky UK Ultra HD 1",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12246 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Arsenal   vs   Aston Villa"
         },
@@ -4698,6 +4714,14 @@
             "channel": "Sky Sports Football HD",
             "sat": "Astra 2E 28.2\u00b0e",
             "freq": "12012 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Manchester United   vs   Wolves"
+        },
+        {
+            "channel": "Sky UK Ultra HD 2",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12324 V 27500 - 2/3",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Manchester United   vs   Wolves"
