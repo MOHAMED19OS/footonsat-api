@@ -71,7 +71,7 @@
             "date": "2025-12-31"
         },
         {
-            "channel": "Azam Sports 3 HD",
+            "channel": "Azam Sports 4 HD",
             "sat": "Eutelsat 7C 7.0\u00b0e",
             "freq": "10981 V 45000 - 5/6",
             "encry": "HD NagraVision",
@@ -99,6 +99,22 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     NEOM SC   vs   Al Ittihad"
+        },
+        {
+            "channel": "Fox Deportes USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     NEOM SC   vs   Al Ittihad"
+        },
+        {
+            "channel": "Fox Sports 2 USA HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     NEOM SC   vs   Al Ittihad"
         },
@@ -167,6 +183,14 @@
             "related_to": "     NEOM SC   vs   Al Ittihad"
         },
         {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     NEOM SC   vs   Al Ittihad"
+        },
+        {
             "channel": "SPOTV Malaysia 2 HD",
             "sat": "Measat 3b 91.5\u00b0e",
             "freq": "11102 V 30000 - 3/4",
@@ -199,10 +223,26 @@
             "related_to": "     NEOM SC   vs   Al Ittihad"
         },
         {
+            "channel": "SuperSport 2 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     NEOM SC   vs   Al Ittihad"
+        },
+        {
             "channel": "SuperSport ESPN HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "10970 V 30000 - 5/6",
             "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     NEOM SC   vs   Al Ittihad"
+        },
+        {
+            "channel": "Thmanyah 3 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     NEOM SC   vs   Al Ittihad"
         },
@@ -265,6 +305,14 @@
             "related_to": "     Equatorial Guinea   vs   Algeria"
         },
         {
+            "channel": "Azam Sports 2 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Equatorial Guinea   vs   Algeria"
+        },
+        {
             "channel": "beIN Connect USA",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -293,6 +341,14 @@
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "11856 V 29700 - 2/3",
             "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Equatorial Guinea   vs   Algeria"
+        },
+        {
+            "channel": "Canal+ Sport 1 Afrique HD",
+            "sat": "SES 4 22.0\u00b0w",
+            "freq": "11171 V 45000 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Equatorial Guinea   vs   Algeria"
         },
@@ -377,6 +433,14 @@
             "related_to": "     Equatorial Guinea   vs   Algeria"
         },
         {
+            "channel": "New World Sport 6 Togo",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Equatorial Guinea   vs   Algeria"
+        },
+        {
             "channel": "Okko Futbol HD ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -389,6 +453,14 @@
             "sat": "MonacoSat 52.0\u00b0e",
             "freq": "10762 V 27500 - 2/3",
             "encry": "FTA",
+            "link": "#",
+            "related_to": "     Equatorial Guinea   vs   Algeria"
+        },
+        {
+            "channel": "SABC 2 HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11514 V 28750 - 5/6",
+            "encry": "MPEG-4 Nagra",
             "link": "#",
             "related_to": "     Equatorial Guinea   vs   Algeria"
         },
@@ -414,6 +486,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "#",
+            "related_to": "     Equatorial Guinea   vs   Algeria"
+        },
+        {
+            "channel": "Sportitalia SoloCalcio HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11179 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://sportitalialive.it/sisolocalcio/",
             "related_to": "     Equatorial Guinea   vs   Algeria"
         },
         {
@@ -507,6 +587,22 @@
             "related_to": "     Sudan   vs   Burkina Faso"
         },
         {
+            "channel": "Arryadia TNT HD",
+            "sat": "Eshail 1 25.5\u00b0e",
+            "freq": "11180 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Sudan   vs   Burkina Faso"
+        },
+        {
+            "channel": "Azam Sports 1 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Sudan   vs   Burkina Faso"
+        },
+        {
             "channel": "beIN Connect USA",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -543,6 +639,14 @@
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "21576 H 02420 - 3/4",
             "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Sudan   vs   Burkina Faso"
+        },
+        {
+            "channel": "CRTV Sports Cameroon",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12610 H 12500 - 3/4",
+            "encry": "HEVC SD Nagravision",
             "link": "#",
             "related_to": "     Sudan   vs   Burkina Faso"
         },
@@ -603,6 +707,38 @@
             "related_to": "     Sudan   vs   Burkina Faso"
         },
         {
+            "channel": "New World Sport 3 Togo",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Sudan   vs   Burkina Faso"
+        },
+        {
+            "channel": "New World Sport 4 Togo",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Sudan   vs   Burkina Faso"
+        },
+        {
+            "channel": "New World Sport 5 Togo",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Sudan   vs   Burkina Faso"
+        },
+        {
+            "channel": "New World Sport 7 Togo",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Sudan   vs   Burkina Faso"
+        },
+        {
             "channel": "Okko Prime Sport HD ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -659,6 +795,14 @@
             "related_to": "     Sudan   vs   Burkina Faso"
         },
         {
+            "channel": "SABC 3 HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11514 V 28750 - 1/2",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Sudan   vs   Burkina Faso"
+        },
+        {
             "channel": "Sport TV3 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
@@ -707,6 +851,14 @@
             "related_to": "     Sudan   vs   Burkina Faso"
         },
         {
+            "channel": "TV Miramar Mozambique",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "12245 H 27500 3/4",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Sudan   vs   Burkina Faso"
+        },
+        {
             "channel": "TVT Togo",
             "sat": "Astra 2F 28.2\u00b0e",
             "freq": "12525 V 30000 - 5/6",
@@ -719,6 +871,14 @@
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "12687 H 30000 - 3/4",
             "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Sudan   vs   Burkina Faso"
+        },
+        {
+            "channel": "UBC TV Uganda",
+            "sat": "Intelsat 33e 60.0\u00b0e",
+            "freq": "3778 R 5720 - 3/4",
+            "encry": "Irdeto",
             "link": "#",
             "related_to": "     Sudan   vs   Burkina Faso"
         },
@@ -765,7 +925,7 @@
             "date": "2025-12-31"
         },
         {
-            "channel": "Azam Sports 3 HD",
+            "channel": "Azam Sports 4 HD",
             "sat": "Eutelsat 7C 7.0\u00b0e",
             "freq": "10981 V 45000 - 5/6",
             "encry": "HD NagraVision",
@@ -793,6 +953,22 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Al Kholood   vs   Al Hilal"
+        },
+        {
+            "channel": "Fox Deportes USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Kholood   vs   Al Hilal"
+        },
+        {
+            "channel": "Fox Sports 2 USA HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Al Kholood   vs   Al Hilal"
         },
@@ -837,6 +1013,14 @@
             "related_to": "     Al Kholood   vs   Al Hilal"
         },
         {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Al Kholood   vs   Al Hilal"
+        },
+        {
             "channel": "SPOTV Malaysia HD",
             "sat": "Measat 3b 91.5\u00b0e",
             "freq": "10772 V 30000 - 5/6",
@@ -877,6 +1061,14 @@
             "related_to": "     Al Kholood   vs   Al Hilal"
         },
         {
+            "channel": "Thmanyah 1 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Kholood   vs   Al Hilal"
+        },
+        {
             "channel": "Thmanyah KSA [app]",
             "sat": "Download APP 0.0\u00b0",
             "freq": "0000 0",
@@ -893,14 +1085,6 @@
             "related_to": "     Al Kholood   vs   Al Hilal"
         },
         {
-            "channel": "Sport 3 Israel HD",
-            "sat": "Amos 7 4.0\u00b0w",
-            "freq": "10972 V 30000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Maccabi Netanya   vs   Hapoel Petah Tikva"
-        },
-        {
             "compet": "Saudi Professional League - Week 12",
             "match": "     Al Shabab   vs   Al Qadisiyah",
             "flags": {
@@ -911,12 +1095,28 @@
             "date": "2025-12-31"
         },
         {
+            "channel": "Thmanyah 2 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Shabab   vs   Al Qadisiyah"
+        },
+        {
             "channel": "Thmanyah KSA [app]",
             "sat": "Download APP 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "#",
             "related_to": "     Al Shabab   vs   Al Qadisiyah"
+        },
+        {
+            "channel": "Sport 3 Israel HD",
+            "sat": "Amos 7 4.0\u00b0w",
+            "freq": "10972 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Maccabi Netanya   vs   Hapoel Petah Tikva"
         },
         {
             "channel": "Sport 1 Israel HD",
@@ -969,6 +1169,22 @@
             "related_to": "     Gabon   vs   Ivory Coast"
         },
         {
+            "channel": "Arryadia TNT HD",
+            "sat": "Eshail 1 25.5\u00b0e",
+            "freq": "11180 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Gabon   vs   Ivory Coast"
+        },
+        {
+            "channel": "Azam Sports 2 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Gabon   vs   Ivory Coast"
+        },
+        {
             "channel": "beIN Connect USA",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1013,6 +1229,14 @@
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "21576 H 02420 - 3/4",
             "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Gabon   vs   Ivory Coast"
+        },
+        {
+            "channel": "Canal+ Sport 1 Afrique HD",
+            "sat": "SES 4 22.0\u00b0w",
+            "freq": "11171 V 45000 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Gabon   vs   Ivory Coast"
         },
@@ -1081,6 +1305,30 @@
             "related_to": "     Gabon   vs   Ivory Coast"
         },
         {
+            "channel": "New World Sport 3 Togo",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Gabon   vs   Ivory Coast"
+        },
+        {
+            "channel": "New World Sport 4 Togo",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Gabon   vs   Ivory Coast"
+        },
+        {
+            "channel": "New World Sport 5 Togo",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Gabon   vs   Ivory Coast"
+        },
+        {
             "channel": "Okko Prime Sport HD ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -1101,6 +1349,14 @@
             "sat": "SES 5 5.0\u00b0e",
             "freq": "12341 H 27500 - 3/4",
             "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Gabon   vs   Ivory Coast"
+        },
+        {
+            "channel": "SABC 2 HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11514 V 28750 - 5/6",
+            "encry": "MPEG-4 Nagra",
             "link": "#",
             "related_to": "     Gabon   vs   Ivory Coast"
         },
@@ -1126,6 +1382,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "#",
+            "related_to": "     Gabon   vs   Ivory Coast"
+        },
+        {
+            "channel": "Sportitalia SoloCalcio HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11179 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://sportitalialive.it/sisolocalcio/",
             "related_to": "     Gabon   vs   Ivory Coast"
         },
         {
@@ -1156,6 +1420,14 @@
             "channel": "SuperSport PSL HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Gabon   vs   Ivory Coast"
+        },
+        {
+            "channel": "UBC TV Uganda",
+            "sat": "Intelsat 33e 60.0\u00b0e",
+            "freq": "3778 R 5720 - 3/4",
             "encry": "Irdeto",
             "link": "#",
             "related_to": "     Gabon   vs   Ivory Coast"
@@ -1215,6 +1487,14 @@
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12422 H 30000 - 3/4",
             "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Mozambique   vs   Cameroon"
+        },
+        {
+            "channel": "Azam Sports 1 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Mozambique   vs   Cameroon"
         },
@@ -1339,6 +1619,22 @@
             "related_to": "     Mozambique   vs   Cameroon"
         },
         {
+            "channel": "New World Sport 6 Togo",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Mozambique   vs   Cameroon"
+        },
+        {
+            "channel": "New World Sport 7 Togo",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Mozambique   vs   Cameroon"
+        },
+        {
             "channel": "Okko Futbol HD ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -1351,6 +1647,14 @@
             "sat": "MonacoSat 52.0\u00b0e",
             "freq": "10762 V 27500 - 2/3",
             "encry": "FTA",
+            "link": "#",
+            "related_to": "     Mozambique   vs   Cameroon"
+        },
+        {
+            "channel": "SABC 3 HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11514 V 28750 - 1/2",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Mozambique   vs   Cameroon"
         },
