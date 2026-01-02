@@ -139,6 +139,14 @@
             "date": "2026-01-02"
         },
         {
+            "channel": "Band Sports Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "11680 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Ettifaq   vs   Al Akhdoud"
+        },
+        {
             "channel": "Thmanyah 2 HD",
             "sat": "Badr 8 26.0\u00b0e",
             "freq": "11919 H 27500 - 3/4",
@@ -245,6 +253,22 @@
             "date": "2026-01-02"
         },
         {
+            "channel": "Azam Sports 2 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Al Nassr"
+        },
+        {
+            "channel": "Band Sports Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "11680 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Al Nassr"
+        },
+        {
             "channel": "Como TV ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -257,6 +281,38 @@
             "sat": "Eutelsat 9B 9.0\u00b0e",
             "freq": "11843 V 27500 - 3/5",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Al Nassr"
+        },
+        {
+            "channel": "DAZN France ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Al Nassr"
+        },
+        {
+            "channel": "Fox Deportes USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Al Nassr"
+        },
+        {
+            "channel": "Fox Sports 2 USA HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Al Nassr"
+        },
+        {
+            "channel": "M+ #Vamos Bar",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "10876 V 22000 - 5/6",
+            "encry": "Seca",
             "link": "#",
             "related_to": "     Al Ahli   vs   Al Nassr"
         },
@@ -277,10 +333,26 @@
             "related_to": "     Al Ahli   vs   Al Nassr"
         },
         {
+            "channel": "Okko Prime Sport HD ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Al Nassr"
+        },
+        {
             "channel": "Persiana Sport HD",
             "sat": "MonacoSat 52.0\u00b0e",
             "freq": "10762 V 27500 - 2/3",
             "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Al Nassr"
+        },
+        {
+            "channel": "Polsat Sport Premium 1 HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11117 V 27500 - 3/4",
+            "encry": "HD Viaccess",
             "link": "#",
             "related_to": "     Al Ahli   vs   Al Nassr"
         },
@@ -301,11 +373,27 @@
             "related_to": "     Al Ahli   vs   Al Nassr"
         },
         {
+            "channel": "Setanta Sports 2 Baltic",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Al Nassr"
+        },
+        {
             "channel": "Setanta Sports Premium HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "https://tv.kyivstar.ua/en/setantasports",
+            "related_to": "     Al Ahli   vs   Al Nassr"
+        },
+        {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "     Al Ahli   vs   Al Nassr"
         },
         {
@@ -357,10 +445,26 @@
             "related_to": "     Al Ahli   vs   Al Nassr"
         },
         {
+            "channel": "ST World Football HD",
+            "sat": "Eutelsat 10B 10.0\u00b0e",
+            "freq": "3736 R 07307 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Al Nassr"
+        },
+        {
             "channel": "SuperSport 2 Albania HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "10845 H 30000 - 3/5",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Al Nassr"
+        },
+        {
+            "channel": "SuperSport ESPN HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
             "link": "#",
             "related_to": "     Al Ahli   vs   Al Nassr"
         },
@@ -377,6 +481,14 @@
             "sat": "Download APP 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Al Nassr"
+        },
+        {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
             "link": "#",
             "related_to": "     Al Ahli   vs   Al Nassr"
         },
@@ -471,6 +583,14 @@
             "related_to": "     Gil Vicente   vs   Sporting Lisbon"
         },
         {
+            "channel": "ESPN 4 Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "3980 L 21600 - 5/6",
+            "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     Gil Vicente   vs   Sporting Lisbon"
+        },
+        {
             "channel": "Megogo Futbol 4 ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -495,10 +615,26 @@
             "related_to": "     Gil Vicente   vs   Sporting Lisbon"
         },
         {
+            "channel": "Sport 1 Lithuania HD [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Gil Vicente   vs   Sporting Lisbon"
+        },
+        {
             "channel": "Sport 2 Hungary HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "11766 V 28000 - 7/8",
             "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Gil Vicente   vs   Sporting Lisbon"
+        },
+        {
+            "channel": "Sport 2 Israel HD",
+            "sat": "Amos 3 4.0\u00b0w",
+            "freq": "10972 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Gil Vicente   vs   Sporting Lisbon"
         },
@@ -811,6 +947,14 @@
             "related_to": "     Toulouse   vs   Lens"
         },
         {
+            "channel": "DAZN France ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Toulouse   vs   Lens"
+        },
+        {
             "channel": "Diema Sport HD",
             "sat": "AzerSpace 2 45.0\u00b0e",
             "freq": "12520 V 30000 - 5/6",
@@ -851,10 +995,34 @@
             "related_to": "     Toulouse   vs   Lens"
         },
         {
+            "channel": "Okko Futbol HD ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Toulouse   vs   Lens"
+        },
+        {
             "channel": "Persiana Sports 3 HD",
             "sat": "MonacoSat 52.0\u00b0e",
             "freq": "11420 V 27500 - 2/3",
             "encry": "FTA",
+            "link": "#",
+            "related_to": "     Toulouse   vs   Lens"
+        },
+        {
+            "channel": "Setanta Sports 2 Baltic",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Toulouse   vs   Lens"
+        },
+        {
+            "channel": "Setanta Sports 2 Georgia HD",
+            "sat": " \u00b0",
+            "freq": " ",
+            "encry": "",
             "link": "#",
             "related_to": "     Toulouse   vs   Lens"
         },
@@ -887,6 +1055,14 @@
             "sat": "Express AMU1 36.1\u00b0e",
             "freq": "12169 H 27500 - 2/3",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Toulouse   vs   Lens"
+        },
+        {
+            "channel": "SuperSport Variety 4 HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11170 H 30000 - 5/6",
+            "encry": "Irdeto",
             "link": "#",
             "related_to": "     Toulouse   vs   Lens"
         },
@@ -1109,11 +1285,35 @@
             "related_to": "     Cagliari   vs   AC Milan"
         },
         {
+            "channel": "ESPN 1 Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "3980 L 21600 - 3/4",
+            "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     Cagliari   vs   AC Milan"
+        },
+        {
             "channel": "Fast Sports [online] ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "     Cagliari   vs   AC Milan"
+        },
+        {
+            "channel": "Fast Sports TV Armenia",
+            "sat": "Eutelsat 70B 70.5\u00b0e",
+            "freq": "11050 H 20030 - 1/2",
+            "encry": "MPEG-4 Biss",
+            "link": "https://fasttv.am/tv-channels/fastsports",
+            "related_to": "     Cagliari   vs   AC Milan"
+        },
+        {
+            "channel": "IRIB Varzesh HD",
+            "sat": "Intelsat 39 62.0\u00b0e",
+            "freq": "11555 V 30000 - 2/3",
+            "encry": "HD BISS",
+            "link": "#",
             "related_to": "     Cagliari   vs   AC Milan"
         },
         {
@@ -1221,6 +1421,14 @@
             "related_to": "     Cagliari   vs   AC Milan"
         },
         {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "sat": " \u00b0",
+            "freq": " ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Cagliari   vs   AC Milan"
+        },
+        {
             "channel": "Sky Sport 251 Italia HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "12418 V 29900 - 3/4",
@@ -1257,6 +1465,14 @@
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12070 H 27500 - 3/4",
             "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Cagliari   vs   AC Milan"
+        },
+        {
+            "channel": "Sport 1 Israel HD",
+            "sat": "Amos 3 4.0\u00b0w",
+            "freq": "10842 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Cagliari   vs   AC Milan"
         },
@@ -1557,6 +1773,14 @@
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "11488 H 27500 - 3/4",
             "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Rayo Vallecano   vs   Getafe"
+        },
+        {
+            "channel": "ESPN 2 Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "3980 L 21600 - 3/4",
+            "encry": "HD PowerVu",
             "link": "#",
             "related_to": "     Rayo Vallecano   vs   Getafe"
         },
