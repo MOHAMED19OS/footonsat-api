@@ -37,10 +37,26 @@
             "date": "2026-01-06"
         },
         {
+            "channel": "Al Kass 5 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10770 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "http://www.alkass.net/alkass/live.aspx?ch=five",
+            "related_to": "     Vietnam U-23   vs   Jordan U-23"
+        },
+        {
             "channel": "beIN Sports MENA 6 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 V 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Vietnam U-23   vs   Jordan U-23"
+        },
+        {
+            "channel": "Futbol TV Tajikistan",
+            "sat": "ABS 2A 75.0\u00b0e",
+            "freq": "12252 H 10000 - 3/4",
+            "encry": "HD BISS",
             "link": "#",
             "related_to": "     Vietnam U-23   vs   Jordan U-23"
         },
@@ -281,6 +297,14 @@
             "related_to": "     Pisa   vs   Como"
         },
         {
+            "channel": "Futbol TV Tajikistan",
+            "sat": "ABS 2A 75.0\u00b0e",
+            "freq": "12252 H 10000 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Pisa   vs   Como"
+        },
+        {
             "channel": "Match 4 Hungary HD",
             "sat": "Thor 7 0.6\u00b0w",
             "freq": "12130 H 28000 - 7/8",
@@ -509,64 +533,6 @@
             "related_to": "     Umm Salal   vs   Al Gharafa"
         },
         {
-            "compet": "AFC U-23 Asian Cup - Round 1",
-            "match": "     Saudi Arabia U-23   vs   Kyrgyzstan U-23",
-            "flags": {
-                "team1": "saudiarabia",
-                "team2": "kyrgyzstan"
-            },
-            "time": "16:00",
-            "date": "2026-01-06"
-        },
-        {
-            "channel": "beIN Sports MENA 6 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Saudi Arabia U-23   vs   Kyrgyzstan U-23"
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "sat": "AzerSpace 2 45.0\u00b0e",
-            "freq": "12600 V 30000 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Saudi Arabia U-23   vs   Kyrgyzstan U-23"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     Saudi Arabia U-23   vs   Kyrgyzstan U-23"
-        },
-        {
-            "channel": "Persiana Sports 3 HD",
-            "sat": "MonacoSat 52.0\u00b0e",
-            "freq": "11420 V 27500 - 2/3",
-            "encry": "FTA",
-            "link": "#",
-            "related_to": "     Saudi Arabia U-23   vs   Kyrgyzstan U-23"
-        },
-        {
-            "channel": "Sportdigital 1+ Deutsch HD",
-            "sat": "Astra 1L 19.2\u00b0e",
-            "freq": "11186 V 22000 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Saudi Arabia U-23   vs   Kyrgyzstan U-23"
-        },
-        {
-            "channel": "Thriller TV+ [online] ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.trillertv.com/join/trillertv-subscription/",
-            "related_to": "     Saudi Arabia U-23   vs   Kyrgyzstan U-23"
-        },
-        {
             "compet": "CAF African Cup of Nations - Round of 16",
             "match": "     Algeria   vs   Congo DR",
             "flags": {
@@ -597,6 +563,14 @@
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12402 V 30000 - 3/4",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Algeria   vs   Congo DR"
+        },
+        {
+            "channel": "Arryadia TNT HD",
+            "sat": "Eshail 1 25.5\u00b0e",
+            "freq": "11180 V 27500 - 3/4",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Algeria   vs   Congo DR"
         },
@@ -646,6 +620,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://connect-us.beinsports.com/",
+            "related_to": "     Algeria   vs   Congo DR"
+        },
+        {
+            "channel": "beIN Sports 1 HD (Astro)",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10812 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
             "related_to": "     Algeria   vs   Congo DR"
         },
         {
@@ -897,6 +879,14 @@
             "related_to": "     Algeria   vs   Congo DR"
         },
         {
+            "channel": "RTi La 3 C\u00f4te d\u2019Ivoire",
+            "sat": "SES 5 5.0\u00b0e",
+            "freq": "12341 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Algeria   vs   Congo DR"
+        },
+        {
             "channel": "RTNC Congo DR",
             "sat": "Eutelsat 36C 35.9\u00b0e",
             "freq": "11387 V 30000 - 5/6",
@@ -967,6 +957,88 @@
             "encry": "HD Mediaguard",
             "link": "#",
             "related_to": "     Algeria   vs   Congo DR"
+        },
+        {
+            "compet": "AFC U-23 Asian Cup - Round 1",
+            "match": "     Saudi Arabia U-23   vs   Kyrgyzstan U-23",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "kyrgyzstan"
+            },
+            "time": "16:00",
+            "date": "2026-01-06"
+        },
+        {
+            "channel": "Al Kass 5 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10770 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "http://www.alkass.net/alkass/live.aspx?ch=five",
+            "related_to": "     Saudi Arabia U-23   vs   Kyrgyzstan U-23"
+        },
+        {
+            "channel": "beIN Sports MENA 6 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Saudi Arabia U-23   vs   Kyrgyzstan U-23"
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12600 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Saudi Arabia U-23   vs   Kyrgyzstan U-23"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     Saudi Arabia U-23   vs   Kyrgyzstan U-23"
+        },
+        {
+            "channel": "Persiana Sports 3 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Saudi Arabia U-23   vs   Kyrgyzstan U-23"
+        },
+        {
+            "channel": "Q Sport Football HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Saudi Arabia U-23   vs   Kyrgyzstan U-23"
+        },
+        {
+            "channel": "Sportdigital 1+ Deutsch HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Saudi Arabia U-23   vs   Kyrgyzstan U-23"
+        },
+        {
+            "channel": "Thriller TV+ [online] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.trillertv.com/join/trillertv-subscription/",
+            "related_to": "     Saudi Arabia U-23   vs   Kyrgyzstan U-23"
+        },
+        {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Saudi Arabia U-23   vs   Kyrgyzstan U-23"
         },
         {
             "compet": "Bahrain Premiere League - Week 6",
@@ -1148,6 +1220,14 @@
             "freq": "11050 H 20030 - 1/2",
             "encry": "MPEG-4 Biss",
             "link": "https://fasttv.am/tv-channels/fastsports",
+            "related_to": "     Lecce   vs   Roma"
+        },
+        {
+            "channel": "Futbol TV Tajikistan",
+            "sat": "ABS 2A 75.0\u00b0e",
+            "freq": "12252 H 10000 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
             "related_to": "     Lecce   vs   Roma"
         },
         {
@@ -1557,6 +1637,14 @@
             "related_to": "     Ivory Coast   vs   Burkina Faso"
         },
         {
+            "channel": "Arryadia TNT HD",
+            "sat": "Eshail 1 25.5\u00b0e",
+            "freq": "11180 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Ivory Coast   vs   Burkina Faso"
+        },
+        {
             "channel": "ART Motion Sport 2 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1602,6 +1690,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://connect-us.beinsports.com/",
+            "related_to": "     Ivory Coast   vs   Burkina Faso"
+        },
+        {
+            "channel": "beIN Sports 1 HD (Astro)",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10812 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
             "related_to": "     Ivory Coast   vs   Burkina Faso"
         },
         {
@@ -1904,6 +2000,14 @@
             "channel": "RTG Guinea",
             "sat": "SES 5 5.0\u00b0e",
             "freq": "11766 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Ivory Coast   vs   Burkina Faso"
+        },
+        {
+            "channel": "RTi La 3 C\u00f4te d\u2019Ivoire",
+            "sat": "SES 5 5.0\u00b0e",
+            "freq": "12341 H 27500 - 3/4",
             "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     Ivory Coast   vs   Burkina Faso"
@@ -2409,6 +2513,14 @@
             "related_to": "     Sassuolo   vs   Juventus"
         },
         {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Sassuolo   vs   Juventus"
+        },
+        {
             "channel": "VG+ Sport Norge ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2857,11 +2969,27 @@
             "related_to": "     West Ham United   vs   Nottingham Forest"
         },
         {
+            "channel": "Futbol TV Tajikistan",
+            "sat": "ABS 2A 75.0\u00b0e",
+            "freq": "12252 H 10000 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     West Ham United   vs   Nottingham Forest"
+        },
+        {
             "channel": "Go3 Extra Sport Baltics ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "LiveOnSat.com",
             "link": "https://go3.tv/extra_sports",
+            "related_to": "     West Ham United   vs   Nottingham Forest"
+        },
+        {
+            "channel": "Idman TV HD",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11175 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "     West Ham United   vs   Nottingham Forest"
         },
         {
@@ -2892,6 +3020,14 @@
             "channel": "Sky Sport Calcio HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "12073 V 29900 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     West Ham United   vs   Nottingham Forest"
+        },
+        {
+            "channel": "Sky Sport Deutsch UHD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11758 H 27500 - 9/10",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     West Ham United   vs   Nottingham Forest"
