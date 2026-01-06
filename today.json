@@ -2199,6 +2199,14 @@
             "date": "2026-01-06"
         },
         {
+            "channel": "** P-O-S-T-P-O-N-E-D **",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Livingston   vs   St Mirren"
+        },
+        {
             "channel": "St Mirren TV ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2374,6 +2382,14 @@
             "freq": "11050 H 20030 - 1/2",
             "encry": "MPEG-4 Biss",
             "link": "https://fasttv.am/tv-channels/fastsports",
+            "related_to": "     Sassuolo   vs   Juventus"
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Intelsat 39 62.0\u00b0e",
+            "freq": "11555 V 30000 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
             "related_to": "     Sassuolo   vs   Juventus"
         },
         {
@@ -2775,6 +2791,14 @@
             "related_to": "     Rangers   vs   Aberdeen"
         },
         {
+            "channel": "Sharjah Sports 2 HD",
+            "sat": "Eutelsat 8 West B 8.0\u00b0w",
+            "freq": "11013 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Rangers   vs   Aberdeen"
+        },
+        {
             "channel": "Sky Go UK [online]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -2813,6 +2837,40 @@
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Rangers   vs   Aberdeen"
+        },
+        {
+            "compet": "Portuguese League Cup (Ta\u00e7a da Liga) - Semi Final",
+            "match": "     Sporting Lisbon   vs   Vit\u00f3ria Guimar\u00e3es",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "20:00",
+            "date": "2026-01-06"
+        },
+        {
+            "channel": "ESPN 4 Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "3980 L 21600 - 5/6",
+            "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     Sporting Lisbon   vs   Vit\u00f3ria Guimar\u00e3es"
+        },
+        {
+            "channel": "Sharjah Sports HD",
+            "sat": "Eutelsat 8 West B 8.0\u00b0w",
+            "freq": "11013 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "https://sba.net.ae/channels/tv/35/stream",
+            "related_to": "     Sporting Lisbon   vs   Vit\u00f3ria Guimar\u00e3es"
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Sporting Lisbon   vs   Vit\u00f3ria Guimar\u00e3es"
         },
         {
             "compet": "English Premier League - Week 21",
@@ -3279,32 +3337,6 @@
             "encry": "",
             "link": "https://voyo.protv.ro/premier-league",
             "related_to": "     West Ham United   vs   Nottingham Forest"
-        },
-        {
-            "compet": "Portuguese League Cup (Ta\u00e7a da Liga) - Semi Final",
-            "match": "     Sporting Lisbon   vs   Vit\u00f3ria Guimar\u00e3es",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "20:00",
-            "date": "2026-01-06"
-        },
-        {
-            "channel": "ESPN 4 Brazil HD",
-            "sat": "SES 6 40.5\u00b0w",
-            "freq": "3980 L 21600 - 5/6",
-            "encry": "HD PowerVu",
-            "link": "#",
-            "related_to": "     Sporting Lisbon   vs   Vit\u00f3ria Guimar\u00e3es"
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Sporting Lisbon   vs   Vit\u00f3ria Guimar\u00e3es"
         }
     ]
 }
