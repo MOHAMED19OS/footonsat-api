@@ -1,104 +1,6 @@
 {
     "footonsat": [
         {
-            "compet": "T\u00fcrkiye Super Cup - Semi Final",
-            "match": "     Fenerbah\u00e7e   vs   Samsunspor",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "17:30",
-            "date": "2026-01-06"
-        },
-        {
-            "channel": "Arena Premium 5 Srbija HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12304 H 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Fenerbah\u00e7e   vs   Samsunspor"
-        },
-        {
-            "channel": "ATV T\u00fcrkiye Europe",
-            "sat": "Turksat 4A 42.0\u00b0e",
-            "freq": "11883 V 04800 - 5/6",
-            "encry": "VideoGuard",
-            "link": "#",
-            "related_to": "     Fenerbah\u00e7e   vs   Samsunspor"
-        },
-        {
-            "channel": "ATV T\u00fcrkiye HD",
-            "sat": "Turksat 4A 42.0\u00b0e",
-            "freq": "12053 H 27500 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Fenerbah\u00e7e   vs   Samsunspor"
-        },
-        {
-            "channel": "Okko Futbol HD ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Fenerbah\u00e7e   vs   Samsunspor"
-        },
-        {
-            "channel": "ON Sport 1 HD",
-            "sat": "Eutelsat 7 West A 7.0\u00b0w",
-            "freq": "11862 V 27500 - 5/6",
-            "encry": "FTA",
-            "link": "#",
-            "related_to": "     Fenerbah\u00e7e   vs   Samsunspor"
-        },
-        {
-            "channel": "Persiana Sports 3 HD",
-            "sat": "MonacoSat 52.0\u00b0e",
-            "freq": "11420 V 27500 - 2/3",
-            "encry": "FTA",
-            "link": "#",
-            "related_to": "     Fenerbah\u00e7e   vs   Samsunspor"
-        },
-        {
-            "channel": "Polsat Sport Premium 1 HD",
-            "sat": "Hotbird 13G 13.0\u00b0e",
-            "freq": "11117 V 27500 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Fenerbah\u00e7e   vs   Samsunspor"
-        },
-        {
-            "channel": "Sharjah Sports HD",
-            "sat": "Eutelsat 8 West B 8.0\u00b0w",
-            "freq": "11013 V 27500 - 5/6",
-            "encry": "FTA",
-            "link": "https://sba.net.ae/channels/tv/35/stream",
-            "related_to": "     Fenerbah\u00e7e   vs   Samsunspor"
-        },
-        {
-            "channel": "Sport 2 Israel HD",
-            "sat": "Amos 3 4.0\u00b0w",
-            "freq": "10972 V 30000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Fenerbah\u00e7e   vs   Samsunspor"
-        },
-        {
-            "channel": "Sportdigital 1+ Deutsch HD",
-            "sat": "Astra 1L 19.2\u00b0e",
-            "freq": "11186 V 22000 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Fenerbah\u00e7e   vs   Samsunspor"
-        },
-        {
-            "channel": "SuperSport 1 Albania HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "10845 H 30000 - 3/5",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Fenerbah\u00e7e   vs   Samsunspor"
-        },
-        {
             "compet": "T\u00fcrkiye 1. Lig - Week 20",
             "match": "     Van BB   vs   Boluspor",
             "flags": {
@@ -4523,6 +4425,348 @@
             "encry": "",
             "link": "https://www.beinconnect.com.tr/spor/",
             "related_to": "     Fatih Karag\u00fcmr\u00fck   vs   Fenerbah\u00e7e"
+        },
+        {
+            "compet": "T\u00fcrkiye 1. Lig - Week 32",
+            "match": "     Istanbulspor   vs   Bodrumspor",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "17:00",
+            "date": "2026-03-22"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Istanbulspor   vs   Bodrumspor"
+        },
+        {
+            "compet": "T\u00fcrkiye 1. Lig - Week 32",
+            "match": "     Boluspor   vs   Bandirmaspor",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "17:00",
+            "date": "2026-03-22"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Boluspor   vs   Bandirmaspor"
+        },
+        {
+            "compet": "T\u00fcrkiye 1. Lig - Week 32",
+            "match": "     Van BB   vs   Sariyer",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "17:00",
+            "date": "2026-03-22"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Van BB   vs   Sariyer"
+        },
+        {
+            "compet": "T\u00fcrkiye 1. Lig - Week 32",
+            "match": "     Ke\u00e7i\u00f6reng\u00fcc\u00fc   vs   Adana Demirspor",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "17:00",
+            "date": "2026-03-22"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Ke\u00e7i\u00f6reng\u00fcc\u00fc   vs   Adana Demirspor"
+        },
+        {
+            "compet": "T\u00fcrkiye 1. Lig - Week 32",
+            "match": "     Umraniyespor   vs   Pendikspor",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "17:00",
+            "date": "2026-03-22"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Umraniyespor   vs   Pendikspor"
+        },
+        {
+            "compet": "T\u00fcrkiye 1. Lig - Week 32",
+            "match": "     Hatayspor   vs   Amedspor",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "17:00",
+            "date": "2026-03-22"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Hatayspor   vs   Amedspor"
+        },
+        {
+            "compet": "T\u00fcrkiye 1. Lig - Week 32",
+            "match": "     Igdir FK   vs   Corum FK",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "17:00",
+            "date": "2026-03-22"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Igdir FK   vs   Corum FK"
+        },
+        {
+            "compet": "T\u00fcrkiye 1. Lig - Week 32",
+            "match": "     Serik Belediyespor   vs   Sakaryaspor",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "17:00",
+            "date": "2026-03-22"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Serik Belediyespor   vs   Sakaryaspor"
+        },
+        {
+            "compet": "T\u00fcrkiye 1. Lig - Week 32",
+            "match": "     Manisa FK   vs   Sivasspor",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "17:00",
+            "date": "2026-03-22"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Manisa FK   vs   Sivasspor"
+        },
+        {
+            "compet": "T\u00fcrkiye 1. Lig - Week 32",
+            "match": "     Esenler Erokspor   vs   Erzurumspor",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "17:00",
+            "date": "2026-03-22"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Esenler Erokspor   vs   Erzurumspor"
+        },
+        {
+            "compet": "T\u00fcrkiye S\u00fcper Lig - Week 27",
+            "match": "     Fenerbah\u00e7e   vs   Gaziantep",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "18:00",
+            "date": "2026-03-22"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Fenerbah\u00e7e   vs   Gaziantep"
+        },
+        {
+            "compet": "T\u00fcrkiye S\u00fcper Lig - Week 27",
+            "match": "     Kayserispor   vs   Fatih Karag\u00fcmr\u00fck",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "18:00",
+            "date": "2026-03-22"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Kayserispor   vs   Fatih Karag\u00fcmr\u00fck"
+        },
+        {
+            "compet": "T\u00fcrkiye S\u00fcper Lig - Week 27",
+            "match": "     Istanbul Basaksehir   vs   Antalyaspor",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "18:00",
+            "date": "2026-03-22"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Istanbul Basaksehir   vs   Antalyaspor"
+        },
+        {
+            "compet": "T\u00fcrkiye S\u00fcper Lig - Week 27",
+            "match": "     Besiktas   vs   Kasimpasa",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "18:00",
+            "date": "2026-03-22"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Besiktas   vs   Kasimpasa"
+        },
+        {
+            "compet": "T\u00fcrkiye S\u00fcper Lig - Week 27",
+            "match": "     Caykur Rizespor   vs   Samsunspor",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "18:00",
+            "date": "2026-03-22"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Caykur Rizespor   vs   Samsunspor"
+        },
+        {
+            "compet": "T\u00fcrkiye S\u00fcper Lig - Week 27",
+            "match": "     Konyaspor   vs   Gen\u00e7lerbirligi",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "18:00",
+            "date": "2026-03-22"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Konyaspor   vs   Gen\u00e7lerbirligi"
+        },
+        {
+            "compet": "T\u00fcrkiye S\u00fcper Lig - Week 27",
+            "match": "     Alanyaspor   vs   Kocaelispor",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "18:00",
+            "date": "2026-03-22"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Alanyaspor   vs   Kocaelispor"
+        },
+        {
+            "compet": "T\u00fcrkiye S\u00fcper Lig - Week 27",
+            "match": "     G\u00f6ztepe   vs   Galatasaray",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "18:00",
+            "date": "2026-03-22"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     G\u00f6ztepe   vs   Galatasaray"
+        },
+        {
+            "compet": "T\u00fcrkiye S\u00fcper Lig - Week 27",
+            "match": "     Ey\u00fcpspor   vs   Trabzonspor",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "18:00",
+            "date": "2026-03-22"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Ey\u00fcpspor   vs   Trabzonspor"
         }
     ]
 }
