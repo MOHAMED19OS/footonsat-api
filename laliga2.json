@@ -2,56 +2,6 @@
     "footonsat": [
         {
             "compet": "Spanish La Liga 2 - Week 21",
-            "match": "     C\u00e1diz   vs   Sporting Gij\u00f3n",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "time": "19:30",
-            "date": "2026-01-09"
-        },
-        {
-            "channel": "DAZN Espa\u00f1a ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     C\u00e1diz   vs   Sporting Gij\u00f3n"
-        },
-        {
-            "channel": "LaLiga Hypermotion HD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "10758 V 22000 - 5/6",
-            "encry": "Seca",
-            "link": "#",
-            "related_to": "     C\u00e1diz   vs   Sporting Gij\u00f3n"
-        },
-        {
-            "channel": "MATCH! Futbol 3 HD",
-            "sat": "Horizons 2 84.8\u00b0e",
-            "freq": "11840 H 28800 - 2/3",
-            "encry": "MPEG-4 Irdeto",
-            "link": "#",
-            "related_to": "     C\u00e1diz   vs   Sporting Gij\u00f3n"
-        },
-        {
-            "channel": "Megogo Sport Ukraine HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12285 V 30000 - 2/3",
-            "encry": "FTA",
-            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
-            "related_to": "     C\u00e1diz   vs   Sporting Gij\u00f3n"
-        },
-        {
-            "channel": "Premier Sports GB Player HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.premiersports.com/fr/live-now-on-demand",
-            "related_to": "     C\u00e1diz   vs   Sporting Gij\u00f3n"
-        },
-        {
-            "compet": "Spanish La Liga 2 - Week 21",
             "match": "     Mirand\u00e9s   vs   Almer\u00eda",
             "flags": {
                 "team1": "spain",
@@ -148,6 +98,14 @@
         },
         {
             "channel": "DAZN Espa\u00f1a ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Las Palmas   vs   Deportivo La Coru\u00f1a"
+        },
+        {
+            "channel": "S Sport+ Streaming",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
