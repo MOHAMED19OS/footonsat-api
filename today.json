@@ -2577,6 +2577,14 @@
             "related_to": "     Manchester City   vs   Exeter City"
         },
         {
+            "channel": "SuperSport 2 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Manchester City   vs   Exeter City"
+        },
+        {
             "channel": "SuperSport M\u00e1Ximo 2A HD",
             "sat": "Express AMU1 36.1\u00b0e",
             "freq": "12169 H 27500 - 2/3",
@@ -2781,6 +2789,14 @@
             "related_to": "     Newcastle United   vs   Bournemouth"
         },
         {
+            "channel": "SuperSport 3 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Newcastle United   vs   Bournemouth"
+        },
+        {
             "channel": "SuperSport M\u00e1Ximo 1 HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11594 V 27500 - 5/6",
@@ -2921,6 +2937,140 @@
             "encry": "LiveOnSat.com",
             "link": "https://tv.kilmarnockfc.co.uk/",
             "related_to": "     Livingston   vs   Kilmarnock"
+        },
+        {
+            "compet": "Scottish League 2 - Week 20",
+            "match": "     Dumbarton   vs   Clyde",
+            "flags": {
+                "team1": "scotland",
+                "team2": "scotland"
+            },
+            "time": "15:00",
+            "date": "2026-01-10"
+        },
+        {
+            "channel": "** P-O-S-T-P-O-N-E-D **",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Dumbarton   vs   Clyde"
+        },
+        {
+            "channel": "Clyde FC Live Stream ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://clydefc.univtec.com/home",
+            "related_to": "     Dumbarton   vs   Clyde"
+        },
+        {
+            "channel": "Dumbarton FC [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://dumbartonfc.univtec.com/home",
+            "related_to": "     Dumbarton   vs   Clyde"
+        },
+        {
+            "compet": "Scottish Championship - Week 22",
+            "match": "     Greenock Morton   vs   Dunfermline Athletic",
+            "flags": {
+                "team1": "scotland",
+                "team2": "scotland"
+            },
+            "time": "15:00",
+            "date": "2026-01-10"
+        },
+        {
+            "channel": "** P-O-S-T-P-O-N-E-D **",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Greenock Morton   vs   Dunfermline Athletic"
+        },
+        {
+            "channel": "Greenock Morton TV [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.gmfc.net/sponsors/",
+            "related_to": "     Greenock Morton   vs   Dunfermline Athletic"
+        },
+        {
+            "channel": "Pars TV [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://parstv.co.uk/",
+            "related_to": "     Greenock Morton   vs   Dunfermline Athletic"
+        },
+        {
+            "compet": "English FA Cup - 3rd Round",
+            "match": "     Burnley   vs   Millwall",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "15:00",
+            "date": "2026-01-10"
+        },
+        {
+            "channel": "SuperSport 4 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Burnley   vs   Millwall"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Burnley   vs   Millwall"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Burnley   vs   Millwall"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Burnley   vs   Millwall"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Burnley   vs   Millwall"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Burnley   vs   Millwall"
+        },
+        {
+            "channel": "ViaPlay \u00cdsland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Burnley   vs   Millwall"
         },
         {
             "compet": "Saudi Professional League - Week 14",
@@ -3203,64 +3353,6 @@
             "related_to": "     Sheffield Wednesday   vs   Brentford"
         },
         {
-            "compet": "English FA Cup - 3rd Round",
-            "match": "     Burnley   vs   Millwall",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "15:00",
-            "date": "2026-01-10"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Burnley   vs   Millwall"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Burnley   vs   Millwall"
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Burnley   vs   Millwall"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Burnley   vs   Millwall"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Burnley   vs   Millwall"
-        },
-        {
-            "channel": "ViaPlay \u00cdsland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Burnley   vs   Millwall"
-        },
-        {
             "compet": "English National League 1 - Week 22",
             "match": "     Sutton United   vs   York City",
             "flags": {
@@ -3313,58 +3405,6 @@
             "encry": "-",
             "link": "https://www.fifa.com/fifaplus/en/live",
             "related_to": "     Elbasani   vs   Flamurtari"
-        },
-        {
-            "compet": "Scottish League 2 - Week 20",
-            "match": "     Dumbarton   vs   Clyde",
-            "flags": {
-                "team1": "scotland",
-                "team2": "scotland"
-            },
-            "time": "15:00",
-            "date": "2026-01-10"
-        },
-        {
-            "channel": "Clyde FC Live Stream ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://clydefc.univtec.com/home",
-            "related_to": "     Dumbarton   vs   Clyde"
-        },
-        {
-            "channel": "Dumbarton FC [$]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://dumbartonfc.univtec.com/home",
-            "related_to": "     Dumbarton   vs   Clyde"
-        },
-        {
-            "compet": "Scottish Championship - Week 22",
-            "match": "     Greenock Morton   vs   Dunfermline Athletic",
-            "flags": {
-                "team1": "scotland",
-                "team2": "scotland"
-            },
-            "time": "15:00",
-            "date": "2026-01-10"
-        },
-        {
-            "channel": "Greenock Morton TV [$]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.gmfc.net/sponsors/",
-            "related_to": "     Greenock Morton   vs   Dunfermline Athletic"
-        },
-        {
-            "channel": "Pars TV [$]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "https://parstv.co.uk/",
-            "related_to": "     Greenock Morton   vs   Dunfermline Athletic"
         },
         {
             "compet": "Scottish Championship - Week 22",
@@ -4983,6 +5023,24 @@
             "encry": "",
             "link": "#",
             "related_to": "     Las Palmas   vs   Deportivo La Coru\u00f1a"
+        },
+        {
+            "compet": "Greek Super League 1 - Week 16",
+            "match": "     Atromitos   vs   Olympiacos",
+            "flags": {
+                "team1": "greece",
+                "team2": "greece"
+            },
+            "time": "17:30",
+            "date": "2026-01-10"
+        },
+        {
+            "channel": "SuperSport 5 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10804 H 29950 - 2/3",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Atromitos   vs   Olympiacos"
         },
         {
             "compet": "Saudi Professional League - Week 14",
