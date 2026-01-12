@@ -29,6 +29,22 @@
             "date": "2026-01-12"
         },
         {
+            "channel": "Azam Sports 2 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Al Hilal   vs   Al Nassr"
+        },
+        {
+            "channel": "Band Sports Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "11680 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Hilal   vs   Al Nassr"
+        },
+        {
             "channel": "Como TV ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -53,10 +69,50 @@
             "related_to": "     Al Hilal   vs   Al Nassr"
         },
         {
+            "channel": "M+ Liga de Campeones HD",
+            "sat": "Astra 1KR 19.2\u00b0e",
+            "freq": "11259 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Al Hilal   vs   Al Nassr"
+        },
+        {
+            "channel": "M+ Vamos 2 Espa\u00f1a HD",
+            "sat": "Astra 1P 19.2\u00b0e",
+            "freq": "11097 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "#",
+            "related_to": "     Al Hilal   vs   Al Nassr"
+        },
+        {
+            "channel": "MAX Sport 1 Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "11475 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Al Hilal   vs   Al Nassr"
+        },
+        {
+            "channel": "Meraj TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11221 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Hilal   vs   Al Nassr"
+        },
+        {
             "channel": "Polsat Sport 1 HD",
             "sat": "Hotbird 13G 13.0\u00b0e",
             "freq": "12265 V 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Al Hilal   vs   Al Nassr"
+        },
+        {
+            "channel": "Prima Sport RO 2 HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12565 V 30000 - 7/8",
+            "encry": "VideoGuard",
             "link": "#",
             "related_to": "     Al Hilal   vs   Al Nassr"
         },
@@ -77,11 +133,27 @@
             "related_to": "     Al Hilal   vs   Al Nassr"
         },
         {
+            "channel": "Setanta Sports 2 Baltic",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Hilal   vs   Al Nassr"
+        },
+        {
             "channel": "Setanta Sports Premium HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "https://tv.kyivstar.ua/en/setantasports",
+            "related_to": "     Al Hilal   vs   Al Nassr"
+        },
+        {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "     Al Hilal   vs   Al Nassr"
         },
         {
@@ -125,10 +197,58 @@
             "related_to": "     Al Hilal   vs   Al Nassr"
         },
         {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Al Hilal   vs   Al Nassr"
+        },
+        {
+            "channel": "SportKlub 2 Slovenija",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11387 H 32000 - 3/4",
+            "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Al Hilal   vs   Al Nassr"
+        },
+        {
+            "channel": "SPOTV Malaysia HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10772 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Hilal   vs   Al Nassr"
+        },
+        {
             "channel": "Sp\u00edler 2 TV Hungary HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "11727 V 28000 - 7/8",
             "encry": "Conax",
+            "link": "#",
+            "related_to": "     Al Hilal   vs   Al Nassr"
+        },
+        {
+            "channel": "ST World Football HD",
+            "sat": "Eutelsat 10B 10.0\u00b0e",
+            "freq": "3736 R 07307 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Al Hilal   vs   Al Nassr"
+        },
+        {
+            "channel": "Strike TV",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "12245 H 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Al Hilal   vs   Al Nassr"
+        },
+        {
+            "channel": "SuperSport ESPN HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
             "link": "#",
             "related_to": "     Al Hilal   vs   Al Nassr"
         },
@@ -195,6 +315,14 @@
             "date": "2026-01-13"
         },
         {
+            "channel": "Band Sports Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "11680 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Fateh   vs   Al Riyadh"
+        },
+        {
             "channel": "Thmanyah KSA [app]",
             "sat": "Download APP 0.0\u00b0",
             "freq": "0000 0",
@@ -211,6 +339,14 @@
             },
             "time": "17:30",
             "date": "2026-01-13"
+        },
+        {
+            "channel": "Azam Sports 4 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Damac FC   vs   Al Ittihad"
         },
         {
             "channel": "Como TV ($/geo/R)",
@@ -237,6 +373,22 @@
             "related_to": "     Damac FC   vs   Al Ittihad"
         },
         {
+            "channel": "M+ Liga de Campeones HD",
+            "sat": "Astra 1KR 19.2\u00b0e",
+            "freq": "11259 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Damac FC   vs   Al Ittihad"
+        },
+        {
+            "channel": "M+ Vamos Espa\u00f1a HD",
+            "sat": "Astra 1P 19.2\u00b0e",
+            "freq": "11156 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "#",
+            "related_to": "     Damac FC   vs   Al Ittihad"
+        },
+        {
             "channel": "Sport TV1 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
@@ -250,6 +402,14 @@
             "freq": "11179 H 27500 - 2/3",
             "encry": "FTA",
             "link": "https://sportitalialive.it/sisolocalcio/",
+            "related_to": "     Damac FC   vs   Al Ittihad"
+        },
+        {
+            "channel": "SPOTV Malaysia HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10772 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
             "related_to": "     Damac FC   vs   Al Ittihad"
         },
         {
@@ -337,10 +497,26 @@
             "related_to": "     Al Ahli   vs   Al Taawoun"
         },
         {
+            "channel": "SPOTV Malaysia HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10772 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Al Taawoun"
+        },
+        {
             "channel": "Thmanyah KSA [app]",
             "sat": "Download APP 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Al Taawoun"
+        },
+        {
+            "channel": "ZBC Channel 2",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "11043 V 45000 - 5/6",
+            "encry": "MPEG-4 Nagra",
             "link": "#",
             "related_to": "     Al Ahli   vs   Al Taawoun"
         },
@@ -421,6 +597,22 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Al Ittihad   vs   Al Ettifaq"
+        },
+        {
+            "channel": "M+ Liga de Campeones HD",
+            "sat": "Astra 1KR 19.2\u00b0e",
+            "freq": "11259 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Al Ittihad   vs   Al Ettifaq"
+        },
+        {
+            "channel": "M+ Vamos 2 Espa\u00f1a HD",
+            "sat": "Astra 1P 19.2\u00b0e",
+            "freq": "11097 V 22000 - 5/6",
+            "encry": "Seca",
             "link": "#",
             "related_to": "     Al Ittihad   vs   Al Ettifaq"
         },
@@ -519,6 +711,14 @@
             "related_to": "     Al Nassr   vs   Al Shabab"
         },
         {
+            "channel": "M+ Vamos Espa\u00f1a HD",
+            "sat": "Astra 1P 19.2\u00b0e",
+            "freq": "11156 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "#",
+            "related_to": "     Al Nassr   vs   Al Shabab"
+        },
+        {
             "channel": "Setanta Sports Premium HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -583,6 +783,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     NEOM SC   vs   Al Hilal"
+        },
+        {
+            "channel": "M+ Vamos Espa\u00f1a HD",
+            "sat": "Astra 1P 19.2\u00b0e",
+            "freq": "11156 V 22000 - 5/6",
+            "encry": "Seca",
             "link": "#",
             "related_to": "     NEOM SC   vs   Al Hilal"
         },
