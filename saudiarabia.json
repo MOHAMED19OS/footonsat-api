@@ -29,6 +29,14 @@
             "date": "2026-01-12"
         },
         {
+            "channel": "Como TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.comofootball.com/liveEvent.html",
+            "related_to": "     Al Hilal   vs   Al Nassr"
+        },
+        {
             "channel": "DAZN France ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -74,6 +82,14 @@
             "freq": "11186 V 22000 - 2/3",
             "encry": "HD Viaccess",
             "link": "#",
+            "related_to": "     Al Hilal   vs   Al Nassr"
+        },
+        {
+            "channel": "Sportitalia SoloCalcio HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11179 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://sportitalialive.it/sisolocalcio/",
             "related_to": "     Al Hilal   vs   Al Nassr"
         },
         {
@@ -165,11 +181,27 @@
             "date": "2026-01-13"
         },
         {
+            "channel": "Como TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.comofootball.com/liveEvent.html",
+            "related_to": "     Damac FC   vs   Al Ittihad"
+        },
+        {
             "channel": "DAZN France ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
             "link": "#",
+            "related_to": "     Damac FC   vs   Al Ittihad"
+        },
+        {
+            "channel": "Sportitalia SoloCalcio HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11179 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://sportitalialive.it/sisolocalcio/",
             "related_to": "     Damac FC   vs   Al Ittihad"
         },
         {
