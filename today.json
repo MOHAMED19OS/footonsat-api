@@ -45,6 +45,14 @@
             "date": "2026-01-12"
         },
         {
+            "channel": "Thmanyah 3 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Hazem   vs   Al Najma"
+        },
+        {
             "channel": "Thmanyah KSA [app]",
             "sat": "Download APP 0.0\u00b0",
             "freq": "0000 0",
@@ -851,6 +859,14 @@
             "related_to": "     Al Hilal   vs   Al Nassr"
         },
         {
+            "channel": "Okko Prime Sport HD ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Hilal   vs   Al Nassr"
+        },
+        {
             "channel": "Polsat Sport 1 HD",
             "sat": "Hotbird 13G 13.0\u00b0e",
             "freq": "12265 V 27500 - 3/4",
@@ -939,11 +955,11 @@
             "related_to": "     Al Hilal   vs   Al Nassr"
         },
         {
-            "channel": "Sportitalia SoloCalcio HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "11179 H 27500 - 2/3",
+            "channel": "Sportitalia HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12341 V 31400 - 5/6",
             "encry": "FTA",
-            "link": "https://sportitalialive.it/sisolocalcio/",
+            "link": "https://sportitalialive.it/sihd/",
             "related_to": "     Al Hilal   vs   Al Nassr"
         },
         {
@@ -959,6 +975,14 @@
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11387 H 32000 - 3/4",
             "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Al Hilal   vs   Al Nassr"
+        },
+        {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Al Hilal   vs   Al Nassr"
         },
@@ -995,10 +1019,26 @@
             "related_to": "     Al Hilal   vs   Al Nassr"
         },
         {
+            "channel": "SuperSport 2 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Al Hilal   vs   Al Nassr"
+        },
+        {
             "channel": "SuperSport ESPN HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "10970 V 30000 - 5/6",
             "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Al Hilal   vs   Al Nassr"
+        },
+        {
+            "channel": "Thmanyah 1 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Al Hilal   vs   Al Nassr"
         },
@@ -1035,6 +1075,14 @@
             },
             "time": "17:30",
             "date": "2026-01-12"
+        },
+        {
+            "channel": "Thmanyah 2 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Ettifaq   vs   Al Khaleej"
         },
         {
             "channel": "Thmanyah KSA [app]",
@@ -1397,6 +1445,14 @@
             "related_to": "     Liverpool   vs   Barnsley"
         },
         {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "sat": " \u00b0",
+            "freq": " ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Liverpool   vs   Barnsley"
+        },
+        {
             "channel": "Setanta Sports Ukraine HD",
             "sat": "Astra 4A 5.0\u00b0e",
             "freq": "12207 V 30000 - 2/3",
@@ -1425,6 +1481,14 @@
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "11766 V 28000 - 7/8",
             "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Liverpool   vs   Barnsley"
+        },
+        {
+            "channel": "SuperSport 2 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Liverpool   vs   Barnsley"
         },
@@ -2393,6 +2457,14 @@
             "related_to": "     Sevilla   vs   Celta Vigo"
         },
         {
+            "channel": "SuperSport 3 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Sevilla   vs   Celta Vigo"
+        },
+        {
             "channel": "SuperSport LaLiga HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11594 V 27500 - 5/6",
@@ -2599,6 +2671,14 @@
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Paris FC"
+        },
+        {
+            "channel": "SuperSport 4 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Paris St Germain   vs   Paris FC"
         },
