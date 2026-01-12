@@ -2,6 +2,64 @@
     "footonsat": [
         {
             "compet": "ULEB Euroleague - Round 22",
+            "match": "     Partizan Belgrade   vs   Olympiacos",
+            "flags": {
+                "team1": "serbia",
+                "team2": "greece"
+            },
+            "time": "18:30",
+            "date": "2026-01-14"
+        },
+        {
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Partizan Belgrade   vs   Olympiacos"
+        },
+        {
+            "channel": "EuroLeague TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://tv.euroleague.net/",
+            "related_to": "     Partizan Belgrade   vs   Olympiacos"
+        },
+        {
+            "channel": "Magenta Sport ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": "     Partizan Belgrade   vs   Olympiacos"
+        },
+        {
+            "channel": "Nova Sports Prime Cyprus HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Partizan Belgrade   vs   Olympiacos"
+        },
+        {
+            "channel": "Nova Sports Prime Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Partizan Belgrade   vs   Olympiacos"
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Partizan Belgrade   vs   Olympiacos"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 22",
             "match": "     Dubai Basketball   vs   Virtus Bologna",
             "flags": {
                 "team1": "uae",
@@ -32,6 +90,22 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": "     Dubai Basketball   vs   Virtus Bologna"
+        },
+        {
+            "channel": "Nova Sports 4 Cyprus HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12169 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Dubai Basketball   vs   Virtus Bologna"
+        },
+        {
+            "channel": "Nova Sports 4 Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12169 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
             "related_to": "     Dubai Basketball   vs   Virtus Bologna"
         },
         {
@@ -77,10 +151,34 @@
             "related_to": "     Anadolu Efes   vs   Baskonia"
         },
         {
+            "channel": "Nova Sports 5 Cyprus HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11823 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Anadolu Efes   vs   Baskonia"
+        },
+        {
+            "channel": "Nova Sports 5 Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11823 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Anadolu Efes   vs   Baskonia"
+        },
+        {
             "channel": "S Sport+ Streaming",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Anadolu Efes   vs   Baskonia"
+        },
+        {
+            "channel": "Setanta Sports Ukraine HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "12207 V 30000 - 2/3",
+            "encry": "HD Verimatrix",
             "link": "#",
             "related_to": "     Anadolu Efes   vs   Baskonia"
         },
@@ -116,6 +214,22 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": "     Bayern Munich   vs   Panathinaikos"
+        },
+        {
+            "channel": "Nova Sports Prime Cyprus HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Bayern Munich   vs   Panathinaikos"
+        },
+        {
+            "channel": "Nova Sports Prime Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
             "related_to": "     Bayern Munich   vs   Panathinaikos"
         },
         {
@@ -161,6 +275,22 @@
             "related_to": "     Maccabi Tel Aviv   vs   Zalgiris Kaunas"
         },
         {
+            "channel": "Nova Sports 2 Cyprus HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Maccabi Tel Aviv   vs   Zalgiris Kaunas"
+        },
+        {
+            "channel": "Nova Sports 2 Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Maccabi Tel Aviv   vs   Zalgiris Kaunas"
+        },
+        {
             "channel": "S Sport+ Streaming",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -203,11 +333,35 @@
             "related_to": "     Olimpia Milano   vs   Red Star Belgrade"
         },
         {
+            "channel": "Nova Sports 6 Cyprus HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11804 V 29700 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Olimpia Milano   vs   Red Star Belgrade"
+        },
+        {
+            "channel": "Nova Sports 6 Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11804 V 29700 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Olimpia Milano   vs   Red Star Belgrade"
+        },
+        {
             "channel": "S Sport+ Streaming",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
             "link": "#",
+            "related_to": "     Olimpia Milano   vs   Red Star Belgrade"
+        },
+        {
+            "channel": "Setanta Sports Premium HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.kyivstar.ua/en/setantasports",
             "related_to": "     Olimpia Milano   vs   Red Star Belgrade"
         },
         {
@@ -245,10 +399,42 @@
             "related_to": "     Paris Basketball   vs   Monaco Basket"
         },
         {
+            "channel": "Nova Sports 4 Cyprus HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12169 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Paris Basketball   vs   Monaco Basket"
+        },
+        {
+            "channel": "Nova Sports 4 Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12169 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Paris Basketball   vs   Monaco Basket"
+        },
+        {
             "channel": "S Sport+ Streaming",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Paris Basketball   vs   Monaco Basket"
+        },
+        {
+            "channel": "Setanta Sports 2 Eurasia HD",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "12657 V 45000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Paris Basketball   vs   Monaco Basket"
+        },
+        {
+            "channel": "Setanta Sports Ukraine HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "12207 V 30000 - 2/3",
+            "encry": "HD Verimatrix",
             "link": "#",
             "related_to": "     Paris Basketball   vs   Monaco Basket"
         },
@@ -287,10 +473,42 @@
             "related_to": "     Fenerbahce   vs   Valencia"
         },
         {
+            "channel": "Nova Sports 4 Cyprus HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12169 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Fenerbahce   vs   Valencia"
+        },
+        {
+            "channel": "Nova Sports 4 Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12169 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Fenerbahce   vs   Valencia"
+        },
+        {
             "channel": "S Sport+ Streaming",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Fenerbahce   vs   Valencia"
+        },
+        {
+            "channel": "Setanta Sports 1 Eurasia HD",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "12657 V 45000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Fenerbahce   vs   Valencia"
+        },
+        {
+            "channel": "Setanta Sports Ukraine HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "12207 V 30000 - 2/3",
+            "encry": "HD Verimatrix",
             "link": "#",
             "related_to": "     Fenerbahce   vs   Valencia"
         },
@@ -329,54 +547,28 @@
             "related_to": "     Asvel Villeurbanne   vs   Hapoel Tel Aviv"
         },
         {
+            "channel": "Nova Sports Start Cyprus HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11804 V 29700 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Asvel Villeurbanne   vs   Hapoel Tel Aviv"
+        },
+        {
+            "channel": "Nova Sports Start Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11804 V 29700 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Asvel Villeurbanne   vs   Hapoel Tel Aviv"
+        },
+        {
             "channel": "S Sport+ Streaming",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
             "link": "#",
             "related_to": "     Asvel Villeurbanne   vs   Hapoel Tel Aviv"
-        },
-        {
-            "compet": "ULEB Euroleague - Round 22",
-            "match": "     Partizan Belgrade   vs   Olympiacos",
-            "flags": {
-                "team1": "serbia",
-                "team2": "greece"
-            },
-            "time": "19:30",
-            "date": "2026-01-16"
-        },
-        {
-            "channel": "Arena Premium 1 Srbija HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Partizan Belgrade   vs   Olympiacos"
-        },
-        {
-            "channel": "EuroLeague TV ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "https://tv.euroleague.net/",
-            "related_to": "     Partizan Belgrade   vs   Olympiacos"
-        },
-        {
-            "channel": "Magenta Sport ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
-            "related_to": "     Partizan Belgrade   vs   Olympiacos"
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Partizan Belgrade   vs   Olympiacos"
         },
         {
             "compet": "ULEB Euroleague - Round 22",
@@ -413,12 +605,86 @@
             "related_to": "     Real Madrid   vs   Barcelona"
         },
         {
+            "channel": "Nova Sports Prime Cyprus HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Barcelona"
+        },
+        {
+            "channel": "Nova Sports Prime Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Barcelona"
+        },
+        {
             "channel": "S Sport+ Streaming",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
             "link": "#",
             "related_to": "     Real Madrid   vs   Barcelona"
+        },
+        {
+            "channel": "Setanta Sports 2 Eurasia HD",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "12657 V 45000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Barcelona"
+        },
+        {
+            "channel": "Setanta Sports Premium HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.kyivstar.ua/en/setantasports",
+            "related_to": "     Real Madrid   vs   Barcelona"
+        },
+        {
+            "channel": "Sport TV7 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Barcelona"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 23",
+            "match": "     Olympiacos   vs   Maccabi Tel Aviv",
+            "flags": {
+                "team1": "greece",
+                "team2": "israel"
+            },
+            "time": "17:30",
+            "date": "2026-01-20"
+        },
+        {
+            "channel": "EuroLeague TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://tv.euroleague.net/",
+            "related_to": "     Olympiacos   vs   Maccabi Tel Aviv"
+        },
+        {
+            "channel": "Magenta Sport ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": "     Olympiacos   vs   Maccabi Tel Aviv"
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Olympiacos   vs   Maccabi Tel Aviv"
         },
         {
             "compet": "ULEB Euroleague - Round 23",
@@ -461,7 +727,7 @@
                 "team1": "monaco",
                 "team2": "serbia"
             },
-            "time": "18:00",
+            "time": "17:45",
             "date": "2026-01-20"
         },
         {
@@ -521,40 +787,6 @@
             "encry": "",
             "link": "#",
             "related_to": "     Asvel Villeurbanne   vs   Zalgiris Kaunas"
-        },
-        {
-            "compet": "ULEB Euroleague - Round 23",
-            "match": "     Olympiacos   vs   Maccabi Tel Aviv",
-            "flags": {
-                "team1": "greece",
-                "team2": "israel"
-            },
-            "time": "19:15",
-            "date": "2026-01-20"
-        },
-        {
-            "channel": "EuroLeague TV ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "https://tv.euroleague.net/",
-            "related_to": "     Olympiacos   vs   Maccabi Tel Aviv"
-        },
-        {
-            "channel": "Magenta Sport ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
-            "related_to": "     Olympiacos   vs   Maccabi Tel Aviv"
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Olympiacos   vs   Maccabi Tel Aviv"
         },
         {
             "compet": "ULEB Euroleague - Round 23",
@@ -625,6 +857,14 @@
             "related_to": "     Barcelona   vs   Dubai Basketball"
         },
         {
+            "channel": "Sport TV3 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Dubai Basketball"
+        },
+        {
             "compet": "ULEB Euroleague - Round 23",
             "match": "     Valencia   vs   Paris Basketball",
             "flags": {
@@ -660,12 +900,12 @@
         },
         {
             "compet": "ULEB Euroleague - Round 23",
-            "match": "     Partizan Belgrade   vs   Bayern Munich",
+            "match": "     Bayern Munich   vs   Panathinaikos",
             "flags": {
-                "team1": "serbia",
-                "team2": "germany"
+                "team1": "germany",
+                "team2": "greece"
             },
-            "time": "19:45",
+            "time": "19:30",
             "date": "2026-01-20"
         },
         {
@@ -674,7 +914,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://tv.euroleague.net/",
-            "related_to": "     Partizan Belgrade   vs   Bayern Munich"
+            "related_to": "     Bayern Munich   vs   Panathinaikos"
         },
         {
             "channel": "Magenta Sport ($/geo/R)",
@@ -682,7 +922,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
-            "related_to": "     Partizan Belgrade   vs   Bayern Munich"
+            "related_to": "     Bayern Munich   vs   Panathinaikos"
         },
         {
             "channel": "S Sport+ Streaming",
@@ -690,7 +930,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "#",
-            "related_to": "     Partizan Belgrade   vs   Bayern Munich"
+            "related_to": "     Bayern Munich   vs   Panathinaikos"
         },
         {
             "compet": "ULEB Euroleague - Round 23",
@@ -898,40 +1138,6 @@
         },
         {
             "compet": "ULEB Euroleague - Round 24",
-            "match": "     Paris Basketball   vs   Dubai Basketball",
-            "flags": {
-                "team1": "france",
-                "team2": "uae"
-            },
-            "time": "19:45",
-            "date": "2026-01-22"
-        },
-        {
-            "channel": "EuroLeague TV ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "https://tv.euroleague.net/",
-            "related_to": "     Paris Basketball   vs   Dubai Basketball"
-        },
-        {
-            "channel": "Magenta Sport ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
-            "related_to": "     Paris Basketball   vs   Dubai Basketball"
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Paris Basketball   vs   Dubai Basketball"
-        },
-        {
-            "compet": "ULEB Euroleague - Round 24",
             "match": "     Real Madrid   vs   Monaco Basket",
             "flags": {
                 "team1": "spain",
@@ -966,6 +1172,40 @@
         },
         {
             "compet": "ULEB Euroleague - Round 24",
+            "match": "     Paris Basketball   vs   Dubai Basketball",
+            "flags": {
+                "team1": "france",
+                "team2": "uae"
+            },
+            "time": "20:00",
+            "date": "2026-01-22"
+        },
+        {
+            "channel": "EuroLeague TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://tv.euroleague.net/",
+            "related_to": "     Paris Basketball   vs   Dubai Basketball"
+        },
+        {
+            "channel": "Magenta Sport ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": "     Paris Basketball   vs   Dubai Basketball"
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Paris Basketball   vs   Dubai Basketball"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 24",
             "match": "     Fenerbahce   vs   Baskonia",
             "flags": {
                 "team1": "turkey",
@@ -997,40 +1237,6 @@
             "encry": "",
             "link": "#",
             "related_to": "     Fenerbahce   vs   Baskonia"
-        },
-        {
-            "compet": "ULEB Euroleague - Round 24",
-            "match": "     Asvel Villeurbanne   vs   Barcelona",
-            "flags": {
-                "team1": "france",
-                "team2": "spain"
-            },
-            "time": "19:00",
-            "date": "2026-01-23"
-        },
-        {
-            "channel": "EuroLeague TV ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "https://tv.euroleague.net/",
-            "related_to": "     Asvel Villeurbanne   vs   Barcelona"
-        },
-        {
-            "channel": "Magenta Sport ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
-            "related_to": "     Asvel Villeurbanne   vs   Barcelona"
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Asvel Villeurbanne   vs   Barcelona"
         },
         {
             "compet": "ULEB Euroleague - Round 24",
@@ -1099,6 +1305,40 @@
             "encry": "",
             "link": "#",
             "related_to": "     Partizan Belgrade   vs   Hapoel Tel Aviv"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 24",
+            "match": "     Asvel Villeurbanne   vs   Barcelona",
+            "flags": {
+                "team1": "france",
+                "team2": "spain"
+            },
+            "time": "19:45",
+            "date": "2026-01-23"
+        },
+        {
+            "channel": "EuroLeague TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://tv.euroleague.net/",
+            "related_to": "     Asvel Villeurbanne   vs   Barcelona"
+        },
+        {
+            "channel": "Magenta Sport ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": "     Asvel Villeurbanne   vs   Barcelona"
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Asvel Villeurbanne   vs   Barcelona"
         },
         {
             "compet": "ULEB Euroleague - Round 25",
