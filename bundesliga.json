@@ -459,6 +459,14 @@
             "related_to": "     Stuttgart   vs   Eintracht Frankfurt"
         },
         {
+            "channel": "Sport TV Azerbaijan (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Stuttgart   vs   Eintracht Frankfurt"
+        },
+        {
             "channel": "Sport TV3 Slovenija",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1057,6 +1065,14 @@
             "sat": "Amos 3 4.0\u00b0w",
             "freq": "10972 V 30000 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Werder Bremen"
+        },
+        {
+            "channel": "Sport TV Azerbaijan (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Borussia Dortmund   vs   Werder Bremen"
         },
@@ -1744,6 +1760,14 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
+            "related_to": "     Wolfsburg   vs   St Pauli"
+        },
+        {
+            "channel": "Go3 Sport 4 Baltic",
+            "sat": " 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://go3.tv/en/live_tv",
             "related_to": "     Wolfsburg   vs   St Pauli"
         },
         {
@@ -3665,6 +3689,14 @@
             "related_to": "     Borussia Dortmund   vs   St Pauli"
         },
         {
+            "channel": "Go3 Sport 2 Baltic HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11958 H 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "https://go3.tv/en/live_tv",
+            "related_to": "     Borussia Dortmund   vs   St Pauli"
+        },
+        {
             "channel": "Nova Sport 5 Czech HD",
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12129 V 29900 - 3/4",
@@ -4369,6 +4401,14 @@
             "related_to": "     RB Leipzig   vs   Bayern Munich"
         },
         {
+            "channel": "Go3 Sport 2 Baltic HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11958 H 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "https://go3.tv/en/live_tv",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
             "channel": "Nova Sport 3 Czech HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11934 V 27500 - 3/4",
@@ -4635,6 +4675,14 @@
             "related_to": "     Stuttgart   vs   Union Berlin"
         },
         {
+            "channel": "DAZN 3 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Stuttgart   vs   Union Berlin"
+        },
+        {
             "channel": "DAZN Deutsch ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -4883,6 +4931,14 @@
             },
             "time": "16:30",
             "date": "2026-01-18"
+        },
+        {
+            "channel": "DAZN 3 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Augsburg   vs   Freiburg"
         },
         {
             "channel": "DAZN Deutsch ($/geo/R)",
