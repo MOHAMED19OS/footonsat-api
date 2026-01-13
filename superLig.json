@@ -1,56 +1,6 @@
 {
     "footonsat": [
         {
-            "compet": "T\u00fcrkiye 1. Lig - Week 20",
-            "match": "     Manisa FK   vs   Umraniyespor",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "17:00",
-            "date": "2026-01-12"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Manisa FK   vs   Umraniyespor"
-        },
-        {
-            "channel": "beIN Sports T\u00fcrkiye 2 HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11676 V 24444 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Manisa FK   vs   Umraniyespor"
-        },
-        {
-            "channel": "SportKlub 4 Hrvatska",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Manisa FK   vs   Umraniyespor"
-        },
-        {
-            "channel": "SportKlub 4 Slovenija",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Manisa FK   vs   Umraniyespor"
-        },
-        {
-            "channel": "TRT Spor T\u00fcrkiye HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11054 V 30000 - 3/4",
-            "encry": "FTA",
-            "link": "https://www.trtizle.com/canli/tv/trt-spor",
-            "related_to": "     Manisa FK   vs   Umraniyespor"
-        },
-        {
             "compet": "T\u00fcrkiye Cup - Group Stage: Round 2",
             "match": "     Alanyaspor   vs   Fatih Karag\u00fcmr\u00fck",
             "flags": {
@@ -807,11 +757,35 @@
             "date": "2026-01-18"
         },
         {
+            "channel": "Arena Sport 2 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11798 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Kocaelispor   vs   Trabzonspor"
+        },
+        {
+            "channel": "beIN Connect Canada",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-ca.beinsports.com/",
+            "related_to": "     Kocaelispor   vs   Trabzonspor"
+        },
+        {
             "channel": "beIN Connect T\u00fcrkiye",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Kocaelispor   vs   Trabzonspor"
+        },
+        {
+            "channel": "beIN Connect USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://connect-us.beinsports.com/",
             "related_to": "     Kocaelispor   vs   Trabzonspor"
         },
         {
@@ -827,6 +801,14 @@
             "sat": "Turksat 3A 42.0\u00b0e",
             "freq": "11180 H 30000 - 3/4",
             "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Kocaelispor   vs   Trabzonspor"
+        },
+        {
+            "channel": "beIN Sports US 4",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Kocaelispor   vs   Trabzonspor"
         },
@@ -909,6 +891,22 @@
             "date": "2026-01-18"
         },
         {
+            "channel": "Arena Sport 3 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11798 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Alanyaspor   vs   Fenerbah\u00e7e"
+        },
+        {
+            "channel": "beIN Connect Canada",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-ca.beinsports.com/",
+            "related_to": "     Alanyaspor   vs   Fenerbah\u00e7e"
+        },
+        {
             "channel": "beIN Connect Philippines",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -925,6 +923,22 @@
             "related_to": "     Alanyaspor   vs   Fenerbah\u00e7e"
         },
         {
+            "channel": "beIN Connect USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://connect-us.beinsports.com/",
+            "related_to": "     Alanyaspor   vs   Fenerbah\u00e7e"
+        },
+        {
+            "channel": "beIN Sports France 10 HD max",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11895 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Alanyaspor   vs   Fenerbah\u00e7e"
+        },
+        {
             "channel": "beIN Sports Philippines 2 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -937,6 +951,14 @@
             "sat": "Turksat 3A 42.0\u00b0e",
             "freq": "11180 H 30000 - 3/4",
             "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Alanyaspor   vs   Fenerbah\u00e7e"
+        },
+        {
+            "channel": "beIN Sports US 7",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Alanyaspor   vs   Fenerbah\u00e7e"
         },
@@ -1106,6 +1128,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Besiktas   vs   Kayserispor"
+        },
+        {
+            "channel": "beIN Sports France 5 HD max",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
             "related_to": "     Besiktas   vs   Kayserispor"
         },
         {

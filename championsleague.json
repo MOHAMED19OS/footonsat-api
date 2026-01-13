@@ -101,6 +101,14 @@
             "date": "2026-01-20"
         },
         {
+            "channel": "beIN Sports MENA English 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Bod\u00f8/Glimt   vs   Manchester City"
+        },
+        {
             "channel": "Canal+ Live 1 France HD",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "11856 V 29700 - 2/3",
@@ -468,29 +476,29 @@
         },
         {
             "compet": "UEFA Champions League - Matchday 7",
-            "match": "     FC Copenhagen   vs   Napoli",
+            "match": "     Villarreal   vs   Ajax",
             "flags": {
-                "team1": "denmark",
-                "team2": "italy"
+                "team1": "spain",
+                "team2": "holland"
             },
             "time": "20:00",
             "date": "2026-01-20"
         },
         {
-            "channel": "Canal+ 360 Polska HD",
-            "sat": "Hotbird 13G 13.0\u00b0e",
-            "freq": "11411 H 27500 - 5/6",
-            "encry": "HD Viaccess",
+            "channel": "beIN Sports MENA 7 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "#",
-            "related_to": "     FC Copenhagen   vs   Napoli"
+            "related_to": "     Villarreal   vs   Ajax"
         },
         {
-            "channel": "Canal+ Live 5 France HD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "12012 V 29700 - 2/3",
+            "channel": "Canal+ Live 6 France HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "12728 V 29700 - 2/3",
             "encry": "HD NagraVision",
             "link": "#",
-            "related_to": "     FC Copenhagen   vs   Napoli"
+            "related_to": "     Villarreal   vs   Ajax"
         },
         {
             "channel": "DAZN Deutsch ($/geo/R)",
@@ -498,7 +506,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
-            "related_to": "     FC Copenhagen   vs   Napoli"
+            "related_to": "     Villarreal   vs   Ajax"
         },
         {
             "channel": "Discovery+ UK ($/geo/R)",
@@ -506,39 +514,15 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "     FC Copenhagen   vs   Napoli"
+            "related_to": "     Villarreal   vs   Ajax"
         },
         {
-            "channel": "Play Sports 7 Belgium",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     FC Copenhagen   vs   Napoli"
-        },
-        {
-            "channel": "TNT Sports 5 HD",
+            "channel": "TNT Sports 6",
             "sat": "Astra 2G 28.2\u00b0e",
             "freq": "11597 V 22000 - 5/6",
             "encry": "VideoGuard",
             "link": "#",
-            "related_to": "     FC Copenhagen   vs   Napoli"
-        },
-        {
-            "channel": "Tring Sport 4 HD",
-            "sat": "Hellas Sat 4 39.0\u00b0e",
-            "freq": "10890 H 30000 - 5/6",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     FC Copenhagen   vs   Napoli"
-        },
-        {
-            "channel": "TV3+ Dansk HD",
-            "sat": "Astra 4A 5.0\u00b0e",
-            "freq": "11823 V 27500 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     FC Copenhagen   vs   Napoli"
+            "related_to": "     Villarreal   vs   Ajax"
         },
         {
             "channel": "ViaPlay Danmark HD",
@@ -546,7 +530,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
-            "related_to": "     FC Copenhagen   vs   Napoli"
+            "related_to": "     Villarreal   vs   Ajax"
         },
         {
             "channel": "ViaPlay Sverige HD",
@@ -554,7 +538,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
-            "related_to": "     FC Copenhagen   vs   Napoli"
+            "related_to": "     Villarreal   vs   Ajax"
         },
         {
             "compet": "UEFA Champions League - Matchday 7",
@@ -565,6 +549,14 @@
             },
             "time": "20:00",
             "date": "2026-01-20"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Inter Milan   vs   Arsenal"
         },
         {
             "channel": "Canal+ Extra 2 Polska HD",
@@ -672,6 +664,96 @@
         },
         {
             "compet": "UEFA Champions League - Matchday 7",
+            "match": "     FC Copenhagen   vs   Napoli",
+            "flags": {
+                "team1": "denmark",
+                "team2": "italy"
+            },
+            "time": "20:00",
+            "date": "2026-01-20"
+        },
+        {
+            "channel": "Canal+ 360 Polska HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11411 H 27500 - 5/6",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     FC Copenhagen   vs   Napoli"
+        },
+        {
+            "channel": "Canal+ Live 5 France HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     FC Copenhagen   vs   Napoli"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     FC Copenhagen   vs   Napoli"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "     FC Copenhagen   vs   Napoli"
+        },
+        {
+            "channel": "Play Sports 7 Belgium",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     FC Copenhagen   vs   Napoli"
+        },
+        {
+            "channel": "TNT Sports 5 HD",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11597 V 22000 - 5/6",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     FC Copenhagen   vs   Napoli"
+        },
+        {
+            "channel": "Tring Sport 4 HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     FC Copenhagen   vs   Napoli"
+        },
+        {
+            "channel": "TV3+ Dansk HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11823 V 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     FC Copenhagen   vs   Napoli"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     FC Copenhagen   vs   Napoli"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     FC Copenhagen   vs   Napoli"
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 7",
             "match": "     Olympiacos   vs   Bayer Leverkusen",
             "flags": {
                 "team1": "greece",
@@ -735,64 +817,6 @@
             "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Olympiacos   vs   Bayer Leverkusen"
-        },
-        {
-            "compet": "UEFA Champions League - Matchday 7",
-            "match": "     Villarreal   vs   Ajax",
-            "flags": {
-                "team1": "spain",
-                "team2": "holland"
-            },
-            "time": "20:00",
-            "date": "2026-01-20"
-        },
-        {
-            "channel": "Canal+ Live 6 France HD",
-            "sat": "Astra 1L 19.2\u00b0e",
-            "freq": "12728 V 29700 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Villarreal   vs   Ajax"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Villarreal   vs   Ajax"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "     Villarreal   vs   Ajax"
-        },
-        {
-            "channel": "TNT Sports 6",
-            "sat": "Astra 2G 28.2\u00b0e",
-            "freq": "11597 V 22000 - 5/6",
-            "encry": "VideoGuard",
-            "link": "#",
-            "related_to": "     Villarreal   vs   Ajax"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Villarreal   vs   Ajax"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Villarreal   vs   Ajax"
         },
         {
             "compet": "UEFA Champions League - Matchday 7",
