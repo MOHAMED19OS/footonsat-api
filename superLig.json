@@ -113,14 +113,6 @@
             "related_to": "     Fethiyespor   vs   Galatasaray"
         },
         {
-            "channel": "Okko Futbol HD ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Fethiyespor   vs   Galatasaray"
-        },
-        {
             "channel": "SportKlub 1 Slovenija HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11471 H 30000 - 3/4",
@@ -923,6 +915,14 @@
             "related_to": "     Alanyaspor   vs   Fenerbah\u00e7e"
         },
         {
+            "channel": "beIN Connect Australia",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://connect-au.beinsports.com/en",
+            "related_to": "     Alanyaspor   vs   Fenerbah\u00e7e"
+        },
+        {
             "channel": "beIN Connect Canada",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -931,11 +931,35 @@
             "related_to": "     Alanyaspor   vs   Fenerbah\u00e7e"
         },
         {
+            "channel": "beIN Connect Hong Kong",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-hk.beinsports.com/en",
+            "related_to": "     Alanyaspor   vs   Fenerbah\u00e7e"
+        },
+        {
+            "channel": "beIN Connect New Zealand",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-nz.beinsports.com/en",
+            "related_to": "     Alanyaspor   vs   Fenerbah\u00e7e"
+        },
+        {
             "channel": "beIN Connect Philippines",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "https://connect-ph.beinsports.com/en",
+            "related_to": "     Alanyaspor   vs   Fenerbah\u00e7e"
+        },
+        {
+            "channel": "beIN Connect Thailand",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-th.beinsports.com/en",
             "related_to": "     Alanyaspor   vs   Fenerbah\u00e7e"
         },
         {
@@ -955,10 +979,26 @@
             "related_to": "     Alanyaspor   vs   Fenerbah\u00e7e"
         },
         {
+            "channel": "beIN Sports 2 HD (Astro)",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Alanyaspor   vs   Fenerbah\u00e7e"
+        },
+        {
             "channel": "beIN Sports France 10 HD max",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "11895 V 29700 - 2/3",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Alanyaspor   vs   Fenerbah\u00e7e"
+        },
+        {
+            "channel": "beIN Sports Indonesia 2 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Alanyaspor   vs   Fenerbah\u00e7e"
         },
@@ -991,6 +1031,62 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Alanyaspor   vs   Fenerbah\u00e7e"
+        },
+        {
+            "channel": "Disney+ Argentina ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Alanyaspor   vs   Fenerbah\u00e7e"
+        },
+        {
+            "channel": "Disney+ Brazil ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Alanyaspor   vs   Fenerbah\u00e7e"
+        },
+        {
+            "channel": "Disney+ Caribbean ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Alanyaspor   vs   Fenerbah\u00e7e"
+        },
+        {
+            "channel": "Disney+ Chile ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Alanyaspor   vs   Fenerbah\u00e7e"
+        },
+        {
+            "channel": "Disney+ Mexico ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Alanyaspor   vs   Fenerbah\u00e7e"
+        },
+        {
+            "channel": "Disney+ Norte ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Alanyaspor   vs   Fenerbah\u00e7e"
+        },
+        {
+            "channel": "Disney+ Sur ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Alanyaspor   vs   Fenerbah\u00e7e"
         },
