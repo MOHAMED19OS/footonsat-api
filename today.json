@@ -2403,6 +2403,14 @@
             "date": "2026-01-14"
         },
         {
+            "channel": "Sport 3 Hungary HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://hu.selekt.tv/sport3",
+            "related_to": "     Fafe   vs   Sporting Braga"
+        },
+        {
             "channel": "Sport TV2 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
@@ -4653,6 +4661,14 @@
             "related_to": "     Albacete   vs   Real Madrid"
         },
         {
+            "channel": "Sport 1 Hungary HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "12034 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Albacete   vs   Real Madrid"
+        },
+        {
             "channel": "Sport TV6 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12360 H 27500 - 3/4",
@@ -5261,6 +5277,14 @@
             "related_to": "     Real Betis   vs   Elche"
         },
         {
+            "channel": "Sport 2 Hungary HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "11766 V 28000 - 7/8",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Real Betis   vs   Elche"
+        },
+        {
             "compet": "French F\u00e9minine Premi\u00e8re Ligue - Week 12",
             "match": "     Paris FC   vs   Nantes",
             "flags": {
@@ -5342,6 +5366,14 @@
             "freq": "12360 H 27500 - 3/4",
             "encry": "MPEG-4 Nagra",
             "link": "https://www.rtp.pt/play/direto/rtp1",
+            "related_to": "     FC Porto   vs   Benfica"
+        },
+        {
+            "channel": "Sport 3 Hungary HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://hu.selekt.tv/sport3",
             "related_to": "     FC Porto   vs   Benfica"
         },
         {
