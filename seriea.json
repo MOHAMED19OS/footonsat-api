@@ -27,18 +27,18 @@
             "related_to": "     Napoli   vs   Parma"
         },
         {
-            "channel": "Arena Sport 1 Slovenija HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
+            "channel": "Arena Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11678 H 30000 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Napoli   vs   Parma"
         },
         {
-            "channel": "Arena Sport 4 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11554 H 30000 - 5/6",
-            "encry": "HD NagraVision",
+            "channel": "Arena Sport 1 Slovenija HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Napoli   vs   Parma"
         },
@@ -86,6 +86,14 @@
             "channel": "DAZN 1 Italia HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "11843 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Napoli   vs   Parma"
+        },
+        {
+            "channel": "DAZN 2 Bar Deutsch HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11798 H 27500 - 9/0",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Napoli   vs   Parma"
@@ -151,6 +159,14 @@
             "sat": "Hotbird 13G 13.0\u00b0e",
             "freq": "11488 H 27500 - 3/4",
             "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Napoli   vs   Parma"
+        },
+        {
+            "channel": "ESPN 4 Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "3980 L 21600 - 5/6",
+            "encry": "HD PowerVu",
             "link": "#",
             "related_to": "     Napoli   vs   Parma"
         },
@@ -480,6 +496,14 @@
             "channel": "DAZN 1 Italia HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "11843 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Inter Milan   vs   Lecce"
+        },
+        {
+            "channel": "DAZN 2 Bar Deutsch HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11798 H 27500 - 9/0",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Inter Milan   vs   Lecce"
@@ -831,6 +855,14 @@
             "related_to": "     Hellas Verona   vs   Bologna"
         },
         {
+            "channel": "DAZN 1 Bar Deutsch HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12070 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Hellas Verona   vs   Bologna"
+        },
+        {
             "channel": "DAZN Deutsch ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1165,6 +1197,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Como   vs   AC Milan"
+        },
+        {
+            "channel": "DAZN 1 Bar Deutsch HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12070 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Como   vs   AC Milan"
         },
@@ -2795,6 +2835,14 @@
             "related_to": "     Parma   vs   Genoa"
         },
         {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Parma   vs   Genoa"
+        },
+        {
             "channel": "Arena Sport 1 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11678 H 30000 - 3/4",
@@ -2831,6 +2879,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Parma   vs   Genoa"
+        },
+        {
+            "channel": "DAZN 2 Bar Deutsch HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11798 H 27500 - 9/0",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Parma   vs   Genoa"
         },
@@ -3105,6 +3161,14 @@
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "0000 0",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Bologna   vs   Fiorentina"
+        },
+        {
+            "channel": "Arena Premium 5 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12304 H 30000 - 3/4",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Bologna   vs   Fiorentina"
         },
@@ -3431,6 +3495,14 @@
             "related_to": "     Torino   vs   Roma"
         },
         {
+            "channel": "Arena Premium 3 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12422 H 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Torino   vs   Roma"
+        },
+        {
             "channel": "Arena Sport 2 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11595 H 30000 - 3/4",
@@ -3751,6 +3823,14 @@
             },
             "time": "19:45",
             "date": "2026-01-18"
+        },
+        {
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     AC Milan   vs   Lecce"
         },
         {
             "channel": "Arena Premium 2 BiH HD",
@@ -4091,6 +4171,14 @@
             "related_to": "     Cremonese   vs   Hellas Verona"
         },
         {
+            "channel": "Arena Premium 3 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12422 H 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Cremonese   vs   Hellas Verona"
+        },
+        {
             "channel": "Arena Sport 2 Slovenija HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -4102,6 +4190,14 @@
             "channel": "Cosmote Sport 3 HD",
             "sat": "Eutelsat 9B 9.0\u00b0e",
             "freq": "11843 V 27500 - 3/5",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Cremonese   vs   Hellas Verona"
+        },
+        {
+            "channel": "DAZN 2 Bar Deutsch HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11798 H 27500 - 9/0",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Cremonese   vs   Hellas Verona"
@@ -4365,6 +4461,14 @@
             "related_to": "     Lazio   vs   Como"
         },
         {
+            "channel": "Arena Premium 3 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12422 H 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Lazio   vs   Como"
+        },
+        {
             "channel": "Arena Sport 2 Slovenija HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -4373,9 +4477,25 @@
             "related_to": "     Lazio   vs   Como"
         },
         {
+            "channel": "Arena Sport 4 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11554 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Lazio   vs   Como"
+        },
+        {
             "channel": "Cosmote Sport 2 HD",
             "sat": "Eutelsat 9B 9.0\u00b0e",
             "freq": "11843 V 27500 - 3/5",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Lazio   vs   Como"
+        },
+        {
+            "channel": "DAZN 2 Bar Deutsch HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11798 H 27500 - 9/0",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Lazio   vs   Como"
@@ -4623,6 +4743,22 @@
             "date": "2026-01-23"
         },
         {
+            "channel": "Arena Sport 4 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11554 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Inter Milan   vs   Pisa"
+        },
+        {
+            "channel": "DAZN 1 Bar Deutsch HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12070 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Inter Milan   vs   Pisa"
+        },
+        {
             "channel": "DAZN Deutsch ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -4785,6 +4921,14 @@
             "date": "2026-01-24"
         },
         {
+            "channel": "Arena Sport 5 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11678 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Como   vs   Torino"
+        },
+        {
             "channel": "DAZN Deutsch ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -4915,6 +5059,14 @@
             "date": "2026-01-24"
         },
         {
+            "channel": "Arena Sport 4 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11554 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Fiorentina   vs   Cagliari"
+        },
+        {
             "channel": "DAZN Deutsch ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -5035,6 +5187,14 @@
             },
             "time": "19:45",
             "date": "2026-01-24"
+        },
+        {
+            "channel": "Arena Sport 4 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11554 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Lecce   vs   Lazio"
         },
         {
             "channel": "DAZN Deutsch ($/geo/R)",
@@ -5167,6 +5327,22 @@
             "date": "2026-01-25"
         },
         {
+            "channel": "Arena Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11678 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Sassuolo   vs   Cremonese"
+        },
+        {
+            "channel": "DAZN 1 Bar Deutsch HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12070 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Sassuolo   vs   Cremonese"
+        },
+        {
             "channel": "DAZN Deutsch ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -5297,6 +5473,14 @@
             "date": "2026-01-25"
         },
         {
+            "channel": "Arena Sport 4 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11554 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Atalanta   vs   Parma"
+        },
+        {
             "channel": "DAZN Deutsch ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -5409,6 +5593,14 @@
             },
             "time": "14:00",
             "date": "2026-01-25"
+        },
+        {
+            "channel": "Arena Sport 9 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11678 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Genoa   vs   Bologna"
         },
         {
             "channel": "DAZN Deutsch ($/geo/R)",
@@ -5531,6 +5723,22 @@
             },
             "time": "17:00",
             "date": "2026-01-25"
+        },
+        {
+            "channel": "Arena Sport 2 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11595 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Juventus   vs   Napoli"
+        },
+        {
+            "channel": "DAZN 1 Bar Deutsch HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12070 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Juventus   vs   Napoli"
         },
         {
             "channel": "DAZN Deutsch ($/geo/R)",
@@ -5669,6 +5877,22 @@
             },
             "time": "19:45",
             "date": "2026-01-25"
+        },
+        {
+            "channel": "Arena Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11678 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Roma   vs   AC Milan"
+        },
+        {
+            "channel": "DAZN 1 Bar Deutsch HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12070 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Roma   vs   AC Milan"
         },
         {
             "channel": "DAZN Deutsch ($/geo/R)",
@@ -5815,6 +6039,14 @@
             },
             "time": "19:45",
             "date": "2026-01-26"
+        },
+        {
+            "channel": "DAZN 2 Bar Deutsch HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11798 H 27500 - 9/0",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Hellas Verona   vs   Udinese"
         },
         {
             "channel": "DAZN Deutsch ($/geo/R)",
