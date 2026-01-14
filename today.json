@@ -1085,6 +1085,14 @@
             "related_to": "     Senegal   vs   Egypt"
         },
         {
+            "channel": "New World Sport 5 Togo",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Senegal   vs   Egypt"
+        },
+        {
             "channel": "New World Sport 6 Togo",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "12604 H 30000 - 3/4",
@@ -2045,32 +2053,6 @@
             "related_to": "     Napoli   vs   Parma"
         },
         {
-            "compet": "Saudi Professional League - Week 15",
-            "match": "     Al Shabab   vs   NEOM SC",
-            "flags": {
-                "team1": "saudiarabia",
-                "team2": "saudiarabia"
-            },
-            "time": "17:30",
-            "date": "2026-01-14"
-        },
-        {
-            "channel": "Thmanyah 2 HD",
-            "sat": "Badr 8 26.0\u00b0e",
-            "freq": "11919 H 27500 - 3/4",
-            "encry": "FTA",
-            "link": "#",
-            "related_to": "     Al Shabab   vs   NEOM SC"
-        },
-        {
-            "channel": "Thmanyah KSA [app]",
-            "sat": "Download APP 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Al Shabab   vs   NEOM SC"
-        },
-        {
             "compet": "German 1. Bundesliga - Week 17",
             "match": "     Wolfsburg   vs   St Pauli",
             "flags": {
@@ -2257,6 +2239,14 @@
             "related_to": "     Wolfsburg   vs   St Pauli"
         },
         {
+            "channel": "Sky Sport Calcio HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12073 V 29900 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Wolfsburg   vs   St Pauli"
+        },
+        {
             "channel": "Sport 1 Israel HD",
             "sat": "Amos 3 4.0\u00b0w",
             "freq": "10842 V 30000 - 2/3",
@@ -2399,6 +2389,32 @@
             "encry": "",
             "link": "https://www.youtube.com/@bundesliga/streams",
             "related_to": "     Wolfsburg   vs   St Pauli"
+        },
+        {
+            "compet": "Saudi Professional League - Week 15",
+            "match": "     Al Shabab   vs   NEOM SC",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "17:30",
+            "date": "2026-01-14"
+        },
+        {
+            "channel": "Thmanyah 2 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Shabab   vs   NEOM SC"
+        },
+        {
+            "channel": "Thmanyah KSA [app]",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Shabab   vs   NEOM SC"
         },
         {
             "compet": "T\u00fcrkiye Cup - Group Stage: Round 2",
@@ -5224,6 +5240,14 @@
             "channel": "New World Sport 4 Togo",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "12604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Nigeria   vs   Morocco"
+        },
+        {
+            "channel": "New World Sport 5 Togo",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12562 H 30000 - 2/3",
             "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     Nigeria   vs   Morocco"
