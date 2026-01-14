@@ -20,6 +20,68 @@
         },
         {
             "compet": "NBA Regular Season",
+            "match": "     Houston Rockets   vs   Chicago Bulls",
+            "flags": {
+                "team1": "assocnba",
+                "team2": "assocnba"
+            },
+            "time": "01:00",
+            "date": "2026-01-14"
+        },
+        {
+            "channel": "NBA League Pass ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Houston Rockets   vs   Chicago Bulls"
+        },
+        {
+            "compet": "NBA Regular Season",
+            "match": "     Milwaukee Bucks   vs   Minnesota Timberwolves",
+            "flags": {
+                "team1": "assocnba",
+                "team2": "assocnba"
+            },
+            "time": "01:00",
+            "date": "2026-01-14"
+        },
+        {
+            "channel": "Cosmote Sport 4 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12149 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Milwaukee Bucks   vs   Minnesota Timberwolves"
+        },
+        {
+            "channel": "NBA League Pass ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Milwaukee Bucks   vs   Minnesota Timberwolves"
+        },
+        {
+            "compet": "NBA Regular Season",
+            "match": "     New Orleans Pelicans   vs   Denver Nuggets",
+            "flags": {
+                "team1": "assocnba",
+                "team2": "assocnba"
+            },
+            "time": "01:00",
+            "date": "2026-01-14"
+        },
+        {
+            "channel": "NBA League Pass ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     New Orleans Pelicans   vs   Denver Nuggets"
+        },
+        {
+            "compet": "NBA Regular Season",
             "match": "     Oklahoma Thunder   vs   San Antonio Spurs",
             "flags": {
                 "team1": "assocnba",
@@ -107,68 +169,6 @@
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Oklahoma Thunder   vs   San Antonio Spurs"
-        },
-        {
-            "compet": "NBA Regular Season",
-            "match": "     Houston Rockets   vs   Chicago Bulls",
-            "flags": {
-                "team1": "assocnba",
-                "team2": "assocnba"
-            },
-            "time": "01:00",
-            "date": "2026-01-14"
-        },
-        {
-            "channel": "NBA League Pass ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Houston Rockets   vs   Chicago Bulls"
-        },
-        {
-            "compet": "NBA Regular Season",
-            "match": "     Milwaukee Bucks   vs   Minnesota Timberwolves",
-            "flags": {
-                "team1": "assocnba",
-                "team2": "assocnba"
-            },
-            "time": "01:00",
-            "date": "2026-01-14"
-        },
-        {
-            "channel": "Cosmote Sport 4 HD",
-            "sat": "Eutelsat 9B 9.0\u00b0e",
-            "freq": "12149 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Milwaukee Bucks   vs   Minnesota Timberwolves"
-        },
-        {
-            "channel": "NBA League Pass ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Milwaukee Bucks   vs   Minnesota Timberwolves"
-        },
-        {
-            "compet": "NBA Regular Season",
-            "match": "     New Orleans Pelicans   vs   Denver Nuggets",
-            "flags": {
-                "team1": "assocnba",
-                "team2": "assocnba"
-            },
-            "time": "01:00",
-            "date": "2026-01-14"
-        },
-        {
-            "channel": "NBA League Pass ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     New Orleans Pelicans   vs   Denver Nuggets"
         },
         {
             "compet": "NBA Regular Season",
@@ -286,6 +286,30 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://artmotion.net/tv/",
+            "related_to": "     Philadelphia 76ers   vs   Cleveland Cavaliers"
+        },
+        {
+            "channel": "beIN Sports MENA 8 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Philadelphia 76ers   vs   Cleveland Cavaliers"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Philadelphia 76ers   vs   Cleveland Cavaliers"
+        },
+        {
+            "channel": "beIN Sports MENA French 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "11390 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
             "related_to": "     Philadelphia 76ers   vs   Cleveland Cavaliers"
         },
         {
@@ -413,6 +437,30 @@
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12402 V 30000 - 3/4",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Dallas Mavericks   vs   Denver Nuggets"
+        },
+        {
+            "channel": "beIN Sports MENA 8 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Dallas Mavericks   vs   Denver Nuggets"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Dallas Mavericks   vs   Denver Nuggets"
+        },
+        {
+            "channel": "beIN Sports MENA French 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "11390 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Dallas Mavericks   vs   Denver Nuggets"
         },
@@ -761,6 +809,22 @@
             "related_to": "     Philadelphia 76ers   vs   Cleveland Cavaliers"
         },
         {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Philadelphia 76ers   vs   Cleveland Cavaliers"
+        },
+        {
+            "channel": "SportKlub 1 Slovenija HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Philadelphia 76ers   vs   Cleveland Cavaliers"
+        },
+        {
             "compet": "NBA Regular Season",
             "match": "     Brooklyn Nets   vs   Chicago Bulls",
             "flags": {
@@ -837,6 +901,22 @@
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12402 V 30000 - 3/4",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Houston Rockets   vs   Minnesota Timberwolves"
+        },
+        {
+            "channel": "beIN Sports MENA 8 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Houston Rockets   vs   Minnesota Timberwolves"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Houston Rockets   vs   Minnesota Timberwolves"
         },
@@ -921,6 +1001,14 @@
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12402 V 30000 - 3/4",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Dallas Mavericks   vs   Utah Jazz"
+        },
+        {
+            "channel": "beIN Sports MENA 8 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Dallas Mavericks   vs   Utah Jazz"
         },
@@ -1357,6 +1445,14 @@
             "related_to": "     Cleveland Cavaliers   vs   Oklahoma Thunder"
         },
         {
+            "channel": "beIN Sports MENA 8 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Cleveland Cavaliers   vs   Oklahoma Thunder"
+        },
+        {
             "channel": "Cosmote Sport 5 HD",
             "sat": "Eutelsat 9B 9.0\u00b0e",
             "freq": "12418 V 27500 - 2/3",
@@ -1509,6 +1605,14 @@
             },
             "time": "01:00",
             "date": "2026-01-20"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Detroit Pistons   vs   Boston Celtics"
         },
         {
             "channel": "NBA League Pass ($/geo/R)",
