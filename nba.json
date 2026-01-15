@@ -1157,6 +1157,14 @@
             "related_to": "     Atlanta Hawks   vs   Milwaukee Bucks"
         },
         {
+            "channel": "Diema Sport HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Atlanta Hawks   vs   Milwaukee Bucks"
+        },
+        {
             "channel": "Go3 Sport 1 Baltic HD",
             "sat": "Astra 4A 5.0\u00b0e",
             "freq": "11938 V 27500 - 5/6",
@@ -1235,6 +1243,14 @@
             "sat": "Eutelsat 9B 9.0\u00b0e",
             "freq": "12418 V 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Cleveland Cavaliers   vs   Oklahoma Thunder"
+        },
+        {
+            "channel": "Diema Sport 3 HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "MPEG-4 NDS",
             "link": "#",
             "related_to": "     Cleveland Cavaliers   vs   Oklahoma Thunder"
         },
@@ -1326,6 +1342,14 @@
             "channel": "Cosmote Sport 4 HD",
             "sat": "Eutelsat 9B 9.0\u00b0e",
             "freq": "12149 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     New York Knicks   vs   Dallas Mavericks"
+        },
+        {
+            "channel": "Diema Sport HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12520 V 30000 - 5/6",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     New York Knicks   vs   Dallas Mavericks"
@@ -1441,6 +1465,14 @@
             "related_to": "     Detroit Pistons   vs   Boston Celtics"
         },
         {
+            "channel": "Diema Sport 3 HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Detroit Pistons   vs   Boston Celtics"
+        },
+        {
             "channel": "NBA League Pass ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1536,24 +1568,6 @@
         },
         {
             "compet": "NBA Regular Season",
-            "match": "     Chicago Bulls   vs   Los Angeles Clippers",
-            "flags": {
-                "team1": "assocnba",
-                "team2": "assocnba"
-            },
-            "time": "01:00",
-            "date": "2026-01-21"
-        },
-        {
-            "channel": "NBA League Pass ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Chicago Bulls   vs   Los Angeles Clippers"
-        },
-        {
-            "compet": "NBA Regular Season",
             "match": "     Houston Rockets   vs   San Antonio Spurs",
             "flags": {
                 "team1": "assocnba",
@@ -1567,6 +1581,14 @@
             "sat": "Eutelsat 9B 9.0\u00b0e",
             "freq": "12149 V 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Houston Rockets   vs   San Antonio Spurs"
+        },
+        {
+            "channel": "Diema Sport 3 HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "MPEG-4 NDS",
             "link": "#",
             "related_to": "     Houston Rockets   vs   San Antonio Spurs"
         },
@@ -1601,6 +1623,24 @@
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Houston Rockets   vs   San Antonio Spurs"
+        },
+        {
+            "compet": "NBA Regular Season",
+            "match": "     Chicago Bulls   vs   Los Angeles Clippers",
+            "flags": {
+                "team1": "assocnba",
+                "team2": "assocnba"
+            },
+            "time": "01:00",
+            "date": "2026-01-21"
+        },
+        {
+            "channel": "NBA League Pass ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Chicago Bulls   vs   Los Angeles Clippers"
         },
         {
             "compet": "NBA Regular Season",
