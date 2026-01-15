@@ -1,6 +1,60 @@
 {
     "footonsat": [
         {
+            "compet": "Belgian Cup (Beker van Belgi\u00eb) - Quarter Final",
+            "match": "     Anderlecht   vs   AA Gent",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "19:30",
+            "date": "2026-01-15"
+        },
+        {
+            "channel": "- - -",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Anderlecht   vs   AA Gent"
+        },
+        {
+            "compet": "Belgian Challenger Pro League - Week 20",
+            "match": "     RFC Seraing   vs   Daring Bruxelles",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "19:00",
+            "date": "2026-01-16"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     RFC Seraing   vs   Daring Bruxelles"
+        },
+        {
+            "compet": "Belgian Challenger Pro League - Week 20",
+            "match": "     Racing Genk II   vs   Lommel SK",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "19:00",
+            "date": "2026-01-16"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Racing Genk II   vs   Lommel SK"
+        },
+        {
             "compet": "Belgian Pro League - Week 21",
             "match": "     Club Brugge   vs   RAAL La Louvi\u00e8re",
             "flags": {
@@ -37,6 +91,24 @@
             "related_to": "     Zulte Waregem   vs   Racing Genk"
         },
         {
+            "compet": "Belgian Challenger Pro League - Week 20",
+            "match": "     Anderlecht II   vs   AA Gent II",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "15:00",
+            "date": "2026-01-17"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Anderlecht II   vs   AA Gent II"
+        },
+        {
             "compet": "Belgian Pro League - Week 21",
             "match": "     Westerlo   vs   Cercle Brugge",
             "flags": {
@@ -53,6 +125,78 @@
             "encry": "",
             "link": "https://www.dazn.com/en-BE/",
             "related_to": "     Westerlo   vs   Cercle Brugge"
+        },
+        {
+            "compet": "Belgian W/Super League - Week 14",
+            "match": "     Zulte Waregem   vs   Leuven",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "18:30",
+            "date": "2026-01-17"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Zulte Waregem   vs   Leuven"
+        },
+        {
+            "compet": "Belgian Challenger Pro League - Week 20",
+            "match": "     Eupen   vs   SK Beveren",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "19:00",
+            "date": "2026-01-17"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Eupen   vs   SK Beveren"
+        },
+        {
+            "compet": "Belgian Challenger Pro League - Week 20",
+            "match": "     RFC Li\u00e8ge   vs   Francs Borains",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "19:00",
+            "date": "2026-01-17"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     RFC Li\u00e8ge   vs   Francs Borains"
+        },
+        {
+            "compet": "Belgian Challenger Pro League - Week 20",
+            "match": "     Patro Eisden   vs   Kortrijk",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "19:00",
+            "date": "2026-01-17"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Patro Eisden   vs   Kortrijk"
         },
         {
             "compet": "Belgian Pro League - Week 21",
@@ -163,6 +307,24 @@
             "related_to": "     AA Gent   vs   Anderlecht"
         },
         {
+            "compet": "Belgian Challenger Pro League - Week 20",
+            "match": "     Beerschot Wilrijk   vs   Olympic Charleroi",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "15:00",
+            "date": "2026-01-18"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Beerschot Wilrijk   vs   Olympic Charleroi"
+        },
+        {
             "compet": "Belgian Pro League - Week 21",
             "match": "     Dender   vs   Antwerp",
             "flags": {
@@ -179,6 +341,24 @@
             "encry": "",
             "link": "https://www.dazn.com/en-BE/",
             "related_to": "     Dender   vs   Antwerp"
+        },
+        {
+            "compet": "Belgian Challenger Pro League - Week 20",
+            "match": "     Club Brugge II   vs   Lokeren-Temse",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "15:00",
+            "date": "2026-01-18"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Club Brugge II   vs   Lokeren-Temse"
         },
         {
             "compet": "Belgian Pro League - Week 21",
@@ -231,6 +411,780 @@
             "encry": "",
             "link": "https://www.dazn.com/en-BE/",
             "related_to": "     Sint-Truiden   vs   Leuven"
+        },
+        {
+            "compet": "Belgian Challenger Pro League - Week 21",
+            "match": "     Kortrijk   vs   Racing Genk II",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "19:00",
+            "date": "2026-01-23"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Kortrijk   vs   Racing Genk II"
+        },
+        {
+            "compet": "Belgian Challenger Pro League - Week 21",
+            "match": "     Olympic Charleroi   vs   Club Brugge II",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "19:00",
+            "date": "2026-01-23"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Olympic Charleroi   vs   Club Brugge II"
+        },
+        {
+            "compet": "Belgian Pro League - Week 22",
+            "match": "     Standard Li\u00e8ge   vs   AA Gent",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "19:45",
+            "date": "2026-01-23"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Standard Li\u00e8ge   vs   AA Gent"
+        },
+        {
+            "compet": "Belgian W/Super League - Week 15",
+            "match": "     Leuven   vs   Racing Genk",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "12:30",
+            "date": "2026-01-24"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Leuven   vs   Racing Genk"
+        },
+        {
+            "compet": "Belgian Challenger Pro League - Week 21",
+            "match": "     Lokeren-Temse   vs   Beerschot Wilrijk",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "15:00",
+            "date": "2026-01-24"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Lokeren-Temse   vs   Beerschot Wilrijk"
+        },
+        {
+            "compet": "Belgian Pro League - Week 22",
+            "match": "     RAAL La Louvi\u00e8re   vs   Sint-Truiden",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "15:00",
+            "date": "2026-01-24"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     RAAL La Louvi\u00e8re   vs   Sint-Truiden"
+        },
+        {
+            "compet": "Belgian Pro League - Week 22",
+            "match": "     Club Brugge   vs   Zulte Waregem",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "17:15",
+            "date": "2026-01-24"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Club Brugge   vs   Zulte Waregem"
+        },
+        {
+            "compet": "Belgian Challenger Pro League - Week 21",
+            "match": "     Daring Bruxelles   vs   Patro Eisden",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "19:00",
+            "date": "2026-01-24"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Daring Bruxelles   vs   Patro Eisden"
+        },
+        {
+            "compet": "Belgian Challenger Pro League - Week 21",
+            "match": "     Lommel SK   vs   Eupen",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "19:00",
+            "date": "2026-01-24"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Lommel SK   vs   Eupen"
+        },
+        {
+            "compet": "Belgian Challenger Pro League - Week 21",
+            "match": "     RFC Seraing   vs   RFC Li\u00e8ge",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "19:00",
+            "date": "2026-01-24"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     RFC Seraing   vs   RFC Li\u00e8ge"
+        },
+        {
+            "compet": "Belgian Pro League - Week 22",
+            "match": "     Leuven   vs   Union St Gilloise",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "19:45",
+            "date": "2026-01-24"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Leuven   vs   Union St Gilloise"
+        },
+        {
+            "compet": "Belgian Pro League - Week 22",
+            "match": "     Antwerp   vs   Sporting Charleroi",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "12:30",
+            "date": "2026-01-25"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Antwerp   vs   Sporting Charleroi"
+        },
+        {
+            "compet": "Belgian Challenger Pro League - Week 21",
+            "match": "     SK Beveren   vs   Lierse",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "15:00",
+            "date": "2026-01-25"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     SK Beveren   vs   Lierse"
+        },
+        {
+            "compet": "Belgian Pro League - Week 22",
+            "match": "     Racing Genk   vs   Cercle Brugge",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "15:00",
+            "date": "2026-01-25"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Racing Genk   vs   Cercle Brugge"
+        },
+        {
+            "compet": "Belgian Challenger Pro League - Week 21",
+            "match": "     AA Gent II   vs   Francs Borains",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "15:00",
+            "date": "2026-01-25"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     AA Gent II   vs   Francs Borains"
+        },
+        {
+            "compet": "Belgian Pro League - Week 22",
+            "match": "     Anderlecht   vs   Dender",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "17:30",
+            "date": "2026-01-25"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Anderlecht   vs   Dender"
+        },
+        {
+            "compet": "Belgian Pro League - Week 22",
+            "match": "     Mechelen   vs   Westerlo",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "18:15",
+            "date": "2026-01-25"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Mechelen   vs   Westerlo"
+        },
+        {
+            "compet": "Belgian Challenger Pro League - Week 22",
+            "match": "     Beerschot Wilrijk   vs   RFC Seraing",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "19:00",
+            "date": "2026-01-27"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Beerschot Wilrijk   vs   RFC Seraing"
+        },
+        {
+            "compet": "Belgian Challenger Pro League - Week 22",
+            "match": "     Eupen   vs   Lokeren-Temse",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "19:00",
+            "date": "2026-01-27"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Eupen   vs   Lokeren-Temse"
+        },
+        {
+            "compet": "Belgian Challenger Pro League - Week 22",
+            "match": "     Club Brugge II   vs   Kortrijk",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "19:00",
+            "date": "2026-01-27"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Club Brugge II   vs   Kortrijk"
+        },
+        {
+            "compet": "Belgian Challenger Pro League - Week 22",
+            "match": "     RFC Li\u00e8ge   vs   Lommel SK",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "19:00",
+            "date": "2026-01-27"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     RFC Li\u00e8ge   vs   Lommel SK"
+        },
+        {
+            "compet": "Belgian Challenger Pro League - Week 22",
+            "match": "     Racing Genk II   vs   Daring Bruxelles",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "19:00",
+            "date": "2026-01-27"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Racing Genk II   vs   Daring Bruxelles"
+        },
+        {
+            "compet": "Belgian Challenger Pro League - Week 22",
+            "match": "     Patro Eisden   vs   Olympic Charleroi",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "19:00",
+            "date": "2026-01-27"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Patro Eisden   vs   Olympic Charleroi"
+        },
+        {
+            "compet": "Belgian Challenger Pro League - Week 22",
+            "match": "     Anderlecht II   vs   Lierse",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "19:00",
+            "date": "2026-01-28"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Anderlecht II   vs   Lierse"
+        },
+        {
+            "compet": "Belgian Challenger Pro League - Week 22",
+            "match": "     AA Gent II   vs   SK Beveren",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "19:00",
+            "date": "2026-01-28"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     AA Gent II   vs   SK Beveren"
+        },
+        {
+            "compet": "Belgian Challenger Pro League - Week 23",
+            "match": "     Club Brugge II   vs   RFC Seraing",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "19:00",
+            "date": "2026-01-30"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Club Brugge II   vs   RFC Seraing"
+        },
+        {
+            "compet": "Belgian Challenger Pro League - Week 23",
+            "match": "     Racing Genk II   vs   Eupen",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "19:00",
+            "date": "2026-01-30"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Racing Genk II   vs   Eupen"
+        },
+        {
+            "compet": "Belgian W/Super League - Week 16",
+            "match": "     Racing Genk   vs   Standard Li\u00e8ge",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "12:30",
+            "date": "2026-01-31"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Racing Genk   vs   Standard Li\u00e8ge"
+        },
+        {
+            "compet": "Belgian Pro League - Week 23",
+            "match": "     Cercle Brugge   vs   Antwerp",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "15:00",
+            "date": "2026-01-31"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Cercle Brugge   vs   Antwerp"
+        },
+        {
+            "compet": "Belgian Pro League - Week 23",
+            "match": "     Sint-Truiden   vs   Sporting Charleroi",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "15:00",
+            "date": "2026-01-31"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Sint-Truiden   vs   Sporting Charleroi"
+        },
+        {
+            "compet": "Belgian Pro League - Week 23",
+            "match": "     Standard Li\u00e8ge   vs   Anderlecht",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "15:00",
+            "date": "2026-01-31"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Standard Li\u00e8ge   vs   Anderlecht"
+        },
+        {
+            "compet": "Belgian Pro League - Week 23",
+            "match": "     Zulte Waregem   vs   Westerlo",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "15:00",
+            "date": "2026-01-31"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Zulte Waregem   vs   Westerlo"
+        },
+        {
+            "compet": "Belgian Pro League - Week 23",
+            "match": "     Dender   vs   Racing Genk",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "15:00",
+            "date": "2026-01-31"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Dender   vs   Racing Genk"
+        },
+        {
+            "compet": "Belgian Pro League - Week 23",
+            "match": "     RAAL La Louvi\u00e8re   vs   AA Gent",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "15:00",
+            "date": "2026-01-31"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     RAAL La Louvi\u00e8re   vs   AA Gent"
+        },
+        {
+            "compet": "Belgian Pro League - Week 23",
+            "match": "     Leuven   vs   Mechelen",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "15:00",
+            "date": "2026-01-31"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Leuven   vs   Mechelen"
+        },
+        {
+            "compet": "Belgian Pro League - Week 23",
+            "match": "     Union St Gilloise   vs   Club Brugge",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "15:00",
+            "date": "2026-01-31"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Union St Gilloise   vs   Club Brugge"
+        },
+        {
+            "compet": "Belgian Challenger Pro League - Week 23",
+            "match": "     Olympic Charleroi   vs   Francs Borains",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "15:00",
+            "date": "2026-01-31"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Olympic Charleroi   vs   Francs Borains"
+        },
+        {
+            "compet": "Belgian Challenger Pro League - Week 23",
+            "match": "     Anderlecht II   vs   RFC Li\u00e8ge",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "15:00",
+            "date": "2026-01-31"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Anderlecht II   vs   RFC Li\u00e8ge"
+        },
+        {
+            "compet": "Belgian Challenger Pro League - Week 23",
+            "match": "     Daring Bruxelles   vs   AA Gent II",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "19:00",
+            "date": "2026-01-31"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Daring Bruxelles   vs   AA Gent II"
+        },
+        {
+            "compet": "Belgian Challenger Pro League - Week 23",
+            "match": "     Lommel SK   vs   Patro Eisden",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "19:00",
+            "date": "2026-01-31"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Lommel SK   vs   Patro Eisden"
+        },
+        {
+            "compet": "Belgian Challenger Pro League - Week 23",
+            "match": "     Lierse   vs   Beerschot Wilrijk",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "12:30",
+            "date": "2026-02-01"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Lierse   vs   Beerschot Wilrijk"
+        },
+        {
+            "compet": "Belgian Challenger Pro League - Week 23",
+            "match": "     Kortrijk   vs   Lokeren-Temse",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "12:30",
+            "date": "2026-02-01"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Kortrijk   vs   Lokeren-Temse"
+        },
+        {
+            "compet": "Belgian W/Super League - Week 18",
+            "match": "     Anderlecht   vs   Standard Li\u00e8ge",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "12:30",
+            "date": "2026-02-14"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Anderlecht   vs   Standard Li\u00e8ge"
         }
     ]
 }
