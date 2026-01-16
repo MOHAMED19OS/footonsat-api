@@ -357,32 +357,6 @@
             "related_to": "       - UEFA Conference League Draw -       "
         },
         {
-            "compet": "Friendly Club Match",
-            "match": "     Novi Pazar   vs   Karvin\u00e1",
-            "flags": {
-                "team1": "serbia",
-                "team2": "czechia"
-            },
-            "time": "12:00",
-            "date": "2026-01-16"
-        },
-        {
-            "channel": "Arena Premium 3 Srbija HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12422 H 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "#",
-            "related_to": "     Novi Pazar   vs   Karvin\u00e1"
-        },
-        {
-            "channel": "Arena Sport 1 BiH HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11720 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Novi Pazar   vs   Karvin\u00e1"
-        },
-        {
             "channel": "5 STARS Israel HD",
             "sat": "Amos 3 4.0\u00b0w",
             "freq": "10842 V 30000 - 3/4",
@@ -415,6 +389,32 @@
             "encry": "",
             "link": "#",
             "related_to": "     Al Najma   vs   Al Fateh"
+        },
+        {
+            "compet": "Friendly Club Match",
+            "match": "     Novi Pazar   vs   Karvin\u00e1",
+            "flags": {
+                "team1": "serbia",
+                "team2": "czechia"
+            },
+            "time": "14:00",
+            "date": "2026-01-16"
+        },
+        {
+            "channel": "Arena Premium 3 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12422 H 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Novi Pazar   vs   Karvin\u00e1"
+        },
+        {
+            "channel": "Arena Sport 1 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11720 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Novi Pazar   vs   Karvin\u00e1"
         },
         {
             "compet": "Friendly Club Match",
@@ -651,6 +651,22 @@
             "date": "2026-01-16"
         },
         {
+            "channel": "Azam Sports 3 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Al Ittihad   vs   Al Ettifaq"
+        },
+        {
+            "channel": "Band Sports Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "11680 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Ittihad   vs   Al Ettifaq"
+        },
+        {
             "channel": "Como TV ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -747,10 +763,34 @@
             "related_to": "     Al Ittihad   vs   Al Ettifaq"
         },
         {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Al Ittihad   vs   Al Ettifaq"
+        },
+        {
+            "channel": "SPOTV Malaysia HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10772 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Ittihad   vs   Al Ettifaq"
+        },
+        {
             "channel": "Sp\u00edler 1 TV Hungary HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "11766 V 28000 - 7/8",
             "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Al Ittihad   vs   Al Ettifaq"
+        },
+        {
+            "channel": "ST World Football HD",
+            "sat": "Eutelsat 10B 10.0\u00b0e",
+            "freq": "3736 R 07307 - 5/6",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Al Ittihad   vs   Al Ettifaq"
         },
@@ -1871,24 +1911,6 @@
             "related_to": "     Racing Genk II   vs   Lommel SK"
         },
         {
-            "compet": "Dutch Eerste Divisie (2nd) - Week 23",
-            "match": "     VVV-Venlo   vs   AZ Youths",
-            "flags": {
-                "team1": "holland",
-                "team2": "holland"
-            },
-            "time": "19:00",
-            "date": "2026-01-16"
-        },
-        {
-            "channel": "ESPN 3 Nederland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     VVV-Venlo   vs   AZ Youths"
-        },
-        {
             "compet": "French Ligue 2 - Week 19",
             "match": "     Rodez   vs   Le Mans",
             "flags": {
@@ -1977,6 +1999,24 @@
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Annecy   vs   Amiens"
+        },
+        {
+            "compet": "Dutch Eerste Divisie (2nd) - Week 23",
+            "match": "     VVV-Venlo   vs   AZ Youths",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "19:00",
+            "date": "2026-01-16"
+        },
+        {
+            "channel": "ESPN 3 Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     VVV-Venlo   vs   AZ Youths"
         },
         {
             "compet": "Dutch Eerste Divisie (2nd) - Week 23",
@@ -2237,6 +2277,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Werder Bremen   vs   Eintracht Frankfurt"
+        },
+        {
+            "channel": "ST World Football HD",
+            "sat": "Eutelsat 10B 10.0\u00b0e",
+            "freq": "3736 R 07307 - 5/6",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Werder Bremen   vs   Eintracht Frankfurt"
         },
