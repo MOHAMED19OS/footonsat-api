@@ -691,6 +691,14 @@
             "related_to": "     Al Ittihad   vs   Al Ettifaq"
         },
         {
+            "channel": "Okko Futbol HD ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Ittihad   vs   Al Ettifaq"
+        },
+        {
             "channel": "Prima Sport RO 2 HD",
             "sat": "Hellas Sat 3 39.0\u00b0e",
             "freq": "12565 V 30000 - 7/8",
@@ -739,10 +747,34 @@
             "related_to": "     Al Ittihad   vs   Al Ettifaq"
         },
         {
+            "channel": "Sp\u00edler 1 TV Hungary HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "11766 V 28000 - 7/8",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Al Ittihad   vs   Al Ettifaq"
+        },
+        {
+            "channel": "Strike TV",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "12245 H 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Al Ittihad   vs   Al Ettifaq"
+        },
+        {
             "channel": "SuperSport 3 Albania HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "10845 H 30000 - 3/5",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Al Ittihad   vs   Al Ettifaq"
+        },
+        {
+            "channel": "SuperSport ESPN HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
             "link": "#",
             "related_to": "     Al Ittihad   vs   Al Ettifaq"
         },
@@ -1857,42 +1889,6 @@
             "related_to": "     VVV-Venlo   vs   AZ Youths"
         },
         {
-            "compet": "Dutch Eerste Divisie (2nd) - Week 23",
-            "match": "     ADO Den Haag   vs   Cambuur-Leeuwarden",
-            "flags": {
-                "team1": "holland",
-                "team2": "holland"
-            },
-            "time": "19:00",
-            "date": "2026-01-16"
-        },
-        {
-            "channel": "ESPN 1 Nederland HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "11739 V 29900 - 3/4",
-            "encry": "HD Mediaguard",
-            "link": "#",
-            "related_to": "     ADO Den Haag   vs   Cambuur-Leeuwarden"
-        },
-        {
-            "compet": "Dutch Eerste Divisie (2nd) - Week 23",
-            "match": "     Helmond Sport   vs   Vitesse Arnhem",
-            "flags": {
-                "team1": "holland",
-                "team2": "holland"
-            },
-            "time": "19:00",
-            "date": "2026-01-16"
-        },
-        {
-            "channel": "ESPN 2 Nederland HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "11856 V 29900 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Helmond Sport   vs   Vitesse Arnhem"
-        },
-        {
             "compet": "French Ligue 2 - Week 19",
             "match": "     Rodez   vs   Le Mans",
             "flags": {
@@ -1981,6 +1977,42 @@
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Annecy   vs   Amiens"
+        },
+        {
+            "compet": "Dutch Eerste Divisie (2nd) - Week 23",
+            "match": "     ADO Den Haag   vs   Cambuur-Leeuwarden",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "19:00",
+            "date": "2026-01-16"
+        },
+        {
+            "channel": "ESPN 1 Nederland HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11739 V 29900 - 3/4",
+            "encry": "HD Mediaguard",
+            "link": "#",
+            "related_to": "     ADO Den Haag   vs   Cambuur-Leeuwarden"
+        },
+        {
+            "compet": "Dutch Eerste Divisie (2nd) - Week 23",
+            "match": "     Helmond Sport   vs   Vitesse Arnhem",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "19:00",
+            "date": "2026-01-16"
+        },
+        {
+            "channel": "ESPN 2 Nederland HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11856 V 29900 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Helmond Sport   vs   Vitesse Arnhem"
         },
         {
             "compet": "German 1. Bundesliga - Week 18",
@@ -3245,6 +3277,14 @@
             "related_to": "     Paris St Germain   vs   Lille"
         },
         {
+            "channel": "Okko Prime Sport HD ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Lille"
+        },
+        {
             "channel": "Prime Video UK PPV [$]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -4045,6 +4085,14 @@
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "10845 H 30000 - 3/5",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     West Bromwich Albion   vs   Middlesbrough"
+        },
+        {
+            "channel": "SuperSport ESPN HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
             "link": "#",
             "related_to": "     West Bromwich Albion   vs   Middlesbrough"
         },
