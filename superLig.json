@@ -1,150 +1,6 @@
 {
     "footonsat": [
         {
-            "compet": "T\u00fcrkiye Cup - Group Stage: Round 2",
-            "match": "     Erzurumspor   vs   Caykur Rizespor",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "10:00",
-            "date": "2026-01-15"
-        },
-        {
-            "channel": "A Spor T\u00fcrkiye HD",
-            "sat": "Turksat 4A 42.0\u00b0e",
-            "freq": "12053 H 27500 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Erzurumspor   vs   Caykur Rizespor"
-        },
-        {
-            "compet": "T\u00fcrkiye Cup - Group Stage: Round 2",
-            "match": "     Ey\u00fcpspor   vs   Igdir FK",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "12:30",
-            "date": "2026-01-15"
-        },
-        {
-            "channel": "A Spor T\u00fcrkiye HD",
-            "sat": "Turksat 4A 42.0\u00b0e",
-            "freq": "12053 H 27500 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Ey\u00fcpspor   vs   Igdir FK"
-        },
-        {
-            "channel": "SportKlub 1 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11471 H 30000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Ey\u00fcpspor   vs   Igdir FK"
-        },
-        {
-            "channel": "SportKlub 1 Slovenija HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11471 H 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Ey\u00fcpspor   vs   Igdir FK"
-        },
-        {
-            "compet": "T\u00fcrkiye Cup - Group Stage: Round 2",
-            "match": "     Bodrumspor   vs   Konyaspor",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "15:00",
-            "date": "2026-01-15"
-        },
-        {
-            "channel": "A Spor T\u00fcrkiye HD",
-            "sat": "Turksat 4A 42.0\u00b0e",
-            "freq": "12053 H 27500 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Bodrumspor   vs   Konyaspor"
-        },
-        {
-            "channel": "SportKlub 2 Slovenija",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11387 H 32000 - 3/4",
-            "encry": "MPEG-4 Irdeto",
-            "link": "#",
-            "related_to": "     Bodrumspor   vs   Konyaspor"
-        },
-        {
-            "channel": "SportKlub 3 Hrvatska",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Bodrumspor   vs   Konyaspor"
-        },
-        {
-            "compet": "T\u00fcrkiye Cup - Group Stage: Round 2",
-            "match": "     Besiktas   vs   Ke\u00e7i\u00f6reng\u00fcc\u00fc",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "17:30",
-            "date": "2026-01-15"
-        },
-        {
-            "channel": "ATV T\u00fcrkiye Europe",
-            "sat": "Turksat 4A 42.0\u00b0e",
-            "freq": "11883 V 04800 - 5/6",
-            "encry": "VideoGuard",
-            "link": "#",
-            "related_to": "     Besiktas   vs   Ke\u00e7i\u00f6reng\u00fcc\u00fc"
-        },
-        {
-            "channel": "ATV T\u00fcrkiye HD",
-            "sat": "Turksat 4A 42.0\u00b0e",
-            "freq": "12053 H 27500 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Besiktas   vs   Ke\u00e7i\u00f6reng\u00fcc\u00fc"
-        },
-        {
-            "channel": "MAX Sport 4 Bulgaria HD",
-            "sat": "AzerSpace 2 45.0\u00b0e",
-            "freq": "11475 V 30000 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Besiktas   vs   Ke\u00e7i\u00f6reng\u00fcc\u00fc"
-        },
-        {
-            "channel": "SportKlub 2 Hrvatska",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Besiktas   vs   Ke\u00e7i\u00f6reng\u00fcc\u00fc"
-        },
-        {
-            "channel": "SportKlub 5 Slovenija",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Besiktas   vs   Ke\u00e7i\u00f6reng\u00fcc\u00fc"
-        },
-        {
-            "channel": "VG+ Sport Norge ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.vgtv.no/live",
-            "related_to": "     Besiktas   vs   Ke\u00e7i\u00f6reng\u00fcc\u00fc"
-        },
-        {
             "compet": "T\u00fcrkiye 1. Lig - Week 21",
             "match": "     Corum FK   vs   Adana Demirspor",
             "flags": {
@@ -180,40 +36,6 @@
         },
         {
             "compet": "T\u00fcrkiye 1. Lig - Week 21",
-            "match": "     Bandirmaspor   vs   Pendikspor",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "10:30",
-            "date": "2026-01-17"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Bandirmaspor   vs   Pendikspor"
-        },
-        {
-            "channel": "beIN Sports T\u00fcrkiye Max 1 HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11676 V 24444 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Bandirmaspor   vs   Pendikspor"
-        },
-        {
-            "channel": "TRT Spor T\u00fcrkiye HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11054 V 30000 - 3/4",
-            "encry": "FTA",
-            "link": "https://www.trtizle.com/canli/tv/trt-spor",
-            "related_to": "     Bandirmaspor   vs   Pendikspor"
-        },
-        {
-            "compet": "T\u00fcrkiye 1. Lig - Week 21",
             "match": "     Hatayspor   vs   Manisa FK",
             "flags": {
                 "team1": "turkey",
@@ -245,6 +67,40 @@
             "encry": "",
             "link": "#",
             "related_to": "     Hatayspor   vs   Manisa FK"
+        },
+        {
+            "compet": "T\u00fcrkiye 1. Lig - Week 21",
+            "match": "     Bandirmaspor   vs   Pendikspor",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "10:30",
+            "date": "2026-01-17"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Bandirmaspor   vs   Pendikspor"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye Max 1 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Bandirmaspor   vs   Pendikspor"
+        },
+        {
+            "channel": "TRT Spor T\u00fcrkiye HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11054 V 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "related_to": "     Bandirmaspor   vs   Pendikspor"
         },
         {
             "compet": "T\u00fcrkiye S\u00fcper Lig - Week 18",
@@ -441,6 +297,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Galatasaray   vs   Gaziantep"
+        },
+        {
+            "channel": "SuperSport 3 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Galatasaray   vs   Gaziantep"
         },
@@ -1502,6 +1366,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Trabzonspor   vs   Kasimpasa"
+        },
+        {
+            "channel": "beIN Sports MENA 3 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
             "related_to": "     Trabzonspor   vs   Kasimpasa"
         },
         {

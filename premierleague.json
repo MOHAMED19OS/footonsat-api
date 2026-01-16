@@ -615,7 +615,7 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
-            "link": "https://tv2play.hu/musorok?mufajok=sport&rendezes=nepszeruseg",
+            "link": "https://tv2play.hu/spilertv/spilerek",
             "related_to": "     Manchester United   vs   Manchester City"
         },
         {
@@ -1037,6 +1037,14 @@
             "related_to": "     Liverpool   vs   Burnley"
         },
         {
+            "channel": "SuperSport 2 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Liverpool   vs   Burnley"
+        },
+        {
             "channel": "SuperSport M\u00e1Ximo 2A HD",
             "sat": "Express AMU1 36.1\u00b0e",
             "freq": "12169 H 27500 - 2/3",
@@ -1199,6 +1207,14 @@
             "related_to": "     Chelsea   vs   Brentford"
         },
         {
+            "channel": "Astro GO Malaysia ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://astrogo.astro.com.my/hubSports",
+            "related_to": "     Chelsea   vs   Brentford"
+        },
+        {
             "channel": "Astro Premier League 3 HD",
             "sat": "Measat 3b 91.5\u00b0e",
             "freq": "10892 V 30000 - 5/6",
@@ -1255,6 +1271,14 @@
             "related_to": "     Chelsea   vs   Brentford"
         },
         {
+            "channel": "Canal+ Polska [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.canalplus.com/pl/sport/",
+            "related_to": "     Chelsea   vs   Brentford"
+        },
+        {
             "channel": "Canal+ Sport 1 Czech HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11973 V 29900 - 2/3",
@@ -1295,9 +1319,25 @@
             "related_to": "     Chelsea   vs   Brentford"
         },
         {
+            "channel": "DAZN Canada ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Brentford"
+        },
+        {
             "channel": "DAZN Espa\u00f1a ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Brentford"
+        },
+        {
+            "channel": "DAZN Portugal ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
             "encry": "",
             "link": "#",
             "related_to": "     Chelsea   vs   Brentford"
@@ -1308,6 +1348,62 @@
             "freq": "12156 H 30000 - 5/6",
             "encry": "HD Conax",
             "link": "#",
+            "related_to": "     Chelsea   vs   Brentford"
+        },
+        {
+            "channel": "Disney+ Argentina ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Brentford"
+        },
+        {
+            "channel": "Disney+ Brazil ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Brentford"
+        },
+        {
+            "channel": "Disney+ Chile ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Brentford"
+        },
+        {
+            "channel": "Disney+ Sur ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Brentford"
+        },
+        {
+            "channel": "ESPN 1 Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "3980 L 21600 - 3/4",
+            "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Brentford"
+        },
+        {
+            "channel": "ESPN Caribbean",
+            "sat": "Telstar 12 15.0\u00b0w",
+            "freq": "12609 H 07552 - 3/4",
+            "encry": "BISS",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Brentford"
+        },
+        {
+            "channel": "Fubo Sports USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.fubosportsnetwork.com/",
             "related_to": "     Chelsea   vs   Brentford"
         },
         {
@@ -1335,11 +1431,35 @@
             "related_to": "     Chelsea   vs   Brentford"
         },
         {
+            "channel": "Idman TV HD",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11175 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Brentford"
+        },
+        {
+            "channel": "Kyivstar TV (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.kyivstar.ua/en/live-channels",
+            "related_to": "     Chelsea   vs   Brentford"
+        },
+        {
             "channel": "Match 4 Hungary HD",
             "sat": "Thor 7 0.6\u00b0w",
             "freq": "12130 H 28000 - 7/8",
             "encry": "NagraVision",
             "link": "#",
+            "related_to": "     Chelsea   vs   Brentford"
+        },
+        {
+            "channel": "Monomax Streaming ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.monomax.me/premierleague",
             "related_to": "     Chelsea   vs   Brentford"
         },
         {
@@ -1359,6 +1479,14 @@
             "related_to": "     Chelsea   vs   Brentford"
         },
         {
+            "channel": "NOW Premier League HK 2",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Brentford"
+        },
+        {
             "channel": "Peacock Premium USA ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1367,10 +1495,26 @@
             "related_to": "     Chelsea   vs   Brentford"
         },
         {
+            "channel": "Play Diema XTRA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://gong.bg/streaming",
+            "related_to": "     Chelsea   vs   Brentford"
+        },
+        {
             "channel": "Play Sports 4 Belgium",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Brentford"
+        },
+        {
+            "channel": "Premier Sports 2 Mongolia HD",
+            "sat": "Telstar 18 138.0\u00b0e",
+            "freq": "12598 H 45000 - 5/6",
+            "encry": "MPEG-4 Verimatrix",
             "link": "#",
             "related_to": "     Chelsea   vs   Brentford"
         },
@@ -1383,10 +1527,26 @@
             "related_to": "     Chelsea   vs   Brentford"
         },
         {
+            "channel": "Setanta Sports 3 Georgia HD",
+            "sat": " \u00b0",
+            "freq": " ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Brentford"
+        },
+        {
             "channel": "Setanta Sports Ukraine HD",
             "sat": "Astra 4A 5.0\u00b0e",
             "freq": "12207 V 30000 - 2/3",
             "encry": "HD Verimatrix",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Brentford"
+        },
+        {
+            "channel": "Sky Go Germany [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Chelsea   vs   Brentford"
         },
@@ -1428,6 +1588,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.stan.com.au/sport",
+            "related_to": "     Chelsea   vs   Brentford"
+        },
+        {
+            "channel": "SuperSport 3 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
             "related_to": "     Chelsea   vs   Brentford"
         },
         {
@@ -2003,6 +2171,14 @@
             "related_to": "     Tottenham Hotspur   vs   West Ham United"
         },
         {
+            "channel": "SuperSport 4 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Tottenham Hotspur   vs   West Ham United"
+        },
+        {
             "channel": "S\u00ddN Sport 3 \u00cdsland HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2258,6 +2434,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.stan.com.au/sport",
+            "related_to": "     Sunderland   vs   Crystal Palace"
+        },
+        {
+            "channel": "SuperSport 5 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10804 H 29950 - 2/3",
+            "encry": "HD Conax",
+            "link": "#",
             "related_to": "     Sunderland   vs   Crystal Palace"
         },
         {
@@ -2700,6 +2884,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.stan.com.au/sport",
+            "related_to": "     Nottingham Forest   vs   Arsenal"
+        },
+        {
+            "channel": "SuperSport 2 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
             "related_to": "     Nottingham Forest   vs   Arsenal"
         },
         {
