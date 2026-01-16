@@ -2549,6 +2549,14 @@
             "related_to": "     Galatasaray   vs   Atl\u00e9tico Madrid"
         },
         {
+            "channel": "M+ Liga de Campeones 3 HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "10758 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Galatasaray   vs   Atl\u00e9tico Madrid"
+        },
+        {
             "channel": "Movistar Plus+ HD",
             "sat": "Astra 1L 19.2\u00b0e",
             "freq": "11097 V 22000 - 5/6",
@@ -2871,6 +2879,14 @@
             "related_to": "     Qarabagh   vs   Eintracht Frankfurt"
         },
         {
+            "channel": "M+ Liga de Campeones HD",
+            "sat": "Astra 1KR 19.2\u00b0e",
+            "freq": "11259 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Qarabagh   vs   Eintracht Frankfurt"
+        },
+        {
             "channel": "MTV Katsomon+ ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -3149,6 +3165,14 @@
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11637 V 30000 - 2/3",
             "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Marseille   vs   Liverpool"
+        },
+        {
+            "channel": "M+ Liga de Campeones 5",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "10979 V 22000 - 5/6",
+            "encry": "Seca",
             "link": "#",
             "related_to": "     Marseille   vs   Liverpool"
         },
@@ -3459,6 +3483,14 @@
             "related_to": "     Newcastle United   vs   PSV Eindhoven"
         },
         {
+            "channel": "M+ Liga de Campeones 9",
+            "sat": "Astra 1KR 19.2\u00b0e",
+            "freq": "11686 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "#",
+            "related_to": "     Newcastle United   vs   PSV Eindhoven"
+        },
+        {
             "channel": "MTV Katsomon+ ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -3677,6 +3709,14 @@
             "related_to": "     Chelsea   vs   Pafos FC"
         },
         {
+            "channel": "M+ Liga de Campeones 8",
+            "sat": "Astra 1KR 19.2\u00b0e",
+            "freq": "11686 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Pafos FC"
+        },
+        {
             "channel": "MTV Katsomon+ ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -3876,6 +3916,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "     Atalanta   vs   Athletic Bilbao"
+        },
+        {
+            "channel": "M+ Liga de Campeones 2 HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "10729 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "#",
             "related_to": "     Atalanta   vs   Athletic Bilbao"
         },
         {
@@ -4089,6 +4137,14 @@
             "related_to": "     Slavia Prague   vs   Barcelona"
         },
         {
+            "channel": "M+ Liga de Campeones HD",
+            "sat": "Astra 1KR 19.2\u00b0e",
+            "freq": "11259 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Slavia Prague   vs   Barcelona"
+        },
+        {
             "channel": "MTV Katsomon+ ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -4296,6 +4352,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "     Bayern Munich   vs   Union St Gilloise"
+        },
+        {
+            "channel": "M+ Liga de Campeones 7",
+            "sat": "Astra 1KR 19.2\u00b0e",
+            "freq": "11686 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "#",
             "related_to": "     Bayern Munich   vs   Union St Gilloise"
         },
         {
@@ -4530,6 +4594,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "     Juventus   vs   Benfica"
+        },
+        {
+            "channel": "M+ Liga de Campeones 6",
+            "sat": "Astra 1KR 19.2\u00b0e",
+            "freq": "11686 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "#",
             "related_to": "     Juventus   vs   Benfica"
         },
         {
@@ -5078,6 +5150,64 @@
         },
         {
             "compet": "UEFA Champions League - Matchday 8",
+            "match": "     Pafos FC   vs   Slavia Prague",
+            "flags": {
+                "team1": "cyprus",
+                "team2": "czechia"
+            },
+            "time": "20:00",
+            "date": "2026-01-28"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "     Pafos FC   vs   Slavia Prague"
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "     Pafos FC   vs   Slavia Prague"
+        },
+        {
+            "channel": "Nova Sport 3 Czech HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11934 V 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Pafos FC   vs   Slavia Prague"
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "     Pafos FC   vs   Slavia Prague"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Pafos FC   vs   Slavia Prague"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Pafos FC   vs   Slavia Prague"
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 8",
             "match": "     Liverpool   vs   Qarabagh",
             "flags": {
                 "team1": "england",
@@ -5259,64 +5389,6 @@
             "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Napoli   vs   Chelsea"
-        },
-        {
-            "compet": "UEFA Champions League - Matchday 8",
-            "match": "     Pafos FC   vs   Slavia Prague",
-            "flags": {
-                "team1": "cyprus",
-                "team2": "czechia"
-            },
-            "time": "20:00",
-            "date": "2026-01-28"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "     Pafos FC   vs   Slavia Prague"
-        },
-        {
-            "channel": "MTV Katsomon+ ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.mtv.fi/urheilu",
-            "related_to": "     Pafos FC   vs   Slavia Prague"
-        },
-        {
-            "channel": "Nova Sport 3 Czech HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11934 V 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Pafos FC   vs   Slavia Prague"
-        },
-        {
-            "channel": "TV2 Play Norge ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://play.tv2.no/sport",
-            "related_to": "     Pafos FC   vs   Slavia Prague"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Pafos FC   vs   Slavia Prague"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Pafos FC   vs   Slavia Prague"
         },
         {
             "compet": "UEFA Champions League - Matchday 8",
