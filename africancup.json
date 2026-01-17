@@ -444,8 +444,8 @@
         },
         {
             "channel": "TVGE Internacional",
-            "sat": "Astra 4A 5.0\u00b0e",
-            "freq": "12380 H 27500 - 3/4",
+            "sat": "SES 5 5.0\u00b0e",
+            "freq": "11919 H 27500 - 3/4",
             "encry": "FTA",
             "link": "#",
             "related_to": "     Egypt   vs   Nigeria"
@@ -589,6 +589,14 @@
             "related_to": "     Senegal   vs   Morocco"
         },
         {
+            "channel": "beIN Sports 3 HD (Astro)",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Senegal   vs   Morocco"
+        },
+        {
             "channel": "beIN Sports Australia 3 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -608,6 +616,30 @@
             "channel": "beIN Sports MENA Max 1 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Senegal   vs   Morocco"
+        },
+        {
+            "channel": "beIN Sports MENA Max 2 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Senegal   vs   Morocco"
+        },
+        {
+            "channel": "beIN Sports MENA Max 3 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Senegal   vs   Morocco"
+        },
+        {
+            "channel": "beIN Sports MENA Max 4 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 H 27500 - 2/3",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Senegal   vs   Morocco"
@@ -669,10 +701,42 @@
             "related_to": "     Senegal   vs   Morocco"
         },
         {
+            "channel": "Dash TV",
+            "sat": "Amos 17 17.0\u00b0e",
+            "freq": "12252 V 30000 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Senegal   vs   Morocco"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Senegal   vs   Morocco"
+        },
+        {
+            "channel": "DAZN Japan ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Senegal   vs   Morocco"
+        },
+        {
             "channel": "E4 UK HD",
             "sat": "Astra 2E 28.2\u00b0e",
             "freq": "11856 V 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Senegal   vs   Morocco"
+        },
+        {
+            "channel": "ERT 2 Sport Hellas HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12223 H 13381 - 3/4",
+            "encry": "MPEG-4 Biss",
             "link": "#",
             "related_to": "     Senegal   vs   Morocco"
         },
@@ -690,6 +754,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://fanatiz.com/",
+            "related_to": "     Senegal   vs   Morocco"
+        },
+        {
+            "channel": "FanCode India ($/geo/R)",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.fancode.com/rugby/schedule/upcoming",
             "related_to": "     Senegal   vs   Morocco"
         },
         {
@@ -733,10 +805,26 @@
             "related_to": "     Senegal   vs   Morocco"
         },
         {
+            "channel": "M+ Vamos 2 Espa\u00f1a HD",
+            "sat": "Astra 1P 19.2\u00b0e",
+            "freq": "11097 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "#",
+            "related_to": "     Senegal   vs   Morocco"
+        },
+        {
             "channel": "MAX Sport 2 Bulgaria HD",
             "sat": "AzerSpace 2 45.0\u00b0e",
             "freq": "11475 V 30000 - 5/6",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Senegal   vs   Morocco"
+        },
+        {
+            "channel": "Media Sports Infos",
+            "sat": "Rascom QAF 1R 2.8\u00b0e",
+            "freq": "4071 R 2083 - 3/4",
+            "encry": "MPEG-4 Seca",
             "link": "#",
             "related_to": "     Senegal   vs   Morocco"
         },
@@ -813,6 +901,14 @@
             "related_to": "     Senegal   vs   Morocco"
         },
         {
+            "channel": "ORTB Benin",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10804 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Senegal   vs   Morocco"
+        },
+        {
             "channel": "ORTM 1 Mali",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "12604 H 30000 - 2/3",
@@ -825,6 +921,38 @@
             "sat": "MonacoSat 52.0\u00b0e",
             "freq": "12437 H 30000 - 3/4",
             "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Senegal   vs   Morocco"
+        },
+        {
+            "channel": "RTB Z\u00e9nith",
+            "sat": "Eutelsat 3B 3.1\u00b0e",
+            "freq": "3729 L 16833 - 5/6",
+            "encry": "HEVC SD Nagravision",
+            "link": "#",
+            "related_to": "     Senegal   vs   Morocco"
+        },
+        {
+            "channel": "RTG Guinea",
+            "sat": "SES 5 5.0\u00b0e",
+            "freq": "11766 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Senegal   vs   Morocco"
+        },
+        {
+            "channel": "RTi La 3 C\u00f4te d\u2019Ivoire",
+            "sat": "SES 5 5.0\u00b0e",
+            "freq": "12341 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Senegal   vs   Morocco"
+        },
+        {
+            "channel": "RTNC Congo DR",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "11387 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra",
             "link": "#",
             "related_to": "     Senegal   vs   Morocco"
         },
@@ -845,10 +973,26 @@
             "related_to": "     Senegal   vs   Morocco"
         },
         {
+            "channel": "SABC 2 HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11514 V 28750 - 5/6",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Senegal   vs   Morocco"
+        },
+        {
             "channel": "Sport TV3 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Senegal   vs   Morocco"
+        },
+        {
+            "channel": "Sport+ Qazaqstan",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "10720 H 30000 - 3/4",
+            "encry": "MPEG-4 NDS",
             "link": "#",
             "related_to": "     Senegal   vs   Morocco"
         },
@@ -909,6 +1053,22 @@
             "related_to": "     Senegal   vs   Morocco"
         },
         {
+            "channel": "Tele Congo",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12149 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Senegal   vs   Morocco"
+        },
+        {
+            "channel": "Tolo TV",
+            "sat": "Al Yah 1 52.5\u00b0e",
+            "freq": "11938 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Senegal   vs   Morocco"
+        },
+        {
             "channel": "TPA 2 Angola",
             "sat": "Yamal 402 54.9\u00b0e",
             "freq": "10962 V 05926 - 3/4",
@@ -917,10 +1077,34 @@
             "related_to": "     Senegal   vs   Morocco"
         },
         {
+            "channel": "TV Miramar Mozambique",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "12245 H 27500 3/4",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Senegal   vs   Morocco"
+        },
+        {
             "channel": "TVGE Internacional",
-            "sat": "Astra 4A 5.0\u00b0e",
-            "freq": "12380 H 27500 - 3/4",
+            "sat": "SES 5 5.0\u00b0e",
+            "freq": "11919 H 27500 - 3/4",
             "encry": "FTA",
+            "link": "#",
+            "related_to": "     Senegal   vs   Morocco"
+        },
+        {
+            "channel": "TVT Togo",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12525 V 30000 - 5/6",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Senegal   vs   Morocco"
+        },
+        {
+            "channel": "T\u00e9l\u00e9 Tchad",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12687 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     Senegal   vs   Morocco"
         },
