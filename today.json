@@ -155,6 +155,14 @@
             "related_to": "     Adelaide United   vs   Melbourne Victory"
         },
         {
+            "channel": "Dubai Sports 1 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "12130 V 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.dubaisports.ae/content/dubaisports/livestreaming/channel-1.html",
+            "related_to": "     Adelaide United   vs   Melbourne Victory"
+        },
+        {
             "channel": "Sky Sport 3 NZ HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1981,6 +1989,14 @@
             "sat": "Astra 2F 28.2\u00b0e",
             "freq": "12246 V 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Manchester United   vs   Manchester City"
+        },
+        {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Manchester United   vs   Manchester City"
         },
@@ -4905,6 +4921,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Hoffenheim   vs   Bayer Leverkusen"
+        },
+        {
+            "channel": "MBC Action HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "12284 V 27500 - 5/6",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Hoffenheim   vs   Bayer Leverkusen"
         },
@@ -8631,72 +8655,6 @@
             "related_to": "     Farul Constanta   vs   Hermannstadt"
         },
         {
-            "compet": "AFC U-23 Asian Cup - Quarter Final",
-            "match": "     Australia U-23   vs   South Korea U-23",
-            "flags": {
-                "team1": "australia",
-                "team2": "koreasouth"
-            },
-            "time": "15:30",
-            "date": "2026-01-17"
-        },
-        {
-            "channel": "Astro GO Malaysia ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://astrogo.astro.com.my/hubSports",
-            "related_to": "     Australia U-23   vs   South Korea U-23"
-        },
-        {
-            "channel": "beIN Sports MENA 7 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10850 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Australia U-23   vs   South Korea U-23"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     Australia U-23   vs   South Korea U-23"
-        },
-        {
-            "channel": "Spor Smart T\u00fcrkiye HD",
-            "sat": "Turksat 4A 42.0\u00b0e",
-            "freq": "12188 V 27500 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Australia U-23   vs   South Korea U-23"
-        },
-        {
-            "channel": "SportKlub 11 Hrvatska",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Australia U-23   vs   South Korea U-23"
-        },
-        {
-            "channel": "Varzish TV Sport HD (tjk)",
-            "sat": "NSS 12 57.0\u00b0e",
-            "freq": "11566 H 10750 - 3/4",
-            "encry": "HD BISS",
-            "link": "#",
-            "related_to": "     Australia U-23   vs   South Korea U-23"
-        },
-        {
-            "channel": "YouTube: AFC Asian Cup",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.youtube.com/@AFCAsianCup",
-            "related_to": "     Australia U-23   vs   South Korea U-23"
-        },
-        {
             "compet": "Dutch Eredivisie - Week 19",
             "match": "     Ajax   vs   Go Ahead Eagles",
             "flags": {
@@ -8728,6 +8686,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://tv.comofootball.com/liveEvent.html",
+            "related_to": "     Ajax   vs   Go Ahead Eagles"
+        },
+        {
+            "channel": "Dubai Sports 2 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "12130 V 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.dubaisports.ae/content/dubaisports/livestreaming/channel-2.html",
             "related_to": "     Ajax   vs   Go Ahead Eagles"
         },
         {
@@ -8865,6 +8831,72 @@
             "encry": "HD DRE-Crypt",
             "link": "#",
             "related_to": "     Ajax   vs   Go Ahead Eagles"
+        },
+        {
+            "compet": "AFC U-23 Asian Cup - Quarter Final",
+            "match": "     Australia U-23   vs   South Korea U-23",
+            "flags": {
+                "team1": "australia",
+                "team2": "koreasouth"
+            },
+            "time": "15:30",
+            "date": "2026-01-17"
+        },
+        {
+            "channel": "Astro GO Malaysia ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://astrogo.astro.com.my/hubSports",
+            "related_to": "     Australia U-23   vs   South Korea U-23"
+        },
+        {
+            "channel": "beIN Sports MENA 7 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Australia U-23   vs   South Korea U-23"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     Australia U-23   vs   South Korea U-23"
+        },
+        {
+            "channel": "Spor Smart T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "12188 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Australia U-23   vs   South Korea U-23"
+        },
+        {
+            "channel": "SportKlub 11 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Australia U-23   vs   South Korea U-23"
+        },
+        {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Australia U-23   vs   South Korea U-23"
+        },
+        {
+            "channel": "YouTube: AFC Asian Cup",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@AFCAsianCup",
+            "related_to": "     Australia U-23   vs   South Korea U-23"
         },
         {
             "channel": "5 STARS Israel HD",
@@ -11479,6 +11511,424 @@
             "related_to": "     Osasuna   vs   Real Oviedo"
         },
         {
+            "compet": "German 1. Bundesliga - Week 18",
+            "match": "     RB Leipzig   vs   Bayern Munich",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "17:30",
+            "date": "2026-01-17"
+        },
+        {
+            "channel": "Arena 4 Hungary HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "12265 V 28000 - 7/8",
+            "encry": "Conax",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "Arena Premium 5 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12304 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "beIN Sports 3 HD (Astro)",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "beIN Sports Australia 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "beIN Sports France 4 HD max",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "CRTV Sports Cameroon",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12610 H 12500 - 3/4",
+            "encry": "HEVC SD Nagravision",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "DAZN 3 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "DAZN Japan ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "Diema Sport 3 HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "Digi Sport 2 Romania HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "11823 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "Eleven Sports 1 Polska HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11488 H 27500 - 3/4",
+            "encry": "HD Mediaguard",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "Futbol TV Tajikistan",
+            "sat": "ABS 2A 75.0\u00b0e",
+            "freq": "12252 H 10000 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "Go3 Sport 2 Baltic HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11958 H 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "https://go3.tv/en/live_tv",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "MBC Action HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "12284 V 27500 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "Nova Sport 3 Czech HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11934 V 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "Nova Sports Prime Cyprus HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "Nova Sports Prime Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "Okko Futbol HD ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "Play Sports 2 Belgium",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "Prima Sport RO 2 HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12565 V 30000 - 7/8",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "See Dansk HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11265 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "Setanta Sports 2 Baltic",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "Setanta Sports 3 Georgia HD",
+            "sat": " \u00b0",
+            "freq": " ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "Setanta Sports+ Ukraine HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "12207 V 30000 - 2/3",
+            "encry": "HD Verimatrix",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "Sky Go UK [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "Sky Sport Arena Italia HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11996 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "Sky Sport Bundesliga 1 HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "11914 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "Sky Sport Bundesliga HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12304 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "Sky Sport Top Event HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "11914 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "Sky Sports Football HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "12090 V 29500 - 8/9",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "Sky Sports+ TV HD",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12148 H 27500 - 2/3",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "Sport 4 Israel HD",
+            "sat": "Amos 7 4.0\u00b0w",
+            "freq": "10972 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "Sport TV2 Slovenija",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "SportKlub 2 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "ST World Football HD",
+            "sat": "Eutelsat 10B 10.0\u00b0e",
+            "freq": "3736 R 07307 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "Tivibu Spor 2 HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11853 H 25000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "Tring Sport 2 HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "TSN Malta 5 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "V Sport 2 Norge HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11345 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "V Sport Football HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
+            "channel": "ViaPlay \u00cdsland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayern Munich"
+        },
+        {
             "compet": "English Premier League - Week 22",
             "match": "     Nottingham Forest   vs   Arsenal",
             "flags": {
@@ -12015,408 +12465,6 @@
             "encry": "",
             "link": "https://voyo.protv.ro/premier-league",
             "related_to": "     Nottingham Forest   vs   Arsenal"
-        },
-        {
-            "compet": "German 1. Bundesliga - Week 18",
-            "match": "     RB Leipzig   vs   Bayern Munich",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "17:30",
-            "date": "2026-01-17"
-        },
-        {
-            "channel": "Arena 4 Hungary HD",
-            "sat": "Thor 5 0.8\u00b0w",
-            "freq": "12265 V 28000 - 7/8",
-            "encry": "Conax",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "Arena Premium 5 Srbija HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12304 H 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "beIN Sports 3 HD (Astro)",
-            "sat": "Measat 3b 91.5\u00b0e",
-            "freq": "10732 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "beIN Sports Australia 1 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "beIN Sports France 4 HD max",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11856 V 29700 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "DAZN 3 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "DAZN Japan ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "AzerSpace 2 45.0\u00b0e",
-            "freq": "12520 V 30000 - 5/6",
-            "encry": "MPEG-4 NDS",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "Digi Sport 2 Romania HD",
-            "sat": "Thor 6 0.8\u00b0w",
-            "freq": "11823 H 30000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "Eleven Sports 1 Polska HD",
-            "sat": "Hotbird 13G 13.0\u00b0e",
-            "freq": "11488 H 27500 - 3/4",
-            "encry": "HD Mediaguard",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "ESPN+ USA ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "Futbol TV Tajikistan",
-            "sat": "ABS 2A 75.0\u00b0e",
-            "freq": "12252 H 10000 - 3/4",
-            "encry": "HD BISS",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "Go3 Sport 2 Baltic HD",
-            "sat": "Astra 4A 5.0\u00b0e",
-            "freq": "11958 H 27500 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "https://go3.tv/en/live_tv",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "Nova Sport 3 Czech HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11934 V 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "Nova Sports Prime Cyprus HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "12130 H 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "Nova Sports Prime Hellas HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "12130 H 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "Okko Futbol HD ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "Play Sports 2 Belgium",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "Prima Sport RO 2 HD",
-            "sat": "Hellas Sat 3 39.0\u00b0e",
-            "freq": "12565 V 30000 - 7/8",
-            "encry": "VideoGuard",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "See Dansk HD",
-            "sat": "Thor 6 5.0\u00b0e",
-            "freq": "11265 H 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "Setanta Sports 2 Baltic",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "Setanta Sports 3 Georgia HD",
-            "sat": " \u00b0",
-            "freq": " ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "Setanta Sports+ Ukraine HD",
-            "sat": "Astra 4A 5.0\u00b0e",
-            "freq": "12207 V 30000 - 2/3",
-            "encry": "HD Verimatrix",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "Sky Go UK [online]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "Sky Sport Arena Italia HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "11996 V 29900 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "Sky Sport Bundesliga 1 HD",
-            "sat": "Astra 1N 19.2\u00b0e",
-            "freq": "11914 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "Sky Sport Bundesliga HD",
-            "sat": "Astra 1N 19.2\u00b0e",
-            "freq": "12304 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "Sky Sport Top Event HD",
-            "sat": "Astra 1N 19.2\u00b0e",
-            "freq": "11914 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "Sky Sports Football HD",
-            "sat": "Astra 2E 28.2\u00b0e",
-            "freq": "12090 V 29500 - 8/9",
-            "encry": "MPEG-4 NDS",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "Sky Sports+ TV HD",
-            "sat": "Astra 2F 28.2\u00b0e",
-            "freq": "12148 H 27500 - 2/3",
-            "encry": "VideoGuard",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "Sport 4 Israel HD",
-            "sat": "Amos 7 4.0\u00b0w",
-            "freq": "10972 V 30000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "Sport TV2 Slovenija",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "SportKlub 2 Hrvatska",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "ST World Football HD",
-            "sat": "Eutelsat 10B 10.0\u00b0e",
-            "freq": "3736 R 07307 - 5/6",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "Tivibu Spor 2 HD",
-            "sat": "Turksat 4A 42.0\u00b0e",
-            "freq": "11853 H 25000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "Tring Sport 2 HD",
-            "sat": "Hellas Sat 4 39.0\u00b0e",
-            "freq": "10890 H 30000 - 5/6",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "TSN Malta 5 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "TV2 Play Norge ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://play.tv2.no/sport",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "V Sport 2 Norge HD",
-            "sat": "Thor 6 5.0\u00b0e",
-            "freq": "11345 H 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "V Sport Football HD",
-            "sat": "Thor 6 0.8\u00b0w",
-            "freq": "10809 V 25000 - 3/4",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
-        },
-        {
-            "channel": "ViaPlay \u00cdsland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayern Munich"
         },
         {
             "compet": "Saudi Pro League - Week 16",
@@ -13250,6 +13298,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://tv.comofootball.com/liveEvent.html",
+            "related_to": "     Fortuna Sittard   vs   PSV Eindhoven"
+        },
+        {
+            "channel": "Dubai Sports 2 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "12130 V 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.dubaisports.ae/content/dubaisports/livestreaming/channel-2.html",
             "related_to": "     Fortuna Sittard   vs   PSV Eindhoven"
         },
         {
@@ -14843,6 +14899,14 @@
             "related_to": "     Real Betis   vs   Villarreal"
         },
         {
+            "channel": "CRTV Sports Cameroon",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12610 H 12500 - 3/4",
+            "encry": "HEVC SD Nagravision",
+            "link": "#",
+            "related_to": "     Real Betis   vs   Villarreal"
+        },
+        {
             "channel": "Cytavision Sports 8 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -15819,6 +15883,14 @@
             "sat": "Hotbird 13G 13.0\u00b0e",
             "freq": "11278 V 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Rio Ave   vs   Benfica"
+        },
+        {
+            "channel": "Kuwait Sport HD",
+            "sat": "Badr 4 26.0\u00b0e",
+            "freq": "12523 H 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Rio Ave   vs   Benfica"
         },
