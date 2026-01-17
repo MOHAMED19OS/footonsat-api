@@ -2,40 +2,6 @@
     "footonsat": [
         {
             "compet": "T\u00fcrkiye 1. Lig - Week 21",
-            "match": "     Corum FK   vs   Adana Demirspor",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "17:00",
-            "date": "2026-01-16"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Corum FK   vs   Adana Demirspor"
-        },
-        {
-            "channel": "beIN Sports T\u00fcrkiye 2 HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11676 V 24444 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Corum FK   vs   Adana Demirspor"
-        },
-        {
-            "channel": "TRT Spor T\u00fcrkiye HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11054 V 30000 - 3/4",
-            "encry": "FTA",
-            "link": "https://www.trtizle.com/canli/tv/trt-spor",
-            "related_to": "     Corum FK   vs   Adana Demirspor"
-        },
-        {
-            "compet": "T\u00fcrkiye 1. Lig - Week 21",
             "match": "     Bandirmaspor   vs   Pendikspor",
             "flags": {
                 "team1": "turkey",
@@ -313,6 +279,14 @@
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "10845 H 30000 - 3/5",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Galatasaray   vs   Gaziantep"
+        },
+        {
+            "channel": "SuperSport ESPN 2 HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
             "link": "#",
             "related_to": "     Galatasaray   vs   Gaziantep"
         },
@@ -1646,6 +1620,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Fatih Karag\u00fcmr\u00fck   vs   Galatasaray"
+        },
+        {
+            "channel": "beIN Sports France 5 HD max",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
             "related_to": "     Fatih Karag\u00fcmr\u00fck   vs   Galatasaray"
         },
         {

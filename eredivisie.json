@@ -1,60 +1,6 @@
 {
     "footonsat": [
         {
-            "compet": "Dutch Eerste Divisie (2nd) - Week 23",
-            "match": "     ADO Den Haag   vs   Cambuur-Leeuwarden",
-            "flags": {
-                "team1": "holland",
-                "team2": "holland"
-            },
-            "time": "19:00",
-            "date": "2026-01-16"
-        },
-        {
-            "channel": "ESPN 1 Nederland HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "11739 V 29900 - 3/4",
-            "encry": "HD Mediaguard",
-            "link": "#",
-            "related_to": "     ADO Den Haag   vs   Cambuur-Leeuwarden"
-        },
-        {
-            "compet": "Dutch Eerste Divisie (2nd) - Week 23",
-            "match": "     Helmond Sport   vs   Vitesse Arnhem",
-            "flags": {
-                "team1": "holland",
-                "team2": "holland"
-            },
-            "time": "19:00",
-            "date": "2026-01-16"
-        },
-        {
-            "channel": "ESPN 2 Nederland HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "11856 V 29900 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Helmond Sport   vs   Vitesse Arnhem"
-        },
-        {
-            "compet": "Dutch Eerste Divisie (2nd) - Week 23",
-            "match": "     VVV-Venlo   vs   AZ Youths",
-            "flags": {
-                "team1": "holland",
-                "team2": "holland"
-            },
-            "time": "19:00",
-            "date": "2026-01-16"
-        },
-        {
-            "channel": "ESPN 3 Nederland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     VVV-Venlo   vs   AZ Youths"
-        },
-        {
             "compet": "Dutch Vrouwen Eredivisie - Week 11",
             "match": "     Twente   vs   Ajax",
             "flags": {
@@ -199,6 +145,14 @@
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "10762 H 30000 - 3/5",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Ajax   vs   Go Ahead Eagles"
+        },
+        {
+            "channel": "SuperSport ESPN 2 HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
             "link": "#",
             "related_to": "     Ajax   vs   Go Ahead Eagles"
         },
@@ -485,6 +439,14 @@
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "10845 H 30000 - 3/5",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Fortuna Sittard   vs   PSV Eindhoven"
+        },
+        {
+            "channel": "SuperSport ESPN 2 HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
             "link": "#",
             "related_to": "     Fortuna Sittard   vs   PSV Eindhoven"
         },
