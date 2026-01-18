@@ -377,6 +377,14 @@
             "date": "2026-01-25"
         },
         {
+            "channel": "beIN Sports France 6 HD max",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Benfica   vs   Estrela Amadora"
+        },
+        {
             "channel": "Benfica TV HD",
             "sat": "Eutelsat 36C 35.9\u00b0e",
             "freq": "11304 V 30000 - 5/6",
@@ -415,6 +423,24 @@
             "encry": "HD Viaccess",
             "link": "#",
             "related_to": "     Benfica   vs   Estrela Amadora"
+        },
+        {
+            "compet": "Portuguese Liga Portugal - Week 19",
+            "match": "     Sporting Braga   vs   Alverca",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "20:30",
+            "date": "2026-01-25"
+        },
+        {
+            "channel": "beIN Sports France 3 HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Sporting Braga   vs   Alverca"
         },
         {
             "compet": "Portuguese Liga Portugal - Week 19",
