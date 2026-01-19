@@ -1646,24 +1646,6 @@
         },
         {
             "compet": "NBA Regular Season",
-            "match": "     Charlotte Hornets   vs   Philadelphia 76ers",
-            "flags": {
-                "team1": "assocnba",
-                "team2": "assocnba"
-            },
-            "time": "00:00",
-            "date": "2026-01-27"
-        },
-        {
-            "channel": "NBA League Pass ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Charlotte Hornets   vs   Philadelphia 76ers"
-        },
-        {
-            "compet": "NBA Regular Season",
             "match": "     Cleveland Cavaliers   vs   Orlando Magic",
             "flags": {
                 "team1": "assocnba",
@@ -1671,6 +1653,14 @@
             },
             "time": "00:00",
             "date": "2026-01-27"
+        },
+        {
+            "channel": "beIN Sports France 1 HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Cleveland Cavaliers   vs   Orlando Magic"
         },
         {
             "channel": "NBA League Pass ($/geo/R)",
@@ -1695,6 +1685,24 @@
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Cleveland Cavaliers   vs   Orlando Magic"
+        },
+        {
+            "compet": "NBA Regular Season",
+            "match": "     Charlotte Hornets   vs   Philadelphia 76ers",
+            "flags": {
+                "team1": "assocnba",
+                "team2": "assocnba"
+            },
+            "time": "00:00",
+            "date": "2026-01-27"
+        },
+        {
+            "channel": "NBA League Pass ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Charlotte Hornets   vs   Philadelphia 76ers"
         },
         {
             "compet": "NBA Regular Season",
@@ -1785,6 +1793,14 @@
             },
             "time": "02:30",
             "date": "2026-01-27"
+        },
+        {
+            "channel": "beIN Sports France 1 HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Minnesota Timberwolves   vs   Golden State Warriors"
         },
         {
             "channel": "NBA League Pass ($/geo/R)",
