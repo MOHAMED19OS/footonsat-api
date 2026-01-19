@@ -619,6 +619,42 @@
             "related_to": "     Brighton H.A.   vs   Bournemouth"
         },
         {
+            "compet": "English Premier League 2",
+            "match": "     Fulham U-21   vs   Middlesbrough U-21",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:00",
+            "date": "2026-01-23"
+        },
+        {
+            "channel": "Fulham FC TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.fulhamfc.com/matches",
+            "related_to": "     Fulham U-21   vs   Middlesbrough U-21"
+        },
+        {
+            "compet": "English Premier League 2",
+            "match": "     Stoke City U-21   vs   Tottenham U-21",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:00",
+            "date": "2026-01-23"
+        },
+        {
+            "channel": "SpursPlay ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://play.tottenhamhotspur.com/",
+            "related_to": "     Stoke City U-21   vs   Tottenham U-21"
+        },
+        {
             "compet": "English Premier League - Week 23",
             "match": "     West Ham United   vs   Sunderland",
             "flags": {
@@ -4456,6 +4492,14 @@
             "freq": "0000 0",
             "encry": "LiveOnSat.com",
             "link": "https://go3.tv/extra_sports",
+            "related_to": "     Arsenal   vs   Sunderland"
+        },
+        {
+            "channel": "Premier Sports 1 Ireland HD",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12188 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
             "related_to": "     Arsenal   vs   Sunderland"
         },
         {
@@ -8403,7 +8447,7 @@
                 "team1": "england",
                 "team2": "england"
             },
-            "time": "15:00",
+            "time": "14:00",
             "date": "2026-05-02"
         },
         {
