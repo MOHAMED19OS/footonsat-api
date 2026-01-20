@@ -1,42 +1,6 @@
 {
     "footonsat": [
         {
-            "compet": "Dutch Eerste Divisie (2nd) - Week 23",
-            "match": "     Ajax Youths   vs   Roda JC",
-            "flags": {
-                "team1": "holland",
-                "team2": "holland"
-            },
-            "time": "19:00",
-            "date": "2026-01-19"
-        },
-        {
-            "channel": "ESPN 1 Nederland HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "11739 V 29900 - 3/4",
-            "encry": "HD Mediaguard",
-            "link": "#",
-            "related_to": "     Ajax Youths   vs   Roda JC"
-        },
-        {
-            "compet": "Dutch Eerste Divisie (2nd) - Week 23",
-            "match": "     Utrecht Youths   vs   PSV Youths",
-            "flags": {
-                "team1": "holland",
-                "team2": "holland"
-            },
-            "time": "19:00",
-            "date": "2026-01-19"
-        },
-        {
-            "channel": "ESPN 2 Nederland HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "11856 V 29900 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Utrecht Youths   vs   PSV Youths"
-        },
-        {
             "compet": "Dutch Cup (KNVB Beker) - 5th Round",
             "match": "     De Treffers   vs   NEC Nijmegen",
             "flags": {
@@ -195,6 +159,14 @@
             "related_to": "     Ajax   vs   Volendam"
         },
         {
+            "channel": "Thriller TV+ [online] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.trillertv.com/join/trillertv-subscription/",
+            "related_to": "     Ajax   vs   Volendam"
+        },
+        {
             "compet": "Dutch Eerste Divisie (2nd) - Week 24",
             "match": "     Emmen   vs   Ajax Youths",
             "flags": {
@@ -321,6 +293,14 @@
             "related_to": "     PSV Eindhoven   vs   NAC Breda"
         },
         {
+            "channel": "Thriller TV+ [online] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.trillertv.com/join/trillertv-subscription/",
+            "related_to": "     PSV Eindhoven   vs   NAC Breda"
+        },
+        {
             "channel": "TV Start Russia HD",
             "sat": "ABS 2A 75.0\u00b0e",
             "freq": "11605 V 43200 - 7/8",
@@ -426,6 +406,14 @@
             "freq": "11186 V 22000 - 2/3",
             "encry": "HD Viaccess",
             "link": "#",
+            "related_to": "     Telstar   vs   AZ Alkmaar"
+        },
+        {
+            "channel": "Thriller TV+ [online] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.trillertv.com/join/trillertv-subscription/",
             "related_to": "     Telstar   vs   AZ Alkmaar"
         },
         {
@@ -608,6 +596,14 @@
             "freq": "11186 V 22000 - 2/3",
             "encry": "HD Viaccess",
             "link": "#",
+            "related_to": "     Feyenoord   vs   Heracles Almelo"
+        },
+        {
+            "channel": "Thriller TV+ [online] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.trillertv.com/join/trillertv-subscription/",
             "related_to": "     Feyenoord   vs   Heracles Almelo"
         },
         {
