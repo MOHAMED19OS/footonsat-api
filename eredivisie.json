@@ -11,10 +11,10 @@
             "date": "2026-01-20"
         },
         {
-            "channel": "ESPN 2 Nederland HD",
+            "channel": "ESPN 1 Nederland HD",
             "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "11856 V 29900 - 3/4",
-            "encry": "HD NagraVision",
+            "freq": "11739 V 29900 - 3/4",
+            "encry": "HD Mediaguard",
             "link": "#",
             "related_to": "     De Treffers   vs   NEC Nijmegen"
         },
@@ -85,6 +85,132 @@
             "related_to": "     AZ Alkmaar   vs   Excelsior"
         },
         {
+            "compet": "Dutch Eerste Divisie (2nd) - Week 24",
+            "match": "     Roda JC   vs   FC Oss",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "19:00",
+            "date": "2026-01-23"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Roda JC   vs   FC Oss"
+        },
+        {
+            "compet": "Dutch Eerste Divisie (2nd) - Week 24",
+            "match": "     Vitesse Arnhem   vs   ADO Den Haag",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "19:00",
+            "date": "2026-01-23"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Vitesse Arnhem   vs   ADO Den Haag"
+        },
+        {
+            "compet": "Dutch Eerste Divisie (2nd) - Week 24",
+            "match": "     Willem II   vs   VVV-Venlo",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "19:00",
+            "date": "2026-01-23"
+        },
+        {
+            "channel": "ESPN 4 Nederland HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11739 V 29900 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Willem II   vs   VVV-Venlo"
+        },
+        {
+            "compet": "Dutch Eerste Divisie (2nd) - Week 24",
+            "match": "     Cambuur-Leeuwarden   vs   FC Eindhoven",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "19:00",
+            "date": "2026-01-23"
+        },
+        {
+            "channel": "ESPN 2 Nederland HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11856 V 29900 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Cambuur-Leeuwarden   vs   FC Eindhoven"
+        },
+        {
+            "compet": "Dutch Eerste Divisie (2nd) - Week 24",
+            "match": "     De Graafschap   vs   RKC Waalwijk",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "19:00",
+            "date": "2026-01-23"
+        },
+        {
+            "channel": "ESPN 3 Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     De Graafschap   vs   RKC Waalwijk"
+        },
+        {
+            "compet": "Dutch Eerste Divisie (2nd) - Week 24",
+            "match": "     Dordrecht   vs   Den Bosch",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "19:00",
+            "date": "2026-01-23"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Dordrecht   vs   Den Bosch"
+        },
+        {
+            "compet": "Dutch Eerste Divisie (2nd) - Week 24",
+            "match": "     MVV Maastricht   vs   Utrecht Youths",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "19:00",
+            "date": "2026-01-23"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     MVV Maastricht   vs   Utrecht Youths"
+        },
+        {
             "compet": "Dutch Eredivisie - Week 20",
             "match": "     Ajax   vs   Volendam",
             "flags": {
@@ -100,6 +226,14 @@
             "freq": "11817 V 30000 - 3/4",
             "encry": "HD Conax",
             "link": "#",
+            "related_to": "     Ajax   vs   Volendam"
+        },
+        {
+            "channel": "Como TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.comofootball.com/liveEvent.html",
             "related_to": "     Ajax   vs   Volendam"
         },
         {
@@ -229,6 +363,14 @@
             "related_to": "     PSV Eindhoven   vs   NAC Breda"
         },
         {
+            "channel": "Como TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.comofootball.com/liveEvent.html",
+            "related_to": "     PSV Eindhoven   vs   NAC Breda"
+        },
+        {
             "channel": "ESPN 2 Nederland HD",
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "11856 V 29900 - 3/4",
@@ -343,6 +485,14 @@
             },
             "time": "11:15",
             "date": "2026-01-25"
+        },
+        {
+            "channel": "ESPN 2 Nederland HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11856 V 29900 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Telstar   vs   AZ Alkmaar"
         },
         {
             "channel": "ESPN Extra Nederland",
@@ -462,24 +612,6 @@
         },
         {
             "compet": "Dutch Vrouwen Eredivisie - Week 12",
-            "match": "     HERA United   vs   Feyenoord",
-            "flags": {
-                "team1": "holland",
-                "team2": "holland"
-            },
-            "time": "15:30",
-            "date": "2026-01-25"
-        },
-        {
-            "channel": "ESPN Extra Nederland",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     HERA United   vs   Feyenoord"
-        },
-        {
-            "compet": "Dutch Vrouwen Eredivisie - Week 12",
             "match": "     ADO Den Haag   vs   Ajax",
             "flags": {
                 "team1": "holland",
@@ -541,6 +673,14 @@
             },
             "time": "15:45",
             "date": "2026-01-25"
+        },
+        {
+            "channel": "Como TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.comofootball.com/liveEvent.html",
+            "related_to": "     Feyenoord   vs   Heracles Almelo"
         },
         {
             "channel": "ESPN 2 Nederland HD",
@@ -635,12 +775,56 @@
             "date": "2026-01-25"
         },
         {
+            "channel": "ESPN 3 Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Utrecht   vs   Sparta Rotterdam"
+        },
+        {
             "channel": "ESPN Extra Nederland",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
             "link": "#",
             "related_to": "     Utrecht   vs   Sparta Rotterdam"
+        },
+        {
+            "compet": "Dutch Vrouwen Eredivisie - Week 12",
+            "match": "     HERA United   vs   Feyenoord",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "15:45",
+            "date": "2026-01-25"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     HERA United   vs   Feyenoord"
+        },
+        {
+            "compet": "Dutch Eerste Divisie (2nd) - Week 3",
+            "match": "     ADO Den Haag   vs   Vitesse Arnhem",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "19:00",
+            "date": "2026-01-26"
+        },
+        {
+            "channel": "ESPN 2 Nederland HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11856 V 29900 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     ADO Den Haag   vs   Vitesse Arnhem"
         },
         {
             "compet": "Dutch Eerste Divisie (2nd) - Week 22",
@@ -653,12 +837,30 @@
             "date": "2026-01-26"
         },
         {
-            "channel": "ESPN 1 Nederland HD",
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     RKC Waalwijk   vs   Utrecht Youths"
+        },
+        {
+            "compet": "Dutch Eerste Divisie (2nd) - Week 22",
+            "match": "     Roda JC   vs   VVV-Venlo",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "19:00",
+            "date": "2026-01-26"
+        },
+        {
+            "channel": "ESPN 4 Nederland HD",
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "11739 V 29900 - 3/4",
             "encry": "HD Viaccess",
             "link": "#",
-            "related_to": "     RKC Waalwijk   vs   Utrecht Youths"
+            "related_to": "     Roda JC   vs   VVV-Venlo"
         },
         {
             "compet": "Dutch Eerste Divisie (2nd) - Week 22",
@@ -671,12 +873,48 @@
             "date": "2026-01-26"
         },
         {
-            "channel": "ESPN 4 Nederland HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "11739 V 29900 - 3/4",
-            "encry": "HD NagraVision",
+            "channel": "ESPN 3 Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     De Graafschap   vs   Den Bosch"
+        },
+        {
+            "compet": "Dutch Eerste Divisie (2nd) - Week 24",
+            "match": "     PSV Youths   vs   Helmond Sport",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "19:00",
+            "date": "2026-01-26"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     PSV Youths   vs   Helmond Sport"
+        },
+        {
+            "compet": "Dutch Eerste Divisie (2nd) - Week 24",
+            "match": "     AZ Youths   vs   Almere City",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "19:00",
+            "date": "2026-01-26"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     AZ Youths   vs   Almere City"
         },
         {
             "compet": "Dutch Eerste Divisie (2nd) - Week 22",
@@ -689,10 +927,10 @@
             "date": "2026-01-27"
         },
         {
-            "channel": "ESPN 3 Nederland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
+            "channel": "ESPN 1 Nederland HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11739 V 29900 - 3/4",
+            "encry": "HD Mediaguard",
             "link": "#",
             "related_to": "     Emmen   vs   Cambuur-Leeuwarden"
         },
@@ -715,6 +953,24 @@
             "related_to": "     Feyenoord   vs   AZ Alkmaar"
         },
         {
+            "compet": "Dutch Womens Cup - Quarter Final",
+            "match": "     Excelsior   vs   Twente",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "17:45",
+            "date": "2026-01-29"
+        },
+        {
+            "channel": "ESPN 1 Nederland HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11739 V 29900 - 3/4",
+            "encry": "HD Mediaguard",
+            "link": "#",
+            "related_to": "     Excelsior   vs   Twente"
+        },
+        {
             "compet": "Dutch Eredivisie - Week 21",
             "match": "     NAC Breda   vs   Twente",
             "flags": {
@@ -723,6 +979,14 @@
             },
             "time": "19:00",
             "date": "2026-01-30"
+        },
+        {
+            "channel": "ESPN 2 Nederland HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11856 V 29900 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     NAC Breda   vs   Twente"
         },
         {
             "channel": "ESPN Extra Nederland",
@@ -741,6 +1005,14 @@
             },
             "time": "15:30",
             "date": "2026-01-31"
+        },
+        {
+            "channel": "ESPN 2 Nederland HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11856 V 29900 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     AZ Alkmaar   vs   NEC Nijmegen"
         },
         {
             "channel": "ESPN Extra Nederland",
@@ -767,6 +1039,24 @@
             "related_to": "     AZ Alkmaar   vs   NEC Nijmegen"
         },
         {
+            "compet": "Dutch Eerste Divisie (2nd) - Week 25",
+            "match": "     Helmond Sport   vs   De Graafschap",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "15:30",
+            "date": "2026-01-31"
+        },
+        {
+            "channel": "ESPN 1 Nederland HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11739 V 29900 - 3/4",
+            "encry": "HD Mediaguard",
+            "link": "#",
+            "related_to": "     Helmond Sport   vs   De Graafschap"
+        },
+        {
             "compet": "Dutch Eredivisie - Week 21",
             "match": "     PEC Zwolle   vs   Telstar",
             "flags": {
@@ -775,6 +1065,14 @@
             },
             "time": "17:45",
             "date": "2026-01-31"
+        },
+        {
+            "channel": "ESPN 1 Nederland HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11739 V 29900 - 3/4",
+            "encry": "HD Mediaguard",
+            "link": "#",
+            "related_to": "     PEC Zwolle   vs   Telstar"
         },
         {
             "channel": "ESPN Extra Nederland",
@@ -793,6 +1091,14 @@
             },
             "time": "20:00",
             "date": "2026-01-31"
+        },
+        {
+            "channel": "ESPN 1 Nederland HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11739 V 29900 - 3/4",
+            "encry": "HD Mediaguard",
+            "link": "#",
+            "related_to": "     Sparta Rotterdam   vs   Groningen"
         },
         {
             "channel": "ESPN Extra Nederland",
@@ -821,6 +1127,14 @@
             "date": "2026-02-01"
         },
         {
+            "channel": "ESPN 3 Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Excelsior   vs   Ajax"
+        },
+        {
             "channel": "ESPN Extra Nederland",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -853,6 +1167,24 @@
             "related_to": "     Excelsior   vs   Ajax"
         },
         {
+            "compet": "Dutch Vrouwen Eredivisie - Week 13",
+            "match": "     PEC Zwolle   vs   AZ Alkmaar",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "11:15",
+            "date": "2026-02-01"
+        },
+        {
+            "channel": "ESPN 1 Nederland HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11739 V 29900 - 3/4",
+            "encry": "HD Mediaguard",
+            "link": "#",
+            "related_to": "     PEC Zwolle   vs   AZ Alkmaar"
+        },
+        {
             "compet": "Dutch Eredivisie - Week 21",
             "match": "     Heracles Almelo   vs   Fortuna Sittard",
             "flags": {
@@ -861,6 +1193,14 @@
             },
             "time": "13:30",
             "date": "2026-02-01"
+        },
+        {
+            "channel": "ESPN 1 Nederland HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11739 V 29900 - 3/4",
+            "encry": "HD Mediaguard",
+            "link": "#",
+            "related_to": "     Heracles Almelo   vs   Fortuna Sittard"
         },
         {
             "channel": "ESPN Extra Nederland",
@@ -881,6 +1221,14 @@
             "date": "2026-02-01"
         },
         {
+            "channel": "ESPN 2 Nederland HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11856 V 29900 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     PSV Eindhoven   vs   Feyenoord"
+        },
+        {
             "channel": "ESPN Extra Nederland",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -913,8 +1261,8 @@
             "related_to": "     PSV Eindhoven   vs   Feyenoord"
         },
         {
-            "compet": "Dutch Eredivisie - Week 21",
-            "match": "     Heerenveen   vs   Utrecht",
+            "compet": "Dutch Vrouwen Eredivisie - Week 13",
+            "match": "     Twente   vs   Excelsior",
             "flags": {
                 "team1": "holland",
                 "team2": "holland"
@@ -928,7 +1276,105 @@
             "freq": "0000 ",
             "encry": "",
             "link": "#",
+            "related_to": "     Twente   vs   Excelsior"
+        },
+        {
+            "compet": "Dutch Vrouwen Eredivisie - Week 13",
+            "match": "     Ajax   vs   HERA United",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "15:45",
+            "date": "2026-02-01"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Ajax   vs   HERA United"
+        },
+        {
+            "compet": "Dutch Vrouwen Eredivisie - Week 13",
+            "match": "     Feyenoord   vs   PSV Eindhoven",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "15:45",
+            "date": "2026-02-01"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Feyenoord   vs   PSV Eindhoven"
+        },
+        {
+            "compet": "Dutch Eredivisie - Week 21",
+            "match": "     Heerenveen   vs   Utrecht",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "15:45",
+            "date": "2026-02-01"
+        },
+        {
+            "channel": "ESPN 3 Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
             "related_to": "     Heerenveen   vs   Utrecht"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Heerenveen   vs   Utrecht"
+        },
+        {
+            "compet": "Dutch Vrouwen Eredivisie - Week 13",
+            "match": "     Heerenveen   vs   ADO Den Haag",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "15:45",
+            "date": "2026-02-01"
+        },
+        {
+            "channel": "ESPN 1 Nederland HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11739 V 29900 - 3/4",
+            "encry": "HD Mediaguard",
+            "link": "#",
+            "related_to": "     Heerenveen   vs   ADO Den Haag"
+        },
+        {
+            "compet": "Dutch Vrouwen Eredivisie - Week 13",
+            "match": "     Utrecht   vs   NAC Breda",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "15:45",
+            "date": "2026-02-01"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Utrecht   vs   NAC Breda"
         },
         {
             "compet": "Dutch Eredivisie - Week 21",
@@ -939,6 +1385,14 @@
             },
             "time": "19:00",
             "date": "2026-02-01"
+        },
+        {
+            "channel": "ESPN 1 Nederland HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11739 V 29900 - 3/4",
+            "encry": "HD Mediaguard",
+            "link": "#",
+            "related_to": "     Volendam   vs   Go Ahead Eagles"
         },
         {
             "channel": "ESPN Extra Nederland",
@@ -983,6 +1437,24 @@
             "encry": "",
             "link": "#",
             "related_to": "     MVV Maastricht   vs   Almere City"
+        },
+        {
+            "compet": "Dutch Eerste Divisie (2nd) - Week 25",
+            "match": "     PSV Youths   vs   Cambuur-Leeuwarden",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "19:00",
+            "date": "2026-02-02"
+        },
+        {
+            "channel": "ESPN 2 Nederland HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11856 V 29900 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     PSV Youths   vs   Cambuur-Leeuwarden"
         },
         {
             "compet": "Dutch Eerste Divisie (2nd) - Week 22",
