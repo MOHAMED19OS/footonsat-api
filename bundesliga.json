@@ -2015,6 +2015,14 @@
             "date": "2026-01-27"
         },
         {
+            "channel": "beIN Sports Australia 2 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Werder Bremen   vs   Hoffenheim"
+        },
+        {
             "channel": "DAZN Japan ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -4269,6 +4277,42 @@
             "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Stuttgart   vs   FC Cologne"
+        },
+        {
+            "compet": "German 1. Bundesliga - Week 22",
+            "match": "     Augsburg   vs   Heidenheim",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "14:30",
+            "date": "2026-02-15"
+        },
+        {
+            "channel": "Prime Video UK PPV [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.primevideo.com/",
+            "related_to": "     Augsburg   vs   Heidenheim"
+        },
+        {
+            "compet": "German 1. Bundesliga - Week 22",
+            "match": "     RB Leipzig   vs   Wolfsburg",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "16:30",
+            "date": "2026-02-15"
+        },
+        {
+            "channel": "Prime Video UK PPV [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.primevideo.com/",
+            "related_to": "     RB Leipzig   vs   Wolfsburg"
         }
     ]
 }
