@@ -2129,6 +2129,30 @@
             "date": "2026-01-30"
         },
         {
+            "channel": "BBC iPlayer (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "     FC Cologne   vs   Wolfsburg"
+        },
+        {
+            "channel": "BBC iPlayer 4K (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "     FC Cologne   vs   Wolfsburg"
+        },
+        {
+            "channel": "BBC Sport Website (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.bbc.com/sport/live-guide",
+            "related_to": "     FC Cologne   vs   Wolfsburg"
+        },
+        {
             "channel": "DAZN Japan ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2222,6 +2246,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "#",
+            "related_to": "     FC Cologne   vs   Wolfsburg"
+        },
+        {
+            "channel": "YouTube: Bundesliga",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@bundesliga/streams",
             "related_to": "     FC Cologne   vs   Wolfsburg"
         },
         {
@@ -2805,6 +2837,14 @@
             "related_to": "     Hamburg   vs   Bayern Munich"
         },
         {
+            "channel": "Sky Go UK [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Hamburg   vs   Bayern Munich"
+        },
+        {
             "channel": "TV2 Play Norge ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2900,6 +2940,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://onefootball.com/en/matches",
+            "related_to": "     Stuttgart   vs   Freiburg"
+        },
+        {
+            "channel": "Prime Video UK PPV [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.primevideo.com/",
             "related_to": "     Stuttgart   vs   Freiburg"
         },
         {
@@ -3009,6 +3057,14 @@
             "related_to": "     Borussia Dortmund   vs   Heidenheim"
         },
         {
+            "channel": "Prime Video UK PPV [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.primevideo.com/",
+            "related_to": "     Borussia Dortmund   vs   Heidenheim"
+        },
+        {
             "channel": "S Sport+ Streaming",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -3081,6 +3137,30 @@
             },
             "time": "19:30",
             "date": "2026-02-06"
+        },
+        {
+            "channel": "BBC iPlayer (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "     Union Berlin   vs   Eintracht Frankfurt"
+        },
+        {
+            "channel": "BBC iPlayer 4K (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "     Union Berlin   vs   Eintracht Frankfurt"
+        },
+        {
+            "channel": "BBC Sport Website (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.bbc.com/sport/live-guide",
+            "related_to": "     Union Berlin   vs   Eintracht Frankfurt"
         },
         {
             "channel": "DAZN Japan ($/geo/R)",
@@ -3176,6 +3256,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "#",
+            "related_to": "     Union Berlin   vs   Eintracht Frankfurt"
+        },
+        {
+            "channel": "YouTube: Bundesliga",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@bundesliga/streams",
             "related_to": "     Union Berlin   vs   Eintracht Frankfurt"
         },
         {
@@ -3759,6 +3847,14 @@
             "related_to": "     M\u00f6nchengladbach   vs   Bayer Leverkusen"
         },
         {
+            "channel": "Sky Go UK [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     M\u00f6nchengladbach   vs   Bayer Leverkusen"
+        },
+        {
             "channel": "TV2 Play Norge ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -3854,6 +3950,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://onefootball.com/en/matches",
+            "related_to": "     FC Cologne   vs   RB Leipzig"
+        },
+        {
+            "channel": "Prime Video UK PPV [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.primevideo.com/",
             "related_to": "     FC Cologne   vs   RB Leipzig"
         },
         {
@@ -3963,6 +4067,14 @@
             "related_to": "     Bayern Munich   vs   Hoffenheim"
         },
         {
+            "channel": "Prime Video UK PPV [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.primevideo.com/",
+            "related_to": "     Bayern Munich   vs   Hoffenheim"
+        },
+        {
             "channel": "S Sport+ Streaming",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -4037,6 +4149,38 @@
             "date": "2026-02-13"
         },
         {
+            "channel": "BBC iPlayer (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "     Borussia Dortmund   vs   Mainz 05"
+        },
+        {
+            "channel": "BBC iPlayer 4K (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "     Borussia Dortmund   vs   Mainz 05"
+        },
+        {
+            "channel": "BBC Sport Website (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.bbc.com/sport/live-guide",
+            "related_to": "     Borussia Dortmund   vs   Mainz 05"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     Borussia Dortmund   vs   Mainz 05"
+        },
+        {
             "channel": "RTL Deutschland HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "12522 V 30000 - 3/5",
@@ -4091,6 +4235,40 @@
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Borussia Dortmund   vs   Mainz 05"
+        },
+        {
+            "channel": "YouTube: Bundesliga",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@bundesliga/streams",
+            "related_to": "     Borussia Dortmund   vs   Mainz 05"
+        },
+        {
+            "compet": "German 1. Bundesliga - Week 22",
+            "match": "     Stuttgart   vs   FC Cologne",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "17:30",
+            "date": "2026-02-14"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     Stuttgart   vs   FC Cologne"
+        },
+        {
+            "channel": "Sky Go UK [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Stuttgart   vs   FC Cologne"
         }
     ]
 }
