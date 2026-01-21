@@ -89,6 +89,14 @@
             "date": "2026-01-21"
         },
         {
+            "channel": "Thmanyah 1 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Akhdoud   vs   Al Riyadh"
+        },
+        {
             "channel": "Thmanyah KSA [app]",
             "sat": "Download APP 0.0\u00b0",
             "freq": "0000 0",
@@ -191,6 +199,22 @@
             "date": "2026-01-21"
         },
         {
+            "channel": "Arezo TV HD",
+            "sat": "Al Yah 1 52.5\u00b0e",
+            "freq": "12054 H 27500 - 3/5",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Damac FC   vs   Al Nassr"
+        },
+        {
+            "channel": "Azam Sports 3 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Damac FC   vs   Al Nassr"
+        },
+        {
             "channel": "Como TV ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -219,6 +243,14 @@
             "sat": "AzerSpace 2 45.0\u00b0e",
             "freq": "12600 V 30000 - 5/6",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Damac FC   vs   Al Nassr"
+        },
+        {
+            "channel": "Meraj TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11221 V 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Damac FC   vs   Al Nassr"
         },
@@ -311,6 +343,30 @@
             "related_to": "     Damac FC   vs   Al Nassr"
         },
         {
+            "channel": "Strike TV",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "12245 H 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Damac FC   vs   Al Nassr"
+        },
+        {
+            "channel": "SuperSport ESPN HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Damac FC   vs   Al Nassr"
+        },
+        {
+            "channel": "Thmanyah 1 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Damac FC   vs   Al Nassr"
+        },
+        {
             "channel": "Thmanyah KSA [app]",
             "sat": "Download APP 0.0\u00b0",
             "freq": "0000 0",
@@ -325,6 +381,32 @@
             "encry": "",
             "link": "https://www.youtube.com/@-saudiproleague/streams",
             "related_to": "     Damac FC   vs   Al Nassr"
+        },
+        {
+            "compet": "Saudi Pro League - Week 17",
+            "match": "     Al Ettifaq   vs   NEOM SC",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "17:30",
+            "date": "2026-01-21"
+        },
+        {
+            "channel": "Thmanyah 2 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Ettifaq   vs   NEOM SC"
+        },
+        {
+            "channel": "Thmanyah KSA [app]",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Ettifaq   vs   NEOM SC"
         },
         {
             "compet": "South African Premiership - Week 15",
@@ -343,24 +425,6 @@
             "encry": "Irdeto",
             "link": "#",
             "related_to": "     TS Galaxy   vs   Marumo Gallants"
-        },
-        {
-            "compet": "Saudi Pro League - Week 17",
-            "match": "     Al Ettifaq   vs   NEOM SC",
-            "flags": {
-                "team1": "saudiarabia",
-                "team2": "saudiarabia"
-            },
-            "time": "17:30",
-            "date": "2026-01-21"
-        },
-        {
-            "channel": "Thmanyah KSA [app]",
-            "sat": "Download APP 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Al Ettifaq   vs   NEOM SC"
         },
         {
             "compet": "UEFA Champions League - Matchday 7",
@@ -1943,6 +2007,14 @@
             "related_to": "     Stoke City   vs   Middlesbrough"
         },
         {
+            "channel": "SuperSport ESPN HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Stoke City   vs   Middlesbrough"
+        },
+        {
             "channel": "TSN Malta 1 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2206,6 +2278,14 @@
             "freq": "11637 V 30000 - 2/3",
             "encry": "HD Viaccess",
             "link": "#",
+            "related_to": "     Marseille   vs   Liverpool"
+        },
+        {
+            "channel": "La Chaine L\u00b4\u00c9quipe HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11895 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://www.lequipe.fr/tv/",
             "related_to": "     Marseille   vs   Liverpool"
         },
         {
@@ -3919,6 +3999,14 @@
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11595 H 30000 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Slavia Prague   vs   Barcelona"
+        },
+        {
+            "channel": "Arezo TV HD",
+            "sat": "Al Yah 1 52.5\u00b0e",
+            "freq": "12054 H 27500 - 3/5",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Slavia Prague   vs   Barcelona"
         },
