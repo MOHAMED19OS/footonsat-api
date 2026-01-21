@@ -1393,6 +1393,24 @@
             "related_to": "     AZ Alkmaar   vs   Excelsior"
         },
         {
+            "compet": "Portuguese Liga Portugal 2 - Week 16",
+            "match": "     Uni\u00e3o Leiria   vs   Vizela",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "18:00",
+            "date": "2026-01-21"
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Uni\u00e3o Leiria   vs   Vizela"
+        },
+        {
             "compet": "Spanish Womens Super Cup - Semi Final",
             "match": "     Barcelona   vs   Athletic Bilbao",
             "flags": {
@@ -1417,24 +1435,6 @@
             "encry": "Seca",
             "link": "http://www.rtve.es/directo/teledeporte/",
             "related_to": "     Barcelona   vs   Athletic Bilbao"
-        },
-        {
-            "compet": "Portuguese Liga Portugal 2 - Week 16",
-            "match": "     Uni\u00e3o Leiria   vs   Vizela",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "18:00",
-            "date": "2026-01-21"
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Uni\u00e3o Leiria   vs   Vizela"
         },
         {
             "compet": "English Womens League Cup - Semi Final",
@@ -1467,6 +1467,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Manchester City   vs   Chelsea"
+        },
+        {
+            "channel": "Sky Sports MIX UK HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11934 V 27500 - 5/6",
+            "encry": "VideoGuard",
             "link": "#",
             "related_to": "     Manchester City   vs   Chelsea"
         },
@@ -1664,32 +1672,6 @@
         },
         {
             "compet": "English Championship - Week 28",
-            "match": "     Watford   vs   Portsmouth",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "19:45",
-            "date": "2026-01-21"
-        },
-        {
-            "channel": "Paramount+ USA ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Watford   vs   Portsmouth"
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Watford   vs   Portsmouth"
-        },
-        {
-            "compet": "English Championship - Week 28",
             "match": "     Southampton   vs   Sheffield United",
             "flags": {
                 "team1": "england",
@@ -1713,6 +1695,82 @@
             "encry": "",
             "link": "#",
             "related_to": "     Southampton   vs   Sheffield United"
+        },
+        {
+            "channel": "Sky Sports+ TV HD",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12148 H 27500 - 2/3",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Southampton   vs   Sheffield United"
+        },
+        {
+            "compet": "English National League 1 - Week 28",
+            "match": "     Wealdstone   vs   Tamworth",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:45",
+            "date": "2026-01-21"
+        },
+        {
+            "channel": "** P-O-S-T-P-O-N-E-D **",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Wealdstone   vs   Tamworth"
+        },
+        {
+            "channel": "DAZN Great Britain (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "     Wealdstone   vs   Tamworth"
+        },
+        {
+            "channel": "DAZN Ireland ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "     Wealdstone   vs   Tamworth"
+        },
+        {
+            "channel": "DAZN Italia ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Wealdstone   vs   Tamworth"
+        },
+        {
+            "compet": "English Championship - Week 28",
+            "match": "     Watford   vs   Portsmouth",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:45",
+            "date": "2026-01-21"
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Watford   vs   Portsmouth"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Watford   vs   Portsmouth"
         },
         {
             "compet": "English National League 1 - Week 28",
@@ -1815,40 +1873,6 @@
             "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Carlisle United   vs   York City"
-        },
-        {
-            "compet": "English National League 1 - Week 28",
-            "match": "     Wealdstone   vs   Tamworth",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "19:45",
-            "date": "2026-01-21"
-        },
-        {
-            "channel": "DAZN Great Britain (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": "     Wealdstone   vs   Tamworth"
-        },
-        {
-            "channel": "DAZN Ireland ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.dazn.com/en-IE/home",
-            "related_to": "     Wealdstone   vs   Tamworth"
-        },
-        {
-            "channel": "DAZN Italia ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Wealdstone   vs   Tamworth"
         },
         {
             "compet": "English National League 1 - Week 28",
