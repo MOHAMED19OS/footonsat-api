@@ -147,6 +147,14 @@
             "related_to": "     Macarthur FC   vs   Melbourne City"
         },
         {
+            "channel": "Dubai Sports 1 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "12130 V 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.dubaisports.ae/content/dubaisports/livestreaming/channel-1.html",
+            "related_to": "     Macarthur FC   vs   Melbourne City"
+        },
+        {
             "channel": "Sky Sport 4 NZ HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -6577,6 +6585,14 @@
             "related_to": "     Ajax   vs   Volendam"
         },
         {
+            "channel": "Dubai Sports 2 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "12130 V 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.dubaisports.ae/content/dubaisports/livestreaming/channel-2.html",
+            "related_to": "     Ajax   vs   Volendam"
+        },
+        {
             "channel": "ESPN 1 Nederland HD",
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "11739 V 29900 - 3/4",
@@ -9815,24 +9831,6 @@
             "related_to": "     Nahdat Berkane   vs   Pyramids"
         },
         {
-            "compet": "Colombian Primera A - Week 2",
-            "match": "     Pereira   vs   Fortaleza CEIF",
-            "flags": {
-                "team1": "colombia",
-                "team2": "colombia"
-            },
-            "time": "19:00",
-            "date": "2026-01-24"
-        },
-        {
-            "channel": "Fanatiz USA ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://fanatiz.com/",
-            "related_to": "     Pereira   vs   Fortaleza CEIF"
-        },
-        {
             "compet": "Dutch Eredivisie - Week 20",
             "match": "     PSV Eindhoven   vs   NAC Breda",
             "flags": {
@@ -9856,6 +9854,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://tv.comofootball.com/liveEvent.html",
+            "related_to": "     PSV Eindhoven   vs   NAC Breda"
+        },
+        {
+            "channel": "Dubai Sports 2 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "12130 V 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.dubaisports.ae/content/dubaisports/livestreaming/channel-2.html",
             "related_to": "     PSV Eindhoven   vs   NAC Breda"
         },
         {
@@ -9937,6 +9943,24 @@
             "encry": "MPEG-4 DreCrypt",
             "link": "#",
             "related_to": "     PSV Eindhoven   vs   NAC Breda"
+        },
+        {
+            "compet": "Colombian Primera A - Week 2",
+            "match": "     Pereira   vs   Fortaleza CEIF",
+            "flags": {
+                "team1": "colombia",
+                "team2": "colombia"
+            },
+            "time": "19:00",
+            "date": "2026-01-24"
+        },
+        {
+            "channel": "Fanatiz USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://fanatiz.com/",
+            "related_to": "     Pereira   vs   Fortaleza CEIF"
         },
         {
             "compet": "English Premier League 2",
@@ -11036,6 +11060,14 @@
             "freq": "11678 H 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
+            "related_to": "     Barracas Central   vs   River Plate"
+        },
+        {
+            "channel": "Dubai Sports 1 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "12130 V 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.dubaisports.ae/content/dubaisports/livestreaming/channel-1.html",
             "related_to": "     Barracas Central   vs   River Plate"
         },
         {
