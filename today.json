@@ -11,9 +11,25 @@
             "date": "2026-01-24"
         },
         {
+            "channel": "100 TV",
+            "sat": " \u00b0",
+            "freq": " ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Tolima   vs   Petrolera"
+        },
+        {
+            "channel": "2+2 Ukraine",
+            "sat": " \u00b0",
+            "freq": " ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Tolima   vs   Petrolera"
+        },
+        {
             "channel": "Fanatiz USA ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
+            "sat": " \u00b0",
+            "freq": " ",
             "encry": "",
             "link": "https://fanatiz.com/",
             "related_to": "     Tolima   vs   Petrolera"
@@ -1359,6 +1375,14 @@
             "related_to": "     West Ham United   vs   Sunderland"
         },
         {
+            "channel": "Idman TV HD",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11175 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     West Ham United   vs   Sunderland"
+        },
+        {
             "channel": "Monomax Streaming ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -1515,6 +1539,14 @@
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "10809 V 25000 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     West Ham United   vs   Sunderland"
+        },
+        {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
             "link": "#",
             "related_to": "     West Ham United   vs   Sunderland"
         },
@@ -3559,6 +3591,14 @@
             "related_to": "     Bayern Munich   vs   Augsburg"
         },
         {
+            "channel": "Sport TV Azerbaijan (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Bayern Munich   vs   Augsburg"
+        },
+        {
             "channel": "Sport TV1 Slovenija",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11231 V 42000 - 3/5",
@@ -4311,6 +4351,14 @@
             "sat": "ABS 2A 75.0\u00b0e",
             "freq": "11605 V 43200 - 7/8",
             "encry": "MPEG-4 DreCrypt",
+            "link": "#",
+            "related_to": "     China U-23   vs   Japan U-23"
+        },
+        {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
             "link": "#",
             "related_to": "     China U-23   vs   Japan U-23"
         },
@@ -5443,40 +5491,6 @@
             "related_to": "     Hull City   vs   Swansea City"
         },
         {
-            "compet": "Scottish Premiership - Week 23",
-            "match": "     Dundee United   vs   St Mirren",
-            "flags": {
-                "team1": "scotland",
-                "team2": "scotland"
-            },
-            "time": "15:00",
-            "date": "2026-01-24"
-        },
-        {
-            "channel": "** P-O-S-T-P-O-N-E-D **",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Dundee United   vs   St Mirren"
-        },
-        {
-            "channel": "Dundee United TV [$]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "https://tv.dundeeunitedfc.co.uk/",
-            "related_to": "     Dundee United   vs   St Mirren"
-        },
-        {
-            "channel": "St Mirren TV ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://tv.stmirren.com/",
-            "related_to": "     Dundee United   vs   St Mirren"
-        },
-        {
             "compet": "Scottish League 1 - Week 22",
             "match": "     Montrose   vs   Peterhead",
             "flags": {
@@ -6358,6 +6372,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.fubosportsnetwork.com/",
+            "related_to": "     Valencia   vs   Espanyol"
+        },
+        {
+            "channel": "Idman TV HD",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11175 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "     Valencia   vs   Espanyol"
         },
         {
@@ -8489,6 +8511,14 @@
             "related_to": "     Bournemouth   vs   Liverpool"
         },
         {
+            "channel": "Idman TV HD",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11175 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Bournemouth   vs   Liverpool"
+        },
+        {
             "channel": "Monomax Streaming ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -8721,80 +8751,6 @@
             "related_to": "     Bournemouth   vs   Liverpool"
         },
         {
-            "compet": "Saudi Pro League - Week 18",
-            "match": "     NEOM SC   vs   Al Ahli",
-            "flags": {
-                "team1": "saudiarabia",
-                "team2": "saudiarabia"
-            },
-            "time": "17:30",
-            "date": "2026-01-24"
-        },
-        {
-            "channel": "Cosmote Sport 6 HD",
-            "sat": "Eutelsat 9B 9.0\u00b0e",
-            "freq": "12418 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     NEOM SC   vs   Al Ahli"
-        },
-        {
-            "channel": "DAZN France ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     NEOM SC   vs   Al Ahli"
-        },
-        {
-            "channel": "M+ Liga de Campeones HD",
-            "sat": "Astra 1KR 19.2\u00b0e",
-            "freq": "11259 V 22000 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     NEOM SC   vs   Al Ahli"
-        },
-        {
-            "channel": "Sport TV7 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12360 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     NEOM SC   vs   Al Ahli"
-        },
-        {
-            "channel": "Sportitalia SoloCalcio HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "11179 H 27500 - 2/3",
-            "encry": "FTA",
-            "link": "https://sportitalialive.it/sisolocalcio/",
-            "related_to": "     NEOM SC   vs   Al Ahli"
-        },
-        {
-            "channel": "Thmanyah 1 HD",
-            "sat": "Badr 8 26.0\u00b0e",
-            "freq": "11919 H 27500 - 3/4",
-            "encry": "FTA",
-            "link": "#",
-            "related_to": "     NEOM SC   vs   Al Ahli"
-        },
-        {
-            "channel": "Thmanyah KSA [app]",
-            "sat": "Download APP 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     NEOM SC   vs   Al Ahli"
-        },
-        {
-            "channel": "YouTube: Saudi Pro League",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.youtube.com/@-saudiproleague/streams",
-            "related_to": "     NEOM SC   vs   Al Ahli"
-        },
-        {
             "compet": "German 1. Bundesliga - Week 19",
             "match": "     Union Berlin   vs   Borussia Dortmund",
             "flags": {
@@ -9005,6 +8961,14 @@
             "related_to": "     Union Berlin   vs   Borussia Dortmund"
         },
         {
+            "channel": "Sport TV Azerbaijan (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Union Berlin   vs   Borussia Dortmund"
+        },
+        {
             "channel": "Sport TV2 Slovenija",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -9041,6 +9005,14 @@
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "10809 V 25000 - 3/4",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Union Berlin   vs   Borussia Dortmund"
+        },
+        {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
             "link": "#",
             "related_to": "     Union Berlin   vs   Borussia Dortmund"
         },
@@ -9091,6 +9063,80 @@
             "encry": "",
             "link": "#",
             "related_to": "     Union Berlin   vs   Borussia Dortmund"
+        },
+        {
+            "compet": "Saudi Pro League - Week 18",
+            "match": "     NEOM SC   vs   Al Ahli",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "17:30",
+            "date": "2026-01-24"
+        },
+        {
+            "channel": "Cosmote Sport 6 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12418 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     NEOM SC   vs   Al Ahli"
+        },
+        {
+            "channel": "DAZN France ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     NEOM SC   vs   Al Ahli"
+        },
+        {
+            "channel": "M+ Liga de Campeones HD",
+            "sat": "Astra 1KR 19.2\u00b0e",
+            "freq": "11259 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     NEOM SC   vs   Al Ahli"
+        },
+        {
+            "channel": "Sport TV7 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     NEOM SC   vs   Al Ahli"
+        },
+        {
+            "channel": "Sportitalia SoloCalcio HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11179 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://sportitalialive.it/sisolocalcio/",
+            "related_to": "     NEOM SC   vs   Al Ahli"
+        },
+        {
+            "channel": "Thmanyah 1 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     NEOM SC   vs   Al Ahli"
+        },
+        {
+            "channel": "Thmanyah KSA [app]",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     NEOM SC   vs   Al Ahli"
+        },
+        {
+            "channel": "YouTube: Saudi Pro League",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@-saudiproleague/streams",
+            "related_to": "     NEOM SC   vs   Al Ahli"
         },
         {
             "channel": "Sport 1 Israel HD",
@@ -10891,6 +10937,14 @@
             "related_to": "     Villarreal   vs   Real Madrid"
         },
         {
+            "channel": "Idman TV HD",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11175 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Villarreal   vs   Real Madrid"
+        },
+        {
             "channel": "LaLiga TV Bar HD",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "10876 V 22000 - 5/6",
@@ -11064,6 +11118,14 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.tv4play.se/sport",
+            "related_to": "     Villarreal   vs   Real Madrid"
+        },
+        {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
             "related_to": "     Villarreal   vs   Real Madrid"
         },
         {
@@ -11399,6 +11461,14 @@
             "sat": "KazSat 3 58.5\u00b0e",
             "freq": "12657 V 45000 - 3/4",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Marseille   vs   Lens"
+        },
+        {
+            "channel": "Sport TV Azerbaijan (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Marseille   vs   Lens"
         },
