@@ -1353,6 +1353,14 @@
             "related_to": "     Schalke 04   vs   Kaiserslautern"
         },
         {
+            "channel": "Okko Futbol HD ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Schalke 04   vs   Kaiserslautern"
+        },
+        {
             "channel": "OneFootball [app] ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -2115,6 +2123,14 @@
             "related_to": "     Atl\u00e9tico Madrid   vs   Mallorca"
         },
         {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Atl\u00e9tico Madrid   vs   Mallorca"
+        },
+        {
             "channel": "Premier Sports 1 Ireland HD",
             "sat": "Astra 2F 28.2\u00b0e",
             "freq": "12188 H 27500 - 2/3",
@@ -2166,6 +2182,14 @@
             "channel": "Sp\u00edler 2 TV Hungary HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "11727 V 28000 - 7/8",
+            "encry": "Conax",
+            "link": "#",
+            "related_to": "     Atl\u00e9tico Madrid   vs   Mallorca"
+        },
+        {
+            "channel": "ST Sports Premium HD",
+            "sat": "Belintersat 1 51.5\u00b0e",
+            "freq": "11098 H 16665 - 1/2",
             "encry": "Conax",
             "link": "#",
             "related_to": "     Atl\u00e9tico Madrid   vs   Mallorca"
@@ -2224,6 +2248,14 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.tv4play.se/sport",
+            "related_to": "     Atl\u00e9tico Madrid   vs   Mallorca"
+        },
+        {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
             "related_to": "     Atl\u00e9tico Madrid   vs   Mallorca"
         },
         {
@@ -2865,6 +2897,14 @@
             "related_to": "     Crystal Palace   vs   Chelsea"
         },
         {
+            "channel": "Persiana Sports 2 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
+            "related_to": "     Crystal Palace   vs   Chelsea"
+        },
+        {
             "channel": "Setanta Sports 1 Eurasia HD",
             "sat": "KazSat 3 58.5\u00b0e",
             "freq": "12657 V 45000 - 3/4",
@@ -2885,6 +2925,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Chelsea"
+        },
+        {
+            "channel": "Sky Sport Italia 4K UHD",
+            "sat": "Hotbird 13E 13.0\u00b0e",
+            "freq": "11996 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Crystal Palace   vs   Chelsea"
         },
@@ -2921,10 +2969,26 @@
             "related_to": "     Crystal Palace   vs   Chelsea"
         },
         {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Chelsea"
+        },
+        {
             "channel": "Sport 1 Israel HD",
             "sat": "Amos 3 4.0\u00b0w",
             "freq": "10842 V 30000 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Chelsea"
+        },
+        {
+            "channel": "Sport TV Azerbaijan (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Crystal Palace   vs   Chelsea"
         },
@@ -3331,6 +3395,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Newcastle United   vs   Aston Villa"
+        },
+        {
+            "channel": "Sky Sport Deutsch UHD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11758 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Newcastle United   vs   Aston Villa"
         },
@@ -3743,184 +3815,6 @@
             "encry": "",
             "link": "https://voyo.protv.ro/premier-league",
             "related_to": "     Brentford   vs   Nottingham Forest"
-        },
-        {
-            "compet": "French Ligue 1 - Week 19",
-            "match": "     Nantes   vs   Nice",
-            "flags": {
-                "team1": "france",
-                "team2": "france"
-            },
-            "time": "14:00",
-            "date": "2026-01-25"
-        },
-        {
-            "channel": "5 SPORT Israel HD",
-            "sat": "Amos 3 4.0\u00b0w",
-            "freq": "10842 V 30000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Nantes   vs   Nice"
-        },
-        {
-            "channel": "Arena Sport 1x2 Srbija",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "#",
-            "related_to": "     Nantes   vs   Nice"
-        },
-        {
-            "channel": "Arena Sport 4 BiH HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11895 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Nantes   vs   Nice"
-        },
-        {
-            "channel": "Arena Sport 6 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11554 V 30000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Nantes   vs   Nice"
-        },
-        {
-            "channel": "beIN Connect MENA",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://connect.bein.com/",
-            "related_to": "     Nantes   vs   Nice"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Nantes   vs   Nice"
-        },
-        {
-            "channel": "beIN Connect USA",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://connect-us.beinsports.com/",
-            "related_to": "     Nantes   vs   Nice"
-        },
-        {
-            "channel": "beIN Sports MENA 4 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Nantes   vs   Nice"
-        },
-        {
-            "channel": "beIN Sports US Espa\u00f1ol",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Nantes   vs   Nice"
-        },
-        {
-            "channel": "beIN Sports US HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Nantes   vs   Nice"
-        },
-        {
-            "channel": "DAZN France ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Nantes   vs   Nice"
-        },
-        {
-            "channel": "Fanatiz USA ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://fanatiz.com/",
-            "related_to": "     Nantes   vs   Nice"
-        },
-        {
-            "channel": "Fubo Sports USA ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.fubosportsnetwork.com/",
-            "related_to": "     Nantes   vs   Nice"
-        },
-        {
-            "channel": "Ligue 1+ ($/geo/R)",
-            "sat": "Download APP 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://plus.ligue1.com/home",
-            "related_to": "     Nantes   vs   Nice"
-        },
-        {
-            "channel": "Megogo Futbol 6 ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Nantes   vs   Nice"
-        },
-        {
-            "channel": "Sport TV3 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Nantes   vs   Nice"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Nantes   vs   Nice"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Nantes   vs   Nice"
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Nantes   vs   Nice"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Nantes   vs   Nice"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Nantes   vs   Nice"
         },
         {
             "compet": "Italian Serie A - Week 22",
@@ -4391,6 +4285,184 @@
             "related_to": "     Genoa   vs   Bologna"
         },
         {
+            "compet": "French Ligue 1 - Week 19",
+            "match": "     Nantes   vs   Nice",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "14:00",
+            "date": "2026-01-25"
+        },
+        {
+            "channel": "5 SPORT Israel HD",
+            "sat": "Amos 3 4.0\u00b0w",
+            "freq": "10842 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Nantes   vs   Nice"
+        },
+        {
+            "channel": "Arena Sport 1x2 Srbija",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Nantes   vs   Nice"
+        },
+        {
+            "channel": "Arena Sport 4 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11895 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Nantes   vs   Nice"
+        },
+        {
+            "channel": "Arena Sport 6 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11554 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Nantes   vs   Nice"
+        },
+        {
+            "channel": "beIN Connect MENA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect.bein.com/",
+            "related_to": "     Nantes   vs   Nice"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Nantes   vs   Nice"
+        },
+        {
+            "channel": "beIN Connect USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://connect-us.beinsports.com/",
+            "related_to": "     Nantes   vs   Nice"
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Nantes   vs   Nice"
+        },
+        {
+            "channel": "beIN Sports US Espa\u00f1ol",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Nantes   vs   Nice"
+        },
+        {
+            "channel": "beIN Sports US HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Nantes   vs   Nice"
+        },
+        {
+            "channel": "DAZN France ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Nantes   vs   Nice"
+        },
+        {
+            "channel": "Fanatiz USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://fanatiz.com/",
+            "related_to": "     Nantes   vs   Nice"
+        },
+        {
+            "channel": "Fubo Sports USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.fubosportsnetwork.com/",
+            "related_to": "     Nantes   vs   Nice"
+        },
+        {
+            "channel": "Ligue 1+ ($/geo/R)",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://plus.ligue1.com/home",
+            "related_to": "     Nantes   vs   Nice"
+        },
+        {
+            "channel": "Megogo Futbol 6 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Nantes   vs   Nice"
+        },
+        {
+            "channel": "Sport TV3 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Nantes   vs   Nice"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Nantes   vs   Nice"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Nantes   vs   Nice"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Nantes   vs   Nice"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Nantes   vs   Nice"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Nantes   vs   Nice"
+        },
+        {
             "compet": "Croatian HNL - Week 19",
             "match": "     Hajduk Split   vs   Istra 1961",
             "flags": {
@@ -4859,6 +4931,14 @@
             "related_to": "     M\u00f6nchengladbach   vs   Stuttgart"
         },
         {
+            "channel": "Persiana Sports 3 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     M\u00f6nchengladbach   vs   Stuttgart"
+        },
+        {
             "channel": "Prime Video UK PPV [$]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -4895,6 +4975,14 @@
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11231 V 42000 - 3/5",
             "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     M\u00f6nchengladbach   vs   Stuttgart"
+        },
+        {
+            "channel": "ST World Football HD",
+            "sat": "Eutelsat 10B 10.0\u00b0e",
+            "freq": "3736 R 07307 - 5/6",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     M\u00f6nchengladbach   vs   Stuttgart"
         },
@@ -4987,32 +5075,6 @@
             "encry": "FTA",
             "link": "#",
             "related_to": "     Sabah   vs   Karvan"
-        },
-        {
-            "compet": "German Frauen Bundesliga - Week 15",
-            "match": "     Hamburg   vs   SGS Essen",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "15:00",
-            "date": "2026-01-25"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Hamburg   vs   SGS Essen"
-        },
-        {
-            "channel": "Magenta Sport ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
-            "related_to": "     Hamburg   vs   SGS Essen"
         },
         {
             "compet": "Scottish Premiership - Week 23",
@@ -5119,6 +5181,40 @@
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Hearts   vs   Celtic"
+        },
+        {
+            "channel": "SuperSport ESPN HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Hearts   vs   Celtic"
+        },
+        {
+            "compet": "German Frauen Bundesliga - Week 15",
+            "match": "     Hamburg   vs   SGS Essen",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "15:00",
+            "date": "2026-01-25"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Hamburg   vs   SGS Essen"
+        },
+        {
+            "channel": "Magenta Sport ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": "     Hamburg   vs   SGS Essen"
         },
         {
             "compet": "Portuguese Liga 3 - Week 18",
@@ -5601,6 +5697,14 @@
             "related_to": "     Barcelona   vs   Real Oviedo"
         },
         {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Real Oviedo"
+        },
+        {
             "channel": "Premier Sports 1 Ireland HD",
             "sat": "Astra 2F 28.2\u00b0e",
             "freq": "12188 H 27500 - 2/3",
@@ -5652,6 +5756,14 @@
             "channel": "Sp\u00edler 2 TV Hungary HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "11727 V 28000 - 7/8",
+            "encry": "Conax",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Real Oviedo"
+        },
+        {
+            "channel": "ST Sports Premium HD",
+            "sat": "Belintersat 1 51.5\u00b0e",
+            "freq": "11098 H 16665 - 1/2",
             "encry": "Conax",
             "link": "#",
             "related_to": "     Barcelona   vs   Real Oviedo"
@@ -5725,6 +5837,14 @@
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "10778 H 25000 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Real Oviedo"
+        },
+        {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
             "link": "#",
             "related_to": "     Barcelona   vs   Real Oviedo"
         },
@@ -6001,32 +6121,6 @@
             "related_to": "     Osnabr\u00fcck   vs   1860 Munich"
         },
         {
-            "compet": "Dutch Vrouwen Eredivisie - Week 12",
-            "match": "     NAC Breda   vs   PEC Zwolle",
-            "flags": {
-                "team1": "holland",
-                "team2": "holland"
-            },
-            "time": "15:45",
-            "date": "2026-01-25"
-        },
-        {
-            "channel": "ESPN Extra Nederland",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     NAC Breda   vs   PEC Zwolle"
-        },
-        {
-            "channel": "SuperSport ESPN 2 HD",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "10970 V 30000 - 5/6",
-            "encry": "Irdeto",
-            "link": "#",
-            "related_to": "     NAC Breda   vs   PEC Zwolle"
-        },
-        {
             "compet": "Dutch Eredivisie - Week 20",
             "match": "     Feyenoord   vs   Heracles Almelo",
             "flags": {
@@ -6109,12 +6203,46 @@
             "related_to": "     Feyenoord   vs   Heracles Almelo"
         },
         {
+            "channel": "SuperSport ESPN 2 HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Feyenoord   vs   Heracles Almelo"
+        },
+        {
             "channel": "Thriller TV+ [online] ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.trillertv.com/join/trillertv-subscription/",
             "related_to": "     Feyenoord   vs   Heracles Almelo"
+        },
+        {
+            "compet": "Dutch Vrouwen Eredivisie - Week 12",
+            "match": "     NAC Breda   vs   PEC Zwolle",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "15:45",
+            "date": "2026-01-25"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     NAC Breda   vs   PEC Zwolle"
+        },
+        {
+            "channel": "SuperSport ESPN 2 HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     NAC Breda   vs   PEC Zwolle"
         },
         {
             "compet": "Dutch Eredivisie - Week 20",
@@ -6293,6 +6421,24 @@
             "related_to": "     Manisa FK   vs   Istanbulspor"
         },
         {
+            "compet": "Greek Super League 1 - Week 18",
+            "match": "     OFI Crete   vs   Panetolikos",
+            "flags": {
+                "team1": "greece",
+                "team2": "greece"
+            },
+            "time": "16:00",
+            "date": "2026-01-25"
+        },
+        {
+            "channel": "Cosmote Sport 1 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "11843 V 27500 - 3/5",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     OFI Crete   vs   Panetolikos"
+        },
+        {
             "compet": "CAF African Confederation Cup - Group Stage: Round 3",
             "match": "     Singida Black Stars   vs   Ot\u00f4ho d'Oyo",
             "flags": {
@@ -6317,24 +6463,6 @@
             "encry": "Irdeto",
             "link": "#",
             "related_to": "     Singida Black Stars   vs   Ot\u00f4ho d'Oyo"
-        },
-        {
-            "compet": "Greek Super League 1 - Week 18",
-            "match": "     OFI Crete   vs   Panetolikos",
-            "flags": {
-                "team1": "greece",
-                "team2": "greece"
-            },
-            "time": "16:00",
-            "date": "2026-01-25"
-        },
-        {
-            "channel": "Cosmote Sport 1 HD",
-            "sat": "Eutelsat 9B 9.0\u00b0e",
-            "freq": "11843 V 27500 - 3/5",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     OFI Crete   vs   Panetolikos"
         },
         {
             "compet": "South African Premiership - Week 16",
@@ -6745,6 +6873,72 @@
             "related_to": "     Paris FC   vs   Angers"
         },
         {
+            "compet": "Italian Serie BKT - Week 21",
+            "match": "     Catanzaro   vs   Sampdoria",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "16:15",
+            "date": "2026-01-25"
+        },
+        {
+            "channel": "5 STARS Israel HD",
+            "sat": "Amos 3 4.0\u00b0w",
+            "freq": "10842 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Catanzaro   vs   Sampdoria"
+        },
+        {
+            "channel": "Blue Sport 8 Live HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Catanzaro   vs   Sampdoria"
+        },
+        {
+            "channel": "DAZN Italia ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Catanzaro   vs   Sampdoria"
+        },
+        {
+            "channel": "LaB Channel ($/geo/R)",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Catanzaro   vs   Sampdoria"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     Catanzaro   vs   Sampdoria"
+        },
+        {
+            "channel": "Sport TV3 Slovenija",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Catanzaro   vs   Sampdoria"
+        },
+        {
+            "channel": "Telekanal Futbol HD",
+            "sat": "Express AM5 140.0\u00b0e",
+            "freq": "11262 V 30000 - 3/4",
+            "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Catanzaro   vs   Sampdoria"
+        },
+        {
             "compet": "French Ligue 1 - Week 19",
             "match": "     Brest   vs   Toulouse",
             "flags": {
@@ -6889,72 +7083,6 @@
             "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Brest   vs   Toulouse"
-        },
-        {
-            "compet": "Italian Serie BKT - Week 21",
-            "match": "     Catanzaro   vs   Sampdoria",
-            "flags": {
-                "team1": "italy",
-                "team2": "italy"
-            },
-            "time": "16:15",
-            "date": "2026-01-25"
-        },
-        {
-            "channel": "5 STARS Israel HD",
-            "sat": "Amos 3 4.0\u00b0w",
-            "freq": "10842 V 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Catanzaro   vs   Sampdoria"
-        },
-        {
-            "channel": "Blue Sport 8 Live HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Catanzaro   vs   Sampdoria"
-        },
-        {
-            "channel": "DAZN Italia ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Catanzaro   vs   Sampdoria"
-        },
-        {
-            "channel": "LaB Channel ($/geo/R)",
-            "sat": "Download APP 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Catanzaro   vs   Sampdoria"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     Catanzaro   vs   Sampdoria"
-        },
-        {
-            "channel": "Sport TV3 Slovenija",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Catanzaro   vs   Sampdoria"
-        },
-        {
-            "channel": "Telekanal Futbol HD",
-            "sat": "Express AM5 140.0\u00b0e",
-            "freq": "11262 V 30000 - 3/4",
-            "encry": "MPEG-4 Irdeto",
-            "link": "#",
-            "related_to": "     Catanzaro   vs   Sampdoria"
         },
         {
             "compet": "English Premier League - Week 23",
@@ -7127,6 +7255,14 @@
             "related_to": "     Arsenal   vs   Manchester United"
         },
         {
+            "channel": "Diema Sport 2 4K",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Arsenal   vs   Manchester United"
+        },
+        {
             "channel": "Diema Sport 2 HD",
             "sat": "Hellas Sat 3 39.0\u00b0e",
             "freq": "12156 H 30000 - 5/6",
@@ -7139,6 +7275,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Arsenal   vs   Manchester United"
+        },
+        {
+            "channel": "Futbol TV Tajikistan",
+            "sat": "ABS 2A 75.0\u00b0e",
+            "freq": "12252 H 10000 - 3/4",
+            "encry": "HD BISS",
             "link": "#",
             "related_to": "     Arsenal   vs   Manchester United"
         },
@@ -7180,6 +7324,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.starhubtvplus.com/eplmatches",
+            "related_to": "     Arsenal   vs   Manchester United"
+        },
+        {
+            "channel": "Idman TV HD",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11175 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "     Arsenal   vs   Manchester United"
         },
         {
@@ -7231,6 +7383,14 @@
             "related_to": "     Arsenal   vs   Manchester United"
         },
         {
+            "channel": "Persiana Sports 2 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
+            "related_to": "     Arsenal   vs   Manchester United"
+        },
+        {
             "channel": "Play Diema XTRA ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -7279,6 +7439,14 @@
             "related_to": "     Arsenal   vs   Manchester United"
         },
         {
+            "channel": "Sky Sport Deutsch UHD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11758 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Arsenal   vs   Manchester United"
+        },
+        {
             "channel": "Sky Sport Premier League DE HD",
             "sat": "Astra 1N 19.2\u00b0e",
             "freq": "12032 H 27500 - 9/10",
@@ -7323,6 +7491,14 @@
             "sat": "Astra 2F 28.2\u00b0e",
             "freq": "12246 V 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Arsenal   vs   Manchester United"
+        },
+        {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Arsenal   vs   Manchester United"
         },
@@ -7983,6 +8159,14 @@
             "related_to": "     Juventus   vs   Napoli"
         },
         {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Juventus   vs   Napoli"
+        },
+        {
             "channel": "S Sport 2 T\u00fcrkiye HD",
             "sat": "Turksat 4A 42.0\u00b0e",
             "freq": "11880 H 20000 - 3/4",
@@ -8010,6 +8194,14 @@
             "channel": "Sky Sport Calcio HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "12073 V 29900 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Juventus   vs   Napoli"
+        },
+        {
+            "channel": "Sky Sport Italia 4K UHD",
+            "sat": "Hotbird 13E 13.0\u00b0e",
+            "freq": "11996 V 29900 - 5/6",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Juventus   vs   Napoli"
@@ -8043,6 +8235,14 @@
             "sat": "Amos 7 4.0\u00b0w",
             "freq": "10972 V 30000 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Juventus   vs   Napoli"
+        },
+        {
+            "channel": "Sport TV Azerbaijan (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Juventus   vs   Napoli"
         },
@@ -8421,6 +8621,14 @@
             "sat": "Horizons 2 84.8\u00b0e",
             "freq": "11840 H 28800 - 2/3",
             "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Fenerbah\u00e7e   vs   G\u00f6ztepe"
+        },
+        {
+            "channel": "Persiana Sports 3 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Fenerbah\u00e7e   vs   G\u00f6ztepe"
         },
@@ -8931,48 +9139,6 @@
             "related_to": "     Real Sociedad   vs   Celta Vigo"
         },
         {
-            "compet": "Greek Super League 1 - Week 18",
-            "match": "     Atromitos   vs   Panathinaikos",
-            "flags": {
-                "team1": "greece",
-                "team2": "greece"
-            },
-            "time": "17:30",
-            "date": "2026-01-25"
-        },
-        {
-            "channel": "Arena Sport 4 Srbija HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11798 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Atromitos   vs   Panathinaikos"
-        },
-        {
-            "channel": "Nova Sports Prime Cyprus HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "12130 H 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Atromitos   vs   Panathinaikos"
-        },
-        {
-            "channel": "Nova Sports Prime Hellas HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "12130 H 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Atromitos   vs   Panathinaikos"
-        },
-        {
-            "channel": "SuperSport 5 Albania HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "10804 H 29950 - 2/3",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Atromitos   vs   Panathinaikos"
-        },
-        {
             "compet": "Saudi Pro League - Week 18",
             "match": "     Al Riyadh   vs   Al Hilal",
             "flags": {
@@ -9023,6 +9189,14 @@
             "related_to": "     Al Riyadh   vs   Al Hilal"
         },
         {
+            "channel": "Okko Futbol HD ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Riyadh   vs   Al Hilal"
+        },
+        {
             "channel": "S Sport+ Streaming",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -9047,10 +9221,34 @@
             "related_to": "     Al Riyadh   vs   Al Hilal"
         },
         {
+            "channel": "Sportitalia HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12341 V 31400 - 5/6",
+            "encry": "FTA",
+            "link": "https://sportitalialive.it/sihd/",
+            "related_to": "     Al Riyadh   vs   Al Hilal"
+        },
+        {
             "channel": "SPOTV Malaysia HD",
             "sat": "Measat 3b 91.5\u00b0e",
             "freq": "10772 V 30000 - 5/6",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Riyadh   vs   Al Hilal"
+        },
+        {
+            "channel": "ST World Football HD",
+            "sat": "Eutelsat 10B 10.0\u00b0e",
+            "freq": "3736 R 07307 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Al Riyadh   vs   Al Hilal"
+        },
+        {
+            "channel": "SuperSport ESPN HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
             "link": "#",
             "related_to": "     Al Riyadh   vs   Al Hilal"
         },
@@ -9069,6 +9267,48 @@
             "encry": "",
             "link": "https://www.youtube.com/@-saudiproleague/streams",
             "related_to": "     Al Riyadh   vs   Al Hilal"
+        },
+        {
+            "compet": "Greek Super League 1 - Week 18",
+            "match": "     Atromitos   vs   Panathinaikos",
+            "flags": {
+                "team1": "greece",
+                "team2": "greece"
+            },
+            "time": "17:30",
+            "date": "2026-01-25"
+        },
+        {
+            "channel": "Arena Sport 4 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11798 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Atromitos   vs   Panathinaikos"
+        },
+        {
+            "channel": "Nova Sports Prime Cyprus HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Atromitos   vs   Panathinaikos"
+        },
+        {
+            "channel": "Nova Sports Prime Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Atromitos   vs   Panathinaikos"
+        },
+        {
+            "channel": "SuperSport 5 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10804 H 29950 - 2/3",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Atromitos   vs   Panathinaikos"
         },
         {
             "compet": "Saudi Pro League - Week 18",
@@ -9735,6 +9975,22 @@
             "related_to": "     Lille   vs   Strasbourg"
         },
         {
+            "channel": "Okko Prime Sport HD ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Lille   vs   Strasbourg"
+        },
+        {
+            "channel": "Prime Video UK PPV [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.primevideo.com/",
+            "related_to": "     Lille   vs   Strasbourg"
+        },
+        {
             "channel": "Sky Sport Calcio HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "12073 V 29900 - 3/4",
@@ -10017,6 +10273,14 @@
             "related_to": "     Roma   vs   AC Milan"
         },
         {
+            "channel": "Persiana Sports 2 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
+            "related_to": "     Roma   vs   AC Milan"
+        },
+        {
             "channel": "S Sport 2 T\u00fcrkiye HD",
             "sat": "Turksat 4A 42.0\u00b0e",
             "freq": "11880 H 20000 - 3/4",
@@ -10053,6 +10317,14 @@
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12012 V 29900 - 3/4",
             "encry": "HD CryptoWorks",
+            "link": "#",
+            "related_to": "     Roma   vs   AC Milan"
+        },
+        {
+            "channel": "Sport TV Azerbaijan (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Roma   vs   AC Milan"
         },
@@ -10349,6 +10621,14 @@
             "related_to": "     Alav\u00e9s   vs   Real Betis"
         },
         {
+            "channel": "Idman TV HD",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11175 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Alav\u00e9s   vs   Real Betis"
+        },
+        {
             "channel": "LaLiga TV Bar HD",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "10876 V 22000 - 5/6",
@@ -10405,6 +10685,14 @@
             "related_to": "     Alav\u00e9s   vs   Real Betis"
         },
         {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Alav\u00e9s   vs   Real Betis"
+        },
+        {
             "channel": "Premier Sports 1 Ireland HD",
             "sat": "Astra 2F 28.2\u00b0e",
             "freq": "12188 H 27500 - 2/3",
@@ -10448,6 +10736,14 @@
             "channel": "Sp\u00edler 2 TV Hungary HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "11727 V 28000 - 7/8",
+            "encry": "Conax",
+            "link": "#",
+            "related_to": "     Alav\u00e9s   vs   Real Betis"
+        },
+        {
+            "channel": "ST Sports Premium HD",
+            "sat": "Belintersat 1 51.5\u00b0e",
+            "freq": "11098 H 16665 - 1/2",
             "encry": "Conax",
             "link": "#",
             "related_to": "     Alav\u00e9s   vs   Real Betis"

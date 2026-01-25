@@ -243,6 +243,14 @@
             "related_to": "     Newcastle United   vs   Aston Villa"
         },
         {
+            "channel": "Sky Sport Deutsch UHD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11758 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Newcastle United   vs   Aston Villa"
+        },
+        {
             "channel": "Sky Sport Premier League DE HD",
             "sat": "Astra 1N 19.2\u00b0e",
             "freq": "12032 H 27500 - 9/10",
@@ -565,6 +573,14 @@
             "related_to": "     Crystal Palace   vs   Chelsea"
         },
         {
+            "channel": "Persiana Sports 2 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
+            "related_to": "     Crystal Palace   vs   Chelsea"
+        },
+        {
             "channel": "Setanta Sports 1 Eurasia HD",
             "sat": "KazSat 3 58.5\u00b0e",
             "freq": "12657 V 45000 - 3/4",
@@ -621,10 +637,26 @@
             "related_to": "     Crystal Palace   vs   Chelsea"
         },
         {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Chelsea"
+        },
+        {
             "channel": "Sport 1 Israel HD",
             "sat": "Amos 3 4.0\u00b0w",
             "freq": "10842 V 30000 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Chelsea"
+        },
+        {
+            "channel": "Sport TV Azerbaijan (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Crystal Palace   vs   Chelsea"
         },
@@ -1203,6 +1235,14 @@
             "related_to": "     Arsenal   vs   Manchester United"
         },
         {
+            "channel": "Diema Sport 2 4K",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Arsenal   vs   Manchester United"
+        },
+        {
             "channel": "Diema Sport 2 HD",
             "sat": "Hellas Sat 3 39.0\u00b0e",
             "freq": "12156 H 30000 - 5/6",
@@ -1215,6 +1255,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Arsenal   vs   Manchester United"
+        },
+        {
+            "channel": "Futbol TV Tajikistan",
+            "sat": "ABS 2A 75.0\u00b0e",
+            "freq": "12252 H 10000 - 3/4",
+            "encry": "HD BISS",
             "link": "#",
             "related_to": "     Arsenal   vs   Manchester United"
         },
@@ -1256,6 +1304,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.starhubtvplus.com/eplmatches",
+            "related_to": "     Arsenal   vs   Manchester United"
+        },
+        {
+            "channel": "Idman TV HD",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11175 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "     Arsenal   vs   Manchester United"
         },
         {
@@ -1307,6 +1363,14 @@
             "related_to": "     Arsenal   vs   Manchester United"
         },
         {
+            "channel": "Persiana Sports 2 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
+            "related_to": "     Arsenal   vs   Manchester United"
+        },
+        {
             "channel": "Play Diema XTRA ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1355,6 +1419,14 @@
             "related_to": "     Arsenal   vs   Manchester United"
         },
         {
+            "channel": "Sky Sport Deutsch UHD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11758 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Arsenal   vs   Manchester United"
+        },
+        {
             "channel": "Sky Sport Premier League DE HD",
             "sat": "Astra 1N 19.2\u00b0e",
             "freq": "12032 H 27500 - 9/10",
@@ -1399,6 +1471,14 @@
             "sat": "Astra 2F 28.2\u00b0e",
             "freq": "12246 V 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Arsenal   vs   Manchester United"
+        },
+        {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Arsenal   vs   Manchester United"
         },
@@ -5774,6 +5854,112 @@
         },
         {
             "compet": "English Premier League - Week 27",
+            "match": "     Crystal Palace   vs   Wolves",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "14:00",
+            "date": "2026-02-22"
+        },
+        {
+            "channel": "beIN Connect MENA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect.bein.com/",
+            "related_to": "     Crystal Palace   vs   Wolves"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Crystal Palace   vs   Wolves"
+        },
+        {
+            "channel": "DAZN Espa\u00f1a ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Wolves"
+        },
+        {
+            "channel": "FuboTV Canada ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Wolves"
+        },
+        {
+            "channel": "Go3 Extra Sport Baltics ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "https://go3.tv/extra_sports",
+            "related_to": "     Crystal Palace   vs   Wolves"
+        },
+        {
+            "channel": "Sky Go UK [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Wolves"
+        },
+        {
+            "channel": "Sky Sports HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "12012 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Wolves"
+        },
+        {
+            "channel": "Stan Sport Australia ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.stan.com.au/sport",
+            "related_to": "     Crystal Palace   vs   Wolves"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Wolves"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Wolves"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Wolves"
+        },
+        {
+            "channel": "VOYO Pro TV Romania [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://voyo.protv.ro/premier-league",
+            "related_to": "     Crystal Palace   vs   Wolves"
+        },
+        {
+            "compet": "English Premier League - Week 27",
             "match": "     Sunderland   vs   Fulham",
             "flags": {
                 "team1": "england",
@@ -5901,112 +6087,6 @@
             "encry": "",
             "link": "https://voyo.protv.ro/premier-league",
             "related_to": "     Sunderland   vs   Fulham"
-        },
-        {
-            "compet": "English Premier League - Week 27",
-            "match": "     Crystal Palace   vs   Wolves",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "14:00",
-            "date": "2026-02-22"
-        },
-        {
-            "channel": "beIN Connect MENA",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://connect.bein.com/",
-            "related_to": "     Crystal Palace   vs   Wolves"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Crystal Palace   vs   Wolves"
-        },
-        {
-            "channel": "DAZN Espa\u00f1a ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Crystal Palace   vs   Wolves"
-        },
-        {
-            "channel": "FuboTV Canada ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Crystal Palace   vs   Wolves"
-        },
-        {
-            "channel": "Go3 Extra Sport Baltics ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "https://go3.tv/extra_sports",
-            "related_to": "     Crystal Palace   vs   Wolves"
-        },
-        {
-            "channel": "Sky Go UK [online]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Crystal Palace   vs   Wolves"
-        },
-        {
-            "channel": "Sky Sports HD",
-            "sat": "Astra 2E 28.2\u00b0e",
-            "freq": "12012 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Crystal Palace   vs   Wolves"
-        },
-        {
-            "channel": "Stan Sport Australia ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.stan.com.au/sport",
-            "related_to": "     Crystal Palace   vs   Wolves"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Crystal Palace   vs   Wolves"
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Crystal Palace   vs   Wolves"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Crystal Palace   vs   Wolves"
-        },
-        {
-            "channel": "VOYO Pro TV Romania [$]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://voyo.protv.ro/premier-league",
-            "related_to": "     Crystal Palace   vs   Wolves"
         },
         {
             "compet": "English Premier League - Week 27",
@@ -7761,7 +7841,7 @@
                 "team1": "england",
                 "team2": "england"
             },
-            "time": "14:00",
+            "time": "15:00",
             "date": "2026-05-02"
         },
         {
