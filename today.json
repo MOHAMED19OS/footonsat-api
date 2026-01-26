@@ -53,24 +53,6 @@
             "related_to": "     Melbourne Victory   vs   Sydney FC"
         },
         {
-            "compet": "Portuguese Liga Revela\u00e7\u00e3o U-23 - Championship Group - 4",
-            "match": "     Torreense U-23   vs   Leix\u00f5es U-23",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "11:00",
-            "date": "2026-01-26"
-        },
-        {
-            "channel": "Canal 11 [online] (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.canal11.pt/",
-            "related_to": "     Torreense U-23   vs   Leix\u00f5es U-23"
-        },
-        {
             "compet": "Romanian Superliga - Week 23",
             "match": "     Otelul Galati   vs   Csikszereda",
             "flags": {
@@ -137,6 +119,24 @@
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Vara\u017edin   vs   Gorica"
+        },
+        {
+            "compet": "Portuguese Liga Revela\u00e7\u00e3o U-23 - Championship Group - 4",
+            "match": "     Torreense U-23   vs   Leix\u00f5es U-23",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "15:00",
+            "date": "2026-01-26"
+        },
+        {
+            "channel": "Canal 11 [online] (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.canal11.pt/",
+            "related_to": "     Torreense U-23   vs   Leix\u00f5es U-23"
         },
         {
             "compet": "Portuguese Liga Revela\u00e7\u00e3o U-23 - Championship Group - 4",
@@ -1329,6 +1329,38 @@
             "related_to": "     Everton   vs   Leeds United"
         },
         {
+            "channel": "Arena Sport 2 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11554 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Everton   vs   Leeds United"
+        },
+        {
+            "channel": "ART Motion Sport 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "     Everton   vs   Leeds United"
+        },
+        {
+            "channel": "Astro GO Malaysia ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://astrogo.astro.com.my/hubSports",
+            "related_to": "     Everton   vs   Leeds United"
+        },
+        {
+            "channel": "Astro Grandstand HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10932 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Everton   vs   Leeds United"
+        },
+        {
             "channel": "Astro Premier League HD",
             "sat": "Measat 3b 91.5\u00b0e",
             "freq": "10772 V 30000 - 5/6",
@@ -1377,6 +1409,14 @@
             "related_to": "     Everton   vs   Leeds United"
         },
         {
+            "channel": "Canal+ Extra 1 Polska HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11278 V 27500 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Everton   vs   Leeds United"
+        },
+        {
             "channel": "Canal+ Foot HD",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "12012 V 29700 - 2/3",
@@ -1393,11 +1433,51 @@
             "related_to": "     Everton   vs   Leeds United"
         },
         {
+            "channel": "Canal+ Polska [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.canalplus.com/pl/sport/",
+            "related_to": "     Everton   vs   Leeds United"
+        },
+        {
             "channel": "Canal+ Sport 1 Czech HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11973 V 29900 - 2/3",
             "encry": "HD Viaccess",
             "link": "https://livetv.skylink.cz",
+            "related_to": "     Everton   vs   Leeds United"
+        },
+        {
+            "channel": "Canal+ Sport 3 Afrique HD",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "11823 H 27500 - 3/4",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Everton   vs   Leeds United"
+        },
+        {
+            "channel": "DAZN 1 Espana HD",
+            "sat": "Astra 1KR 19.2\u00b0e",
+            "freq": "10729 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Everton   vs   Leeds United"
+        },
+        {
+            "channel": "DAZN 1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12399 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Everton   vs   Leeds United"
+        },
+        {
+            "channel": "DAZN Canada ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
             "related_to": "     Everton   vs   Leeds United"
         },
         {
@@ -1409,10 +1489,106 @@
             "related_to": "     Everton   vs   Leeds United"
         },
         {
+            "channel": "DAZN Portugal ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Everton   vs   Leeds United"
+        },
+        {
+            "channel": "Diema Sport 2 HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12137 V 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Everton   vs   Leeds United"
+        },
+        {
+            "channel": "Disney+ Argentina ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Everton   vs   Leeds United"
+        },
+        {
+            "channel": "Disney+ Brazil ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Everton   vs   Leeds United"
+        },
+        {
+            "channel": "Disney+ Chile ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Everton   vs   Leeds United"
+        },
+        {
+            "channel": "Disney+ Sur ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Everton   vs   Leeds United"
+        },
+        {
+            "channel": "Elisa Suomi",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Everton   vs   Leeds United"
+        },
+        {
+            "channel": "ESPN 2 Caribbean",
+            "sat": "Telstar 12 15.0\u00b0w",
+            "freq": "12609 H 07552 - 3/4",
+            "encry": "BISS",
+            "link": "#",
+            "related_to": "     Everton   vs   Leeds United"
+        },
+        {
+            "channel": "ESPN Caribbean",
+            "sat": "Telstar 12 15.0\u00b0w",
+            "freq": "12609 H 07552 - 3/4",
+            "encry": "BISS",
+            "link": "#",
+            "related_to": "     Everton   vs   Leeds United"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "     Everton   vs   Leeds United"
+        },
+        {
+            "channel": "Fubo Sports USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.fubosportsnetwork.com/",
+            "related_to": "     Everton   vs   Leeds United"
+        },
+        {
             "channel": "FuboTV Canada ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Everton   vs   Leeds United"
+        },
+        {
+            "channel": "Futbol TV Tajikistan",
+            "sat": "ABS 2A 75.0\u00b0e",
+            "freq": "12252 H 10000 - 3/4",
+            "encry": "HD BISS",
             "link": "#",
             "related_to": "     Everton   vs   Leeds United"
         },
@@ -1433,11 +1609,115 @@
             "related_to": "     Everton   vs   Leeds United"
         },
         {
+            "channel": "Hub Premier 1 UHD ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.starhubtvplus.com/eplmatches",
+            "related_to": "     Everton   vs   Leeds United"
+        },
+        {
+            "channel": "Idman TV HD",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11175 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Everton   vs   Leeds United"
+        },
+        {
+            "channel": "Kyivstar TV (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.kyivstar.ua/en/live-channels",
+            "related_to": "     Everton   vs   Leeds United"
+        },
+        {
+            "channel": "Match 4 Hungary HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12130 H 28000 - 7/8",
+            "encry": "Conax",
+            "link": "#",
+            "related_to": "     Everton   vs   Leeds United"
+        },
+        {
             "channel": "Monomax Streaming ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.monomax.me/premierleague",
+            "related_to": "     Everton   vs   Leeds United"
+        },
+        {
+            "channel": "Movistar Plus+ HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11097 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "#",
+            "related_to": "     Everton   vs   Leeds United"
+        },
+        {
+            "channel": "Nova Sports Premier League HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11804 V 29700 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Everton   vs   Leeds United"
+        },
+        {
+            "channel": "NOW Premier League HK 1",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Everton   vs   Leeds United"
+        },
+        {
+            "channel": "Play Diema XTRA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://gong.bg/streaming",
+            "related_to": "     Everton   vs   Leeds United"
+        },
+        {
+            "channel": "Play Sports 1 Belgium",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Everton   vs   Leeds United"
+        },
+        {
+            "channel": "Premier Sports 2 Mongolia HD",
+            "sat": "Telstar 18 138.0\u00b0e",
+            "freq": "12598 H 45000 - 5/6",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "#",
+            "related_to": "     Everton   vs   Leeds United"
+        },
+        {
+            "channel": "QQ Sports ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Everton   vs   Leeds United"
+        },
+        {
+            "channel": "Setanta Sports Ukraine HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "12207 V 30000 - 2/3",
+            "encry": "HD Verimatrix",
+            "link": "#",
+            "related_to": "     Everton   vs   Leeds United"
+        },
+        {
+            "channel": "Sky Go Germany [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
             "related_to": "     Everton   vs   Leeds United"
         },
         {
@@ -1449,9 +1729,25 @@
             "related_to": "     Everton   vs   Leeds United"
         },
         {
+            "channel": "Sky Sport Arena Italia HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11996 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Everton   vs   Leeds United"
+        },
+        {
             "channel": "Sky Sport Premier League DE HD",
             "sat": "Astra 1N 19.2\u00b0e",
             "freq": "12032 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Everton   vs   Leeds United"
+        },
+        {
+            "channel": "Sky Sport Top Event HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "11914 H 27500 - 9/10",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Everton   vs   Leeds United"
@@ -1521,10 +1817,42 @@
             "related_to": "     Everton   vs   Leeds United"
         },
         {
+            "channel": "SuperSport 2 Kosovo HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10804 H 29950 - 2/3",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Everton   vs   Leeds United"
+        },
+        {
+            "channel": "SuperSport Grandstand HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11130 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Everton   vs   Leeds United"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 1 HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Everton   vs   Leeds United"
+        },
+        {
             "channel": "SuperSport Premier League HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11594 V 27500 - 5/6",
             "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Everton   vs   Leeds United"
+        },
+        {
+            "channel": "S\u00ddN Sport ViaPlay HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Everton   vs   Leeds United"
         },
@@ -1757,6 +2085,22 @@
             "related_to": "     Girona   vs   Getafe"
         },
         {
+            "channel": "Arena Sport 3 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11512 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
+            "channel": "ART Motion Sport 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
             "channel": "Azam Sports 4 HD",
             "sat": "Eutelsat 7C 7.0\u00b0e",
             "freq": "10981 V 45000 - 5/6",
@@ -1765,11 +2109,67 @@
             "related_to": "     Girona   vs   Getafe"
         },
         {
+            "channel": "beIN Connect Australia",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://connect-au.beinsports.com/en",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
+            "channel": "beIN Connect Indonesia",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-id.beinsports.com/id",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
+            "channel": "beIN Connect Malaysia",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-my.beinsports.com/en",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
             "channel": "beIN Connect MENA",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "https://connect.bein.com/",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
+            "channel": "beIN Connect New Zealand",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-nz.beinsports.com/en",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
+            "channel": "beIN Connect Philippines",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-ph.beinsports.com/en",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
+            "channel": "beIN Connect Singapore",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-sg.beinsports.com/en",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
+            "channel": "beIN Connect Thailand",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-th.beinsports.com/en",
             "related_to": "     Girona   vs   Getafe"
         },
         {
@@ -1789,10 +2189,42 @@
             "related_to": "     Girona   vs   Getafe"
         },
         {
+            "channel": "beIN Sports Indonesia 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
             "channel": "beIN Sports MENA 3 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 H 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
+            "channel": "beIN Sports Philippines 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
+            "channel": "beIN Sports Singapore HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
+            "channel": "beIN Sports Thailand 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Girona   vs   Getafe"
         },
@@ -1805,10 +2237,34 @@
             "related_to": "     Girona   vs   Getafe"
         },
         {
+            "channel": "Blue Sport 1 Live UHD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
+            "channel": "Canal+ Polska [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.canalplus.com/pl/sport/",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
             "channel": "DAZN 1 Bar Deutsch HD",
             "sat": "Astra 1N 19.2\u00b0e",
             "freq": "12070 H 27500 - 9/10",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
+            "channel": "DAZN 2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Girona   vs   Getafe"
         },
@@ -1837,10 +2293,66 @@
             "related_to": "     Girona   vs   Getafe"
         },
         {
+            "channel": "DAZN Japan ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
+            "channel": "DAZN Portugal ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
             "channel": "DAZN USA en Espa\u00f1ol ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
+            "channel": "Disney+ Argentina ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
+            "channel": "Disney+ Brazil ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
+            "channel": "Disney+ Chile ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
+            "channel": "Disney+ Sur ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
+            "channel": "Eleven Sports 3 Polska HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11488 H 27500 - 3/4",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Girona   vs   Getafe"
         },
@@ -1861,6 +2373,14 @@
             "related_to": "     Girona   vs   Getafe"
         },
         {
+            "channel": "FanCode India ($/geo/R)",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.fancode.com/rugby/schedule/upcoming",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
             "channel": "Fast Sports [online] ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -1874,6 +2394,22 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.fubosportsnetwork.com/",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
+            "channel": "FuboTV Canada ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
+            "channel": "Ice Xtra Maldives",
+            "sat": " \u00b0",
+            "freq": " ",
+            "encry": "",
+            "link": "#",
             "related_to": "     Girona   vs   Getafe"
         },
         {
@@ -1917,6 +2453,22 @@
             "related_to": "     Girona   vs   Getafe"
         },
         {
+            "channel": "Megogo Futbol 1 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
+            "channel": "Movistar+ Lite ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
             "channel": "MTV Katsomon+ ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -1925,10 +2477,50 @@
             "related_to": "     Girona   vs   Getafe"
         },
         {
+            "channel": "MTV Urheilu 3 Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
             "channel": "Nova Sport 4 Czech HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11934 V 27500 - 3/4",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
+            "channel": "Nova Sports 1 Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
+            "channel": "NOW Sports HK 2 4K",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
+            "channel": "NOW Sports HK 2 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
+            "channel": "Okko Sport HD ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Girona   vs   Getafe"
         },
@@ -1965,6 +2557,30 @@
             "related_to": "     Girona   vs   Getafe"
         },
         {
+            "channel": "Prima Sport RO 2 HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12290 V 30000 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
+            "channel": "Primaplay Streaming [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.primaplay.ro/login",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
+            "channel": "QQ Sports ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
             "channel": "S Sport 1 T\u00fcrkiye HD",
             "sat": "Turksat 4A 42.0\u00b0e",
             "freq": "12188 V 27500 - 5/6",
@@ -1981,10 +2597,50 @@
             "related_to": "     Girona   vs   Getafe"
         },
         {
+            "channel": "Sky Go Germany [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
             "channel": "Sp\u00edler 2 TV Hungary HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "11727 V 28000 - 7/8",
             "encry": "Conax",
+            "link": "#",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
+            "channel": "SuperSport 3 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
+            "channel": "SuperSport GOtv Africa",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
+            "channel": "SuperSport LaLiga HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11554 V 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 3A HD",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12169 V 27500 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Girona   vs   Getafe"
         },
@@ -2021,6 +2677,22 @@
             "related_to": "     Girona   vs   Getafe"
         },
         {
+            "channel": "TV2 Play Premium (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv2play.hu/spilertv/spilerek",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
+            "channel": "TV2 Sport Premium HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
             "channel": "TV4 Play Sverige [online]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2041,6 +2713,30 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
+            "channel": "ZhiBo8 TV (China)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
+            "channel": "Ziggo Sport 4K UHD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Girona   vs   Getafe"
+        },
+        {
+            "channel": "Ziggo Sport HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "HD Viaccess",
             "link": "#",
             "related_to": "     Girona   vs   Getafe"
         },
