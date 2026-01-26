@@ -139,6 +139,14 @@
             "related_to": "     Hellas Verona   vs   Udinese"
         },
         {
+            "channel": "Megogo Futbol 2 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Hellas Verona   vs   Udinese"
+        },
+        {
             "channel": "MTV Katsomon+ ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -235,6 +243,14 @@
             "related_to": "     Hellas Verona   vs   Udinese"
         },
         {
+            "channel": "TV2 Sport X Dansk HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10716 H 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Hellas Verona   vs   Udinese"
+        },
+        {
             "channel": "TV4 Fotboll HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "10872 V 25000 - 3/4",
@@ -248,6 +264,14 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.tv4play.se/sport",
+            "related_to": "     Hellas Verona   vs   Udinese"
+        },
+        {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
             "related_to": "     Hellas Verona   vs   Udinese"
         },
         {
@@ -317,10 +341,26 @@
             "related_to": "     Lazio   vs   Genoa"
         },
         {
+            "channel": "Megogo Futbol 1 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
+            "related_to": "     Lazio   vs   Genoa"
+        },
+        {
             "channel": "Paramount+ USA ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Lazio   vs   Genoa"
+        },
+        {
+            "channel": "TV2 Sport X Dansk HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10716 H 25000 - 3/4",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Lazio   vs   Genoa"
         },
@@ -469,6 +509,14 @@
             "sat": "Astra 2G 28.2\u00b0e",
             "freq": "11582 H 23000 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Napoli   vs   Fiorentina"
+        },
+        {
+            "channel": "TV2 Sport X Dansk HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10716 H 25000 - 3/4",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Napoli   vs   Fiorentina"
         },
@@ -729,6 +777,14 @@
             "related_to": "     Cremonese   vs   Inter Milan"
         },
         {
+            "channel": "TV2 Sport X Dansk HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10716 H 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Cremonese   vs   Inter Milan"
+        },
+        {
             "compet": "Italian Serie A - Week 23",
             "match": "     Parma   vs   Juventus",
             "flags": {
@@ -909,6 +965,32 @@
             "encry": "",
             "link": "#",
             "related_to": "     Bologna   vs   AC Milan"
+        },
+        {
+            "channel": "TV2 Sport X Dansk HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10716 H 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Bologna   vs   AC Milan"
+        },
+        {
+            "compet": "Italian Serie A - Week 24",
+            "match": "     Genoa   vs   Napoli",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "17:00",
+            "date": "2026-02-07"
+        },
+        {
+            "channel": "TV2 Sport X Dansk HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10716 H 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Genoa   vs   Napoli"
         }
     ]
 }
