@@ -157,6 +157,14 @@
             "related_to": "     PSV Eindhoven   vs   Bayern Munich"
         },
         {
+            "channel": "Prima Sport RO PPV 3",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     PSV Eindhoven   vs   Bayern Munich"
+        },
+        {
             "channel": "TV2 Play Norge ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -236,6 +244,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.mtv.fi/urheilu",
+            "related_to": "     Paris St Germain   vs   Newcastle United"
+        },
+        {
+            "channel": "Prima Sport RO 5 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
             "related_to": "     Paris St Germain   vs   Newcastle United"
         },
         {
@@ -361,6 +377,14 @@
             "related_to": "     Liverpool   vs   Qarabagh"
         },
         {
+            "channel": "Prima Sport RO PPV 4",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Liverpool   vs   Qarabagh"
+        },
+        {
             "channel": "RT\u00c9 2 Ireland HD",
             "sat": " \u00b0",
             "freq": " ",
@@ -480,6 +504,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.mtv.fi/urheilu",
+            "related_to": "     Napoli   vs   Chelsea"
+        },
+        {
+            "channel": "Prima Sport RO PPV 2",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
             "related_to": "     Napoli   vs   Chelsea"
         },
         {
@@ -695,6 +727,14 @@
             "related_to": "     Benfica   vs   Real Madrid"
         },
         {
+            "channel": "Prima Sport RO 1 HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12290 V 30000 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Benfica   vs   Real Madrid"
+        },
+        {
             "channel": "TNT Sports 8",
             "sat": "Astra 2G 28.2\u00b0e",
             "freq": "11597 V 22000 - 5/6",
@@ -736,10 +776,10 @@
         },
         {
             "compet": "UEFA Champions League - Matchday 8",
-            "match": "     Manchester City   vs   Galatasaray",
+            "match": "     Borussia Dortmund   vs   Inter Milan",
             "flags": {
-                "team1": "england",
-                "team2": "turkey"
+                "team1": "germany",
+                "team2": "italy"
             },
             "time": "20:00",
             "date": "2026-01-28"
@@ -750,7 +790,7 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://connect-my.beinsports.com/en",
-            "related_to": "     Manchester City   vs   Galatasaray"
+            "related_to": "     Borussia Dortmund   vs   Inter Milan"
         },
         {
             "channel": "beIN Connect Singapore",
@@ -758,23 +798,15 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://connect-sg.beinsports.com/en",
-            "related_to": "     Manchester City   vs   Galatasaray"
+            "related_to": "     Borussia Dortmund   vs   Inter Milan"
         },
         {
-            "channel": "beIN Sports MENA 4 HD",
+            "channel": "beIN Sports MENA 7 HD",
             "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 V 27500 - 2/3",
+            "freq": "10850 V 27500 - 2/3",
             "encry": "HD VideoGuard",
             "link": "#",
-            "related_to": "     Manchester City   vs   Galatasaray"
-        },
-        {
-            "channel": "beIN Sports MENA 5 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Manchester City   vs   Galatasaray"
+            "related_to": "     Borussia Dortmund   vs   Inter Milan"
         },
         {
             "channel": "Discovery+ UK ($/geo/R)",
@@ -782,7 +814,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "     Manchester City   vs   Galatasaray"
+            "related_to": "     Borussia Dortmund   vs   Inter Milan"
         },
         {
             "channel": "Go3 Extra Sport Baltics ($/geo/R)",
@@ -790,7 +822,7 @@
             "freq": "0000 0",
             "encry": "LiveOnSat.com",
             "link": "https://go3.tv/extra_sports",
-            "related_to": "     Manchester City   vs   Galatasaray"
+            "related_to": "     Borussia Dortmund   vs   Inter Milan"
         },
         {
             "channel": "MTV Katsomon+ ($/geo/R)",
@@ -798,23 +830,15 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.mtv.fi/urheilu",
-            "related_to": "     Manchester City   vs   Galatasaray"
+            "related_to": "     Borussia Dortmund   vs   Inter Milan"
         },
         {
-            "channel": "TNT Sports 6",
-            "sat": "Astra 2G 28.2\u00b0e",
-            "freq": "11597 V 22000 - 5/6",
-            "encry": "VideoGuard",
+            "channel": "Prima Sport RO 2 HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12290 V 30000 - 3/4",
+            "encry": "HD Viaccess",
             "link": "#",
-            "related_to": "     Manchester City   vs   Galatasaray"
-        },
-        {
-            "channel": "TRT 1 T\u00fcrkiye HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11054 V 30000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "https://www.trtizle.com/canli/tv/trt-1",
-            "related_to": "     Manchester City   vs   Galatasaray"
+            "related_to": "     Borussia Dortmund   vs   Inter Milan"
         },
         {
             "channel": "TV2 Play Norge ($/geo/R)",
@@ -822,7 +846,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://play.tv2.no/sport",
-            "related_to": "     Manchester City   vs   Galatasaray"
+            "related_to": "     Borussia Dortmund   vs   Inter Milan"
         },
         {
             "channel": "ViaPlay Danmark HD",
@@ -830,7 +854,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
-            "related_to": "     Manchester City   vs   Galatasaray"
+            "related_to": "     Borussia Dortmund   vs   Inter Milan"
         },
         {
             "channel": "ViaPlay Sverige HD",
@@ -838,7 +862,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
-            "related_to": "     Manchester City   vs   Galatasaray"
+            "related_to": "     Borussia Dortmund   vs   Inter Milan"
         },
         {
             "compet": "UEFA Champions League - Matchday 8",
@@ -907,6 +931,14 @@
             "related_to": "     Barcelona   vs   FC Copenhagen"
         },
         {
+            "channel": "Prima Sport RO 4 HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12606 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Barcelona   vs   FC Copenhagen"
+        },
+        {
             "channel": "TV2 Play Norge ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -937,6 +969,120 @@
             "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Barcelona   vs   FC Copenhagen"
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 8",
+            "match": "     Manchester City   vs   Galatasaray",
+            "flags": {
+                "team1": "england",
+                "team2": "turkey"
+            },
+            "time": "20:00",
+            "date": "2026-01-28"
+        },
+        {
+            "channel": "beIN Connect Malaysia",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-my.beinsports.com/en",
+            "related_to": "     Manchester City   vs   Galatasaray"
+        },
+        {
+            "channel": "beIN Connect Singapore",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-sg.beinsports.com/en",
+            "related_to": "     Manchester City   vs   Galatasaray"
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Manchester City   vs   Galatasaray"
+        },
+        {
+            "channel": "beIN Sports MENA 5 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Manchester City   vs   Galatasaray"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "     Manchester City   vs   Galatasaray"
+        },
+        {
+            "channel": "Go3 Extra Sport Baltics ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "https://go3.tv/extra_sports",
+            "related_to": "     Manchester City   vs   Galatasaray"
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "     Manchester City   vs   Galatasaray"
+        },
+        {
+            "channel": "Prima Sport RO PPV 1",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Manchester City   vs   Galatasaray"
+        },
+        {
+            "channel": "TNT Sports 6",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11597 V 22000 - 5/6",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Manchester City   vs   Galatasaray"
+        },
+        {
+            "channel": "TRT 1 T\u00fcrkiye HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11054 V 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "https://www.trtizle.com/canli/tv/trt-1",
+            "related_to": "     Manchester City   vs   Galatasaray"
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "     Manchester City   vs   Galatasaray"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Manchester City   vs   Galatasaray"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Manchester City   vs   Galatasaray"
         },
         {
             "compet": "UEFA Champions League - Matchday 8",
@@ -1109,88 +1255,6 @@
             "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Bayer Leverkusen   vs   Villarreal"
-        },
-        {
-            "compet": "UEFA Champions League - Matchday 8",
-            "match": "     Borussia Dortmund   vs   Inter Milan",
-            "flags": {
-                "team1": "germany",
-                "team2": "italy"
-            },
-            "time": "20:00",
-            "date": "2026-01-28"
-        },
-        {
-            "channel": "beIN Connect Malaysia",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://connect-my.beinsports.com/en",
-            "related_to": "     Borussia Dortmund   vs   Inter Milan"
-        },
-        {
-            "channel": "beIN Connect Singapore",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://connect-sg.beinsports.com/en",
-            "related_to": "     Borussia Dortmund   vs   Inter Milan"
-        },
-        {
-            "channel": "beIN Sports MENA 7 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10850 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Inter Milan"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "     Borussia Dortmund   vs   Inter Milan"
-        },
-        {
-            "channel": "Go3 Extra Sport Baltics ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "https://go3.tv/extra_sports",
-            "related_to": "     Borussia Dortmund   vs   Inter Milan"
-        },
-        {
-            "channel": "MTV Katsomon+ ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.mtv.fi/urheilu",
-            "related_to": "     Borussia Dortmund   vs   Inter Milan"
-        },
-        {
-            "channel": "TV2 Play Norge ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://play.tv2.no/sport",
-            "related_to": "     Borussia Dortmund   vs   Inter Milan"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Inter Milan"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Inter Milan"
         },
         {
             "compet": "UEFA Champions League - Matchday 8",
