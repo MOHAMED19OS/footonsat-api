@@ -1,114 +1,6 @@
 {
     "footonsat": [
         {
-            "compet": "Dutch Eerste Divisie (2nd) - Week 3",
-            "match": "     ADO Den Haag   vs   Vitesse Arnhem",
-            "flags": {
-                "team1": "holland",
-                "team2": "holland"
-            },
-            "time": "19:00",
-            "date": "2026-01-26"
-        },
-        {
-            "channel": "ESPN 2 Nederland HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "11856 V 29900 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     ADO Den Haag   vs   Vitesse Arnhem"
-        },
-        {
-            "compet": "Dutch Eerste Divisie (2nd) - Week 22",
-            "match": "     RKC Waalwijk   vs   Utrecht Youths",
-            "flags": {
-                "team1": "holland",
-                "team2": "holland"
-            },
-            "time": "19:00",
-            "date": "2026-01-26"
-        },
-        {
-            "channel": "ESPN Extra Nederland",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     RKC Waalwijk   vs   Utrecht Youths"
-        },
-        {
-            "compet": "Dutch Eerste Divisie (2nd) - Week 22",
-            "match": "     Roda JC   vs   VVV-Venlo",
-            "flags": {
-                "team1": "holland",
-                "team2": "holland"
-            },
-            "time": "19:00",
-            "date": "2026-01-26"
-        },
-        {
-            "channel": "ESPN 4 Nederland HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "11739 V 29900 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Roda JC   vs   VVV-Venlo"
-        },
-        {
-            "compet": "Dutch Eerste Divisie (2nd) - Week 22",
-            "match": "     De Graafschap   vs   Den Bosch",
-            "flags": {
-                "team1": "holland",
-                "team2": "holland"
-            },
-            "time": "19:00",
-            "date": "2026-01-26"
-        },
-        {
-            "channel": "ESPN 3 Nederland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     De Graafschap   vs   Den Bosch"
-        },
-        {
-            "compet": "Dutch Eerste Divisie (2nd) - Week 24",
-            "match": "     PSV Youths   vs   Helmond Sport",
-            "flags": {
-                "team1": "holland",
-                "team2": "holland"
-            },
-            "time": "19:00",
-            "date": "2026-01-26"
-        },
-        {
-            "channel": "ESPN Extra Nederland",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     PSV Youths   vs   Helmond Sport"
-        },
-        {
-            "compet": "Dutch Eerste Divisie (2nd) - Week 24",
-            "match": "     AZ Youths   vs   Almere City",
-            "flags": {
-                "team1": "holland",
-                "team2": "holland"
-            },
-            "time": "19:00",
-            "date": "2026-01-26"
-        },
-        {
-            "channel": "ESPN Extra Nederland",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     AZ Youths   vs   Almere City"
-        },
-        {
             "compet": "Dutch Eerste Divisie (2nd) - Week 22",
             "match": "     Emmen   vs   Cambuur-Leeuwarden",
             "flags": {
@@ -727,11 +619,35 @@
             "date": "2026-02-08"
         },
         {
+            "channel": "Premier Sports 2 Ireland HD",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12188 H 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Utrecht   vs   Feyenoord"
+        },
+        {
+            "channel": "Premier Sports 2 UK HD",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11671 H 23000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Utrecht   vs   Feyenoord"
+        },
+        {
             "channel": "Premier Sports GB Player HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": "     Utrecht   vs   Feyenoord"
+        },
+        {
+            "channel": "Thriller TV+ [online] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.trillertv.com/join/trillertv-subscription/",
             "related_to": "     Utrecht   vs   Feyenoord"
         },
         {
@@ -751,6 +667,32 @@
             "encry": "",
             "link": "https://www.premiersports.com/fr/live-now-on-demand",
             "related_to": "     AZ Alkmaar   vs   Ajax"
+        },
+        {
+            "channel": "Thriller TV+ [online] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.trillertv.com/join/trillertv-subscription/",
+            "related_to": "     AZ Alkmaar   vs   Ajax"
+        },
+        {
+            "compet": "Dutch Eredivisie - Week 22",
+            "match": "     Groningen   vs   PSV Eindhoven",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "15:45",
+            "date": "2026-02-08"
+        },
+        {
+            "channel": "Thriller TV+ [online] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.trillertv.com/join/trillertv-subscription/",
+            "related_to": "     Groningen   vs   PSV Eindhoven"
         },
         {
             "compet": "Dutch Eerste Divisie (2nd) - Week 22",
