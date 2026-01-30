@@ -20,24 +20,6 @@
         },
         {
             "compet": "Saudi Pro League - Week 19",
-            "match": "     NEOM SC   vs   Damac FC",
-            "flags": {
-                "team1": "saudiarabia",
-                "team2": "saudiarabia"
-            },
-            "time": "15:50",
-            "date": "2026-01-30"
-        },
-        {
-            "channel": "Thmanyah KSA [app]",
-            "sat": "Download APP 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     NEOM SC   vs   Damac FC"
-        },
-        {
-            "compet": "Saudi Pro League - Week 19",
             "match": "     Al Kholood   vs   Al Nassr",
             "flags": {
                 "team1": "saudiarabia",
@@ -207,6 +189,14 @@
             "related_to": "     Al Kholood   vs   Al Nassr"
         },
         {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Kholood   vs   Al Nassr"
+        },
+        {
             "channel": "Sport TV1 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
@@ -309,6 +299,24 @@
             "encry": "",
             "link": "https://www.youtube.com/@-saudiproleague/streams",
             "related_to": "     Al Kholood   vs   Al Nassr"
+        },
+        {
+            "compet": "Saudi Pro League - Week 19",
+            "match": "     NEOM SC   vs   Damac FC",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "17:30",
+            "date": "2026-01-30"
+        },
+        {
+            "channel": "Thmanyah KSA [app]",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     NEOM SC   vs   Damac FC"
         },
         {
             "compet": "Saudi Pro League - Week 20",

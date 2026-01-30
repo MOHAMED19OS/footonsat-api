@@ -714,6 +714,24 @@
         },
         {
             "compet": "Dutch Eerste Divisie (2nd) - Week 22",
+            "match": "     Emmen   vs   Cambuur-Leeuwarden",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "19:00",
+            "date": "2026-02-09"
+        },
+        {
+            "channel": "ESPN 1 Nederland HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11739 V 29900 - 3/4",
+            "encry": "HD Mediaguard",
+            "link": "#",
+            "related_to": "     Emmen   vs   Cambuur-Leeuwarden"
+        },
+        {
+            "compet": "Dutch Eerste Divisie (2nd) - Week 22",
             "match": "     PSV Youths   vs   FC Oss",
             "flags": {
                 "team1": "holland",
@@ -775,6 +793,24 @@
             "related_to": "     NEC Nijmegen   vs   Utrecht"
         },
         {
+            "compet": "Dutch Eerste Divisie (2nd) - Week 24",
+            "match": "     Emmen   vs   Ajax Youths",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "19:00",
+            "date": "2026-02-23"
+        },
+        {
+            "channel": "ESPN 4 Nederland HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11739 V 29900 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Emmen   vs   Ajax Youths"
+        },
+        {
             "compet": "Dutch Eerste Divisie (2nd) - Week 22",
             "match": "     Willem II   vs   ADO Den Haag",
             "flags": {
@@ -791,6 +827,24 @@
             "encry": "",
             "link": "#",
             "related_to": "     Willem II   vs   ADO Den Haag"
+        },
+        {
+            "compet": "Dutch Eerste Divisie (2nd) - Week 24",
+            "match": "     Cambuur-Leeuwarden   vs   FC Eindhoven",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "19:00",
+            "date": "2026-02-24"
+        },
+        {
+            "channel": "ESPN 2 Nederland HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11856 V 29900 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Cambuur-Leeuwarden   vs   FC Eindhoven"
         }
     ]
 }
