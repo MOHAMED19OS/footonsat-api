@@ -789,10 +789,34 @@
             "related_to": "     Galatasaray   vs   Kayserispor"
         },
         {
+            "channel": "Sport 2 Hungary HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "11785 H 28000 - 7/8",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Galatasaray   vs   Kayserispor"
+        },
+        {
             "channel": "Sport TV5 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12360 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Galatasaray   vs   Kayserispor"
+        },
+        {
+            "channel": "SportKlub 2 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Galatasaray   vs   Kayserispor"
+        },
+        {
+            "channel": "SportKlub 2 Slovenija",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11387 H 32000 - 3/4",
+            "encry": "MPEG-4 NDS",
             "link": "#",
             "related_to": "     Galatasaray   vs   Kayserispor"
         },
@@ -1043,6 +1067,22 @@
             "sat": "KazSat 3 58.5\u00b0e",
             "freq": "10720 H 30000 - 3/4",
             "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Kocaelispor   vs   Fenerbah\u00e7e"
+        },
+        {
+            "channel": "SportKlub 5 Slovenija",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Kocaelispor   vs   Fenerbah\u00e7e"
+        },
+        {
+            "channel": "SportKlub 6 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Kocaelispor   vs   Fenerbah\u00e7e"
         },
@@ -1577,6 +1617,14 @@
             "related_to": "     Caykur Rizespor   vs   Galatasaray"
         },
         {
+            "channel": "Sport TV6 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Caykur Rizespor   vs   Galatasaray"
+        },
+        {
             "compet": "T\u00fcrkiye S\u00fcper Lig - Week 21",
             "match": "     Konyaspor   vs   G\u00f6ztepe",
             "flags": {
@@ -1663,6 +1711,14 @@
             "related_to": "     Besiktas   vs   Alanyaspor"
         },
         {
+            "channel": "Sport TV5 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Besiktas   vs   Alanyaspor"
+        },
+        {
             "compet": "T\u00fcrkiye S\u00fcper Lig - Week 21",
             "match": "     Kayserispor   vs   Kocaelispor",
             "flags": {
@@ -1711,6 +1767,14 @@
             "sat": "Turksat 3A 42.0\u00b0e",
             "freq": "11180 H 30000 - 3/4",
             "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Fenerbah\u00e7e   vs   Gen\u00e7lerbirligi"
+        },
+        {
+            "channel": "Sport TV2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Fenerbah\u00e7e   vs   Gen\u00e7lerbirligi"
         },
