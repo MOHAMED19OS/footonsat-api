@@ -107,11 +107,27 @@
             "related_to": "     Leeds United   vs   Arsenal"
         },
         {
+            "channel": "Meraj TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11221 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Leeds United   vs   Arsenal"
+        },
+        {
             "channel": "Monomax Streaming ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.monomax.me/premierleague",
+            "related_to": "     Leeds United   vs   Arsenal"
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "     Leeds United   vs   Arsenal"
         },
         {
@@ -633,11 +649,27 @@
             "related_to": "     Chelsea   vs   West Ham United"
         },
         {
+            "channel": "Meraj TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11221 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Chelsea   vs   West Ham United"
+        },
+        {
             "channel": "Monomax Streaming ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.monomax.me/premierleague",
+            "related_to": "     Chelsea   vs   West Ham United"
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "     Chelsea   vs   West Ham United"
         },
         {
@@ -872,6 +904,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.monomax.me/premierleague",
+            "related_to": "     Liverpool   vs   Newcastle United"
+        },
+        {
+            "channel": "Persiana Sports 2 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
             "related_to": "     Liverpool   vs   Newcastle United"
         },
         {
@@ -1619,6 +1659,14 @@
             "related_to": "     Tottenham Hotspur   vs   Manchester City"
         },
         {
+            "channel": "Meraj TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11221 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Tottenham Hotspur   vs   Manchester City"
+        },
+        {
             "channel": "Monomax Streaming ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -1972,6 +2020,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Leeds United   vs   Nottingham Forest"
+        },
+        {
+            "channel": "beIN Sports MENA 6 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
             "related_to": "     Leeds United   vs   Nottingham Forest"
         },
         {
@@ -7021,7 +7077,7 @@
                 "team1": "england",
                 "team2": "england"
             },
-            "time": "14:00",
+            "time": "15:00",
             "date": "2026-05-02"
         },
         {
