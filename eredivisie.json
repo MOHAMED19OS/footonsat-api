@@ -1,60 +1,6 @@
 {
     "footonsat": [
         {
-            "compet": "Dutch Eerste Divisie (2nd) - Week 22",
-            "match": "     Vitesse Arnhem   vs   FC Eindhoven",
-            "flags": {
-                "team1": "holland",
-                "team2": "holland"
-            },
-            "time": "19:00",
-            "date": "2026-02-02"
-        },
-        {
-            "channel": "ESPN 4 Nederland HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "11739 V 29900 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Vitesse Arnhem   vs   FC Eindhoven"
-        },
-        {
-            "compet": "Dutch Eerste Divisie (2nd) - Week 22",
-            "match": "     MVV Maastricht   vs   Almere City",
-            "flags": {
-                "team1": "holland",
-                "team2": "holland"
-            },
-            "time": "19:00",
-            "date": "2026-02-02"
-        },
-        {
-            "channel": "ESPN Extra Nederland",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     MVV Maastricht   vs   Almere City"
-        },
-        {
-            "compet": "Dutch Eerste Divisie (2nd) - Week 25",
-            "match": "     PSV Youths   vs   Cambuur-Leeuwarden",
-            "flags": {
-                "team1": "holland",
-                "team2": "holland"
-            },
-            "time": "19:00",
-            "date": "2026-02-02"
-        },
-        {
-            "channel": "ESPN 2 Nederland HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "11856 V 29900 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     PSV Youths   vs   Cambuur-Leeuwarden"
-        },
-        {
             "compet": "Dutch Cup (KNVB Beker)",
             "match": "     AZ Alkmaar   vs   Twente",
             "flags": {
@@ -289,6 +235,24 @@
             "encry": "",
             "link": "#",
             "related_to": "     NEC Nijmegen   vs   Utrecht"
+        },
+        {
+            "compet": "Dutch Eredivisie - Week 23",
+            "match": "     Volendam   vs   PSV Eindhoven",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "19:00",
+            "date": "2026-02-13"
+        },
+        {
+            "channel": "Premier Sports GB Player HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": "     Volendam   vs   PSV Eindhoven"
         },
         {
             "compet": "Dutch Eerste Divisie (2nd) - Week 24",
