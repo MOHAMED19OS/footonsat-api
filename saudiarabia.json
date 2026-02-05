@@ -2,6 +2,24 @@
     "footonsat": [
         {
             "compet": "Saudi Pro League - Week 21",
+            "match": "     Al Fayha   vs   Al Najma",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "15:20",
+            "date": "2026-02-05"
+        },
+        {
+            "channel": "Thmanyah 1 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Fayha   vs   Al Najma"
+        },
+        {
+            "compet": "Saudi Pro League - Week 21",
             "match": "     Al Akhdoud   vs   Al Hilal",
             "flags": {
                 "team1": "saudiarabia",
@@ -47,6 +65,14 @@
             "sat": "AzerSpace 2 45.0\u00b0e",
             "freq": "11475 V 30000 - 5/6",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Akhdoud   vs   Al Hilal"
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Al Akhdoud   vs   Al Hilal"
         },
@@ -99,6 +125,14 @@
             "related_to": "     Al Akhdoud   vs   Al Hilal"
         },
         {
+            "channel": "Thmanyah 1 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Akhdoud   vs   Al Hilal"
+        },
+        {
             "channel": "TRT Spor T\u00fcrkiye HD",
             "sat": "Turksat 3A 42.0\u00b0e",
             "freq": "11096 H 30000 - 5/6",
@@ -129,6 +163,22 @@
             "sat": "SES 6 40.5\u00b0w",
             "freq": "11680 V 30000 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Al Hazem"
+        },
+        {
+            "channel": "Persiana Sports 2 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
+            "related_to": "     Al Ahli   vs   Al Hazem"
+        },
+        {
+            "channel": "Thmanyah 2 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Al Ahli   vs   Al Hazem"
         },
