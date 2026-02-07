@@ -187,6 +187,14 @@
             "related_to": "     Rayo Vallecano   vs   Real Oviedo"
         },
         {
+            "channel": "ST Sports Premium HD",
+            "sat": "Belintersat 1 51.5\u00b0e",
+            "freq": "11098 H 16665 - 1/2",
+            "encry": "Conax",
+            "link": "#",
+            "related_to": "     Rayo Vallecano   vs   Real Oviedo"
+        },
+        {
             "channel": "SuperSport LaLiga HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11554 V 30000 - 2/3",
@@ -237,6 +245,14 @@
             "date": "2026-02-07"
         },
         {
+            "channel": "ART Motion Sport 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "     Barcelona   vs   Mallorca"
+        },
+        {
             "channel": "beIN Connect France",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -257,6 +273,14 @@
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 H 27500 - 2/3",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Mallorca"
+        },
+        {
+            "channel": "DAZN 2 Bar Deutsch HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11798 H 27500 - 9/0",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Barcelona   vs   Mallorca"
         },
@@ -317,6 +341,30 @@
             "related_to": "     Barcelona   vs   Mallorca"
         },
         {
+            "channel": "Futbol TV Tajikistan",
+            "sat": "ABS 2A 75.0\u00b0e",
+            "freq": "12252 H 10000 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Mallorca"
+        },
+        {
+            "channel": "Idman TV HD",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11175 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Mallorca"
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Intelsat 39 62.0\u00b0e",
+            "freq": "11555 V 30000 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Mallorca"
+        },
+        {
             "channel": "LaLiga TV Bar HD",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "10876 V 22000 - 5/6",
@@ -365,6 +413,14 @@
             "related_to": "     Barcelona   vs   Mallorca"
         },
         {
+            "channel": "Meraj TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11221 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Mallorca"
+        },
+        {
             "channel": "Movistar Plus+ HD",
             "sat": "Astra 1L 19.2\u00b0e",
             "freq": "11097 V 22000 - 5/6",
@@ -381,11 +437,27 @@
             "related_to": "     Barcelona   vs   Mallorca"
         },
         {
+            "channel": "New World Sport 3 Togo",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Mallorca"
+        },
+        {
             "channel": "Orange F\u00fatbol 1 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "#",
+            "related_to": "     Barcelona   vs   Mallorca"
+        },
+        {
+            "channel": "Persiana Sports 2 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
             "related_to": "     Barcelona   vs   Mallorca"
         },
         {
@@ -409,6 +481,14 @@
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "11727 V 28000 - 7/8",
             "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Mallorca"
+        },
+        {
+            "channel": "ST Sports Premium HD",
+            "sat": "Belintersat 1 51.5\u00b0e",
+            "freq": "11098 H 16665 - 1/2",
+            "encry": "Conax",
             "link": "#",
             "related_to": "     Barcelona   vs   Mallorca"
         },
@@ -469,6 +549,14 @@
             "related_to": "     Barcelona   vs   Mallorca"
         },
         {
+            "channel": "Zor TV Uzbekistan",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Mallorca"
+        },
+        {
             "compet": "Spanish La Liga (Primera) - Week 23",
             "match": "     Sevilla   vs   Girona",
             "flags": {
@@ -477,6 +565,14 @@
             },
             "time": "17:30",
             "date": "2026-02-07"
+        },
+        {
+            "channel": "ART Motion Sport 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "     Sevilla   vs   Girona"
         },
         {
             "channel": "beIN Connect France",
@@ -499,6 +595,14 @@
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 H 27500 - 2/3",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Sevilla   vs   Girona"
+        },
+        {
+            "channel": "DAZN 2 Bar Deutsch HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11798 H 27500 - 9/0",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Sevilla   vs   Girona"
         },
@@ -647,6 +751,14 @@
             "related_to": "     Sevilla   vs   Girona"
         },
         {
+            "channel": "ST Sports Life",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "12418 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Sevilla   vs   Girona"
+        },
+        {
             "channel": "SuperSport LaLiga HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11554 V 30000 - 2/3",
@@ -711,6 +823,14 @@
             },
             "time": "20:00",
             "date": "2026-02-07"
+        },
+        {
+            "channel": "ART Motion Sport 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "     Real Sociedad   vs   Elche"
         },
         {
             "channel": "beIN Connect France",
@@ -825,6 +945,22 @@
             "related_to": "     Real Sociedad   vs   Elche"
         },
         {
+            "channel": "Futbol TV Tajikistan",
+            "sat": "ABS 2A 75.0\u00b0e",
+            "freq": "12252 H 10000 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Elche"
+        },
+        {
+            "channel": "Idman TV HD",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11175 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Elche"
+        },
+        {
             "channel": "M+ LaLiga HD",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "10876 V 22000 - 5/6",
@@ -861,6 +997,14 @@
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "11727 V 28000 - 7/8",
             "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Elche"
+        },
+        {
+            "channel": "ST Sports Premium HD",
+            "sat": "Belintersat 1 51.5\u00b0e",
+            "freq": "11098 H 16665 - 1/2",
+            "encry": "Conax",
             "link": "#",
             "related_to": "     Real Sociedad   vs   Elche"
         },
