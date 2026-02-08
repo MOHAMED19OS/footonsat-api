@@ -141,6 +141,14 @@
             "related_to": "     Dobrudzha   vs   Septemvri Sofia"
         },
         {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Dobrudzha   vs   Septemvri Sofia"
+        },
+        {
             "compet": "T\u00fcrkiye 1. Lig - Week 24",
             "match": "     Ke\u00e7i\u00f6reng\u00fcc\u00fc   vs   Bandirmaspor",
             "flags": {
@@ -371,6 +379,14 @@
             "sat": "Amos 7 4.0\u00b0w",
             "freq": "11030 V 27500 - 3/4",
             "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Utrecht   vs   Feyenoord"
+        },
+        {
+            "channel": "SportKlub 2 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Utrecht   vs   Feyenoord"
         },
@@ -671,6 +687,22 @@
             "related_to": "     Arsenal   vs   Manchester City"
         },
         {
+            "channel": "SportKlub 4 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Arsenal   vs   Manchester City"
+        },
+        {
+            "channel": "SportKlub 4 Slovenija",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Arsenal   vs   Manchester City"
+        },
+        {
             "compet": "English Womens Super League - Week 15",
             "match": "     London City   vs   Everton",
             "flags": {
@@ -781,6 +813,24 @@
             "encry": "",
             "link": "https://www.youtube.com/@BarclaysWSL2/streams",
             "related_to": "     Durham   vs   Birmingham City"
+        },
+        {
+            "compet": "Slovenian 1. SNL - Week 21",
+            "match": "     Mura   vs   Aluminij",
+            "flags": {
+                "team1": "slovenia",
+                "team2": "slovenia"
+            },
+            "time": "12:00",
+            "date": "2026-02-08"
+        },
+        {
+            "channel": "SportKlub 1 Slovenija HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Mura   vs   Aluminij"
         },
         {
             "compet": "English Championship - Week 31",
@@ -983,10 +1033,66 @@
             "related_to": "     Karlsruhe   vs   Fortuna D\u00fcsseldorf"
         },
         {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Karlsruhe   vs   Fortuna D\u00fcsseldorf"
+        },
+        {
             "channel": "Tivibu Spor 4 HD",
             "sat": "Turksat 4A 42.0\u00b0e",
             "freq": "11880 H 20000 - 3/4",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Karlsruhe   vs   Fortuna D\u00fcsseldorf"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Karlsruhe   vs   Fortuna D\u00fcsseldorf"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Karlsruhe   vs   Fortuna D\u00fcsseldorf"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Karlsruhe   vs   Fortuna D\u00fcsseldorf"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Karlsruhe   vs   Fortuna D\u00fcsseldorf"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Karlsruhe   vs   Fortuna D\u00fcsseldorf"
+        },
+        {
+            "channel": "ViaPlay \u00cdsland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Karlsruhe   vs   Fortuna D\u00fcsseldorf"
         },
@@ -1049,10 +1155,66 @@
             "related_to": "     Hannover 96   vs   Holstein Kiel"
         },
         {
+            "channel": "SportKlub 8 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Hannover 96   vs   Holstein Kiel"
+        },
+        {
             "channel": "Tivibu Spor 3 HD",
             "sat": "Turksat 4A 42.0\u00b0e",
             "freq": "11880 H 20000 - 3/4",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Hannover 96   vs   Holstein Kiel"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Hannover 96   vs   Holstein Kiel"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Hannover 96   vs   Holstein Kiel"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Hannover 96   vs   Holstein Kiel"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Hannover 96   vs   Holstein Kiel"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Hannover 96   vs   Holstein Kiel"
+        },
+        {
+            "channel": "ViaPlay \u00cdsland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Hannover 96   vs   Holstein Kiel"
         },
@@ -1095,6 +1257,54 @@
             "sat": "Astra 1N 19.2\u00b0e",
             "freq": "12032 H 27500 - 9/10",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Arminia Bielefeld   vs   Braunschweig"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Arminia Bielefeld   vs   Braunschweig"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Arminia Bielefeld   vs   Braunschweig"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Arminia Bielefeld   vs   Braunschweig"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Arminia Bielefeld   vs   Braunschweig"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Arminia Bielefeld   vs   Braunschweig"
+        },
+        {
+            "channel": "ViaPlay \u00cdsland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Arminia Bielefeld   vs   Braunschweig"
         },
@@ -1611,6 +1821,32 @@
             "related_to": "     Madrid CFF   vs   Deportivo La Coru\u00f1a"
         },
         {
+            "compet": "Swiss Super League - Week 23",
+            "match": "     Servette   vs   Thun",
+            "flags": {
+                "team1": "switzerland",
+                "team2": "switzerland"
+            },
+            "time": "13:00",
+            "date": "2026-02-08"
+        },
+        {
+            "channel": "SportKlub 2 Slovenija",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11387 H 32000 - 3/4",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Servette   vs   Thun"
+        },
+        {
+            "channel": "SportKlub 6 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Servette   vs   Thun"
+        },
+        {
             "compet": "Dutch Eredivisie - Week 22",
             "match": "     AZ Alkmaar   vs   Ajax",
             "flags": {
@@ -1693,6 +1929,14 @@
             "related_to": "     AZ Alkmaar   vs   Ajax"
         },
         {
+            "channel": "SportKlub 3 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     AZ Alkmaar   vs   Ajax"
+        },
+        {
             "channel": "SuperSport 4 Albania HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "10845 H 30000 - 3/5",
@@ -1723,6 +1967,74 @@
             "encry": "MPEG-4 DreCrypt",
             "link": "#",
             "related_to": "     AZ Alkmaar   vs   Ajax"
+        },
+        {
+            "compet": "Austrian Bundesliga - Week 18",
+            "match": "     Wolfsberger AC   vs   Grazer AK",
+            "flags": {
+                "team1": "austria",
+                "team2": "austria"
+            },
+            "time": "13:30",
+            "date": "2026-02-08"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     Wolfsberger AC   vs   Grazer AK"
+        },
+        {
+            "channel": "Sky Go Germany [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Wolfsberger AC   vs   Grazer AK"
+        },
+        {
+            "channel": "Sky Sport 1 Austria HD [s/cast]",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12032 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Wolfsberger AC   vs   Grazer AK"
+        },
+        {
+            "compet": "Austrian Bundesliga - Week 18",
+            "match": "     Rheindorf Altach   vs   Blau-Wei\u00df Linz",
+            "flags": {
+                "team1": "austria",
+                "team2": "austria"
+            },
+            "time": "13:30",
+            "date": "2026-02-08"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     Rheindorf Altach   vs   Blau-Wei\u00df Linz"
+        },
+        {
+            "channel": "Sky Go Germany [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Rheindorf Altach   vs   Blau-Wei\u00df Linz"
+        },
+        {
+            "channel": "Sky Sport 1 Austria HD [s/cast]",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12032 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Rheindorf Altach   vs   Blau-Wei\u00df Linz"
         },
         {
             "compet": "English Premier League - Week 25",
@@ -2731,6 +3043,46 @@
             "related_to": "     Nice   vs   Monaco"
         },
         {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Nice   vs   Monaco"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Nice   vs   Monaco"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Nice   vs   Monaco"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Nice   vs   Monaco"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Nice   vs   Monaco"
+        },
+        {
             "compet": "Italian W/Serie A - Week 13",
             "match": "     Napoli   vs   Ternana",
             "flags": {
@@ -2827,6 +3179,42 @@
             "related_to": "     Monza   vs   Avellino"
         },
         {
+            "compet": "Slovenian 1. SNL - Week 21",
+            "match": "     Olimpija   vs   Celje",
+            "flags": {
+                "team1": "slovenia",
+                "team2": "slovenia"
+            },
+            "time": "14:00",
+            "date": "2026-02-08"
+        },
+        {
+            "channel": "SportKlub 10 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Olimpija   vs   Celje"
+        },
+        {
+            "compet": "French F\u00e9minine Premi\u00e8re Ligue - Week 15",
+            "match": "     Lyon   vs   St Etienne",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "14:00",
+            "date": "2026-02-08"
+        },
+        {
+            "channel": "Canal+ France HD",
+            "sat": "Astra 1P 19.2\u00b0e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Lyon   vs   St Etienne"
+        },
+        {
             "compet": "English Womens Super League - Week 15",
             "match": "     Tottenham Hotspur   vs   Chelsea",
             "flags": {
@@ -2865,6 +3253,22 @@
             "sat": "Astra 2E 28.2\u00b0e",
             "freq": "10803 H 23000 - 3/4",
             "encry": "HD Panaccess",
+            "link": "#",
+            "related_to": "     Tottenham Hotspur   vs   Chelsea"
+        },
+        {
+            "channel": "SportKlub 6 Slovenija",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Tottenham Hotspur   vs   Chelsea"
+        },
+        {
+            "channel": "SportKlub 8 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Tottenham Hotspur   vs   Chelsea"
         },
@@ -3035,6 +3439,14 @@
             "sat": "Amos 3 4.0\u00b0w",
             "freq": "10806 V 27500 - 3/4",
             "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     FC Cologne   vs   RB Leipzig"
+        },
+        {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     FC Cologne   vs   RB Leipzig"
         },
@@ -4071,6 +4483,14 @@
             "related_to": "     Groningen   vs   PSV Eindhoven"
         },
         {
+            "channel": "SportKlub 6 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Groningen   vs   PSV Eindhoven"
+        },
+        {
             "channel": "SuperSport 4 Albania HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "10845 H 30000 - 3/5",
@@ -4183,6 +4603,46 @@
             "date": "2026-02-08"
         },
         {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     Sturm Graz   vs   Ried"
+        },
+        {
+            "channel": "Sky Go Germany [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Sturm Graz   vs   Ried"
+        },
+        {
+            "channel": "Sky Sport 1 Austria HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12032 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Sturm Graz   vs   Ried"
+        },
+        {
+            "channel": "SportKlub 3 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Sturm Graz   vs   Ried"
+        },
+        {
+            "channel": "SportKlub 3 Slovenija",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11231 V 42000 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Sturm Graz   vs   Ried"
+        },
+        {
             "channel": "TV Start Russia HD",
             "sat": "ABS 2A 75.0\u00b0e",
             "freq": "11605 V 43200 - 7/8",
@@ -4243,14 +4703,6 @@
             "date": "2026-02-08"
         },
         {
-            "channel": "",
-            "sat": " \u00b0",
-            "freq": " ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Angers   vs   Toulouse"
-        },
-        {
             "channel": "beIN Connect T\u00fcrkiye",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -4275,10 +4727,58 @@
             "related_to": "     Angers   vs   Toulouse"
         },
         {
+            "channel": "Ligue 1+ 6 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://plus.ligue1.com/home",
+            "related_to": "     Angers   vs   Toulouse"
+        },
+        {
             "channel": "V Sport Football HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "10809 V 25000 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Angers   vs   Toulouse"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Angers   vs   Toulouse"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Angers   vs   Toulouse"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Angers   vs   Toulouse"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Angers   vs   Toulouse"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Angers   vs   Toulouse"
         },
@@ -4317,10 +4817,58 @@
             "related_to": "     Auxerre   vs   Paris FC"
         },
         {
+            "channel": "Ligue 1+ 5 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://plus.ligue1.com/home",
+            "related_to": "     Auxerre   vs   Paris FC"
+        },
+        {
             "channel": "V Sport Extra Sverige HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "10903 V 25000 - 3/4",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Auxerre   vs   Paris FC"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Auxerre   vs   Paris FC"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Auxerre   vs   Paris FC"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Auxerre   vs   Paris FC"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Auxerre   vs   Paris FC"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Auxerre   vs   Paris FC"
         },
@@ -4375,6 +4923,14 @@
             "related_to": "     Le Havre   vs   Strasbourg"
         },
         {
+            "channel": "Ligue 1+ 4 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://plus.ligue1.com/home",
+            "related_to": "     Le Havre   vs   Strasbourg"
+        },
+        {
             "channel": "Nova Sport 1 Czech HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11876 H 29900 - 3/4",
@@ -4387,6 +4943,46 @@
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "10809 V 25000 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Le Havre   vs   Strasbourg"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Le Havre   vs   Strasbourg"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Le Havre   vs   Strasbourg"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Le Havre   vs   Strasbourg"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Le Havre   vs   Strasbourg"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Le Havre   vs   Strasbourg"
         },
@@ -5031,6 +5627,14 @@
             "sat": "Amos 3 4.0\u00b0w",
             "freq": "10806 V 27500 - 3/4",
             "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Bayern Munich   vs   Hoffenheim"
+        },
+        {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Bayern Munich   vs   Hoffenheim"
         },
@@ -5693,6 +6297,14 @@
             "related_to": "     Aris Thessaloniki   vs   PAOK Thessaloniki"
         },
         {
+            "channel": "SportKlub 2 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Aris Thessaloniki   vs   PAOK Thessaloniki"
+        },
+        {
             "compet": "Cypriot 1. Division - Week 21",
             "match": "     Pafos FC   vs   Omonia Nicosia",
             "flags": {
@@ -5709,6 +6321,32 @@
             "encry": "",
             "link": "#",
             "related_to": "     Pafos FC   vs   Omonia Nicosia"
+        },
+        {
+            "compet": "Slovenian 1. SNL - Week 21",
+            "match": "     Maribor   vs   Koper",
+            "flags": {
+                "team1": "slovenia",
+                "team2": "slovenia"
+            },
+            "time": "17:00",
+            "date": "2026-02-08"
+        },
+        {
+            "channel": "SportKlub 1 Slovenija HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Maribor   vs   Koper"
+        },
+        {
+            "channel": "SportKlub 8 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Maribor   vs   Koper"
         },
         {
             "compet": "Spanish La Liga (Primera) - Week 23",
@@ -6291,6 +6929,22 @@
             "related_to": "     Sporting Braga   vs   Rio Ave"
         },
         {
+            "channel": "SportKlub 3 Slovenija",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11231 V 42000 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Sporting Braga   vs   Rio Ave"
+        },
+        {
+            "channel": "SportKlub 6 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Sporting Braga   vs   Rio Ave"
+        },
+        {
             "channel": "Tivibu Spor 2 HD",
             "sat": "Turksat 4A 42.0\u00b0e",
             "freq": "11853 H 25000 - 3/4",
@@ -6385,6 +7039,22 @@
             "related_to": "     Duisburg   vs   SC Verl"
         },
         {
+            "channel": "SportKlub 5 Slovenija",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Duisburg   vs   SC Verl"
+        },
+        {
+            "channel": "SportKlub 7 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Duisburg   vs   SC Verl"
+        },
+        {
             "channel": "YouTube: German Football (geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -6407,6 +7077,14 @@
             "sat": "Eutelsat 9B 9.0\u00b0e",
             "freq": "11843 V 27500 - 3/5",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Olympiacos   vs   Panathinaikos"
+        },
+        {
+            "channel": "SportKlub 3 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Olympiacos   vs   Panathinaikos"
         },
@@ -6865,10 +7543,50 @@
             "related_to": "     Paris St Germain   vs   Marseille"
         },
         {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Marseille"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Marseille"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Marseille"
+        },
+        {
             "channel": "ViaPlay Sport Sverige HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "10809 V 25000 - 3/4",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Marseille"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Marseille"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Paris St Germain   vs   Marseille"
         },
@@ -7435,6 +8153,22 @@
             "sat": "Astra 1L 19.2\u00b0e",
             "freq": "11186 V 22000 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Benfica   vs   Alverca"
+        },
+        {
+            "channel": "SportKlub 2 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Benfica   vs   Alverca"
+        },
+        {
+            "channel": "SportKlub 2 Slovenija",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11387 H 32000 - 3/4",
+            "encry": "MPEG-4 NDS",
             "link": "#",
             "related_to": "     Benfica   vs   Alverca"
         },
