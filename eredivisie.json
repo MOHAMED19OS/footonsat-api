@@ -1,42 +1,6 @@
 {
     "footonsat": [
         {
-            "compet": "Dutch Eerste Divisie (2nd) - Week 22",
-            "match": "     Emmen   vs   Cambuur-Leeuwarden",
-            "flags": {
-                "team1": "holland",
-                "team2": "holland"
-            },
-            "time": "19:00",
-            "date": "2026-02-09"
-        },
-        {
-            "channel": "ESPN 1 Nederland HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "11739 V 29900 - 3/4",
-            "encry": "HD Mediaguard",
-            "link": "#",
-            "related_to": "     Emmen   vs   Cambuur-Leeuwarden"
-        },
-        {
-            "compet": "Dutch Eerste Divisie (2nd) - Week 22",
-            "match": "     PSV Youths   vs   FC Oss",
-            "flags": {
-                "team1": "holland",
-                "team2": "holland"
-            },
-            "time": "19:00",
-            "date": "2026-02-09"
-        },
-        {
-            "channel": "ESPN 1 Nederland HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "11739 V 29900 - 3/4",
-            "encry": "HD Mediaguard",
-            "link": "#",
-            "related_to": "     PSV Youths   vs   FC Oss"
-        },
-        {
             "compet": "Dutch Eredivisie - Week 20",
             "match": "     Go Ahead Eagles   vs   Heerenveen",
             "flags": {
@@ -131,6 +95,32 @@
             "related_to": "     Volendam   vs   PSV Eindhoven"
         },
         {
+            "channel": "Thriller TV+ [online] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.trillertv.com/join/trillertv-subscription/",
+            "related_to": "     Volendam   vs   PSV Eindhoven"
+        },
+        {
+            "compet": "Dutch Eredivisie - Week 23",
+            "match": "     Excelsior   vs   AZ Alkmaar",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "17:45",
+            "date": "2026-02-14"
+        },
+        {
+            "channel": "Thriller TV+ [online] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.trillertv.com/join/trillertv-subscription/",
+            "related_to": "     Excelsior   vs   AZ Alkmaar"
+        },
+        {
             "compet": "Dutch Eredivisie - Week 23",
             "match": "     Ajax   vs   Fortuna Sittard",
             "flags": {
@@ -146,6 +136,14 @@
             "freq": "12600 V 30000 - 5/6",
             "encry": "HD VideoGuard",
             "link": "#",
+            "related_to": "     Ajax   vs   Fortuna Sittard"
+        },
+        {
+            "channel": "Thriller TV+ [online] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.trillertv.com/join/trillertv-subscription/",
             "related_to": "     Ajax   vs   Fortuna Sittard"
         },
         {
@@ -188,6 +186,14 @@
             "freq": "12600 V 30000 - 5/6",
             "encry": "HD VideoGuard",
             "link": "#",
+            "related_to": "     Feyenoord   vs   Go Ahead Eagles"
+        },
+        {
+            "channel": "Thriller TV+ [online] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.trillertv.com/join/trillertv-subscription/",
             "related_to": "     Feyenoord   vs   Go Ahead Eagles"
         },
         {
