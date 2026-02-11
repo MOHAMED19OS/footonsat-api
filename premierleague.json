@@ -551,6 +551,14 @@
             "related_to": "     Manchester City   vs   Fulham"
         },
         {
+            "channel": "Idman TV HD",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11175 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Manchester City   vs   Fulham"
+        },
+        {
             "channel": "IRIB Varzesh HD",
             "sat": "Intelsat 39 62.0\u00b0e",
             "freq": "11555 V 30000 - 2/3",
@@ -635,6 +643,14 @@
             "sat": "NSS 12 57.0\u00b0e",
             "freq": "4095 R 30000 - 3/4",
             "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     Manchester City   vs   Fulham"
+        },
+        {
+            "channel": "Sport TV Azerbaijan (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Manchester City   vs   Fulham"
         },
@@ -911,6 +927,14 @@
             "sat": "Measat 3a 91.4\u00b0e",
             "freq": "11775 V 30000 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Liverpool"
+        },
+        {
+            "channel": "AzTV HD (azerbaijan)",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11175 H 27500 - 5/6",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Sunderland   vs   Liverpool"
         },
@@ -4375,7 +4399,7 @@
                 "team1": "england",
                 "team2": "england"
             },
-            "time": "14:00",
+            "time": "15:00",
             "date": "2026-05-02"
         },
         {
