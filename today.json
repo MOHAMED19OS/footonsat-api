@@ -153,6 +153,14 @@
             "date": "2026-02-15"
         },
         {
+            "channel": "Arena Sport 1 Slovakia HD",
+            "sat": "Belintersat 1 51.5\u00b0e",
+            "freq": "11290 H 45000 - 8/9",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Feyenoord   vs   Go Ahead Eagles"
+        },
+        {
             "channel": "Premier Sports 1 Ireland HD",
             "sat": "Astra 2F 28.2\u00b0e",
             "freq": "12188 H 27500 - 2/3",
@@ -201,6 +209,22 @@
             "related_to": "     Feyenoord   vs   Go Ahead Eagles"
         },
         {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Feyenoord   vs   Go Ahead Eagles"
+        },
+        {
+            "channel": "SuperSport 3 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Feyenoord   vs   Go Ahead Eagles"
+        },
+        {
             "channel": "Thriller TV+ [online] ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -240,6 +264,22 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.ekstraklasa.tv/ekstraklasa/",
+            "related_to": "     Motor Lublin   vs   Lechia Gdansk"
+        },
+        {
+            "channel": "Sport 2 Baltic",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Motor Lublin   vs   Lechia Gdansk"
+        },
+        {
+            "channel": "Sport 2 Ukraine",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
             "related_to": "     Motor Lublin   vs   Lechia Gdansk"
         },
         {
@@ -420,6 +460,14 @@
             "channel": "Sky UK Ultra HD 1",
             "sat": "Astra 2F 28.2\u00b0e",
             "freq": "12246 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Liverpool"
+        },
+        {
+            "channel": "Sportdigital 1+ Deutsch HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11186 V 22000 - 2/3",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Chelsea   vs   Liverpool"
@@ -1433,6 +1481,22 @@
             "related_to": "     Thun   vs   Sion"
         },
         {
+            "channel": "Sport 1 Baltic",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Thun   vs   Sion"
+        },
+        {
+            "channel": "SuperSport 4 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Thun   vs   Sion"
+        },
+        {
             "compet": "English FA Cup - 4th Round Proper",
             "match": "     Grimsby Town   vs   Wolves",
             "flags": {
@@ -1751,6 +1815,14 @@
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12360 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Kilmarnock   vs   Celtic"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Kilmarnock   vs   Celtic"
         },
@@ -2579,6 +2651,14 @@
             "related_to": "     Brighton H.A.   vs   Arsenal"
         },
         {
+            "channel": "Sportdigital 1+ Deutsch HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Brighton H.A.   vs   Arsenal"
+        },
+        {
             "channel": "W-Sport HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -2743,6 +2823,32 @@
             "encry": "",
             "link": "hhttps://montrose.watch.pixellot.tv/",
             "related_to": "     Montrose   vs   Dundee United"
+        },
+        {
+            "compet": "Danish Superliga - Week 20",
+            "match": "     OB Odense   vs   Midtjylland",
+            "flags": {
+                "team1": "denmark",
+                "team2": "denmark"
+            },
+            "time": "15:00",
+            "date": "2026-02-15"
+        },
+        {
+            "channel": "Sport 1 Baltic",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     OB Odense   vs   Midtjylland"
+        },
+        {
+            "channel": "Sport 1 Ukraine",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     OB Odense   vs   Midtjylland"
         },
         {
             "compet": "Spanish La Liga (Primera) - Week 24",
@@ -2989,6 +3095,14 @@
             "related_to": "     Nacional Madeira   vs   FC Porto"
         },
         {
+            "channel": "Sportdigital FUSSBALL 2",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Nacional Madeira   vs   FC Porto"
+        },
+        {
             "compet": "German 3. Liga - Week 24",
             "match": "     SSV Ulm   vs   Alemannia Aachen",
             "flags": {
@@ -3044,6 +3158,22 @@
             "channel": "Blue Sport D 1 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Basel   vs   Lugano"
+        },
+        {
+            "channel": "Sport 2 Baltic",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Basel   vs   Lugano"
+        },
+        {
+            "channel": "Sport 2 Ukraine",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
             "encry": "",
             "link": "#",
             "related_to": "     Basel   vs   Lugano"
@@ -3117,6 +3247,14 @@
             },
             "time": "16:00",
             "date": "2026-02-15"
+        },
+        {
+            "channel": "Arena Sport 2 Slovakia HD",
+            "sat": "Belintersat 1 51.5\u00b0e",
+            "freq": "11230 H 45000 - 8/9",
+            "encry": "HD Panaccess",
+            "link": "#",
+            "related_to": "     Austria Vienna   vs   Rapid Vienna"
         },
         {
             "channel": "OneFootball [app] ($/geo/R)",
@@ -3477,6 +3615,22 @@
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12360 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Rangers   vs   Hearts"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Rangers   vs   Hearts"
+        },
+        {
+            "channel": "SuperSport 3 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Rangers   vs   Hearts"
         },
@@ -5189,6 +5343,14 @@
             "date": "2026-02-15"
         },
         {
+            "channel": "Arena Sport 1 Slovakia HD",
+            "sat": "Belintersat 1 51.5\u00b0e",
+            "freq": "11290 H 45000 - 8/9",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Sporting Lisbon   vs   Famalic\u00e3o"
+        },
+        {
             "channel": "Bold+ Dansk ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -5253,6 +5415,14 @@
             "related_to": "     Sporting Lisbon   vs   Famalic\u00e3o"
         },
         {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Sporting Lisbon   vs   Famalic\u00e3o"
+        },
+        {
             "channel": "Tivibu Spor 2 HD",
             "sat": "Turksat 4A 42.0\u00b0e",
             "freq": "11853 H 25000 - 3/4",
@@ -5307,6 +5477,14 @@
             "sat": "Amos 7 4.0\u00b0w",
             "freq": "11030 V 27500 - 3/4",
             "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Boca Juniors   vs   Platense"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Boca Juniors   vs   Platense"
         }
