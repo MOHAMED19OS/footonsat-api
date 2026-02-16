@@ -1,40 +1,6 @@
 {
     "footonsat": [
         {
-            "compet": "NBA Regular Season",
-            "match": "       - ALL STAR GAME -       ",
-            "flags": {
-                "team1": "asonba",
-                "team2": "asonba"
-            },
-            "time": "22:00",
-            "date": "2026-02-15"
-        },
-        {
-            "channel": "Diema Sport 2 HD",
-            "sat": "Hellas Sat 3 39.0\u00b0e",
-            "freq": "12137 V 30000 - 5/6",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "       - ALL STAR GAME -       "
-        },
-        {
-            "channel": "NBC USA HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "       - ALL STAR GAME -       "
-        },
-        {
-            "channel": "Peacock Premium USA ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "       - ALL STAR GAME -       "
-        },
-        {
             "compet": "NBA Regular Season - All Star Championship",
             "match": "       - ALL STAR GAME -       ",
             "flags": {
@@ -767,6 +733,14 @@
             "date": "2026-02-24"
         },
         {
+            "channel": "beIN Sports France 1 HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Detroit Pistons   vs   San Antonio Spurs"
+        },
+        {
             "channel": "NBA League Pass ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -801,6 +775,14 @@
             },
             "time": "02:30",
             "date": "2026-02-24"
+        },
+        {
+            "channel": "beIN Sports France 1 HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Houston Rockets   vs   Utah Jazz"
         },
         {
             "channel": "NBA League Pass ($/geo/R)",
