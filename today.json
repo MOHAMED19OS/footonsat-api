@@ -1,6 +1,42 @@
 {
     "footonsat": [
         {
+            "compet": "Argentinean Primera Divisi\u00f3n - Week 5",
+            "match": "     Instituto C\u00f3rdoba   vs   Central C\u00f3rdoba",
+            "flags": {
+                "team1": "argentina",
+                "team2": "argentina"
+            },
+            "time": "01:00",
+            "date": "2026-02-16"
+        },
+        {
+            "channel": "Fanatiz EU ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.fanatiz.com/",
+            "related_to": "     Instituto C\u00f3rdoba   vs   Central C\u00f3rdoba"
+        },
+        {
+            "compet": "Argentinean Primera Divisi\u00f3n - Week 5",
+            "match": "     Rosario Central   vs   Barracas Central",
+            "flags": {
+                "team1": "argentina",
+                "team2": "argentina"
+            },
+            "time": "01:00",
+            "date": "2026-02-16"
+        },
+        {
+            "channel": "Fanatiz EU ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.fanatiz.com/",
+            "related_to": "     Rosario Central   vs   Barracas Central"
+        },
+        {
             "compet": "Bulgarian First League - Week 21",
             "match": "     Septemvri Sofia   vs   Montana",
             "flags": {
@@ -27,6 +63,14 @@
             },
             "time": "15:00",
             "date": "2026-02-16"
+        },
+        {
+            "channel": "Arena Sport 2 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11554 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Hermannstadt   vs   CFR Cluj"
         },
         {
             "channel": "Digi Sport 1 Romania HD",
@@ -243,6 +287,24 @@
             "related_to": "     Al Ahli   vs   Shabab Al Ahli"
         },
         {
+            "compet": "Serbian Super League - Week 23",
+            "match": "     IMT Novi Belgrade   vs   Javor Ivanjica",
+            "flags": {
+                "team1": "serbia",
+                "team2": "serbia"
+            },
+            "time": "16:00",
+            "date": "2026-02-16"
+        },
+        {
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     IMT Novi Belgrade   vs   Javor Ivanjica"
+        },
+        {
             "compet": "T\u00fcrkiye S\u00fcper Lig - Week 22",
             "match": "     Kasimpasa   vs   Fatih Karag\u00fcmr\u00fck",
             "flags": {
@@ -327,6 +389,24 @@
             "related_to": "     Hapoel Kfar Saba   vs   Maccabi Herzliya"
         },
         {
+            "compet": "Bosnia-Herzegovina Premier Liga - Week 21",
+            "match": "     Zeljeznicar   vs   Rudar Prijedor",
+            "flags": {
+                "team1": "bosnia",
+                "team2": "bosnia"
+            },
+            "time": "17:00",
+            "date": "2026-02-16"
+        },
+        {
+            "channel": "Arena Sport 8 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Zeljeznicar   vs   Rudar Prijedor"
+        },
+        {
             "compet": "Romanian Superliga - Week 27",
             "match": "     Dinamo Bucharest   vs   Unirea Slobozia",
             "flags": {
@@ -335,6 +415,14 @@
             },
             "time": "18:00",
             "date": "2026-02-16"
+        },
+        {
+            "channel": "Arena Sport 2 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11554 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Dinamo Bucharest   vs   Unirea Slobozia"
         },
         {
             "channel": "Digi Sport 1 Romania HD",
@@ -361,6 +449,14 @@
             },
             "time": "18:00",
             "date": "2026-02-16"
+        },
+        {
+            "channel": "Arena Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11678 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Termalica Nieciecza   vs   G\u00f3rnik Zabrze"
         },
         {
             "channel": "Canal+ Sport 3 Polska HD",
@@ -605,6 +701,22 @@
             "date": "2026-02-16"
         },
         {
+            "channel": "Arena Premium 4 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Macclesfield FC   vs   Brentford"
+        },
+        {
+            "channel": "Arena Sport 3 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11512 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Macclesfield FC   vs   Brentford"
+        },
+        {
             "channel": "Astro Football HD",
             "sat": "Measat 3b 91.5\u00b0e",
             "freq": "10932 V 30000 - 5/6",
@@ -759,10 +871,34 @@
             "date": "2026-02-16"
         },
         {
+            "channel": "Arena Sport 2 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11798 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Real Sociedad II   vs   M\u00e1laga"
+        },
+        {
+            "channel": "Arena Sport 6 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11554 V 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Real Sociedad II   vs   M\u00e1laga"
+        },
+        {
             "channel": "beIN Sports France 6 HD max",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "11856 V 29700 - 2/3",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Real Sociedad II   vs   M\u00e1laga"
+        },
+        {
+            "channel": "DAZN Espa\u00f1a ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Real Sociedad II   vs   M\u00e1laga"
         },
@@ -827,10 +963,74 @@
             "date": "2026-02-16"
         },
         {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12480 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Cagliari   vs   Lecce"
+        },
+        {
+            "channel": "Arena Sport 4 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11554 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Cagliari   vs   Lecce"
+        },
+        {
             "channel": "Astro Arena Bola HD",
             "sat": "Measat 3b 91.5\u00b0e",
             "freq": "10772 V 30000 - 5/6",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Cagliari   vs   Lecce"
+        },
+        {
+            "channel": "CBS Sports Golazo N/W (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "FTA",
+            "link": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
+            "related_to": "     Cagliari   vs   Lecce"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Cagliari   vs   Lecce"
+        },
+        {
+            "channel": "DAZN Canada ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Cagliari   vs   Lecce"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Cagliari   vs   Lecce"
+        },
+        {
+            "channel": "DAZN Espa\u00f1a ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Cagliari   vs   Lecce"
+        },
+        {
+            "channel": "DAZN France ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Cagliari   vs   Lecce"
         },
@@ -855,6 +1055,54 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Cagliari   vs   Lecce"
+        },
+        {
+            "channel": "DAZN Japan ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Cagliari   vs   Lecce"
+        },
+        {
+            "channel": "DAZN USA en Espa\u00f1ol ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Cagliari   vs   Lecce"
+        },
+        {
+            "channel": "FuboTV Canada ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Cagliari   vs   Lecce"
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "     Cagliari   vs   Lecce"
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Cagliari   vs   Lecce"
+        },
+        {
+            "channel": "Prime Video USA [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Cagliari   vs   Lecce"
         },
@@ -891,11 +1139,51 @@
             "related_to": "     Cagliari   vs   Lecce"
         },
         {
+            "channel": "Starzplay Sports HD [app]",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Cagliari   vs   Lecce"
+        },
+        {
             "channel": "Tivibu Spor 1 HD",
             "sat": "Turksat 4A 42.0\u00b0e",
             "freq": "11880 H 20000 - 3/4",
             "encry": "HD Irdeto",
             "link": "#",
+            "related_to": "     Cagliari   vs   Lecce"
+        },
+        {
+            "channel": "Tring Sport 1 HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Cagliari   vs   Lecce"
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "     Cagliari   vs   Lecce"
+        },
+        {
+            "channel": "TV4 Play Sverige [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "     Cagliari   vs   Lecce"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
             "related_to": "     Cagliari   vs   Lecce"
         },
         {
@@ -907,6 +1195,22 @@
             },
             "time": "20:00",
             "date": "2026-02-16"
+        },
+        {
+            "channel": "Arena Premium 3 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12422 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Coventry City   vs   Middlesbrough"
+        },
+        {
+            "channel": "Arena Sport 2 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11554 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Coventry City   vs   Middlesbrough"
         },
         {
             "channel": "beIN Sports France 7 HD max",
@@ -1095,6 +1399,22 @@
             "date": "2026-02-16"
         },
         {
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Girona   vs   Barcelona"
+        },
+        {
+            "channel": "Arena Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11678 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Girona   vs   Barcelona"
+        },
+        {
             "channel": "Azam Sports 4 HD",
             "sat": "Eutelsat 7C 7.0\u00b0e",
             "freq": "10981 V 45000 - 5/6",
@@ -1151,6 +1471,14 @@
             "related_to": "     Girona   vs   Barcelona"
         },
         {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Girona   vs   Barcelona"
+        },
+        {
             "channel": "DAZN Deutsch ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1160,6 +1488,14 @@
         },
         {
             "channel": "DAZN Italia ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Girona   vs   Barcelona"
+        },
+        {
+            "channel": "DAZN Japan ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
@@ -1227,6 +1563,14 @@
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "10876 V 22000 - 5/6",
             "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Girona   vs   Barcelona"
+        },
+        {
+            "channel": "LaLiga TV UK [stream] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Girona   vs   Barcelona"
         },
@@ -1327,6 +1671,14 @@
             "related_to": "     Girona   vs   Barcelona"
         },
         {
+            "channel": "TV4 Play Sverige [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "     Girona   vs   Barcelona"
+        },
+        {
             "channel": "ViaPlay Norge HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1359,6 +1711,24 @@
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Rio Ave   vs   Moreirense"
+        },
+        {
+            "compet": "Argentinean Primera Divisi\u00f3n - Week 5",
+            "match": "     Deportivo Riestra   vs   Newell's Old Boys",
+            "flags": {
+                "team1": "argentina",
+                "team2": "argentina"
+            },
+            "time": "22:00",
+            "date": "2026-02-16"
+        },
+        {
+            "channel": "Fanatiz EU ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.fanatiz.com/",
+            "related_to": "     Deportivo Riestra   vs   Newell's Old Boys"
         }
     ]
 }
