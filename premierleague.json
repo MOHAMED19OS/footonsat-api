@@ -4258,32 +4258,6 @@
         },
         {
             "compet": "English Premier League - Week 30",
-            "match": "     Nottingham Forest   vs   Fulham",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "15:00",
-            "date": "2026-03-14"
-        },
-        {
-            "channel": "Sky Go UK [online]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Nottingham Forest   vs   Fulham"
-        },
-        {
-            "channel": "Sky Sports HD",
-            "sat": "Astra 2E 28.2\u00b0e",
-            "freq": "11856 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Nottingham Forest   vs   Fulham"
-        },
-        {
-            "compet": "English Premier League - Week 30",
             "match": "     Chelsea   vs   Newcastle United",
             "flags": {
                 "team1": "england",
@@ -4407,6 +4381,32 @@
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Manchester United   vs   Aston Villa"
+        },
+        {
+            "compet": "English Premier League - Week 30",
+            "match": "     Nottingham Forest   vs   Fulham",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "14:00",
+            "date": "2026-03-15"
+        },
+        {
+            "channel": "Sky Go UK [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Nottingham Forest   vs   Fulham"
+        },
+        {
+            "channel": "Sky Sports HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11856 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Nottingham Forest   vs   Fulham"
         },
         {
             "compet": "English Premier League - Week 30",
@@ -4833,7 +4833,7 @@
                 "team1": "england",
                 "team2": "england"
             },
-            "time": "14:00",
+            "time": "15:00",
             "date": "2026-05-02"
         },
         {
