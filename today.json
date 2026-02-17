@@ -3261,6 +3261,14 @@
             "related_to": "     Benfica   vs   Real Madrid"
         },
         {
+            "channel": "Cosmote Sport 4K UHD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Benfica   vs   Real Madrid"
+        },
+        {
             "channel": "Cytavision Sports 3 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -3631,13 +3639,39 @@
             "related_to": "     Reading   vs   Bolton Wanderers"
         },
         {
+            "compet": "Scottish League 1 - Week 20",
+            "match": "     Hamilton Academical   vs   East Fife",
+            "flags": {
+                "team1": "scotland",
+                "team2": "scotland"
+            },
+            "time": "20:00",
+            "date": "2026-02-17"
+        },
+        {
+            "channel": "Accies FC TV [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.hamiltonacciesfc.co.uk/",
+            "related_to": "     Hamilton Academical   vs   East Fife"
+        },
+        {
+            "channel": "East Fife TV [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://eftv.info/",
+            "related_to": "     Hamilton Academical   vs   East Fife"
+        },
+        {
             "compet": "UEFA Champions League - Knockout Phase (1st Leg)",
             "match": "     Borussia Dortmund   vs   Atalanta",
             "flags": {
                 "team1": "germany",
                 "team2": "italy"
             },
-            "time": "20:00",
+            "time": "20:15",
             "date": "2026-02-17"
         },
         {
@@ -3983,32 +4017,6 @@
             "encry": "",
             "link": "#",
             "related_to": "     Borussia Dortmund   vs   Atalanta"
-        },
-        {
-            "compet": "Scottish League 1 - Week 20",
-            "match": "     Hamilton Academical   vs   East Fife",
-            "flags": {
-                "team1": "scotland",
-                "team2": "scotland"
-            },
-            "time": "20:00",
-            "date": "2026-02-17"
-        },
-        {
-            "channel": "Accies FC TV [$]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://tv.hamiltonacciesfc.co.uk/",
-            "related_to": "     Hamilton Academical   vs   East Fife"
-        },
-        {
-            "channel": "East Fife TV [$]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://eftv.info/",
-            "related_to": "     Hamilton Academical   vs   East Fife"
         },
         {
             "compet": "CONMEBOL Copa Libertadores - 1st Leg Qualification",
