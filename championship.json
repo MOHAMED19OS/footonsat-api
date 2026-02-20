@@ -67,6 +67,14 @@
             "related_to": "     Blackburn Rovers   vs   Preston N.E."
         },
         {
+            "channel": "CBS Sports Golazo N/W (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "FTA",
+            "link": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
+            "related_to": "     Blackburn Rovers   vs   Preston N.E."
+        },
+        {
             "channel": "Cosmote Sport 3 HD",
             "sat": "Eutelsat 9B 9.0\u00b0e",
             "freq": "11843 V 27500 - 3/5",
@@ -80,6 +88,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.exxen.com/en",
+            "related_to": "     Blackburn Rovers   vs   Preston N.E."
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
             "related_to": "     Blackburn Rovers   vs   Preston N.E."
         },
         {
@@ -119,6 +135,14 @@
             "sat": "Astra 2F 28.2\u00b0e",
             "freq": "12246 V 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Blackburn Rovers   vs   Preston N.E."
+        },
+        {
+            "channel": "SuperSport 4 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Blackburn Rovers   vs   Preston N.E."
         },
@@ -242,6 +266,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.exxen.com/en",
+            "related_to": "     West Bromwich Albion   vs   Coventry City"
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
             "related_to": "     West Bromwich Albion   vs   Coventry City"
         },
         {
@@ -399,6 +431,14 @@
             },
             "time": "12:30",
             "date": "2026-02-21"
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Stoke City   vs   Leicester City"
         },
         {
             "channel": "Sky Sports+ [via APP]",
@@ -574,6 +614,42 @@
         },
         {
             "compet": "English Championship - Week 33",
+            "match": "     Middlesbrough   vs   Oxford United",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "15:00",
+            "date": "2026-02-21"
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Middlesbrough   vs   Oxford United"
+        },
+        {
+            "compet": "English Championship - Week 33",
+            "match": "     Wrexham   vs   Ipswich Town",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "15:00",
+            "date": "2026-02-21"
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Wrexham   vs   Ipswich Town"
+        },
+        {
+            "compet": "English Championship - Week 33",
             "match": "     Sheffield United   vs   Sheffield Wednesday",
             "flags": {
                 "team1": "england",
@@ -644,6 +720,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.exxen.com/en",
+            "related_to": "     Sheffield United   vs   Sheffield Wednesday"
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
             "related_to": "     Sheffield United   vs   Sheffield Wednesday"
         },
         {
