@@ -1818,24 +1818,6 @@
         },
         {
             "compet": "English Championship - Week 37",
-            "match": "     Norwich City   vs   Sheffield United",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "19:45",
-            "date": "2026-03-10"
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Norwich City   vs   Sheffield United"
-        },
-        {
-            "compet": "English Championship - Week 37",
             "match": "     Wrexham   vs   Hull City",
             "flags": {
                 "team1": "england",
@@ -1931,6 +1913,24 @@
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Stoke City   vs   Ipswich Town"
+        },
+        {
+            "compet": "English Championship - Week 37",
+            "match": "     Norwich City   vs   Sheffield United",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:45",
+            "date": "2026-03-11"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Norwich City   vs   Sheffield United"
         },
         {
             "compet": "English Championship - Week 37",
@@ -2194,13 +2194,13 @@
         },
         {
             "compet": "English Championship - Week 39",
-            "match": "     Swansea City   vs   Coventry City",
+            "match": "     Preston N.E.   vs   Stoke City",
             "flags": {
                 "team1": "england",
                 "team2": "england"
             },
-            "time": "15:00",
-            "date": "2026-03-21"
+            "time": "20:00",
+            "date": "2026-03-20"
         },
         {
             "channel": "Sky Go UK [online]",
@@ -2208,7 +2208,7 @@
             "freq": "0000 0",
             "encry": "LiveOnSat.com",
             "link": "#",
-            "related_to": "     Swansea City   vs   Coventry City"
+            "related_to": "     Preston N.E.   vs   Stoke City"
         },
         {
             "channel": "Sky Sports Football HD",
@@ -2216,7 +2216,7 @@
             "freq": "12012 V 27500 - 2/3",
             "encry": "HD VideoGuard",
             "link": "#",
-            "related_to": "     Swansea City   vs   Coventry City"
+            "related_to": "     Preston N.E.   vs   Stoke City"
         },
         {
             "compet": "English Championship - Week 39",
@@ -2225,7 +2225,7 @@
                 "team1": "england",
                 "team2": "england"
             },
-            "time": "15:00",
+            "time": "12:30",
             "date": "2026-03-21"
         },
         {
@@ -2262,38 +2262,12 @@
         },
         {
             "compet": "English Championship - Week 39",
-            "match": "     Preston N.E.   vs   Stoke City",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "15:00",
-            "date": "2026-03-21"
-        },
-        {
-            "channel": "Sky Go UK [online]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Preston N.E.   vs   Stoke City"
-        },
-        {
-            "channel": "Sky Sports Football HD",
-            "sat": "Astra 2E 28.2\u00b0e",
-            "freq": "12012 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Preston N.E.   vs   Stoke City"
-        },
-        {
-            "compet": "English Championship - Week 39",
             "match": "     Derby County   vs   Birmingham City",
             "flags": {
                 "team1": "england",
                 "team2": "england"
             },
-            "time": "15:00",
+            "time": "12:30",
             "date": "2026-03-21"
         },
         {
@@ -2311,7 +2285,7 @@
                 "team1": "england",
                 "team2": "england"
             },
-            "time": "15:00",
+            "time": "12:30",
             "date": "2026-03-21"
         },
         {
@@ -2321,6 +2295,32 @@
             "encry": "",
             "link": "#",
             "related_to": "     Blackburn Rovers   vs   Middlesbrough"
+        },
+        {
+            "compet": "English Championship - Week 39",
+            "match": "     Swansea City   vs   Coventry City",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "17:15",
+            "date": "2026-03-21"
+        },
+        {
+            "channel": "Sky Go UK [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Swansea City   vs   Coventry City"
+        },
+        {
+            "channel": "Sky Sports Football HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "12012 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Swansea City   vs   Coventry City"
         }
     ]
 }

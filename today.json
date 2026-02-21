@@ -167,6 +167,14 @@
             "related_to": "     Melbourne City   vs   Melbourne Victory"
         },
         {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Melbourne City   vs   Melbourne Victory"
+        },
+        {
             "channel": "TNT Sports 1 HD",
             "sat": "NSS 12 57.0\u00b0e",
             "freq": "3798 R 19167 - 3/5",
@@ -3817,40 +3825,6 @@
             "related_to": "     Ayr United   vs   Ross County"
         },
         {
-            "compet": "French National 1 - Week 22",
-            "match": "     Stade Briochin   vs   Ch\u00e2teauroux",
-            "flags": {
-                "team1": "france",
-                "team2": "france"
-            },
-            "time": "15:00",
-            "date": "2026-02-21"
-        },
-        {
-            "channel": "FFFtv National",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "FTA",
-            "link": "https://ffftv.fff.fr/",
-            "related_to": "     Stade Briochin   vs   Ch\u00e2teauroux"
-        },
-        {
-            "channel": "FIFA+ [app] (geo/R)",
-            "sat": "Download APP 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "-",
-            "link": "https://www.fifa.com/fifaplus/en/live",
-            "related_to": "     Stade Briochin   vs   Ch\u00e2teauroux"
-        },
-        {
-            "channel": "YouTube: National FFF",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "FTA",
-            "link": "https://www.youtube.com/@Championnat_National_Officiel/streams",
-            "related_to": "     Stade Briochin   vs   Ch\u00e2teauroux"
-        },
-        {
             "compet": "Scottish League 1 - Week 26",
             "match": "     Alloa Athletic   vs   Hamilton Academical",
             "flags": {
@@ -5421,6 +5395,184 @@
             "related_to": "     West Ham United   vs   Bournemouth"
         },
         {
+            "compet": "German 1. Bundesliga - Week 23",
+            "match": "     RB Leipzig   vs   Borussia Dortmund",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "17:30",
+            "date": "2026-02-21"
+        },
+        {
+            "channel": "Arena Sport 2 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11798 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Borussia Dortmund"
+        },
+        {
+            "channel": "beIN Sports France 5 HD max",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Borussia Dortmund"
+        },
+        {
+            "channel": "CRTV Sports Cameroon",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12610 H 12500 - 3/4",
+            "encry": "HEVC SD Nagravision",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Borussia Dortmund"
+        },
+        {
+            "channel": "Nova Sports Prime Cyprus HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Borussia Dortmund"
+        },
+        {
+            "channel": "Nova Sports Prime Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Borussia Dortmund"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     RB Leipzig   vs   Borussia Dortmund"
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Borussia Dortmund"
+        },
+        {
+            "channel": "Sky Go UK [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Borussia Dortmund"
+        },
+        {
+            "channel": "Sky Sport Bundesliga 1 HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "11914 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Borussia Dortmund"
+        },
+        {
+            "channel": "Sky Sport Bundesliga HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12304 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Borussia Dortmund"
+        },
+        {
+            "channel": "Sky Sport Bundesliga UHD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11798 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Borussia Dortmund"
+        },
+        {
+            "channel": "Sky Sport Top Event HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "11914 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Borussia Dortmund"
+        },
+        {
+            "channel": "Sky Sports Football HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "12012 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Borussia Dortmund"
+        },
+        {
+            "channel": "Sport 1 Israel HD",
+            "sat": "Amos 7 4.0\u00b0w",
+            "freq": "11474 V 27500 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Borussia Dortmund"
+        },
+        {
+            "channel": "Tivibu Spor 2 HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11853 H 25000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Borussia Dortmund"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Borussia Dortmund"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Borussia Dortmund"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Borussia Dortmund"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Borussia Dortmund"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Borussia Dortmund"
+        },
+        {
+            "channel": "ViaPlay \u00cdsland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Borussia Dortmund"
+        },
+        {
             "compet": "Spanish La Liga (Primera) - Week 25",
             "match": "     Osasuna   vs   Real Madrid",
             "flags": {
@@ -5687,184 +5839,6 @@
             "related_to": "     Osasuna   vs   Real Madrid"
         },
         {
-            "compet": "German 1. Bundesliga - Week 23",
-            "match": "     RB Leipzig   vs   Borussia Dortmund",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "17:30",
-            "date": "2026-02-21"
-        },
-        {
-            "channel": "Arena Sport 2 Srbija HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11798 H 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Borussia Dortmund"
-        },
-        {
-            "channel": "beIN Sports France 5 HD max",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11856 V 29700 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Borussia Dortmund"
-        },
-        {
-            "channel": "CRTV Sports Cameroon",
-            "sat": "AzerSpace 2 45.0\u00b0e",
-            "freq": "12610 H 12500 - 3/4",
-            "encry": "HEVC SD Nagravision",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Borussia Dortmund"
-        },
-        {
-            "channel": "Nova Sports Prime Cyprus HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "12130 H 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Borussia Dortmund"
-        },
-        {
-            "channel": "Nova Sports Prime Hellas HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "12130 H 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Borussia Dortmund"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     RB Leipzig   vs   Borussia Dortmund"
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Borussia Dortmund"
-        },
-        {
-            "channel": "Sky Go UK [online]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Borussia Dortmund"
-        },
-        {
-            "channel": "Sky Sport Bundesliga 1 HD",
-            "sat": "Astra 1N 19.2\u00b0e",
-            "freq": "11914 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Borussia Dortmund"
-        },
-        {
-            "channel": "Sky Sport Bundesliga HD",
-            "sat": "Astra 1N 19.2\u00b0e",
-            "freq": "12304 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Borussia Dortmund"
-        },
-        {
-            "channel": "Sky Sport Bundesliga UHD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11798 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Borussia Dortmund"
-        },
-        {
-            "channel": "Sky Sport Top Event HD",
-            "sat": "Astra 1N 19.2\u00b0e",
-            "freq": "11914 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Borussia Dortmund"
-        },
-        {
-            "channel": "Sky Sports Football HD",
-            "sat": "Astra 2E 28.2\u00b0e",
-            "freq": "12012 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Borussia Dortmund"
-        },
-        {
-            "channel": "Sport 1 Israel HD",
-            "sat": "Amos 7 4.0\u00b0w",
-            "freq": "11474 V 27500 - 3/4",
-            "encry": "VideoGuard",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Borussia Dortmund"
-        },
-        {
-            "channel": "Tivibu Spor 2 HD",
-            "sat": "Turksat 4A 42.0\u00b0e",
-            "freq": "11853 H 25000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Borussia Dortmund"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Borussia Dortmund"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Borussia Dortmund"
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Borussia Dortmund"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Borussia Dortmund"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Borussia Dortmund"
-        },
-        {
-            "channel": "ViaPlay \u00cdsland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Borussia Dortmund"
-        },
-        {
             "compet": "English National League 1 - Week 34",
             "match": "     Truro City   vs   Gateshead",
             "flags": {
@@ -6017,6 +5991,14 @@
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "11804 V 29700 - 3/4",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     PSV Eindhoven   vs   Heerenveen"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     PSV Eindhoven   vs   Heerenveen"
         },
@@ -6241,6 +6223,14 @@
             "sat": "Eutelsat 9B 9.0\u00b0e",
             "freq": "11843 V 27500 - 3/5",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Benfica   vs   AVS Futebol"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL 2",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Benfica   vs   AVS Futebol"
         },
@@ -7401,6 +7391,14 @@
             "related_to": "     Ajax   vs   NEC Nijmegen"
         },
         {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Ajax   vs   NEC Nijmegen"
+        },
+        {
             "compet": "Spanish La Liga (Primera) - Week 25",
             "match": "     Atl\u00e9tico Madrid   vs   Espanyol",
             "flags": {
@@ -7955,6 +7953,14 @@
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Sporting Braga   vs   Vit\u00f3ria Guimar\u00e3es"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL 2",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Sporting Braga   vs   Vit\u00f3ria Guimar\u00e3es"
         },
