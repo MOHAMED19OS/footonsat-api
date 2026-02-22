@@ -1001,6 +1001,14 @@
             "related_to": "     Paderborn   vs   Hertha Berlin"
         },
         {
+            "channel": "Tring Sport 3 HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Paderborn   vs   Hertha Berlin"
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -3241,6 +3249,14 @@
             "related_to": "     Freiburg   vs   M\u00f6nchengladbach"
         },
         {
+            "channel": "Tring Sport 2 HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Freiburg   vs   M\u00f6nchengladbach"
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -3387,6 +3403,14 @@
             "sat": "Astra 2E 28.2\u00b0e",
             "freq": "12090 V 29500 - 8/9",
             "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Livingston   vs   Rangers"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Livingston   vs   Rangers"
         },
@@ -3952,6 +3976,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": "     AZ Alkmaar   vs   Sparta Rotterdam"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL 2",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
             "related_to": "     AZ Alkmaar   vs   Sparta Rotterdam"
         },
         {
@@ -4739,6 +4771,14 @@
             "sat": "Turksat 4A 42.0\u00b0e",
             "freq": "11880 H 20000 - 3/4",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     St Pauli   vs   Werder Bremen"
+        },
+        {
+            "channel": "Tring Sport 4 HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     St Pauli   vs   Werder Bremen"
         },
@@ -5869,6 +5909,24 @@
             "related_to": "     Zulte Waregem   vs   Anderlecht"
         },
         {
+            "compet": "Czech First League - Week 23",
+            "match": "     Viktoria Plzen   vs   Sparta Prague",
+            "flags": {
+                "team1": "czechia",
+                "team2": "czechia"
+            },
+            "time": "17:30",
+            "date": "2026-02-22"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Viktoria Plzen   vs   Sparta Prague"
+        },
+        {
             "compet": "Portuguese Liga Portugal - Week 23",
             "match": "     Estoril   vs   Gil Vicente",
             "flags": {
@@ -6089,6 +6147,14 @@
             "related_to": "     Heidenheim   vs   Stuttgart"
         },
         {
+            "channel": "Tring Sport 2 HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Heidenheim   vs   Stuttgart"
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -6237,6 +6303,14 @@
             "sat": "Amos 7 4.0\u00b0w",
             "freq": "11030 V 27500 - 3/4",
             "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Feyenoord   vs   Telstar"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL 2",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Feyenoord   vs   Telstar"
         },
@@ -7025,6 +7099,14 @@
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     FC Porto   vs   Rio Ave"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     FC Porto   vs   Rio Ave"
         },
