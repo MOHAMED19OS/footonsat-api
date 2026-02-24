@@ -1917,6 +1917,14 @@
             "related_to": "     Real Madrid   vs   Benfica"
         },
         {
+            "channel": "RTL Club Belgique",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11411 H 27500 - 3/4",
+            "encry": "MPEG-4 Seca",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Benfica"
+        },
+        {
             "channel": "RT\u00c9 2 Ireland HD",
             "sat": "Astra 2E 28.2\u00b0e",
             "freq": "11914 H 27500 - 5/6",
@@ -1970,6 +1978,14 @@
             "freq": "11823 V 27500 - 3/4",
             "encry": "HD VideoGuard",
             "link": "#",
+            "related_to": "     Real Madrid   vs   Benfica"
+        },
+        {
+            "channel": "TV8 Italia HD",
+            "sat": "*DTT 0.0\u00b0-",
+            "freq": "0000 - -",
+            "encry": "HD VideoGuard",
+            "link": "https://tv8.it/streaming.html?zoneid=menu_streaming",
             "related_to": "     Real Madrid   vs   Benfica"
         },
         {
@@ -2209,11 +2225,35 @@
             "related_to": "     Juventus   vs   Galatasaray"
         },
         {
+            "channel": "RSI La 2 Svizzera HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "10971 H 29700 - 2/3",
+            "encry": "HD Panaccess",
+            "link": "https://www.rsi.ch/play/tv/live?tvLiveId=livestream_La2",
+            "related_to": "     Juventus   vs   Galatasaray"
+        },
+        {
+            "channel": "RTS 2 Suisse HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "10971 H 29700 - 2/3",
+            "encry": "HD Panaccess",
+            "link": "https://www.rts.ch/play/tv/direct?tvLiveId=3608517",
+            "related_to": "     Juventus   vs   Galatasaray"
+        },
+        {
             "channel": "Sport TV Azerbaijan (geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "#",
+            "related_to": "     Juventus   vs   Galatasaray"
+        },
+        {
+            "channel": "SRF Zwei Schweiz HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "10971 H 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://www.srf.ch/play/tv/live?tvLiveId=c49c1d64-9f60-0001-1c36-43c288c01a10",
             "related_to": "     Juventus   vs   Galatasaray"
         },
         {
