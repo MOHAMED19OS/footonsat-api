@@ -19,6 +19,14 @@
             "related_to": "     Al Najma   vs   Al Nassr"
         },
         {
+            "channel": "Cosmote Sport 4 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12149 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Najma   vs   Al Nassr"
+        },
+        {
             "channel": "DAZN France ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -55,6 +63,14 @@
             "sat": "Hotbird 13G 13.0\u00b0e",
             "freq": "11117 V 27500 - 3/4",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Al Najma   vs   Al Nassr"
+        },
+        {
+            "channel": "Prima Sport RO 4 HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12606 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Al Najma   vs   Al Nassr"
         },
@@ -115,6 +131,14 @@
             "related_to": "     Al Najma   vs   Al Nassr"
         },
         {
+            "channel": "Sportitalia SoloCalcio HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11179 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://sportitalialive.it/sisolocalcio/",
+            "related_to": "     Al Najma   vs   Al Nassr"
+        },
+        {
             "channel": "SportKlub 6 Hrvatska",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -127,6 +151,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Al Najma   vs   Al Nassr"
+        },
+        {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Al Najma   vs   Al Nassr"
         },
@@ -179,6 +211,14 @@
             "related_to": "     Al Najma   vs   Al Nassr"
         },
         {
+            "channel": "Thmanyah 1 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Najma   vs   Al Nassr"
+        },
+        {
             "compet": "Saudi Pro League - Week 10",
             "match": "     Al Fayha   vs   NEOM SC",
             "flags": {
@@ -187,6 +227,14 @@
             },
             "time": "19:00",
             "date": "2026-02-25"
+        },
+        {
+            "channel": "Thmanyah 2 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Fayha   vs   NEOM SC"
         },
         {
             "channel": "Thmanyah KSA [app]",
