@@ -1093,6 +1093,22 @@
             "related_to": "     Fulham   vs   Tottenham Hotspur"
         },
         {
+            "channel": "Sky Sports+ [via APP]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Fulham   vs   Tottenham Hotspur"
+        },
+        {
+            "channel": "Sky Sports+ TV HD",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12226 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Fulham   vs   Tottenham Hotspur"
+        },
+        {
             "channel": "Sky UK Ultra HD 1",
             "sat": "Astra 2F 28.2\u00b0e",
             "freq": "12246 V 27500 - 2/3",
@@ -1303,6 +1319,14 @@
             "related_to": "     Manchester United   vs   Crystal Palace"
         },
         {
+            "channel": "Sky Sports Premier League HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11934 V 27500 - 5/6",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Manchester United   vs   Crystal Palace"
+        },
+        {
             "channel": "Sky UK Ultra HD 1",
             "sat": "Astra 2F 28.2\u00b0e",
             "freq": "12246 V 27500 - 2/3",
@@ -1484,6 +1508,14 @@
             "channel": "Sky Sports HD",
             "sat": "Astra 2E 28.2\u00b0e",
             "freq": "11856 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Brighton H.A.   vs   Nottingham Forest"
+        },
+        {
+            "channel": "Sky Sports Tennis HD",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12188 H 27500 - 2/3",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Brighton H.A.   vs   Nottingham Forest"
@@ -2714,32 +2746,6 @@
         },
         {
             "compet": "English Premier League - Week 31",
-            "match": "     Aston Villa   vs   West Ham United",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "14:15",
-            "date": "2026-03-22"
-        },
-        {
-            "channel": "Sky Go UK [online]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Aston Villa   vs   West Ham United"
-        },
-        {
-            "channel": "Sky Sports HD",
-            "sat": "Astra 2E 28.2\u00b0e",
-            "freq": "11856 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Aston Villa   vs   West Ham United"
-        },
-        {
-            "compet": "English Premier League - Week 31",
             "match": "     Tottenham Hotspur   vs   Nottingham Forest",
             "flags": {
                 "team1": "england",
@@ -2789,13 +2795,39 @@
             "related_to": "     Tottenham Hotspur   vs   Nottingham Forest"
         },
         {
+            "compet": "English Premier League - Week 31",
+            "match": "     Aston Villa   vs   West Ham United",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "14:15",
+            "date": "2026-03-22"
+        },
+        {
+            "channel": "Sky Go UK [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   West Ham United"
+        },
+        {
+            "channel": "Sky Sports HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11856 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   West Ham United"
+        },
+        {
             "compet": "English Premier League - Week 35",
             "match": "     Arsenal   vs   Fulham",
             "flags": {
                 "team1": "england",
                 "team2": "england"
             },
-            "time": "15:00",
+            "time": "14:00",
             "date": "2026-05-02"
         },
         {

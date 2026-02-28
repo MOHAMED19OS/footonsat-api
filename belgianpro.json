@@ -1,3 +1,56 @@
 {
-    "footonsat": []
+    "footonsat": [
+        {
+            "compet": "Belgian Pro League - Week 27",
+            "match": "     Sporting Charleroi   vs   Club Brugge",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "17:30",
+            "date": "2026-03-01"
+        },
+        {
+            "channel": "DAZN Great Britain (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "     Sporting Charleroi   vs   Club Brugge"
+        },
+        {
+            "channel": "DAZN Ireland ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "     Sporting Charleroi   vs   Club Brugge"
+        },
+        {
+            "compet": "Belgian Pro League - Week 28",
+            "match": "     RAAL La Louvi\u00e8re   vs   Antwerp",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "19:45",
+            "date": "2026-03-06"
+        },
+        {
+            "channel": "DAZN Great Britain (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "     RAAL La Louvi\u00e8re   vs   Antwerp"
+        },
+        {
+            "channel": "DAZN Ireland ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "     RAAL La Louvi\u00e8re   vs   Antwerp"
+        }
+    ]
 }
