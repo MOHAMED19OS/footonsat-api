@@ -301,6 +301,14 @@
             "date": "2026-03-01"
         },
         {
+            "channel": "Arena Sport 1 Slovakia HD",
+            "sat": "Belintersat 1 51.5\u00b0e",
+            "freq": "11290 H 45000 - 8/9",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     PEC Zwolle   vs   Ajax"
+        },
+        {
             "channel": "ESPN Extra Nederland",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -632,6 +640,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.dfbplay.tv/",
+            "related_to": "     Waldhof Mannheim   vs   Alemannia Aachen"
+        },
+        {
+            "channel": "Magenta Sport ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
             "related_to": "     Waldhof Mannheim   vs   Alemannia Aachen"
         },
         {
@@ -2797,6 +2813,14 @@
             "related_to": "     Duisburg   vs   TSV Havelse"
         },
         {
+            "channel": "Magenta Sport ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": "     Duisburg   vs   TSV Havelse"
+        },
+        {
             "channel": "OneFootball [app] ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -4419,6 +4443,24 @@
             "encry": "",
             "link": "#",
             "related_to": "     Hamburg   vs   RB Leipzig"
+        },
+        {
+            "compet": "German 3. Liga - Week 26",
+            "match": "     Schweinfurt   vs   Saarbr\u00fccken",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "18:30",
+            "date": "2026-03-01"
+        },
+        {
+            "channel": "Magenta Sport ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": "     Schweinfurt   vs   Saarbr\u00fccken"
         },
         {
             "compet": "Romanian Superliga - Week 29",
