@@ -445,6 +445,14 @@
             "date": "2026-03-07"
         },
         {
+            "channel": "Arena Sport 6 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11817 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Istanbul Basaksehir   vs   G\u00f6ztepe"
+        },
+        {
             "channel": "beIN Connect Australia",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -565,6 +573,14 @@
             "related_to": "     Istanbul Basaksehir   vs   G\u00f6ztepe"
         },
         {
+            "channel": "Prima Sport RO 5 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Istanbul Basaksehir   vs   G\u00f6ztepe"
+        },
+        {
             "compet": "T\u00fcrkiye 1. Lig - Week 29",
             "match": "     Bandirmaspor   vs   Istanbulspor",
             "flags": {
@@ -580,6 +596,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Bandirmaspor   vs   Istanbulspor"
+        },
+        {
+            "channel": "Tabii Spor 6 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
             "related_to": "     Bandirmaspor   vs   Istanbulspor"
         },
         {
@@ -601,6 +625,14 @@
             "related_to": "     Corum FK   vs   Hatayspor"
         },
         {
+            "channel": "TRT Spor T\u00fcrkiye HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11096 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "related_to": "     Corum FK   vs   Hatayspor"
+        },
+        {
             "compet": "T\u00fcrkiye S\u00fcper Lig - Week 25",
             "match": "     Besiktas   vs   Galatasaray",
             "flags": {
@@ -609,6 +641,14 @@
             },
             "time": "17:00",
             "date": "2026-03-07"
+        },
+        {
+            "channel": "Arena Premium 5 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12304 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Besiktas   vs   Galatasaray"
         },
         {
             "channel": "beIN Connect Australia",
@@ -863,6 +903,14 @@
             "sat": "Horizons 2 84.8\u00b0e",
             "freq": "11840 H 28800 - 2/3",
             "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Besiktas   vs   Galatasaray"
+        },
+        {
+            "channel": "Prima Sport RO 3 HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12606 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Besiktas   vs   Galatasaray"
         },
