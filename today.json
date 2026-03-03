@@ -1743,6 +1743,14 @@
             "related_to": "     Leeds United   vs   Sunderland"
         },
         {
+            "channel": "S\u00ddN Sport 2 \u00cdsland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Leeds United   vs   Sunderland"
+        },
+        {
             "channel": "TNT Sports 2 HD",
             "sat": "Astra 2G 28.2\u00b0e",
             "freq": "11582 H 23000 - 2/3",
@@ -2053,6 +2061,14 @@
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11514 H 30000 - 2/3",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Everton   vs   Burnley"
+        },
+        {
+            "channel": "S\u00ddN Sport 3 \u00cdsland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Everton   vs   Burnley"
         },
@@ -2419,6 +2435,14 @@
             "related_to": "     Bournemouth   vs   Brentford"
         },
         {
+            "channel": "S\u00ddN Sport 4 \u00cdsland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Bournemouth   vs   Brentford"
+        },
+        {
             "channel": "TNT Sports 4 HD",
             "sat": "Astra 2G 28.2\u00b0e",
             "freq": "11582 H 23000 - 2/3",
@@ -2745,6 +2769,42 @@
             "encry": "MPEG-4 NDS",
             "link": "#",
             "related_to": "     Winterthur   vs   Servette"
+        },
+        {
+            "compet": "Scottish League 1 - Week 24",
+            "match": "     Montrose   vs   Kelty Hearts",
+            "flags": {
+                "team1": "scotland",
+                "team2": "scotland"
+            },
+            "time": "19:45",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "Montrose FC LIVE [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "hhttps://montrose.watch.pixellot.tv/",
+            "related_to": "     Montrose   vs   Kelty Hearts"
+        },
+        {
+            "compet": "Scottish Championship - Week 25",
+            "match": "     Arbroath   vs   Ayr United",
+            "flags": {
+                "team1": "scotland",
+                "team2": "scotland"
+            },
+            "time": "19:45",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "Arbroath FC TV [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://arbroathfc.tv/",
+            "related_to": "     Arbroath   vs   Ayr United"
         },
         {
             "compet": "English Championship - Week 32",
@@ -3179,6 +3239,14 @@
             "related_to": "     Port Vale   vs   Bristol City"
         },
         {
+            "channel": "Tabii Spor T\u00fcrkiye ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.tabii.com/tr",
+            "related_to": "     Port Vale   vs   Bristol City"
+        },
+        {
             "channel": "TV2 Play Norge ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -3435,6 +3503,78 @@
             "encry": "HD Viaccess",
             "link": "#",
             "related_to": "     GKS Katowice   vs   Widzew L\u00f3dz"
+        },
+        {
+            "compet": "English National League North - North - 25",
+            "match": "     Darlington   vs   Macclesfield Town",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:45",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "DAZN Great Britain (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "     Darlington   vs   Macclesfield Town"
+        },
+        {
+            "compet": "English National League 1 - Week 26",
+            "match": "     Southend United   vs   Truro City",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:45",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "DAZN Great Britain (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "     Southend United   vs   Truro City"
+        },
+        {
+            "compet": "English National League 1 - Week 26",
+            "match": "     Rochdale   vs   Brackley Town",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:45",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "DAZN Great Britain (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "     Rochdale   vs   Brackley Town"
+        },
+        {
+            "compet": "English National League 1 - Week 26",
+            "match": "     Boreham Wood   vs   York City",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:45",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "DAZN Great Britain (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "     Boreham Wood   vs   York City"
         },
         {
             "compet": "French Cup (Coupe de France) - Quarter Final",
@@ -4803,6 +4943,14 @@
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11554 V 30000 - 2/3",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Wolves   vs   Liverpool"
+        },
+        {
+            "channel": "S\u00ddN Sport 1 \u00cdsland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Wolves   vs   Liverpool"
         },
