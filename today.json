@@ -441,6 +441,22 @@
             "related_to": "     Germany   vs   Slovenia"
         },
         {
+            "channel": "Polsat Sport Premium 1 HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11117 V 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Germany   vs   Slovenia"
+        },
+        {
+            "channel": "YouTube: German Football (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.youtube.com/@GermanFootball/streams",
+            "related_to": "     Germany   vs   Slovenia"
+        },
+        {
             "compet": "FIFA/UEFA Womens WC 2027 Qualifiers - League A, Round 1",
             "match": "     Denmark   vs   Serbia",
             "flags": {
@@ -632,6 +648,24 @@
         },
         {
             "compet": "FIFA/UEFA Womens WC 2027 Qualifiers - League A, Round 1",
+            "match": "     Poland   vs   Netherlands",
+            "flags": {
+                "team1": "poland",
+                "team2": "holland"
+            },
+            "time": "17:00",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "TVP Sport Polska HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "10834 V 27500 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Poland   vs   Netherlands"
+        },
+        {
+            "compet": "FIFA/UEFA Womens WC 2027 Qualifiers - League A, Round 1",
             "match": "     Italy   vs   Sweden",
             "flags": {
                 "team1": "italy",
@@ -803,6 +837,40 @@
             "related_to": "     TS Galaxy   vs   Orbit College"
         },
         {
+            "compet": "FIFA/UEFA Womens WC 2027 Qualifiers - League B, Round 1",
+            "match": "     Czechia   vs   Wales",
+            "flags": {
+                "team1": "czechia",
+                "team2": "wales"
+            },
+            "time": "17:30",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "BBC iPlayer (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "     Czechia   vs   Wales"
+        },
+        {
+            "channel": "BBC Two Wales HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "10818 V 23000 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Czechia   vs   Wales"
+        },
+        {
+            "channel": "CT Sport Czech HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "12344 H 29900 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Czechia   vs   Wales"
+        },
+        {
             "compet": "FIFA/UEFA Womens WC 2027 Qualifiers - League A, Round 1",
             "match": "     Spain   vs   Iceland",
             "flags": {
@@ -826,6 +894,38 @@
             "freq": "11420 V 27500 - 2/3",
             "encry": "FTA",
             "link": "#",
+            "related_to": "     Spain   vs   Iceland"
+        },
+        {
+            "channel": "Polsat Sport 2 HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "12265 V 27500 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Spain   vs   Iceland"
+        },
+        {
+            "channel": "RTVE Play ($/geoR)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.rtve.es/play/deportes/",
+            "related_to": "     Spain   vs   Iceland"
+        },
+        {
+            "channel": "Teledeporte Espa\u00f1a",
+            "sat": "*DTT 0.0\u00b0-",
+            "freq": "0000 - -",
+            "encry": "NagraVision",
+            "link": "http://www.rtve.es/directo/teledeporte/",
+            "related_to": "     Spain   vs   Iceland"
+        },
+        {
+            "channel": "TVE La 1 HD Espa\u00f1a",
+            "sat": "*DTT 0.0\u00b0-",
+            "freq": "0000 - -",
+            "encry": "NagraVision",
+            "link": "http://www.rtve.es/directo/la-1/",
             "related_to": "     Spain   vs   Iceland"
         },
         {
@@ -1073,6 +1173,32 @@
             "related_to": "     SC Verl   vs   Jahn Regensburg"
         },
         {
+            "compet": "FIFA/UEFA Womens WC 2027 Qualifiers - League C, Round 1",
+            "match": "     Liechtenstein   vs   Lithuania",
+            "flags": {
+                "team1": "liechtenstein",
+                "team2": "lithuania"
+            },
+            "time": "18:00",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "DAZN Espa\u00f1a HD FTA (geo)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 - -",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Liechtenstein   vs   Lithuania"
+        },
+        {
+            "channel": "FIFA+ [app] (geo/R)",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "-",
+            "link": "https://www.fifa.com/fifaplus/en/live",
+            "related_to": "     Liechtenstein   vs   Lithuania"
+        },
+        {
             "compet": "Italian Serie BKT - Week 28",
             "match": "     Venezia   vs   Avellino",
             "flags": {
@@ -1110,6 +1236,14 @@
             "channel": "LaB Channel ($/geo/R)",
             "sat": "Download APP 0.0\u00b0",
             "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Venezia   vs   Avellino"
+        },
+        {
+            "channel": "Sport TV2 Slovenija",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
             "encry": "",
             "link": "#",
             "related_to": "     Venezia   vs   Avellino"
@@ -1524,6 +1658,14 @@
             "channel": "Peacock Premium USA ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Leeds United   vs   Sunderland"
+        },
+        {
+            "channel": "Setanta Sports 2 Georgia HD",
+            "sat": " \u00b0",
+            "freq": " ",
             "encry": "",
             "link": "#",
             "related_to": "     Leeds United   vs   Sunderland"
@@ -2193,6 +2335,14 @@
             "sat": "KazSat 3 58.5\u00b0e",
             "freq": "12657 V 45000 - 3/4",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Bournemouth   vs   Brentford"
+        },
+        {
+            "channel": "Setanta Sports 3 Georgia HD",
+            "sat": " \u00b0",
+            "freq": " ",
+            "encry": "",
             "link": "#",
             "related_to": "     Bournemouth   vs   Brentford"
         },
@@ -3237,6 +3387,24 @@
             "related_to": "     Hartlepool United   vs   Sutton United"
         },
         {
+            "compet": "Polish Cup (Puchar Polski) - Quarter Final",
+            "match": "     GKS Katowice   vs   Widzew L\u00f3dz",
+            "flags": {
+                "team1": "poland",
+                "team2": "poland"
+            },
+            "time": "19:45",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "TVP Sport Polska HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "10834 V 27500 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     GKS Katowice   vs   Widzew L\u00f3dz"
+        },
+        {
             "compet": "French Cup (Coupe de France) - Quarter Final",
             "match": "     Strasbourg   vs   Reims",
             "flags": {
@@ -3303,10 +3471,34 @@
             "related_to": "     Strasbourg   vs   Reims"
         },
         {
+            "channel": "ERT 2 Sport Hellas HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12242 H 13381 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Strasbourg   vs   Reims"
+        },
+        {
             "channel": "MAX Sport 2 Bulgaria HD",
             "sat": "AzerSpace 2 45.0\u00b0e",
             "freq": "11475 V 30000 - 5/6",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Strasbourg   vs   Reims"
+        },
+        {
+            "channel": "Megogo Futbol 2 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Strasbourg   vs   Reims"
+        },
+        {
+            "channel": "New World Sport 1 Mauritius",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     Strasbourg   vs   Reims"
         },
@@ -3335,10 +3527,26 @@
             "related_to": "     Strasbourg   vs   Reims"
         },
         {
+            "channel": "Sport TV1 Slovenija",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11231 V 42000 - 3/5",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Strasbourg   vs   Reims"
+        },
+        {
             "channel": "Sport TV4 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12360 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Strasbourg   vs   Reims"
+        },
+        {
+            "channel": "TV Start Russia HD",
+            "sat": "ABS 2A 75.0\u00b0e",
+            "freq": "11605 V 43200 - 7/8",
+            "encry": "MPEG-4 DreCrypt",
             "link": "#",
             "related_to": "     Strasbourg   vs   Reims"
         },
@@ -3406,6 +3614,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://artmotion.net/tv/",
+            "related_to": "     Como   vs   Inter Milan"
+        },
+        {
+            "channel": "Azam Sports 3 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
             "related_to": "     Como   vs   Inter Milan"
         },
         {
@@ -3549,6 +3765,14 @@
             "sat": "Thor 6 5.0\u00b0e",
             "freq": "10934 V 25000 - 2/4",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Como   vs   Inter Milan"
+        },
+        {
+            "channel": "Sport TV Uzbekistan",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix",
             "link": "#",
             "related_to": "     Como   vs   Inter Milan"
         },
@@ -3747,10 +3971,26 @@
             "related_to": "     Barcelona   vs   Atl\u00e9tico Madrid"
         },
         {
+            "channel": "ESPN 4 Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "4095 R 30000 - 5/6",
+            "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Atl\u00e9tico Madrid"
+        },
+        {
             "channel": "Futbol TV Tajikistan",
             "sat": "ABS 2A 75.0\u00b0e",
             "freq": "12252 H 10000 - 3/4",
             "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Atl\u00e9tico Madrid"
+        },
+        {
+            "channel": "Futbol TV Uzbekistan",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix",
             "link": "#",
             "related_to": "     Barcelona   vs   Atl\u00e9tico Madrid"
         },
@@ -4037,6 +4277,14 @@
             "related_to": "     Doncaster Rovers   vs   Stockport County"
         },
         {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Doncaster Rovers   vs   Stockport County"
+        },
+        {
             "channel": "TSN Malta 1 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -4311,6 +4559,14 @@
             "related_to": "     Wolves   vs   Liverpool"
         },
         {
+            "channel": "ESPN 1 Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "3980 L 21600 - 3/4",
+            "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     Wolves   vs   Liverpool"
+        },
+        {
             "channel": "FuboTV Canada ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -4411,6 +4667,14 @@
             "sat": "KazSat 3 58.5\u00b0e",
             "freq": "12657 V 45000 - 3/4",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Wolves   vs   Liverpool"
+        },
+        {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "sat": " \u00b0",
+            "freq": " ",
+            "encry": "",
             "link": "#",
             "related_to": "     Wolves   vs   Liverpool"
         },
@@ -4721,6 +4985,14 @@
             "related_to": "     Sporting Lisbon   vs   FC Porto"
         },
         {
+            "channel": "TV Start Triumph HD",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "11785 R 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess",
+            "link": "#",
+            "related_to": "     Sporting Lisbon   vs   FC Porto"
+        },
+        {
             "channel": "Z Sports 1 Angola",
             "sat": "Eutelsat 36D 35.9\u00b0e",
             "freq": "11263 V 30000 - 5/6",
@@ -4755,6 +5027,14 @@
             },
             "time": "22:00",
             "date": "2026-03-03"
+        },
+        {
+            "channel": "beIN Sports MENA English 2 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "11390 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Independiente Petrolero   vs   Guabir\u00e1"
         },
         {
             "channel": "Como TV ($/geo/R)",
