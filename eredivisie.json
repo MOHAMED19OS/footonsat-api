@@ -35,6 +35,22 @@
             "related_to": "     NEC Nijmegen   vs   PSV Eindhoven"
         },
         {
+            "channel": "SportKlub 3 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     NEC Nijmegen   vs   PSV Eindhoven"
+        },
+        {
+            "channel": "SportKlub 3 Slovenija",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11231 V 42000 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     NEC Nijmegen   vs   PSV Eindhoven"
+        },
+        {
             "compet": "Dutch Eerste Divisie (2nd) - Week 26",
             "match": "     Cambuur-Leeuwarden   vs   Almere City",
             "flags": {
@@ -97,6 +113,14 @@
             "related_to": "     AZ Alkmaar   vs   Telstar"
         },
         {
+            "channel": "SportKlub 10 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     AZ Alkmaar   vs   Telstar"
+        },
+        {
             "compet": "Dutch Eredivisie - Week 26",
             "match": "     Heracles Almelo   vs   Utrecht",
             "flags": {
@@ -137,6 +161,14 @@
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "12169 H 27500 - 3/4",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Groningen   vs   Ajax"
+        },
+        {
+            "channel": "SuperSport ESPN HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
             "link": "#",
             "related_to": "     Groningen   vs   Ajax"
         },
@@ -207,6 +239,14 @@
             "related_to": "     PSV Eindhoven   vs   AZ Alkmaar"
         },
         {
+            "channel": "SuperSport ESPN HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     PSV Eindhoven   vs   AZ Alkmaar"
+        },
+        {
             "channel": "Thriller TV+ [online] ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -247,6 +287,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Sparta Rotterdam   vs   PEC Zwolle"
+        },
+        {
+            "channel": "SuperSport ESPN HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
             "link": "#",
             "related_to": "     Sparta Rotterdam   vs   PEC Zwolle"
         },
@@ -301,6 +349,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     NAC Breda   vs   Feyenoord"
+        },
+        {
+            "channel": "SuperSport ESPN HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
             "link": "#",
             "related_to": "     NAC Breda   vs   Feyenoord"
         },

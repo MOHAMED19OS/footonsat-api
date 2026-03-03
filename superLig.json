@@ -1,40 +1,6 @@
 {
     "footonsat": [
         {
-            "compet": "T\u00fcrkiye 1. Lig - Week 28",
-            "match": "     Manisa FK   vs   Corum FK",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "17:00",
-            "date": "2026-03-02"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Manisa FK   vs   Corum FK"
-        },
-        {
-            "channel": "beIN Sports T\u00fcrkiye 2 HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11676 V 24444 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Manisa FK   vs   Corum FK"
-        },
-        {
-            "channel": "TRT Spor T\u00fcrkiye HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11096 H 30000 - 5/6",
-            "encry": "FTA",
-            "link": "https://www.trtizle.com/canli/tv/trt-spor",
-            "related_to": "     Manisa FK   vs   Corum FK"
-        },
-        {
             "compet": "T\u00fcrkiye Cup - Group Stage: Round 4",
             "match": "     Fethiyespor   vs   Fatih Karag\u00fcmr\u00fck",
             "flags": {
@@ -67,6 +33,14 @@
             "sat": "Turksat 4A 42.0\u00b0e",
             "freq": "12053 H 27500 - 5/6",
             "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Istanbulspor   vs   Boluspor"
+        },
+        {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Istanbulspor   vs   Boluspor"
         },
@@ -131,6 +105,22 @@
             "related_to": "     Alanyaspor   vs   Galatasaray"
         },
         {
+            "channel": "SportKlub 2 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Alanyaspor   vs   Galatasaray"
+        },
+        {
+            "channel": "SportKlub 2 Slovenija",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11387 H 32000 - 3/4",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Alanyaspor   vs   Galatasaray"
+        },
+        {
             "channel": "VG+ Sport Norge ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -183,6 +173,30 @@
             "related_to": "     Gaziantep   vs   Fenerbah\u00e7e"
         },
         {
+            "channel": "MAX Sport 1 Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "11475 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Gaziantep   vs   Fenerbah\u00e7e"
+        },
+        {
+            "channel": "SportKlub 5 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Gaziantep   vs   Fenerbah\u00e7e"
+        },
+        {
+            "channel": "SportKlub 5 Slovenija",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Gaziantep   vs   Fenerbah\u00e7e"
+        },
+        {
             "compet": "T\u00fcrkiye Cup - Group Stage: Round 4",
             "match": "     Besiktas   vs   Caykur Rizespor",
             "flags": {
@@ -205,6 +219,22 @@
             "sat": "AzerSpace 2 45.0\u00b0e",
             "freq": "11475 V 30000 - 5/6",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Besiktas   vs   Caykur Rizespor"
+        },
+        {
+            "channel": "SportKlub 6 Slovenija",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Besiktas   vs   Caykur Rizespor"
+        },
+        {
+            "channel": "SportKlub 7 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Besiktas   vs   Caykur Rizespor"
         },
@@ -241,6 +271,22 @@
             "sat": "Turksat 4A 42.0\u00b0e",
             "freq": "12053 H 27500 - 5/6",
             "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Antalyaspor   vs   Samsunspor"
+        },
+        {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Antalyaspor   vs   Samsunspor"
+        },
+        {
+            "channel": "SportKlub 3 Slovenija",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11231 V 42000 - 5/6",
+            "encry": "MPEG-4 NDS",
             "link": "#",
             "related_to": "     Antalyaspor   vs   Samsunspor"
         },
