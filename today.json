@@ -161,6 +161,14 @@
             "date": "2026-03-03"
         },
         {
+            "channel": "Astro Arena Bola HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10772 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Gangwon   vs   Machida Zelvia"
+        },
+        {
             "channel": "beIN Sports MENA 2 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 H 27500 - 2/3",
@@ -363,6 +371,24 @@
             "related_to": "     Beroe   vs   Slavia Sofia"
         },
         {
+            "compet": "Malaysian Challenge Cup - Semi Final (1st Leg)",
+            "match": "     Kelantan Real Warriors   vs   Penang",
+            "flags": {
+                "team1": "malaysia",
+                "team2": "malaysia"
+            },
+            "time": "14:00",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "Astro Arena Bola HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10772 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Kelantan Real Warriors   vs   Penang"
+        },
+        {
             "compet": "Bulgarian First League - Week 24",
             "match": "     Botev Plovdiv   vs   Septemvri Sofia",
             "flags": {
@@ -395,6 +421,24 @@
             "encry": "MPEG-4 NDS",
             "link": "#",
             "related_to": "     Botev Plovdiv   vs   Septemvri Sofia"
+        },
+        {
+            "compet": "FIFA/UEFA Womens WC 2027 Qualifiers - League A, Round 1",
+            "match": "     Germany   vs   Slovenia",
+            "flags": {
+                "team1": "germany",
+                "team2": "slovenia"
+            },
+            "time": "16:45",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "Nova Sport 1 Czech HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11876 H 29900 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Germany   vs   Slovenia"
         },
         {
             "compet": "FIFA/UEFA Womens WC 2027 Qualifiers - League A, Round 1",
@@ -945,6 +989,24 @@
             "related_to": "     SC Verl   vs   Jahn Regensburg"
         },
         {
+            "compet": "FIFA/UEFA Womens WC 2027 Qualifiers - League A, Round 1",
+            "match": "     Spain   vs   Iceland",
+            "flags": {
+                "team1": "spain",
+                "team2": "iceland"
+            },
+            "time": "18:00",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "Nova Sport 2 Czech HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11973 V 29900 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Spain   vs   Iceland"
+        },
+        {
             "compet": "Italian Serie BKT - Week 28",
             "match": "     Venezia   vs   Avellino",
             "flags": {
@@ -1189,6 +1251,14 @@
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11678 H 30000 - 3/4",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Leeds United   vs   Sunderland"
+        },
+        {
+            "channel": "Astro Premier League 4 HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Leeds United   vs   Sunderland"
         },
@@ -1443,6 +1513,14 @@
             "related_to": "     Everton   vs   Burnley"
         },
         {
+            "channel": "Astro Premier League 2 HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10772 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Everton   vs   Burnley"
+        },
+        {
             "channel": "beIN Connect MENA",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -1657,6 +1735,14 @@
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11554 V 30000 - 5/6",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Bournemouth   vs   Brentford"
+        },
+        {
+            "channel": "Astro Premier League 3 HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10892 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Bournemouth   vs   Brentford"
         },
@@ -2743,6 +2829,14 @@
             "related_to": "     Strasbourg   vs   Reims"
         },
         {
+            "channel": "Nova Sport 1 Czech HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11876 H 29900 - 3/4",
+            "encry": "HD CryptoWorks",
+            "link": "#",
+            "related_to": "     Strasbourg   vs   Reims"
+        },
+        {
             "compet": "Italian Cup (Coppa Italia) - Semi Final (1st Leg)",
             "match": "     Como   vs   Inter Milan",
             "flags": {
@@ -3027,6 +3121,48 @@
             "related_to": "     Barcelona   vs   Atl\u00e9tico Madrid"
         },
         {
+            "compet": "English League Trophy - Semi Final",
+            "match": "     Doncaster Rovers   vs   Stockport County",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "20:00",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "Astro Football HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10932 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Doncaster Rovers   vs   Stockport County"
+        },
+        {
+            "channel": "Nova Sport 5 Czech HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11973 V 29900 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Doncaster Rovers   vs   Stockport County"
+        },
+        {
+            "channel": "Nova Sport 5 Slovakia HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "12456 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Doncaster Rovers   vs   Stockport County"
+        },
+        {
+            "channel": "Sky Sports Football HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "12012 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Doncaster Rovers   vs   Stockport County"
+        },
+        {
             "compet": "English Premier League - Week 29",
             "match": "     Wolves   vs   Liverpool",
             "flags": {
@@ -3065,6 +3201,30 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Wolves   vs   Liverpool"
+        },
+        {
+            "channel": "Astro Grandstand HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10932 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Wolves   vs   Liverpool"
+        },
+        {
+            "channel": "Astro Premier League HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10772 V 30000 - 5/6",
+            "encry": "HD Mediaguard",
+            "link": "#",
+            "related_to": "     Wolves   vs   Liverpool"
+        },
+        {
+            "channel": "Astro Sports UHD",
+            "sat": "Measat 3a 91.4\u00b0e",
+            "freq": "11775 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Wolves   vs   Liverpool"
         },
