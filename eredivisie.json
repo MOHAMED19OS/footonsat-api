@@ -59,6 +59,14 @@
             "related_to": "     NEC Nijmegen   vs   PSV Eindhoven"
         },
         {
+            "channel": "SuperSport 6 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10804 H 29950 - 2/3",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     NEC Nijmegen   vs   PSV Eindhoven"
+        },
+        {
             "compet": "Dutch Eerste Divisie (2nd) - Week 26",
             "match": "     Cambuur-Leeuwarden   vs   Almere City",
             "flags": {
@@ -75,24 +83,6 @@
             "encry": "HD Viaccess",
             "link": "#",
             "related_to": "     Cambuur-Leeuwarden   vs   Almere City"
-        },
-        {
-            "compet": "Dutch Eerste Divisie (2nd) - Week 26",
-            "match": "     Emmen   vs   Utrecht Youths",
-            "flags": {
-                "team1": "holland",
-                "team2": "holland"
-            },
-            "time": "19:00",
-            "date": "2026-03-03"
-        },
-        {
-            "channel": "ESPN 1 Nederland HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "11739 V 29900 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Emmen   vs   Utrecht Youths"
         },
         {
             "compet": "Dutch Cup (KNVB Beker) - Semi Final",
