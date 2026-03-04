@@ -133,6 +133,14 @@
             "related_to": "     Gamba Osaka   vs   Ratchaburi"
         },
         {
+            "channel": "Canal 11 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12437 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Gamba Osaka   vs   Ratchaburi"
+        },
+        {
             "channel": "DAZN Japan ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -595,6 +603,24 @@
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Panathinaikos   vs   OFI Crete"
+        },
+        {
+            "compet": "Portuguese Liga Revela\u00e7\u00e3o U-23 - Championship Group - 8",
+            "match": "     Sporting Braga U-23   vs   Benfica U-23",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "16:00",
+            "date": "2026-03-04"
+        },
+        {
+            "channel": "Canal 11 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12437 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Sporting Braga U-23   vs   Benfica U-23"
         },
         {
             "compet": "Czech Cup (Pohar CMFS) - Quarter Final",
@@ -2039,10 +2065,26 @@
             "related_to": "     Lorient   vs   Nice"
         },
         {
+            "channel": "Sport TV+ Portugal",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12476 H 27500 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Lorient   vs   Nice"
+        },
+        {
             "channel": "Sport TV3 Slovenija",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Lorient   vs   Nice"
+        },
+        {
+            "channel": "Sport TV5 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Lorient   vs   Nice"
         },
@@ -4427,6 +4469,14 @@
             "related_to": "     Aberdeen   vs   Celtic"
         },
         {
+            "channel": "Sport TV4 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Aberdeen   vs   Celtic"
+        },
+        {
             "channel": "Sportdigital FUSSBALL 2",
             "sat": "Download APP 0.0\u00b0",
             "freq": "0000 0",
@@ -4565,6 +4615,14 @@
             "related_to": "     Marseille   vs   Toulouse"
         },
         {
+            "channel": "Sport TV3 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Marseille   vs   Toulouse"
+        },
+        {
             "channel": "SuperSport 6 Albania HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "10804 H 29950 - 2/3",
@@ -4663,14 +4721,6 @@
             "related_to": "     Lazio   vs   Atalanta"
         },
         {
-            "channel": "Canale 5 Italia HD",
-            "sat": "Hellas Sat 4 39.0\u00b0e",
-            "freq": "10938 H 15835 - 2/3",
-            "encry": "MPEG-4 Conax",
-            "link": "https://www.mediasetplay.mediaset.it/diretta/canale5_cC5",
-            "related_to": "     Lazio   vs   Atalanta"
-        },
-        {
             "channel": "Cytavision Sports 4 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -4692,6 +4742,14 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
+            "related_to": "     Lazio   vs   Atalanta"
+        },
+        {
+            "channel": "Italia 1 HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11432 H 29900 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "https://www.mediasetplay.mediaset.it/diretta/italia1_cI1",
             "related_to": "     Lazio   vs   Atalanta"
         },
         {
@@ -4795,6 +4853,14 @@
             "sat": "NSS 12 57.0\u00b0e",
             "freq": "11610 H 20200 - 3/4",
             "encry": "MPEG-4 Verimatrix",
+            "link": "#",
+            "related_to": "     Lazio   vs   Atalanta"
+        },
+        {
+            "channel": "Sport TV2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Lazio   vs   Atalanta"
         },
@@ -5089,7 +5155,7 @@
             "related_to": "     Real Sociedad   vs   Athletic Bilbao"
         },
         {
-            "channel": "RTVE Play ($/geoR)",
+            "channel": "RTVE Play ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
@@ -5109,6 +5175,14 @@
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "11727 V 28000 - 7/8",
             "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Athletic Bilbao"
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Real Sociedad   vs   Athletic Bilbao"
         },
@@ -5201,6 +5275,24 @@
             "encry": "VideoGuard",
             "link": "#",
             "related_to": "     Sambenedettese   vs   Ascoli"
+        },
+        {
+            "compet": "Portuguese Liga 3 - Promotion Group - 1",
+            "match": "     Uni\u00e3o Santar\u00e9m   vs   Mafra",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "20:00",
+            "date": "2026-03-04"
+        },
+        {
+            "channel": "Canal 11 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12437 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Uni\u00e3o Santar\u00e9m   vs   Mafra"
         },
         {
             "compet": "English Premier League - Week 29",
