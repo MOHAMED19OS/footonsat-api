@@ -1207,6 +1207,14 @@
             "related_to": "     Levante   vs   Girona"
         },
         {
+            "channel": "LaLiga TV UK [stream] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Levante   vs   Girona"
+        },
+        {
             "channel": "M+ LaLiga HD",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "10818 V 22000 - 2/3",
@@ -1625,6 +1633,22 @@
             "related_to": "     Atl\u00e9tico Madrid   vs   Real Sociedad"
         },
         {
+            "channel": "Premier Sports 2 UK HD",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11671 H 23000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Atl\u00e9tico Madrid   vs   Real Sociedad"
+        },
+        {
+            "channel": "Premier Sports GB Player HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": "     Atl\u00e9tico Madrid   vs   Real Sociedad"
+        },
+        {
             "channel": "Prima Sport RO 2 HD",
             "sat": "Hellas Sat 3 39.0\u00b0e",
             "freq": "12290 V 30000 - 3/4",
@@ -1855,6 +1879,14 @@
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "11823 H 30000 - 5/6",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Athletic Bilbao   vs   Barcelona"
+        },
+        {
+            "channel": "Disney+ UK ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Athletic Bilbao   vs   Barcelona"
         },
