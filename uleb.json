@@ -11,6 +11,14 @@
             "date": "2026-03-06"
         },
         {
+            "channel": "5 SPORT Israel HD",
+            "sat": "Amos 3 4.0\u00b0w",
+            "freq": "10806 V 27500 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Anadolu Efes   vs   Asvel Villeurbanne"
+        },
+        {
             "channel": "Arena Premium 2 Srbija HD",
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12480 V 30000 - 3/4",
@@ -141,6 +149,14 @@
             "related_to": "     Red Star Belgrade   vs   Bayern Munich"
         },
         {
+            "channel": "SportKlub 4 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Red Star Belgrade   vs   Bayern Munich"
+        },
+        {
             "compet": "ULEB Euroleague - Round 30",
             "match": "     Olympiacos   vs   Panathinaikos",
             "flags": {
@@ -149,6 +165,14 @@
             },
             "time": "19:15",
             "date": "2026-03-06"
+        },
+        {
+            "channel": "5 PLUS Israel HD",
+            "sat": "Amos 3 4.0\u00b0w",
+            "freq": "10806 V 27500 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Olympiacos   vs   Panathinaikos"
         },
         {
             "channel": "Arena Premium 3 Srbija HD",
@@ -218,6 +242,14 @@
             "channel": "S Sport+ Streaming",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Olympiacos   vs   Panathinaikos"
+        },
+        {
+            "channel": "SportKlub 3 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
             "encry": "",
             "link": "#",
             "related_to": "     Olympiacos   vs   Panathinaikos"
@@ -323,6 +355,14 @@
             },
             "time": "19:15",
             "date": "2026-03-12"
+        },
+        {
+            "channel": "5 STARS Israel HD",
+            "sat": "Amos 7 4.0\u00b0w",
+            "freq": "11030 V 27500 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Panathinaikos   vs   Zalgiris Kaunas"
         },
         {
             "channel": "EuroLeague TV ($/geo/R)",
@@ -461,6 +501,14 @@
             "date": "2026-03-12"
         },
         {
+            "channel": "5 PLUS Israel HD",
+            "sat": "Amos 3 4.0\u00b0w",
+            "freq": "10806 V 27500 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Valencia"
+        },
+        {
             "channel": "EuroLeague TV ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -501,6 +549,14 @@
             },
             "time": "18:30",
             "date": "2026-03-13"
+        },
+        {
+            "channel": "5 SPORT Israel HD",
+            "sat": "Amos 3 4.0\u00b0w",
+            "freq": "10806 V 27500 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Monaco Basket   vs   Olympiacos"
         },
         {
             "channel": "EuroLeague TV ($/geo/R)",
@@ -571,6 +627,14 @@
             "date": "2026-03-13"
         },
         {
+            "channel": "5 SPORT Israel HD",
+            "sat": "Amos 3 4.0\u00b0w",
+            "freq": "10806 V 27500 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Olimpia Milano   vs   Maccabi Tel Aviv"
+        },
+        {
             "channel": "EuroLeague TV ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -605,6 +669,14 @@
             "date": "2026-03-13"
         },
         {
+            "channel": "5 PLUS Israel HD",
+            "sat": "Amos 3 4.0\u00b0w",
+            "freq": "10806 V 27500 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Hapoel Tel Aviv"
+        },
+        {
             "channel": "EuroLeague TV ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -630,6 +702,132 @@
         },
         {
             "compet": "ULEB Euroleague - Round 32",
+            "match": "     Anadolu Efes   vs   Monaco Basket",
+            "flags": {
+                "team1": "turkey",
+                "team2": "monaco"
+            },
+            "time": "17:30",
+            "date": "2026-03-19"
+        },
+        {
+            "channel": "EuroLeague TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://tv.euroleague.net/",
+            "related_to": "     Anadolu Efes   vs   Monaco Basket"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 32",
+            "match": "     Hapoel Tel Aviv   vs   Virtus Bologna",
+            "flags": {
+                "team1": "israel",
+                "team2": "italy"
+            },
+            "time": "18:00",
+            "date": "2026-03-19"
+        },
+        {
+            "channel": "EuroLeague TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://tv.euroleague.net/",
+            "related_to": "     Hapoel Tel Aviv   vs   Virtus Bologna"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 32",
+            "match": "     Olympiacos   vs   Baskonia",
+            "flags": {
+                "team1": "greece",
+                "team2": "spain"
+            },
+            "time": "19:15",
+            "date": "2026-03-19"
+        },
+        {
+            "channel": "EuroLeague TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://tv.euroleague.net/",
+            "related_to": "     Olympiacos   vs   Baskonia"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 32",
+            "match": "     Bayern Munich   vs   Dubai Basketball",
+            "flags": {
+                "team1": "germany",
+                "team2": "uae"
+            },
+            "time": "19:30",
+            "date": "2026-03-19"
+        },
+        {
+            "channel": "EuroLeague TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://tv.euroleague.net/",
+            "related_to": "     Bayern Munich   vs   Dubai Basketball"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 32",
+            "match": "     Valencia   vs   Barcelona",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "19:30",
+            "date": "2026-03-19"
+        },
+        {
+            "channel": "EuroLeague TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://tv.euroleague.net/",
+            "related_to": "     Valencia   vs   Barcelona"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 32",
+            "match": "     Paris Basketball   vs   Partizan Belgrade",
+            "flags": {
+                "team1": "france",
+                "team2": "serbia"
+            },
+            "time": "19:45",
+            "date": "2026-03-19"
+        },
+        {
+            "channel": "EuroLeague TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://tv.euroleague.net/",
+            "related_to": "     Paris Basketball   vs   Partizan Belgrade"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 32",
+            "match": "     Fenerbahce   vs   Olimpia Milano",
+            "flags": {
+                "team1": "turkey",
+                "team2": "italy"
+            },
+            "time": "17:45",
+            "date": "2026-03-20"
+        },
+        {
+            "channel": "EuroLeague TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://tv.euroleague.net/",
+            "related_to": "     Fenerbahce   vs   Olimpia Milano"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 32",
             "match": "     Zalgiris Kaunas   vs   Real Madrid",
             "flags": {
                 "team1": "lithuania",
@@ -645,6 +843,222 @@
             "encry": "LiveOnSat.com",
             "link": "https://tv.euroleague.net/",
             "related_to": "     Zalgiris Kaunas   vs   Real Madrid"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 32",
+            "match": "     Asvel Villeurbanne   vs   Maccabi Tel Aviv",
+            "flags": {
+                "team1": "france",
+                "team2": "israel"
+            },
+            "time": "19:00",
+            "date": "2026-03-20"
+        },
+        {
+            "channel": "EuroLeague TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://tv.euroleague.net/",
+            "related_to": "     Asvel Villeurbanne   vs   Maccabi Tel Aviv"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 32",
+            "match": "     Panathinaikos   vs   Red Star Belgrade",
+            "flags": {
+                "team1": "greece",
+                "team2": "serbia"
+            },
+            "time": "19:15",
+            "date": "2026-03-20"
+        },
+        {
+            "channel": "EuroLeague TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://tv.euroleague.net/",
+            "related_to": "     Panathinaikos   vs   Red Star Belgrade"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 33",
+            "match": "     Dubai Basketball   vs   Panathinaikos",
+            "flags": {
+                "team1": "uae",
+                "team2": "greece"
+            },
+            "time": "16:00",
+            "date": "2026-03-24"
+        },
+        {
+            "channel": "EuroLeague TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://tv.euroleague.net/",
+            "related_to": "     Dubai Basketball   vs   Panathinaikos"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 33",
+            "match": "     Zalgiris Kaunas   vs   Bayern Munich",
+            "flags": {
+                "team1": "lithuania",
+                "team2": "germany"
+            },
+            "time": "18:00",
+            "date": "2026-03-24"
+        },
+        {
+            "channel": "EuroLeague TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://tv.euroleague.net/",
+            "related_to": "     Zalgiris Kaunas   vs   Bayern Munich"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 33",
+            "match": "     Monaco Basket   vs   Olimpia Milano",
+            "flags": {
+                "team1": "monaco",
+                "team2": "italy"
+            },
+            "time": "18:00",
+            "date": "2026-03-24"
+        },
+        {
+            "channel": "EuroLeague TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://tv.euroleague.net/",
+            "related_to": "     Monaco Basket   vs   Olimpia Milano"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 33",
+            "match": "     Maccabi Tel Aviv   vs   Fenerbahce",
+            "flags": {
+                "team1": "israel",
+                "team2": "turkey"
+            },
+            "time": "19:05",
+            "date": "2026-03-24"
+        },
+        {
+            "channel": "EuroLeague TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://tv.euroleague.net/",
+            "related_to": "     Maccabi Tel Aviv   vs   Fenerbahce"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 33",
+            "match": "     Barcelona   vs   Anadolu Efes",
+            "flags": {
+                "team1": "spain",
+                "team2": "turkey"
+            },
+            "time": "19:30",
+            "date": "2026-03-24"
+        },
+        {
+            "channel": "EuroLeague TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://tv.euroleague.net/",
+            "related_to": "     Barcelona   vs   Anadolu Efes"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 33",
+            "match": "     Partizan Belgrade   vs   Asvel Villeurbanne",
+            "flags": {
+                "team1": "serbia",
+                "team2": "france"
+            },
+            "time": "19:30",
+            "date": "2026-03-24"
+        },
+        {
+            "channel": "EuroLeague TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://tv.euroleague.net/",
+            "related_to": "     Partizan Belgrade   vs   Asvel Villeurbanne"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 33",
+            "match": "     Valencia   vs   Olympiacos",
+            "flags": {
+                "team1": "spain",
+                "team2": "greece"
+            },
+            "time": "19:30",
+            "date": "2026-03-24"
+        },
+        {
+            "channel": "EuroLeague TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://tv.euroleague.net/",
+            "related_to": "     Valencia   vs   Olympiacos"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 33",
+            "match": "     Real Madrid   vs   Hapoel Tel Aviv",
+            "flags": {
+                "team1": "spain",
+                "team2": "israel"
+            },
+            "time": "19:45",
+            "date": "2026-03-24"
+        },
+        {
+            "channel": "EuroLeague TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://tv.euroleague.net/",
+            "related_to": "     Real Madrid   vs   Hapoel Tel Aviv"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 33",
+            "match": "     Baskonia   vs   Red Star Belgrade",
+            "flags": {
+                "team1": "spain",
+                "team2": "serbia"
+            },
+            "time": "19:30",
+            "date": "2026-03-25"
+        },
+        {
+            "channel": "EuroLeague TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://tv.euroleague.net/",
+            "related_to": "     Baskonia   vs   Red Star Belgrade"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 34",
+            "match": "     Maccabi Tel Aviv   vs   Dubai Basketball",
+            "flags": {
+                "team1": "israel",
+                "team2": "uae"
+            },
+            "time": "19:05",
+            "date": "2026-03-26"
+        },
+        {
+            "channel": "EuroLeague TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://tv.euroleague.net/",
+            "related_to": "     Maccabi Tel Aviv   vs   Dubai Basketball"
         }
     ]
 }
