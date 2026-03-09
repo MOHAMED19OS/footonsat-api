@@ -2,6 +2,152 @@
     "footonsat": [
         {
             "compet": "English Premier League - Week 30",
+            "match": "     Sunderland   vs   Brighton H.A.",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "15:00",
+            "date": "2026-03-14"
+        },
+        {
+            "channel": "Arena Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11678 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Brighton H.A."
+        },
+        {
+            "channel": "beIN Connect MENA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect.bein.com/",
+            "related_to": "     Sunderland   vs   Brighton H.A."
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Sunderland   vs   Brighton H.A."
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Brighton H.A."
+        },
+        {
+            "channel": "Canal+ Sport 1 Czech HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11973 V 29900 - 2/3",
+            "encry": "HD Conax",
+            "link": "https://livetv.skylink.cz",
+            "related_to": "     Sunderland   vs   Brighton H.A."
+        },
+        {
+            "channel": "DAZN Espa\u00f1a ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Brighton H.A."
+        },
+        {
+            "channel": "FuboTV Canada ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Brighton H.A."
+        },
+        {
+            "channel": "Go3 Extra Sport Baltics ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "https://go3.tv/extra_sports",
+            "related_to": "     Sunderland   vs   Brighton H.A."
+        },
+        {
+            "channel": "Monomax Streaming ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.monomax.me/premierleague",
+            "related_to": "     Sunderland   vs   Brighton H.A."
+        },
+        {
+            "channel": "Premier Sports 1 Ireland HD",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12188 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Brighton H.A."
+        },
+        {
+            "channel": "Stan Sport Australia ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.stan.com.au/sport",
+            "related_to": "     Sunderland   vs   Brighton H.A."
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Brighton H.A."
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Brighton H.A."
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Brighton H.A."
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Brighton H.A."
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Brighton H.A."
+        },
+        {
+            "channel": "VOYO Pro TV Romania [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://voyo.protv.ro/premier-league",
+            "related_to": "     Sunderland   vs   Brighton H.A."
+        },
+        {
+            "compet": "English Premier League - Week 30",
             "match": "     Burnley   vs   Bournemouth",
             "flags": {
                 "team1": "england",
@@ -132,144 +278,6 @@
         },
         {
             "compet": "English Premier League - Week 30",
-            "match": "     Sunderland   vs   Brighton H.A.",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "15:00",
-            "date": "2026-03-14"
-        },
-        {
-            "channel": "Arena Sport 1 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11678 H 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Brighton H.A."
-        },
-        {
-            "channel": "beIN Connect MENA",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://connect.bein.com/",
-            "related_to": "     Sunderland   vs   Brighton H.A."
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Sunderland   vs   Brighton H.A."
-        },
-        {
-            "channel": "Canal+ Sport 1 Czech HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11973 V 29900 - 2/3",
-            "encry": "HD Conax",
-            "link": "https://livetv.skylink.cz",
-            "related_to": "     Sunderland   vs   Brighton H.A."
-        },
-        {
-            "channel": "DAZN Espa\u00f1a ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Brighton H.A."
-        },
-        {
-            "channel": "FuboTV Canada ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Brighton H.A."
-        },
-        {
-            "channel": "Go3 Extra Sport Baltics ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "https://go3.tv/extra_sports",
-            "related_to": "     Sunderland   vs   Brighton H.A."
-        },
-        {
-            "channel": "Monomax Streaming ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.monomax.me/premierleague",
-            "related_to": "     Sunderland   vs   Brighton H.A."
-        },
-        {
-            "channel": "Premier Sports 1 Ireland HD",
-            "sat": "Astra 2F 28.2\u00b0e",
-            "freq": "12188 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Brighton H.A."
-        },
-        {
-            "channel": "Stan Sport Australia ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.stan.com.au/sport",
-            "related_to": "     Sunderland   vs   Brighton H.A."
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Brighton H.A."
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Brighton H.A."
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Brighton H.A."
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Brighton H.A."
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Brighton H.A."
-        },
-        {
-            "channel": "VOYO Pro TV Romania [$]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://voyo.protv.ro/premier-league",
-            "related_to": "     Sunderland   vs   Brighton H.A."
-        },
-        {
-            "compet": "English Premier League - Week 30",
             "match": "     Arsenal   vs   Everton",
             "flags": {
                 "team1": "england",
@@ -300,6 +308,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Arsenal   vs   Everton"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
             "related_to": "     Arsenal   vs   Everton"
         },
         {
@@ -643,6 +659,14 @@
             "related_to": "     West Ham United   vs   Manchester City"
         },
         {
+            "channel": "beIN Sports MENA English 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     West Ham United   vs   Manchester City"
+        },
+        {
             "channel": "Canal+ Sport 1 Czech HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11973 V 29900 - 2/3",
@@ -802,6 +826,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Manchester United   vs   Aston Villa"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
             "related_to": "     Manchester United   vs   Aston Villa"
         },
         {
@@ -1304,6 +1336,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Liverpool   vs   Tottenham Hotspur"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
             "related_to": "     Liverpool   vs   Tottenham Hotspur"
         },
         {
@@ -2893,7 +2933,7 @@
                 "team1": "england",
                 "team2": "england"
             },
-            "time": "19:00",
+            "time": "20:00",
             "date": "2026-04-10"
         },
         {
@@ -2935,7 +2975,7 @@
                 "team1": "england",
                 "team2": "england"
             },
-            "time": "16:30",
+            "time": "17:30",
             "date": "2026-04-11"
         },
         {
@@ -2977,7 +3017,7 @@
                 "team1": "england",
                 "team2": "england"
             },
-            "time": "13:00",
+            "time": "14:00",
             "date": "2026-04-12"
         },
         {
@@ -3019,7 +3059,7 @@
                 "team1": "england",
                 "team2": "england"
             },
-            "time": "15:30",
+            "time": "16:30",
             "date": "2026-04-12"
         },
         {
@@ -3061,7 +3101,7 @@
                 "team1": "england",
                 "team2": "england"
             },
-            "time": "19:00",
+            "time": "20:00",
             "date": "2026-04-13"
         },
         {
@@ -3103,7 +3143,7 @@
                 "team1": "england",
                 "team2": "england"
             },
-            "time": "16:30",
+            "time": "17:30",
             "date": "2026-04-18"
         },
         {
@@ -3145,7 +3185,7 @@
                 "team1": "england",
                 "team2": "england"
             },
-            "time": "13:00",
+            "time": "14:00",
             "date": "2026-04-19"
         },
         {
@@ -3187,7 +3227,7 @@
                 "team1": "england",
                 "team2": "england"
             },
-            "time": "15:30",
+            "time": "16:30",
             "date": "2026-04-19"
         },
         {
@@ -3229,7 +3269,7 @@
                 "team1": "england",
                 "team2": "england"
             },
-            "time": "19:00",
+            "time": "20:00",
             "date": "2026-04-20"
         },
         {
@@ -3271,7 +3311,7 @@
                 "team1": "england",
                 "team2": "england"
             },
-            "time": "19:00",
+            "time": "20:00",
             "date": "2026-04-24"
         },
         {
@@ -3313,7 +3353,7 @@
                 "team1": "england",
                 "team2": "england"
             },
-            "time": "16:30",
+            "time": "17:30",
             "date": "2026-04-25"
         },
         {
@@ -3355,7 +3395,7 @@
                 "team1": "england",
                 "team2": "england"
             },
-            "time": "13:00",
+            "time": "14:00",
             "date": "2026-04-26"
         },
         {
@@ -3397,7 +3437,7 @@
                 "team1": "england",
                 "team2": "england"
             },
-            "time": "15:30",
+            "time": "16:30",
             "date": "2026-04-26"
         },
         {
@@ -3439,7 +3479,7 @@
                 "team1": "england",
                 "team2": "england"
             },
-            "time": "19:00",
+            "time": "20:00",
             "date": "2026-04-27"
         },
         {
@@ -3481,7 +3521,7 @@
                 "team1": "england",
                 "team2": "england"
             },
-            "time": "14:00",
+            "time": "15:00",
             "date": "2026-05-02"
         },
         {
