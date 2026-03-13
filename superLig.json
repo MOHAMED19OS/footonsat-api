@@ -1,108 +1,6 @@
 {
     "footonsat": [
         {
-            "compet": "T\u00fcrkiye 1. Lig - Week 30",
-            "match": "     Igdir FK   vs   Bodrumspor",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "10:30",
-            "date": "2026-03-12"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Igdir FK   vs   Bodrumspor"
-        },
-        {
-            "channel": "beIN Sports T\u00fcrkiye 2 HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11676 V 24444 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Igdir FK   vs   Bodrumspor"
-        },
-        {
-            "channel": "TRT Spor T\u00fcrkiye HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11096 H 30000 - 5/6",
-            "encry": "FTA",
-            "link": "https://www.trtizle.com/canli/tv/trt-spor",
-            "related_to": "     Igdir FK   vs   Bodrumspor"
-        },
-        {
-            "compet": "T\u00fcrkiye 1. Lig - Week 30",
-            "match": "     Boluspor   vs   Corum FK",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "13:00",
-            "date": "2026-03-12"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Boluspor   vs   Corum FK"
-        },
-        {
-            "channel": "beIN Sports T\u00fcrkiye 2 HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11676 V 24444 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Boluspor   vs   Corum FK"
-        },
-        {
-            "channel": "TRT Spor T\u00fcrkiye HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11096 H 30000 - 5/6",
-            "encry": "FTA",
-            "link": "https://www.trtizle.com/canli/tv/trt-spor",
-            "related_to": "     Boluspor   vs   Corum FK"
-        },
-        {
-            "compet": "T\u00fcrkiye 1. Lig - Week 30",
-            "match": "     Esenler Erokspor   vs   Bandirmaspor",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "17:00",
-            "date": "2026-03-12"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Esenler Erokspor   vs   Bandirmaspor"
-        },
-        {
-            "channel": "beIN Sports T\u00fcrkiye 2 HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11676 V 24444 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Esenler Erokspor   vs   Bandirmaspor"
-        },
-        {
-            "channel": "TRT Spor T\u00fcrkiye HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11096 H 30000 - 5/6",
-            "encry": "FTA",
-            "link": "https://www.trtizle.com/canli/tv/trt-spor",
-            "related_to": "     Esenler Erokspor   vs   Bandirmaspor"
-        },
-        {
             "compet": "T\u00fcrkiye S\u00fcper Lig - Week 26",
             "match": "     Fatih Karag\u00fcmr\u00fck   vs   Fenerbah\u00e7e",
             "flags": {
@@ -561,6 +459,14 @@
             "related_to": "     Galatasaray   vs   Istanbul Basaksehir"
         },
         {
+            "channel": "Prima Sport RO 4 HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12606 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Galatasaray   vs   Istanbul Basaksehir"
+        },
+        {
             "channel": "Sport 1 Hungary HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "11727 V 28000 - 7/8",
@@ -573,6 +479,22 @@
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12360 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Galatasaray   vs   Istanbul Basaksehir"
+        },
+        {
+            "channel": "SportKlub 2 Slovenija",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11387 H 32000 - 3/4",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Galatasaray   vs   Istanbul Basaksehir"
+        },
+        {
+            "channel": "SportKlub 3 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Galatasaray   vs   Istanbul Basaksehir"
         },
@@ -627,6 +549,14 @@
             "related_to": "     Trabzonspor   vs   Caykur Rizespor"
         },
         {
+            "channel": "beIN Sports T\u00fcrkiye 2 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Trabzonspor   vs   Caykur Rizespor"
+        },
+        {
             "channel": "beIN Sports US 4",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -639,6 +569,14 @@
             "sat": "Horizons 2 84.8\u00b0e",
             "freq": "11840 H 28800 - 2/3",
             "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Trabzonspor   vs   Caykur Rizespor"
+        },
+        {
+            "channel": "Prima Sport RO PPV 3",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Trabzonspor   vs   Caykur Rizespor"
         },
@@ -665,6 +603,22 @@
             "sat": "Turksat 3A 42.0\u00b0e",
             "freq": "11676 V 24444 - 3/4",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     G\u00f6ztepe   vs   Alanyaspor"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye 3 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     G\u00f6ztepe   vs   Alanyaspor"
+        },
+        {
+            "channel": "SportKlub 8 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     G\u00f6ztepe   vs   Alanyaspor"
         },
@@ -704,32 +658,6 @@
         },
         {
             "compet": "T\u00fcrkiye 1. Lig - Week 31",
-            "match": "     Sivasspor   vs   Umraniyespor",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "10:30",
-            "date": "2026-03-15"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Sivasspor   vs   Umraniyespor"
-        },
-        {
-            "channel": "Tabii Spor 6 ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Sivasspor   vs   Umraniyespor"
-        },
-        {
-            "compet": "T\u00fcrkiye 1. Lig - Week 31",
             "match": "     Erzurumspor   vs   Hatayspor",
             "flags": {
                 "team1": "turkey",
@@ -747,12 +675,54 @@
             "related_to": "     Erzurumspor   vs   Hatayspor"
         },
         {
+            "channel": "beIN Sports T\u00fcrkiye 2 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Erzurumspor   vs   Hatayspor"
+        },
+        {
             "channel": "TRT Spor T\u00fcrkiye HD",
             "sat": "Turksat 3A 42.0\u00b0e",
             "freq": "11096 H 30000 - 5/6",
             "encry": "FTA",
             "link": "https://www.trtizle.com/canli/tv/trt-spor",
             "related_to": "     Erzurumspor   vs   Hatayspor"
+        },
+        {
+            "compet": "T\u00fcrkiye 1. Lig - Week 31",
+            "match": "     Sivasspor   vs   Umraniyespor",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "10:30",
+            "date": "2026-03-15"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Sivasspor   vs   Umraniyespor"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye Max 1 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Sivasspor   vs   Umraniyespor"
+        },
+        {
+            "channel": "Tabii Spor 6 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Sivasspor   vs   Umraniyespor"
         },
         {
             "compet": "T\u00fcrkiye S\u00fcper Lig - Week 26",
@@ -782,32 +752,6 @@
         },
         {
             "compet": "T\u00fcrkiye 1. Lig - Week 31",
-            "match": "     Sakaryaspor   vs   Van BB",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "13:00",
-            "date": "2026-03-15"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Sakaryaspor   vs   Van BB"
-        },
-        {
-            "channel": "TRT Spor T\u00fcrkiye HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11096 H 30000 - 5/6",
-            "encry": "FTA",
-            "link": "https://www.trtizle.com/canli/tv/trt-spor",
-            "related_to": "     Sakaryaspor   vs   Van BB"
-        },
-        {
-            "compet": "T\u00fcrkiye 1. Lig - Week 31",
             "match": "     Sariyer   vs   Ke\u00e7i\u00f6reng\u00fcc\u00fc",
             "flags": {
                 "team1": "turkey",
@@ -825,12 +769,54 @@
             "related_to": "     Sariyer   vs   Ke\u00e7i\u00f6reng\u00fcc\u00fc"
         },
         {
+            "channel": "beIN Sports T\u00fcrkiye 2 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Sariyer   vs   Ke\u00e7i\u00f6reng\u00fcc\u00fc"
+        },
+        {
             "channel": "Tabii Spor 6 ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "#",
             "related_to": "     Sariyer   vs   Ke\u00e7i\u00f6reng\u00fcc\u00fc"
+        },
+        {
+            "compet": "T\u00fcrkiye 1. Lig - Week 31",
+            "match": "     Sakaryaspor   vs   Van BB",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "13:00",
+            "date": "2026-03-15"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Sakaryaspor   vs   Van BB"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye Max 1 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Sakaryaspor   vs   Van BB"
+        },
+        {
+            "channel": "TRT Spor T\u00fcrkiye HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11096 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "related_to": "     Sakaryaspor   vs   Van BB"
         },
         {
             "compet": "T\u00fcrkiye S\u00fcper Lig - Week 26",
@@ -841,6 +827,14 @@
             },
             "time": "17:00",
             "date": "2026-03-15"
+        },
+        {
+            "channel": "ART Motion Sport 5 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "     Gen\u00e7lerbirligi   vs   Besiktas"
         },
         {
             "channel": "beIN Connect Australia",
@@ -963,6 +957,70 @@
             "related_to": "     Gen\u00e7lerbirligi   vs   Besiktas"
         },
         {
+            "channel": "Disney+ Argentina ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Gen\u00e7lerbirligi   vs   Besiktas"
+        },
+        {
+            "channel": "Disney+ Brazil ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Gen\u00e7lerbirligi   vs   Besiktas"
+        },
+        {
+            "channel": "Disney+ Caribbean ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Gen\u00e7lerbirligi   vs   Besiktas"
+        },
+        {
+            "channel": "Disney+ Chile ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Gen\u00e7lerbirligi   vs   Besiktas"
+        },
+        {
+            "channel": "Disney+ Mexico ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Gen\u00e7lerbirligi   vs   Besiktas"
+        },
+        {
+            "channel": "Disney+ Norte ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Gen\u00e7lerbirligi   vs   Besiktas"
+        },
+        {
+            "channel": "Disney+ Sur ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Gen\u00e7lerbirligi   vs   Besiktas"
+        },
+        {
+            "channel": "ESPN 3 Sur Latin",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Gen\u00e7lerbirligi   vs   Besiktas"
+        },
+        {
             "channel": "Fanatiz USA ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -979,10 +1037,26 @@
             "related_to": "     Gen\u00e7lerbirligi   vs   Besiktas"
         },
         {
+            "channel": "FuboTV Canada ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Gen\u00e7lerbirligi   vs   Besiktas"
+        },
+        {
             "channel": "MATCH! Futbol 3 HD",
             "sat": "Horizons 2 84.8\u00b0e",
             "freq": "11840 H 28800 - 2/3",
             "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Gen\u00e7lerbirligi   vs   Besiktas"
+        },
+        {
+            "channel": "Prima Sport RO 5 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Gen\u00e7lerbirligi   vs   Besiktas"
         },
@@ -1167,6 +1241,78 @@
             "date": "2026-03-17"
         },
         {
+            "channel": "beIN Connect Australia",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://connect-au.beinsports.com/en",
+            "related_to": "     Fenerbah\u00e7e   vs   Gaziantep"
+        },
+        {
+            "channel": "beIN Connect Canada",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-ca.beinsports.com/",
+            "related_to": "     Fenerbah\u00e7e   vs   Gaziantep"
+        },
+        {
+            "channel": "beIN Connect Hong Kong",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-hk.beinsports.com/en",
+            "related_to": "     Fenerbah\u00e7e   vs   Gaziantep"
+        },
+        {
+            "channel": "beIN Connect Indonesia",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-id.beinsports.com/id",
+            "related_to": "     Fenerbah\u00e7e   vs   Gaziantep"
+        },
+        {
+            "channel": "beIN Connect Malaysia",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-my.beinsports.com/en",
+            "related_to": "     Fenerbah\u00e7e   vs   Gaziantep"
+        },
+        {
+            "channel": "beIN Connect New Zealand",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-nz.beinsports.com/en",
+            "related_to": "     Fenerbah\u00e7e   vs   Gaziantep"
+        },
+        {
+            "channel": "beIN Connect Philippines",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-ph.beinsports.com/en",
+            "related_to": "     Fenerbah\u00e7e   vs   Gaziantep"
+        },
+        {
+            "channel": "beIN Connect Singapore",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-sg.beinsports.com/en",
+            "related_to": "     Fenerbah\u00e7e   vs   Gaziantep"
+        },
+        {
+            "channel": "beIN Connect Thailand",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-th.beinsports.com/en",
+            "related_to": "     Fenerbah\u00e7e   vs   Gaziantep"
+        },
+        {
             "channel": "beIN Connect T\u00fcrkiye",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1175,10 +1321,58 @@
             "related_to": "     Fenerbah\u00e7e   vs   Gaziantep"
         },
         {
+            "channel": "beIN Connect USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://connect-us.beinsports.com/",
+            "related_to": "     Fenerbah\u00e7e   vs   Gaziantep"
+        },
+        {
+            "channel": "beIN Sports 3 HD (Astro)",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Fenerbah\u00e7e   vs   Gaziantep"
+        },
+        {
             "channel": "beIN Sports France 6 HD max",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "11856 V 29700 - 2/3",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Fenerbah\u00e7e   vs   Gaziantep"
+        },
+        {
+            "channel": "beIN Sports HK 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Fenerbah\u00e7e   vs   Gaziantep"
+        },
+        {
+            "channel": "beIN Sports Indonesia 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Fenerbah\u00e7e   vs   Gaziantep"
+        },
+        {
+            "channel": "beIN Sports Philippines 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Fenerbah\u00e7e   vs   Gaziantep"
+        },
+        {
+            "channel": "beIN Sports Thailand 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Fenerbah\u00e7e   vs   Gaziantep"
         },
@@ -1191,10 +1385,114 @@
             "related_to": "     Fenerbah\u00e7e   vs   Gaziantep"
         },
         {
+            "channel": "beIN Sports US Espa\u00f1ol",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Fenerbah\u00e7e   vs   Gaziantep"
+        },
+        {
+            "channel": "beIN Sports US HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Fenerbah\u00e7e   vs   Gaziantep"
+        },
+        {
+            "channel": "Disney+ Argentina ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Fenerbah\u00e7e   vs   Gaziantep"
+        },
+        {
+            "channel": "Disney+ Brazil ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Fenerbah\u00e7e   vs   Gaziantep"
+        },
+        {
+            "channel": "Disney+ Caribbean ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Fenerbah\u00e7e   vs   Gaziantep"
+        },
+        {
+            "channel": "Disney+ Chile ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Fenerbah\u00e7e   vs   Gaziantep"
+        },
+        {
+            "channel": "Disney+ Mexico ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Fenerbah\u00e7e   vs   Gaziantep"
+        },
+        {
+            "channel": "Disney+ Norte ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Fenerbah\u00e7e   vs   Gaziantep"
+        },
+        {
+            "channel": "Disney+ Sur ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Fenerbah\u00e7e   vs   Gaziantep"
+        },
+        {
+            "channel": "ESPN 3 Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "3980 L 21600 - 3/4",
+            "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     Fenerbah\u00e7e   vs   Gaziantep"
+        },
+        {
+            "channel": "ESPN Mexico",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Fenerbah\u00e7e   vs   Gaziantep"
+        },
+        {
+            "channel": "Prima Sport RO 3 HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12606 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Fenerbah\u00e7e   vs   Gaziantep"
+        },
+        {
             "channel": "Sport 2 Israel HD",
             "sat": "Amos 7 4.0\u00b0w",
             "freq": "11030 V 27500 - 3/4",
             "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Fenerbah\u00e7e   vs   Gaziantep"
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Fenerbah\u00e7e   vs   Gaziantep"
         },
@@ -1235,11 +1533,115 @@
             "date": "2026-03-18"
         },
         {
+            "channel": "beIN Connect Australia",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://connect-au.beinsports.com/en",
+            "related_to": "     Ey\u00fcpspor   vs   Trabzonspor"
+        },
+        {
+            "channel": "beIN Connect Canada",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-ca.beinsports.com/",
+            "related_to": "     Ey\u00fcpspor   vs   Trabzonspor"
+        },
+        {
+            "channel": "beIN Connect Hong Kong",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-hk.beinsports.com/en",
+            "related_to": "     Ey\u00fcpspor   vs   Trabzonspor"
+        },
+        {
+            "channel": "beIN Connect Indonesia",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-id.beinsports.com/id",
+            "related_to": "     Ey\u00fcpspor   vs   Trabzonspor"
+        },
+        {
+            "channel": "beIN Connect Malaysia",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-my.beinsports.com/en",
+            "related_to": "     Ey\u00fcpspor   vs   Trabzonspor"
+        },
+        {
+            "channel": "beIN Connect New Zealand",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-nz.beinsports.com/en",
+            "related_to": "     Ey\u00fcpspor   vs   Trabzonspor"
+        },
+        {
+            "channel": "beIN Connect Philippines",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-ph.beinsports.com/en",
+            "related_to": "     Ey\u00fcpspor   vs   Trabzonspor"
+        },
+        {
+            "channel": "beIN Connect Singapore",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-sg.beinsports.com/en",
+            "related_to": "     Ey\u00fcpspor   vs   Trabzonspor"
+        },
+        {
+            "channel": "beIN Connect Thailand",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-th.beinsports.com/en",
+            "related_to": "     Ey\u00fcpspor   vs   Trabzonspor"
+        },
+        {
             "channel": "beIN Connect T\u00fcrkiye",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Ey\u00fcpspor   vs   Trabzonspor"
+        },
+        {
+            "channel": "beIN Connect USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://connect-us.beinsports.com/",
+            "related_to": "     Ey\u00fcpspor   vs   Trabzonspor"
+        },
+        {
+            "channel": "beIN Sports 2 HD (Astro)",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Ey\u00fcpspor   vs   Trabzonspor"
+        },
+        {
+            "channel": "beIN Sports HK 2 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Ey\u00fcpspor   vs   Trabzonspor"
+        },
+        {
+            "channel": "beIN Sports Indonesia 2 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
             "related_to": "     Ey\u00fcpspor   vs   Trabzonspor"
         },
         {
@@ -1251,10 +1653,50 @@
             "related_to": "     Ey\u00fcpspor   vs   Trabzonspor"
         },
         {
+            "channel": "beIN Sports Philippines 2 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Ey\u00fcpspor   vs   Trabzonspor"
+        },
+        {
+            "channel": "beIN Sports Thailand 2 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Ey\u00fcpspor   vs   Trabzonspor"
+        },
+        {
             "channel": "beIN Sports T\u00fcrkiye 1 HD",
             "sat": "Turksat 3A 42.0\u00b0e",
             "freq": "11180 H 30000 - 3/4",
             "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Ey\u00fcpspor   vs   Trabzonspor"
+        },
+        {
+            "channel": "beIN Sports US Espa\u00f1ol",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Ey\u00fcpspor   vs   Trabzonspor"
+        },
+        {
+            "channel": "beIN Sports US HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Ey\u00fcpspor   vs   Trabzonspor"
+        },
+        {
+            "channel": "Prima Sport RO 2 HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12290 V 30000 - 3/4",
+            "encry": "HD Viaccess",
             "link": "#",
             "related_to": "     Ey\u00fcpspor   vs   Trabzonspor"
         },
@@ -1357,11 +1799,35 @@
             "date": "2026-03-19"
         },
         {
+            "channel": "beIN Connect Canada",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-ca.beinsports.com/",
+            "related_to": "     Besiktas   vs   Kasimpasa"
+        },
+        {
+            "channel": "beIN Connect New Zealand",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-nz.beinsports.com/en",
+            "related_to": "     Besiktas   vs   Kasimpasa"
+        },
+        {
             "channel": "beIN Connect T\u00fcrkiye",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Besiktas   vs   Kasimpasa"
+        },
+        {
+            "channel": "beIN Connect USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://connect-us.beinsports.com/",
             "related_to": "     Besiktas   vs   Kasimpasa"
         },
         {
@@ -1377,6 +1843,102 @@
             "sat": "Turksat 3A 42.0\u00b0e",
             "freq": "11180 H 30000 - 3/4",
             "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Besiktas   vs   Kasimpasa"
+        },
+        {
+            "channel": "beIN Sports US Espa\u00f1ol",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Besiktas   vs   Kasimpasa"
+        },
+        {
+            "channel": "beIN Sports US HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Besiktas   vs   Kasimpasa"
+        },
+        {
+            "channel": "Disney+ Argentina ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Besiktas   vs   Kasimpasa"
+        },
+        {
+            "channel": "Disney+ Brazil ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Besiktas   vs   Kasimpasa"
+        },
+        {
+            "channel": "Disney+ Caribbean ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Besiktas   vs   Kasimpasa"
+        },
+        {
+            "channel": "Disney+ Chile ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Besiktas   vs   Kasimpasa"
+        },
+        {
+            "channel": "Disney+ Mexico ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Besiktas   vs   Kasimpasa"
+        },
+        {
+            "channel": "Disney+ Norte ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Besiktas   vs   Kasimpasa"
+        },
+        {
+            "channel": "Disney+ Sur ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Besiktas   vs   Kasimpasa"
+        },
+        {
+            "channel": "ESPN 3 Sur Latin",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Besiktas   vs   Kasimpasa"
+        },
+        {
+            "channel": "ESPN 4 Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "4095 R 30000 - 5/6",
+            "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     Besiktas   vs   Kasimpasa"
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Besiktas   vs   Kasimpasa"
         },
