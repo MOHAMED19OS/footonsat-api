@@ -2787,6 +2787,14 @@
             "related_to": "     Bayer Leverkusen   vs   Bayern Munich"
         },
         {
+            "channel": "ST World Football HD",
+            "sat": "Eutelsat 10B 10.0\u00b0e",
+            "freq": "3736 R 07307 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Bayer Leverkusen   vs   Bayern Munich"
+        },
+        {
             "channel": "Tivibu Spor 2 HD",
             "sat": "Turksat 4A 42.0\u00b0e",
             "freq": "11853 H 25000 - 3/4",
@@ -2913,6 +2921,14 @@
             "sat": "Amos 7 4.0\u00b0w",
             "freq": "11030 V 27500 - 3/4",
             "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Augsburg"
+        },
+        {
+            "channel": "ST Sports Arena",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11938 V 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     Borussia Dortmund   vs   Augsburg"
         },
@@ -3117,6 +3133,14 @@
             "sat": "Astra 1N 19.2\u00b0e",
             "freq": "12032 H 27500 - 9/10",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Hoffenheim   vs   Wolfsburg"
+        },
+        {
+            "channel": "ST Sports Focus",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11977 V 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     Hoffenheim   vs   Wolfsburg"
         },
@@ -3572,6 +3596,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.monomax.me/premierleague",
+            "related_to": "     Burnley   vs   Bournemouth"
+        },
+        {
+            "channel": "Sp\u00edler 1 TV Hungary HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "11766 V 28000 - 7/8",
+            "encry": "Conax",
+            "link": "#",
             "related_to": "     Burnley   vs   Bournemouth"
         },
         {
@@ -4381,6 +4413,14 @@
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "11727 V 28000 - 7/8",
             "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Atl\u00e9tico Madrid   vs   Getafe"
+        },
+        {
+            "channel": "ST Sports Life",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "12418 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     Atl\u00e9tico Madrid   vs   Getafe"
         },
@@ -5283,6 +5323,14 @@
             "related_to": "     Napoli   vs   Lecce"
         },
         {
+            "channel": "DAZN 1 Italia HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11843 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Napoli   vs   Lecce"
+        },
+        {
             "channel": "DAZN Deutsch ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -5355,6 +5403,14 @@
             "related_to": "     Napoli   vs   Lecce"
         },
         {
+            "channel": "Futbol TV Uzbekistan",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "#",
+            "related_to": "     Napoli   vs   Lecce"
+        },
+        {
             "channel": "MTV Katsomon+ ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -5382,6 +5438,14 @@
             "channel": "S Sport+ Streaming",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Napoli   vs   Lecce"
+        },
+        {
+            "channel": "Setanta Sports 2 Baltic",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
             "encry": "",
             "link": "#",
             "related_to": "     Napoli   vs   Lecce"
@@ -5651,6 +5715,22 @@
             "related_to": "     Arsenal   vs   Everton"
         },
         {
+            "channel": "Sky Sport Calcio HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12073 V 29900 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Arsenal   vs   Everton"
+        },
+        {
+            "channel": "Sky Sport Italia 4K UHD",
+            "sat": "Hotbird 13E 13.0\u00b0e",
+            "freq": "11996 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Arsenal   vs   Everton"
+        },
+        {
             "channel": "Sky Sports Football HD",
             "sat": "Astra 2E 28.2\u00b0e",
             "freq": "12012 V 27500 - 2/3",
@@ -5727,6 +5807,14 @@
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "10845 H 30000 - 3/5",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Arsenal   vs   Everton"
+        },
+        {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
             "link": "#",
             "related_to": "     Arsenal   vs   Everton"
         },
@@ -5821,6 +5909,14 @@
             "related_to": "     Chelsea   vs   Newcastle United"
         },
         {
+            "channel": "beIN Sports MENA 4K UHD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "11310 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Newcastle United"
+        },
+        {
             "channel": "beIN Sports T\u00fcrkiye 4 HD",
             "sat": "Turksat 3A 42.0\u00b0e",
             "freq": "11676 V 24444 - 3/4",
@@ -5853,6 +5949,14 @@
             "related_to": "     Chelsea   vs   Newcastle United"
         },
         {
+            "channel": "Futbol TV Tajikistan",
+            "sat": "ABS 2A 75.0\u00b0e",
+            "freq": "12252 H 10000 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Newcastle United"
+        },
+        {
             "channel": "Go3 Extra Sport Baltics ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -5866,6 +5970,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.monomax.me/premierleague",
+            "related_to": "     Chelsea   vs   Newcastle United"
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "     Chelsea   vs   Newcastle United"
         },
         {
@@ -5889,6 +6001,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Newcastle United"
+        },
+        {
+            "channel": "Sky Sport Arena Italia HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11996 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Chelsea   vs   Newcastle United"
         },
@@ -5929,6 +6049,22 @@
             "sat": "Amos 7 4.0\u00b0w",
             "freq": "11030 V 27500 - 3/4",
             "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Newcastle United"
+        },
+        {
+            "channel": "Sport TV Azerbaijan (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Newcastle United"
+        },
+        {
+            "channel": "Sp\u00edler 1 TV Hungary HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "11766 V 28000 - 7/8",
+            "encry": "Conax",
             "link": "#",
             "related_to": "     Chelsea   vs   Newcastle United"
         },
@@ -6417,6 +6553,14 @@
             "related_to": "     Hamburg   vs   FC Cologne"
         },
         {
+            "channel": "Setanta Sports 1 Baltic",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11958 H 27500 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Hamburg   vs   FC Cologne"
+        },
+        {
             "channel": "Setanta Sports Qazaqstan HD",
             "sat": "KazSat 3 58.5\u00b0e",
             "freq": "12657 V 45000 - 3/4",
@@ -6452,6 +6596,14 @@
             "channel": "Sky Sport Bundesliga UHD",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "11798 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Hamburg   vs   FC Cologne"
+        },
+        {
+            "channel": "Sky Sport Max Italia HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11977 H 29900 - 3/4",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Hamburg   vs   FC Cologne"
@@ -7011,6 +7163,14 @@
             "date": "2026-03-14"
         },
         {
+            "channel": "Thmanyah 2 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Shabab   vs   Al Akhdoud"
+        },
+        {
             "channel": "Thmanyah KSA [app]",
             "sat": "Download APP 0.0\u00b0",
             "freq": "0000 0",
@@ -7029,6 +7189,30 @@
             "date": "2026-03-14"
         },
         {
+            "channel": "Cosmote Sport 5 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12418 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Khaleej   vs   Al Nassr"
+        },
+        {
+            "channel": "M+ Liga de Campeones 2 HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "10729 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Al Khaleej   vs   Al Nassr"
+        },
+        {
+            "channel": "M+ Vamos 2 Espa\u00f1a HD",
+            "sat": "Astra 1P 19.2\u00b0e",
+            "freq": "10758 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Al Khaleej   vs   Al Nassr"
+        },
+        {
             "channel": "New World Sport 4 Togo",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "12604 H 30000 - 3/4",
@@ -7045,10 +7229,58 @@
             "related_to": "     Al Khaleej   vs   Al Nassr"
         },
         {
+            "channel": "Prima Sport RO PPV 3",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Khaleej   vs   Al Nassr"
+        },
+        {
             "channel": "S Sport+ Streaming",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Al Khaleej   vs   Al Nassr"
+        },
+        {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Khaleej   vs   Al Nassr"
+        },
+        {
+            "channel": "Sport TV5 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Al Khaleej   vs   Al Nassr"
+        },
+        {
+            "channel": "Sportitalia SoloCalcio HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11179 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://sportitalialive.it/sisolocalcio/",
+            "related_to": "     Al Khaleej   vs   Al Nassr"
+        },
+        {
+            "channel": "SportKlub 5 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Khaleej   vs   Al Nassr"
+        },
+        {
+            "channel": "SporTV 2 Brazil HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Al Khaleej   vs   Al Nassr"
         },
@@ -7069,10 +7301,26 @@
             "related_to": "     Al Khaleej   vs   Al Nassr"
         },
         {
+            "channel": "ST World Football HD",
+            "sat": "Eutelsat 10B 10.0\u00b0e",
+            "freq": "3736 R 07307 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Al Khaleej   vs   Al Nassr"
+        },
+        {
             "channel": "SuperSport ESPN HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "10970 V 30000 - 5/6",
             "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Al Khaleej   vs   Al Nassr"
+        },
+        {
+            "channel": "Thmanyah 3 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Al Khaleej   vs   Al Nassr"
         },
@@ -7103,9 +7351,65 @@
             "date": "2026-03-14"
         },
         {
+            "channel": "Band Sports Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "11680 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Fateh   vs   Al Hilal"
+        },
+        {
+            "channel": "Cosmote Sport 7 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12149 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Fateh   vs   Al Hilal"
+        },
+        {
+            "channel": "M+ Liga de Campeones 3 HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "10788 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Al Fateh   vs   Al Hilal"
+        },
+        {
             "channel": "New World Sport 6 Togo",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "12604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Al Fateh   vs   Al Hilal"
+        },
+        {
+            "channel": "Prima Sport RO PPV 4",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Fateh   vs   Al Hilal"
+        },
+        {
+            "channel": "Sportitalia HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12341 V 31400 - 5/6",
+            "encry": "FTA",
+            "link": "https://sportitalialive.it/sihd/",
+            "related_to": "     Al Fateh   vs   Al Hilal"
+        },
+        {
+            "channel": "SportKlub 12 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Fateh   vs   Al Hilal"
+        },
+        {
+            "channel": "ST Sports Arena",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11938 V 27500 - 3/4",
             "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     Al Fateh   vs   Al Hilal"
@@ -7115,6 +7419,14 @@
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "12245 H 30000 - 3/4",
             "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Al Fateh   vs   Al Hilal"
+        },
+        {
+            "channel": "Thmanyah 1 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Al Fateh   vs   Al Hilal"
         },
@@ -7517,10 +7829,34 @@
             "related_to": "     Udinese   vs   Juventus"
         },
         {
+            "channel": "Sky Sport Calcio HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12073 V 29900 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Udinese   vs   Juventus"
+        },
+        {
+            "channel": "Sky Sport Italia 4K UHD",
+            "sat": "Hotbird 13E 13.0\u00b0e",
+            "freq": "11996 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Udinese   vs   Juventus"
+        },
+        {
             "channel": "Sport 2 Israel HD",
             "sat": "Amos 7 4.0\u00b0w",
             "freq": "11030 V 27500 - 3/4",
             "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Udinese   vs   Juventus"
+        },
+        {
+            "channel": "Sport TV Uzbekistan",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix",
             "link": "#",
             "related_to": "     Udinese   vs   Juventus"
         },
@@ -7689,6 +8025,14 @@
             "related_to": "     West Ham United   vs   Manchester City"
         },
         {
+            "channel": "Futbol TV Tajikistan",
+            "sat": "ABS 2A 75.0\u00b0e",
+            "freq": "12252 H 10000 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     West Ham United   vs   Manchester City"
+        },
+        {
             "channel": "Go3 Extra Sport Baltics ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -7729,6 +8073,14 @@
             "related_to": "     West Ham United   vs   Manchester City"
         },
         {
+            "channel": "Sky Sport Max Italia HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11977 H 29900 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     West Ham United   vs   Manchester City"
+        },
+        {
             "channel": "Sport 24 At Sea HD",
             "sat": "NSS 12 57.0\u00b0e",
             "freq": "4095 R 30000 - 3/4",
@@ -7741,6 +8093,14 @@
             "sat": "NSS 12 57.0\u00b0e",
             "freq": "4095 R 30000 - 3/4",
             "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     West Ham United   vs   Manchester City"
+        },
+        {
+            "channel": "Sp\u00edler 1 TV Hungary HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "11766 V 28000 - 7/8",
+            "encry": "Conax",
             "link": "#",
             "related_to": "     West Ham United   vs   Manchester City"
         },
@@ -7999,6 +8359,14 @@
             "related_to": "     Real Madrid   vs   Elche"
         },
         {
+            "channel": "AzTV HD (azerbaijan)",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11175 H 27500 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Elche"
+        },
+        {
             "channel": "beIN Sports Australia 2 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -8035,6 +8403,14 @@
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "11390 V 27500 - 2/3",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Elche"
+        },
+        {
+            "channel": "DAZN 1 Italia HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11843 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Real Madrid   vs   Elche"
         },
@@ -8119,6 +8495,22 @@
             "related_to": "     Real Madrid   vs   Elche"
         },
         {
+            "channel": "Futbol TV Uzbekistan",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Elche"
+        },
+        {
+            "channel": "Go3 Sport 1 Baltic HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11938 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "https://go3.tv/en/live_tv",
+            "related_to": "     Real Madrid   vs   Elche"
+        },
+        {
             "channel": "LaLiga TV Bar HD",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "10876 V 22000 - 5/6",
@@ -8143,6 +8535,14 @@
             "related_to": "     Real Madrid   vs   Elche"
         },
         {
+            "channel": "Meraj TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11221 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Elche"
+        },
+        {
             "channel": "MTV Katsomon+ ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -8151,10 +8551,26 @@
             "related_to": "     Real Madrid   vs   Elche"
         },
         {
+            "channel": "New World Sport 3 Togo",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Elche"
+        },
+        {
             "channel": "ONE Sport Israel HD",
             "sat": "Amos 3 4.0\u00b0w",
             "freq": "10806 V 27500 - 3/4",
             "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Elche"
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Real Madrid   vs   Elche"
         },
@@ -8171,6 +8587,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Elche"
+        },
+        {
+            "channel": "Setanta Sports 1 Baltic",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11958 H 27500 - 5/6",
+            "encry": "MPEG-4 NDS",
             "link": "#",
             "related_to": "     Real Madrid   vs   Elche"
         },
@@ -8239,10 +8663,26 @@
             "related_to": "     Real Madrid   vs   Elche"
         },
         {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Elche"
+        },
+        {
             "channel": "ViaPlay Norge HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Elche"
+        },
+        {
+            "channel": "Zor TV Uzbekistan",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix",
             "link": "#",
             "related_to": "     Real Madrid   vs   Elche"
         },
