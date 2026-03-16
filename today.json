@@ -527,6 +527,24 @@
             "related_to": "     FC Porto II   vs   Oliveirense"
         },
         {
+            "compet": "Hungarian NB 2 - Week 22",
+            "match": "     Mezok\u00f6vesd-Zs\u00f3ry   vs   Vasas",
+            "flags": {
+                "team1": "hungary",
+                "team2": "hungary"
+            },
+            "time": "19:00",
+            "date": "2026-03-16"
+        },
+        {
+            "channel": "M4 Sport Hungary HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11778 V 29900 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://m4sport.hu/elo/mtv4live/",
+            "related_to": "     Mezok\u00f6vesd-Zs\u00f3ry   vs   Vasas"
+        },
+        {
             "compet": "Italian Serie C Girone A - Girone A - 32",
             "match": "     Vicenza   vs   Inter Milan U-23",
             "flags": {
@@ -611,6 +629,14 @@
             "related_to": "     Albacete   vs   Las Palmas"
         },
         {
+            "channel": "Blue Sport 2 Live HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Albacete   vs   Las Palmas"
+        },
+        {
             "channel": "DAZN Espa\u00f1a ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -639,6 +665,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Albacete   vs   Las Palmas"
+        },
+        {
+            "channel": "Nova Sports Start Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11804 V 29700 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Albacete   vs   Las Palmas"
         },
@@ -695,6 +729,14 @@
             "date": "2026-03-16"
         },
         {
+            "channel": "Arena 4 Hungary HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "12265 V 28000 - 7/8",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Cremonese   vs   Fiorentina"
+        },
+        {
             "channel": "Arena Premium 1 Slovenija",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -723,6 +765,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Cremonese   vs   Fiorentina"
+        },
+        {
+            "channel": "Cosmote Sport 2 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "11843 V 27500 - 3/5",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Cremonese   vs   Fiorentina"
         },
@@ -1099,11 +1149,27 @@
             "related_to": "     Brentford   vs   Wolves"
         },
         {
+            "channel": "Match 4 Hungary HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12130 H 28000 - 7/8",
+            "encry": "Conax",
+            "link": "#",
+            "related_to": "     Brentford   vs   Wolves"
+        },
+        {
             "channel": "Monomax Streaming ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.monomax.me/premierleague",
+            "related_to": "     Brentford   vs   Wolves"
+        },
+        {
+            "channel": "Nova Sports Premier League HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11804 V 29700 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
             "related_to": "     Brentford   vs   Wolves"
         },
         {
@@ -1200,6 +1266,22 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.stan.com.au/sport",
+            "related_to": "     Brentford   vs   Wolves"
+        },
+        {
+            "channel": "SuperSport Premier League HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11554 V 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Brentford   vs   Wolves"
+        },
+        {
+            "channel": "V Sport Premier League HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
             "related_to": "     Brentford   vs   Wolves"
         },
         {
@@ -1301,6 +1383,14 @@
             "related_to": "     Portsmouth   vs   Derby County"
         },
         {
+            "channel": "Cosmote Sport 3 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "11843 V 27500 - 3/5",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Portsmouth   vs   Derby County"
+        },
+        {
             "channel": "EXXEN Digital T\u00fcrkiye [$]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1353,6 +1443,54 @@
             "sat": "Amos 7 4.0\u00b0w",
             "freq": "11030 V 27500 - 3/4",
             "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Portsmouth   vs   Derby County"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Portsmouth   vs   Derby County"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Portsmouth   vs   Derby County"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Portsmouth   vs   Derby County"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Portsmouth   vs   Derby County"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Portsmouth   vs   Derby County"
+        },
+        {
+            "channel": "ViaPlay \u00cdsland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Portsmouth   vs   Derby County"
         },
@@ -1427,6 +1565,14 @@
             "sat": "Belintersat 1 51.5\u00b0e",
             "freq": "11350 H 45000 - 3/4",
             "encry": "HD DRE-Crypt",
+            "link": "#",
+            "related_to": "     Rayo Vallecano   vs   Levante"
+        },
+        {
+            "channel": "Blue Sport 1 Live HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Rayo Vallecano   vs   Levante"
         },
@@ -1548,6 +1694,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.mtv.fi/urheilu",
+            "related_to": "     Rayo Vallecano   vs   Levante"
+        },
+        {
+            "channel": "Nova Sports 1 Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
             "related_to": "     Rayo Vallecano   vs   Levante"
         },
         {
