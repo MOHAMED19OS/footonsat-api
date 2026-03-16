@@ -1,6 +1,64 @@
 {
     "footonsat": [
         {
+            "compet": "ULEB Euroleague - Round 21",
+            "match": "     Hapoel Tel Aviv   vs   Paris Basketball",
+            "flags": {
+                "team1": "israel",
+                "team2": "france"
+            },
+            "time": "15:00",
+            "date": "2026-03-17"
+        },
+        {
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Hapoel Tel Aviv   vs   Paris Basketball"
+        },
+        {
+            "channel": "EuroLeague TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://tv.euroleague.net/",
+            "related_to": "     Hapoel Tel Aviv   vs   Paris Basketball"
+        },
+        {
+            "channel": "Magenta Sport ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": "     Hapoel Tel Aviv   vs   Paris Basketball"
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Hapoel Tel Aviv   vs   Paris Basketball"
+        },
+        {
+            "channel": "SportKlub 3 Slovenija",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11231 V 42000 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Hapoel Tel Aviv   vs   Paris Basketball"
+        },
+        {
+            "channel": "SportKlub 8 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Hapoel Tel Aviv   vs   Paris Basketball"
+        },
+        {
             "compet": "ULEB Euroleague - Round 30",
             "match": "     Partizan Belgrade   vs   Dubai Basketball",
             "flags": {
@@ -9,6 +67,14 @@
             },
             "time": "19:00",
             "date": "2026-03-17"
+        },
+        {
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Partizan Belgrade   vs   Dubai Basketball"
         },
         {
             "channel": "EuroLeague TV ($/geo/R)",
@@ -35,6 +101,22 @@
             "related_to": "     Partizan Belgrade   vs   Dubai Basketball"
         },
         {
+            "channel": "SportKlub 2 Slovenija",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11387 H 32000 - 3/4",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Partizan Belgrade   vs   Dubai Basketball"
+        },
+        {
+            "channel": "SportKlub 3 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Partizan Belgrade   vs   Dubai Basketball"
+        },
+        {
             "compet": "ULEB Euroleague - Round 14",
             "match": "     Olympiacos   vs   Fenerbahce",
             "flags": {
@@ -43,6 +125,14 @@
             },
             "time": "19:15",
             "date": "2026-03-17"
+        },
+        {
+            "channel": "Arena Premium 5 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12304 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Olympiacos   vs   Fenerbahce"
         },
         {
             "channel": "EuroLeague TV ($/geo/R)",
@@ -85,6 +175,22 @@
             "related_to": "     Olympiacos   vs   Fenerbahce"
         },
         {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Olympiacos   vs   Fenerbahce"
+        },
+        {
+            "channel": "SportKlub 5 Slovenija",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Olympiacos   vs   Fenerbahce"
+        },
+        {
             "compet": "ULEB Euroleague - Round 32",
             "match": "     Valencia   vs   Barcelona",
             "flags": {
@@ -93,6 +199,14 @@
             },
             "time": "17:00",
             "date": "2026-03-19"
+        },
+        {
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Valencia   vs   Barcelona"
         },
         {
             "channel": "EuroLeague TV ($/geo/R)",
@@ -145,6 +259,14 @@
             "date": "2026-03-19"
         },
         {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12480 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Anadolu Efes   vs   Monaco Basket"
+        },
+        {
             "channel": "EuroLeague TV ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -179,6 +301,14 @@
             "date": "2026-03-19"
         },
         {
+            "channel": "Arena Premium 4 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Hapoel Tel Aviv   vs   Virtus Bologna"
+        },
+        {
             "channel": "EuroLeague TV ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -211,6 +341,14 @@
             },
             "time": "19:15",
             "date": "2026-03-19"
+        },
+        {
+            "channel": "Arena Premium 5 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12304 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Olympiacos   vs   Baskonia"
         },
         {
             "channel": "EuroLeague TV ($/geo/R)",
@@ -255,6 +393,14 @@
             "date": "2026-03-19"
         },
         {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12480 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Bayern Munich   vs   Dubai Basketball"
+        },
+        {
             "channel": "EuroLeague TV ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -287,6 +433,14 @@
             },
             "time": "19:45",
             "date": "2026-03-19"
+        },
+        {
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Paris Basketball   vs   Partizan Belgrade"
         },
         {
             "channel": "EuroLeague TV ($/geo/R)",
@@ -323,6 +477,14 @@
             "date": "2026-03-20"
         },
         {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12480 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Fenerbahce   vs   Olimpia Milano"
+        },
+        {
             "channel": "EuroLeague TV ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -355,6 +517,14 @@
             },
             "time": "18:00",
             "date": "2026-03-20"
+        },
+        {
+            "channel": "Arena Premium 3 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12422 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Zalgiris Kaunas   vs   Real Madrid"
         },
         {
             "channel": "EuroLeague TV ($/geo/R)",
@@ -399,6 +569,14 @@
             "date": "2026-03-20"
         },
         {
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Panathinaikos   vs   Red Star Belgrade"
+        },
+        {
             "channel": "EuroLeague TV ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -431,6 +609,14 @@
             },
             "time": "19:45",
             "date": "2026-03-20"
+        },
+        {
+            "channel": "Arena Sport 2 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11798 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Asvel Villeurbanne   vs   Maccabi Tel Aviv"
         },
         {
             "channel": "EuroLeague TV ($/geo/R)",
