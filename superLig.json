@@ -1,108 +1,6 @@
 {
     "footonsat": [
         {
-            "compet": "T\u00fcrkiye 1. Lig - Week 31",
-            "match": "     Bandirmaspor   vs   Igdir FK",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "10:30",
-            "date": "2026-03-16"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Bandirmaspor   vs   Igdir FK"
-        },
-        {
-            "channel": "beIN Sports T\u00fcrkiye 2 HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11676 V 24444 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Bandirmaspor   vs   Igdir FK"
-        },
-        {
-            "channel": "TRT Spor T\u00fcrkiye HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11096 H 30000 - 5/6",
-            "encry": "FTA",
-            "link": "https://www.trtizle.com/canli/tv/trt-spor",
-            "related_to": "     Bandirmaspor   vs   Igdir FK"
-        },
-        {
-            "compet": "T\u00fcrkiye 1. Lig - Week 31",
-            "match": "     Corum FK   vs   Esenler Erokspor",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "13:00",
-            "date": "2026-03-16"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Corum FK   vs   Esenler Erokspor"
-        },
-        {
-            "channel": "beIN Sports T\u00fcrkiye 2 HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11676 V 24444 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Corum FK   vs   Esenler Erokspor"
-        },
-        {
-            "channel": "TRT Spor T\u00fcrkiye HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11096 H 30000 - 5/6",
-            "encry": "FTA",
-            "link": "https://www.trtizle.com/canli/tv/trt-spor",
-            "related_to": "     Corum FK   vs   Esenler Erokspor"
-        },
-        {
-            "compet": "T\u00fcrkiye 1. Lig - Week 31",
-            "match": "     Bodrumspor   vs   Boluspor",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "17:00",
-            "date": "2026-03-16"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Bodrumspor   vs   Boluspor"
-        },
-        {
-            "channel": "beIN Sports T\u00fcrkiye 2 HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11676 V 24444 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Bodrumspor   vs   Boluspor"
-        },
-        {
-            "channel": "TRT Spor T\u00fcrkiye HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11096 H 30000 - 5/6",
-            "encry": "FTA",
-            "link": "https://www.trtizle.com/canli/tv/trt-spor",
-            "related_to": "     Bodrumspor   vs   Boluspor"
-        },
-        {
             "compet": "T\u00fcrkiye S\u00fcper Lig - Week 27",
             "match": "     Fenerbah\u00e7e   vs   Gaziantep",
             "flags": {
@@ -735,6 +633,14 @@
             "date": "2026-03-19"
         },
         {
+            "channel": "beIN Connect Australia",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://connect-au.beinsports.com/en",
+            "related_to": "     Besiktas   vs   Kasimpasa"
+        },
+        {
             "channel": "beIN Connect Canada",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -743,11 +649,59 @@
             "related_to": "     Besiktas   vs   Kasimpasa"
         },
         {
+            "channel": "beIN Connect Hong Kong",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-hk.beinsports.com/en",
+            "related_to": "     Besiktas   vs   Kasimpasa"
+        },
+        {
+            "channel": "beIN Connect Indonesia",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-id.beinsports.com/id",
+            "related_to": "     Besiktas   vs   Kasimpasa"
+        },
+        {
+            "channel": "beIN Connect Malaysia",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-my.beinsports.com/en",
+            "related_to": "     Besiktas   vs   Kasimpasa"
+        },
+        {
             "channel": "beIN Connect New Zealand",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "https://connect-nz.beinsports.com/en",
+            "related_to": "     Besiktas   vs   Kasimpasa"
+        },
+        {
+            "channel": "beIN Connect Philippines",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-ph.beinsports.com/en",
+            "related_to": "     Besiktas   vs   Kasimpasa"
+        },
+        {
+            "channel": "beIN Connect Singapore",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-sg.beinsports.com/en",
+            "related_to": "     Besiktas   vs   Kasimpasa"
+        },
+        {
+            "channel": "beIN Connect Thailand",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-th.beinsports.com/en",
             "related_to": "     Besiktas   vs   Kasimpasa"
         },
         {
@@ -871,6 +825,46 @@
             "related_to": "     Besiktas   vs   Kasimpasa"
         },
         {
+            "channel": "ESPN Africa",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "11429 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Besiktas   vs   Kasimpasa"
+        },
+        {
+            "channel": "Fanatiz USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://fanatiz.com/",
+            "related_to": "     Besiktas   vs   Kasimpasa"
+        },
+        {
+            "channel": "Fox Sports 2 Argentina HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "4135 L 30000 - 5/6",
+            "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     Besiktas   vs   Kasimpasa"
+        },
+        {
+            "channel": "Fubo Sports USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.fubosportsnetwork.com/",
+            "related_to": "     Besiktas   vs   Kasimpasa"
+        },
+        {
+            "channel": "FuboTV Canada ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Besiktas   vs   Kasimpasa"
+        },
+        {
             "channel": "MATCH! Futbol 3 HD",
             "sat": "Horizons 2 84.8\u00b0e",
             "freq": "11840 H 28800 - 2/3",
@@ -883,6 +877,22 @@
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Besiktas   vs   Kasimpasa"
+        },
+        {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Besiktas   vs   Kasimpasa"
+        },
+        {
+            "channel": "SportKlub 6 Slovenija",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Besiktas   vs   Kasimpasa"
         },
@@ -914,6 +924,40 @@
         },
         {
             "compet": "T\u00fcrkiye 1. Lig - Week 32",
+            "match": "     Serik Belediyespor   vs   Sakaryaspor",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "10:30",
+            "date": "2026-03-21"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Serik Belediyespor   vs   Sakaryaspor"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye 2 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Serik Belediyespor   vs   Sakaryaspor"
+        },
+        {
+            "channel": "Tabii Spor 6 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Serik Belediyespor   vs   Sakaryaspor"
+        },
+        {
+            "compet": "T\u00fcrkiye 1. Lig - Week 32",
             "match": "     Boluspor   vs   Bandirmaspor",
             "flags": {
                 "team1": "turkey",
@@ -931,13 +975,29 @@
             "related_to": "     Boluspor   vs   Bandirmaspor"
         },
         {
+            "channel": "beIN Sports T\u00fcrkiye Max 1 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Boluspor   vs   Bandirmaspor"
+        },
+        {
+            "channel": "TRT Spor T\u00fcrkiye HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11096 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "related_to": "     Boluspor   vs   Bandirmaspor"
+        },
+        {
             "compet": "T\u00fcrkiye 1. Lig - Week 32",
-            "match": "     Serik Belediyespor   vs   Sakaryaspor",
+            "match": "     Manisa FK   vs   Sivasspor",
             "flags": {
                 "team1": "turkey",
                 "team2": "turkey"
             },
-            "time": "10:30",
+            "time": "13:00",
             "date": "2026-03-21"
         },
         {
@@ -946,7 +1006,23 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Serik Belediyespor   vs   Sakaryaspor"
+            "related_to": "     Manisa FK   vs   Sivasspor"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye 2 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Manisa FK   vs   Sivasspor"
+        },
+        {
+            "channel": "TRT Spor T\u00fcrkiye HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11096 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "related_to": "     Manisa FK   vs   Sivasspor"
         },
         {
             "compet": "T\u00fcrkiye 1. Lig - Week 32",
@@ -967,22 +1043,20 @@
             "related_to": "     Ke\u00e7i\u00f6reng\u00fcc\u00fc   vs   Adana Demirspor"
         },
         {
-            "compet": "T\u00fcrkiye 1. Lig - Week 32",
-            "match": "     Manisa FK   vs   Sivasspor",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "13:00",
-            "date": "2026-03-21"
+            "channel": "beIN Sports T\u00fcrkiye Max 1 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Ke\u00e7i\u00f6reng\u00fcc\u00fc   vs   Adana Demirspor"
         },
         {
-            "channel": "beIN Connect T\u00fcrkiye",
+            "channel": "Tabii Spor 6 ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
+            "freq": "0000 0",
             "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Manisa FK   vs   Sivasspor"
+            "link": "#",
+            "related_to": "     Ke\u00e7i\u00f6reng\u00fcc\u00fc   vs   Adana Demirspor"
         },
         {
             "compet": "T\u00fcrkiye 1. Lig - Week 32",
