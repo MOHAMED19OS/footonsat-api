@@ -7,7 +7,7 @@
                 "team1": "japan",
                 "team2": "japan"
             },
-            "time": "06:00",
+            "time": "05:00",
             "date": "2026-03-29"
         },
         {
@@ -23,6 +23,22 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "       Japanese Grand Prix       "
+        },
+        {
+            "channel": "Sky Sport Deutsch UHD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11758 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "       Japanese Grand Prix       "
+        },
+        {
+            "channel": "Sky Sport F1 Deutsch HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11720 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "       Japanese Grand Prix       "
         },
