@@ -3441,6 +3441,40 @@
             "related_to": "     Morocco   vs   Paraguay"
         },
         {
+            "compet": "Friendly International",
+            "match": "     Algeria   vs   Uruguay",
+            "flags": {
+                "team1": "algeria",
+                "team2": "uraguay"
+            },
+            "time": "19:30",
+            "date": "2026-03-31"
+        },
+        {
+            "channel": "ENTV Alg\u00e9rie HD",
+            "sat": "Eutelsat 7 West A 7.0\u00b0w",
+            "freq": "11680 H 27500 - 2/3",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Algeria   vs   Uruguay"
+        },
+        {
+            "channel": "Fox Deportes USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Algeria   vs   Uruguay"
+        },
+        {
+            "channel": "L\u00b4\u00c9quipe Live Foot (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://lequipe.fr/",
+            "related_to": "     Algeria   vs   Uruguay"
+        },
+        {
             "compet": "Spanish La Liga 2 - Week 33",
             "match": "     Real Valladolid   vs   C\u00e1diz",
             "flags": {
@@ -3521,32 +3555,6 @@
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Real Valladolid   vs   C\u00e1diz"
-        },
-        {
-            "compet": "Friendly International",
-            "match": "     Algeria   vs   Uruguay",
-            "flags": {
-                "team1": "algeria",
-                "team2": "uraguay"
-            },
-            "time": "19:30",
-            "date": "2026-03-31"
-        },
-        {
-            "channel": "ENTV Alg\u00e9rie HD",
-            "sat": "Eutelsat 7 West A 7.0\u00b0w",
-            "freq": "11680 H 27500 - 2/3",
-            "encry": "HD BISS",
-            "link": "#",
-            "related_to": "     Algeria   vs   Uruguay"
-        },
-        {
-            "channel": "L\u00b4\u00c9quipe Live Foot (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://lequipe.fr/",
-            "related_to": "     Algeria   vs   Uruguay"
         },
         {
             "compet": "FIFA/WC Inter Confederation Play-Offs - Path 1 FINAL",
