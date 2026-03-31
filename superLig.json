@@ -142,24 +142,6 @@
         },
         {
             "compet": "T\u00fcrkiye S\u00fcper Lig - Week 28",
-            "match": "     Kasimpasa   vs   Kayserispor",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "11:30",
-            "date": "2026-04-04"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Kasimpasa   vs   Kayserispor"
-        },
-        {
-            "compet": "T\u00fcrkiye S\u00fcper Lig - Week 28",
             "match": "     Gen\u00e7lerbirligi   vs   G\u00f6ztepe",
             "flags": {
                 "team1": "turkey",
@@ -175,6 +157,32 @@
             "encry": "",
             "link": "https://www.beinconnect.com.tr/spor/",
             "related_to": "     Gen\u00e7lerbirligi   vs   G\u00f6ztepe"
+        },
+        {
+            "channel": "beIN Sports MENA 6 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Gen\u00e7lerbirligi   vs   G\u00f6ztepe"
+        },
+        {
+            "compet": "T\u00fcrkiye S\u00fcper Lig - Week 28",
+            "match": "     Kasimpasa   vs   Kayserispor",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "11:30",
+            "date": "2026-04-04"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Kasimpasa   vs   Kayserispor"
         },
         {
             "compet": "T\u00fcrkiye 1. Lig - Week 33",
