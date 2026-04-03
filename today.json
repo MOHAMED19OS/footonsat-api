@@ -279,6 +279,14 @@
             "related_to": "     Middlesbrough   vs   Millwall"
         },
         {
+            "channel": "SuperSport 2 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Middlesbrough   vs   Millwall"
+        },
+        {
             "channel": "UTV Northern Ireland HD",
             "sat": "Astra 2E 28.2\u00b0e",
             "freq": "11386 V 27500 - 3/4",
@@ -1861,6 +1869,24 @@
             "related_to": "     Villefranche   vs   Rouen"
         },
         {
+            "compet": "South African Premiership - Week 25",
+            "match": "     Mamelodi Sundowns   vs   Chippa United",
+            "flags": {
+                "team1": "southafrica",
+                "team2": "southafrica"
+            },
+            "time": "17:30",
+            "date": "2026-04-03"
+        },
+        {
+            "channel": "SuperSport PSL HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11170 H 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Mamelodi Sundowns   vs   Chippa United"
+        },
+        {
             "compet": "French Ligue 2 - Week 29",
             "match": "     Red Star FC   vs   Laval",
             "flags": {
@@ -2024,6 +2050,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.primevideo.com/",
+            "related_to": "     Paris St Germain   vs   Toulouse"
+        },
+        {
+            "channel": "SuperSport 2 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
             "related_to": "     Paris St Germain   vs   Toulouse"
         },
         {
@@ -2253,6 +2287,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Rayo Vallecano   vs   Elche"
+        },
+        {
+            "channel": "SuperSport 3 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Rayo Vallecano   vs   Elche"
         },
