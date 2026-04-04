@@ -813,6 +813,14 @@
             "related_to": "     Manchester City   vs   Liverpool"
         },
         {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Manchester City   vs   Liverpool"
+        },
+        {
             "channel": "Sport 1 Israel HD",
             "sat": "Amos 7 4.0\u00b0w",
             "freq": "11474 V 27500 - 3/4",
@@ -2673,6 +2681,14 @@
             "related_to": "     Chelsea   vs   Port Vale"
         },
         {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Port Vale"
+        },
+        {
             "channel": "Sport 1 Israel HD",
             "sat": "Amos 7 4.0\u00b0w",
             "freq": "11474 V 27500 - 3/4",
@@ -3371,6 +3387,24 @@
             "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Nancy   vs   St Etienne"
+        },
+        {
+            "compet": "Saudi Pro League - Week 27",
+            "match": "     Al Hilal   vs   Al Taawoun",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "18:00",
+            "date": "2026-04-04"
+        },
+        {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Hilal   vs   Al Taawoun"
         },
         {
             "compet": "German 2. Bundesliga - Week 28",
