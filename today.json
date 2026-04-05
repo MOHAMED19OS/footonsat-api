@@ -1119,10 +1119,26 @@
             "date": "2026-04-05"
         },
         {
+            "channel": "Arena Sport 1 Slovakia HD",
+            "sat": "Belintersat 1 51.5\u00b0e",
+            "freq": "11290 H 45000 - 8/9",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Volendam   vs   Feyenoord"
+        },
+        {
             "channel": "Sport 1 Israel HD",
             "sat": "Amos 7 4.0\u00b0w",
             "freq": "11474 V 27500 - 3/4",
             "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Volendam   vs   Feyenoord"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Volendam   vs   Feyenoord"
         },
@@ -1149,6 +1165,14 @@
             "sat": "Amos 7 4.0\u00b0w",
             "freq": "11030 V 27500 - 3/4",
             "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Hartberg   vs   Salzburg"
+        },
+        {
+            "channel": "Arena Sport 2 Slovakia HD",
+            "sat": "Belintersat 1 51.5\u00b0e",
+            "freq": "11230 H 45000 - 8/9",
+            "encry": "HD Panaccess",
             "link": "#",
             "related_to": "     Hartberg   vs   Salzburg"
         },
@@ -1207,6 +1231,14 @@
             "sat": "Astra 2F 28.2\u00b0e",
             "freq": "12246 V 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Livingston   vs   Hearts"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL 2",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Livingston   vs   Hearts"
         },
@@ -1633,6 +1665,24 @@
             "related_to": "     Saarbr\u00fccken   vs   Ingolstadt"
         },
         {
+            "compet": "Austrian Bundesliga - Championship Group - 25",
+            "match": "     Rapid Vienna   vs   Sturm Graz",
+            "flags": {
+                "team1": "austria",
+                "team2": "austria"
+            },
+            "time": "15:00",
+            "date": "2026-04-05"
+        },
+        {
+            "channel": "Arena Sport 2 Slovakia HD",
+            "sat": "Belintersat 1 51.5\u00b0e",
+            "freq": "11230 H 45000 - 8/9",
+            "encry": "HD Panaccess",
+            "link": "#",
+            "related_to": "     Rapid Vienna   vs   Sturm Graz"
+        },
+        {
             "compet": "Scottish Challenge Cup - FINAL",
             "match": "     Raith Rovers   vs   Inverness CT",
             "flags": {
@@ -1856,6 +1906,14 @@
             "channel": "Sky UK Ultra HD 1",
             "sat": "Astra 2F 28.2\u00b0e",
             "freq": "12246 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Dundee   vs   Celtic"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11186 V 22000 - 2/3",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Dundee   vs   Celtic"
@@ -2467,12 +2525,38 @@
             "date": "2026-04-05"
         },
         {
+            "channel": "Arena Sport 2 Slovakia HD",
+            "sat": "Belintersat 1 51.5\u00b0e",
+            "freq": "11230 H 45000 - 8/9",
+            "encry": "HD Panaccess",
+            "link": "#",
+            "related_to": "     Alemannia Aachen   vs   Wehen Wiesbaden"
+        },
+        {
             "channel": "Magenta Sport ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
             "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
             "related_to": "     Alemannia Aachen   vs   Wehen Wiesbaden"
+        },
+        {
+            "compet": "Saudi Pro League - Week 27",
+            "match": "     Al Ettifaq   vs   Al Qadisiyah",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "18:00",
+            "date": "2026-04-05"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL 2",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Ettifaq   vs   Al Qadisiyah"
         },
         {
             "compet": "Italian Serie A - Week 31",
@@ -2647,6 +2731,14 @@
             "sat": "Amos 3 4.0\u00b0w",
             "freq": "10806 V 27500 - 3/4",
             "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Atl\u00e9tico Mineiro   vs   Atl\u00e9tico Paranaense"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Atl\u00e9tico Mineiro   vs   Atl\u00e9tico Paranaense"
         },
