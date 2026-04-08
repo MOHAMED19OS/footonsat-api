@@ -35,6 +35,24 @@
             "related_to": "     Serik Belediyespor   vs   Van BB"
         },
         {
+            "compet": "Italian Serie C Girone B - Girone B - 34",
+            "match": "     Juventus II   vs   Ternana",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "12:30",
+            "date": "2026-04-08"
+        },
+        {
+            "channel": "Sky Sport Calcio HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12073 V 29900 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Juventus II   vs   Ternana"
+        },
+        {
             "compet": "T\u00fcrkiye 1. Lig - Week 34",
             "match": "     Igdir FK   vs   Ke\u00e7i\u00f6reng\u00fcc\u00fc",
             "flags": {
@@ -183,6 +201,32 @@
             "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Al Rayyan   vs   Umm Salal"
+        },
+        {
+            "compet": "Saudi Pro League - Week 29",
+            "match": "     Al Fayha   vs   Al Ahli",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "15:55",
+            "date": "2026-04-08"
+        },
+        {
+            "channel": "Thmanyah 3 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Fayha   vs   Al Ahli"
+        },
+        {
+            "channel": "Thmanyah KSA [app]",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Fayha   vs   Al Ahli"
         },
         {
             "compet": "UEFA Europa League - Quarter Final (1st Leg)",
@@ -1011,6 +1055,14 @@
             "related_to": "     Al Hilal   vs   Al Kholood"
         },
         {
+            "channel": "Thmanyah KSA [app]",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Hilal   vs   Al Kholood"
+        },
+        {
             "compet": "Saudi Pro League - Week 29",
             "match": "     Al Ittihad   vs   NEOM SC",
             "flags": {
@@ -1025,6 +1077,14 @@
             "sat": "SES 6 40.5\u00b0w",
             "freq": "11680 V 30000 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Ittihad   vs   NEOM SC"
+        },
+        {
+            "channel": "Thmanyah KSA [app]",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Al Ittihad   vs   NEOM SC"
         },
