@@ -44,6 +44,32 @@
         },
         {
             "compet": "Italian Serie A - Week 32",
+            "match": "     Cagliari   vs   Cremonese",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "13:00",
+            "date": "2026-04-11"
+        },
+        {
+            "channel": "Ziggo Sport 2",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "MPEG-4 Viaccess",
+            "link": "#",
+            "related_to": "     Cagliari   vs   Cremonese"
+        },
+        {
+            "channel": "Ziggo Sport HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Cagliari   vs   Cremonese"
+        },
+        {
+            "compet": "Italian Serie A - Week 32",
             "match": "     AC Milan   vs   Udinese",
             "flags": {
                 "team1": "italy",
@@ -74,6 +100,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "     AC Milan   vs   Udinese"
+        },
+        {
+            "channel": "Ziggo Sport 2",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "MPEG-4 Viaccess",
+            "link": "#",
             "related_to": "     AC Milan   vs   Udinese"
         },
         {
@@ -119,6 +153,14 @@
             "related_to": "     Atalanta   vs   Juventus"
         },
         {
+            "channel": "Ziggo Sport 2",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "MPEG-4 Viaccess",
+            "link": "#",
+            "related_to": "     Atalanta   vs   Juventus"
+        },
+        {
             "compet": "Italian Serie A - Week 32",
             "match": "     Genoa   vs   Sassuolo",
             "flags": {
@@ -150,6 +192,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "     Genoa   vs   Sassuolo"
+        },
+        {
+            "channel": "Ziggo Sport HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "#",
             "related_to": "     Genoa   vs   Sassuolo"
         },
         {
@@ -199,6 +249,14 @@
             "sat": "Astra 2G 28.2\u00b0e",
             "freq": "11582 H 23000 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Parma   vs   Napoli"
+        },
+        {
+            "channel": "Ziggo Sport HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "HD Viaccess",
             "link": "#",
             "related_to": "     Parma   vs   Napoli"
         },
@@ -283,6 +341,14 @@
             "sat": "NSS 12 57.0\u00b0e",
             "freq": "3798 R 19167 - 3/5",
             "encry": "Irdeto [c]",
+            "link": "#",
+            "related_to": "     Como   vs   Inter Milan"
+        },
+        {
+            "channel": "Ziggo Sport HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "HD Viaccess",
             "link": "#",
             "related_to": "     Como   vs   Inter Milan"
         },
