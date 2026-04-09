@@ -427,6 +427,14 @@
             "date": "2026-04-16"
         },
         {
+            "channel": "beIN Sports MENA English 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     AZ Alkmaar   vs   Shakhtar Donetsk"
+        },
+        {
             "channel": "HBO Max (uk/ire) [$/geo/R]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -460,56 +468,6 @@
         },
         {
             "compet": "UEFA Conference League - Quarter Final (2nd Leg)",
-            "match": "     Fiorentina   vs   Crystal Palace",
-            "flags": {
-                "team1": "italy",
-                "team2": "england"
-            },
-            "time": "19:00",
-            "date": "2026-04-16"
-        },
-        {
-            "channel": "HBO Max (uk/ire) [$/geo/R]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.hbomax.com/ie/en",
-            "related_to": "     Fiorentina   vs   Crystal Palace"
-        },
-        {
-            "channel": "Paramount+ USA ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Fiorentina   vs   Crystal Palace"
-        },
-        {
-            "channel": "RTL+ Deutschland (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://plus.rtl.de/video-tv/live",
-            "related_to": "     Fiorentina   vs   Crystal Palace"
-        },
-        {
-            "channel": "SuperSport LaLiga HD",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "11554 V 30000 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Fiorentina   vs   Crystal Palace"
-        },
-        {
-            "channel": "TNT Sports 3 HD",
-            "sat": "Astra 2G 28.2\u00b0e",
-            "freq": "11582 H 23000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Fiorentina   vs   Crystal Palace"
-        },
-        {
-            "compet": "UEFA Conference League - Quarter Final (2nd Leg)",
             "match": "     Strasbourg   vs   Mainz 05",
             "flags": {
                 "team1": "france",
@@ -517,6 +475,14 @@
             },
             "time": "19:00",
             "date": "2026-04-16"
+        },
+        {
+            "channel": "beIN Sports MENA 6 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Strasbourg   vs   Mainz 05"
         },
         {
             "channel": "HBO Max (uk/ire) [$/geo/R]",
@@ -573,6 +539,56 @@
             "encry": "VideoGuard",
             "link": "#",
             "related_to": "     Strasbourg   vs   Mainz 05"
+        },
+        {
+            "compet": "UEFA Conference League - Quarter Final (2nd Leg)",
+            "match": "     Fiorentina   vs   Crystal Palace",
+            "flags": {
+                "team1": "italy",
+                "team2": "england"
+            },
+            "time": "19:00",
+            "date": "2026-04-16"
+        },
+        {
+            "channel": "HBO Max (uk/ire) [$/geo/R]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.hbomax.com/ie/en",
+            "related_to": "     Fiorentina   vs   Crystal Palace"
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Fiorentina   vs   Crystal Palace"
+        },
+        {
+            "channel": "RTL+ Deutschland (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://plus.rtl.de/video-tv/live",
+            "related_to": "     Fiorentina   vs   Crystal Palace"
+        },
+        {
+            "channel": "SuperSport LaLiga HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11554 V 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Fiorentina   vs   Crystal Palace"
+        },
+        {
+            "channel": "TNT Sports 3 HD",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11582 H 23000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Fiorentina   vs   Crystal Palace"
         },
         {
             "compet": "UEFA Conference League - Quarter Final (2nd Leg)",
