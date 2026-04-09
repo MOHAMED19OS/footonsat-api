@@ -37,6 +37,14 @@
             "date": "2026-04-09"
         },
         {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12480 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Fenerbahce   vs   Real Madrid"
+        },
+        {
             "channel": "EuroLeague TV ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -107,6 +115,14 @@
             "related_to": "     Valencia   vs   Panathinaikos"
         },
         {
+            "channel": "Arena Premium 3 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12422 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Valencia   vs   Panathinaikos"
+        },
+        {
             "channel": "EuroLeague TV ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -169,6 +185,14 @@
             "date": "2026-04-10"
         },
         {
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Asvel Villeurbanne   vs   Partizan Belgrade"
+        },
+        {
             "channel": "EuroLeague TV ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -205,12 +229,38 @@
             "date": "2026-04-10"
         },
         {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12480 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Partizan Belgrade   vs   Zalgiris Kaunas"
+        },
+        {
             "channel": "EuroLeague TV ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://tv.euroleague.net/",
             "related_to": "     Partizan Belgrade   vs   Zalgiris Kaunas"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 30",
+            "match": "     Maccabi Tel Aviv   vs   Hapoel Tel Aviv",
+            "flags": {
+                "team1": "israel",
+                "team2": "israel"
+            },
+            "time": "19:15",
+            "date": "2026-04-12"
+        },
+        {
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Maccabi Tel Aviv   vs   Hapoel Tel Aviv"
         },
         {
             "compet": "ULEB Euroleague - Round 38",
