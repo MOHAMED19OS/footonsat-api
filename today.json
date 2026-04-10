@@ -181,6 +181,22 @@
             "related_to": "     Wisla Plock   vs   Lechia Gdansk"
         },
         {
+            "channel": "Canal+ Sport 3 Polska HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "10892 H 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Wisla Plock   vs   Lechia Gdansk"
+        },
+        {
+            "channel": "Ekstraklasa TV ($/PPV)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.ekstraklasa.tv/ekstraklasa/",
+            "related_to": "     Wisla Plock   vs   Lechia Gdansk"
+        },
+        {
             "compet": "Romanian Superliga - Relegation Group - 4",
             "match": "     Hermannstadt   vs   Farul Constanta",
             "flags": {
@@ -925,6 +941,32 @@
             "encry": "NagraVision",
             "link": "#",
             "related_to": "     Ceuta   vs   Real Sociedad II"
+        },
+        {
+            "compet": "Polish Ekstraklasa - Week 28",
+            "match": "     Korona Kielce   vs   Jagiellonia",
+            "flags": {
+                "team1": "poland",
+                "team2": "poland"
+            },
+            "time": "18:30",
+            "date": "2026-04-10"
+        },
+        {
+            "channel": "Canal+ Sport 3 Polska HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "10892 H 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Korona Kielce   vs   Jagiellonia"
+        },
+        {
+            "channel": "Ekstraklasa TV ($/PPV)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.ekstraklasa.tv/ekstraklasa/",
+            "related_to": "     Korona Kielce   vs   Jagiellonia"
         },
         {
             "compet": "English League Two - Week 43",
