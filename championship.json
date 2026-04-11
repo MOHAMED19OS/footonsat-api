@@ -2,96 +2,6 @@
     "footonsat": [
         {
             "compet": "English Championship - Week 42",
-            "match": "     West Bromwich Albion   vs   Millwall",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "19:00",
-            "date": "2026-04-10"
-        },
-        {
-            "channel": "Arena Sport 6 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11554 V 30000 - 5/6",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     West Bromwich Albion   vs   Millwall"
-        },
-        {
-            "channel": "Astro Football HD",
-            "sat": "Measat 3b 91.5\u00b0e",
-            "freq": "10932 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     West Bromwich Albion   vs   Millwall"
-        },
-        {
-            "channel": "beIN Sports MENA 6 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 V 27500 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     West Bromwich Albion   vs   Millwall"
-        },
-        {
-            "channel": "beIN Sports MENA English 2 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "11390 V 27500 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     West Bromwich Albion   vs   Millwall"
-        },
-        {
-            "channel": "Cosmote Sport 3 HD",
-            "sat": "Eutelsat 9B 9.0\u00b0e",
-            "freq": "11843 V 27500 - 3/5",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     West Bromwich Albion   vs   Millwall"
-        },
-        {
-            "channel": "Setanta Sports Premium HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://tv.kyivstar.ua/en/setantasports",
-            "related_to": "     West Bromwich Albion   vs   Millwall"
-        },
-        {
-            "channel": "Sky Go UK [online]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     West Bromwich Albion   vs   Millwall"
-        },
-        {
-            "channel": "Sky Sports Football HD",
-            "sat": "Astra 2E 28.2\u00b0e",
-            "freq": "12012 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     West Bromwich Albion   vs   Millwall"
-        },
-        {
-            "channel": "Sport 4 Israel HD",
-            "sat": "Amos 7 4.0\u00b0w",
-            "freq": "11030 V 27500 - 3/4",
-            "encry": "VideoGuard",
-            "link": "#",
-            "related_to": "     West Bromwich Albion   vs   Millwall"
-        },
-        {
-            "channel": "SuperSport ESPN HD",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "10970 V 30000 - 5/6",
-            "encry": "Irdeto",
-            "link": "#",
-            "related_to": "     West Bromwich Albion   vs   Millwall"
-        },
-        {
-            "compet": "English Championship - Week 42",
             "match": "     Norwich City   vs   Ipswich Town",
             "flags": {
                 "team1": "england",
@@ -685,6 +595,14 @@
             "date": "2026-04-18"
         },
         {
+            "channel": "beIN Sports MENA English 2 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "11390 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Portsmouth   vs   Leicester City"
+        },
+        {
             "channel": "Sky Go UK [online]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -783,6 +701,24 @@
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Millwall   vs   Queens Park Rangers"
+        },
+        {
+            "compet": "English Championship - Week 43",
+            "match": "     Hull City   vs   Birmingham City",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "14:00",
+            "date": "2026-04-18"
+        },
+        {
+            "channel": "beIN Sports MENA English 2 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "11390 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Hull City   vs   Birmingham City"
         },
         {
             "compet": "English Championship - Week 43",
