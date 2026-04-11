@@ -651,10 +651,26 @@
             "related_to": "     Norwich City   vs   Ipswich Town"
         },
         {
+            "channel": "CBS Sports Network USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Norwich City   vs   Ipswich Town"
+        },
+        {
             "channel": "Cosmote Sport 2 HD",
             "sat": "Eutelsat 9B 9.0\u00b0e",
             "freq": "11843 V 27500 - 3/5",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Norwich City   vs   Ipswich Town"
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Norwich City   vs   Ipswich Town"
         },
@@ -1149,6 +1165,14 @@
             },
             "time": "11:30",
             "date": "2026-04-11"
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Coventry City   vs   Sheffield Wednesday"
         },
         {
             "channel": "Sky Sports+ [via APP]",
@@ -1851,6 +1875,14 @@
             "related_to": "     Torino   vs   Hellas Verona"
         },
         {
+            "channel": "ART Motion Sport 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "     Torino   vs   Hellas Verona"
+        },
+        {
             "channel": "Cosmote Sport 1 HD",
             "sat": "Eutelsat 9B 9.0\u00b0e",
             "freq": "11843 V 27500 - 3/5",
@@ -2045,6 +2077,14 @@
             "related_to": "     Borussia Dortmund   vs   Bayer Leverkusen"
         },
         {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayer Leverkusen"
+        },
+        {
             "channel": "Setanta Sports Qazaqstan HD",
             "sat": "KazSat 3 58.5\u00b0e",
             "freq": "12657 V 45000 - 3/4",
@@ -2089,6 +2129,14 @@
             "sat": "Amos 3 4.0\u00b0w",
             "freq": "10806 V 27500 - 3/4",
             "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayer Leverkusen"
+        },
+        {
+            "channel": "Sport TV Azerbaijan (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Borussia Dortmund   vs   Bayer Leverkusen"
         },
@@ -2199,6 +2247,14 @@
             "related_to": "     RB Leipzig   vs   M\u00f6nchengladbach"
         },
         {
+            "channel": "ST Sports Arena",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11938 V 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   M\u00f6nchengladbach"
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2293,6 +2349,14 @@
             "sat": "Astra 1N 19.2\u00b0e",
             "freq": "12304 H 27500 - 9/10",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Wolfsburg   vs   Eintracht Frankfurt"
+        },
+        {
+            "channel": "ST Sports Focus",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11977 V 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     Wolfsburg   vs   Eintracht Frankfurt"
         },
@@ -2503,6 +2567,14 @@
             "related_to": "     Sheffield United   vs   Hull City"
         },
         {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Sheffield United   vs   Hull City"
+        },
+        {
             "channel": "Sport 2 Israel HD",
             "sat": "Amos 7 4.0\u00b0w",
             "freq": "11030 V 27500 - 3/4",
@@ -2675,6 +2747,14 @@
             "related_to": "     Burnley   vs   Brighton H.A."
         },
         {
+            "channel": "Futbol TV Tajikistan",
+            "sat": "ABS 2A 75.0\u00b0e",
+            "freq": "12252 H 10000 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Burnley   vs   Brighton H.A."
+        },
+        {
             "channel": "Go3 Extra Sport Baltics ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -2727,6 +2807,22 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Burnley   vs   Brighton H.A."
+        },
+        {
+            "channel": "Persiana Sports 2 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
+            "related_to": "     Burnley   vs   Brighton H.A."
+        },
+        {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Burnley   vs   Brighton H.A."
         },
@@ -2989,6 +3085,14 @@
             "related_to": "     Brentford   vs   Everton"
         },
         {
+            "channel": "Idman TV HD",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11175 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Brentford   vs   Everton"
+        },
+        {
             "channel": "Monomax Streaming ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -3009,6 +3113,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Brentford   vs   Everton"
+        },
+        {
+            "channel": "Persiana Sports 3 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Brentford   vs   Everton"
         },
@@ -3551,6 +3663,230 @@
             "related_to": "     Elgin City   vs   Annan Athletic"
         },
         {
+            "compet": "English League One - Week 43",
+            "match": "     Bradford City   vs   Stevenage",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "14:00",
+            "date": "2026-04-11"
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Bradford City   vs   Stevenage"
+        },
+        {
+            "compet": "English Championship - Week 42",
+            "match": "     Leicester City   vs   Swansea City",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "14:00",
+            "date": "2026-04-11"
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Leicester City   vs   Swansea City"
+        },
+        {
+            "compet": "English Championship - Week 42",
+            "match": "     Southampton   vs   Derby County",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "14:00",
+            "date": "2026-04-11"
+        },
+        {
+            "channel": "CBS Sports Golazo N/W (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "FTA",
+            "link": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
+            "related_to": "     Southampton   vs   Derby County"
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Southampton   vs   Derby County"
+        },
+        {
+            "compet": "English National League 1 - Week 44",
+            "match": "     Aldershot   vs   Gateshead",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "14:00",
+            "date": "2026-04-11"
+        },
+        {
+            "channel": "DAZN Worldwide ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com",
+            "related_to": "     Aldershot   vs   Gateshead"
+        },
+        {
+            "compet": "English National League 1 - Week 44",
+            "match": "     Altrincham   vs   Eastleigh",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "14:00",
+            "date": "2026-04-11"
+        },
+        {
+            "channel": "DAZN Worldwide ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com",
+            "related_to": "     Altrincham   vs   Eastleigh"
+        },
+        {
+            "compet": "English National League 1 - Week 44",
+            "match": "     Boston United   vs   Truro City",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "14:00",
+            "date": "2026-04-11"
+        },
+        {
+            "channel": "DAZN Worldwide ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com",
+            "related_to": "     Boston United   vs   Truro City"
+        },
+        {
+            "compet": "English National League 1 - Week 44",
+            "match": "     Carlisle United   vs   Sutton United",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "14:00",
+            "date": "2026-04-11"
+        },
+        {
+            "channel": "DAZN Worldwide ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com",
+            "related_to": "     Carlisle United   vs   Sutton United"
+        },
+        {
+            "compet": "English National League 1 - Week 44",
+            "match": "     Forest Green Rovers   vs   Braintree Town",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "14:00",
+            "date": "2026-04-11"
+        },
+        {
+            "channel": "DAZN Worldwide ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com",
+            "related_to": "     Forest Green Rovers   vs   Braintree Town"
+        },
+        {
+            "compet": "English National League 1 - Week 44",
+            "match": "     Scunthorpe United   vs   Brackley Town",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "14:00",
+            "date": "2026-04-11"
+        },
+        {
+            "channel": "DAZN Worldwide ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com",
+            "related_to": "     Scunthorpe United   vs   Brackley Town"
+        },
+        {
+            "compet": "English National League 1 - Week 44",
+            "match": "     Southend United   vs   Solihull Moors",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "14:00",
+            "date": "2026-04-11"
+        },
+        {
+            "channel": "DAZN Worldwide ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com",
+            "related_to": "     Southend United   vs   Solihull Moors"
+        },
+        {
+            "compet": "English National League 1 - Week 44",
+            "match": "     Woking   vs   Morecambe",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "14:00",
+            "date": "2026-04-11"
+        },
+        {
+            "channel": "DAZN Worldwide ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com",
+            "related_to": "     Woking   vs   Morecambe"
+        },
+        {
+            "compet": "English National League 1 - Week 44",
+            "match": "     Yeovil Town   vs   Halifax Town",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "14:00",
+            "date": "2026-04-11"
+        },
+        {
+            "channel": "DAZN Worldwide ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com",
+            "related_to": "     Yeovil Town   vs   Halifax Town"
+        },
+        {
             "compet": "Spanish La Liga (Primera) - Week 31",
             "match": "     Elche   vs   Valencia",
             "flags": {
@@ -3574,6 +3910,14 @@
             "freq": "11512 H 30000 - 3/4",
             "encry": "HD Conax",
             "link": "#",
+            "related_to": "     Elche   vs   Valencia"
+        },
+        {
+            "channel": "ART Motion Sport 5 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
             "related_to": "     Elche   vs   Valencia"
         },
         {
@@ -3645,6 +3989,14 @@
             "sat": "Amos 3 4.0\u00b0w",
             "freq": "10806 V 27500 - 3/4",
             "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Elche   vs   Valencia"
+        },
+        {
+            "channel": "ST Sports Life",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "12418 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     Elche   vs   Valencia"
         },
@@ -3867,6 +4219,14 @@
             "related_to": "     AC Milan   vs   Udinese"
         },
         {
+            "channel": "ART Motion Sport 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "     AC Milan   vs   Udinese"
+        },
+        {
             "channel": "Astro Football HD",
             "sat": "Measat 3b 91.5\u00b0e",
             "freq": "10932 V 30000 - 5/6",
@@ -3943,6 +4303,14 @@
             "sat": "Amos 7 4.0\u00b0w",
             "freq": "11058 V 13750 - 5/6",
             "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     AC Milan   vs   Udinese"
+        },
+        {
+            "channel": "Persiana Sports 3 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     AC Milan   vs   Udinese"
         },
@@ -4157,6 +4525,14 @@
             "related_to": "     Liverpool   vs   Fulham"
         },
         {
+            "channel": "Futbol TV Tajikistan",
+            "sat": "ABS 2A 75.0\u00b0e",
+            "freq": "12252 H 10000 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Liverpool   vs   Fulham"
+        },
+        {
             "channel": "Go3 Extra Sport Baltics ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -4226,6 +4602,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "#",
+            "related_to": "     Liverpool   vs   Fulham"
+        },
+        {
+            "channel": "Persiana Sports 2 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
             "related_to": "     Liverpool   vs   Fulham"
         },
         {
@@ -4305,6 +4689,14 @@
             "sat": "NSS 12 57.0\u00b0e",
             "freq": "4095 R 30000 - 3/4",
             "encry": "PowerVu",
+            "link": "#",
+            "related_to": "     Liverpool   vs   Fulham"
+        },
+        {
+            "channel": "Sport TV Azerbaijan (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Liverpool   vs   Fulham"
         },
@@ -4527,6 +4919,14 @@
             "related_to": "     St Pauli   vs   Bayern Munich"
         },
         {
+            "channel": "Sport TV 2 Azerbaijan (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     St Pauli   vs   Bayern Munich"
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -4659,6 +5059,14 @@
             "related_to": "     Barcelona   vs   Espanyol"
         },
         {
+            "channel": "ART Motion Sport 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "     Barcelona   vs   Espanyol"
+        },
+        {
             "channel": "beIN Sports Australia 2 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -4731,10 +5139,26 @@
             "related_to": "     Barcelona   vs   Espanyol"
         },
         {
+            "channel": "Idman TV HD",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11175 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Espanyol"
+        },
+        {
             "channel": "MAX Sport 4 Bulgaria HD",
             "sat": "AzerSpace 2 45.0\u00b0e",
             "freq": "11475 V 30000 - 5/6",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Espanyol"
+        },
+        {
+            "channel": "Meraj TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11221 V 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Barcelona   vs   Espanyol"
         },
@@ -4751,6 +5175,14 @@
             "sat": "Amos 3 4.0\u00b0w",
             "freq": "10806 V 27500 - 3/4",
             "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Espanyol"
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Barcelona   vs   Espanyol"
         },
@@ -4791,6 +5223,14 @@
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11554 V 30000 - 2/3",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Espanyol"
+        },
+        {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
             "link": "#",
             "related_to": "     Barcelona   vs   Espanyol"
         },
@@ -5127,10 +5567,90 @@
             "related_to": "     Al Akhdoud   vs   Al Nassr"
         },
         {
+            "channel": "Fox Soccer Plus USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Akhdoud   vs   Al Nassr"
+        },
+        {
+            "channel": "M+ Liga de Campeones 2 HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "10729 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Al Akhdoud   vs   Al Nassr"
+        },
+        {
             "channel": "MAX Sport 2 Bulgaria HD",
             "sat": "AzerSpace 2 45.0\u00b0e",
             "freq": "11475 V 30000 - 5/6",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Al Akhdoud   vs   Al Nassr"
+        },
+        {
+            "channel": "Persiana Sports 3 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Akhdoud   vs   Al Nassr"
+        },
+        {
+            "channel": "Polsat Sport Extra 1 HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "12265 V 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Al Akhdoud   vs   Al Nassr"
+        },
+        {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Akhdoud   vs   Al Nassr"
+        },
+        {
+            "channel": "Sport TV6 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Al Akhdoud   vs   Al Nassr"
+        },
+        {
+            "channel": "SporTV Brazil HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Al Akhdoud   vs   Al Nassr"
+        },
+        {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Al Akhdoud   vs   Al Nassr"
+        },
+        {
+            "channel": "ST Sports Life",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "12418 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Al Akhdoud   vs   Al Nassr"
+        },
+        {
+            "channel": "Strike TV",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "12245 H 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
             "link": "#",
             "related_to": "     Al Akhdoud   vs   Al Nassr"
         },
@@ -5411,6 +5931,14 @@
             "related_to": "     Atalanta   vs   Juventus"
         },
         {
+            "channel": "ART Motion Sport 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "     Atalanta   vs   Juventus"
+        },
+        {
             "channel": "Astro Football HD",
             "sat": "Measat 3b 91.5\u00b0e",
             "freq": "10932 V 30000 - 5/6",
@@ -5467,11 +5995,27 @@
             "related_to": "     Atalanta   vs   Juventus"
         },
         {
+            "channel": "Futbol TV Tajikistan",
+            "sat": "ABS 2A 75.0\u00b0e",
+            "freq": "12252 H 10000 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Atalanta   vs   Juventus"
+        },
+        {
             "channel": "MAX Sport 3 Bulgaria HD",
             "sat": "AzerSpace 2 45.0\u00b0e",
             "freq": "12600 V 30000 - 5/6",
             "encry": "HD Irdeto",
             "link": "#",
+            "related_to": "     Atalanta   vs   Juventus"
+        },
+        {
+            "channel": "Persiana Sports 2 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
             "related_to": "     Atalanta   vs   Juventus"
         },
         {
@@ -5511,6 +6055,14 @@
             "sat": "Amos 7 4.0\u00b0w",
             "freq": "11474 V 27500 - 3/4",
             "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Atalanta   vs   Juventus"
+        },
+        {
+            "channel": "Sport TV Azerbaijan (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Atalanta   vs   Juventus"
         },
@@ -5580,6 +6132,14 @@
             "freq": "11554 H 30000 - 5/6",
             "encry": "HD Conax",
             "link": "#",
+            "related_to": "     Sevilla   vs   Atl\u00e9tico Madrid"
+        },
+        {
+            "channel": "ART Motion Sport 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
             "related_to": "     Sevilla   vs   Atl\u00e9tico Madrid"
         },
         {
@@ -5655,6 +6215,14 @@
             "related_to": "     Sevilla   vs   Atl\u00e9tico Madrid"
         },
         {
+            "channel": "Idman TV HD",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11175 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Sevilla   vs   Atl\u00e9tico Madrid"
+        },
+        {
             "channel": "M+ LaLiga HD",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "10818 V 22000 - 2/3",
@@ -5687,6 +6255,14 @@
             "related_to": "     Sevilla   vs   Atl\u00e9tico Madrid"
         },
         {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Sevilla   vs   Atl\u00e9tico Madrid"
+        },
+        {
             "channel": "Setanta Sports 2 Eurasia HD",
             "sat": "KazSat 3 58.5\u00b0e",
             "freq": "12657 V 45000 - 3/4",
@@ -5699,6 +6275,14 @@
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11554 V 30000 - 2/3",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Sevilla   vs   Atl\u00e9tico Madrid"
+        },
+        {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
             "link": "#",
             "related_to": "     Sevilla   vs   Atl\u00e9tico Madrid"
         },
