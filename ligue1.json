@@ -171,12 +171,74 @@
             "date": "2026-04-19"
         },
         {
+            "channel": "beIN Sports MENA 4 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Monaco   vs   Auxerre"
+        },
+        {
             "channel": "Ligue 1+ ($/geo/R)",
             "sat": "Download APP 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "https://plus.ligue1.com/home",
             "related_to": "     Monaco   vs   Auxerre"
+        },
+        {
+            "compet": "French Ligue 1 - Week 30",
+            "match": "     Metz   vs   Paris FC",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "15:15",
+            "date": "2026-04-19"
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Metz   vs   Paris FC"
+        },
+        {
+            "compet": "French Ligue 1 - Week 30",
+            "match": "     Strasbourg   vs   Rennes",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "15:15",
+            "date": "2026-04-19"
+        },
+        {
+            "channel": "beIN Sports MENA 3 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Strasbourg   vs   Rennes"
+        },
+        {
+            "compet": "French Ligue 1 - Week 30",
+            "match": "     Nantes   vs   Brest",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "15:15",
+            "date": "2026-04-19"
+        },
+        {
+            "channel": "beIN Sports MENA 5 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Nantes   vs   Brest"
         },
         {
             "compet": "French Ligue 1 - Week 30",
