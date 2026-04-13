@@ -539,6 +539,14 @@
             "related_to": "     Al Hilal   vs   Al Sadd"
         },
         {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Al Hilal   vs   Al Sadd"
+        },
+        {
             "channel": "TV Start Triumph HD",
             "sat": "Eutelsat 36C 35.9\u00b0e",
             "freq": "11785 R 27500 - 3/4",
@@ -589,6 +597,14 @@
             },
             "time": "18:30",
             "date": "2026-04-13"
+        },
+        {
+            "channel": "Cytavision Sports 7 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Real Valladolid   vs   Eibar"
         },
         {
             "channel": "LaLiga Hypermotion HD",
@@ -649,6 +665,22 @@
             "related_to": "     Rodez   vs   Troyes"
         },
         {
+            "channel": "Cablenet Sports 2 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Rodez   vs   Troyes"
+        },
+        {
+            "channel": "ViaPlay 3 Urheilu HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11823 V 27500 - 3/4",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Rodez   vs   Troyes"
+        },
+        {
             "compet": "Italian Serie A - Week 32",
             "match": "     Fiorentina   vs   Lazio",
             "flags": {
@@ -659,10 +691,42 @@
             "date": "2026-04-13"
         },
         {
+            "channel": "Arena 4 Hungary HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "12265 V 28000 - 7/8",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Fiorentina   vs   Lazio"
+        },
+        {
+            "channel": "Arena Premium 2 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "0000 0",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Fiorentina   vs   Lazio"
+        },
+        {
             "channel": "Arena Premium 3 Srbija HD",
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12422 H 30000 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Fiorentina   vs   Lazio"
+        },
+        {
+            "channel": "Arena Sport 3 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11512 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Fiorentina   vs   Lazio"
+        },
+        {
+            "channel": "Arena Sport 3 Slovenija HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Fiorentina   vs   Lazio"
         },
@@ -691,6 +755,22 @@
             "related_to": "     Fiorentina   vs   Lazio"
         },
         {
+            "channel": "Cytavision Sports 4 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Fiorentina   vs   Lazio"
+        },
+        {
+            "channel": "Cytavision Sports PPV 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Fiorentina   vs   Lazio"
+        },
+        {
             "channel": "Digi Sport 3 Romania",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "11900 H 28000 - 5/6",
@@ -711,6 +791,14 @@
             "sat": "AzerSpace 2 45.0\u00b0e",
             "freq": "12600 V 30000 - 5/6",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Fiorentina   vs   Lazio"
+        },
+        {
+            "channel": "MTV MAX Suomi HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10841 H 25000 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Fiorentina   vs   Lazio"
         },
@@ -781,10 +869,34 @@
             "date": "2026-04-13"
         },
         {
+            "channel": "Arena Premium 1 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "0000 0",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Manchester United   vs   Leeds United"
+        },
+        {
             "channel": "Arena Premium 1 Srbija HD",
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12402 V 30000 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Manchester United   vs   Leeds United"
+        },
+        {
+            "channel": "Arena Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11678 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Manchester United   vs   Leeds United"
+        },
+        {
+            "channel": "Arena Sport 1 Slovenija HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Manchester United   vs   Leeds United"
         },
@@ -882,6 +994,30 @@
             "freq": "11973 V 29900 - 2/3",
             "encry": "HD Conax",
             "link": "https://livetv.skylink.cz",
+            "related_to": "     Manchester United   vs   Leeds United"
+        },
+        {
+            "channel": "Cytavision Sports 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Manchester United   vs   Leeds United"
+        },
+        {
+            "channel": "Cytavision Sports 4K 1 UHD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Manchester United   vs   Leeds United"
+        },
+        {
+            "channel": "Cytavision Sports PPV 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
             "related_to": "     Manchester United   vs   Leeds United"
         },
         {
@@ -1013,6 +1149,14 @@
             "related_to": "     Manchester United   vs   Leeds United"
         },
         {
+            "channel": "Match 4 Hungary HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12130 H 28000 - 7/8",
+            "encry": "Conax",
+            "link": "#",
+            "related_to": "     Manchester United   vs   Leeds United"
+        },
+        {
             "channel": "Meraj TV",
             "sat": "MonacoSat 52.0\u00b0e",
             "freq": "11221 V 27500 - 2/3",
@@ -1057,6 +1201,14 @@
             "sat": "MonacoSat 52.0\u00b0e",
             "freq": "10804 H 27500 - 2/3",
             "encry": "FTA",
+            "link": "#",
+            "related_to": "     Manchester United   vs   Leeds United"
+        },
+        {
+            "channel": "Play Sports 1 Belgium",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Manchester United   vs   Leeds United"
         },
@@ -1165,6 +1317,14 @@
             "related_to": "     Manchester United   vs   Leeds United"
         },
         {
+            "channel": "Sport TV Azerbaijan (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Manchester United   vs   Leeds United"
+        },
+        {
             "channel": "Stan Sport Australia ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1261,6 +1421,14 @@
             "related_to": "     Manchester United   vs   Leeds United"
         },
         {
+            "channel": "ViaPlay 2 Urheilu HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "11278 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Manchester United   vs   Leeds United"
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1319,6 +1487,30 @@
             "date": "2026-04-13"
         },
         {
+            "channel": "Arena Premium 3 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "0000 0",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Levante   vs   Getafe"
+        },
+        {
+            "channel": "Arena Sport 2 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11554 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Levante   vs   Getafe"
+        },
+        {
+            "channel": "Arena Sport 4 Slovenija HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Levante   vs   Getafe"
+        },
+        {
             "channel": "beIN Sports Australia 2 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1359,6 +1551,22 @@
             "related_to": "     Levante   vs   Getafe"
         },
         {
+            "channel": "Cytavision Sports 4K 2 UHD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Levante   vs   Getafe"
+        },
+        {
+            "channel": "Cytavision Sports 8 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Levante   vs   Getafe"
+        },
+        {
             "channel": "DAZN LaLiga HD",
             "sat": "Astra 1KR 19.2\u00b0e",
             "freq": "11127 V 22000 - 2/3",
@@ -1387,6 +1595,14 @@
             "sat": "AzerSpace 2 45.0\u00b0e",
             "freq": "11475 V 30000 - 5/6",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Levante   vs   Getafe"
+        },
+        {
+            "channel": "MTV Urheilu 3 Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Levante   vs   Getafe"
         },
@@ -1428,6 +1644,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": "     Levante   vs   Getafe"
+        },
+        {
+            "channel": "Sp\u00edler 2 TV Hungary HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "11727 V 28000 - 7/8",
+            "encry": "NagraVision",
+            "link": "#",
             "related_to": "     Levante   vs   Getafe"
         },
         {
