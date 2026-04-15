@@ -1307,6 +1307,104 @@
             "encry": "MPEG-4 Verimatrix",
             "link": "#",
             "related_to": "     Bayern Munich   vs   Real Madrid"
+        },
+        {
+            "compet": "UEFA Champions League - Semi Final (1st Leg)",
+            "match": "     Paris St Germain   vs   Bayern Munich",
+            "flags": {
+                "team1": "france",
+                "team2": "germany"
+            },
+            "time": "19:00",
+            "date": "2026-04-28"
+        },
+        {
+            "channel": "Prime Video Deutsch [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Bayern Munich"
+        },
+        {
+            "compet": "UEFA Champions League - Semi Final (1st Leg)",
+            "match": "     Atl\u00e9tico Madrid   vs   Arsenal",
+            "flags": {
+                "team1": "spain",
+                "team2": "england"
+            },
+            "time": "19:00",
+            "date": "2026-04-29"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Atl\u00e9tico Madrid   vs   Arsenal"
+        },
+        {
+            "compet": "UEFA Champions League - Semi Final (2nd Leg)",
+            "match": "     Arsenal   vs   Atl\u00e9tico Madrid",
+            "flags": {
+                "team1": "england",
+                "team2": "spain"
+            },
+            "time": "19:00",
+            "date": "2026-05-05"
+        },
+        {
+            "channel": "Prime Video Deutsch [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Arsenal   vs   Atl\u00e9tico Madrid"
+        },
+        {
+            "compet": "UEFA Champions League - Semi Final (2nd Leg)",
+            "match": "     Bayern Munich   vs   Paris St Germain",
+            "flags": {
+                "team1": "germany",
+                "team2": "france"
+            },
+            "time": "19:00",
+            "date": "2026-05-06"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Bayern Munich   vs   Paris St Germain"
+        },
+        {
+            "compet": "UEFA Champions League - FINAL (Pusk\u00e1s Ar\u00e9na, Budapest)",
+            "match": "       ** T.B.D. **       ",
+            "flags": {
+                "team1": "notspecific",
+                "team2": "notspecific"
+            },
+            "time": "16:00",
+            "date": "2026-05-30"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "ZDF Deutschland HD",
+            "sat": "Astra 1P 19.2\u00b0e",
+            "freq": "11954 H 27500 - 3/4",
+            "encry": "HD Panaccess",
+            "link": "https://www.zdf.de/live-tv",
+            "related_to": "       ** T.B.D. **       "
         }
     ]
 }
