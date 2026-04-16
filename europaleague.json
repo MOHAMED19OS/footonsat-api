@@ -67,6 +67,14 @@
             "related_to": "     Celta Vigo   vs   Freiburg"
         },
         {
+            "channel": "CBC Sport HD",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11175 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Celta Vigo   vs   Freiburg"
+        },
+        {
             "channel": "Cosmote Sport 5 HD",
             "sat": "Eutelsat 9B 9.0\u00b0e",
             "freq": "12418 V 27500 - 2/3",
@@ -509,6 +517,14 @@
             "related_to": "     Nottingham Forest   vs   FC Porto"
         },
         {
+            "channel": "Ictimai TV HD",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11175 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Nottingham Forest   vs   FC Porto"
+        },
+        {
             "channel": "JOJ \u0160port SVK HD",
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12266 H 29900 - 3/4",
@@ -843,6 +859,14 @@
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "11934 V 29700 - 2/3",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Real Betis   vs   Sporting Braga"
+        },
+        {
+            "channel": "CBC Sport HD",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11175 H 30000 - 5/6",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Real Betis   vs   Sporting Braga"
         },
@@ -1343,6 +1367,78 @@
             "encry": "MPEG-4 Seca",
             "link": "#",
             "related_to": "     Aston Villa   vs   Bologna"
+        },
+        {
+            "compet": "UEFA Europa League - Semi Final (1st Leg)",
+            "match": "       ** T.B.D. **       ",
+            "flags": {
+                "team1": "notspecific",
+                "team2": "notspecific"
+            },
+            "time": "19:00",
+            "date": "2026-04-30"
+        },
+        {
+            "channel": "RTL+ Deutschland (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://plus.rtl.de/video-tv/live",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "compet": "UEFA Europa League - Semi Final (1st Leg)",
+            "match": "     ** T.B.D. **   vs   Freiburg",
+            "flags": {
+                "team1": "notspecific",
+                "team2": "germany"
+            },
+            "time": "19:00",
+            "date": "2026-04-30"
+        },
+        {
+            "channel": "RTL+ Deutschland (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://plus.rtl.de/video-tv/live",
+            "related_to": "     ** T.B.D. **   vs   Freiburg"
+        },
+        {
+            "compet": "UEFA Europa League - Semi Final (2nd Leg)",
+            "match": "       ** T.B.D. **       ",
+            "flags": {
+                "team1": "notspecific",
+                "team2": "notspecific"
+            },
+            "time": "19:00",
+            "date": "2026-05-07"
+        },
+        {
+            "channel": "RTL+ Deutschland (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://plus.rtl.de/video-tv/live",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "compet": "UEFA Europa League - Semi Final (2nd Leg)",
+            "match": "     Freiburg   vs   ** T.B.D. **",
+            "flags": {
+                "team1": "germany",
+                "team2": "notspecific"
+            },
+            "time": "19:00",
+            "date": "2026-05-07"
+        },
+        {
+            "channel": "RTL+ Deutschland (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://plus.rtl.de/video-tv/live",
+            "related_to": "     Freiburg   vs   ** T.B.D. **"
         },
         {
             "compet": "UEFA Europa League - FINAL (T\u00fcpras Stadyumu, Istanbul)",
