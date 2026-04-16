@@ -11,10 +11,26 @@
             "date": "2026-04-16"
         },
         {
+            "channel": "bTV Action HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "11555 V 30000 - 3/4",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Celta Vigo   vs   Freiburg"
+        },
+        {
             "channel": "Digi Sport 1 Romania HD",
             "sat": "Thor 5 0.8\u00b0w",
             "freq": "11862 H 28000 - 7/8",
             "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Celta Vigo   vs   Freiburg"
+        },
+        {
+            "channel": "Futbol TV Tajikistan",
+            "sat": "ABS 2A 75.0\u00b0e",
+            "freq": "12252 H 10000 - 3/4",
+            "encry": "HD BISS",
             "link": "#",
             "related_to": "     Celta Vigo   vs   Freiburg"
         },
@@ -71,6 +87,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Celta Vigo   vs   Freiburg"
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Celta Vigo   vs   Freiburg"
         },
@@ -147,6 +171,14 @@
             "related_to": "     Celta Vigo   vs   Freiburg"
         },
         {
+            "channel": "SuperSport 2 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Celta Vigo   vs   Freiburg"
+        },
+        {
             "channel": "SuperSport Action HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "10970 V 30000 - 5/6",
@@ -197,6 +229,14 @@
             "related_to": "     Nottingham Forest   vs   FC Porto"
         },
         {
+            "channel": "bTV Action HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "11555 V 30000 - 3/4",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Nottingham Forest   vs   FC Porto"
+        },
+        {
             "channel": "Digi Sport 1 Romania HD",
             "sat": "Thor 5 0.8\u00b0w",
             "freq": "11862 H 28000 - 7/8",
@@ -213,6 +253,14 @@
             "related_to": "     Nottingham Forest   vs   FC Porto"
         },
         {
+            "channel": "M+ Liga de Campeones 5",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "10979 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Nottingham Forest   vs   FC Porto"
+        },
+        {
             "channel": "Megogo Futbol 2 ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -225,6 +273,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Nottingham Forest   vs   FC Porto"
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Nottingham Forest   vs   FC Porto"
         },
@@ -293,10 +349,34 @@
             "related_to": "     Nottingham Forest   vs   FC Porto"
         },
         {
+            "channel": "SuperSport 2 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Nottingham Forest   vs   FC Porto"
+        },
+        {
             "channel": "SuperSport Football HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11514 H 30000 - 2/3",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Nottingham Forest   vs   FC Porto"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 1 HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Nottingham Forest   vs   FC Porto"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 360",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12130 H 27500 - 2/3",
+            "encry": "Irdeto",
             "link": "#",
             "related_to": "     Nottingham Forest   vs   FC Porto"
         },
@@ -333,6 +413,14 @@
             "related_to": "     Nottingham Forest   vs   FC Porto"
         },
         {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Nottingham Forest   vs   FC Porto"
+        },
+        {
             "compet": "UEFA Europa League - Quarter Final (2nd Leg)",
             "match": "     Real Betis   vs   Sporting Braga",
             "flags": {
@@ -355,6 +443,14 @@
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "11823 H 30000 - 5/6",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Real Betis   vs   Sporting Braga"
+        },
+        {
+            "channel": "Futbol TV Tajikistan",
+            "sat": "ABS 2A 75.0\u00b0e",
+            "freq": "12252 H 10000 - 3/4",
+            "encry": "HD BISS",
             "link": "#",
             "related_to": "     Real Betis   vs   Sporting Braga"
         },
@@ -391,6 +487,22 @@
             "related_to": "     Real Betis   vs   Sporting Braga"
         },
         {
+            "channel": "MAX Sport 4 Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "11475 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Real Betis   vs   Sporting Braga"
+        },
+        {
+            "channel": "Megogo Futbol 3 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Real Betis   vs   Sporting Braga"
+        },
+        {
             "channel": "Movistar Plus+ HD",
             "sat": "Astra 1L 19.2\u00b0e",
             "freq": "11097 V 22000 - 5/6",
@@ -407,6 +519,14 @@
             "related_to": "     Real Betis   vs   Sporting Braga"
         },
         {
+            "channel": "Persiana Sports 2 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
+            "related_to": "     Real Betis   vs   Sporting Braga"
+        },
+        {
             "channel": "Premier Sports 3 Mongolia HD",
             "sat": "Telstar 18 138.0\u00b0e",
             "freq": "12598 H 45000 - 5/6",
@@ -420,6 +540,22 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://plus.rtl.de/video-tv/live",
+            "related_to": "     Real Betis   vs   Sporting Braga"
+        },
+        {
+            "channel": "SuperSport 4 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Real Betis   vs   Sporting Braga"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 3A HD",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12169 V 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
             "related_to": "     Real Betis   vs   Sporting Braga"
         },
         {
@@ -470,6 +606,38 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.hbomax.com/ie/en",
+            "related_to": "     Aston Villa   vs   Bologna"
+        },
+        {
+            "channel": "M+ Liga de Campeones 4",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "10979 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Bologna"
+        },
+        {
+            "channel": "M+ Liga de Campeones 7",
+            "sat": "Astra 1KR 19.2\u00b0e",
+            "freq": "11686 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Bologna"
+        },
+        {
+            "channel": "MAX Sport 3 Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12600 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Bologna"
+        },
+        {
+            "channel": "Megogo Futbol 4 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
             "related_to": "     Aston Villa   vs   Bologna"
         },
         {
