@@ -27,10 +27,26 @@
             "related_to": "     Melbourne Victory   vs   Newcastle Jets"
         },
         {
+            "channel": "TNT Sports 1 HD",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "3798 R 19167 - 3/5",
+            "encry": "Irdeto [c]",
+            "link": "#",
+            "related_to": "     Melbourne Victory   vs   Newcastle Jets"
+        },
+        {
             "channel": "TNT Sports 2 HD",
             "sat": "Astra 2G 28.2\u00b0e",
             "freq": "11582 H 23000 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Melbourne Victory   vs   Newcastle Jets"
+        },
+        {
+            "channel": "TNT Sports 8",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11597 V 22000 - 5/6",
+            "encry": "VideoGuard",
             "link": "#",
             "related_to": "     Melbourne Victory   vs   Newcastle Jets"
         },
@@ -45,10 +61,26 @@
             "date": "2026-04-17"
         },
         {
+            "channel": "beIN Sports 1 HD (Astro)",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "11142 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Benfica U-19   vs   Club Brugge U-19"
+        },
+        {
             "channel": "beIN Sports MENA 5 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 H 27500 - 2/3",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Benfica U-19   vs   Club Brugge U-19"
+        },
+        {
+            "channel": "Cosmote Sport 3 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "11843 V 27500 - 3/5",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Benfica U-19   vs   Club Brugge U-19"
         },
@@ -61,10 +93,34 @@
             "related_to": "     Benfica U-19   vs   Club Brugge U-19"
         },
         {
+            "channel": "MAX Sport 3 Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12600 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Benfica U-19   vs   Club Brugge U-19"
+        },
+        {
             "channel": "Play Sports 3 Belgium",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Benfica U-19   vs   Club Brugge U-19"
+        },
+        {
+            "channel": "Sky Sport Calcio HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12073 V 29900 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Benfica U-19   vs   Club Brugge U-19"
+        },
+        {
+            "channel": "SportKlub 1 Slovenija HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Benfica U-19   vs   Club Brugge U-19"
         },
@@ -77,9 +133,25 @@
             "related_to": "     Benfica U-19   vs   Club Brugge U-19"
         },
         {
+            "channel": "TNT Sports 10",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11597 V 23000 - 2/3",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Benfica U-19   vs   Club Brugge U-19"
+        },
+        {
             "channel": "TNT Sports 4 HD",
             "sat": "Astra 2G 28.2\u00b0e",
             "freq": "11582 H 23000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Benfica U-19   vs   Club Brugge U-19"
+        },
+        {
+            "channel": "TV3 MAX Dansk HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11345 V 30000 - 3/4",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Benfica U-19   vs   Club Brugge U-19"
@@ -91,6 +163,24 @@
             "encry": "",
             "link": "https://www.uefa.tv/",
             "related_to": "     Benfica U-19   vs   Club Brugge U-19"
+        },
+        {
+            "compet": "Bahrain Premiere League - Week 18",
+            "match": "     Bahrain SC   vs   Al Ahli",
+            "flags": {
+                "team1": "bahrain",
+                "team2": "bahrain"
+            },
+            "time": "14:25",
+            "date": "2026-04-17"
+        },
+        {
+            "channel": "TV Start Russia HD",
+            "sat": "ABS 2A 75.0\u00b0e",
+            "freq": "11605 V 43200 - 7/8",
+            "encry": "MPEG-4 DreCrypt",
+            "link": "#",
+            "related_to": "     Bahrain SC   vs   Al Ahli"
         },
         {
             "compet": "Romanian Superliga - Relegation Group - 5",
@@ -117,6 +207,120 @@
             "encry": "HD Viaccess",
             "link": "#",
             "related_to": "     Otelul Galati   vs   UTA Arad"
+        },
+        {
+            "compet": "AFC Champions League Elite - Quarter-finals Play-Off",
+            "match": "     Al Ahli   vs   Johor Darul Ta'zim",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "malaysia"
+            },
+            "time": "14:45",
+            "date": "2026-04-17"
+        },
+        {
+            "channel": "Astro Arena Bola HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10772 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Johor Darul Ta'zim"
+        },
+        {
+            "channel": "beIN Sports MENA 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Johor Darul Ta'zim"
+        },
+        {
+            "channel": "Diema Sport 3 HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Johor Darul Ta'zim"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     Al Ahli   vs   Johor Darul Ta'zim"
+        },
+        {
+            "channel": "Q Sport Football HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Johor Darul Ta'zim"
+        },
+        {
+            "channel": "Silk Sport 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Johor Darul Ta'zim"
+        },
+        {
+            "channel": "Sport 1 Baltic",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Johor Darul Ta'zim"
+        },
+        {
+            "channel": "Sport 1 Ukraine",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Johor Darul Ta'zim"
+        },
+        {
+            "channel": "Sportdigital 1+ Deutsch HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Johor Darul Ta'zim"
+        },
+        {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Johor Darul Ta'zim"
+        },
+        {
+            "channel": "SportKlub 3 Slovenija",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11231 V 42000 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Johor Darul Ta'zim"
+        },
+        {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Johor Darul Ta'zim"
+        },
+        {
+            "channel": "YouTube: The AFC Hub",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.youtube.com/@TheAFCHub/streams",
+            "related_to": "     Al Ahli   vs   Johor Darul Ta'zim"
         },
         {
             "compet": "Polish Ekstraklasa - Week 29",
@@ -167,6 +371,14 @@
             "sat": "Astra 1N 19.2\u00b0e",
             "freq": "12032 H 27500 - 9/10",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Holstein Kiel   vs   Kaiserslautern"
+        },
+        {
+            "channel": "SportKlub 6 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Holstein Kiel   vs   Kaiserslautern"
         },
@@ -235,6 +447,14 @@
             },
             "time": "16:30",
             "date": "2026-04-17"
+        },
+        {
+            "channel": "beIN Sports 3 HD (Astro)",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Elversberg   vs   Karlsruhe"
         },
         {
             "channel": "OneFootball [app] ($/geo/R)",
@@ -343,6 +563,14 @@
             "related_to": "     Sassuolo   vs   Como"
         },
         {
+            "channel": "MAX Sport 3 Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12600 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Sassuolo   vs   Como"
+        },
+        {
             "channel": "SuperSport Football HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11514 H 30000 - 2/3",
@@ -369,6 +597,30 @@
             "date": "2026-04-17"
         },
         {
+            "channel": "beIN Sports 1 HD (Astro)",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "11142 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Real Madrid U-19   vs   Paris St Germain U-19"
+        },
+        {
+            "channel": "beIN Sports MENA 5 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Real Madrid U-19   vs   Paris St Germain U-19"
+        },
+        {
+            "channel": "Cosmote Sport 3 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "11843 V 27500 - 3/5",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Real Madrid U-19   vs   Paris St Germain U-19"
+        },
+        {
             "channel": "HBO Max (uk/ire) [$/geo/R]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -377,7 +629,31 @@
             "related_to": "     Real Madrid U-19   vs   Paris St Germain U-19"
         },
         {
+            "channel": "MAX Sport 2 Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "11475 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Real Madrid U-19   vs   Paris St Germain U-19"
+        },
+        {
             "channel": "Play Sports 3 Belgium",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Real Madrid U-19   vs   Paris St Germain U-19"
+        },
+        {
+            "channel": "Sky Sport 254 Italia HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12341 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Real Madrid U-19   vs   Paris St Germain U-19"
+        },
+        {
+            "channel": "SportKlub 5 Slovenija",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
@@ -967,6 +1243,104 @@
             "related_to": "     Pau   vs   Guingamp"
         },
         {
+            "compet": "AFC Champions League Elite - Quarter-finals Play-Off",
+            "match": "     Machida Zelvia   vs   Al Ittihad",
+            "flags": {
+                "team1": "japan",
+                "team2": "saudiarabia"
+            },
+            "time": "18:00",
+            "date": "2026-04-17"
+        },
+        {
+            "channel": "Astro Arena Bola 2 HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10892 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Machida Zelvia   vs   Al Ittihad"
+        },
+        {
+            "channel": "beIN Sports MENA 2 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Machida Zelvia   vs   Al Ittihad"
+        },
+        {
+            "channel": "ESPN 4 Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "4095 R 30000 - 5/6",
+            "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     Machida Zelvia   vs   Al Ittihad"
+        },
+        {
+            "channel": "Q Sport Football HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Machida Zelvia   vs   Al Ittihad"
+        },
+        {
+            "channel": "Silk Sport 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Machida Zelvia   vs   Al Ittihad"
+        },
+        {
+            "channel": "Sport 1 Baltic",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Machida Zelvia   vs   Al Ittihad"
+        },
+        {
+            "channel": "Sport 1 Ukraine",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Machida Zelvia   vs   Al Ittihad"
+        },
+        {
+            "channel": "Sport 4 Israel HD",
+            "sat": "Amos 7 4.0\u00b0w",
+            "freq": "11030 V 27500 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Machida Zelvia   vs   Al Ittihad"
+        },
+        {
+            "channel": "Sportdigital 1+ Deutsch HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Machida Zelvia   vs   Al Ittihad"
+        },
+        {
+            "channel": "SportKlub 9 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Machida Zelvia   vs   Al Ittihad"
+        },
+        {
+            "channel": "TV Start Russia HD",
+            "sat": "ABS 2A 75.0\u00b0e",
+            "freq": "11605 V 43200 - 7/8",
+            "encry": "MPEG-4 DreCrypt",
+            "link": "#",
+            "related_to": "     Machida Zelvia   vs   Al Ittihad"
+        },
+        {
             "compet": "Spanish La Liga 2 - Week 36",
             "match": "     Real Sociedad II   vs   Racing Santander",
             "flags": {
@@ -997,6 +1371,14 @@
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "10758 V 22000 - 5/6",
             "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Real Sociedad II   vs   Racing Santander"
+        },
+        {
+            "channel": "MAX Sport 4 Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "11475 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Real Sociedad II   vs   Racing Santander"
         },
@@ -1040,6 +1422,22 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.bbc.com/sport/live-guide",
+            "related_to": "     St Pauli   vs   FC Cologne"
+        },
+        {
+            "channel": "beIN Sports 3 HD (Astro)",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     St Pauli   vs   FC Cologne"
+        },
+        {
+            "channel": "Diema Sport 3 HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto",
+            "link": "#",
             "related_to": "     St Pauli   vs   FC Cologne"
         },
         {
@@ -1107,10 +1505,26 @@
             "related_to": "     St Pauli   vs   FC Cologne"
         },
         {
+            "channel": "SportKlub 6 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     St Pauli   vs   FC Cologne"
+        },
+        {
             "channel": "Tring Sport 2 HD",
             "sat": "Hellas Sat 4 39.0\u00b0e",
             "freq": "10890 H 30000 - 5/6",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     St Pauli   vs   FC Cologne"
+        },
+        {
+            "channel": "TV3 MAX Dansk HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11345 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     St Pauli   vs   FC Cologne"
         },
@@ -1215,6 +1629,112 @@
             "related_to": "     Legia Warsaw   vs   Zaglebie Lubin"
         },
         {
+            "compet": "Italian Serie A - Week 33",
+            "match": "     Inter Milan   vs   Cagliari",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "18:45",
+            "date": "2026-04-17"
+        },
+        {
+            "channel": "Astro Arena Bola HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10772 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Inter Milan   vs   Cagliari"
+        },
+        {
+            "channel": "beIN Sports Australia 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Inter Milan   vs   Cagliari"
+        },
+        {
+            "channel": "DAZN Great Britain (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "     Inter Milan   vs   Cagliari"
+        },
+        {
+            "channel": "DAZN Ireland ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "     Inter Milan   vs   Cagliari"
+        },
+        {
+            "channel": "MAX Sport 3 Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12600 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Inter Milan   vs   Cagliari"
+        },
+        {
+            "channel": "Sky Sport 251 Italia HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12054 H 29900 - 5/6",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Inter Milan   vs   Cagliari"
+        },
+        {
+            "channel": "Sky Sport Calcio HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12073 V 29900 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Inter Milan   vs   Cagliari"
+        },
+        {
+            "channel": "Sky Sport Italia 4K UHD",
+            "sat": "Hotbird 13E 13.0\u00b0e",
+            "freq": "11996 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Inter Milan   vs   Cagliari"
+        },
+        {
+            "channel": "Sky Sport Uno Italia HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11958 V 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Inter Milan   vs   Cagliari"
+        },
+        {
+            "channel": "SuperSport Football HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11514 H 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Inter Milan   vs   Cagliari"
+        },
+        {
+            "channel": "Tring Sport 1 HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Inter Milan   vs   Cagliari"
+        },
+        {
+            "channel": "TV2 Sport X Dansk HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10716 H 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Inter Milan   vs   Cagliari"
+        },
+        {
             "compet": "French Ligue 1 - Week 30",
             "match": "     Lens   vs   Toulouse",
             "flags": {
@@ -1228,6 +1748,14 @@
             "channel": "beIN Sports MENA 4 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Lens   vs   Toulouse"
+        },
+        {
+            "channel": "Diema Sport HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12520 V 30000 - 5/6",
             "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Lens   vs   Toulouse"
@@ -1309,72 +1837,6 @@
             "encry": "",
             "link": "https://www.loitv.ie/",
             "related_to": "     Drogheda United   vs   St Patrick's Athletic"
-        },
-        {
-            "compet": "Italian Serie A - Week 33",
-            "match": "     Inter Milan   vs   Cagliari",
-            "flags": {
-                "team1": "italy",
-                "team2": "italy"
-            },
-            "time": "18:45",
-            "date": "2026-04-17"
-        },
-        {
-            "channel": "beIN Sports Australia 3 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Inter Milan   vs   Cagliari"
-        },
-        {
-            "channel": "DAZN Great Britain (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": "     Inter Milan   vs   Cagliari"
-        },
-        {
-            "channel": "DAZN Ireland ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.dazn.com/en-IE/home",
-            "related_to": "     Inter Milan   vs   Cagliari"
-        },
-        {
-            "channel": "Sky Sport 251 Italia HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "12054 H 29900 - 5/6",
-            "encry": "VideoGuard",
-            "link": "#",
-            "related_to": "     Inter Milan   vs   Cagliari"
-        },
-        {
-            "channel": "Sky Sport Calcio HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "12073 V 29900 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Inter Milan   vs   Cagliari"
-        },
-        {
-            "channel": "SuperSport Football HD",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "11514 H 30000 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Inter Milan   vs   Cagliari"
-        },
-        {
-            "channel": "Tring Sport 1 HD",
-            "sat": "Hellas Sat 4 39.0\u00b0e",
-            "freq": "10890 H 30000 - 5/6",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Inter Milan   vs   Cagliari"
         },
         {
             "compet": "Northern Ireland Premiership - Championship Group - 37",
@@ -1509,6 +1971,14 @@
             },
             "time": "19:00",
             "date": "2026-04-17"
+        },
+        {
+            "channel": "Astro Football HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10932 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Blackburn Rovers   vs   Coventry City"
         },
         {
             "channel": "beIN Sports MENA 5 HD",
@@ -1655,6 +2125,14 @@
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "10758 V 22000 - 5/6",
             "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Las Palmas   vs   Legan\u00e9s"
+        },
+        {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Las Palmas   vs   Legan\u00e9s"
         }
