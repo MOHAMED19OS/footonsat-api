@@ -393,48 +393,6 @@
             "related_to": "     Real Madrid U-19   vs   Paris St Germain U-19"
         },
         {
-            "compet": "German 3. Liga - Week 34",
-            "match": "     Jahn Regensburg   vs   Alemannia Aachen",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "17:00",
-            "date": "2026-04-17"
-        },
-        {
-            "channel": "DFB Play TV (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.dfbplay.tv/",
-            "related_to": "     Jahn Regensburg   vs   Alemannia Aachen"
-        },
-        {
-            "channel": "Magenta Sport ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
-            "related_to": "     Jahn Regensburg   vs   Alemannia Aachen"
-        },
-        {
-            "channel": "MUTV HD",
-            "sat": "Astra 2E 28.2\u00b0e",
-            "freq": "12266 V 29500 - 8/9",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Jahn Regensburg   vs   Alemannia Aachen"
-        },
-        {
-            "channel": "TNT Sports 2 HD",
-            "sat": "Astra 2G 28.2\u00b0e",
-            "freq": "11582 H 23000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Jahn Regensburg   vs   Alemannia Aachen"
-        },
-        {
             "compet": "T\u00fcrkiye S\u00fcper Lig - Week 30",
             "match": "     Fenerbah\u00e7e   vs   Caykur Rizespor",
             "flags": {
@@ -807,6 +765,40 @@
             "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Bayern Munich II   vs   Ansbach"
+        },
+        {
+            "compet": "German 3. Liga - Week 34",
+            "match": "     Jahn Regensburg   vs   Alemannia Aachen",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "17:00",
+            "date": "2026-04-17"
+        },
+        {
+            "channel": "Arena Sport 2 Slovakia HD",
+            "sat": "Belintersat 1 51.5\u00b0e",
+            "freq": "11230 H 45000 - 8/9",
+            "encry": "HD Panaccess",
+            "link": "#",
+            "related_to": "     Jahn Regensburg   vs   Alemannia Aachen"
+        },
+        {
+            "channel": "DFB Play TV (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dfbplay.tv/",
+            "related_to": "     Jahn Regensburg   vs   Alemannia Aachen"
+        },
+        {
+            "channel": "Magenta Sport ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": "     Jahn Regensburg   vs   Alemannia Aachen"
         },
         {
             "compet": "German Regionalliga: Nordost - Week 30",
