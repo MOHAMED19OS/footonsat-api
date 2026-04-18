@@ -709,6 +709,14 @@
             "related_to": "     Brentford   vs   Fulham"
         },
         {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Brentford   vs   Fulham"
+        },
+        {
             "channel": "Sport 1 Israel HD",
             "sat": "Amos 7 4.0\u00b0w",
             "freq": "11474 V 27500 - 3/4",
@@ -1031,6 +1039,24 @@
             "related_to": "     Halifax Town   vs   Southend United"
         },
         {
+            "compet": "Scottish Cup",
+            "match": "     Dunfermline Athletic   vs   Falkirk",
+            "flags": {
+                "team1": "scotland",
+                "team2": "scotland"
+            },
+            "time": "11:30",
+            "date": "2026-04-18"
+        },
+        {
+            "channel": "Arena Sport 1 Slovakia HD",
+            "sat": "Belintersat 1 51.5\u00b0e",
+            "freq": "11290 H 45000 - 8/9",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Dunfermline Athletic   vs   Falkirk"
+        },
+        {
             "compet": "French Ligue 2 - Week 31",
             "match": "     Reims   vs   Red Star FC",
             "flags": {
@@ -1091,6 +1117,14 @@
             },
             "time": "12:00",
             "date": "2026-04-18"
+        },
+        {
+            "channel": "Arena Sport 2 Slovakia HD",
+            "sat": "Belintersat 1 51.5\u00b0e",
+            "freq": "11230 H 45000 - 8/9",
+            "encry": "HD Panaccess",
+            "link": "#",
+            "related_to": "     Saarbr\u00fccken   vs   1860 Munich"
         },
         {
             "channel": "BR Fernsehen HD",
@@ -2145,6 +2179,14 @@
             "related_to": "     Newcastle United   vs   Bournemouth"
         },
         {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Newcastle United   vs   Bournemouth"
+        },
+        {
             "channel": "Sport 1 Israel HD",
             "sat": "Amos 7 4.0\u00b0w",
             "freq": "11474 V 27500 - 3/4",
@@ -2773,6 +2815,14 @@
             "date": "2026-04-18"
         },
         {
+            "channel": "Arena Sport 2 Slovakia HD",
+            "sat": "Belintersat 1 51.5\u00b0e",
+            "freq": "11230 H 45000 - 8/9",
+            "encry": "HD Panaccess",
+            "link": "#",
+            "related_to": "     SSV Ulm   vs   TSV Havelse"
+        },
+        {
             "channel": "Magenta Sport ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2945,6 +2995,14 @@
             "sat": "NSS 12 57.0\u00b0e",
             "freq": "3798 R 19167 - 3/5",
             "encry": "Irdeto [c]",
+            "link": "#",
+            "related_to": "     Napoli   vs   Lazio"
+        },
+        {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
             "link": "#",
             "related_to": "     Napoli   vs   Lazio"
         },
@@ -3159,6 +3217,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Tottenham Hotspur   vs   Brighton H.A."
+        },
+        {
+            "channel": "Futbol TV Tajikistan",
+            "sat": "ABS 2A 75.0\u00b0e",
+            "freq": "12252 H 10000 - 3/4",
+            "encry": "HD BISS",
             "link": "#",
             "related_to": "     Tottenham Hotspur   vs   Brighton H.A."
         },
@@ -3987,6 +4053,14 @@
             "related_to": "     Chelsea   vs   Manchester United"
         },
         {
+            "channel": "beIN Sports MENA 4K UHD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "11310 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Manchester United"
+        },
+        {
             "channel": "beIN Sports MENA English 1 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10850 V 27500 - 2/3",
@@ -4059,6 +4133,22 @@
             "related_to": "     Chelsea   vs   Manchester United"
         },
         {
+            "channel": "Idman TV HD",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11175 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Manchester United"
+        },
+        {
+            "channel": "Meraj TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11221 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Manchester United"
+        },
+        {
             "channel": "Monomax Streaming ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -4095,6 +4185,14 @@
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "11958 V 27500 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Manchester United"
+        },
+        {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Chelsea   vs   Manchester United"
         },
@@ -4163,6 +4261,14 @@
             "related_to": "     Chelsea   vs   Manchester United"
         },
         {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Manchester United"
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -4225,6 +4331,14 @@
             "sat": "*DTT 0.0\u00b0-",
             "freq": "0000 - -",
             "encry": "MPEG-4 Viaccess",
+            "link": "#",
+            "related_to": "     Atl\u00e9tico Madrid   vs   Real Sociedad"
+        },
+        {
+            "channel": "Futbol TV Tajikistan",
+            "sat": "ABS 2A 75.0\u00b0e",
+            "freq": "12252 H 10000 - 3/4",
+            "encry": "HD BISS",
             "link": "#",
             "related_to": "     Atl\u00e9tico Madrid   vs   Real Sociedad"
         },
