@@ -1,72 +1,6 @@
 {
     "footonsat": [
         {
-            "compet": "AFC Champions League Elite - Quarter-finals Play-Off",
-            "match": "     Buriram United   vs   Shabab Al Ahli",
-            "flags": {
-                "team1": "thailand",
-                "team2": "uae"
-            },
-            "time": "16:15",
-            "date": "2026-04-18"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     Buriram United   vs   Shabab Al Ahli"
-        },
-        {
-            "channel": "Persiana Sports 3 HD",
-            "sat": "MonacoSat 52.0\u00b0e",
-            "freq": "11420 V 27500 - 2/3",
-            "encry": "FTA",
-            "link": "#",
-            "related_to": "     Buriram United   vs   Shabab Al Ahli"
-        },
-        {
-            "channel": "Q Sport Football HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Buriram United   vs   Shabab Al Ahli"
-        },
-        {
-            "channel": "Sport 1 Baltic",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Buriram United   vs   Shabab Al Ahli"
-        },
-        {
-            "channel": "Sportdigital 1+ Deutsch HD",
-            "sat": "Astra 1L 19.2\u00b0e",
-            "freq": "11186 V 22000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Buriram United   vs   Shabab Al Ahli"
-        },
-        {
-            "channel": "TV Start Russia HD",
-            "sat": "ABS 2A 75.0\u00b0e",
-            "freq": "11605 V 43200 - 7/8",
-            "encry": "MPEG-4 DreCrypt",
-            "link": "#",
-            "related_to": "     Buriram United   vs   Shabab Al Ahli"
-        },
-        {
-            "channel": "YouTube: The AFC Hub",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "     Buriram United   vs   Shabab Al Ahli"
-        },
-        {
             "compet": "AFC Champions League 2 - Play-Off - Quarter-finals",
             "match": "     Al Wasl   vs   Al Nassr",
             "flags": {
@@ -77,11 +11,75 @@
             "date": "2026-04-19"
         },
         {
+            "channel": "beIN Sports MENA 2 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Al Wasl   vs   Al Nassr"
+        },
+        {
+            "channel": "Canal 11 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12437 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Al Wasl   vs   Al Nassr"
+        },
+        {
+            "channel": "ESPN 3 Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "3980 L 21600 - 3/4",
+            "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     Al Wasl   vs   Al Nassr"
+        },
+        {
             "channel": "Persiana Sports 2 HD",
             "sat": "MonacoSat 52.0\u00b0e",
             "freq": "10804 H 27500 - 2/3",
             "encry": "FTA",
             "link": "https://pokertvfa.live/",
+            "related_to": "     Al Wasl   vs   Al Nassr"
+        },
+        {
+            "channel": "Play Diema XTRA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://gong.bg/streaming",
+            "related_to": "     Al Wasl   vs   Al Nassr"
+        },
+        {
+            "channel": "Sport 2 Baltic",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Wasl   vs   Al Nassr"
+        },
+        {
+            "channel": "Sport 2 Ukraine",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Wasl   vs   Al Nassr"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Wasl   vs   Al Nassr"
+        },
+        {
+            "channel": "TV Start Triumph HD",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "11785 R 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess",
+            "link": "#",
             "related_to": "     Al Wasl   vs   Al Nassr"
         }
     ]
