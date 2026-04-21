@@ -189,6 +189,14 @@
             "date": "2026-04-21"
         },
         {
+            "channel": "Azam Sports 4 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Athletic Bilbao   vs   Osasuna"
+        },
+        {
             "channel": "beIN Sports 1 HD (Astro)",
             "sat": "Measat 3b 91.5\u00b0e",
             "freq": "11142 V 30000 - 5/6",
@@ -253,6 +261,14 @@
             "related_to": "     Athletic Bilbao   vs   Osasuna"
         },
         {
+            "channel": "DAZN 1 Bar Deutsch HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12070 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Athletic Bilbao   vs   Osasuna"
+        },
+        {
             "channel": "DAZN 1 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12399 H 27500 - 3/4",
@@ -269,10 +285,34 @@
             "related_to": "     Athletic Bilbao   vs   Osasuna"
         },
         {
+            "channel": "MATCH! Futbol 2 HD",
+            "sat": "Horizons 2 84.8\u00b0e",
+            "freq": "11840 H 28800 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Athletic Bilbao   vs   Osasuna"
+        },
+        {
             "channel": "MAX Sport 4 Bulgaria HD",
             "sat": "AzerSpace 2 45.0\u00b0e",
             "freq": "11475 V 30000 - 5/6",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Athletic Bilbao   vs   Osasuna"
+        },
+        {
+            "channel": "Megogo Futbol 2 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Athletic Bilbao   vs   Osasuna"
+        },
+        {
+            "channel": "New World Sport 3 Togo",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     Athletic Bilbao   vs   Osasuna"
         },
@@ -325,6 +365,22 @@
             "related_to": "     Athletic Bilbao   vs   Osasuna"
         },
         {
+            "channel": "S Sport 1 T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "12188 V 27500 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Athletic Bilbao   vs   Osasuna"
+        },
+        {
+            "channel": "Sp\u00edler 2 TV Hungary HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "11727 V 28000 - 7/8",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Athletic Bilbao   vs   Osasuna"
+        },
+        {
             "channel": "SuperSport 2 Albania HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "10845 H 30000 - 3/5",
@@ -341,6 +397,14 @@
             "related_to": "     Athletic Bilbao   vs   Osasuna"
         },
         {
+            "channel": "TV2 Sport X Dansk HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10716 H 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Athletic Bilbao   vs   Osasuna"
+        },
+        {
             "compet": "Spanish La Liga (Primera) - Week 33",
             "match": "     Mallorca   vs   Valencia",
             "flags": {
@@ -349,6 +413,14 @@
             },
             "time": "17:00",
             "date": "2026-04-21"
+        },
+        {
+            "channel": "Azam Sports 2 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Mallorca   vs   Valencia"
         },
         {
             "channel": "beIN Sports 3 HD (Astro)",
@@ -363,6 +435,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Mallorca   vs   Valencia"
+        },
+        {
+            "channel": "beIN Sports France 4 HD max",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Mallorca   vs   Valencia"
         },
@@ -383,6 +463,14 @@
             "related_to": "     Mallorca   vs   Valencia"
         },
         {
+            "channel": "DAZN 2 Bar Deutsch HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11798 H 27500 - 9/0",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Mallorca   vs   Valencia"
+        },
+        {
             "channel": "DAZN 2 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
@@ -395,6 +483,38 @@
             "sat": "AzerSpace 1 46.0\u00b0e",
             "freq": "11175 H 30000 - 5/6",
             "encry": "FTA",
+            "link": "#",
+            "related_to": "     Mallorca   vs   Valencia"
+        },
+        {
+            "channel": "MATCH! Futbol 3 HD",
+            "sat": "Horizons 2 84.8\u00b0e",
+            "freq": "11840 H 28800 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Mallorca   vs   Valencia"
+        },
+        {
+            "channel": "Megogo Futbol 3 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Mallorca   vs   Valencia"
+        },
+        {
+            "channel": "Megogo Sport Ukraine HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12285 V 30000 - 2/3",
+            "encry": "FTA",
+            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
+            "related_to": "     Mallorca   vs   Valencia"
+        },
+        {
+            "channel": "New World Sport 4 Togo",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     Mallorca   vs   Valencia"
         },
@@ -419,6 +539,14 @@
             "sat": "Hellas Sat 3 39.0\u00b0e",
             "freq": "12606 V 30000 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Mallorca   vs   Valencia"
+        },
+        {
+            "channel": "Setanta Sports 2 Eurasia HD",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "12657 V 45000 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Mallorca   vs   Valencia"
         },
@@ -521,6 +649,22 @@
             "sat": " \u00b0",
             "freq": " ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Leicester City   vs   Hull City"
+        },
+        {
+            "channel": "Setanta Sports Qazaqstan HD",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "12657 V 45000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Leicester City   vs   Hull City"
+        },
+        {
+            "channel": "Setanta Sports+ Ukraine HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "12207 V 30000 - 2/3",
+            "encry": "HD Verimatrix",
             "link": "#",
             "related_to": "     Leicester City   vs   Hull City"
         },
@@ -1107,7 +1251,7 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
+            "link": "https://www.beinconnect.com.tr/spor",
             "related_to": "     Brighton H.A.   vs   Chelsea"
         },
         {
@@ -1123,6 +1267,22 @@
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10850 V 27500 - 2/3",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Brighton H.A.   vs   Chelsea"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye 3 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Brighton H.A.   vs   Chelsea"
+        },
+        {
+            "channel": "Canal+ Foot HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Brighton H.A.   vs   Chelsea"
         },
@@ -1223,6 +1383,22 @@
             "related_to": "     Brighton H.A.   vs   Chelsea"
         },
         {
+            "channel": "See Dansk HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11265 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Brighton H.A.   vs   Chelsea"
+        },
+        {
+            "channel": "Setanta Sports 1 Eurasia HD",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "12657 V 45000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Brighton H.A.   vs   Chelsea"
+        },
+        {
             "channel": "Setanta Sports 1 Georgia HD",
             "sat": " \u00b0",
             "freq": " ",
@@ -1231,10 +1407,26 @@
             "related_to": "     Brighton H.A.   vs   Chelsea"
         },
         {
+            "channel": "Setanta Sports Ukraine HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "12207 V 30000 - 2/3",
+            "encry": "HD Verimatrix",
+            "link": "#",
+            "related_to": "     Brighton H.A.   vs   Chelsea"
+        },
+        {
             "channel": "Sky Go UK [online]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Brighton H.A.   vs   Chelsea"
+        },
+        {
+            "channel": "Sky Sport Uno Italia HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11958 V 27500 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Brighton H.A.   vs   Chelsea"
         },
@@ -1283,6 +1475,14 @@
             "sat": "Amos 7 4.0\u00b0w",
             "freq": "11474 V 27500 - 3/4",
             "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Brighton H.A.   vs   Chelsea"
+        },
+        {
+            "channel": "Sp\u00edler 1 TV Hungary HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "11766 V 28000 - 7/8",
+            "encry": "Conax",
             "link": "#",
             "related_to": "     Brighton H.A.   vs   Chelsea"
         },
@@ -1369,6 +1569,30 @@
             "date": "2026-04-21"
         },
         {
+            "channel": "Arena 4 Hungary HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "12265 V 28000 - 7/8",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Inter Milan   vs   Como"
+        },
+        {
+            "channel": "Azam Sports 3 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Inter Milan   vs   Como"
+        },
+        {
+            "channel": "Bold+ Dansk ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://bold.dk/plus",
+            "related_to": "     Inter Milan   vs   Como"
+        },
+        {
             "channel": "Canale 5 Italia HD",
             "sat": "Hellas Sat 4 39.0\u00b0e",
             "freq": "10938 H 15835 - 2/3",
@@ -1385,11 +1609,59 @@
             "related_to": "     Inter Milan   vs   Como"
         },
         {
+            "channel": "DAZN 2 Bar Deutsch HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11798 H 27500 - 9/0",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Inter Milan   vs   Como"
+        },
+        {
+            "channel": "DAZN France ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Inter Milan   vs   Como"
+        },
+        {
+            "channel": "MATCH! Futbol 1 HD",
+            "sat": "Horizons 2 84.8\u00b0e",
+            "freq": "11840 H 28800 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Inter Milan   vs   Como"
+        },
+        {
+            "channel": "MATCH! Russia HD",
+            "sat": "Yamal 401 90.0\u00b0e",
+            "freq": "3786 R 15284 - 3/4",
+            "encry": "MPEG-4 GoSTcrypt",
+            "link": "#",
+            "related_to": "     Inter Milan   vs   Como"
+        },
+        {
             "channel": "MAX Sport 3 Bulgaria HD",
             "sat": "AzerSpace 2 45.0\u00b0e",
             "freq": "12600 V 30000 - 5/6",
             "encry": "HD Irdeto",
             "link": "#",
+            "related_to": "     Inter Milan   vs   Como"
+        },
+        {
+            "channel": "MBC Action HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "12399 V 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Inter Milan   vs   Como"
+        },
+        {
+            "channel": "Megogo Futbol 1 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
             "related_to": "     Inter Milan   vs   Como"
         },
         {
@@ -1433,10 +1705,34 @@
             "related_to": "     Inter Milan   vs   Como"
         },
         {
+            "channel": "Sport 1 Czechia HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12070 H 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Inter Milan   vs   Como"
+        },
+        {
+            "channel": "Sport 1 Slovakia HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12012 V 29900 - 3/4",
+            "encry": "HD CryptoWorks",
+            "link": "#",
+            "related_to": "     Inter Milan   vs   Como"
+        },
+        {
             "channel": "Sport 4 Israel HD",
             "sat": "Amos 7 4.0\u00b0w",
             "freq": "11030 V 27500 - 3/4",
             "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Inter Milan   vs   Como"
+        },
+        {
+            "channel": "Sport Live Dansk HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "10934 V 25000 - 2/4",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Inter Milan   vs   Como"
         },
@@ -1481,11 +1777,35 @@
             "related_to": "     Inter Milan   vs   Como"
         },
         {
+            "channel": "TRT Spor T\u00fcrkiye HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11096 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "related_to": "     Inter Milan   vs   Como"
+        },
+        {
             "channel": "VG+ Sport Norge ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.vgtv.no/live",
+            "related_to": "     Inter Milan   vs   Como"
+        },
+        {
+            "channel": "Ziggo Sport 4",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "11727 V 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Inter Milan   vs   Como"
+        },
+        {
+            "channel": "Ziggo Sport HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "#",
             "related_to": "     Inter Milan   vs   Como"
         },
         {
@@ -1499,6 +1819,14 @@
             "date": "2026-04-21"
         },
         {
+            "channel": "beIN Sports France 1 HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Lens   vs   Toulouse"
+        },
+        {
             "channel": "beIN Sports MENA 4 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 V 27500 - 2/3",
@@ -1510,6 +1838,14 @@
             "channel": "beIN Sports MENA French 1 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "11390 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Lens   vs   Toulouse"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye 4 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
             "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Lens   vs   Toulouse"
@@ -1576,6 +1912,14 @@
             "freq": "11475 V 30000 - 5/6",
             "encry": "HD VideoGuard",
             "link": "#",
+            "related_to": "     Lens   vs   Toulouse"
+        },
+        {
+            "channel": "Megogo Sport Ukraine HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12285 V 30000 - 2/3",
+            "encry": "FTA",
+            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
             "related_to": "     Lens   vs   Toulouse"
         },
         {
@@ -1653,6 +1997,14 @@
             "date": "2026-04-21"
         },
         {
+            "channel": "Azam Sports 4 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Alav\u00e9s"
+        },
+        {
             "channel": "beIN Sports 1 HD (Astro)",
             "sat": "Measat 3b 91.5\u00b0e",
             "freq": "11142 V 30000 - 5/6",
@@ -1717,10 +2069,26 @@
             "related_to": "     Real Madrid   vs   Alav\u00e9s"
         },
         {
+            "channel": "DAZN 1 Bar Deutsch HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12070 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Alav\u00e9s"
+        },
+        {
             "channel": "DAZN 1 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12399 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Alav\u00e9s"
+        },
+        {
+            "channel": "MATCH! Futbol 2 HD",
+            "sat": "Horizons 2 84.8\u00b0e",
+            "freq": "11840 H 28800 - 2/3",
+            "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     Real Madrid   vs   Alav\u00e9s"
         },
@@ -1733,10 +2101,26 @@
             "related_to": "     Real Madrid   vs   Alav\u00e9s"
         },
         {
+            "channel": "Megogo Futbol 2 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Alav\u00e9s"
+        },
+        {
             "channel": "Meraj TV",
             "sat": "MonacoSat 52.0\u00b0e",
             "freq": "11221 V 27500 - 2/3",
             "encry": "FTA",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Alav\u00e9s"
+        },
+        {
+            "channel": "New World Sport 3 Togo",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     Real Madrid   vs   Alav\u00e9s"
         },
@@ -1789,10 +2173,50 @@
             "related_to": "     Real Madrid   vs   Alav\u00e9s"
         },
         {
+            "channel": "S Sport 1 T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "12188 V 27500 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Alav\u00e9s"
+        },
+        {
+            "channel": "Setanta Sports 2 Eurasia HD",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "12657 V 45000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Alav\u00e9s"
+        },
+        {
+            "channel": "Sp\u00edler 2 TV Hungary HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "11727 V 28000 - 7/8",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Alav\u00e9s"
+        },
+        {
             "channel": "SuperSport 2 Albania HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "10845 H 30000 - 3/5",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Alav\u00e9s"
+        },
+        {
+            "channel": "TV2 Sport X Dansk HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10716 H 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Alav\u00e9s"
+        },
+        {
+            "channel": "Ziggo Sport 2",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "MPEG-4 Viaccess",
             "link": "#",
             "related_to": "     Real Madrid   vs   Alav\u00e9s"
         },
@@ -1815,6 +2239,14 @@
             "date": "2026-04-21"
         },
         {
+            "channel": "Azam Sports 2 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Girona   vs   Real Betis"
+        },
+        {
             "channel": "beIN Sports 3 HD (Astro)",
             "sat": "Measat 3b 91.5\u00b0e",
             "freq": "10732 V 30000 - 5/6",
@@ -1827,6 +2259,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Girona   vs   Real Betis"
+        },
+        {
+            "channel": "beIN Sports France 4 HD max",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Girona   vs   Real Betis"
         },
@@ -1851,6 +2291,30 @@
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Girona   vs   Real Betis"
+        },
+        {
+            "channel": "MATCH! Futbol 3 HD",
+            "sat": "Horizons 2 84.8\u00b0e",
+            "freq": "11840 H 28800 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Girona   vs   Real Betis"
+        },
+        {
+            "channel": "Megogo Futbol 3 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Girona   vs   Real Betis"
+        },
+        {
+            "channel": "New World Sport 4 Togo",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     Girona   vs   Real Betis"
         },
@@ -1883,6 +2347,14 @@
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "10845 H 30000 - 3/5",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Girona   vs   Real Betis"
+        },
+        {
+            "channel": "Ziggo Sport 3",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Girona   vs   Real Betis"
         }
