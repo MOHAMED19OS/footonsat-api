@@ -1415,6 +1415,32 @@
             "related_to": "     Ipswich Town   vs   Sheffield United"
         },
         {
+            "compet": "German Regional Cup - Sachsen - Semi Final",
+            "match": "     Chemnitz   vs   Erzgebirge Aue",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "18:30",
+            "date": "2026-04-22"
+        },
+        {
+            "channel": "MDR Fernsehen HD",
+            "sat": "Astra 1P 19.2\u00b0e",
+            "freq": "10891 H 22000 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Chemnitz   vs   Erzgebirge Aue"
+        },
+        {
+            "channel": "MDR LiveStream Online",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.mdr.de/sport/livestreams/index.html",
+            "related_to": "     Chemnitz   vs   Erzgebirge Aue"
+        },
+        {
             "compet": "Belgian Pro League - Championship Group - 34",
             "match": "     Club Brugge   vs   Mechelen",
             "flags": {
@@ -1465,24 +1491,6 @@
             "encry": "",
             "link": "https://www.dazn.com/en-IE/home",
             "related_to": "     Union St Gilloise   vs   AA Gent"
-        },
-        {
-            "compet": "German Regional Cup - Sachsen - Semi Final",
-            "match": "     Chemnitz   vs   Erzgebirge Aue",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "18:30",
-            "date": "2026-04-22"
-        },
-        {
-            "channel": "MDR LiveStream Online",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.mdr.de/sport/livestreams/index.html",
-            "related_to": "     Chemnitz   vs   Erzgebirge Aue"
         },
         {
             "compet": "English Championship - Week 44",
