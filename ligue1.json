@@ -81,12 +81,74 @@
             "date": "2026-05-03"
         },
         {
+            "channel": "beIN Sports MENA 4 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Lille   vs   Le Havre"
+        },
+        {
             "channel": "Ligue 1+ ($/geo/R)",
             "sat": "Download APP 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "https://plus.ligue1.com/home",
             "related_to": "     Lille   vs   Le Havre"
+        },
+        {
+            "compet": "French Ligue 1 - Week 32",
+            "match": "     Strasbourg   vs   Toulouse",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "15:15",
+            "date": "2026-05-03"
+        },
+        {
+            "channel": "beIN Sports MENA 6 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Strasbourg   vs   Toulouse"
+        },
+        {
+            "compet": "French Ligue 1 - Week 32",
+            "match": "     Auxerre   vs   Angers",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "15:15",
+            "date": "2026-05-03"
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Auxerre   vs   Angers"
+        },
+        {
+            "compet": "French Ligue 1 - Week 32",
+            "match": "     Paris FC   vs   Brest",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "15:15",
+            "date": "2026-05-03"
+        },
+        {
+            "channel": "beIN Sports MENA 5 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Paris FC   vs   Brest"
         },
         {
             "compet": "French Ligue 1 - Week 32",
