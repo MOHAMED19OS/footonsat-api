@@ -27,12 +27,46 @@
             "related_to": "     Al Shabab   vs   Al Fateh"
         },
         {
-            "channel": "Thmanyah 1 HD",
+            "channel": "Thmanyah 2 HD",
             "sat": "Badr 8 26.0\u00b0e",
             "freq": "11919 H 27500 - 3/4",
             "encry": "FTA",
             "link": "#",
             "related_to": "     Al Shabab   vs   Al Fateh"
+        },
+        {
+            "channel": "Thmanyah KSA [app]",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Shabab   vs   Al Fateh"
+        },
+        {
+            "compet": "Saudi Pro League - Week 30",
+            "match": "     NEOM SC   vs   Al Hazem",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "16:45",
+            "date": "2026-04-28"
+        },
+        {
+            "channel": "Thmanyah 3 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     NEOM SC   vs   Al Hazem"
+        },
+        {
+            "channel": "Thmanyah KSA [app]",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     NEOM SC   vs   Al Hazem"
         },
         {
             "compet": "Saudi Pro League - Week 30",
@@ -189,6 +223,14 @@
             "related_to": "     Al Hilal   vs   Damac FC"
         },
         {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Al Hilal   vs   Damac FC"
+        },
+        {
             "channel": "SPOTV Malaysia HD",
             "sat": "Measat 3b 91.5\u00b0e",
             "freq": "10772 V 30000 - 5/6",
@@ -227,6 +269,32 @@
             "encry": "FTA",
             "link": "#",
             "related_to": "     Al Hilal   vs   Damac FC"
+        },
+        {
+            "channel": "Thmanyah KSA [app]",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Hilal   vs   Damac FC"
+        },
+        {
+            "compet": "Saudi Pro League - Week 30",
+            "match": "     Al Khaleej   vs   Al Najma",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "18:00",
+            "date": "2026-04-28"
+        },
+        {
+            "channel": "Thmanyah 4 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "12015 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Khaleej   vs   Al Najma"
         },
         {
             "compet": "English Championship - Week 40",
@@ -585,6 +653,14 @@
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "11856 V 29700 - 2/3",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Bayern Munich"
+        },
+        {
+            "channel": "CBC Sport HD",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11095 H 30000 - 5/6",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Paris St Germain   vs   Bayern Munich"
         },
