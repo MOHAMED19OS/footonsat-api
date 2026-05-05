@@ -1,6 +1,40 @@
 {
     "footonsat": [
         {
+            "compet": "T\u00fcrkiye Cup - Semi Final",
+            "match": "     Besiktas   vs   Konyaspor",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "17:30",
+            "date": "2026-05-05"
+        },
+        {
+            "channel": "ATV T\u00fcrkiye Europe",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11883 V 04800 - 5/6",
+            "encry": "Conax",
+            "link": "#",
+            "related_to": "     Besiktas   vs   Konyaspor"
+        },
+        {
+            "channel": "ATV T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "12053 H 27500 - 5/6",
+            "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Besiktas   vs   Konyaspor"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     Besiktas   vs   Konyaspor"
+        },
+        {
             "compet": "Saudi Pro League - Week 28",
             "match": "     Al Khaleej   vs   Al Hilal",
             "flags": {
@@ -9,6 +43,14 @@
             },
             "time": "18:00",
             "date": "2026-05-05"
+        },
+        {
+            "channel": "Azam Sports 2 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Al Khaleej   vs   Al Hilal"
         },
         {
             "channel": "Cosmote Sport 3 HD",
@@ -135,6 +177,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Al Khaleej   vs   Al Hilal"
+        },
+        {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Al Khaleej   vs   Al Hilal"
         },
@@ -565,6 +615,14 @@
             "related_to": "     Arsenal   vs   Atl\u00e9tico Madrid"
         },
         {
+            "channel": "Premier Sports 2 Mongolia HD",
+            "sat": "Telstar 18 138.0\u00b0e",
+            "freq": "12598 H 45000 - 5/6",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "#",
+            "related_to": "     Arsenal   vs   Atl\u00e9tico Madrid"
+        },
+        {
             "channel": "Prima Sport RO 1 HD",
             "sat": "Hellas Sat 3 39.0\u00b0e",
             "freq": "12290 V 30000 - 3/4",
@@ -681,6 +739,14 @@
             "sat": "MonacoSat 52.0\u00b0e",
             "freq": "10845 V 27500 - 2/3",
             "encry": "FTA",
+            "link": "#",
+            "related_to": "     Arsenal   vs   Atl\u00e9tico Madrid"
+        },
+        {
+            "channel": "Sport TV Azerbaijan (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Arsenal   vs   Atl\u00e9tico Madrid"
         },
