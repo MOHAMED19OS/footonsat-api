@@ -189,6 +189,22 @@
             "related_to": "     Middlesbrough   vs   Southampton"
         },
         {
+            "channel": "Setanta Sports 2 Eurasia HD",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "12657 V 45000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Middlesbrough   vs   Southampton"
+        },
+        {
+            "channel": "Setanta Sports+ Ukraine HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "12207 V 30000 - 2/3",
+            "encry": "HD Verimatrix",
+            "link": "#",
+            "related_to": "     Middlesbrough   vs   Southampton"
+        },
+        {
             "channel": "Sky Go UK [online]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -327,6 +343,14 @@
             "related_to": "     Millwall   vs   Hull City"
         },
         {
+            "channel": "TV8 T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "12346 H 09600 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.tv8.com.tr/canli-yayin",
+            "related_to": "     Millwall   vs   Hull City"
+        },
+        {
             "compet": "English Championship - Play-Off Semi Final (2nd Leg)",
             "match": "     Southampton   vs   Middlesbrough",
             "flags": {
@@ -406,6 +430,14 @@
             "freq": "12246 V 27500 - 2/3",
             "encry": "HD VideoGuard",
             "link": "#",
+            "related_to": "     Southampton   vs   Middlesbrough"
+        },
+        {
+            "channel": "TV8.5 T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "12356 H 07100 - 2/3",
+            "encry": "FTA",
+            "link": "https://www.tv8bucuk.com/tv8-5-canli-yayin",
             "related_to": "     Southampton   vs   Middlesbrough"
         }
     ]
