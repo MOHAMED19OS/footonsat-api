@@ -2,61 +2,83 @@
     "footonsat": [
         {
             "compet": "Spanish La Liga (Primera) - Week 36",
-            "match": "     Alav\u00e9s   vs   Barcelona",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "time": "16:00",
-            "date": "2026-05-13"
-        },
-        {
-            "channel": "M+ LaLiga HD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "10818 V 22000 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Alav\u00e9s   vs   Barcelona"
-        },
-        {
-            "channel": "Premier Sports 2 Ireland HD",
-            "sat": "Astra 2F 28.2\u00b0e",
-            "freq": "12188 H 27500 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Alav\u00e9s   vs   Barcelona"
-        },
-        {
-            "channel": "Premier Sports 2 UK HD",
-            "sat": "Astra 2G 28.2\u00b0e",
-            "freq": "11671 H 23000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Alav\u00e9s   vs   Barcelona"
-        },
-        {
-            "channel": "Premier Sports GB Player HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.premiersports.com/fr/live-now-on-demand",
-            "related_to": "     Alav\u00e9s   vs   Barcelona"
-        },
-        {
-            "compet": "Spanish La Liga (Primera) - Week 36",
             "match": "     Celta Vigo   vs   Levante",
             "flags": {
                 "team1": "spain",
                 "team2": "spain"
             },
-            "time": "16:00",
-            "date": "2026-05-13"
+            "time": "17:00",
+            "date": "2026-05-12"
+        },
+        {
+            "channel": "beIN Sports France 2 HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Celta Vigo   vs   Levante"
+        },
+        {
+            "channel": "Canal+ Sport 1 Polska HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11278 V 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Celta Vigo   vs   Levante"
+        },
+        {
+            "channel": "DAZN 1 Bar Deutsch HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12070 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Celta Vigo   vs   Levante"
+        },
+        {
+            "channel": "DAZN 1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12399 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Celta Vigo   vs   Levante"
+        },
+        {
+            "channel": "Go3 Sport 4 Baltic",
+            "sat": " 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://go3.tv/en/live_tv",
+            "related_to": "     Celta Vigo   vs   Levante"
+        },
+        {
+            "channel": "Idman TV HD",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11175 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Celta Vigo   vs   Levante"
         },
         {
             "channel": "M+ LaLiga HD",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "10818 V 22000 - 2/3",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Celta Vigo   vs   Levante"
+        },
+        {
+            "channel": "MAX Sport 4 Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "11475 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Celta Vigo   vs   Levante"
+        },
+        {
+            "channel": "Nova Sports 1 Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Celta Vigo   vs   Levante"
         },
@@ -101,20 +123,230 @@
             "related_to": "     Celta Vigo   vs   Levante"
         },
         {
+            "channel": "Setanta Sports 1 Eurasia HD",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "12657 V 45000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Celta Vigo   vs   Levante"
+        },
+        {
+            "channel": "Sp\u00edler 2 TV Hungary HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "11727 V 28000 - 7/8",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Celta Vigo   vs   Levante"
+        },
+        {
+            "channel": "SuperSport 2 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Celta Vigo   vs   Levante"
+        },
+        {
+            "compet": "Spanish La Liga (Primera) - Week 36",
+            "match": "     Real Betis   vs   Elche",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "18:00",
+            "date": "2026-05-12"
+        },
+        {
+            "channel": "beIN Sports France 4 HD max",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Real Betis   vs   Elche"
+        },
+        {
+            "channel": "DAZN 2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Real Betis   vs   Elche"
+        },
+        {
+            "channel": "DAZN LaLiga HD",
+            "sat": "Astra 1KR 19.2\u00b0e",
+            "freq": "11127 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Real Betis   vs   Elche"
+        },
+        {
+            "channel": "Eleven Sports 2 Polska HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11488 V 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Real Betis   vs   Elche"
+        },
+        {
+            "channel": "ESPN 1 Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "3980 L 21600 - 3/4",
+            "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     Real Betis   vs   Elche"
+        },
+        {
+            "channel": "LaLiga TV UK [stream] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Real Betis   vs   Elche"
+        },
+        {
+            "channel": "MAX Sport 3 Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12600 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Real Betis   vs   Elche"
+        },
+        {
+            "channel": "Nova Sports Start Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11804 V 29700 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Real Betis   vs   Elche"
+        },
+        {
+            "channel": "Premier Sports GB Player HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": "     Real Betis   vs   Elche"
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Real Betis   vs   Elche"
+        },
+        {
+            "channel": "SuperSport 3 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Real Betis   vs   Elche"
+        },
+        {
             "compet": "Spanish La Liga (Primera) - Week 36",
             "match": "     Osasuna   vs   Atl\u00e9tico Madrid",
             "flags": {
                 "team1": "spain",
                 "team2": "spain"
             },
-            "time": "16:00",
-            "date": "2026-05-13"
+            "time": "19:30",
+            "date": "2026-05-12"
+        },
+        {
+            "channel": "beIN Sports France 2 HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Osasuna   vs   Atl\u00e9tico Madrid"
+        },
+        {
+            "channel": "DAZN 1 Bar Deutsch HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12070 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Osasuna   vs   Atl\u00e9tico Madrid"
+        },
+        {
+            "channel": "DAZN 1 Italia HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11843 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Osasuna   vs   Atl\u00e9tico Madrid"
+        },
+        {
+            "channel": "DAZN 1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12399 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Osasuna   vs   Atl\u00e9tico Madrid"
+        },
+        {
+            "channel": "Eleven Sports 1 Polska HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11488 H 27500 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Osasuna   vs   Atl\u00e9tico Madrid"
+        },
+        {
+            "channel": "Go3 Sport Open Baltic",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11958 H 27500 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "https://go3.tv/en/live_tv",
+            "related_to": "     Osasuna   vs   Atl\u00e9tico Madrid"
+        },
+        {
+            "channel": "Idman TV HD",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11175 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Osasuna   vs   Atl\u00e9tico Madrid"
         },
         {
             "channel": "M+ LaLiga HD",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "10818 V 22000 - 2/3",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Osasuna   vs   Atl\u00e9tico Madrid"
+        },
+        {
+            "channel": "M+ LaLiga HDR",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Osasuna   vs   Atl\u00e9tico Madrid"
+        },
+        {
+            "channel": "MAX Sport 4 Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "11475 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Osasuna   vs   Atl\u00e9tico Madrid"
+        },
+        {
+            "channel": "Nova Sports 1 Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Osasuna   vs   Atl\u00e9tico Madrid"
+        },
+        {
+            "channel": "Nova Sports Prime Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Osasuna   vs   Atl\u00e9tico Madrid"
         },
@@ -159,6 +391,104 @@
             "related_to": "     Osasuna   vs   Atl\u00e9tico Madrid"
         },
         {
+            "channel": "Setanta Sports 1 Eurasia HD",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "12657 V 45000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Osasuna   vs   Atl\u00e9tico Madrid"
+        },
+        {
+            "channel": "Sp\u00edler 2 TV Hungary HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "11727 V 28000 - 7/8",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Osasuna   vs   Atl\u00e9tico Madrid"
+        },
+        {
+            "channel": "SuperSport 2 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Osasuna   vs   Atl\u00e9tico Madrid"
+        },
+        {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Osasuna   vs   Atl\u00e9tico Madrid"
+        },
+        {
+            "compet": "Spanish La Liga (Primera) - Week 36",
+            "match": "     Alav\u00e9s   vs   Barcelona",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "16:00",
+            "date": "2026-05-13"
+        },
+        {
+            "channel": "DAZN 2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Alav\u00e9s   vs   Barcelona"
+        },
+        {
+            "channel": "M+ LaLiga HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "10818 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Alav\u00e9s   vs   Barcelona"
+        },
+        {
+            "channel": "M+ LaLiga HDR",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Alav\u00e9s   vs   Barcelona"
+        },
+        {
+            "channel": "Premier Sports 2 Ireland HD",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12188 H 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Alav\u00e9s   vs   Barcelona"
+        },
+        {
+            "channel": "Premier Sports 2 UK HD",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11671 H 23000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Alav\u00e9s   vs   Barcelona"
+        },
+        {
+            "channel": "Premier Sports GB Player HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": "     Alav\u00e9s   vs   Barcelona"
+        },
+        {
+            "channel": "Setanta Sports 2 Eurasia HD",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "12657 V 45000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Alav\u00e9s   vs   Barcelona"
+        },
+        {
             "compet": "Spanish La Liga (Primera) - Week 36",
             "match": "     Real Madrid   vs   Real Oviedo",
             "flags": {
@@ -169,10 +499,34 @@
             "date": "2026-05-13"
         },
         {
+            "channel": "DAZN 1 Bar Deutsch HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12070 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Real Oviedo"
+        },
+        {
+            "channel": "DAZN 1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12399 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Real Oviedo"
+        },
+        {
             "channel": "DAZN LaLiga HD",
             "sat": "Astra 1KR 19.2\u00b0e",
             "freq": "11127 V 22000 - 2/3",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Real Oviedo"
+        },
+        {
+            "channel": "Idman TV HD",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11175 H 30000 - 5/6",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Real Madrid   vs   Real Oviedo"
         },
@@ -209,6 +563,14 @@
             "related_to": "     Real Madrid   vs   Real Oviedo"
         },
         {
+            "channel": "Setanta Sports 1 Eurasia HD",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "12657 V 45000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Real Oviedo"
+        },
+        {
             "compet": "Spanish La Liga (Primera) - Week 36",
             "match": "     Valencia   vs   Rayo Vallecano",
             "flags": {
@@ -219,10 +581,34 @@
             "date": "2026-05-13"
         },
         {
+            "channel": "DAZN 1 Bar Deutsch HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12070 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Valencia   vs   Rayo Vallecano"
+        },
+        {
+            "channel": "DAZN 1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12399 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Valencia   vs   Rayo Vallecano"
+        },
+        {
             "channel": "DAZN LaLiga HD",
             "sat": "Astra 1KR 19.2\u00b0e",
             "freq": "11127 V 22000 - 2/3",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Valencia   vs   Rayo Vallecano"
+        },
+        {
+            "channel": "Idman TV HD",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11175 H 30000 - 5/6",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Valencia   vs   Rayo Vallecano"
         },
@@ -251,46 +637,12 @@
             "related_to": "     Valencia   vs   Rayo Vallecano"
         },
         {
-            "compet": "Spanish La Liga (Primera) - Week 36",
-            "match": "     Real Betis   vs   Elche",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "time": "16:00",
-            "date": "2026-05-13"
-        },
-        {
-            "channel": "DAZN LaLiga HD",
-            "sat": "Astra 1KR 19.2\u00b0e",
-            "freq": "11127 V 22000 - 2/3",
-            "encry": "HD NagraVision",
+            "channel": "Setanta Sports 1 Eurasia HD",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "12657 V 45000 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
-            "related_to": "     Real Betis   vs   Elche"
-        },
-        {
-            "channel": "LaLiga TV UK [stream] ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Real Betis   vs   Elche"
-        },
-        {
-            "channel": "Premier Sports GB Player HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.premiersports.com/fr/live-now-on-demand",
-            "related_to": "     Real Betis   vs   Elche"
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Real Betis   vs   Elche"
+            "related_to": "     Valencia   vs   Rayo Vallecano"
         },
         {
             "compet": "Spanish La Liga (Primera) - Week 36",
@@ -301,6 +653,14 @@
             },
             "time": "16:00",
             "date": "2026-05-13"
+        },
+        {
+            "channel": "DAZN 2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Espanyol   vs   Athletic Bilbao"
         },
         {
             "channel": "LaLiga TV UK [stream] ($/geo/R)",
@@ -335,6 +695,14 @@
             },
             "time": "16:00",
             "date": "2026-05-13"
+        },
+        {
+            "channel": "DAZN 3 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Getafe   vs   Mallorca"
         },
         {
             "channel": "DAZN LaLiga HD",
@@ -379,6 +747,14 @@
             "date": "2026-05-13"
         },
         {
+            "channel": "DAZN 2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Girona   vs   Real Sociedad"
+        },
+        {
             "channel": "LaLiga TV UK [stream] ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -391,6 +767,14 @@
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "10818 V 22000 - 2/3",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Girona   vs   Real Sociedad"
+        },
+        {
+            "channel": "M+ LaLiga HDR",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Girona   vs   Real Sociedad"
         },
@@ -437,6 +821,14 @@
             "related_to": "     Villarreal   vs   Sevilla"
         },
         {
+            "channel": "DAZN 3 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Villarreal   vs   Sevilla"
+        },
+        {
             "channel": "DAZN Espa\u00f1a HD FTA (geo)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 - -",
@@ -449,6 +841,22 @@
             "sat": "Astra 1KR 19.2\u00b0e",
             "freq": "11127 V 22000 - 2/3",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Villarreal   vs   Sevilla"
+        },
+        {
+            "channel": "ESPN 4 Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "4095 R 30000 - 5/6",
+            "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     Villarreal   vs   Sevilla"
+        },
+        {
+            "channel": "Futbol TV Tajikistan",
+            "sat": "ABS 2A 75.0\u00b0e",
+            "freq": "12252 H 10000 - 3/4",
+            "encry": "HD BISS",
             "link": "#",
             "related_to": "     Villarreal   vs   Sevilla"
         },
@@ -474,6 +882,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": "     Villarreal   vs   Sevilla"
+        },
+        {
+            "channel": "Setanta Sports 1 Eurasia HD",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "12657 V 45000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
             "related_to": "     Villarreal   vs   Sevilla"
         },
         {
