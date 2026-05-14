@@ -27,6 +27,22 @@
             "related_to": "     Kasimpasa   vs   Galatasaray"
         },
         {
+            "channel": "beIN Sports T\u00fcrkiye 1 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11180 H 30000 - 3/4",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Kasimpasa   vs   Galatasaray"
+        },
+        {
+            "channel": "DigiTurk 4K UHD",
+            "sat": "Turksat 5B 42.0\u00b0e",
+            "freq": "11305 V 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Kasimpasa   vs   Galatasaray"
+        },
+        {
             "channel": "Prima Sport RO PPV 4",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -189,6 +205,14 @@
             "related_to": "     Caykur Rizespor   vs   Besiktas"
         },
         {
+            "channel": "DigiTurk 4K UHD",
+            "sat": "Turksat 5B 42.0\u00b0e",
+            "freq": "11305 V 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Caykur Rizespor   vs   Besiktas"
+        },
+        {
             "channel": "MATCH! Futbol 3 HD",
             "sat": "Horizons 2 84.8\u00b0e",
             "freq": "11840 H 28800 - 2/3",
@@ -255,6 +279,66 @@
             "related_to": "     Fenerbah\u00e7e   vs   Ey\u00fcpspor"
         },
         {
+            "channel": "beIN Sports T\u00fcrkiye 2 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Fenerbah\u00e7e   vs   Ey\u00fcpspor"
+        },
+        {
+            "compet": "T\u00fcrkiye S\u00fcper Lig - Week 34",
+            "match": "     Kayserispor   vs   Konyaspor",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "17:00",
+            "date": "2026-05-17"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Kayserispor   vs   Konyaspor"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye 1 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11180 H 30000 - 3/4",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Kayserispor   vs   Konyaspor"
+        },
+        {
+            "compet": "T\u00fcrkiye S\u00fcper Lig - Week 34",
+            "match": "     Samsunspor   vs   G\u00f6ztepe",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "17:00",
+            "date": "2026-05-17"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Samsunspor   vs   G\u00f6ztepe"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye 1 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11180 H 30000 - 3/4",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Samsunspor   vs   G\u00f6ztepe"
+        },
+        {
             "compet": "T\u00fcrkiye S\u00fcper Lig - Week 34",
             "match": "     Fatih Karag\u00fcmr\u00fck   vs   Alanyaspor",
             "flags": {
@@ -282,24 +366,6 @@
         },
         {
             "compet": "T\u00fcrkiye S\u00fcper Lig - Week 34",
-            "match": "     Kayserispor   vs   Konyaspor",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "17:00",
-            "date": "2026-05-17"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Kayserispor   vs   Konyaspor"
-        },
-        {
-            "compet": "T\u00fcrkiye S\u00fcper Lig - Week 34",
             "match": "     Gaziantep   vs   Istanbul Basaksehir",
             "flags": {
                 "team1": "turkey",
@@ -317,40 +383,12 @@
             "related_to": "     Gaziantep   vs   Istanbul Basaksehir"
         },
         {
-            "compet": "T\u00fcrkiye S\u00fcper Lig - Week 34",
-            "match": "     Samsunspor   vs   G\u00f6ztepe",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "17:00",
-            "date": "2026-05-17"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Samsunspor   vs   G\u00f6ztepe"
-        },
-        {
-            "compet": "T\u00fcrkiye S\u00fcper Lig - Week 34",
-            "match": "     Antalyaspor   vs   Kocaelispor",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "17:00",
-            "date": "2026-05-17"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Antalyaspor   vs   Kocaelispor"
+            "channel": "beIN Sports T\u00fcrkiye 2 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Gaziantep   vs   Istanbul Basaksehir"
         },
         {
             "compet": "T\u00fcrkiye S\u00fcper Lig - Week 34",
@@ -393,6 +431,40 @@
             "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Trabzonspor   vs   Gen\u00e7lerbirligi"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye 3 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Trabzonspor   vs   Gen\u00e7lerbirligi"
+        },
+        {
+            "compet": "T\u00fcrkiye S\u00fcper Lig - Week 34",
+            "match": "     Antalyaspor   vs   Kocaelispor",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "17:00",
+            "date": "2026-05-17"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Antalyaspor   vs   Kocaelispor"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye 4 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Antalyaspor   vs   Kocaelispor"
         }
     ]
 }
