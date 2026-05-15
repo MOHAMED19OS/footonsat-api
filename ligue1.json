@@ -2,6 +2,80 @@
     "footonsat": [
         {
             "compet": "French Ligue 1 - Week 34",
+            "match": "     Paris FC   vs   Paris St Germain",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "19:00",
+            "date": "2026-05-16"
+        },
+        {
+            "channel": "Arena Premium 3 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12422 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Paris FC   vs   Paris St Germain"
+        },
+        {
+            "channel": "Arena Sport 1 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11720 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Paris FC   vs   Paris St Germain"
+        },
+        {
+            "channel": "beIN Sports MENA 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Paris FC   vs   Paris St Germain"
+        },
+        {
+            "channel": "beIN Sports MENA English 2 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "11390 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Paris FC   vs   Paris St Germain"
+        },
+        {
+            "channel": "beIN Sports MENA French 2 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Paris FC   vs   Paris St Germain"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye 5 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11180 H 29750 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Paris FC   vs   Paris St Germain"
+        },
+        {
+            "channel": "Ligue 1+ ($/geo/R)",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://plus.ligue1.com/home",
+            "related_to": "     Paris FC   vs   Paris St Germain"
+        },
+        {
+            "channel": "Sport TV3 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Paris FC   vs   Paris St Germain"
+        },
+        {
+            "compet": "French Ligue 1 - Week 34",
             "match": "     Lyon   vs   Lens",
             "flags": {
                 "team1": "france",
@@ -51,24 +125,6 @@
             "encry": "",
             "link": "https://plus.ligue1.com/home",
             "related_to": "     Lille   vs   Auxerre"
-        },
-        {
-            "compet": "French Ligue 1 - Week 34",
-            "match": "     Paris FC   vs   Paris St Germain",
-            "flags": {
-                "team1": "france",
-                "team2": "france"
-            },
-            "time": "19:00",
-            "date": "2026-05-16"
-        },
-        {
-            "channel": "beIN Sports T\u00fcrkiye 5 HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11180 H 29750 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Paris FC   vs   Paris St Germain"
         },
         {
             "compet": "French Ligue 1 - Week 34",
@@ -141,6 +197,14 @@
             "related_to": "     Marseille   vs   Rennes"
         },
         {
+            "channel": "Ligue 1+ ($/geo/R)",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://plus.ligue1.com/home",
+            "related_to": "     Marseille   vs   Rennes"
+        },
+        {
             "compet": "French Ligue 1 - Week 34",
             "match": "     Nantes   vs   Toulouse",
             "flags": {
@@ -156,6 +220,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Nantes   vs   Toulouse"
+        },
+        {
+            "channel": "Ligue 1+ ($/geo/R)",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://plus.ligue1.com/home",
             "related_to": "     Nantes   vs   Toulouse"
         },
         {
@@ -177,6 +249,14 @@
             "related_to": "     Nice   vs   Metz"
         },
         {
+            "channel": "Ligue 1+ ($/geo/R)",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://plus.ligue1.com/home",
+            "related_to": "     Nice   vs   Metz"
+        },
+        {
             "compet": "French Ligue 1 - Week 34",
             "match": "     Strasbourg   vs   Monaco",
             "flags": {
@@ -192,6 +272,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Strasbourg   vs   Monaco"
+        },
+        {
+            "channel": "Ligue 1+ ($/geo/R)",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://plus.ligue1.com/home",
             "related_to": "     Strasbourg   vs   Monaco"
         }
     ]
