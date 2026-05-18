@@ -11,6 +11,38 @@
             "date": "2026-05-20"
         },
         {
+            "channel": "ANT 1 Hellas HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12338 H 11568 - 2/3",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Freiburg   vs   Aston Villa"
+        },
+        {
+            "channel": "Arena Premium 1 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "0000 0",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Freiburg   vs   Aston Villa"
+        },
+        {
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Freiburg   vs   Aston Villa"
+        },
+        {
+            "channel": "Arena Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11678 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Freiburg   vs   Aston Villa"
+        },
+        {
             "channel": "beIN Sports MENA 1 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 H 27500 - 2/3",
@@ -23,6 +55,30 @@
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10850 V 27500 - 2/3",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Freiburg   vs   Aston Villa"
+        },
+        {
+            "channel": "bTV Action HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "11555 V 30000 - 3/4",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Freiburg   vs   Aston Villa"
+        },
+        {
+            "channel": "Canal+ France HD",
+            "sat": "Astra 1P 19.2\u00b0e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Freiburg   vs   Aston Villa"
+        },
+        {
+            "channel": "Canal+ Live 1 France HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Freiburg   vs   Aston Villa"
         },
@@ -43,10 +99,34 @@
             "related_to": "     Freiburg   vs   Aston Villa"
         },
         {
+            "channel": "Ictimai TV HD",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11175 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Freiburg   vs   Aston Villa"
+        },
+        {
+            "channel": "LaLiga TV Bar HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "10876 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Freiburg   vs   Aston Villa"
+        },
+        {
             "channel": "M+ Liga de Campeones HD",
             "sat": "Astra 1KR 19.2\u00b0e",
             "freq": "11259 V 22000 - 2/3",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Freiburg   vs   Aston Villa"
+        },
+        {
+            "channel": "M+ Liga de Campeones HDR",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Freiburg   vs   Aston Villa"
         },
@@ -59,6 +139,22 @@
             "related_to": "     Freiburg   vs   Aston Villa"
         },
         {
+            "channel": "MAX Sport 3 Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12600 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Freiburg   vs   Aston Villa"
+        },
+        {
+            "channel": "Megogo Futbol 1 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
+            "related_to": "     Freiburg   vs   Aston Villa"
+        },
+        {
             "channel": "Movistar Plus+ HD",
             "sat": "Astra 1L 19.2\u00b0e",
             "freq": "11097 V 22000 - 5/6",
@@ -67,9 +163,25 @@
             "related_to": "     Freiburg   vs   Aston Villa"
         },
         {
+            "channel": "Nova Sport 5 Czech HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11973 V 29900 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Freiburg   vs   Aston Villa"
+        },
+        {
             "channel": "Orange F\u00fatbol 1 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Freiburg   vs   Aston Villa"
+        },
+        {
+            "channel": "Play Sports 3 Belgium",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
             "encry": "",
             "link": "#",
             "related_to": "     Freiburg   vs   Aston Villa"
@@ -95,6 +207,14 @@
             "sat": "Hotbird 13G 13.0\u00b0e",
             "freq": "11411 H 27500 - 5/6",
             "encry": "MPEG-4 Viaccess",
+            "link": "#",
+            "related_to": "     Freiburg   vs   Aston Villa"
+        },
+        {
+            "channel": "RTL 4K UHD",
+            "sat": "Astra 1KR 19.2\u00b0e",
+            "freq": "11391 H 22000 - 5/6",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Freiburg   vs   Aston Villa"
         },
@@ -139,11 +259,91 @@
             "related_to": "     Freiburg   vs   Aston Villa"
         },
         {
+            "channel": "Sky Sport 251 Italia HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12054 H 29900 - 5/6",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Freiburg   vs   Aston Villa"
+        },
+        {
+            "channel": "Sky Sport Italia 4K UHD",
+            "sat": "Hotbird 13E 13.0\u00b0e",
+            "freq": "11996 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Freiburg   vs   Aston Villa"
+        },
+        {
+            "channel": "Sky Sport Uno Italia HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11958 V 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Freiburg   vs   Aston Villa"
+        },
+        {
+            "channel": "Sport 1 Israel HD",
+            "sat": "Amos 7 4.0\u00b0w",
+            "freq": "11474 V 27500 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Freiburg   vs   Aston Villa"
+        },
+        {
+            "channel": "Sport TV5 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Freiburg   vs   Aston Villa"
+        },
+        {
             "channel": "SRF Zwei Schweiz HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "10971 H 29700 - 2/3",
             "encry": "HD Viaccess",
             "link": "https://www.srf.ch/play/tv/live?tvLiveId=c49c1d64-9f60-0001-1c36-43c288c01a10",
+            "related_to": "     Freiburg   vs   Aston Villa"
+        },
+        {
+            "channel": "SuperSport 2 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Freiburg   vs   Aston Villa"
+        },
+        {
+            "channel": "SuperSport Grandstand HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11130 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Freiburg   vs   Aston Villa"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 1 HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Freiburg   vs   Aston Villa"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 2A HD",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12169 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Freiburg   vs   Aston Villa"
+        },
+        {
+            "channel": "SuperSport Premier League HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11554 V 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
             "related_to": "     Freiburg   vs   Aston Villa"
         },
         {
@@ -168,6 +368,14 @@
             "freq": "11054 V 30000 - 3/4",
             "encry": "HD Irdeto",
             "link": "https://www.trtizle.com/canli/tv/trt-1",
+            "related_to": "     Freiburg   vs   Aston Villa"
+        },
+        {
+            "channel": "TSN Malta 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
             "related_to": "     Freiburg   vs   Aston Villa"
         },
         {
