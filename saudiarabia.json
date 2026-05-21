@@ -27,6 +27,14 @@
             "related_to": "     Al Nassr   vs   Damac FC"
         },
         {
+            "channel": "Como TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.comofootball.com/liveEvent.html",
+            "related_to": "     Al Nassr   vs   Damac FC"
+        },
+        {
             "channel": "Cosmote Sport 5 HD",
             "sat": "Eutelsat 9B 9.0\u00b0e",
             "freq": "12418 V 27500 - 2/3",
@@ -48,6 +56,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "#",
+            "related_to": "     Al Nassr   vs   Damac FC"
+        },
+        {
+            "channel": "FanCode India ($/geo/R)",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.fancode.com/rugby/schedule/upcoming",
             "related_to": "     Al Nassr   vs   Damac FC"
         },
         {
@@ -112,6 +128,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://onefootball.com/en/matches",
+            "related_to": "     Al Nassr   vs   Damac FC"
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "     Al Nassr   vs   Damac FC"
         },
         {
@@ -381,6 +405,22 @@
             "related_to": "     Al Fayha   vs   Al Hilal"
         },
         {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     Al Fayha   vs   Al Hilal"
+        },
+        {
+            "channel": "Persiana Sports 2 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
+            "related_to": "     Al Fayha   vs   Al Hilal"
+        },
+        {
             "channel": "Prima Sport RO 4 HD",
             "sat": "Hellas Sat 3 39.0\u00b0e",
             "freq": "12606 V 30000 - 3/4",
@@ -486,6 +526,24 @@
         },
         {
             "compet": "Saudi Pro League - Week 34",
+            "match": "     Al Kholood   vs   Al Fateh",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "18:00",
+            "date": "2026-05-21"
+        },
+        {
+            "channel": "Thmanyah KSA [app]",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Kholood   vs   Al Fateh"
+        },
+        {
+            "compet": "Saudi Pro League - Week 34",
             "match": "     Al Ittihad   vs   Al Qadisiyah",
             "flags": {
                 "team1": "saudiarabia",
@@ -509,6 +567,60 @@
             "encry": "",
             "link": "https://www.youtube.com/@-saudiproleague/streams",
             "related_to": "     Al Ittihad   vs   Al Qadisiyah"
+        },
+        {
+            "compet": "Saudi Pro League - Week 34",
+            "match": "     NEOM SC   vs   Al Ettifaq",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "18:00",
+            "date": "2026-05-21"
+        },
+        {
+            "channel": "Thmanyah KSA [app]",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     NEOM SC   vs   Al Ettifaq"
+        },
+        {
+            "compet": "Saudi Pro League - Week 34",
+            "match": "     Al Hazem   vs   Al Taawoun",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "18:00",
+            "date": "2026-05-21"
+        },
+        {
+            "channel": "Thmanyah KSA [app]",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Hazem   vs   Al Taawoun"
+        },
+        {
+            "compet": "Saudi Pro League - Week 34",
+            "match": "     Al Riyadh   vs   Al Akhdoud",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "18:00",
+            "date": "2026-05-21"
+        },
+        {
+            "channel": "Thmanyah KSA [app]",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Riyadh   vs   Al Akhdoud"
         }
     ]
 }
