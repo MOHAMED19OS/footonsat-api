@@ -1,3 +1,62 @@
 {
-    "footonsat": []
+    "footonsat": [
+        {
+            "compet": "T\u00fcrkiye Cup - Final",
+            "match": "     Trabzonspor   vs   Konyaspor",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "17:45",
+            "date": "2026-05-22"
+        },
+        {
+            "channel": "ATV T\u00fcrkiye Europe",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11883 V 04800 - 5/6",
+            "encry": "Conax",
+            "link": "#",
+            "related_to": "     Trabzonspor   vs   Konyaspor"
+        },
+        {
+            "channel": "ATV T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "12053 H 27500 - 5/6",
+            "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Trabzonspor   vs   Konyaspor"
+        },
+        {
+            "channel": "MAX Sport 4 Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "11475 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Trabzonspor   vs   Konyaspor"
+        },
+        {
+            "channel": "Sport 6 Israel HD",
+            "sat": "Amos 7 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Trabzonspor   vs   Konyaspor"
+        },
+        {
+            "channel": "Sport TV2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Trabzonspor   vs   Konyaspor"
+        },
+        {
+            "channel": "SuperSport 3 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Trabzonspor   vs   Konyaspor"
+        }
+    ]
 }
