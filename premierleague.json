@@ -701,6 +701,14 @@
             "related_to": "     Brighton H.A.   vs   Manchester United"
         },
         {
+            "channel": "RTS 2 Senegal HD",
+            "sat": "Amos 17 17.0\u00b0e",
+            "freq": "11968 V 34030 - 5/6",
+            "encry": "HD Conax",
+            "link": "https://live.rts.sn/livetv/rts2",
+            "related_to": "     Brighton H.A.   vs   Manchester United"
+        },
+        {
             "channel": "Sky Go UK [online]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -861,270 +869,12 @@
             "related_to": "     Brighton H.A.   vs   Manchester United"
         },
         {
-            "compet": "English Premier League - Week 38",
-            "match": "     Sunderland   vs   Chelsea",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "15:00",
-            "date": "2026-05-24"
-        },
-        {
-            "channel": "Arena Sport 2 Srbija HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11798 H 30000 - 3/4",
-            "encry": "HD Conax",
+            "channel": "YTV Botswana",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "12634 V 16166 - 5/6",
+            "encry": "FTA",
             "link": "#",
-            "related_to": "     Sunderland   vs   Chelsea"
-        },
-        {
-            "channel": "Arena Sport 9 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11678 H 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Chelsea"
-        },
-        {
-            "channel": "Astro Premier League 6 HD",
-            "sat": "Measat 3b 91.5\u00b0e",
-            "freq": "0000 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Chelsea"
-        },
-        {
-            "channel": "beIN Connect MENA",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://connect.bein.com/",
-            "related_to": "     Sunderland   vs   Chelsea"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Sunderland   vs   Chelsea"
-        },
-        {
-            "channel": "beIN Sports MENA 8 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 V 27500 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Chelsea"
-        },
-        {
-            "channel": "Canal+ Extra 6 Polska HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Chelsea"
-        },
-        {
-            "channel": "Canal+ Live 6 France HD",
-            "sat": "Astra 1L 19.2\u00b0e",
-            "freq": "12728 V 29700 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Chelsea"
-        },
-        {
-            "channel": "Canal+ Sport 8 Czech HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://livetv.skylink.cz",
-            "related_to": "     Sunderland   vs   Chelsea"
-        },
-        {
-            "channel": "Cytavision Sports 1 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Chelsea"
-        },
-        {
-            "channel": "DAZN Espa\u00f1a ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Chelsea"
-        },
-        {
-            "channel": "Fast Sports [online] ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://fasttv.am/live-sports?sport_type=football",
-            "related_to": "     Sunderland   vs   Chelsea"
-        },
-        {
-            "channel": "FuboTV Canada ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Chelsea"
-        },
-        {
-            "channel": "Go3 Extra Sport Baltics ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "https://go3.tv/extra_sports",
-            "related_to": "     Sunderland   vs   Chelsea"
-        },
-        {
-            "channel": "Monomax Streaming ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.monomax.me/premierleague",
-            "related_to": "     Sunderland   vs   Chelsea"
-        },
-        {
-            "channel": "Nova Sports 6 Hellas HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "11804 V 29700 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Chelsea"
-        },
-        {
-            "channel": "Play Diema XTRA ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "https://gong.bg/streaming",
-            "related_to": "     Sunderland   vs   Chelsea"
-        },
-        {
-            "channel": "Premier Sports 3 Mongolia HD",
-            "sat": "Telstar 18 138.0\u00b0e",
-            "freq": "12598 H 45000 - 5/6",
-            "encry": "MPEG-4 Verimatrix",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Chelsea"
-        },
-        {
-            "channel": "Sky Go UK [online]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Chelsea"
-        },
-        {
-            "channel": "Sky Sport 257 Italia HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "12073 V 29900 - 5/6",
-            "encry": "VideoGuard",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Chelsea"
-        },
-        {
-            "channel": "Sky Sport 7 Deutsch HD",
-            "sat": "Astra 1KR 19.2\u00b0e",
-            "freq": "11171 H 22000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Chelsea"
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Chelsea"
-        },
-        {
-            "channel": "Stan Sport Australia ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.stan.com.au/sport",
-            "related_to": "     Sunderland   vs   Chelsea"
-        },
-        {
-            "channel": "SuperSport 6 Albania HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "10804 H 29950 - 2/3",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Chelsea"
-        },
-        {
-            "channel": "TSN Malta 1 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Chelsea"
-        },
-        {
-            "channel": "V Sport+ Norge HD",
-            "sat": "Thor 6 5.0\u00b0e",
-            "freq": "11345 H 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Chelsea"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Chelsea"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Chelsea"
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Chelsea"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Chelsea"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Chelsea"
-        },
-        {
-            "channel": "VOYO Pro TV Romania [$]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://voyo.protv.ro/premier-league",
-            "related_to": "     Sunderland   vs   Chelsea"
+            "related_to": "     Brighton H.A.   vs   Manchester United"
         },
         {
             "compet": "English Premier League - Week 38",
@@ -2559,6 +2309,272 @@
             "encry": "",
             "link": "https://voyo.protv.ro/premier-league",
             "related_to": "     Fulham   vs   Newcastle United"
+        },
+        {
+            "compet": "English Premier League - Week 38",
+            "match": "     Sunderland   vs   Chelsea",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "15:00",
+            "date": "2026-05-24"
+        },
+        {
+            "channel": "Arena Sport 2 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11798 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Chelsea"
+        },
+        {
+            "channel": "Arena Sport 9 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11678 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Chelsea"
+        },
+        {
+            "channel": "Astro Premier League 6 HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "0000 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Chelsea"
+        },
+        {
+            "channel": "beIN Connect MENA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect.bein.com/",
+            "related_to": "     Sunderland   vs   Chelsea"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Sunderland   vs   Chelsea"
+        },
+        {
+            "channel": "beIN Sports MENA 8 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Chelsea"
+        },
+        {
+            "channel": "Canal+ Extra 6 Polska HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Chelsea"
+        },
+        {
+            "channel": "Canal+ Live 6 France HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "12728 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Chelsea"
+        },
+        {
+            "channel": "Canal+ Sport 8 Czech HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://livetv.skylink.cz",
+            "related_to": "     Sunderland   vs   Chelsea"
+        },
+        {
+            "channel": "Cytavision Sports 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Chelsea"
+        },
+        {
+            "channel": "DAZN Espa\u00f1a ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Chelsea"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "     Sunderland   vs   Chelsea"
+        },
+        {
+            "channel": "FuboTV Canada ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Chelsea"
+        },
+        {
+            "channel": "Go3 Extra Sport Baltics ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "https://go3.tv/extra_sports",
+            "related_to": "     Sunderland   vs   Chelsea"
+        },
+        {
+            "channel": "Monomax Streaming ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.monomax.me/premierleague",
+            "related_to": "     Sunderland   vs   Chelsea"
+        },
+        {
+            "channel": "Nova Sports 6 Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11804 V 29700 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Chelsea"
+        },
+        {
+            "channel": "Play Diema XTRA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://gong.bg/streaming",
+            "related_to": "     Sunderland   vs   Chelsea"
+        },
+        {
+            "channel": "Premier Sports 3 Mongolia HD",
+            "sat": "Telstar 18 138.0\u00b0e",
+            "freq": "12598 H 45000 - 5/6",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Chelsea"
+        },
+        {
+            "channel": "Sky Go UK [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Chelsea"
+        },
+        {
+            "channel": "Sky Sport 257 Italia HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12073 V 29900 - 5/6",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Chelsea"
+        },
+        {
+            "channel": "Sky Sport 7 Deutsch HD",
+            "sat": "Astra 1KR 19.2\u00b0e",
+            "freq": "11171 H 22000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Chelsea"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Chelsea"
+        },
+        {
+            "channel": "Stan Sport Australia ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.stan.com.au/sport",
+            "related_to": "     Sunderland   vs   Chelsea"
+        },
+        {
+            "channel": "SuperSport 6 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10804 H 29950 - 2/3",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Chelsea"
+        },
+        {
+            "channel": "TSN Malta 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Chelsea"
+        },
+        {
+            "channel": "V Sport+ Norge HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11345 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Chelsea"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Chelsea"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Chelsea"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Chelsea"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Chelsea"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Chelsea"
+        },
+        {
+            "channel": "VOYO Pro TV Romania [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://voyo.protv.ro/premier-league",
+            "related_to": "     Sunderland   vs   Chelsea"
         },
         {
             "compet": "English Premier League - Week 38",
