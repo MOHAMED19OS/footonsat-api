@@ -657,6 +657,22 @@
             "date": "2026-06-05"
         },
         {
+            "channel": "ITV 1 England HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11386 V 27500 - 2/3",
+            "encry": "HD Panaccess",
+            "link": "https://www.itv.com/watch?channel=itv",
+            "related_to": "     Spain   vs   England"
+        },
+        {
+            "channel": "ITV X (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.itv.com/watch?channel=itv",
+            "related_to": "     Spain   vs   England"
+        },
+        {
             "channel": "RTVE Play ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -665,11 +681,35 @@
             "related_to": "     Spain   vs   England"
         },
         {
+            "channel": "STV Player (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://player.stv.tv/live",
+            "related_to": "     Spain   vs   England"
+        },
+        {
+            "channel": "STV Scotland HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "12110 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Spain   vs   England"
+        },
+        {
             "channel": "TVE La 1 HD Espa\u00f1a",
             "sat": "*DTT 0.0\u00b0-",
             "freq": "0000 - -",
             "encry": "NagraVision",
             "link": "http://www.rtve.es/directo/la-1/",
+            "related_to": "     Spain   vs   England"
+        },
+        {
+            "channel": "UTV Northern Ireland HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11386 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "     Spain   vs   England"
         },
         {
