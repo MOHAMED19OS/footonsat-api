@@ -37,24 +37,6 @@
             "related_to": "     Venezuela U-20   vs   Japan U-20"
         },
         {
-            "compet": "Maurice Revello Tournament - Group B",
-            "match": "     Portugal U-20   vs   Canada U-20",
-            "flags": {
-                "team1": "portugal",
-                "team2": "canada"
-            },
-            "time": "17:00",
-            "date": "2026-06-11"
-        },
-        {
-            "channel": "Sport TV2 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Portugal U-20   vs   Canada U-20"
-        },
-        {
             "compet": "Swedish Superettan - Week 11",
             "match": "     Helsingborg   vs   Landskrona",
             "flags": {
@@ -81,6 +63,24 @@
             "related_to": "     Helsingborg   vs   Landskrona"
         },
         {
+            "compet": "Maurice Revello Tournament - Group B",
+            "match": "     Portugal U-20   vs   Canada U-20",
+            "flags": {
+                "team1": "portugal",
+                "team2": "canada"
+            },
+            "time": "17:00",
+            "date": "2026-06-11"
+        },
+        {
+            "channel": "Sport TV2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Portugal U-20   vs   Canada U-20"
+        },
+        {
             "compet": "FIFA WORLD CUP 2026 - Group A, Round 1",
             "match": "     Mexico   vs   South Africa",
             "flags": {
@@ -89,14 +89,6 @@
             },
             "time": "19:00",
             "date": "2026-06-11"
-        },
-        {
-            "channel": "Al Kass 1 HD",
-            "sat": "Badr 4 26.0\u00b0e",
-            "freq": "12245 H 27500 - 5/6",
-            "encry": "FTA",
-            "link": "http://www.alkass.net/alkass/live.aspx?ch=one",
-            "related_to": "     Mexico   vs   South Africa"
         },
         {
             "channel": "Am\u00e9rica Peru HD",
@@ -171,6 +163,14 @@
             "related_to": "     Mexico   vs   South Africa"
         },
         {
+            "channel": "BarTV Mundial HD",
+            "sat": "Astra 1P 19.2\u00b0e",
+            "freq": "10876 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Mexico   vs   South Africa"
+        },
+        {
             "channel": "beIN Connect MENA",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -183,6 +183,14 @@
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "11856 V 29700 - 2/3",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Mexico   vs   South Africa"
+        },
+        {
+            "channel": "beIN Sports MENA 4K UHD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "11310 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Mexico   vs   South Africa"
         },
@@ -347,6 +355,14 @@
             "related_to": "     Mexico   vs   South Africa"
         },
         {
+            "channel": "Fast Sports TV Armenia",
+            "sat": "Eutelsat 70B 70.5\u00b0e",
+            "freq": "11050 H 20030 - 1/2",
+            "encry": "MPEG-4 Biss",
+            "link": "https://fasttv.am/tv-channels/fastsports",
+            "related_to": "     Mexico   vs   South Africa"
+        },
+        {
             "channel": "FOX Sports USA 4K",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -467,14 +483,6 @@
             "related_to": "     Mexico   vs   South Africa"
         },
         {
-            "channel": "Jurnal TV Moldova",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Mexico   vs   South Africa"
-        },
-        {
             "channel": "Kan 11 Israel HD",
             "sat": "Amos 7 4.0\u00b0w",
             "freq": "11113 H 08518 - 3/4",
@@ -512,14 +520,6 @@
             "freq": "12303 H 27500 - 3/4",
             "encry": "MPEG-4 Conax",
             "link": "https://www.nci.ci/",
-            "related_to": "     Mexico   vs   South Africa"
-        },
-        {
-            "channel": "LaLiga TV Bar HD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "10876 V 22000 - 5/6",
-            "encry": "NagraVision",
-            "link": "#",
             "related_to": "     Mexico   vs   South Africa"
         },
         {
@@ -771,6 +771,14 @@
             "related_to": "     Mexico   vs   South Africa"
         },
         {
+            "channel": "RTB Z\u00e9nith",
+            "sat": "Eutelsat 3B 3.1\u00b0e",
+            "freq": "3729 L 16833 - 5/6",
+            "encry": "HEVC SD Nagravision",
+            "link": "#",
+            "related_to": "     Mexico   vs   South Africa"
+        },
+        {
             "channel": "RTBF La Une HD",
             "sat": "Hotbird 13G 13.0\u00b0e",
             "freq": "11411 H 27500 - 5/6",
@@ -808,6 +816,14 @@
             "freq": "11914 H 30000 - 3/4",
             "encry": "HD Conax",
             "link": "#",
+            "related_to": "     Mexico   vs   South Africa"
+        },
+        {
+            "channel": "RTS 2 Senegal HD",
+            "sat": "Amos 17 17.0\u00b0e",
+            "freq": "11968 V 34030 - 5/6",
+            "encry": "HD Conax",
+            "link": "https://live.rts.sn/livetv/rts2",
             "related_to": "     Mexico   vs   South Africa"
         },
         {
