@@ -1,3 +1,96 @@
 {
-    "footonsat": []
+    "footonsat": [
+        {
+            "compet": "Spanish La Liga 2 - Promotion Play-Off FINAL (1st Leg)",
+            "match": "     M\u00e1laga   vs   Almer\u00eda",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "19:00",
+            "date": "2026-06-14"
+        },
+        {
+            "channel": "beIN Sports MENA 3 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     M\u00e1laga   vs   Almer\u00eda"
+        },
+        {
+            "channel": "DAZN Espa\u00f1a ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     M\u00e1laga   vs   Almer\u00eda"
+        },
+        {
+            "channel": "LaLiga Hypermotion HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "10758 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "#",
+            "related_to": "     M\u00e1laga   vs   Almer\u00eda"
+        },
+        {
+            "channel": "Movistar Plus+ HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11097 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     M\u00e1laga   vs   Almer\u00eda"
+        },
+        {
+            "channel": "Orange F\u00fatbol 2 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     M\u00e1laga   vs   Almer\u00eda"
+        },
+        {
+            "compet": "Spanish La Liga 2 - Promotion Play-Off FINAL (2nd Leg)",
+            "match": "     Almer\u00eda   vs   M\u00e1laga",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "19:00",
+            "date": "2026-06-20"
+        },
+        {
+            "channel": "DAZN Espa\u00f1a ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Almer\u00eda   vs   M\u00e1laga"
+        },
+        {
+            "channel": "LaLiga Hypermotion HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "10758 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "#",
+            "related_to": "     Almer\u00eda   vs   M\u00e1laga"
+        },
+        {
+            "channel": "Movistar Plus+ HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11097 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Almer\u00eda   vs   M\u00e1laga"
+        },
+        {
+            "channel": "Orange F\u00fatbol 2 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Almer\u00eda   vs   M\u00e1laga"
+        }
+    ]
 }
