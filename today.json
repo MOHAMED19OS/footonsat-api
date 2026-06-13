@@ -964,9 +964,9 @@
         },
         {
             "channel": "AFN Sports HD",
-            "sat": "Eutelsat 9B 9.0\u00b0e",
-            "freq": "11804 V 27500 - 3/4",
-            "encry": "HD PowerVu",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "4095 L 11000 - 1/2",
+            "encry": "PowerVu [c]",
             "link": "#",
             "related_to": "     Qatar   vs   Switzerland"
         },
@@ -1437,8 +1437,8 @@
         {
             "channel": "PTV Sports",
             "sat": "Paksat 1R 38.0\u00b0e",
-            "freq": "4004 V 03333 - 3/4",
-            "encry": "BISS",
+            "freq": "3870 H 13333 - 3/4",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Qatar   vs   Switzerland"
         },
@@ -1588,6 +1588,22 @@
         },
         {
             "channel": "Sport TV5 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Qatar   vs   Switzerland"
+        },
+        {
+            "channel": "Sport TV6 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Qatar   vs   Switzerland"
+        },
+        {
+            "channel": "Sport TV7 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12360 H 27500 - 3/4",
             "encry": "HD NagraVision",
@@ -1822,9 +1838,9 @@
         },
         {
             "channel": "AFN Sports HD",
-            "sat": "Eutelsat 9B 9.0\u00b0e",
-            "freq": "11804 V 27500 - 3/4",
-            "encry": "HD PowerVu",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "4095 L 11000 - 1/2",
+            "encry": "PowerVu [c]",
             "link": "#",
             "related_to": "     Brazil   vs   Morocco"
         },
@@ -2415,8 +2431,8 @@
         {
             "channel": "PTV Sports",
             "sat": "Paksat 1R 38.0\u00b0e",
-            "freq": "4004 V 03333 - 3/4",
-            "encry": "BISS",
+            "freq": "3870 H 13333 - 3/4",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Brazil   vs   Morocco"
         },
@@ -2669,6 +2685,22 @@
             "related_to": "     Brazil   vs   Morocco"
         },
         {
+            "channel": "Sport TV6 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
+            "channel": "Sport TV7 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
             "channel": "SporTV Brazil HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2729,6 +2761,14 @@
             "sat": "Thor 5 0.8\u00b0w",
             "freq": "11216 V 25000 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
+            "channel": "TBC 1 Tanzania",
+            "sat": "Intelsat 22 72.1\u00b0e",
+            "freq": "4120 L 9583 - 3/4",
+            "encry": "MPEG-4 Crypto",
             "link": "#",
             "related_to": "     Brazil   vs   Morocco"
         },
@@ -2937,6 +2977,14 @@
             "sat": "Eutelsat 36D 35.9\u00b0e",
             "freq": "11263 V 30000 - 5/6",
             "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
+            "channel": "Zap Viva Internacional HD",
+            "sat": "Eutelsat 10B 10.0\u00b0e",
+            "freq": "12734 V 4000",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Brazil   vs   Morocco"
         },
