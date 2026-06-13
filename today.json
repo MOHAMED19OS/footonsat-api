@@ -363,6 +363,14 @@
             "related_to": "     United States   vs   Paraguay"
         },
         {
+            "channel": "Magenta Sport ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": "     United States   vs   Paraguay"
+        },
+        {
             "channel": "MATCH! Futbol 1 HD",
             "sat": "Horizons 2 84.8\u00b0e",
             "freq": "11840 H 28800 - 2/3",
@@ -1139,10 +1147,34 @@
             "related_to": "     Qatar   vs   Switzerland"
         },
         {
+            "channel": "DR1 Dansk HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11305 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Qatar   vs   Switzerland"
+        },
+        {
             "channel": "ERT 2 Sport Hellas HD",
             "sat": "Hellas Sat 3 39.0\u00b0e",
             "freq": "12223 H 13381 - 3/4",
             "encry": "MPEG-4 Biss",
+            "link": "#",
+            "related_to": "     Qatar   vs   Switzerland"
+        },
+        {
+            "channel": "ETV Estonia",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11958 H 27500 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Qatar   vs   Switzerland"
+        },
+        {
+            "channel": "ETV+ Estonia",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11938 V 27500 - 5/6",
+            "encry": "MPEG-4 NDS",
             "link": "#",
             "related_to": "     Qatar   vs   Switzerland"
         },
@@ -1183,6 +1215,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Qatar   vs   Switzerland"
+        },
+        {
+            "channel": "Futbol TV Tajikistan",
+            "sat": "ABS 2A 75.0\u00b0e",
+            "freq": "12252 H 10000 - 3/4",
+            "encry": "HD BISS",
             "link": "#",
             "related_to": "     Qatar   vs   Switzerland"
         },
@@ -1243,6 +1283,14 @@
             "related_to": "     Qatar   vs   Switzerland"
         },
         {
+            "channel": "JOJ \u0160port SVK HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12266 H 29900 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Qatar   vs   Switzerland"
+        },
+        {
             "channel": "Jurnal TV Moldova",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -1291,6 +1339,14 @@
             "related_to": "     Qatar   vs   Switzerland"
         },
         {
+            "channel": "Magenta Sport ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": "     Qatar   vs   Switzerland"
+        },
+        {
             "channel": "MATCH! Futbol 1 HD",
             "sat": "Horizons 2 84.8\u00b0e",
             "freq": "11840 H 28800 - 2/3",
@@ -1323,11 +1379,43 @@
             "related_to": "     Qatar   vs   Switzerland"
         },
         {
+            "channel": "MTV 3 Suomi HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10809 H 24500 - 7/8",
+            "encry": "Conax",
+            "link": "#",
+            "related_to": "     Qatar   vs   Switzerland"
+        },
+        {
+            "channel": "MTV Urheilu 1 Suomi HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12476 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Qatar   vs   Switzerland"
+        },
+        {
             "channel": "NPO 1 Nederland HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "12188 H 29900 - 2/3",
             "encry": "HD NagraVision",
             "link": "#",
+            "related_to": "     Qatar   vs   Switzerland"
+        },
+        {
+            "channel": "NRK 1 Norge HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "12015 V 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Qatar   vs   Switzerland"
+        },
+        {
+            "channel": "NRK TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://tv.nrk.no/direkte/nrk1",
             "related_to": "     Qatar   vs   Switzerland"
         },
         {
@@ -1344,6 +1432,14 @@
             "freq": "10804 H 27500 - 2/3",
             "encry": "FTA",
             "link": "https://pokertvfa.live/",
+            "related_to": "     Qatar   vs   Switzerland"
+        },
+        {
+            "channel": "PTV Sports",
+            "sat": "Paksat 1R 38.0\u00b0e",
+            "freq": "4004 V 03333 - 3/4",
+            "encry": "BISS",
+            "link": "#",
             "related_to": "     Qatar   vs   Switzerland"
         },
         {
@@ -1423,6 +1519,22 @@
             "sat": "AzerSpace 1 46.0\u00b0e",
             "freq": "11095 H 30000 - 5/6",
             "encry": "FTA",
+            "link": "#",
+            "related_to": "     Qatar   vs   Switzerland"
+        },
+        {
+            "channel": "RUV 2 Sjonvarpid",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Qatar   vs   Switzerland"
+        },
+        {
+            "channel": "Servus TV \u00d6sterreich HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11303 H 22000 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Qatar   vs   Switzerland"
         },
@@ -1591,6 +1703,30 @@
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "10804 H 29950 - 2/3",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Qatar   vs   Switzerland"
+        },
+        {
+            "channel": "TV3 Lietuva HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11938 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Qatar   vs   Switzerland"
+        },
+        {
+            "channel": "TV4 Sverige HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10934 H 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Qatar   vs   Switzerland"
+        },
+        {
+            "channel": "TV6 Latvija",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11785 V 27500 - 5/6",
+            "encry": "MPEG-4 NDS",
             "link": "#",
             "related_to": "     Qatar   vs   Switzerland"
         },
@@ -1917,6 +2053,14 @@
             "related_to": "     Brazil   vs   Morocco"
         },
         {
+            "channel": "CRTV Sports Cameroon",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12610 H 12500 - 3/4",
+            "encry": "HEVC SD Nagravision",
+            "link": "#",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
             "channel": "CT Sport Czech HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "12344 H 29900 - 2/3",
@@ -1997,6 +2141,38 @@
             "related_to": "     Brazil   vs   Morocco"
         },
         {
+            "channel": "Futbol TV Uzbekistan",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "#",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
+            "channel": "Gabon 1\u00e8re",
+            "sat": "SES 5 5.0\u00b0e",
+            "freq": "11766 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "https://www.groupegabontelevisions.net/live",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
+            "channel": "GTV Sports + HD",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12645 V 32700 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
+            "channel": "Hagerie TV Ethiopia",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11105 H 45000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
             "channel": "HRT 2 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11637 V 30000 - 2/3",
@@ -2029,6 +2205,14 @@
             "related_to": "     Brazil   vs   Morocco"
         },
         {
+            "channel": "JOJ \u0160port SVK HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12266 H 29900 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
             "channel": "Jurnal TV Moldova",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -2045,11 +2229,35 @@
             "related_to": "     Brazil   vs   Morocco"
         },
         {
+            "channel": "KBC 1 Kenya",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12265 V 31420 - 3/4",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
+            "channel": "KC2 Rwanda",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12188 V 27500 - 2/3",
+            "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
             "channel": "KTRK Sport",
             "sat": "Eutelsat 70B 70.5\u00b0e",
             "freq": "11097 H 23627 - 1/2",
             "encry": "FTA",
             "link": "#",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
+            "channel": "La Nouvelle Cha\u00eene Ivorienne",
+            "sat": "SES 5 5.0\u00b0e",
+            "freq": "12303 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "https://www.nci.ci/",
             "related_to": "     Brazil   vs   Morocco"
         },
         {
@@ -2074,6 +2282,14 @@
             "freq": "12168 V 29700 - 2/3",
             "encry": "HD NagraVision",
             "link": "https://www.6play.fr/m6/direct",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
+            "channel": "Magenta Sport ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
             "related_to": "     Brazil   vs   Morocco"
         },
         {
@@ -2109,6 +2325,46 @@
             "related_to": "     Brazil   vs   Morocco"
         },
         {
+            "channel": "MTV 3 Suomi HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10809 H 24500 - 7/8",
+            "encry": "Conax",
+            "link": "#",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
+            "channel": "MTV Urheilu 1 Suomi HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12476 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
+            "channel": "MTV Urheilu 3 Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
+            "channel": "NBC 2 Namibia",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11130 V 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
+            "channel": "Now Sports 618 HK",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
             "channel": "NPO 1 4K UHD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11895 V 29900 - 2/3",
@@ -2121,6 +2377,22 @@
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "12188 H 29900 - 2/3",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
+            "channel": "ORTB Benin",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10804 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
+            "channel": "ORTM 1 Mali",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12604 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     Brazil   vs   Morocco"
         },
@@ -2138,6 +2410,14 @@
             "freq": "10804 H 27500 - 2/3",
             "encry": "FTA",
             "link": "https://pokertvfa.live/",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
+            "channel": "PTV Sports",
+            "sat": "Paksat 1R 38.0\u00b0e",
+            "freq": "4004 V 03333 - 3/4",
+            "encry": "BISS",
+            "link": "#",
             "related_to": "     Brazil   vs   Morocco"
         },
         {
@@ -2197,6 +2477,14 @@
             "related_to": "     Brazil   vs   Morocco"
         },
         {
+            "channel": "RTB Z\u00e9nith",
+            "sat": "Eutelsat 3B 3.1\u00b0e",
+            "freq": "3729 L 16833 - 5/6",
+            "encry": "HEVC SD Nagravision",
+            "link": "#",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
             "channel": "RTBF Tipik Belgique",
             "sat": "Hotbird 13G 13.0\u00b0e",
             "freq": "11411 H 27500 - 5/6",
@@ -2213,11 +2501,43 @@
             "related_to": "     Brazil   vs   Morocco"
         },
         {
+            "channel": "RTi La 3 C\u00f4te d\u2019Ivoire",
+            "sat": "SES 5 5.0\u00b0e",
+            "freq": "12341 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
+            "channel": "RTNC Congo DR",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "11387 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
+            "channel": "RTS 1 Senegal HD",
+            "sat": "AsiaSat 5 100.5\u00b0e",
+            "freq": "4080 H 30000 - 5/6",
+            "encry": "MPEG-4 Conax",
+            "link": "https://live.rts.sn/livetv/rts1",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
             "channel": "RTS 1 Srbija HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11914 H 30000 - 3/4",
             "encry": "HD Conax",
             "link": "#",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
+            "channel": "RTS 2 Senegal HD",
+            "sat": "Amos 17 17.0\u00b0e",
+            "freq": "11968 V 34030 - 5/6",
+            "encry": "HD Conax",
+            "link": "https://live.rts.sn/livetv/rts2",
             "related_to": "     Brazil   vs   Morocco"
         },
         {
@@ -2257,6 +2577,30 @@
             "sat": "AzerSpace 1 46.0\u00b0e",
             "freq": "11095 H 30000 - 5/6",
             "encry": "FTA",
+            "link": "#",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
+            "channel": "RUV 2 Sjonvarpid",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
+            "channel": "Rwanda TV HD",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12207 H 27500 - 3/4",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
+            "channel": "Servus TV \u00d6sterreich HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11303 H 22000 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Brazil   vs   Morocco"
         },
@@ -2333,6 +2677,14 @@
             "related_to": "     Brazil   vs   Morocco"
         },
         {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
             "channel": "SRF Zwei Schweiz HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "10971 H 29700 - 2/3",
@@ -2349,10 +2701,58 @@
             "related_to": "     Brazil   vs   Morocco"
         },
         {
+            "channel": "SuperSport Grandstand HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11554 V 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 1 HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
+            "channel": "SuperSport PSL HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
+            "channel": "SVT 1 Sverige HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "11216 V 25000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
+            "channel": "Tele Congo",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12149 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
             "channel": "Telemundo USA",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
+            "channel": "TPA 2 Angola",
+            "sat": "Yamal 402 54.9\u00b0e",
+            "freq": "10962 V 05926 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Brazil   vs   Morocco"
         },
@@ -2405,6 +2805,62 @@
             "related_to": "     Brazil   vs   Morocco"
         },
         {
+            "channel": "TV Malagasy Madagascar",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11471 H 30000 - 2/3",
+            "encry": "MPEG-4 Viaccess",
+            "link": "#",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
+            "channel": "TV Miramar Mozambique",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "12245 H 27500 3/4",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
+            "channel": "TV2 Direkte Norge HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11385 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
+            "channel": "TV2 Sport X Dansk HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10716 H 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
+            "channel": "TV3 Estonia HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11938 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
+            "channel": "TV3 Ghana",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12522 V 27000 - 7/8",
+            "encry": "MPEG-4 Biss",
+            "link": "#",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
+            "channel": "TV3 Lietuva HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11938 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
             "channel": "TVCG 2 HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11817 V 30000 - 3/4",
@@ -2453,6 +2909,14 @@
             "related_to": "     Brazil   vs   Morocco"
         },
         {
+            "channel": "T\u00e9l\u00e9 Tchad",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12687 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
             "channel": "Varzish TV Sport HD (tjk)",
             "sat": "NSS 12 57.0\u00b0e",
             "freq": "11566 H 10750 - 3/4",
@@ -2473,6 +2937,14 @@
             "sat": "Eutelsat 36D 35.9\u00b0e",
             "freq": "11263 V 30000 - 5/6",
             "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Brazil   vs   Morocco"
+        },
+        {
+            "channel": "ZBC Zimbabwe HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11474 H 30000 - 5/6",
+            "encry": "Irdeto",
             "link": "#",
             "related_to": "     Brazil   vs   Morocco"
         },
