@@ -2047,14 +2047,6 @@
             "related_to": "     Portugal   vs   Congo DR"
         },
         {
-            "channel": "M6 Suisse HD",
-            "sat": "Eutelsat 9B 9.0\u00b0e",
-            "freq": "12034 V 27500 - 3/4",
-            "encry": "FTA",
-            "link": "#",
-            "related_to": "     Portugal   vs   Congo DR"
-        },
-        {
             "channel": "Mafken TV Zambia",
             "sat": "Eutelsat 8 West B 8.0\u00b0w",
             "freq": "3852 R 14167 - 3/4",
@@ -3045,6 +3037,14 @@
             "related_to": "     England   vs   Croatia"
         },
         {
+            "channel": "KVF Sj\u00f3nvarp Faroes",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "FTA",
+            "link": "https://kvf.fo/live/2",
+            "related_to": "     England   vs   Croatia"
+        },
+        {
             "channel": "La 2 cat",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -3074,14 +3074,6 @@
             "freq": "12168 V 29700 - 2/3",
             "encry": "HD NagraVision",
             "link": "https://www.6play.fr/m6/direct",
-            "related_to": "     England   vs   Croatia"
-        },
-        {
-            "channel": "M6 Suisse HD",
-            "sat": "Eutelsat 9B 9.0\u00b0e",
-            "freq": "12034 V 27500 - 3/4",
-            "encry": "FTA",
-            "link": "#",
             "related_to": "     England   vs   Croatia"
         },
         {
@@ -4075,6 +4067,14 @@
             "sat": "Amos 7 4.0\u00b0w",
             "freq": "11113 H 08518 - 3/4",
             "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Ghana   vs   Panama"
+        },
+        {
+            "channel": "KBC 1 Kenya",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12265 V 31420 - 3/4",
+            "encry": "Irdeto",
             "link": "#",
             "related_to": "     Ghana   vs   Panama"
         },
