@@ -1453,6 +1453,14 @@
             "related_to": "     United States   vs   Australia"
         },
         {
+            "channel": "Zap Viva Internacional HD",
+            "sat": "Eutelsat 10B 10.0\u00b0e",
+            "freq": "12734 V 4000",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     United States   vs   Australia"
+        },
+        {
             "channel": "Zor TV Uzbekistan",
             "sat": "NSS 12 57.0\u00b0e",
             "freq": "11610 H 20200 - 3/4",
@@ -3928,6 +3936,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
+            "related_to": "     Tunisia   vs   Japan"
+        },
+        {
+            "channel": "NHK BS Premium 4K",
+            "sat": "BSAT 3A 110.0\u00b0e",
+            "freq": "12034 R 33756",
+            "encry": "Free To Air UHD",
+            "link": "#",
             "related_to": "     Tunisia   vs   Japan"
         },
         {
@@ -6596,6 +6612,120 @@
         },
         {
             "compet": "FIFA WORLD CUP 2026 - Group B, Round 3",
+            "match": "     Bosnia-Herzegovina   vs   Qatar",
+            "flags": {
+                "team1": "bosnia",
+                "team2": "qatar"
+            },
+            "time": "19:00",
+            "date": "2026-06-24"
+        },
+        {
+            "channel": "Arena Premium 1 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "0000 0",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Bosnia-Herzegovina   vs   Qatar"
+        },
+        {
+            "channel": "Arena Sport 1 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11720 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Bosnia-Herzegovina   vs   Qatar"
+        },
+        {
+            "channel": "beIN Connect MENA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect.bein.com/",
+            "related_to": "     Bosnia-Herzegovina   vs   Qatar"
+        },
+        {
+            "channel": "beIN Sports France 2 HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Bosnia-Herzegovina   vs   Qatar"
+        },
+        {
+            "channel": "beIN Sports MENA Max 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Bosnia-Herzegovina   vs   Qatar"
+        },
+        {
+            "channel": "beIN Sports MENA Max 5 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Bosnia-Herzegovina   vs   Qatar"
+        },
+        {
+            "channel": "HRT 2 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11637 V 30000 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Bosnia-Herzegovina   vs   Qatar"
+        },
+        {
+            "channel": "ITV 4 HD",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "11343 V 27500 - 3/4",
+            "encry": "HD Panaccess",
+            "link": "https://www.itv.com/watch?channel=itv4",
+            "related_to": "     Bosnia-Herzegovina   vs   Qatar"
+        },
+        {
+            "channel": "ITV X (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.itv.com/watch?channel=itv",
+            "related_to": "     Bosnia-Herzegovina   vs   Qatar"
+        },
+        {
+            "channel": "Magenta Sport ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": "     Bosnia-Herzegovina   vs   Qatar"
+        },
+        {
+            "channel": "RT\u00c9 Player (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.rte.ie/player/onnow",
+            "related_to": "     Bosnia-Herzegovina   vs   Qatar"
+        },
+        {
+            "channel": "STV Player (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://player.stv.tv/live",
+            "related_to": "     Bosnia-Herzegovina   vs   Qatar"
+        },
+        {
+            "channel": "STV Scotland HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11386 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Bosnia-Herzegovina   vs   Qatar"
+        },
+        {
+            "compet": "FIFA WORLD CUP 2026 - Group B, Round 3",
             "match": "     Switzerland   vs   Canada",
             "flags": {
                 "team1": "switzerland",
@@ -6765,120 +6895,6 @@
             "related_to": "     Switzerland   vs   Canada"
         },
         {
-            "compet": "FIFA WORLD CUP 2026 - Group B, Round 3",
-            "match": "     Bosnia-Herzegovina   vs   Qatar",
-            "flags": {
-                "team1": "bosnia",
-                "team2": "qatar"
-            },
-            "time": "19:00",
-            "date": "2026-06-24"
-        },
-        {
-            "channel": "Arena Premium 1 BiH HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "0000 0",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Bosnia-Herzegovina   vs   Qatar"
-        },
-        {
-            "channel": "Arena Sport 1 BiH HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11720 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Bosnia-Herzegovina   vs   Qatar"
-        },
-        {
-            "channel": "beIN Connect MENA",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://connect.bein.com/",
-            "related_to": "     Bosnia-Herzegovina   vs   Qatar"
-        },
-        {
-            "channel": "beIN Sports France 2 HD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11856 V 29700 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Bosnia-Herzegovina   vs   Qatar"
-        },
-        {
-            "channel": "beIN Sports MENA Max 1 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Bosnia-Herzegovina   vs   Qatar"
-        },
-        {
-            "channel": "beIN Sports MENA Max 5 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10850 H 27500 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Bosnia-Herzegovina   vs   Qatar"
-        },
-        {
-            "channel": "HRT 2 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11637 V 30000 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Bosnia-Herzegovina   vs   Qatar"
-        },
-        {
-            "channel": "ITV 4 HD",
-            "sat": "Astra 2F 28.2\u00b0e",
-            "freq": "11343 V 27500 - 3/4",
-            "encry": "HD Panaccess",
-            "link": "https://www.itv.com/watch?channel=itv4",
-            "related_to": "     Bosnia-Herzegovina   vs   Qatar"
-        },
-        {
-            "channel": "ITV X (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.itv.com/watch?channel=itv",
-            "related_to": "     Bosnia-Herzegovina   vs   Qatar"
-        },
-        {
-            "channel": "Magenta Sport ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
-            "related_to": "     Bosnia-Herzegovina   vs   Qatar"
-        },
-        {
-            "channel": "RT\u00c9 Player (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.rte.ie/player/onnow",
-            "related_to": "     Bosnia-Herzegovina   vs   Qatar"
-        },
-        {
-            "channel": "STV Player (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "https://player.stv.tv/live",
-            "related_to": "     Bosnia-Herzegovina   vs   Qatar"
-        },
-        {
-            "channel": "STV Scotland HD",
-            "sat": "Astra 2E 28.2\u00b0e",
-            "freq": "11386 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Bosnia-Herzegovina   vs   Qatar"
-        },
-        {
             "compet": "FIFA WORLD CUP 2026 - Group C, Round 3",
             "match": "     Scotland   vs   Brazil",
             "flags": {
@@ -6942,6 +6958,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://connect.bein.com/",
+            "related_to": "     Scotland   vs   Brazil"
+        },
+        {
+            "channel": "beIN Sports MENA Max 5 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
             "related_to": "     Scotland   vs   Brazil"
         },
         {
@@ -7189,6 +7213,22 @@
             "related_to": "     Czechia   vs   Mexico"
         },
         {
+            "channel": "beIN Sports MENA Max 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Czechia   vs   Mexico"
+        },
+        {
+            "channel": "beIN Sports MENA Max 5 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Czechia   vs   Mexico"
+        },
+        {
             "channel": "HRT 2 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11637 V 30000 - 2/3",
@@ -7268,6 +7308,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://connect.bein.com/",
+            "related_to": "     South Africa   vs   South Korea"
+        },
+        {
+            "channel": "beIN Sports MENA Max 2 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
             "related_to": "     South Africa   vs   South Korea"
         },
         {
@@ -7366,6 +7414,22 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://connect.bein.com/",
+            "related_to": "     Ecuador   vs   Germany"
+        },
+        {
+            "channel": "beIN Sports MENA Max 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Ecuador   vs   Germany"
+        },
+        {
+            "channel": "beIN Sports MENA Max 5 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
             "related_to": "     Ecuador   vs   Germany"
         },
         {
@@ -7519,6 +7583,14 @@
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "11856 V 29700 - 2/3",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Cura\u00e7ao   vs   Ivory Coast"
+        },
+        {
+            "channel": "beIN Sports MENA Max 2 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Cura\u00e7ao   vs   Ivory Coast"
         },
