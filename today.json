@@ -1697,6 +1697,14 @@
             "date": "2026-06-21"
         },
         {
+            "channel": "AFN Sports HD",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "4095 L 11000 - 1/2",
+            "encry": "PowerVu [c]",
+            "link": "#",
+            "related_to": "     Spain   vs   Saudi Arabia"
+        },
+        {
             "channel": "Am\u00e9rica Peru HD",
             "sat": "Telstar 12 15.0\u00b0w",
             "freq": "11919 H 45000 - 4/5",
@@ -1817,11 +1825,51 @@
             "related_to": "     Spain   vs   Saudi Arabia"
         },
         {
+            "channel": "beIN Sports MENA Max 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Spain   vs   Saudi Arabia"
+        },
+        {
+            "channel": "beIN Sports MENA Max 3 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Spain   vs   Saudi Arabia"
+        },
+        {
             "channel": "beIN Sports MENA Max 5 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10850 H 27500 - 2/3",
             "encry": "HD Irdeto",
             "link": "#",
+            "related_to": "     Spain   vs   Saudi Arabia"
+        },
+        {
+            "channel": "beIN Sports MENA Max 6 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Spain   vs   Saudi Arabia"
+        },
+        {
+            "channel": "BNT 1 Bulgaria HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12463 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "https://tv.bnt.bg/",
+            "related_to": "     Spain   vs   Saudi Arabia"
+        },
+        {
+            "channel": "BNT 3 Bulgaria HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12156 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "https://tv.bnt.bg/bnt3",
             "related_to": "     Spain   vs   Saudi Arabia"
         },
         {
@@ -1869,6 +1917,14 @@
             "sat": "Astra 1L 19.2\u00b0e",
             "freq": "10906 V 22000 - 2/3",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Spain   vs   Saudi Arabia"
+        },
+        {
+            "channel": "ERT 2 Sport Hellas HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12223 H 13381 - 3/4",
+            "encry": "MPEG-4 Biss",
             "link": "#",
             "related_to": "     Spain   vs   Saudi Arabia"
         },
@@ -1937,6 +1993,30 @@
             "related_to": "     Spain   vs   Saudi Arabia"
         },
         {
+            "channel": "IRIB 4K UHD",
+            "sat": "Express AM7 40.0\u00b0e",
+            "freq": "11637 H 30000 - 3/4",
+            "encry": "Free To Air UHD",
+            "link": "#",
+            "related_to": "     Spain   vs   Saudi Arabia"
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Intelsat 39 62.0\u00b0e",
+            "freq": "11555 V 30000 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Spain   vs   Saudi Arabia"
+        },
+        {
+            "channel": "JOJ \u0160port SVK HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12266 H 29900 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Spain   vs   Saudi Arabia"
+        },
+        {
             "channel": "Kan 11 Israel HD",
             "sat": "Amos 7 4.0\u00b0w",
             "freq": "11113 H 08518 - 3/4",
@@ -1993,6 +2073,14 @@
             "related_to": "     Spain   vs   Saudi Arabia"
         },
         {
+            "channel": "Mafken TV Zambia",
+            "sat": "Eutelsat 8 West B 8.0\u00b0w",
+            "freq": "3852 R 14167 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Spain   vs   Saudi Arabia"
+        },
+        {
             "channel": "Magenta Sport ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2021,6 +2109,22 @@
             "sat": "Yamal 401 90.0\u00b0e",
             "freq": "3786 R 15284 - 3/4",
             "encry": "MPEG-4 GoSTcrypt",
+            "link": "#",
+            "related_to": "     Spain   vs   Saudi Arabia"
+        },
+        {
+            "channel": "MTV 3 Suomi HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10809 H 24500 - 7/8",
+            "encry": "Conax",
+            "link": "#",
+            "related_to": "     Spain   vs   Saudi Arabia"
+        },
+        {
+            "channel": "MTV Urheilu 1 Suomi HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12476 H 30000 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Spain   vs   Saudi Arabia"
         },
@@ -2097,22 +2201,6 @@
             "related_to": "     Spain   vs   Saudi Arabia"
         },
         {
-            "channel": "RAI 1 Italia HD",
-            "sat": "Hotbird 13G 13.0\u00b0e",
-            "freq": "10992 V 27500 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "https://www.raiplay.it/dirette/rai1",
-            "related_to": "     Spain   vs   Saudi Arabia"
-        },
-        {
-            "channel": "RAI 4K UHD",
-            "sat": "Hotbird 13G 13.0\u00b0e",
-            "freq": "11766 V 29900 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Spain   vs   Saudi Arabia"
-        },
-        {
             "channel": "RDS Canada",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2177,6 +2265,22 @@
             "related_to": "     Spain   vs   Saudi Arabia"
         },
         {
+            "channel": "RUV Sjonvarpid",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "11389 H 24500 - 7/8",
+            "encry": "Conax",
+            "link": "#",
+            "related_to": "     Spain   vs   Saudi Arabia"
+        },
+        {
+            "channel": "Servus TV \u00d6sterreich HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11303 H 22000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Spain   vs   Saudi Arabia"
+        },
+        {
             "channel": "Setanta Sports 1 Georgia HD",
             "sat": " \u00b0",
             "freq": " ",
@@ -2225,6 +2329,22 @@
             "related_to": "     Spain   vs   Saudi Arabia"
         },
         {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Spain   vs   Saudi Arabia"
+        },
+        {
+            "channel": "Sport TV5 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Spain   vs   Saudi Arabia"
+        },
+        {
             "channel": "SRF Zwei Schweiz HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "10971 H 29700 - 2/3",
@@ -2233,10 +2353,26 @@
             "related_to": "     Spain   vs   Saudi Arabia"
         },
         {
+            "channel": "Sun Sports TV Zambia",
+            "sat": "SES 5 5.0\u00b0e",
+            "freq": "12380 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Spain   vs   Saudi Arabia"
+        },
+        {
             "channel": "SuperSport 2 Albania HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "10845 H 30000 - 3/5",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Spain   vs   Saudi Arabia"
+        },
+        {
+            "channel": "SuperSport Grandstand HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11554 V 30000 - 2/3",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Spain   vs   Saudi Arabia"
         },
@@ -2313,6 +2449,14 @@
             "related_to": "     Spain   vs   Saudi Arabia"
         },
         {
+            "channel": "TV Klan HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10804 H 29950 - 2/3",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Spain   vs   Saudi Arabia"
+        },
+        {
             "channel": "TV2 Danmark HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "10716 H 25000 - 3/4",
@@ -2369,10 +2513,34 @@
             "related_to": "     Spain   vs   Saudi Arabia"
         },
         {
+            "channel": "TVM Sport+ HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Spain   vs   Saudi Arabia"
+        },
+        {
+            "channel": "TVM+ Malta HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Spain   vs   Saudi Arabia"
+        },
+        {
             "channel": "Varzish TV Sport HD (tjk)",
             "sat": "NSS 12 57.0\u00b0e",
             "freq": "11566 H 10750 - 3/4",
             "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Spain   vs   Saudi Arabia"
+        },
+        {
+            "channel": "Zap Viva Internacional HD",
+            "sat": "Eutelsat 10B 10.0\u00b0e",
+            "freq": "12734 V 4000",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Spain   vs   Saudi Arabia"
         },
@@ -2419,6 +2587,14 @@
             },
             "time": "19:00",
             "date": "2026-06-21"
+        },
+        {
+            "channel": "AFN Sports HD",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "4095 L 11000 - 1/2",
+            "encry": "PowerVu [c]",
+            "link": "#",
+            "related_to": "     Belgium   vs   Iran"
         },
         {
             "channel": "Antena 1 Romania HD",
@@ -2509,6 +2685,14 @@
             "related_to": "     Belgium   vs   Iran"
         },
         {
+            "channel": "beIN Sports MENA Max 4 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Belgium   vs   Iran"
+        },
+        {
             "channel": "beIN Sports MENA Max 5 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10850 H 27500 - 2/3",
@@ -2525,10 +2709,34 @@
             "related_to": "     Belgium   vs   Iran"
         },
         {
+            "channel": "BNT 1 Bulgaria HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12463 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "https://tv.bnt.bg/",
+            "related_to": "     Belgium   vs   Iran"
+        },
+        {
+            "channel": "BNT 3 Bulgaria HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12156 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "https://tv.bnt.bg/bnt3",
+            "related_to": "     Belgium   vs   Iran"
+        },
+        {
             "channel": "ChileVision",
             "sat": "Telstar 12 15.0\u00b0w",
             "freq": "11857 H 45000 - 4/5",
             "encry": "MPEG-4 Verimatrix",
+            "link": "#",
+            "related_to": "     Belgium   vs   Iran"
+        },
+        {
+            "channel": "CT Sport Czech HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "12344 H 29900 - 2/3",
+            "encry": "HD CryptoWorks",
             "link": "#",
             "related_to": "     Belgium   vs   Iran"
         },
@@ -2569,6 +2777,14 @@
             "sat": "Thor 6 5.0\u00b0e",
             "freq": "11305 H 30000 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Belgium   vs   Iran"
+        },
+        {
+            "channel": "ERT 2 Sport Hellas HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12223 H 13381 - 3/4",
+            "encry": "MPEG-4 Biss",
             "link": "#",
             "related_to": "     Belgium   vs   Iran"
         },
@@ -2629,6 +2845,22 @@
             "related_to": "     Belgium   vs   Iran"
         },
         {
+            "channel": "IRIB 4K UHD",
+            "sat": "Express AM7 40.0\u00b0e",
+            "freq": "11637 H 30000 - 3/4",
+            "encry": "Free To Air UHD",
+            "link": "#",
+            "related_to": "     Belgium   vs   Iran"
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Intelsat 39 62.0\u00b0e",
+            "freq": "11555 V 30000 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Belgium   vs   Iran"
+        },
+        {
             "channel": "ITV 1 England HD",
             "sat": "Astra 2E 28.2\u00b0e",
             "freq": "11344 H 27500 - 2/3",
@@ -2642,6 +2874,14 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.itv.com/watch?channel=itv",
+            "related_to": "     Belgium   vs   Iran"
+        },
+        {
+            "channel": "JOJ \u0160port SVK HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12266 H 29900 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
             "related_to": "     Belgium   vs   Iran"
         },
         {
@@ -2685,11 +2925,35 @@
             "related_to": "     Belgium   vs   Iran"
         },
         {
+            "channel": "Mafken TV Zambia",
+            "sat": "Eutelsat 8 West B 8.0\u00b0w",
+            "freq": "3852 R 14167 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Belgium   vs   Iran"
+        },
+        {
             "channel": "Magenta Sport ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
             "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": "     Belgium   vs   Iran"
+        },
+        {
+            "channel": "MTV 3 Suomi HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10809 H 24500 - 7/8",
+            "encry": "Conax",
+            "link": "#",
+            "related_to": "     Belgium   vs   Iran"
+        },
+        {
+            "channel": "MTV Urheilu 1 Suomi HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12476 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
             "related_to": "     Belgium   vs   Iran"
         },
         {
@@ -2797,6 +3061,30 @@
             "related_to": "     Belgium   vs   Iran"
         },
         {
+            "channel": "RUV 2 Sjonvarpid",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Belgium   vs   Iran"
+        },
+        {
+            "channel": "Servus TV \u00d6sterreich HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11303 H 22000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Belgium   vs   Iran"
+        },
+        {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "sat": " \u00b0",
+            "freq": " ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Belgium   vs   Iran"
+        },
+        {
             "channel": "Sigma TV Cyprus",
             "sat": "Hellas Sat 4 39.0\u00b0e",
             "freq": "11837 H 16515 - 5/6",
@@ -2821,10 +3109,26 @@
             "related_to": "     Belgium   vs   Iran"
         },
         {
+            "channel": "Sport 24 In Flight HD",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "4095 R 30000 - 3/4",
+            "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     Belgium   vs   Iran"
+        },
+        {
             "channel": "Sport TV Belarus",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Belgium   vs   Iran"
+        },
+        {
+            "channel": "Sport TV5 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Belgium   vs   Iran"
         },
@@ -2853,10 +3157,34 @@
             "related_to": "     Belgium   vs   Iran"
         },
         {
+            "channel": "Sun Sports TV Zambia",
+            "sat": "SES 5 5.0\u00b0e",
+            "freq": "12380 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Belgium   vs   Iran"
+        },
+        {
             "channel": "SuperSport 2 Albania HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "10845 H 30000 - 3/5",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Belgium   vs   Iran"
+        },
+        {
+            "channel": "SuperSport Grandstand HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11554 V 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Belgium   vs   Iran"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 1 HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
             "link": "#",
             "related_to": "     Belgium   vs   Iran"
         },
@@ -2909,6 +3237,14 @@
             "related_to": "     Belgium   vs   Iran"
         },
         {
+            "channel": "TV Klan HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10804 H 29950 - 2/3",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Belgium   vs   Iran"
+        },
+        {
             "channel": "TV2 Direkte Norge HD",
             "sat": "Thor 6 5.0\u00b0e",
             "freq": "11385 H 30000 - 3/4",
@@ -2949,6 +3285,22 @@
             "related_to": "     Belgium   vs   Iran"
         },
         {
+            "channel": "TVM Sport+ HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Belgium   vs   Iran"
+        },
+        {
+            "channel": "TVM+ Malta HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Belgium   vs   Iran"
+        },
+        {
             "channel": "UTV Northern Ireland HD",
             "sat": "Astra 2E 28.2\u00b0e",
             "freq": "11386 V 27500 - 3/4",
@@ -2969,6 +3321,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Belgium   vs   Iran"
+        },
+        {
+            "channel": "Zap Viva Internacional HD",
+            "sat": "Eutelsat 10B 10.0\u00b0e",
+            "freq": "12734 V 4000",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Belgium   vs   Iran"
         },
@@ -2997,6 +3357,14 @@
             },
             "time": "22:00",
             "date": "2026-06-21"
+        },
+        {
+            "channel": "AFN Sports HD",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "4095 L 11000 - 1/2",
+            "encry": "PowerVu [c]",
+            "link": "#",
+            "related_to": "     Uruguay   vs   Cape Verde"
         },
         {
             "channel": "Am\u00e9rica Peru HD",
@@ -3127,9 +3495,25 @@
             "related_to": "     Uruguay   vs   Cape Verde"
         },
         {
+            "channel": "beIN Sports MENA 4K UHD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "11310 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Uruguay   vs   Cape Verde"
+        },
+        {
             "channel": "beIN Sports MENA Max 1 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Uruguay   vs   Cape Verde"
+        },
+        {
+            "channel": "beIN Sports MENA Max 3 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 H 27500 - 2/3",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Uruguay   vs   Cape Verde"
@@ -3139,6 +3523,54 @@
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10850 H 27500 - 2/3",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Uruguay   vs   Cape Verde"
+        },
+        {
+            "channel": "beIN Sports MENA Max 6 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Uruguay   vs   Cape Verde"
+        },
+        {
+            "channel": "BNT 1 Bulgaria HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12463 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "https://tv.bnt.bg/",
+            "related_to": "     Uruguay   vs   Cape Verde"
+        },
+        {
+            "channel": "BNT 3 Bulgaria HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12156 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "https://tv.bnt.bg/bnt3",
+            "related_to": "     Uruguay   vs   Cape Verde"
+        },
+        {
+            "channel": "Canal 2 International",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "21576 H 02420 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Uruguay   vs   Cape Verde"
+        },
+        {
+            "channel": "CRTV Sports Cameroon",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12610 H 12500 - 3/4",
+            "encry": "HEVC SD Nagravision",
+            "link": "#",
+            "related_to": "     Uruguay   vs   Cape Verde"
+        },
+        {
+            "channel": "CT Sport Czech HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "12344 H 29900 - 2/3",
+            "encry": "HD CryptoWorks",
             "link": "#",
             "related_to": "     Uruguay   vs   Cape Verde"
         },
@@ -3155,6 +3587,14 @@
             "sat": "Astra 1L 19.2\u00b0e",
             "freq": "10906 V 22000 - 2/3",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Uruguay   vs   Cape Verde"
+        },
+        {
+            "channel": "ERT 2 Sport Hellas HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12223 H 13381 - 3/4",
+            "encry": "MPEG-4 Biss",
             "link": "#",
             "related_to": "     Uruguay   vs   Cape Verde"
         },
@@ -3183,6 +3623,22 @@
             "related_to": "     Uruguay   vs   Cape Verde"
         },
         {
+            "channel": "Gabon 1\u00e8re",
+            "sat": "SES 5 5.0\u00b0e",
+            "freq": "11766 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "https://www.groupegabontelevisions.net/live",
+            "related_to": "     Uruguay   vs   Cape Verde"
+        },
+        {
+            "channel": "Hagerie TV Ethiopia",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11105 H 45000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Uruguay   vs   Cape Verde"
+        },
+        {
             "channel": "HRT 2 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11637 V 30000 - 2/3",
@@ -3199,11 +3655,43 @@
             "related_to": "     Uruguay   vs   Cape Verde"
         },
         {
+            "channel": "IRIB 4K UHD",
+            "sat": "Express AM7 40.0\u00b0e",
+            "freq": "11637 H 30000 - 3/4",
+            "encry": "Free To Air UHD",
+            "link": "#",
+            "related_to": "     Uruguay   vs   Cape Verde"
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Intelsat 39 62.0\u00b0e",
+            "freq": "11555 V 30000 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Uruguay   vs   Cape Verde"
+        },
+        {
+            "channel": "JOJ \u0160port SVK HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12266 H 29900 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Uruguay   vs   Cape Verde"
+        },
+        {
             "channel": "KTRK Sport",
             "sat": "Eutelsat 70B 70.5\u00b0e",
             "freq": "11097 H 23627 - 1/2",
             "encry": "FTA",
             "link": "#",
+            "related_to": "     Uruguay   vs   Cape Verde"
+        },
+        {
+            "channel": "La Nouvelle Cha\u00eene Ivorienne",
+            "sat": "SES 5 5.0\u00b0e",
+            "freq": "12303 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "https://www.nci.ci/",
             "related_to": "     Uruguay   vs   Cape Verde"
         },
         {
@@ -3220,6 +3708,22 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": "     Uruguay   vs   Cape Verde"
+        },
+        {
+            "channel": "Media Sports Infos",
+            "sat": "Rascom QAF 1R 2.8\u00b0e",
+            "freq": "4071 R 2083 - 3/4",
+            "encry": "MPEG-4 Seca",
+            "link": "#",
+            "related_to": "     Uruguay   vs   Cape Verde"
+        },
+        {
+            "channel": "MTV Urheilu 2 Suomi HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "11247 V 24500 - 7/8",
+            "encry": "HD NagraVision",
+            "link": "#",
             "related_to": "     Uruguay   vs   Cape Verde"
         },
         {
@@ -3279,10 +3783,26 @@
             "related_to": "     Uruguay   vs   Cape Verde"
         },
         {
+            "channel": "RTB Z\u00e9nith",
+            "sat": "Eutelsat 3B 3.1\u00b0e",
+            "freq": "3729 L 16833 - 5/6",
+            "encry": "HEVC SD Nagravision",
+            "link": "#",
+            "related_to": "     Uruguay   vs   Cape Verde"
+        },
+        {
             "channel": "RTBF Tipik Belgique",
             "sat": "Hotbird 13G 13.0\u00b0e",
             "freq": "11411 H 27500 - 5/6",
             "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Uruguay   vs   Cape Verde"
+        },
+        {
+            "channel": "RTG Guinea",
+            "sat": "SES 5 5.0\u00b0e",
+            "freq": "11766 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     Uruguay   vs   Cape Verde"
         },
@@ -3292,6 +3812,30 @@
             "freq": "12341 H 27500 - 3/4",
             "encry": "MPEG-4 Conax",
             "link": "#",
+            "related_to": "     Uruguay   vs   Cape Verde"
+        },
+        {
+            "channel": "RTNC Congo DR",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "11387 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Uruguay   vs   Cape Verde"
+        },
+        {
+            "channel": "RTS 1 Senegal HD",
+            "sat": "AsiaSat 5 100.5\u00b0e",
+            "freq": "4080 H 30000 - 5/6",
+            "encry": "MPEG-4 Conax",
+            "link": "https://live.rts.sn/livetv/rts1",
+            "related_to": "     Uruguay   vs   Cape Verde"
+        },
+        {
+            "channel": "RTS 2 Senegal HD",
+            "sat": "Amos 17 17.0\u00b0e",
+            "freq": "11968 V 34030 - 5/6",
+            "encry": "HD Conax",
+            "link": "https://live.rts.sn/livetv/rts2",
             "related_to": "     Uruguay   vs   Cape Verde"
         },
         {
@@ -3327,10 +3871,26 @@
             "related_to": "     Uruguay   vs   Cape Verde"
         },
         {
+            "channel": "RUV 2 Sjonvarpid",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Uruguay   vs   Cape Verde"
+        },
+        {
             "channel": "SABC 3 HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11514 V 28750 - 1/2",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Uruguay   vs   Cape Verde"
+        },
+        {
+            "channel": "Servus TV \u00d6sterreich HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11303 H 22000 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Uruguay   vs   Cape Verde"
         },
@@ -3363,6 +3923,22 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Uruguay   vs   Cape Verde"
+        },
+        {
+            "channel": "Sport TV5 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Uruguay   vs   Cape Verde"
+        },
+        {
+            "channel": "SporTV Brazil HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Uruguay   vs   Cape Verde"
         },
@@ -3423,6 +3999,30 @@
             "related_to": "     Uruguay   vs   Cape Verde"
         },
         {
+            "channel": "TCV Internacional",
+            "sat": "Eutelsat 8 West B 8.0\u00b0w",
+            "freq": "3953 R 01002 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Uruguay   vs   Cape Verde"
+        },
+        {
+            "channel": "Tele Congo",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12149 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Uruguay   vs   Cape Verde"
+        },
+        {
+            "channel": "TPA 2 Angola",
+            "sat": "Belintersat 1 51.5\u00b0e",
+            "freq": "11052 V 05962 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Uruguay   vs   Cape Verde"
+        },
+        {
             "channel": "TRT 1 T\u00fcrkiye HD",
             "sat": "Turksat 3A 42.0\u00b0e",
             "freq": "11054 V 30000 - 3/4",
@@ -3436,6 +4036,14 @@
             "freq": "12303 V 27500 - 2/3",
             "encry": "FTA",
             "link": "https://turkmentv.gov.tm/page/6",
+            "related_to": "     Uruguay   vs   Cape Verde"
+        },
+        {
+            "channel": "TV Klan HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10804 H 29950 - 2/3",
+            "encry": "HD Conax",
+            "link": "#",
             "related_to": "     Uruguay   vs   Cape Verde"
         },
         {
@@ -3483,6 +4091,46 @@
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "10934 H 25000 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Uruguay   vs   Cape Verde"
+        },
+        {
+            "channel": "TVM 1 Mozambique",
+            "sat": "Intelsat 906 64.0\u00b0e",
+            "freq": "3654 R 05632 - 3/4",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Uruguay   vs   Cape Verde"
+        },
+        {
+            "channel": "TVM Sport+ HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Uruguay   vs   Cape Verde"
+        },
+        {
+            "channel": "TVM+ Malta HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Uruguay   vs   Cape Verde"
+        },
+        {
+            "channel": "TVT Togo",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12525 V 30000 - 5/6",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Uruguay   vs   Cape Verde"
+        },
+        {
+            "channel": "T\u00e9l\u00e9 Tchad",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12687 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     Uruguay   vs   Cape Verde"
         },
