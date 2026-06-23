@@ -2201,11 +2201,35 @@
             "related_to": "     Portugal   vs   Uzbekistan"
         },
         {
+            "channel": "ETV 2 Estonia",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11938 V 27500 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Portugal   vs   Uzbekistan"
+        },
+        {
+            "channel": "ETV+ Estonia",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11938 V 27500 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Portugal   vs   Uzbekistan"
+        },
+        {
             "channel": "Fast Sports TV Armenia",
             "sat": "Eutelsat 70B 70.5\u00b0e",
             "freq": "11050 H 20030 - 1/2",
             "encry": "MPEG-4 Biss",
             "link": "https://fasttv.am/tv-channels/fastsports",
+            "related_to": "     Portugal   vs   Uzbekistan"
+        },
+        {
+            "channel": "FOX Sports USA 4K",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
             "related_to": "     Portugal   vs   Uzbekistan"
         },
         {
@@ -2237,6 +2261,22 @@
             "sat": "ABS 2A 75.0\u00b0e",
             "freq": "12252 H 10000 - 3/4",
             "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Portugal   vs   Uzbekistan"
+        },
+        {
+            "channel": "Futbol TV Uzbekistan",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "#",
+            "related_to": "     Portugal   vs   Uzbekistan"
+        },
+        {
+            "channel": "GEM Sport HD",
+            "sat": "Al Yah 1 52.5\u00b0e",
+            "freq": "12034 V 27500 - 3/4",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Portugal   vs   Uzbekistan"
         },
@@ -2449,6 +2489,14 @@
             "related_to": "     Portugal   vs   Uzbekistan"
         },
         {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Portugal   vs   Uzbekistan"
+        },
+        {
             "channel": "Persiana Sports 2 HD",
             "sat": "MonacoSat 52.0\u00b0e",
             "freq": "10804 H 27500 - 2/3",
@@ -2473,11 +2521,43 @@
             "related_to": "     Portugal   vs   Uzbekistan"
         },
         {
+            "channel": "RDS Canada",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Portugal   vs   Uzbekistan"
+        },
+        {
+            "channel": "RSI La 2 Svizzera HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "10971 H 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://www.rsi.ch/play/tv/live?tvLiveId=livestream_La2",
+            "related_to": "     Portugal   vs   Uzbekistan"
+        },
+        {
             "channel": "RTBF Tipik Belgique",
             "sat": "Hotbird 13G 13.0\u00b0e",
             "freq": "11411 H 27500 - 5/6",
             "encry": "MPEG-4 Nagra",
             "link": "#",
+            "related_to": "     Portugal   vs   Uzbekistan"
+        },
+        {
+            "channel": "RTK 1 Kosovo HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10938 H 15835 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "https://www.rtklive.com/sq/livestream/rtk1/",
+            "related_to": "     Portugal   vs   Uzbekistan"
+        },
+        {
+            "channel": "RTS 2 Suisse HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "10971 H 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://www.rts.ch/play/tv/direct?tvLiveId=3608517",
             "related_to": "     Portugal   vs   Uzbekistan"
         },
         {
@@ -2585,6 +2665,14 @@
             "related_to": "     Portugal   vs   Uzbekistan"
         },
         {
+            "channel": "SRF Zwei Schweiz HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "10971 H 29700 - 2/3",
+            "encry": "HD Panaccess",
+            "link": "https://www.srf.ch/play/tv/live?tvLiveId=c49c1d64-9f60-0001-1c36-43c288c01a10",
+            "related_to": "     Portugal   vs   Uzbekistan"
+        },
+        {
             "channel": "STV Player (geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2657,11 +2745,51 @@
             "related_to": "     Portugal   vs   Uzbekistan"
         },
         {
+            "channel": "Telemundo USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Portugal   vs   Uzbekistan"
+        },
+        {
             "channel": "TRT 1 T\u00fcrkiye HD",
             "sat": "Turksat 3A 42.0\u00b0e",
             "freq": "11054 V 30000 - 3/4",
             "encry": "HD Irdeto",
             "link": "https://www.trtizle.com/canli/tv/trt-1",
+            "related_to": "     Portugal   vs   Uzbekistan"
+        },
+        {
+            "channel": "TSN Canada 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Portugal   vs   Uzbekistan"
+        },
+        {
+            "channel": "TSN Canada 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Portugal   vs   Uzbekistan"
+        },
+        {
+            "channel": "TSN Canada 4 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Portugal   vs   Uzbekistan"
+        },
+        {
+            "channel": "TSN Canada 5 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
             "related_to": "     Portugal   vs   Uzbekistan"
         },
         {
@@ -2697,6 +2825,14 @@
             "related_to": "     Portugal   vs   Uzbekistan"
         },
         {
+            "channel": "TV6 Lietuva",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11958 H 27500 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Portugal   vs   Uzbekistan"
+        },
+        {
             "channel": "TVCG 2 HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11817 V 30000 - 3/4",
@@ -2709,6 +2845,22 @@
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12130 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Portugal   vs   Uzbekistan"
+        },
+        {
+            "channel": "TVM Sport+ HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Portugal   vs   Uzbekistan"
+        },
+        {
+            "channel": "TVM+ Malta HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Portugal   vs   Uzbekistan"
         },
@@ -2733,6 +2885,14 @@
             "sat": "Astra 2E 28.2\u00b0e",
             "freq": "11386 V 27500 - 3/4",
             "encry": "FTA",
+            "link": "#",
+            "related_to": "     Portugal   vs   Uzbekistan"
+        },
+        {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
             "link": "#",
             "related_to": "     Portugal   vs   Uzbekistan"
         },
@@ -3029,6 +3189,22 @@
             "related_to": "     England   vs   Ghana"
         },
         {
+            "channel": "FOX Sports USA 4K",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     England   vs   Ghana"
+        },
+        {
+            "channel": "FOX TV USA 4K",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     England   vs   Ghana"
+        },
+        {
             "channel": "Fox TV USA HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -3053,11 +3229,35 @@
             "related_to": "     England   vs   Ghana"
         },
         {
+            "channel": "Futbol TV Uzbekistan",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "#",
+            "related_to": "     England   vs   Ghana"
+        },
+        {
             "channel": "Gabon 1\u00e8re",
             "sat": "SES 5 5.0\u00b0e",
             "freq": "11766 H 27500 - 3/4",
             "encry": "MPEG-4 Conax",
             "link": "https://www.groupegabontelevisions.net/live",
+            "related_to": "     England   vs   Ghana"
+        },
+        {
+            "channel": "GEM Sport HD",
+            "sat": "Al Yah 1 52.5\u00b0e",
+            "freq": "12034 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     England   vs   Ghana"
+        },
+        {
+            "channel": "GRTS Gambia",
+            "sat": "Intelsat 905 24.5\u00b0w",
+            "freq": "4070 R 03800 - 1/2",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "     England   vs   Ghana"
         },
         {
@@ -3333,6 +3533,30 @@
             "related_to": "     England   vs   Ghana"
         },
         {
+            "channel": "ORTM 2 Mali",
+            "sat": "Intelsat 37e 18.0\u00b0w",
+            "freq": "4129 L 02060 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     England   vs   Ghana"
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     England   vs   Ghana"
+        },
+        {
+            "channel": "Persiana Sports 2 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
+            "related_to": "     England   vs   Ghana"
+        },
+        {
             "channel": "PTV Sports",
             "sat": "Paksat 1R 38.0\u00b0e",
             "freq": "3870 H 13333 - 3/4",
@@ -3373,10 +3597,34 @@
             "related_to": "     England   vs   Ghana"
         },
         {
+            "channel": "RDS Canada",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     England   vs   Ghana"
+        },
+        {
+            "channel": "RSI La 2 Svizzera HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "10971 H 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://www.rsi.ch/play/tv/live?tvLiveId=livestream_La2",
+            "related_to": "     England   vs   Ghana"
+        },
+        {
             "channel": "RTB Z\u00e9nith",
             "sat": "Eutelsat 3B 3.1\u00b0e",
             "freq": "3729 L 16833 - 5/6",
             "encry": "HEVC SD Nagravision",
+            "link": "#",
+            "related_to": "     England   vs   Ghana"
+        },
+        {
+            "channel": "RTBF Tipik Belgique",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11411 H 27500 - 5/6",
+            "encry": "MPEG-4 Nagra",
             "link": "#",
             "related_to": "     England   vs   Ghana"
         },
@@ -3413,11 +3661,27 @@
             "related_to": "     England   vs   Ghana"
         },
         {
+            "channel": "RTS 1 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11914 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     England   vs   Ghana"
+        },
+        {
             "channel": "RTS 2 Senegal HD",
             "sat": "Amos 17 17.0\u00b0e",
             "freq": "11968 V 34030 - 5/6",
             "encry": "HD Conax",
             "link": "https://live.rts.sn/livetv/rts2",
+            "related_to": "     England   vs   Ghana"
+        },
+        {
+            "channel": "RTS 2 Suisse HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "10971 H 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://www.rts.ch/play/tv/direct?tvLiveId=3608517",
             "related_to": "     England   vs   Ghana"
         },
         {
@@ -3549,6 +3813,14 @@
             "related_to": "     England   vs   Ghana"
         },
         {
+            "channel": "SRF Zwei Schweiz HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "10971 H 29700 - 2/3",
+            "encry": "HD Panaccess",
+            "link": "https://www.srf.ch/play/tv/live?tvLiveId=c49c1d64-9f60-0001-1c36-43c288c01a10",
+            "related_to": "     England   vs   Ghana"
+        },
+        {
             "channel": "Sun Sports TV Zambia",
             "sat": "SES 5 5.0\u00b0e",
             "freq": "12380 H 27500 - 3/4",
@@ -3621,6 +3893,14 @@
             "related_to": "     England   vs   Ghana"
         },
         {
+            "channel": "Telemundo USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     England   vs   Ghana"
+        },
+        {
             "channel": "TPA 2 Angola",
             "sat": "Belintersat 1 51.5\u00b0e",
             "freq": "11052 V 05962 - 3/4",
@@ -3634,6 +3914,30 @@
             "freq": "11054 V 30000 - 3/4",
             "encry": "HD Irdeto",
             "link": "https://www.trtizle.com/canli/tv/trt-1",
+            "related_to": "     England   vs   Ghana"
+        },
+        {
+            "channel": "TSN Canada 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     England   vs   Ghana"
+        },
+        {
+            "channel": "TSN Canada 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     England   vs   Ghana"
+        },
+        {
+            "channel": "TSN Canada 4 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
             "related_to": "     England   vs   Ghana"
         },
         {
@@ -3685,10 +3989,34 @@
             "related_to": "     England   vs   Ghana"
         },
         {
+            "channel": "TV3 Estonia HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11938 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     England   vs   Ghana"
+        },
+        {
             "channel": "TV3 Ghana",
             "sat": "Astra 2F 28.2\u00b0e",
             "freq": "12522 V 27000 - 7/8",
             "encry": "MPEG-4 Biss",
+            "link": "#",
+            "related_to": "     England   vs   Ghana"
+        },
+        {
+            "channel": "TV3 Lietuva HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11938 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     England   vs   Ghana"
+        },
+        {
+            "channel": "TV6 Latvija",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11785 V 27500 - 5/6",
+            "encry": "MPEG-4 NDS",
             "link": "#",
             "related_to": "     England   vs   Ghana"
         },
@@ -3733,6 +4061,22 @@
             "related_to": "     England   vs   Ghana"
         },
         {
+            "channel": "TVM Sport+ HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     England   vs   Ghana"
+        },
+        {
+            "channel": "TVM+ Malta HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     England   vs   Ghana"
+        },
+        {
             "channel": "TVP 1 Polska HD",
             "sat": "Hotbird 13G 13.0\u00b0e",
             "freq": "11449 H 27500 - 3/4",
@@ -3769,6 +4113,14 @@
             "sat": "Intelsat 33e 60.0\u00b0e",
             "freq": "3778 R 5720 - 3/4",
             "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     England   vs   Ghana"
+        },
+        {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
             "link": "#",
             "related_to": "     England   vs   Ghana"
         },
@@ -4023,6 +4375,14 @@
             "related_to": "     Panama   vs   Croatia"
         },
         {
+            "channel": "CTV Canada HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Panama   vs   Croatia"
+        },
+        {
             "channel": "DAZN Mundial Espana HD",
             "sat": "Astra 1L 19.2\u00b0e",
             "freq": "10906 V 22000 - 2/3",
@@ -4055,6 +4415,30 @@
             "related_to": "     Panama   vs   Croatia"
         },
         {
+            "channel": "FOX Sports USA 4K",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Panama   vs   Croatia"
+        },
+        {
+            "channel": "FOX TV USA 4K",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Panama   vs   Croatia"
+        },
+        {
+            "channel": "Fox TV USA HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Panama   vs   Croatia"
+        },
+        {
             "channel": "Fussball.TV1 UHD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -4067,6 +4451,14 @@
             "sat": "ABS 2A 75.0\u00b0e",
             "freq": "12252 H 10000 - 3/4",
             "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Panama   vs   Croatia"
+        },
+        {
+            "channel": "Futbol TV Uzbekistan",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix",
             "link": "#",
             "related_to": "     Panama   vs   Croatia"
         },
@@ -4199,6 +4591,22 @@
             "related_to": "     Panama   vs   Croatia"
         },
         {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Panama   vs   Croatia"
+        },
+        {
+            "channel": "Persiana Sports 2 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
+            "related_to": "     Panama   vs   Croatia"
+        },
+        {
             "channel": "PTV Sports",
             "sat": "Paksat 1R 38.0\u00b0e",
             "freq": "3870 H 13333 - 3/4",
@@ -4223,11 +4631,43 @@
             "related_to": "     Panama   vs   Croatia"
         },
         {
+            "channel": "RDS Canada",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Panama   vs   Croatia"
+        },
+        {
+            "channel": "RSI La 2 Svizzera HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "10971 H 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://www.rsi.ch/play/tv/live?tvLiveId=livestream_La2",
+            "related_to": "     Panama   vs   Croatia"
+        },
+        {
             "channel": "RTBF Tipik Belgique",
             "sat": "Hotbird 13G 13.0\u00b0e",
             "freq": "11411 H 27500 - 5/6",
             "encry": "MPEG-4 Nagra",
             "link": "#",
+            "related_to": "     Panama   vs   Croatia"
+        },
+        {
+            "channel": "RTK 1 Kosovo HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10938 H 15835 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "https://www.rtklive.com/sq/livestream/rtk1/",
+            "related_to": "     Panama   vs   Croatia"
+        },
+        {
+            "channel": "RTS 2 Suisse HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "10971 H 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://www.rts.ch/play/tv/direct?tvLiveId=3608517",
             "related_to": "     Panama   vs   Croatia"
         },
         {
@@ -4295,6 +4735,14 @@
             "related_to": "     Panama   vs   Croatia"
         },
         {
+            "channel": "Sport 1 Israel HD",
+            "sat": "Amos 3 4.0\u00b0w",
+            "freq": "10842 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Panama   vs   Croatia"
+        },
+        {
             "channel": "Sport 24 In Flight HD",
             "sat": "NSS 12 57.0\u00b0e",
             "freq": "4095 R 30000 - 3/4",
@@ -4316,6 +4764,14 @@
             "freq": "12360 H 27500 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
+            "related_to": "     Panama   vs   Croatia"
+        },
+        {
+            "channel": "SRF Zwei Schweiz HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "10971 H 29700 - 2/3",
+            "encry": "HD Panaccess",
+            "link": "https://www.srf.ch/play/tv/live?tvLiveId=c49c1d64-9f60-0001-1c36-43c288c01a10",
             "related_to": "     Panama   vs   Croatia"
         },
         {
@@ -4351,11 +4807,51 @@
             "related_to": "     Panama   vs   Croatia"
         },
         {
-            "channel": "TRT 1 T\u00fcrkiye HD",
+            "channel": "Telemundo USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Panama   vs   Croatia"
+        },
+        {
+            "channel": "TRT Spor T\u00fcrkiye HD",
             "sat": "Turksat 3A 42.0\u00b0e",
             "freq": "11054 V 30000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "https://www.trtizle.com/canli/tv/trt-1",
+            "encry": "FTA",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "related_to": "     Panama   vs   Croatia"
+        },
+        {
+            "channel": "TSN Canada 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Panama   vs   Croatia"
+        },
+        {
+            "channel": "TSN Canada 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Panama   vs   Croatia"
+        },
+        {
+            "channel": "TSN Canada 4 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Panama   vs   Croatia"
+        },
+        {
+            "channel": "TSN Canada 5 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
             "related_to": "     Panama   vs   Croatia"
         },
         {
@@ -4399,6 +4895,22 @@
             "related_to": "     Panama   vs   Croatia"
         },
         {
+            "channel": "TVM Sport+ HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Panama   vs   Croatia"
+        },
+        {
+            "channel": "TVM+ Malta HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Panama   vs   Croatia"
+        },
+        {
             "channel": "TVP 2 Polska HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "12265 V 27500 - 3/4",
@@ -4411,6 +4923,14 @@
             "sat": "Hotbird 13G 13.0\u00b0e",
             "freq": "10834 V 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Panama   vs   Croatia"
+        },
+        {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
             "link": "#",
             "related_to": "     Panama   vs   Croatia"
         },
