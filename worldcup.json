@@ -6711,6 +6711,46 @@
             "related_to": "     South Africa   vs   Canada"
         },
         {
+            "channel": "BBC iPlayer (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "     South Africa   vs   Canada"
+        },
+        {
+            "channel": "BBC iPlayer 4K (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "     South Africa   vs   Canada"
+        },
+        {
+            "channel": "BBC One HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "10847 V 23000 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     South Africa   vs   Canada"
+        },
+        {
+            "channel": "BBC Sport [app]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     South Africa   vs   Canada"
+        },
+        {
+            "channel": "BBC Sport Website (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.bbc.com/sport/live-guide",
+            "related_to": "     South Africa   vs   Canada"
+        },
+        {
             "channel": "beIN Sports France 1 HD",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "11856 V 29700 - 2/3",
@@ -6764,6 +6804,30 @@
             "freq": "11778 V 29900 - 2/3",
             "encry": "HD Conax",
             "link": "https://m4sport.hu/elo/mtv4live/",
+            "related_to": "     South Africa   vs   Canada"
+        },
+        {
+            "channel": "M6 France 4K UHD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     South Africa   vs   Canada"
+        },
+        {
+            "channel": "M6 France HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12168 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://www.6play.fr/m6/direct",
+            "related_to": "     South Africa   vs   Canada"
+        },
+        {
+            "channel": "M6 Suisse HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12034 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "     South Africa   vs   Canada"
         },
         {
@@ -7000,10 +7064,10 @@
         },
         {
             "compet": "FIFA WORLD CUP 2026 - Round of 32",
-            "match": "     Brazil   vs   ** T.B.D. **",
+            "match": "     Brazil   vs   Japan",
             "flags": {
                 "team1": "brazil",
-                "team2": "notspecific"
+                "team2": "japan"
             },
             "time": "17:00",
             "date": "2026-06-29"
@@ -7014,7 +7078,7 @@
             "freq": "12402 V 30000 - 3/4",
             "encry": "HD Conax",
             "link": "#",
-            "related_to": "     Brazil   vs   ** T.B.D. **"
+            "related_to": "     Brazil   vs   Japan"
         },
         {
             "channel": "Arena Sport 1 Slovenija HD",
@@ -7022,7 +7086,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "#",
-            "related_to": "     Brazil   vs   ** T.B.D. **"
+            "related_to": "     Brazil   vs   Japan"
         },
         {
             "channel": "BarTV Mundial HD",
@@ -7030,7 +7094,47 @@
             "freq": "10876 V 22000 - 5/6",
             "encry": "NagraVision",
             "link": "#",
-            "related_to": "     Brazil   vs   ** T.B.D. **"
+            "related_to": "     Brazil   vs   Japan"
+        },
+        {
+            "channel": "BBC iPlayer (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "     Brazil   vs   Japan"
+        },
+        {
+            "channel": "BBC iPlayer 4K (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "     Brazil   vs   Japan"
+        },
+        {
+            "channel": "BBC One HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "10847 V 23000 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Brazil   vs   Japan"
+        },
+        {
+            "channel": "BBC Sport [app]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Brazil   vs   Japan"
+        },
+        {
+            "channel": "BBC Sport Website (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.bbc.com/sport/live-guide",
+            "related_to": "     Brazil   vs   Japan"
         },
         {
             "channel": "beIN Sports France 1 HD",
@@ -7038,7 +7142,7 @@
             "freq": "11856 V 29700 - 2/3",
             "encry": "HD Viaccess",
             "link": "#",
-            "related_to": "     Brazil   vs   ** T.B.D. **"
+            "related_to": "     Brazil   vs   Japan"
         },
         {
             "channel": "DAZN Espa\u00f1a ($/geo/R)",
@@ -7046,7 +7150,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "#",
-            "related_to": "     Brazil   vs   ** T.B.D. **"
+            "related_to": "     Brazil   vs   Japan"
         },
         {
             "channel": "DAZN Mundial Espana HD",
@@ -7054,7 +7158,7 @@
             "freq": "10906 V 22000 - 2/3",
             "encry": "HD NagraVision",
             "link": "#",
-            "related_to": "     Brazil   vs   ** T.B.D. **"
+            "related_to": "     Brazil   vs   Japan"
         },
         {
             "channel": "HRT 2 Hrvatska HD",
@@ -7062,7 +7166,7 @@
             "freq": "11637 V 30000 - 2/3",
             "encry": "HD Viaccess",
             "link": "#",
-            "related_to": "     Brazil   vs   ** T.B.D. **"
+            "related_to": "     Brazil   vs   Japan"
         },
         {
             "channel": "ITV 1 England HD",
@@ -7070,7 +7174,7 @@
             "freq": "11344 H 27500 - 2/3",
             "encry": "HD Panaccess",
             "link": "https://www.itv.com/watch?channel=itv",
-            "related_to": "     Brazil   vs   ** T.B.D. **"
+            "related_to": "     Brazil   vs   Japan"
         },
         {
             "channel": "ITV X (geo/R)",
@@ -7078,7 +7182,31 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.itv.com/watch?channel=itv",
-            "related_to": "     Brazil   vs   ** T.B.D. **"
+            "related_to": "     Brazil   vs   Japan"
+        },
+        {
+            "channel": "M6 France 4K UHD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Brazil   vs   Japan"
+        },
+        {
+            "channel": "M6 France HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12168 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://www.6play.fr/m6/direct",
+            "related_to": "     Brazil   vs   Japan"
+        },
+        {
+            "channel": "M6 Suisse HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12034 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Brazil   vs   Japan"
         },
         {
             "channel": "Magenta Sport ($/geo/R)",
@@ -7086,7 +7214,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
-            "related_to": "     Brazil   vs   ** T.B.D. **"
+            "related_to": "     Brazil   vs   Japan"
         },
         {
             "channel": "MATCH! Futbol 1 HD",
@@ -7094,7 +7222,7 @@
             "freq": "11840 H 28800 - 2/3",
             "encry": "MPEG-4 Irdeto",
             "link": "#",
-            "related_to": "     Brazil   vs   ** T.B.D. **"
+            "related_to": "     Brazil   vs   Japan"
         },
         {
             "channel": "MATCH! Premier HD",
@@ -7102,7 +7230,7 @@
             "freq": "11720 H 28800 - 3/4",
             "encry": "Conax",
             "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
-            "related_to": "     Brazil   vs   ** T.B.D. **"
+            "related_to": "     Brazil   vs   Japan"
         },
         {
             "channel": "MATCH! Russia HD",
@@ -7110,7 +7238,7 @@
             "freq": "3786 R 15284 - 3/4",
             "encry": "MPEG-4 GoSTcrypt",
             "link": "#",
-            "related_to": "     Brazil   vs   ** T.B.D. **"
+            "related_to": "     Brazil   vs   Japan"
         },
         {
             "channel": "MATCH! TV [online] ($/geo/R)",
@@ -7118,7 +7246,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://matchtv.ru/video/sports/football",
-            "related_to": "     Brazil   vs   ** T.B.D. **"
+            "related_to": "     Brazil   vs   Japan"
         },
         {
             "channel": "MTV Urheilu 1 Suomi HD",
@@ -7126,7 +7254,7 @@
             "freq": "12476 H 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
-            "related_to": "     Brazil   vs   ** T.B.D. **"
+            "related_to": "     Brazil   vs   Japan"
         },
         {
             "channel": "NPO 1 Nederland HD",
@@ -7134,7 +7262,7 @@
             "freq": "12188 H 29900 - 2/3",
             "encry": "HD NagraVision",
             "link": "#",
-            "related_to": "     Brazil   vs   ** T.B.D. **"
+            "related_to": "     Brazil   vs   Japan"
         },
         {
             "channel": "Play RTS Sport (geo/R)",
@@ -7142,7 +7270,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.rts.ch/play/tv/categories/sport",
-            "related_to": "     Brazil   vs   ** T.B.D. **"
+            "related_to": "     Brazil   vs   Japan"
         },
         {
             "channel": "RSI La 2 Svizzera HD",
@@ -7150,7 +7278,7 @@
             "freq": "10971 H 29700 - 2/3",
             "encry": "HD Viaccess",
             "link": "https://www.rsi.ch/play/tv/live?tvLiveId=livestream_La2",
-            "related_to": "     Brazil   vs   ** T.B.D. **"
+            "related_to": "     Brazil   vs   Japan"
         },
         {
             "channel": "RTS 2 Suisse HD",
@@ -7158,7 +7286,7 @@
             "freq": "10971 H 29700 - 2/3",
             "encry": "HD Viaccess",
             "link": "https://www.rts.ch/play/tv/direct?tvLiveId=3608517",
-            "related_to": "     Brazil   vs   ** T.B.D. **"
+            "related_to": "     Brazil   vs   Japan"
         },
         {
             "channel": "RT\u00c9 2 Ireland HD",
@@ -7166,7 +7294,7 @@
             "freq": "11914 H 27500 - 5/6",
             "encry": "VideoGuard",
             "link": "#",
-            "related_to": "     Brazil   vs   ** T.B.D. **"
+            "related_to": "     Brazil   vs   Japan"
         },
         {
             "channel": "RT\u00c9 Player (geo/R)",
@@ -7174,7 +7302,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.rte.ie/player/onnow",
-            "related_to": "     Brazil   vs   ** T.B.D. **"
+            "related_to": "     Brazil   vs   Japan"
         },
         {
             "channel": "Slovenija TV2 HD",
@@ -7182,7 +7310,7 @@
             "freq": "11554 H 30000 - 3/4",
             "encry": "HD VideoGuard",
             "link": "https://4d.rtvslo.si/zivo/tvs2",
-            "related_to": "     Brazil   vs   ** T.B.D. **"
+            "related_to": "     Brazil   vs   Japan"
         },
         {
             "channel": "Sport TV5 Portugal HD",
@@ -7190,7 +7318,7 @@
             "freq": "12360 H 27500 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
-            "related_to": "     Brazil   vs   ** T.B.D. **"
+            "related_to": "     Brazil   vs   Japan"
         },
         {
             "channel": "SRF Zwei Schweiz HD",
@@ -7198,7 +7326,7 @@
             "freq": "10971 H 29700 - 2/3",
             "encry": "HD Panaccess",
             "link": "https://www.srf.ch/play/tv/live?tvLiveId=c49c1d64-9f60-0001-1c36-43c288c01a10",
-            "related_to": "     Brazil   vs   ** T.B.D. **"
+            "related_to": "     Brazil   vs   Japan"
         },
         {
             "channel": "STV Player (geo/R)",
@@ -7206,7 +7334,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://player.stv.tv/live",
-            "related_to": "     Brazil   vs   ** T.B.D. **"
+            "related_to": "     Brazil   vs   Japan"
         },
         {
             "channel": "STV Scotland HD",
@@ -7214,7 +7342,7 @@
             "freq": "11386 V 27500 - 2/3",
             "encry": "HD VideoGuard",
             "link": "#",
-            "related_to": "     Brazil   vs   ** T.B.D. **"
+            "related_to": "     Brazil   vs   Japan"
         },
         {
             "channel": "SuperSport Grandstand HD",
@@ -7222,7 +7350,7 @@
             "freq": "11554 V 30000 - 2/3",
             "encry": "HD Irdeto",
             "link": "#",
-            "related_to": "     Brazil   vs   ** T.B.D. **"
+            "related_to": "     Brazil   vs   Japan"
         },
         {
             "channel": "SuperSport PSL HD",
@@ -7230,7 +7358,7 @@
             "freq": "11594 V 27500 - 5/6",
             "encry": "Irdeto",
             "link": "#",
-            "related_to": "     Brazil   vs   ** T.B.D. **"
+            "related_to": "     Brazil   vs   Japan"
         },
         {
             "channel": "TRT 1 T\u00fcrkiye HD",
@@ -7238,7 +7366,7 @@
             "freq": "11096 H 30000 - 5/6",
             "encry": "HD Irdeto",
             "link": "https://www.trtizle.com/canli/tv/trt-1",
-            "related_to": "     Brazil   vs   ** T.B.D. **"
+            "related_to": "     Brazil   vs   Japan"
         },
         {
             "channel": "TSN Canada 1 HD",
@@ -7246,7 +7374,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
-            "related_to": "     Brazil   vs   ** T.B.D. **"
+            "related_to": "     Brazil   vs   Japan"
         },
         {
             "channel": "TSN Canada 3 HD",
@@ -7254,7 +7382,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
-            "related_to": "     Brazil   vs   ** T.B.D. **"
+            "related_to": "     Brazil   vs   Japan"
         },
         {
             "channel": "TSN Canada 4 HD",
@@ -7262,7 +7390,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
-            "related_to": "     Brazil   vs   ** T.B.D. **"
+            "related_to": "     Brazil   vs   Japan"
         },
         {
             "channel": "TSN+ Canada ($/geo/R)",
@@ -7270,7 +7398,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.tsn.ca/tsnplus",
-            "related_to": "     Brazil   vs   ** T.B.D. **"
+            "related_to": "     Brazil   vs   Japan"
         },
         {
             "channel": "UTV Northern Ireland HD",
@@ -7278,7 +7406,7 @@
             "freq": "11386 V 27500 - 3/4",
             "encry": "FTA",
             "link": "#",
-            "related_to": "     Brazil   vs   ** T.B.D. **"
+            "related_to": "     Brazil   vs   Japan"
         },
         {
             "compet": "FIFA WORLD CUP 2026 - Round of 32",
@@ -7315,6 +7443,46 @@
             "related_to": "     Germany   vs   ** T.B.D. **"
         },
         {
+            "channel": "BBC iPlayer (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "     Germany   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "BBC iPlayer 4K (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "     Germany   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "BBC One HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "10847 V 23000 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Germany   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "BBC Sport [app]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Germany   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "BBC Sport Website (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.bbc.com/sport/live-guide",
+            "related_to": "     Germany   vs   ** T.B.D. **"
+        },
+        {
             "channel": "beIN Sports France 1 HD",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "11856 V 29700 - 2/3",
@@ -7360,6 +7528,30 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.itv.com/watch?channel=itv",
+            "related_to": "     Germany   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "M6 France 4K UHD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Germany   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "M6 France HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12168 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://www.6play.fr/m6/direct",
+            "related_to": "     Germany   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "M6 Suisse HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12034 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "     Germany   vs   ** T.B.D. **"
         },
         {
@@ -7488,6 +7680,14 @@
             "freq": "10971 H 29700 - 2/3",
             "encry": "HD Panaccess",
             "link": "https://www.srf.ch/play/tv/live?tvLiveId=c49c1d64-9f60-0001-1c36-43c288c01a10",
+            "related_to": "     Germany   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "STV Player (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://player.stv.tv/live",
             "related_to": "     Germany   vs   ** T.B.D. **"
         },
         {
@@ -7572,9 +7772,9 @@
         },
         {
             "compet": "FIFA WORLD CUP 2026 - Round of 32",
-            "match": "     ** T.B.D. **   vs   Morocco",
+            "match": "     Netherlands   vs   Morocco",
             "flags": {
-                "team1": "notspecific",
+                "team1": "holland",
                 "team2": "morocco"
             },
             "time": "01:00",
@@ -7586,7 +7786,7 @@
             "freq": "12402 V 30000 - 3/4",
             "encry": "HD Conax",
             "link": "#",
-            "related_to": "     ** T.B.D. **   vs   Morocco"
+            "related_to": "     Netherlands   vs   Morocco"
         },
         {
             "channel": "Arena Sport 1 Slovenija HD",
@@ -7594,7 +7794,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "#",
-            "related_to": "     ** T.B.D. **   vs   Morocco"
+            "related_to": "     Netherlands   vs   Morocco"
         },
         {
             "channel": "BarTV Mundial HD",
@@ -7602,7 +7802,47 @@
             "freq": "10876 V 22000 - 5/6",
             "encry": "NagraVision",
             "link": "#",
-            "related_to": "     ** T.B.D. **   vs   Morocco"
+            "related_to": "     Netherlands   vs   Morocco"
+        },
+        {
+            "channel": "BBC iPlayer (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "     Netherlands   vs   Morocco"
+        },
+        {
+            "channel": "BBC iPlayer 4K (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "     Netherlands   vs   Morocco"
+        },
+        {
+            "channel": "BBC One HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "10847 V 23000 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Netherlands   vs   Morocco"
+        },
+        {
+            "channel": "BBC Sport [app]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Netherlands   vs   Morocco"
+        },
+        {
+            "channel": "BBC Sport Website (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.bbc.com/sport/live-guide",
+            "related_to": "     Netherlands   vs   Morocco"
         },
         {
             "channel": "beIN Sports France 1 HD",
@@ -7610,7 +7850,7 @@
             "freq": "11856 V 29700 - 2/3",
             "encry": "HD Viaccess",
             "link": "#",
-            "related_to": "     ** T.B.D. **   vs   Morocco"
+            "related_to": "     Netherlands   vs   Morocco"
         },
         {
             "channel": "DAZN Espa\u00f1a ($/geo/R)",
@@ -7618,7 +7858,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "#",
-            "related_to": "     ** T.B.D. **   vs   Morocco"
+            "related_to": "     Netherlands   vs   Morocco"
         },
         {
             "channel": "DAZN Mundial Espana HD",
@@ -7626,7 +7866,7 @@
             "freq": "10906 V 22000 - 2/3",
             "encry": "HD NagraVision",
             "link": "#",
-            "related_to": "     ** T.B.D. **   vs   Morocco"
+            "related_to": "     Netherlands   vs   Morocco"
         },
         {
             "channel": "HRT 2 Hrvatska HD",
@@ -7634,7 +7874,23 @@
             "freq": "11637 V 30000 - 2/3",
             "encry": "HD Viaccess",
             "link": "#",
-            "related_to": "     ** T.B.D. **   vs   Morocco"
+            "related_to": "     Netherlands   vs   Morocco"
+        },
+        {
+            "channel": "ITV 1 England HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11344 H 27500 - 2/3",
+            "encry": "HD Panaccess",
+            "link": "https://www.itv.com/watch?channel=itv",
+            "related_to": "     Netherlands   vs   Morocco"
+        },
+        {
+            "channel": "ITV X (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.itv.com/watch?channel=itv",
+            "related_to": "     Netherlands   vs   Morocco"
         },
         {
             "channel": "Magenta Sport ($/geo/R)",
@@ -7642,7 +7898,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
-            "related_to": "     ** T.B.D. **   vs   Morocco"
+            "related_to": "     Netherlands   vs   Morocco"
         },
         {
             "channel": "MATCH! Futbol 1 HD",
@@ -7650,7 +7906,7 @@
             "freq": "11840 H 28800 - 2/3",
             "encry": "MPEG-4 Irdeto",
             "link": "#",
-            "related_to": "     ** T.B.D. **   vs   Morocco"
+            "related_to": "     Netherlands   vs   Morocco"
         },
         {
             "channel": "MATCH! Premier HD",
@@ -7658,7 +7914,7 @@
             "freq": "11720 H 28800 - 3/4",
             "encry": "Conax",
             "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
-            "related_to": "     ** T.B.D. **   vs   Morocco"
+            "related_to": "     Netherlands   vs   Morocco"
         },
         {
             "channel": "MATCH! Russia HD",
@@ -7666,7 +7922,7 @@
             "freq": "3786 R 15284 - 3/4",
             "encry": "MPEG-4 GoSTcrypt",
             "link": "#",
-            "related_to": "     ** T.B.D. **   vs   Morocco"
+            "related_to": "     Netherlands   vs   Morocco"
         },
         {
             "channel": "MATCH! TV [online] ($/geo/R)",
@@ -7674,7 +7930,15 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://matchtv.ru/video/sports/football",
-            "related_to": "     ** T.B.D. **   vs   Morocco"
+            "related_to": "     Netherlands   vs   Morocco"
+        },
+        {
+            "channel": "NPO 1 4K UHD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11895 V 29900 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Netherlands   vs   Morocco"
         },
         {
             "channel": "NPO 1 Nederland HD",
@@ -7682,7 +7946,7 @@
             "freq": "12188 H 29900 - 2/3",
             "encry": "HD NagraVision",
             "link": "#",
-            "related_to": "     ** T.B.D. **   vs   Morocco"
+            "related_to": "     Netherlands   vs   Morocco"
         },
         {
             "channel": "Play RTS Sport (geo/R)",
@@ -7690,7 +7954,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.rts.ch/play/tv/categories/sport",
-            "related_to": "     ** T.B.D. **   vs   Morocco"
+            "related_to": "     Netherlands   vs   Morocco"
         },
         {
             "channel": "RT\u00c9 2 Ireland HD",
@@ -7698,7 +7962,7 @@
             "freq": "11914 H 27500 - 5/6",
             "encry": "VideoGuard",
             "link": "#",
-            "related_to": "     ** T.B.D. **   vs   Morocco"
+            "related_to": "     Netherlands   vs   Morocco"
         },
         {
             "channel": "RT\u00c9 Player (geo/R)",
@@ -7706,7 +7970,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.rte.ie/player/onnow",
-            "related_to": "     ** T.B.D. **   vs   Morocco"
+            "related_to": "     Netherlands   vs   Morocco"
         },
         {
             "channel": "Slovenija TV2 HD",
@@ -7714,7 +7978,7 @@
             "freq": "11554 H 30000 - 3/4",
             "encry": "HD VideoGuard",
             "link": "https://4d.rtvslo.si/zivo/tvs2",
-            "related_to": "     ** T.B.D. **   vs   Morocco"
+            "related_to": "     Netherlands   vs   Morocco"
         },
         {
             "channel": "Sport TV5 Portugal HD",
@@ -7722,7 +7986,23 @@
             "freq": "12360 H 27500 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
-            "related_to": "     ** T.B.D. **   vs   Morocco"
+            "related_to": "     Netherlands   vs   Morocco"
+        },
+        {
+            "channel": "STV Player (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://player.stv.tv/live",
+            "related_to": "     Netherlands   vs   Morocco"
+        },
+        {
+            "channel": "STV Scotland HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11386 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Netherlands   vs   Morocco"
         },
         {
             "channel": "SuperSport Grandstand HD",
@@ -7730,7 +8010,7 @@
             "freq": "11554 V 30000 - 2/3",
             "encry": "HD Irdeto",
             "link": "#",
-            "related_to": "     ** T.B.D. **   vs   Morocco"
+            "related_to": "     Netherlands   vs   Morocco"
         },
         {
             "channel": "SuperSport PSL HD",
@@ -7738,7 +8018,7 @@
             "freq": "11594 V 27500 - 5/6",
             "encry": "Irdeto",
             "link": "#",
-            "related_to": "     ** T.B.D. **   vs   Morocco"
+            "related_to": "     Netherlands   vs   Morocco"
         },
         {
             "channel": "TRT 1 T\u00fcrkiye HD",
@@ -7746,7 +8026,7 @@
             "freq": "11096 H 30000 - 5/6",
             "encry": "HD Irdeto",
             "link": "https://www.trtizle.com/canli/tv/trt-1",
-            "related_to": "     ** T.B.D. **   vs   Morocco"
+            "related_to": "     Netherlands   vs   Morocco"
         },
         {
             "channel": "TSN Canada 1 HD",
@@ -7754,7 +8034,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
-            "related_to": "     ** T.B.D. **   vs   Morocco"
+            "related_to": "     Netherlands   vs   Morocco"
         },
         {
             "channel": "TSN Canada 3 HD",
@@ -7762,7 +8042,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
-            "related_to": "     ** T.B.D. **   vs   Morocco"
+            "related_to": "     Netherlands   vs   Morocco"
         },
         {
             "channel": "TSN Canada 4 HD",
@@ -7770,7 +8050,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
-            "related_to": "     ** T.B.D. **   vs   Morocco"
+            "related_to": "     Netherlands   vs   Morocco"
         },
         {
             "channel": "TSN+ Canada ($/geo/R)",
@@ -7778,7 +8058,15 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.tsn.ca/tsnplus",
-            "related_to": "     ** T.B.D. **   vs   Morocco"
+            "related_to": "     Netherlands   vs   Morocco"
+        },
+        {
+            "channel": "UTV Northern Ireland HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11386 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Netherlands   vs   Morocco"
         },
         {
             "channel": "YLE AREENA ($/geo/R)",
@@ -7786,7 +8074,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://areena.yle.fi/tv",
-            "related_to": "     ** T.B.D. **   vs   Morocco"
+            "related_to": "     Netherlands   vs   Morocco"
         },
         {
             "channel": "YLE TV2 Suomi HD",
@@ -7794,13 +8082,13 @@
             "freq": "10872 H 25000 - 3/4",
             "encry": "HD VideoGuard",
             "link": "#",
-            "related_to": "     ** T.B.D. **   vs   Morocco"
+            "related_to": "     Netherlands   vs   Morocco"
         },
         {
             "compet": "FIFA WORLD CUP 2026 - Round of 32",
-            "match": "       ** T.B.D. **       ",
+            "match": "     Ivory Coast   vs   ** T.B.D. **",
             "flags": {
-                "team1": "notspecific",
+                "team1": "ivorycoast",
                 "team2": "notspecific"
             },
             "time": "17:00",
@@ -7812,7 +8100,7 @@
             "freq": "12402 V 30000 - 3/4",
             "encry": "HD Conax",
             "link": "#",
-            "related_to": "       ** T.B.D. **       "
+            "related_to": "     Ivory Coast   vs   ** T.B.D. **"
         },
         {
             "channel": "Arena Sport 1 Slovenija HD",
@@ -7820,7 +8108,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "#",
-            "related_to": "       ** T.B.D. **       "
+            "related_to": "     Ivory Coast   vs   ** T.B.D. **"
         },
         {
             "channel": "BarTV Mundial HD",
@@ -7828,7 +8116,47 @@
             "freq": "10876 V 22000 - 5/6",
             "encry": "NagraVision",
             "link": "#",
-            "related_to": "       ** T.B.D. **       "
+            "related_to": "     Ivory Coast   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "BBC iPlayer (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "     Ivory Coast   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "BBC iPlayer 4K (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "     Ivory Coast   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "BBC One HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "10847 V 23000 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Ivory Coast   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "BBC Sport [app]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Ivory Coast   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "BBC Sport Website (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.bbc.com/sport/live-guide",
+            "related_to": "     Ivory Coast   vs   ** T.B.D. **"
         },
         {
             "channel": "beIN Sports France 1 HD",
@@ -7836,7 +8164,7 @@
             "freq": "11856 V 29700 - 2/3",
             "encry": "HD Viaccess",
             "link": "#",
-            "related_to": "       ** T.B.D. **       "
+            "related_to": "     Ivory Coast   vs   ** T.B.D. **"
         },
         {
             "channel": "DAZN Espa\u00f1a ($/geo/R)",
@@ -7844,7 +8172,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "#",
-            "related_to": "       ** T.B.D. **       "
+            "related_to": "     Ivory Coast   vs   ** T.B.D. **"
         },
         {
             "channel": "DAZN Mundial Espana HD",
@@ -7852,7 +8180,7 @@
             "freq": "10906 V 22000 - 2/3",
             "encry": "HD NagraVision",
             "link": "#",
-            "related_to": "       ** T.B.D. **       "
+            "related_to": "     Ivory Coast   vs   ** T.B.D. **"
         },
         {
             "channel": "HRT 2 Hrvatska HD",
@@ -7860,7 +8188,47 @@
             "freq": "11637 V 30000 - 2/3",
             "encry": "HD Viaccess",
             "link": "#",
-            "related_to": "       ** T.B.D. **       "
+            "related_to": "     Ivory Coast   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "ITV 1 England HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11344 H 27500 - 2/3",
+            "encry": "HD Panaccess",
+            "link": "https://www.itv.com/watch?channel=itv",
+            "related_to": "     Ivory Coast   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "ITV X (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.itv.com/watch?channel=itv",
+            "related_to": "     Ivory Coast   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "M6 France 4K UHD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Ivory Coast   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "M6 France HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12168 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://www.6play.fr/m6/direct",
+            "related_to": "     Ivory Coast   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "M6 Suisse HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12034 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Ivory Coast   vs   ** T.B.D. **"
         },
         {
             "channel": "Magenta Sport ($/geo/R)",
@@ -7868,7 +8236,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
-            "related_to": "       ** T.B.D. **       "
+            "related_to": "     Ivory Coast   vs   ** T.B.D. **"
         },
         {
             "channel": "MATCH! Futbol 1 HD",
@@ -7876,7 +8244,7 @@
             "freq": "11840 H 28800 - 2/3",
             "encry": "MPEG-4 Irdeto",
             "link": "#",
-            "related_to": "       ** T.B.D. **       "
+            "related_to": "     Ivory Coast   vs   ** T.B.D. **"
         },
         {
             "channel": "MATCH! Premier HD",
@@ -7884,7 +8252,7 @@
             "freq": "11720 H 28800 - 3/4",
             "encry": "Conax",
             "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
-            "related_to": "       ** T.B.D. **       "
+            "related_to": "     Ivory Coast   vs   ** T.B.D. **"
         },
         {
             "channel": "MATCH! Russia HD",
@@ -7892,7 +8260,7 @@
             "freq": "3786 R 15284 - 3/4",
             "encry": "MPEG-4 GoSTcrypt",
             "link": "#",
-            "related_to": "       ** T.B.D. **       "
+            "related_to": "     Ivory Coast   vs   ** T.B.D. **"
         },
         {
             "channel": "MATCH! TV [online] ($/geo/R)",
@@ -7900,7 +8268,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://matchtv.ru/video/sports/football",
-            "related_to": "       ** T.B.D. **       "
+            "related_to": "     Ivory Coast   vs   ** T.B.D. **"
         },
         {
             "channel": "NPO 1 Nederland HD",
@@ -7908,7 +8276,7 @@
             "freq": "12188 H 29900 - 2/3",
             "encry": "HD NagraVision",
             "link": "#",
-            "related_to": "       ** T.B.D. **       "
+            "related_to": "     Ivory Coast   vs   ** T.B.D. **"
         },
         {
             "channel": "Play RTS Sport (geo/R)",
@@ -7916,7 +8284,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.rts.ch/play/tv/categories/sport",
-            "related_to": "       ** T.B.D. **       "
+            "related_to": "     Ivory Coast   vs   ** T.B.D. **"
         },
         {
             "channel": "RT\u00c9 2 Ireland HD",
@@ -7924,7 +8292,7 @@
             "freq": "11914 H 27500 - 5/6",
             "encry": "VideoGuard",
             "link": "#",
-            "related_to": "       ** T.B.D. **       "
+            "related_to": "     Ivory Coast   vs   ** T.B.D. **"
         },
         {
             "channel": "RT\u00c9 Player (geo/R)",
@@ -7932,7 +8300,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.rte.ie/player/onnow",
-            "related_to": "       ** T.B.D. **       "
+            "related_to": "     Ivory Coast   vs   ** T.B.D. **"
         },
         {
             "channel": "Slovenija TV2 HD",
@@ -7940,7 +8308,7 @@
             "freq": "11554 H 30000 - 3/4",
             "encry": "HD VideoGuard",
             "link": "https://4d.rtvslo.si/zivo/tvs2",
-            "related_to": "       ** T.B.D. **       "
+            "related_to": "     Ivory Coast   vs   ** T.B.D. **"
         },
         {
             "channel": "Sport TV5 Portugal HD",
@@ -7948,7 +8316,23 @@
             "freq": "12360 H 27500 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
-            "related_to": "       ** T.B.D. **       "
+            "related_to": "     Ivory Coast   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "STV Player (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://player.stv.tv/live",
+            "related_to": "     Ivory Coast   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "STV Scotland HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11386 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Ivory Coast   vs   ** T.B.D. **"
         },
         {
             "channel": "SuperSport Grandstand HD",
@@ -7956,7 +8340,7 @@
             "freq": "11554 V 30000 - 2/3",
             "encry": "HD Irdeto",
             "link": "#",
-            "related_to": "       ** T.B.D. **       "
+            "related_to": "     Ivory Coast   vs   ** T.B.D. **"
         },
         {
             "channel": "SuperSport PSL HD",
@@ -7964,7 +8348,7 @@
             "freq": "11594 V 27500 - 5/6",
             "encry": "Irdeto",
             "link": "#",
-            "related_to": "       ** T.B.D. **       "
+            "related_to": "     Ivory Coast   vs   ** T.B.D. **"
         },
         {
             "channel": "TSN+ Canada ($/geo/R)",
@@ -7972,7 +8356,15 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.tsn.ca/tsnplus",
-            "related_to": "       ** T.B.D. **       "
+            "related_to": "     Ivory Coast   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "UTV Northern Ireland HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11386 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Ivory Coast   vs   ** T.B.D. **"
         },
         {
             "channel": "YLE AREENA ($/geo/R)",
@@ -7980,7 +8372,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://areena.yle.fi/tv",
-            "related_to": "       ** T.B.D. **       "
+            "related_to": "     Ivory Coast   vs   ** T.B.D. **"
         },
         {
             "channel": "YLE TV2 Suomi HD",
@@ -7988,7 +8380,7 @@
             "freq": "10872 H 25000 - 3/4",
             "encry": "HD VideoGuard",
             "link": "#",
-            "related_to": "       ** T.B.D. **       "
+            "related_to": "     Ivory Coast   vs   ** T.B.D. **"
         },
         {
             "compet": "FIFA WORLD CUP 2026 - Round of 32",
@@ -8025,6 +8417,46 @@
             "related_to": "       ** T.B.D. **       "
         },
         {
+            "channel": "BBC iPlayer (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "BBC iPlayer 4K (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "BBC One HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "10847 V 23000 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "BBC Sport [app]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "BBC Sport Website (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.bbc.com/sport/live-guide",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
             "channel": "beIN Sports France 1 HD",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "11856 V 29700 - 2/3",
@@ -8053,6 +8485,46 @@
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11637 V 30000 - 2/3",
             "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "ITV 1 England HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11344 H 27500 - 2/3",
+            "encry": "HD Panaccess",
+            "link": "https://www.itv.com/watch?channel=itv",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "ITV X (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.itv.com/watch?channel=itv",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "M6 France 4K UHD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "M6 France HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12168 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://www.6play.fr/m6/direct",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "M6 Suisse HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12034 V 27500 - 3/4",
+            "encry": "FTA",
             "link": "#",
             "related_to": "       ** T.B.D. **       "
         },
@@ -8145,6 +8617,22 @@
             "related_to": "       ** T.B.D. **       "
         },
         {
+            "channel": "STV Player (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://player.stv.tv/live",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "STV Scotland HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11386 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
             "channel": "SuperSport Grandstand HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11554 V 30000 - 2/3",
@@ -8174,6 +8662,14 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.tsn.ca/tsnplus",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "UTV Northern Ireland HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11386 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "       ** T.B.D. **       "
         },
         {
@@ -8219,6 +8715,46 @@
             "related_to": "     Mexico   vs   ** T.B.D. **"
         },
         {
+            "channel": "BBC iPlayer (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "     Mexico   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "BBC iPlayer 4K (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "     Mexico   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "BBC One HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "10847 V 23000 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Mexico   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "BBC Sport [app]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Mexico   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "BBC Sport Website (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.bbc.com/sport/live-guide",
+            "related_to": "     Mexico   vs   ** T.B.D. **"
+        },
+        {
             "channel": "beIN Sports France 1 HD",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "11856 V 29700 - 2/3",
@@ -8248,6 +8784,22 @@
             "freq": "11637 V 30000 - 2/3",
             "encry": "HD Viaccess",
             "link": "#",
+            "related_to": "     Mexico   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "ITV 1 England HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11344 H 27500 - 2/3",
+            "encry": "HD Panaccess",
+            "link": "https://www.itv.com/watch?channel=itv",
+            "related_to": "     Mexico   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "ITV X (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.itv.com/watch?channel=itv",
             "related_to": "     Mexico   vs   ** T.B.D. **"
         },
         {
@@ -8307,6 +8859,22 @@
             "related_to": "     Mexico   vs   ** T.B.D. **"
         },
         {
+            "channel": "STV Player (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://player.stv.tv/live",
+            "related_to": "     Mexico   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "STV Scotland HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11386 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Mexico   vs   ** T.B.D. **"
+        },
+        {
             "channel": "SuperSport Grandstand HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11554 V 30000 - 2/3",
@@ -8336,6 +8904,14 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.tsn.ca/tsnplus",
+            "related_to": "     Mexico   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "UTV Northern Ireland HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11386 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "     Mexico   vs   ** T.B.D. **"
         },
         {
@@ -8381,6 +8957,46 @@
             "related_to": "       ** T.B.D. **       "
         },
         {
+            "channel": "BBC iPlayer (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "BBC iPlayer 4K (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "BBC One HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "10847 V 23000 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "BBC Sport [app]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "BBC Sport Website (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.bbc.com/sport/live-guide",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
             "channel": "beIN Sports France 1 HD",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "11856 V 29700 - 2/3",
@@ -8409,6 +9025,46 @@
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11637 V 30000 - 2/3",
             "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "ITV 1 England HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11344 H 27500 - 2/3",
+            "encry": "HD Panaccess",
+            "link": "https://www.itv.com/watch?channel=itv",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "ITV X (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.itv.com/watch?channel=itv",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "M6 France 4K UHD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "M6 France HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12168 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://www.6play.fr/m6/direct",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "M6 Suisse HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12034 V 27500 - 3/4",
+            "encry": "FTA",
             "link": "#",
             "related_to": "       ** T.B.D. **       "
         },
@@ -8485,6 +9141,22 @@
             "related_to": "       ** T.B.D. **       "
         },
         {
+            "channel": "STV Player (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://player.stv.tv/live",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "STV Scotland HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11386 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
             "channel": "SuperSport Grandstand HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11554 V 30000 - 2/3",
@@ -8506,6 +9178,14 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.tsn.ca/tsnplus",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "UTV Northern Ireland HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11386 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "       ** T.B.D. **       "
         },
         {
@@ -8535,6 +9215,46 @@
             "related_to": "       ** T.B.D. **       "
         },
         {
+            "channel": "BBC iPlayer (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "BBC iPlayer 4K (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "BBC One HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "10847 V 23000 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "BBC Sport [app]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "BBC Sport Website (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.bbc.com/sport/live-guide",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
             "channel": "beIN Sports France 1 HD",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "11856 V 29700 - 2/3",
@@ -8564,6 +9284,22 @@
             "freq": "11637 V 30000 - 2/3",
             "encry": "HD Viaccess",
             "link": "#",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "ITV 1 England HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11344 H 27500 - 2/3",
+            "encry": "HD Panaccess",
+            "link": "https://www.itv.com/watch?channel=itv",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "ITV X (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.itv.com/watch?channel=itv",
             "related_to": "       ** T.B.D. **       "
         },
         {
@@ -8639,6 +9375,22 @@
             "related_to": "       ** T.B.D. **       "
         },
         {
+            "channel": "STV Player (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://player.stv.tv/live",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "STV Scotland HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11386 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
             "channel": "SuperSport Grandstand HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11554 V 30000 - 2/3",
@@ -8660,6 +9412,14 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.tsn.ca/tsnplus",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "UTV Northern Ireland HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11386 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "       ** T.B.D. **       "
         },
         {
@@ -8680,10 +9440,10 @@
         },
         {
             "compet": "FIFA WORLD CUP 2026 - Round of 32",
-            "match": "     United States   vs   ** T.B.D. **",
+            "match": "     United States   vs   Bosnia-Herzegovina",
             "flags": {
                 "team1": "usa",
-                "team2": "notspecific"
+                "team2": "bosnia"
             },
             "time": "00:00",
             "date": "2026-07-02"
@@ -8694,7 +9454,47 @@
             "freq": "10876 V 22000 - 5/6",
             "encry": "NagraVision",
             "link": "#",
-            "related_to": "     United States   vs   ** T.B.D. **"
+            "related_to": "     United States   vs   Bosnia-Herzegovina"
+        },
+        {
+            "channel": "BBC iPlayer (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "     United States   vs   Bosnia-Herzegovina"
+        },
+        {
+            "channel": "BBC iPlayer 4K (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "     United States   vs   Bosnia-Herzegovina"
+        },
+        {
+            "channel": "BBC One HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "10847 V 23000 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     United States   vs   Bosnia-Herzegovina"
+        },
+        {
+            "channel": "BBC Sport [app]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     United States   vs   Bosnia-Herzegovina"
+        },
+        {
+            "channel": "BBC Sport Website (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.bbc.com/sport/live-guide",
+            "related_to": "     United States   vs   Bosnia-Herzegovina"
         },
         {
             "channel": "beIN Sports France 1 HD",
@@ -8702,7 +9502,7 @@
             "freq": "11856 V 29700 - 2/3",
             "encry": "HD Viaccess",
             "link": "#",
-            "related_to": "     United States   vs   ** T.B.D. **"
+            "related_to": "     United States   vs   Bosnia-Herzegovina"
         },
         {
             "channel": "DAZN Espa\u00f1a ($/geo/R)",
@@ -8710,7 +9510,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "#",
-            "related_to": "     United States   vs   ** T.B.D. **"
+            "related_to": "     United States   vs   Bosnia-Herzegovina"
         },
         {
             "channel": "DAZN Mundial Espana HD",
@@ -8718,7 +9518,7 @@
             "freq": "10906 V 22000 - 2/3",
             "encry": "HD NagraVision",
             "link": "#",
-            "related_to": "     United States   vs   ** T.B.D. **"
+            "related_to": "     United States   vs   Bosnia-Herzegovina"
         },
         {
             "channel": "HRT 2 Hrvatska HD",
@@ -8726,7 +9526,23 @@
             "freq": "11637 V 30000 - 2/3",
             "encry": "HD Viaccess",
             "link": "#",
-            "related_to": "     United States   vs   ** T.B.D. **"
+            "related_to": "     United States   vs   Bosnia-Herzegovina"
+        },
+        {
+            "channel": "ITV 1 England HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11344 H 27500 - 2/3",
+            "encry": "HD Panaccess",
+            "link": "https://www.itv.com/watch?channel=itv",
+            "related_to": "     United States   vs   Bosnia-Herzegovina"
+        },
+        {
+            "channel": "ITV X (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.itv.com/watch?channel=itv",
+            "related_to": "     United States   vs   Bosnia-Herzegovina"
         },
         {
             "channel": "Magenta Sport ($/geo/R)",
@@ -8734,7 +9550,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
-            "related_to": "     United States   vs   ** T.B.D. **"
+            "related_to": "     United States   vs   Bosnia-Herzegovina"
         },
         {
             "channel": "MATCH! TV [online] ($/geo/R)",
@@ -8742,7 +9558,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://matchtv.ru/video/sports/football",
-            "related_to": "     United States   vs   ** T.B.D. **"
+            "related_to": "     United States   vs   Bosnia-Herzegovina"
         },
         {
             "channel": "MTV Urheilu 1 Suomi HD",
@@ -8750,7 +9566,7 @@
             "freq": "12476 H 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
-            "related_to": "     United States   vs   ** T.B.D. **"
+            "related_to": "     United States   vs   Bosnia-Herzegovina"
         },
         {
             "channel": "Play RTS Sport (geo/R)",
@@ -8758,7 +9574,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.rts.ch/play/tv/categories/sport",
-            "related_to": "     United States   vs   ** T.B.D. **"
+            "related_to": "     United States   vs   Bosnia-Herzegovina"
         },
         {
             "channel": "RT\u00c9 2 Ireland HD",
@@ -8766,7 +9582,7 @@
             "freq": "11914 H 27500 - 5/6",
             "encry": "VideoGuard",
             "link": "#",
-            "related_to": "     United States   vs   ** T.B.D. **"
+            "related_to": "     United States   vs   Bosnia-Herzegovina"
         },
         {
             "channel": "RT\u00c9 Player (geo/R)",
@@ -8774,7 +9590,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.rte.ie/player/onnow",
-            "related_to": "     United States   vs   ** T.B.D. **"
+            "related_to": "     United States   vs   Bosnia-Herzegovina"
         },
         {
             "channel": "Slovenija TV2 HD",
@@ -8782,7 +9598,7 @@
             "freq": "11554 H 30000 - 3/4",
             "encry": "HD VideoGuard",
             "link": "https://4d.rtvslo.si/zivo/tvs2",
-            "related_to": "     United States   vs   ** T.B.D. **"
+            "related_to": "     United States   vs   Bosnia-Herzegovina"
         },
         {
             "channel": "Sport TV5 Portugal HD",
@@ -8790,7 +9606,23 @@
             "freq": "12360 H 27500 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
-            "related_to": "     United States   vs   ** T.B.D. **"
+            "related_to": "     United States   vs   Bosnia-Herzegovina"
+        },
+        {
+            "channel": "STV Player (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://player.stv.tv/live",
+            "related_to": "     United States   vs   Bosnia-Herzegovina"
+        },
+        {
+            "channel": "STV Scotland HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11386 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     United States   vs   Bosnia-Herzegovina"
         },
         {
             "channel": "SuperSport Grandstand HD",
@@ -8798,7 +9630,7 @@
             "freq": "11554 V 30000 - 2/3",
             "encry": "HD Irdeto",
             "link": "#",
-            "related_to": "     United States   vs   ** T.B.D. **"
+            "related_to": "     United States   vs   Bosnia-Herzegovina"
         },
         {
             "channel": "SuperSport PSL HD",
@@ -8806,7 +9638,7 @@
             "freq": "11594 V 27500 - 5/6",
             "encry": "Irdeto",
             "link": "#",
-            "related_to": "     United States   vs   ** T.B.D. **"
+            "related_to": "     United States   vs   Bosnia-Herzegovina"
         },
         {
             "channel": "TSN+ Canada ($/geo/R)",
@@ -8814,7 +9646,15 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.tsn.ca/tsnplus",
-            "related_to": "     United States   vs   ** T.B.D. **"
+            "related_to": "     United States   vs   Bosnia-Herzegovina"
+        },
+        {
+            "channel": "UTV Northern Ireland HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11386 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     United States   vs   Bosnia-Herzegovina"
         },
         {
             "channel": "YLE AREENA ($/geo/R)",
@@ -8822,7 +9662,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://areena.yle.fi/tv",
-            "related_to": "     United States   vs   ** T.B.D. **"
+            "related_to": "     United States   vs   Bosnia-Herzegovina"
         },
         {
             "channel": "YLE TV2 Suomi HD",
@@ -8830,7 +9670,7 @@
             "freq": "10872 H 25000 - 3/4",
             "encry": "HD VideoGuard",
             "link": "#",
-            "related_to": "     United States   vs   ** T.B.D. **"
+            "related_to": "     United States   vs   Bosnia-Herzegovina"
         },
         {
             "compet": "FIFA WORLD CUP 2026 - Round of 32",
@@ -8851,6 +9691,46 @@
             "related_to": "       ** T.B.D. **       "
         },
         {
+            "channel": "BBC iPlayer (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "BBC iPlayer 4K (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "BBC One HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "10847 V 23000 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "BBC Sport [app]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "BBC Sport Website (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.bbc.com/sport/live-guide",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
             "channel": "beIN Sports France 1 HD",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "11856 V 29700 - 2/3",
@@ -8879,6 +9759,46 @@
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11637 V 30000 - 2/3",
             "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "ITV 1 England HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11344 H 27500 - 2/3",
+            "encry": "HD Panaccess",
+            "link": "https://www.itv.com/watch?channel=itv",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "ITV X (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.itv.com/watch?channel=itv",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "M6 France 4K UHD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "M6 France HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12168 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://www.6play.fr/m6/direct",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "M6 Suisse HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12034 V 27500 - 3/4",
+            "encry": "FTA",
             "link": "#",
             "related_to": "       ** T.B.D. **       "
         },
@@ -8955,6 +9875,22 @@
             "related_to": "       ** T.B.D. **       "
         },
         {
+            "channel": "STV Player (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://player.stv.tv/live",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "STV Scotland HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11386 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
             "channel": "SuperSport Grandstand HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11554 V 30000 - 2/3",
@@ -8976,6 +9912,14 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.tsn.ca/tsnplus",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "UTV Northern Ireland HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11386 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "       ** T.B.D. **       "
         },
         {
@@ -8997,6 +9941,46 @@
             "related_to": "       ** T.B.D. **       "
         },
         {
+            "channel": "BBC iPlayer (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "BBC iPlayer 4K (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "BBC One HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "10847 V 23000 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "BBC Sport [app]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "BBC Sport Website (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.bbc.com/sport/live-guide",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
             "channel": "beIN Sports France 1 HD",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "11856 V 29700 - 2/3",
@@ -9026,6 +10010,22 @@
             "freq": "11637 V 30000 - 2/3",
             "encry": "HD Viaccess",
             "link": "#",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "ITV 1 England HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11344 H 27500 - 2/3",
+            "encry": "HD Panaccess",
+            "link": "https://www.itv.com/watch?channel=itv",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "ITV X (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.itv.com/watch?channel=itv",
             "related_to": "       ** T.B.D. **       "
         },
         {
@@ -9101,6 +10101,22 @@
             "related_to": "       ** T.B.D. **       "
         },
         {
+            "channel": "STV Player (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://player.stv.tv/live",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
+            "channel": "STV Scotland HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11386 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
             "channel": "SuperSport Grandstand HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11554 V 30000 - 2/3",
@@ -9125,6 +10141,14 @@
             "related_to": "       ** T.B.D. **       "
         },
         {
+            "channel": "UTV Northern Ireland HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11386 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "       ** T.B.D. **       "
+        },
+        {
             "compet": "FIFA WORLD CUP 2026 - Round of 32",
             "match": "     Switzerland   vs   ** T.B.D. **",
             "flags": {
@@ -9140,6 +10164,46 @@
             "freq": "10876 V 22000 - 5/6",
             "encry": "NagraVision",
             "link": "#",
+            "related_to": "     Switzerland   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "BBC iPlayer (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "     Switzerland   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "BBC iPlayer 4K (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "     Switzerland   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "BBC One HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "10847 V 23000 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Switzerland   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "BBC Sport [app]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Switzerland   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "BBC Sport Website (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.bbc.com/sport/live-guide",
             "related_to": "     Switzerland   vs   ** T.B.D. **"
         },
         {
@@ -9172,6 +10236,22 @@
             "freq": "11637 V 30000 - 2/3",
             "encry": "HD Viaccess",
             "link": "#",
+            "related_to": "     Switzerland   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "ITV 1 England HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11344 H 27500 - 2/3",
+            "encry": "HD Panaccess",
+            "link": "https://www.itv.com/watch?channel=itv",
+            "related_to": "     Switzerland   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "ITV X (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.itv.com/watch?channel=itv",
             "related_to": "     Switzerland   vs   ** T.B.D. **"
         },
         {
@@ -9263,6 +10343,22 @@
             "related_to": "     Switzerland   vs   ** T.B.D. **"
         },
         {
+            "channel": "STV Player (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://player.stv.tv/live",
+            "related_to": "     Switzerland   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "STV Scotland HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11386 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Switzerland   vs   ** T.B.D. **"
+        },
+        {
             "channel": "SuperSport Grandstand HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11554 V 30000 - 2/3",
@@ -9287,10 +10383,18 @@
             "related_to": "     Switzerland   vs   ** T.B.D. **"
         },
         {
+            "channel": "UTV Northern Ireland HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11386 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Switzerland   vs   ** T.B.D. **"
+        },
+        {
             "compet": "FIFA WORLD CUP 2026 - Round of 32",
-            "match": "       ** T.B.D. **       ",
+            "match": "     Australia   vs   ** T.B.D. **",
             "flags": {
-                "team1": "notspecific",
+                "team1": "australia",
                 "team2": "notspecific"
             },
             "time": "18:00",
@@ -9302,7 +10406,47 @@
             "freq": "10876 V 22000 - 5/6",
             "encry": "NagraVision",
             "link": "#",
-            "related_to": "       ** T.B.D. **       "
+            "related_to": "     Australia   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "BBC iPlayer (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "     Australia   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "BBC iPlayer 4K (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "     Australia   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "BBC One HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "10847 V 23000 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Australia   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "BBC Sport [app]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Australia   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "BBC Sport Website (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.bbc.com/sport/live-guide",
+            "related_to": "     Australia   vs   ** T.B.D. **"
         },
         {
             "channel": "beIN Sports France 1 HD",
@@ -9310,7 +10454,7 @@
             "freq": "11856 V 29700 - 2/3",
             "encry": "HD Viaccess",
             "link": "#",
-            "related_to": "       ** T.B.D. **       "
+            "related_to": "     Australia   vs   ** T.B.D. **"
         },
         {
             "channel": "DAZN Espa\u00f1a ($/geo/R)",
@@ -9318,7 +10462,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "#",
-            "related_to": "       ** T.B.D. **       "
+            "related_to": "     Australia   vs   ** T.B.D. **"
         },
         {
             "channel": "DAZN Mundial Espana HD",
@@ -9326,7 +10470,7 @@
             "freq": "10906 V 22000 - 2/3",
             "encry": "HD NagraVision",
             "link": "#",
-            "related_to": "       ** T.B.D. **       "
+            "related_to": "     Australia   vs   ** T.B.D. **"
         },
         {
             "channel": "HRT 2 Hrvatska HD",
@@ -9334,7 +10478,47 @@
             "freq": "11637 V 30000 - 2/3",
             "encry": "HD Viaccess",
             "link": "#",
-            "related_to": "       ** T.B.D. **       "
+            "related_to": "     Australia   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "ITV 1 England HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11344 H 27500 - 2/3",
+            "encry": "HD Panaccess",
+            "link": "https://www.itv.com/watch?channel=itv",
+            "related_to": "     Australia   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "ITV X (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.itv.com/watch?channel=itv",
+            "related_to": "     Australia   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "M6 France 4K UHD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Australia   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "M6 France HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12168 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://www.6play.fr/m6/direct",
+            "related_to": "     Australia   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "M6 Suisse HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12034 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Australia   vs   ** T.B.D. **"
         },
         {
             "channel": "Magenta Sport ($/geo/R)",
@@ -9342,7 +10526,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
-            "related_to": "       ** T.B.D. **       "
+            "related_to": "     Australia   vs   ** T.B.D. **"
         },
         {
             "channel": "MATCH! TV [online] ($/geo/R)",
@@ -9350,7 +10534,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://matchtv.ru/video/sports/football",
-            "related_to": "       ** T.B.D. **       "
+            "related_to": "     Australia   vs   ** T.B.D. **"
         },
         {
             "channel": "MTV 3 Suomi HD",
@@ -9358,7 +10542,7 @@
             "freq": "10809 H 24500 - 7/8",
             "encry": "Conax",
             "link": "#",
-            "related_to": "       ** T.B.D. **       "
+            "related_to": "     Australia   vs   ** T.B.D. **"
         },
         {
             "channel": "MTV Urheilu 1 Suomi HD",
@@ -9366,7 +10550,7 @@
             "freq": "12476 H 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
-            "related_to": "       ** T.B.D. **       "
+            "related_to": "     Australia   vs   ** T.B.D. **"
         },
         {
             "channel": "Play RTS Sport (geo/R)",
@@ -9374,7 +10558,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.rts.ch/play/tv/categories/sport",
-            "related_to": "       ** T.B.D. **       "
+            "related_to": "     Australia   vs   ** T.B.D. **"
         },
         {
             "channel": "RT\u00c9 2 Ireland HD",
@@ -9382,7 +10566,7 @@
             "freq": "11914 H 27500 - 5/6",
             "encry": "VideoGuard",
             "link": "#",
-            "related_to": "       ** T.B.D. **       "
+            "related_to": "     Australia   vs   ** T.B.D. **"
         },
         {
             "channel": "RT\u00c9 Player (geo/R)",
@@ -9390,7 +10574,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.rte.ie/player/onnow",
-            "related_to": "       ** T.B.D. **       "
+            "related_to": "     Australia   vs   ** T.B.D. **"
         },
         {
             "channel": "Slovenija TV2 HD",
@@ -9398,7 +10582,7 @@
             "freq": "11554 H 30000 - 3/4",
             "encry": "HD VideoGuard",
             "link": "https://4d.rtvslo.si/zivo/tvs2",
-            "related_to": "       ** T.B.D. **       "
+            "related_to": "     Australia   vs   ** T.B.D. **"
         },
         {
             "channel": "Sport TV5 Portugal HD",
@@ -9406,7 +10590,23 @@
             "freq": "12360 H 27500 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
-            "related_to": "       ** T.B.D. **       "
+            "related_to": "     Australia   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "STV Player (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://player.stv.tv/live",
+            "related_to": "     Australia   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "STV Scotland HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11386 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Australia   vs   ** T.B.D. **"
         },
         {
             "channel": "SuperSport Grandstand HD",
@@ -9414,7 +10614,7 @@
             "freq": "11554 V 30000 - 2/3",
             "encry": "HD Irdeto",
             "link": "#",
-            "related_to": "       ** T.B.D. **       "
+            "related_to": "     Australia   vs   ** T.B.D. **"
         },
         {
             "channel": "SuperSport PSL HD",
@@ -9422,7 +10622,7 @@
             "freq": "11594 V 27500 - 5/6",
             "encry": "Irdeto",
             "link": "#",
-            "related_to": "       ** T.B.D. **       "
+            "related_to": "     Australia   vs   ** T.B.D. **"
         },
         {
             "channel": "TSN+ Canada ($/geo/R)",
@@ -9430,7 +10630,15 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.tsn.ca/tsnplus",
-            "related_to": "       ** T.B.D. **       "
+            "related_to": "     Australia   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "UTV Northern Ireland HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11386 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Australia   vs   ** T.B.D. **"
         },
         {
             "compet": "FIFA WORLD CUP 2026 - Round of 32",
@@ -9451,6 +10659,46 @@
             "related_to": "     Argentina   vs   ** T.B.D. **"
         },
         {
+            "channel": "BBC iPlayer (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "     Argentina   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "BBC iPlayer 4K (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "     Argentina   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "BBC One HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "10847 V 23000 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Argentina   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "BBC Sport [app]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Argentina   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "BBC Sport Website (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.bbc.com/sport/live-guide",
+            "related_to": "     Argentina   vs   ** T.B.D. **"
+        },
+        {
             "channel": "beIN Sports France 1 HD",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "11856 V 29700 - 2/3",
@@ -9479,6 +10727,46 @@
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11637 V 30000 - 2/3",
             "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Argentina   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "ITV 1 England HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11344 H 27500 - 2/3",
+            "encry": "HD Panaccess",
+            "link": "https://www.itv.com/watch?channel=itv",
+            "related_to": "     Argentina   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "ITV X (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.itv.com/watch?channel=itv",
+            "related_to": "     Argentina   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "M6 France 4K UHD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Argentina   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "M6 France HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12168 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://www.6play.fr/m6/direct",
+            "related_to": "     Argentina   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "M6 Suisse HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12034 V 27500 - 3/4",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Argentina   vs   ** T.B.D. **"
         },
@@ -9555,6 +10843,22 @@
             "related_to": "     Argentina   vs   ** T.B.D. **"
         },
         {
+            "channel": "STV Player (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://player.stv.tv/live",
+            "related_to": "     Argentina   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "STV Scotland HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11386 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Argentina   vs   ** T.B.D. **"
+        },
+        {
             "channel": "SuperSport Grandstand HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11554 V 30000 - 2/3",
@@ -9576,6 +10880,14 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.tsn.ca/tsnplus",
+            "related_to": "     Argentina   vs   ** T.B.D. **"
+        },
+        {
+            "channel": "UTV Northern Ireland HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11386 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "     Argentina   vs   ** T.B.D. **"
         },
         {
