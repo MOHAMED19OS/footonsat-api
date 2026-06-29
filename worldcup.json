@@ -595,10 +595,10 @@
             "related_to": "     Brazil   vs   Japan"
         },
         {
-            "channel": "ORTM 2 Mali",
-            "sat": "Intelsat 37e 18.0\u00b0w",
-            "freq": "4129 L 02060 - 3/4",
-            "encry": "FTA",
+            "channel": "ORTM 1 Mali",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12604 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     Brazil   vs   Japan"
         },
@@ -3832,6 +3832,30 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.tsn.ca/tsnplus",
+            "related_to": "     France   vs   Sweden"
+        },
+        {
+            "channel": "TVE La 1 HD Espa\u00f1a",
+            "sat": "*DTT 0.0\u00b0-",
+            "freq": "0000 - -",
+            "encry": "NagraVision",
+            "link": "http://www.rtve.es/directo/la-1/",
+            "related_to": "     France   vs   Sweden"
+        },
+        {
+            "channel": "TVE La 1 UHD 4K",
+            "sat": "*DTT 0.0\u00b0-",
+            "freq": "0000 - -",
+            "encry": "Free To Air UHD",
+            "link": "#",
+            "related_to": "     France   vs   Sweden"
+        },
+        {
+            "channel": "TVE La 2 Cat",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
             "related_to": "     France   vs   Sweden"
         },
         {
@@ -7708,9 +7732,9 @@
         },
         {
             "compet": "FIFA WORLD CUP 2026 - Round of 16 (New Jersey)",
-            "match": "     Brazil/Japan   vs   Ivory Coast/Norway",
+            "match": "     Brazil   vs   Ivory Coast/Norway",
             "flags": {
-                "team1": "notspecific",
+                "team1": "brazil",
                 "team2": "notspecific"
             },
             "time": "20:00",
@@ -7722,7 +7746,7 @@
             "freq": "11720 H 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
-            "related_to": "     Brazil/Japan   vs   Ivory Coast/Norway"
+            "related_to": "     Brazil   vs   Ivory Coast/Norway"
         },
         {
             "channel": "BarTV Mundial HD",
@@ -7730,7 +7754,7 @@
             "freq": "10876 V 22000 - 5/6",
             "encry": "NagraVision",
             "link": "#",
-            "related_to": "     Brazil/Japan   vs   Ivory Coast/Norway"
+            "related_to": "     Brazil   vs   Ivory Coast/Norway"
         },
         {
             "channel": "DAZN Espa\u00f1a ($/geo/R)",
@@ -7738,7 +7762,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "#",
-            "related_to": "     Brazil/Japan   vs   Ivory Coast/Norway"
+            "related_to": "     Brazil   vs   Ivory Coast/Norway"
         },
         {
             "channel": "DAZN Mundial Espana HD",
@@ -7746,7 +7770,7 @@
             "freq": "10906 V 22000 - 2/3",
             "encry": "HD NagraVision",
             "link": "#",
-            "related_to": "     Brazil/Japan   vs   Ivory Coast/Norway"
+            "related_to": "     Brazil   vs   Ivory Coast/Norway"
         },
         {
             "channel": "Fubo Sports USA ($/geo/R)",
@@ -7754,7 +7778,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.fubosportsnetwork.com/",
-            "related_to": "     Brazil/Japan   vs   Ivory Coast/Norway"
+            "related_to": "     Brazil   vs   Ivory Coast/Norway"
         },
         {
             "channel": "M4 Sport Hungary HD",
@@ -7762,7 +7786,7 @@
             "freq": "11778 V 29900 - 2/3",
             "encry": "HD Conax",
             "link": "https://m4sport.hu/elo/mtv4live/",
-            "related_to": "     Brazil/Japan   vs   Ivory Coast/Norway"
+            "related_to": "     Brazil   vs   Ivory Coast/Norway"
         },
         {
             "channel": "MATCH! TV [online] ($/geo/R)",
@@ -7770,7 +7794,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://matchtv.ru/video/sports/football",
-            "related_to": "     Brazil/Japan   vs   Ivory Coast/Norway"
+            "related_to": "     Brazil   vs   Ivory Coast/Norway"
         },
         {
             "channel": "Peacock Premium USA ($/geo/R)",
@@ -7778,7 +7802,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "#",
-            "related_to": "     Brazil/Japan   vs   Ivory Coast/Norway"
+            "related_to": "     Brazil   vs   Ivory Coast/Norway"
         },
         {
             "channel": "Play RTS Sport (geo/R)",
@@ -7786,7 +7810,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.rts.ch/play/tv/categories/sport",
-            "related_to": "     Brazil/Japan   vs   Ivory Coast/Norway"
+            "related_to": "     Brazil   vs   Ivory Coast/Norway"
         },
         {
             "channel": "RT\u00c9 2 Ireland HD",
@@ -7794,7 +7818,7 @@
             "freq": "11914 H 27500 - 5/6",
             "encry": "VideoGuard",
             "link": "#",
-            "related_to": "     Brazil/Japan   vs   Ivory Coast/Norway"
+            "related_to": "     Brazil   vs   Ivory Coast/Norway"
         },
         {
             "channel": "RT\u00c9 Player (geo/R)",
@@ -7802,7 +7826,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.rte.ie/player/onnow",
-            "related_to": "     Brazil/Japan   vs   Ivory Coast/Norway"
+            "related_to": "     Brazil   vs   Ivory Coast/Norway"
         },
         {
             "channel": "SuperSport PSL HD",
@@ -7810,7 +7834,7 @@
             "freq": "11594 V 27500 - 5/6",
             "encry": "Irdeto",
             "link": "#",
-            "related_to": "     Brazil/Japan   vs   Ivory Coast/Norway"
+            "related_to": "     Brazil   vs   Ivory Coast/Norway"
         },
         {
             "channel": "Telemundo USA",
@@ -7818,7 +7842,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "#",
-            "related_to": "     Brazil/Japan   vs   Ivory Coast/Norway"
+            "related_to": "     Brazil   vs   Ivory Coast/Norway"
         },
         {
             "channel": "TSN Canada 1 HD",
@@ -7826,7 +7850,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
-            "related_to": "     Brazil/Japan   vs   Ivory Coast/Norway"
+            "related_to": "     Brazil   vs   Ivory Coast/Norway"
         },
         {
             "channel": "TSN Canada 3 HD",
@@ -7834,7 +7858,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
-            "related_to": "     Brazil/Japan   vs   Ivory Coast/Norway"
+            "related_to": "     Brazil   vs   Ivory Coast/Norway"
         },
         {
             "channel": "TSN+ Canada ($/geo/R)",
@@ -7842,7 +7866,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.tsn.ca/tsnplus",
-            "related_to": "     Brazil/Japan   vs   Ivory Coast/Norway"
+            "related_to": "     Brazil   vs   Ivory Coast/Norway"
         },
         {
             "compet": "FIFA WORLD CUP 2026 - Round of 16 (Mexico City)",
