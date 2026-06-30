@@ -2597,6 +2597,14 @@
             "related_to": "     Belgium   vs   Senegal"
         },
         {
+            "channel": "beIN Sports MENA Max 6 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Belgium   vs   Senegal"
+        },
+        {
             "channel": "DAZN Espa\u00f1a ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2754,6 +2762,14 @@
             "freq": "12341 H 27500 - 3/4",
             "encry": "MPEG-4 Conax",
             "link": "#",
+            "related_to": "     Belgium   vs   Senegal"
+        },
+        {
+            "channel": "RTP 1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "https://www.rtp.pt/play/direto/rtp1",
             "related_to": "     Belgium   vs   Senegal"
         },
         {
@@ -3787,6 +3803,14 @@
             "related_to": "     Portugal   vs   Croatia"
         },
         {
+            "channel": "beIN Sports MENA Max 6 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Portugal   vs   Croatia"
+        },
+        {
             "channel": "DAZN Espa\u00f1a ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -3904,6 +3928,14 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.rte.ie/player/onnow",
+            "related_to": "     Portugal   vs   Croatia"
+        },
+        {
+            "channel": "SIC Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
             "related_to": "     Portugal   vs   Croatia"
         },
         {
@@ -5091,6 +5123,14 @@
             "related_to": "     Colombia   vs   Ghana"
         },
         {
+            "channel": "beIN Sports MENA Max 6 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Colombia   vs   Ghana"
+        },
+        {
             "channel": "DAZN Espa\u00f1a ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -5364,10 +5404,10 @@
         },
         {
             "compet": "FIFA WORLD CUP 2026 - Round of 16 (Houston)",
-            "match": "     Canada   vs   Netherlands/Morocco",
+            "match": "     Canada   vs   Morocco",
             "flags": {
                 "team1": "canada",
-                "team2": "notspecific"
+                "team2": "morocco"
             },
             "time": "17:00",
             "date": "2026-07-04"
@@ -5378,7 +5418,7 @@
             "freq": "11720 H 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
-            "related_to": "     Canada   vs   Netherlands/Morocco"
+            "related_to": "     Canada   vs   Morocco"
         },
         {
             "channel": "BarTV Mundial HD",
@@ -5386,7 +5426,7 @@
             "freq": "10876 V 22000 - 5/6",
             "encry": "NagraVision",
             "link": "#",
-            "related_to": "     Canada   vs   Netherlands/Morocco"
+            "related_to": "     Canada   vs   Morocco"
         },
         {
             "channel": "DAZN Espa\u00f1a ($/geo/R)",
@@ -5394,7 +5434,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "#",
-            "related_to": "     Canada   vs   Netherlands/Morocco"
+            "related_to": "     Canada   vs   Morocco"
         },
         {
             "channel": "DAZN Mundial Espana HD",
@@ -5402,7 +5442,7 @@
             "freq": "10906 V 22000 - 2/3",
             "encry": "HD NagraVision",
             "link": "#",
-            "related_to": "     Canada   vs   Netherlands/Morocco"
+            "related_to": "     Canada   vs   Morocco"
         },
         {
             "channel": "Fubo Sports USA ($/geo/R)",
@@ -5410,7 +5450,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.fubosportsnetwork.com/",
-            "related_to": "     Canada   vs   Netherlands/Morocco"
+            "related_to": "     Canada   vs   Morocco"
         },
         {
             "channel": "M4 Sport Hungary HD",
@@ -5418,7 +5458,7 @@
             "freq": "11778 V 29900 - 2/3",
             "encry": "HD Conax",
             "link": "https://m4sport.hu/elo/mtv4live/",
-            "related_to": "     Canada   vs   Netherlands/Morocco"
+            "related_to": "     Canada   vs   Morocco"
         },
         {
             "channel": "MATCH! Futbol 1 HD",
@@ -5426,7 +5466,7 @@
             "freq": "11840 H 28800 - 2/3",
             "encry": "MPEG-4 Irdeto",
             "link": "#",
-            "related_to": "     Canada   vs   Netherlands/Morocco"
+            "related_to": "     Canada   vs   Morocco"
         },
         {
             "channel": "MATCH! Premier HD",
@@ -5434,7 +5474,7 @@
             "freq": "11720 H 28800 - 3/4",
             "encry": "Conax",
             "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
-            "related_to": "     Canada   vs   Netherlands/Morocco"
+            "related_to": "     Canada   vs   Morocco"
         },
         {
             "channel": "MATCH! Russia HD",
@@ -5442,7 +5482,7 @@
             "freq": "3786 R 15284 - 3/4",
             "encry": "MPEG-4 GoSTcrypt",
             "link": "#",
-            "related_to": "     Canada   vs   Netherlands/Morocco"
+            "related_to": "     Canada   vs   Morocco"
         },
         {
             "channel": "MATCH! TV [online] ($/geo/R)",
@@ -5450,7 +5490,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://matchtv.ru/video/sports/football",
-            "related_to": "     Canada   vs   Netherlands/Morocco"
+            "related_to": "     Canada   vs   Morocco"
         },
         {
             "channel": "Peacock Premium USA ($/geo/R)",
@@ -5458,7 +5498,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "#",
-            "related_to": "     Canada   vs   Netherlands/Morocco"
+            "related_to": "     Canada   vs   Morocco"
         },
         {
             "channel": "Play RTS Sport (geo/R)",
@@ -5466,7 +5506,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.rts.ch/play/tv/categories/sport",
-            "related_to": "     Canada   vs   Netherlands/Morocco"
+            "related_to": "     Canada   vs   Morocco"
         },
         {
             "channel": "RT\u00c9 2 Ireland HD",
@@ -5474,7 +5514,7 @@
             "freq": "11914 H 27500 - 5/6",
             "encry": "VideoGuard",
             "link": "#",
-            "related_to": "     Canada   vs   Netherlands/Morocco"
+            "related_to": "     Canada   vs   Morocco"
         },
         {
             "channel": "RT\u00c9 Player (geo/R)",
@@ -5482,7 +5522,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.rte.ie/player/onnow",
-            "related_to": "     Canada   vs   Netherlands/Morocco"
+            "related_to": "     Canada   vs   Morocco"
         },
         {
             "channel": "SuperSport PSL HD",
@@ -5490,7 +5530,7 @@
             "freq": "11594 V 27500 - 5/6",
             "encry": "Irdeto",
             "link": "#",
-            "related_to": "     Canada   vs   Netherlands/Morocco"
+            "related_to": "     Canada   vs   Morocco"
         },
         {
             "channel": "Telemundo USA",
@@ -5498,7 +5538,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "#",
-            "related_to": "     Canada   vs   Netherlands/Morocco"
+            "related_to": "     Canada   vs   Morocco"
         },
         {
             "channel": "TSN Canada 1 HD",
@@ -5506,7 +5546,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
-            "related_to": "     Canada   vs   Netherlands/Morocco"
+            "related_to": "     Canada   vs   Morocco"
         },
         {
             "channel": "TSN Canada 4 HD",
@@ -5514,7 +5554,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
-            "related_to": "     Canada   vs   Netherlands/Morocco"
+            "related_to": "     Canada   vs   Morocco"
         },
         {
             "channel": "TSN+ Canada ($/geo/R)",
@@ -5522,7 +5562,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.tsn.ca/tsnplus",
-            "related_to": "     Canada   vs   Netherlands/Morocco"
+            "related_to": "     Canada   vs   Morocco"
         },
         {
             "compet": "FIFA WORLD CUP 2026 - Round of 16 (Philadelphia)",
