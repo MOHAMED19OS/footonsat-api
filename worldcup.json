@@ -1157,6 +1157,30 @@
             "related_to": "     Spain   vs   Austria"
         },
         {
+            "channel": "Canal 5 Mexico HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Spain   vs   Austria"
+        },
+        {
+            "channel": "Caracol Nacional",
+            "sat": "Intelsat 21 58.0\u00b0w",
+            "freq": "3807 H 02083 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Spain   vs   Austria"
+        },
+        {
+            "channel": "ChileVision",
+            "sat": "Telstar 12 15.0\u00b0w",
+            "freq": "11857 H 45000 - 4/5",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "#",
+            "related_to": "     Spain   vs   Austria"
+        },
+        {
             "channel": "CRTV Sports Cameroon",
             "sat": "AzerSpace 2 45.0\u00b0e",
             "freq": "12610 H 12500 - 3/4",
@@ -1261,6 +1285,22 @@
             "related_to": "     Spain   vs   Austria"
         },
         {
+            "channel": "Futbol TV Tajikistan",
+            "sat": "ABS 2A 75.0\u00b0e",
+            "freq": "12252 H 10000 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Spain   vs   Austria"
+        },
+        {
+            "channel": "Futbol TV Uzbekistan",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "#",
+            "related_to": "     Spain   vs   Austria"
+        },
+        {
             "channel": "Gabon 1\u00e8re",
             "sat": "SES 5 5.0\u00b0e",
             "freq": "11766 H 27500 - 3/4",
@@ -1325,11 +1365,35 @@
             "related_to": "     Spain   vs   Austria"
         },
         {
+            "channel": "IRIB 4K UHD",
+            "sat": "Express AM7 40.0\u00b0e",
+            "freq": "11637 H 30000 - 3/4",
+            "encry": "Free To Air UHD",
+            "link": "#",
+            "related_to": "     Spain   vs   Austria"
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Intelsat 39 62.0\u00b0e",
+            "freq": "11555 V 30000 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Spain   vs   Austria"
+        },
+        {
             "channel": "JOJ Play ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "https://play.joj.sk/",
+            "related_to": "     Spain   vs   Austria"
+        },
+        {
+            "channel": "Jurnal TV Moldova",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
             "related_to": "     Spain   vs   Austria"
         },
         {
@@ -1400,6 +1464,14 @@
             "channel": "M6 Suisse HD",
             "sat": "Eutelsat 9B 9.0\u00b0e",
             "freq": "12034 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Spain   vs   Austria"
+        },
+        {
+            "channel": "Mafken TV Zambia",
+            "sat": "Eutelsat 8 West B 8.0\u00b0w",
+            "freq": "3852 R 14167 - 3/4",
             "encry": "FTA",
             "link": "#",
             "related_to": "     Spain   vs   Austria"
@@ -1481,6 +1553,14 @@
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11130 V 30000 - 5/6",
             "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Spain   vs   Austria"
+        },
+        {
+            "channel": "New World Sport 1 Mauritius",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     Spain   vs   Austria"
         },
@@ -1573,6 +1653,22 @@
             "related_to": "     Spain   vs   Austria"
         },
         {
+            "channel": "RCN TV HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "4009 R 09240 - 3/4",
+            "encry": "HD Director",
+            "link": "#",
+            "related_to": "     Spain   vs   Austria"
+        },
+        {
+            "channel": "RDS Canada",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Spain   vs   Austria"
+        },
+        {
             "channel": "RSI La 2 Svizzera HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "10971 H 29700 - 2/3",
@@ -1637,6 +1733,14 @@
             "related_to": "     Spain   vs   Austria"
         },
         {
+            "channel": "RTS 2 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11914 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Spain   vs   Austria"
+        },
+        {
             "channel": "RTS 2 Suisse HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "10971 H 29700 - 2/3",
@@ -1673,6 +1777,14 @@
             "sat": "AzerSpace 1 46.0\u00b0e",
             "freq": "11095 H 30000 - 5/6",
             "encry": "FTA",
+            "link": "#",
+            "related_to": "     Spain   vs   Austria"
+        },
+        {
+            "channel": "RUV 2 Sjonvarpid",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Spain   vs   Austria"
         },
@@ -1741,6 +1853,14 @@
             "related_to": "     Spain   vs   Austria"
         },
         {
+            "channel": "SporTV Brazil HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Spain   vs   Austria"
+        },
+        {
             "channel": "Sporty TV Africa",
             "sat": "Astra 2F 28.2\u00b0e",
             "freq": "12605 V 30000 - 5/6",
@@ -1762,6 +1882,14 @@
             "freq": "12012 V 29900 - 3/4",
             "encry": "HD Viaccess",
             "link": "https://www.stvr.sk/televizia/sport",
+            "related_to": "     Spain   vs   Austria"
+        },
+        {
+            "channel": "Sun Sports TV Zambia",
+            "sat": "SES 5 5.0\u00b0e",
+            "freq": "12380 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
             "related_to": "     Spain   vs   Austria"
         },
         {
@@ -1893,6 +2021,14 @@
             "related_to": "     Spain   vs   Austria"
         },
         {
+            "channel": "TV Klan HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10804 H 29950 - 2/3",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Spain   vs   Austria"
+        },
+        {
             "channel": "TV Malagasy Madagascar",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11471 H 30000 - 2/3",
@@ -1945,6 +2081,14 @@
             "sat": "Astra 2F 28.2\u00b0e",
             "freq": "12522 V 27000 - 7/8",
             "encry": "MPEG-4 Biss",
+            "link": "#",
+            "related_to": "     Spain   vs   Austria"
+        },
+        {
+            "channel": "TV3 Lietuva HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11938 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Spain   vs   Austria"
         },
@@ -2037,6 +2181,14 @@
             "related_to": "     Spain   vs   Austria"
         },
         {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Spain   vs   Austria"
+        },
+        {
             "channel": "VRT 1 Belgium HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "12188 H 29900 - 2/3",
@@ -2057,6 +2209,22 @@
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "10872 H 25000 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Spain   vs   Austria"
+        },
+        {
+            "channel": "Z Sports 1 Angola",
+            "sat": "Eutelsat 36D 35.9\u00b0e",
+            "freq": "11263 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Spain   vs   Austria"
+        },
+        {
+            "channel": "Zap Viva Internacional HD",
+            "sat": "Eutelsat 10B 10.0\u00b0e",
+            "freq": "12734 V 4000",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Spain   vs   Austria"
         },
@@ -2099,6 +2267,14 @@
             "sat": "NSS 12 57.0\u00b0e",
             "freq": "4095 L 11000 - 1/2",
             "encry": "PowerVu [c]",
+            "link": "#",
+            "related_to": "     Portugal   vs   Croatia"
+        },
+        {
+            "channel": "Am\u00e9rica Peru HD",
+            "sat": "Telstar 12 15.0\u00b0w",
+            "freq": "11919 H 45000 - 4/5",
+            "encry": "MPEG-4 BetaC",
             "link": "#",
             "related_to": "     Portugal   vs   Croatia"
         },
@@ -2271,10 +2447,34 @@
             "related_to": "     Portugal   vs   Croatia"
         },
         {
+            "channel": "Caracol Nacional",
+            "sat": "Intelsat 21 58.0\u00b0w",
+            "freq": "3807 H 02083 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Portugal   vs   Croatia"
+        },
+        {
+            "channel": "ChileVision",
+            "sat": "Telstar 12 15.0\u00b0w",
+            "freq": "11857 H 45000 - 4/5",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "#",
+            "related_to": "     Portugal   vs   Croatia"
+        },
+        {
             "channel": "CT Sport Czech HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "12344 H 29900 - 2/3",
             "encry": "HD CryptoWorks",
+            "link": "#",
+            "related_to": "     Portugal   vs   Croatia"
+        },
+        {
+            "channel": "CTV Canada HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Portugal   vs   Croatia"
         },
@@ -2367,6 +2567,22 @@
             "related_to": "     Portugal   vs   Croatia"
         },
         {
+            "channel": "Futbol TV Tajikistan",
+            "sat": "ABS 2A 75.0\u00b0e",
+            "freq": "12252 H 10000 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Portugal   vs   Croatia"
+        },
+        {
+            "channel": "Futbol TV Uzbekistan",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "#",
+            "related_to": "     Portugal   vs   Croatia"
+        },
+        {
             "channel": "Go3 World Cup Baltics ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -2391,11 +2607,35 @@
             "related_to": "     Portugal   vs   Croatia"
         },
         {
+            "channel": "IRIB 4K UHD",
+            "sat": "Express AM7 40.0\u00b0e",
+            "freq": "11637 H 30000 - 3/4",
+            "encry": "Free To Air UHD",
+            "link": "#",
+            "related_to": "     Portugal   vs   Croatia"
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Intelsat 39 62.0\u00b0e",
+            "freq": "11555 V 30000 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Portugal   vs   Croatia"
+        },
+        {
             "channel": "JOJ Play ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "https://play.joj.sk/",
+            "related_to": "     Portugal   vs   Croatia"
+        },
+        {
+            "channel": "Kan 11 Israel HD",
+            "sat": "Amos 7 4.0\u00b0w",
+            "freq": "11113 H 08518 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
             "related_to": "     Portugal   vs   Croatia"
         },
         {
@@ -2451,6 +2691,14 @@
             "sat": "Thor 7 0.6\u00b0w",
             "freq": "12476 H 30000 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Portugal   vs   Croatia"
+        },
+        {
+            "channel": "New World Sport 1 Mauritius",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     Portugal   vs   Croatia"
         },
@@ -2527,6 +2775,22 @@
             "related_to": "     Portugal   vs   Croatia"
         },
         {
+            "channel": "RCN TV HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "4009 R 09240 - 3/4",
+            "encry": "HD Director",
+            "link": "#",
+            "related_to": "     Portugal   vs   Croatia"
+        },
+        {
+            "channel": "RDS Canada",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Portugal   vs   Croatia"
+        },
+        {
             "channel": "RSI La 2 Svizzera HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "10971 H 29700 - 2/3",
@@ -2539,6 +2803,22 @@
             "sat": "Hotbird 13G 13.0\u00b0e",
             "freq": "11411 H 27500 - 5/6",
             "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Portugal   vs   Croatia"
+        },
+        {
+            "channel": "RTK 1 Kosovo HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10938 H 15835 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "https://www.rtklive.com/sq/livestream/rtk1/",
+            "related_to": "     Portugal   vs   Croatia"
+        },
+        {
+            "channel": "RTS 2 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11914 H 30000 - 3/4",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Portugal   vs   Croatia"
         },
@@ -2575,6 +2855,14 @@
             "related_to": "     Portugal   vs   Croatia"
         },
         {
+            "channel": "RUV Sjonvarpid",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "11389 H 24500 - 7/8",
+            "encry": "Conax",
+            "link": "#",
+            "related_to": "     Portugal   vs   Croatia"
+        },
+        {
             "channel": "Servus TV \u00d6sterreich HD",
             "sat": "Astra 1L 19.2\u00b0e",
             "freq": "11303 H 22000 - 2/3",
@@ -2604,6 +2892,14 @@
             "freq": "11554 H 30000 - 3/4",
             "encry": "HD VideoGuard",
             "link": "https://4d.rtvslo.si/zivo/tvs2",
+            "related_to": "     Portugal   vs   Croatia"
+        },
+        {
+            "channel": "Sport 1 Israel HD",
+            "sat": "Amos 3 4.0\u00b0w",
+            "freq": "10842 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
             "related_to": "     Portugal   vs   Croatia"
         },
         {
@@ -2727,6 +3023,30 @@
             "related_to": "     Portugal   vs   Croatia"
         },
         {
+            "channel": "TV Klan HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10804 H 29950 - 2/3",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Portugal   vs   Croatia"
+        },
+        {
+            "channel": "TV3 Estonia HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11938 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Portugal   vs   Croatia"
+        },
+        {
+            "channel": "TV3 Lietuva HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11938 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Portugal   vs   Croatia"
+        },
+        {
             "channel": "TV4 Play Sverige [online]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2767,10 +3087,26 @@
             "related_to": "     Portugal   vs   Croatia"
         },
         {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Portugal   vs   Croatia"
+        },
+        {
             "channel": "VRT 1 Belgium HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "12188 H 29900 - 2/3",
             "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Portugal   vs   Croatia"
+        },
+        {
+            "channel": "We Sport Moldova ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Portugal   vs   Croatia"
         },
@@ -2787,6 +3123,22 @@
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "10872 H 25000 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Portugal   vs   Croatia"
+        },
+        {
+            "channel": "Z Sports 1 Angola",
+            "sat": "Eutelsat 36D 35.9\u00b0e",
+            "freq": "11263 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Portugal   vs   Croatia"
+        },
+        {
+            "channel": "Zap Viva Internacional HD",
+            "sat": "Eutelsat 10B 10.0\u00b0e",
+            "freq": "12734 V 4000",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Portugal   vs   Croatia"
         },
@@ -2985,6 +3337,14 @@
             "related_to": "     Switzerland   vs   Algeria"
         },
         {
+            "channel": "CTV Canada HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Switzerland   vs   Algeria"
+        },
+        {
             "channel": "DAZN Espa\u00f1a ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -3057,6 +3417,22 @@
             "related_to": "     Switzerland   vs   Algeria"
         },
         {
+            "channel": "Futbol TV Tajikistan",
+            "sat": "ABS 2A 75.0\u00b0e",
+            "freq": "12252 H 10000 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Switzerland   vs   Algeria"
+        },
+        {
+            "channel": "Futbol TV Uzbekistan",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "#",
+            "related_to": "     Switzerland   vs   Algeria"
+        },
+        {
             "channel": "Go3 World Cup Baltics ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -3077,6 +3453,22 @@
             "sat": "AzerSpace 1 46.0\u00b0e",
             "freq": "11095 H 30000 - 5/6",
             "encry": "FTA",
+            "link": "#",
+            "related_to": "     Switzerland   vs   Algeria"
+        },
+        {
+            "channel": "IRIB 4K UHD",
+            "sat": "Express AM7 40.0\u00b0e",
+            "freq": "11637 H 30000 - 3/4",
+            "encry": "Free To Air UHD",
+            "link": "#",
+            "related_to": "     Switzerland   vs   Algeria"
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Intelsat 39 62.0\u00b0e",
+            "freq": "11555 V 30000 - 3/4",
+            "encry": "HD BISS",
             "link": "#",
             "related_to": "     Switzerland   vs   Algeria"
         },
@@ -3169,6 +3561,14 @@
             "related_to": "     Switzerland   vs   Algeria"
         },
         {
+            "channel": "New World Sport 1 Mauritius",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Switzerland   vs   Algeria"
+        },
+        {
             "channel": "NPO 1 4K UHD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11895 V 29900 - 2/3",
@@ -3241,6 +3641,14 @@
             "related_to": "     Switzerland   vs   Algeria"
         },
         {
+            "channel": "RDS Canada",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Switzerland   vs   Algeria"
+        },
+        {
             "channel": "RSI La 2 Svizzera HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "10971 H 29700 - 2/3",
@@ -3253,6 +3661,14 @@
             "sat": "Hotbird 13G 13.0\u00b0e",
             "freq": "11411 H 27500 - 5/6",
             "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Switzerland   vs   Algeria"
+        },
+        {
+            "channel": "RTS 2 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11914 H 30000 - 3/4",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Switzerland   vs   Algeria"
         },
@@ -3289,6 +3705,14 @@
             "related_to": "     Switzerland   vs   Algeria"
         },
         {
+            "channel": "RUV Sjonvarpid",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "11389 H 24500 - 7/8",
+            "encry": "Conax",
+            "link": "#",
+            "related_to": "     Switzerland   vs   Algeria"
+        },
+        {
             "channel": "Servus TV \u00d6sterreich HD",
             "sat": "Astra 1L 19.2\u00b0e",
             "freq": "11303 H 22000 - 2/3",
@@ -3310,6 +3734,14 @@
             "freq": "11554 H 30000 - 3/4",
             "encry": "HD VideoGuard",
             "link": "https://4d.rtvslo.si/zivo/tvs2",
+            "related_to": "     Switzerland   vs   Algeria"
+        },
+        {
+            "channel": "Sport 1 Israel HD",
+            "sat": "Amos 3 4.0\u00b0w",
+            "freq": "10842 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
             "related_to": "     Switzerland   vs   Algeria"
         },
         {
@@ -3425,6 +3857,14 @@
             "related_to": "     Switzerland   vs   Algeria"
         },
         {
+            "channel": "TV Klan HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10804 H 29950 - 2/3",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Switzerland   vs   Algeria"
+        },
+        {
             "channel": "TV2 Play Danmark ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -3457,6 +3897,14 @@
             "related_to": "     Switzerland   vs   Algeria"
         },
         {
+            "channel": "TVCG 2 HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11817 V 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Switzerland   vs   Algeria"
+        },
+        {
             "channel": "TVP 2 Polska HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "12265 V 27500 - 3/4",
@@ -3473,10 +3921,26 @@
             "related_to": "     Switzerland   vs   Algeria"
         },
         {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Switzerland   vs   Algeria"
+        },
+        {
             "channel": "VRT 1 Belgium HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "12188 H 29900 - 2/3",
             "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Switzerland   vs   Algeria"
+        },
+        {
+            "channel": "We Sport Moldova ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Switzerland   vs   Algeria"
         },
@@ -3493,6 +3957,22 @@
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "10872 H 25000 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Switzerland   vs   Algeria"
+        },
+        {
+            "channel": "Z Sports 1 Angola",
+            "sat": "Eutelsat 36D 35.9\u00b0e",
+            "freq": "11263 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Switzerland   vs   Algeria"
+        },
+        {
+            "channel": "Zap Viva Internacional HD",
+            "sat": "Eutelsat 10B 10.0\u00b0e",
+            "freq": "12734 V 4000",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Switzerland   vs   Algeria"
         },
@@ -3787,6 +4267,14 @@
             "related_to": "     Australia   vs   Egypt"
         },
         {
+            "channel": "Futbol TV Uzbekistan",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "#",
+            "related_to": "     Australia   vs   Egypt"
+        },
+        {
             "channel": "Go3 World Cup Baltics ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -3823,6 +4311,14 @@
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12266 H 29900 - 3/4",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Australia   vs   Egypt"
+        },
+        {
+            "channel": "Kan 11 Israel HD",
+            "sat": "Amos 7 4.0\u00b0w",
+            "freq": "11113 H 08518 - 3/4",
+            "encry": "VideoGuard",
             "link": "#",
             "related_to": "     Australia   vs   Egypt"
         },
@@ -4035,6 +4531,14 @@
             "related_to": "     Australia   vs   Egypt"
         },
         {
+            "channel": "RDS Canada",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Australia   vs   Egypt"
+        },
+        {
             "channel": "RSI La 2 Svizzera HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "10971 H 29700 - 2/3",
@@ -4096,6 +4600,14 @@
             "freq": "11554 H 30000 - 3/4",
             "encry": "HD VideoGuard",
             "link": "https://4d.rtvslo.si/zivo/tvs2",
+            "related_to": "     Australia   vs   Egypt"
+        },
+        {
+            "channel": "Sport 1 Israel HD",
+            "sat": "Amos 3 4.0\u00b0w",
+            "freq": "10842 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
             "related_to": "     Australia   vs   Egypt"
         },
         {
@@ -4837,6 +5349,14 @@
             "related_to": "     Argentina   vs   Cape Verde"
         },
         {
+            "channel": "RDS Canada",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Argentina   vs   Cape Verde"
+        },
+        {
             "channel": "RSI La 2 Svizzera HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "10971 H 29700 - 2/3",
@@ -5201,6 +5721,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Argentina   vs   Cape Verde"
+        },
+        {
+            "channel": "TVi Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Argentina   vs   Cape Verde"
         },
@@ -5699,7 +6227,7 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
-            "link": "https://www.mtv.fi/urheilu",
+            "link": "https://kauppa.telia.fi/kauppa/mtv-katsomo",
             "related_to": "     Colombia   vs   Ghana"
         },
         {
@@ -5787,6 +6315,14 @@
             "sat": "Paksat 1R 38.0\u00b0e",
             "freq": "3870 H 13333 - 3/4",
             "encry": "FTA",
+            "link": "#",
+            "related_to": "     Colombia   vs   Ghana"
+        },
+        {
+            "channel": "RDS Canada",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Colombia   vs   Ghana"
         },
@@ -9004,6 +9540,14 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.rte.ie/player/onnow",
+            "related_to": "       FINAL       "
+        },
+        {
+            "channel": "ZDF Deutschland HD",
+            "sat": "Astra 1P 19.2\u00b0e",
+            "freq": "11362 H 22000 - 2/3",
+            "encry": "HD Panaccess",
+            "link": "https://www.zdf.de/live-tv",
             "related_to": "       FINAL       "
         }
     ]
