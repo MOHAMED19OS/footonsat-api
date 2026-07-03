@@ -2147,7 +2147,7 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
-            "link": "https://kauppa.telia.fi/kauppa/mtv-katsomo",
+            "link": "https://www.mtv.fi/urheilu",
             "related_to": "     Argentina   vs   Cape Verde"
         },
         {
@@ -3157,7 +3157,7 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
-            "link": "https://kauppa.telia.fi/kauppa/mtv-katsomo",
+            "link": "https://www.mtv.fi/urheilu",
             "related_to": "     Colombia   vs   Ghana"
         },
         {
@@ -5147,6 +5147,14 @@
             "related_to": "     Portugal   vs   Spain"
         },
         {
+            "channel": "beIN Sports France 1 HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Portugal   vs   Spain"
+        },
+        {
             "channel": "DAZN Espa\u00f1a ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -5378,6 +5386,14 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "     United States   vs   Belgium"
+        },
+        {
+            "channel": "BBC One HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "10847 V 23000 - 3/4",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "     United States   vs   Belgium"
         },
         {
@@ -5679,6 +5695,14 @@
             "related_to": "     Argentina/Cape Verde   vs   Australia/Egypt"
         },
         {
+            "channel": "ITV 1 England HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11344 H 27500 - 2/3",
+            "encry": "HD Panaccess",
+            "link": "https://www.itv.com/watch?channel=itv",
+            "related_to": "     Argentina/Cape Verde   vs   Australia/Egypt"
+        },
+        {
             "channel": "ITV X (geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -5779,6 +5803,22 @@
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12360 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Argentina/Cape Verde   vs   Australia/Egypt"
+        },
+        {
+            "channel": "STV Player (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://player.stv.tv/live",
+            "related_to": "     Argentina/Cape Verde   vs   Australia/Egypt"
+        },
+        {
+            "channel": "STV Scotland HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11386 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Argentina/Cape Verde   vs   Australia/Egypt"
         },
@@ -5847,10 +5887,18 @@
             "related_to": "     Argentina/Cape Verde   vs   Australia/Egypt"
         },
         {
+            "channel": "UTV Northern Ireland HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11386 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Argentina/Cape Verde   vs   Australia/Egypt"
+        },
+        {
             "compet": "FIFA WORLD CUP 2026 - Round of 16 (Vancouver)",
-            "match": "     Switzerland/Algeria   vs   Colombia/Ghana",
+            "match": "     Switzerland   vs   Colombia/Ghana",
             "flags": {
-                "team1": "notspecific",
+                "team1": "switzerland",
                 "team2": "notspecific"
             },
             "time": "20:00",
@@ -5862,7 +5910,7 @@
             "freq": "11494 H 22000 - 2/3",
             "encry": "HD Panaccess",
             "link": "https://live.daserste.de/",
-            "related_to": "     Switzerland/Algeria   vs   Colombia/Ghana"
+            "related_to": "     Switzerland   vs   Colombia/Ghana"
         },
         {
             "channel": "BarTV Mundial HD",
@@ -5870,7 +5918,7 @@
             "freq": "10876 V 22000 - 5/6",
             "encry": "NagraVision",
             "link": "#",
-            "related_to": "     Switzerland/Algeria   vs   Colombia/Ghana"
+            "related_to": "     Switzerland   vs   Colombia/Ghana"
         },
         {
             "channel": "DAZN Espa\u00f1a ($/geo/R)",
@@ -5878,7 +5926,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "#",
-            "related_to": "     Switzerland/Algeria   vs   Colombia/Ghana"
+            "related_to": "     Switzerland   vs   Colombia/Ghana"
         },
         {
             "channel": "DAZN Italia ($/geo/R)",
@@ -5886,7 +5934,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
-            "related_to": "     Switzerland/Algeria   vs   Colombia/Ghana"
+            "related_to": "     Switzerland   vs   Colombia/Ghana"
         },
         {
             "channel": "DAZN Mundial Espana HD",
@@ -5894,7 +5942,7 @@
             "freq": "10906 V 22000 - 2/3",
             "encry": "HD NagraVision",
             "link": "#",
-            "related_to": "     Switzerland/Algeria   vs   Colombia/Ghana"
+            "related_to": "     Switzerland   vs   Colombia/Ghana"
         },
         {
             "channel": "DR TV ($/geo/R)",
@@ -5902,7 +5950,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.dr.dk/drtv/kanal/20875",
-            "related_to": "     Switzerland/Algeria   vs   Colombia/Ghana"
+            "related_to": "     Switzerland   vs   Colombia/Ghana"
         },
         {
             "channel": "DR1 Dansk HD",
@@ -5910,7 +5958,7 @@
             "freq": "11305 H 30000 - 3/4",
             "encry": "HD VideoGuard",
             "link": "#",
-            "related_to": "     Switzerland/Algeria   vs   Colombia/Ghana"
+            "related_to": "     Switzerland   vs   Colombia/Ghana"
         },
         {
             "channel": "Fubo Sports USA ($/geo/R)",
@@ -5918,7 +5966,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.fubosportsnetwork.com/",
-            "related_to": "     Switzerland/Algeria   vs   Colombia/Ghana"
+            "related_to": "     Switzerland   vs   Colombia/Ghana"
         },
         {
             "channel": "Go3 World Cup Baltics ($/geo/R)",
@@ -5926,7 +5974,7 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://go3.ee/fifa2026",
-            "related_to": "     Switzerland/Algeria   vs   Colombia/Ghana"
+            "related_to": "     Switzerland   vs   Colombia/Ghana"
         },
         {
             "channel": "HRT 2 Hrvatska HD",
@@ -5934,7 +5982,15 @@
             "freq": "11637 V 30000 - 2/3",
             "encry": "HD Viaccess",
             "link": "#",
-            "related_to": "     Switzerland/Algeria   vs   Colombia/Ghana"
+            "related_to": "     Switzerland   vs   Colombia/Ghana"
+        },
+        {
+            "channel": "ITV 1 England HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11344 H 27500 - 2/3",
+            "encry": "HD Panaccess",
+            "link": "https://www.itv.com/watch?channel=itv",
+            "related_to": "     Switzerland   vs   Colombia/Ghana"
         },
         {
             "channel": "ITV X (geo/R)",
@@ -5942,7 +5998,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.itv.com/watch?channel=itv",
-            "related_to": "     Switzerland/Algeria   vs   Colombia/Ghana"
+            "related_to": "     Switzerland   vs   Colombia/Ghana"
         },
         {
             "channel": "JOJ Play ($/geo/R)",
@@ -5950,7 +6006,7 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://play.joj.sk/",
-            "related_to": "     Switzerland/Algeria   vs   Colombia/Ghana"
+            "related_to": "     Switzerland   vs   Colombia/Ghana"
         },
         {
             "channel": "M4 Sport Hungary HD",
@@ -5958,7 +6014,7 @@
             "freq": "11778 V 29900 - 2/3",
             "encry": "HD Conax",
             "link": "https://m4sport.hu/elo/mtv4live/",
-            "related_to": "     Switzerland/Algeria   vs   Colombia/Ghana"
+            "related_to": "     Switzerland   vs   Colombia/Ghana"
         },
         {
             "channel": "Magenta Sport ($/geo/R)",
@@ -5966,7 +6022,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
-            "related_to": "     Switzerland/Algeria   vs   Colombia/Ghana"
+            "related_to": "     Switzerland   vs   Colombia/Ghana"
         },
         {
             "channel": "MATCH! TV [online] ($/geo/R)",
@@ -5974,7 +6030,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://matchtv.ru/video/sports/football",
-            "related_to": "     Switzerland/Algeria   vs   Colombia/Ghana"
+            "related_to": "     Switzerland   vs   Colombia/Ghana"
         },
         {
             "channel": "NPO 1 4K UHD",
@@ -5982,7 +6038,7 @@
             "freq": "11895 V 29900 - 2/3",
             "encry": "HD Viaccess",
             "link": "#",
-            "related_to": "     Switzerland/Algeria   vs   Colombia/Ghana"
+            "related_to": "     Switzerland   vs   Colombia/Ghana"
         },
         {
             "channel": "NPO 1 Nederland HD",
@@ -5990,7 +6046,7 @@
             "freq": "12188 H 29900 - 2/3",
             "encry": "HD NagraVision",
             "link": "#",
-            "related_to": "     Switzerland/Algeria   vs   Colombia/Ghana"
+            "related_to": "     Switzerland   vs   Colombia/Ghana"
         },
         {
             "channel": "Peacock Premium USA ($/geo/R)",
@@ -5998,7 +6054,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "#",
-            "related_to": "     Switzerland/Algeria   vs   Colombia/Ghana"
+            "related_to": "     Switzerland   vs   Colombia/Ghana"
         },
         {
             "channel": "Play RTS Sport (geo/R)",
@@ -6006,7 +6062,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.rts.ch/play/tv/categories/sport",
-            "related_to": "     Switzerland/Algeria   vs   Colombia/Ghana"
+            "related_to": "     Switzerland   vs   Colombia/Ghana"
         },
         {
             "channel": "RT\u00c9 2 Ireland HD",
@@ -6014,7 +6070,7 @@
             "freq": "11914 H 27500 - 5/6",
             "encry": "VideoGuard",
             "link": "#",
-            "related_to": "     Switzerland/Algeria   vs   Colombia/Ghana"
+            "related_to": "     Switzerland   vs   Colombia/Ghana"
         },
         {
             "channel": "RT\u00c9 Player (geo/R)",
@@ -6022,7 +6078,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.rte.ie/player/onnow",
-            "related_to": "     Switzerland/Algeria   vs   Colombia/Ghana"
+            "related_to": "     Switzerland   vs   Colombia/Ghana"
         },
         {
             "channel": "Slovenija TV2 HD",
@@ -6030,7 +6086,7 @@
             "freq": "11554 H 30000 - 3/4",
             "encry": "HD VideoGuard",
             "link": "https://4d.rtvslo.si/zivo/tvs2",
-            "related_to": "     Switzerland/Algeria   vs   Colombia/Ghana"
+            "related_to": "     Switzerland   vs   Colombia/Ghana"
         },
         {
             "channel": "Sport TV5 Portugal HD",
@@ -6038,7 +6094,23 @@
             "freq": "12360 H 27500 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
-            "related_to": "     Switzerland/Algeria   vs   Colombia/Ghana"
+            "related_to": "     Switzerland   vs   Colombia/Ghana"
+        },
+        {
+            "channel": "STV Player (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://player.stv.tv/live",
+            "related_to": "     Switzerland   vs   Colombia/Ghana"
+        },
+        {
+            "channel": "STV Scotland HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11386 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Switzerland   vs   Colombia/Ghana"
         },
         {
             "channel": "SuperSport PSL HD",
@@ -6046,7 +6118,7 @@
             "freq": "11594 V 27500 - 5/6",
             "encry": "Irdeto",
             "link": "#",
-            "related_to": "     Switzerland/Algeria   vs   Colombia/Ghana"
+            "related_to": "     Switzerland   vs   Colombia/Ghana"
         },
         {
             "channel": "Telemundo USA",
@@ -6054,7 +6126,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "#",
-            "related_to": "     Switzerland/Algeria   vs   Colombia/Ghana"
+            "related_to": "     Switzerland   vs   Colombia/Ghana"
         },
         {
             "channel": "TSN Canada 1 HD",
@@ -6062,7 +6134,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
-            "related_to": "     Switzerland/Algeria   vs   Colombia/Ghana"
+            "related_to": "     Switzerland   vs   Colombia/Ghana"
         },
         {
             "channel": "TSN+ Canada ($/geo/R)",
@@ -6070,7 +6142,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.tsn.ca/tsnplus",
-            "related_to": "     Switzerland/Algeria   vs   Colombia/Ghana"
+            "related_to": "     Switzerland   vs   Colombia/Ghana"
         },
         {
             "channel": "TVP 1 Polska HD",
@@ -6078,7 +6150,7 @@
             "freq": "11449 H 27500 - 3/4",
             "encry": "HD Conax",
             "link": "#",
-            "related_to": "     Switzerland/Algeria   vs   Colombia/Ghana"
+            "related_to": "     Switzerland   vs   Colombia/Ghana"
         },
         {
             "channel": "TVP Sport Polska HD",
@@ -6086,7 +6158,15 @@
             "freq": "10834 V 27500 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
-            "related_to": "     Switzerland/Algeria   vs   Colombia/Ghana"
+            "related_to": "     Switzerland   vs   Colombia/Ghana"
+        },
+        {
+            "channel": "UTV Northern Ireland HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11386 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Switzerland   vs   Colombia/Ghana"
         },
         {
             "compet": "FIFA WORLD CUP 2026 - Quarter Final (Boston)",
