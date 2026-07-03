@@ -917,6 +917,32 @@
             "related_to": "     Switzerland   vs   Algeria"
         },
         {
+            "compet": "UEFA Womens U-19 Championship - Group Stage",
+            "match": "     Germany U-19   vs   Sweden U-19",
+            "flags": {
+                "team1": "germany",
+                "team2": "sweden"
+            },
+            "time": "15:00",
+            "date": "2026-07-03"
+        },
+        {
+            "channel": "Canal 11 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12437 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Germany U-19   vs   Sweden U-19"
+        },
+        {
+            "channel": "UEFA.TV [online] (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.uefa.tv/",
+            "related_to": "     Germany U-19   vs   Sweden U-19"
+        },
+        {
             "compet": "Friendly Club Match",
             "match": "     Red Star Belgrade   vs   Blau-Wei\u00df Linz",
             "flags": {
@@ -967,24 +993,6 @@
             "encry": "",
             "link": "https://www.uefa.tv/",
             "related_to": "     Poland U-19   vs   Bosnia U-19"
-        },
-        {
-            "compet": "UEFA Womens U-19 Championship - Group Stage",
-            "match": "     Germany U-19   vs   Sweden U-19",
-            "flags": {
-                "team1": "germany",
-                "team2": "sweden"
-            },
-            "time": "15:00",
-            "date": "2026-07-03"
-        },
-        {
-            "channel": "UEFA.TV [online] (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.uefa.tv/",
-            "related_to": "     Germany U-19   vs   Sweden U-19"
         },
         {
             "compet": "Swedish Allsvenskan - Week 11",
@@ -1989,6 +1997,24 @@
             "encry": "MPEG-4 Verimatrix",
             "link": "#",
             "related_to": "     Australia   vs   Egypt"
+        },
+        {
+            "compet": "Friendly Club Match",
+            "match": "     Flamengo   vs   River Plate",
+            "flags": {
+                "team1": "brazil",
+                "team2": "argentina"
+            },
+            "time": "18:30",
+            "date": "2026-07-03"
+        },
+        {
+            "channel": "Canal 11 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12437 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Flamengo   vs   River Plate"
         },
         {
             "compet": "Irish Premier Division - Week 23",
