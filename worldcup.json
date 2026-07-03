@@ -1117,11 +1117,35 @@
             "related_to": "     Australia   vs   Egypt"
         },
         {
+            "channel": "ERT 2 Sport Hellas HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12223 H 13381 - 3/4",
+            "encry": "MPEG-4 Biss",
+            "link": "#",
+            "related_to": "     Australia   vs   Egypt"
+        },
+        {
+            "channel": "ETV Estonia",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11958 H 27500 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Australia   vs   Egypt"
+        },
+        {
             "channel": "ETV+ Estonia",
             "sat": "Astra 4A 5.0\u00b0e",
             "freq": "11938 V 27500 - 5/6",
             "encry": "MPEG-4 NDS",
             "link": "#",
+            "related_to": "     Australia   vs   Egypt"
+        },
+        {
+            "channel": "Fast Sports TV Armenia",
+            "sat": "Eutelsat 70B 70.5\u00b0e",
+            "freq": "11050 H 20030 - 1/2",
+            "encry": "MPEG-4 Biss",
+            "link": "https://fasttv.am/tv-channels/fastsports",
             "related_to": "     Australia   vs   Egypt"
         },
         {
@@ -1165,6 +1189,14 @@
             "related_to": "     Australia   vs   Egypt"
         },
         {
+            "channel": "Futbol TV Tajikistan",
+            "sat": "ABS 2A 75.0\u00b0e",
+            "freq": "12252 H 10000 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Australia   vs   Egypt"
+        },
+        {
             "channel": "Futbol TV Uzbekistan",
             "sat": "NSS 12 57.0\u00b0e",
             "freq": "11610 H 20200 - 3/4",
@@ -1197,6 +1229,22 @@
             "related_to": "     Australia   vs   Egypt"
         },
         {
+            "channel": "IRIB 4K UHD",
+            "sat": "Express AM7 40.0\u00b0e",
+            "freq": "11637 H 30000 - 3/4",
+            "encry": "Free To Air UHD",
+            "link": "#",
+            "related_to": "     Australia   vs   Egypt"
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Intelsat 39 62.0\u00b0e",
+            "freq": "11555 V 30000 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Australia   vs   Egypt"
+        },
+        {
             "channel": "JOJ Play ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -1213,10 +1261,26 @@
             "related_to": "     Australia   vs   Egypt"
         },
         {
+            "channel": "Jurnal TV Moldova",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Australia   vs   Egypt"
+        },
+        {
             "channel": "Kan 11 Israel HD",
             "sat": "Amos 7 4.0\u00b0w",
             "freq": "11113 H 08518 - 3/4",
             "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Australia   vs   Egypt"
+        },
+        {
+            "channel": "KTRK Sport",
+            "sat": "Eutelsat 70B 70.5\u00b0e",
+            "freq": "11097 H 23627 - 1/2",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Australia   vs   Egypt"
         },
@@ -1248,6 +1312,14 @@
             "channel": "M6 Suisse HD",
             "sat": "Eutelsat 9B 9.0\u00b0e",
             "freq": "12034 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Australia   vs   Egypt"
+        },
+        {
+            "channel": "Mafken TV Zambia",
+            "sat": "Eutelsat 8 West B 8.0\u00b0w",
+            "freq": "3852 R 14167 - 3/4",
             "encry": "FTA",
             "link": "#",
             "related_to": "     Australia   vs   Egypt"
@@ -1313,7 +1385,7 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
-            "link": "https://www.mtv.fi/urheilu",
+            "link": "https://kauppa.telia.fi/kauppa/mtv-katsomo",
             "related_to": "     Australia   vs   Egypt"
         },
         {
@@ -1321,6 +1393,14 @@
             "sat": "Thor 7 0.6\u00b0w",
             "freq": "12476 H 30000 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Australia   vs   Egypt"
+        },
+        {
+            "channel": "Nova Action HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11876 H 29900 - 3/4",
+            "encry": "HD CryptoWorks",
             "link": "#",
             "related_to": "     Australia   vs   Egypt"
         },
@@ -1461,6 +1541,14 @@
             "related_to": "     Australia   vs   Egypt"
         },
         {
+            "channel": "RTS 1 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11914 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Australia   vs   Egypt"
+        },
+        {
             "channel": "RTS 2 Suisse HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "10971 H 29700 - 2/3",
@@ -1493,6 +1581,22 @@
             "related_to": "     Australia   vs   Egypt"
         },
         {
+            "channel": "RUV 2 Sjonvarpid",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Australia   vs   Egypt"
+        },
+        {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "sat": " \u00b0",
+            "freq": " ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Australia   vs   Egypt"
+        },
+        {
             "channel": "Sigma TV Cyprus",
             "sat": "Hellas Sat 4 39.0\u00b0e",
             "freq": "11837 H 16515 - 5/6",
@@ -1517,6 +1621,14 @@
             "related_to": "     Australia   vs   Egypt"
         },
         {
+            "channel": "Sport 24 In Flight HD",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "4095 R 30000 - 3/4",
+            "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     Australia   vs   Egypt"
+        },
+        {
             "channel": "Sport TV Belarus",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -1533,11 +1645,27 @@
             "related_to": "     Australia   vs   Egypt"
         },
         {
+            "channel": "SporTV Brazil HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Australia   vs   Egypt"
+        },
+        {
             "channel": "SRF Zwei Schweiz HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "10971 H 29700 - 2/3",
             "encry": "HD Panaccess",
             "link": "https://www.srf.ch/play/tv/live?tvLiveId=c49c1d64-9f60-0001-1c36-43c288c01a10",
+            "related_to": "     Australia   vs   Egypt"
+        },
+        {
+            "channel": "Sun Sports TV Zambia",
+            "sat": "SES 5 5.0\u00b0e",
+            "freq": "12380 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
             "related_to": "     Australia   vs   Egypt"
         },
         {
@@ -1621,6 +1749,22 @@
             "related_to": "     Australia   vs   Egypt"
         },
         {
+            "channel": "TV Klan HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10804 H 29950 - 2/3",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Australia   vs   Egypt"
+        },
+        {
+            "channel": "TV3 Lietuva HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11938 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Australia   vs   Egypt"
+        },
+        {
             "channel": "TV4 Play Sverige [online]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1653,6 +1797,22 @@
             "related_to": "     Australia   vs   Egypt"
         },
         {
+            "channel": "TVM Sport+ HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Australia   vs   Egypt"
+        },
+        {
+            "channel": "TVM+ Malta HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Australia   vs   Egypt"
+        },
+        {
             "channel": "TVP 2 Polska HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "12265 V 27500 - 3/4",
@@ -1669,10 +1829,26 @@
             "related_to": "     Australia   vs   Egypt"
         },
         {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Australia   vs   Egypt"
+        },
+        {
             "channel": "VRT 1 Belgium HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "12188 H 29900 - 2/3",
             "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Australia   vs   Egypt"
+        },
+        {
+            "channel": "Zap Viva Internacional HD",
+            "sat": "Eutelsat 10B 10.0\u00b0e",
+            "freq": "12734 V 4000",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Australia   vs   Egypt"
         },
@@ -1707,6 +1883,14 @@
             "sat": "NSS 12 57.0\u00b0e",
             "freq": "4095 L 11000 - 1/2",
             "encry": "PowerVu [c]",
+            "link": "#",
+            "related_to": "     Argentina   vs   Cape Verde"
+        },
+        {
+            "channel": "Am\u00e9rica Peru HD",
+            "sat": "Telstar 12 15.0\u00b0w",
+            "freq": "11919 H 45000 - 4/5",
+            "encry": "MPEG-4 BetaC",
             "link": "#",
             "related_to": "     Argentina   vs   Cape Verde"
         },
@@ -1847,6 +2031,30 @@
             "related_to": "     Argentina   vs   Cape Verde"
         },
         {
+            "channel": "Canal 5 Mexico HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Argentina   vs   Cape Verde"
+        },
+        {
+            "channel": "Caracol Nacional",
+            "sat": "Intelsat 21 58.0\u00b0w",
+            "freq": "3807 H 02083 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Argentina   vs   Cape Verde"
+        },
+        {
+            "channel": "ChileVision",
+            "sat": "Telstar 12 15.0\u00b0w",
+            "freq": "11857 H 45000 - 4/5",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "#",
+            "related_to": "     Argentina   vs   Cape Verde"
+        },
+        {
             "channel": "CRTV Sports Cameroon",
             "sat": "AzerSpace 2 45.0\u00b0e",
             "freq": "12610 H 12500 - 3/4",
@@ -1903,6 +2111,14 @@
             "related_to": "     Argentina   vs   Cape Verde"
         },
         {
+            "channel": "ERT 2 Sport Hellas HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12223 H 13381 - 3/4",
+            "encry": "MPEG-4 Biss",
+            "link": "#",
+            "related_to": "     Argentina   vs   Cape Verde"
+        },
+        {
             "channel": "Fast Sports TV Armenia",
             "sat": "Eutelsat 70B 70.5\u00b0e",
             "freq": "11050 H 20030 - 1/2",
@@ -1947,6 +2163,22 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Argentina   vs   Cape Verde"
+        },
+        {
+            "channel": "Futbol TV Tajikistan",
+            "sat": "ABS 2A 75.0\u00b0e",
+            "freq": "12252 H 10000 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Argentina   vs   Cape Verde"
+        },
+        {
+            "channel": "Futbol TV Uzbekistan",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix",
             "link": "#",
             "related_to": "     Argentina   vs   Cape Verde"
         },
@@ -2015,6 +2247,22 @@
             "related_to": "     Argentina   vs   Cape Verde"
         },
         {
+            "channel": "IRIB 4K UHD",
+            "sat": "Express AM7 40.0\u00b0e",
+            "freq": "11637 H 30000 - 3/4",
+            "encry": "Free To Air UHD",
+            "link": "#",
+            "related_to": "     Argentina   vs   Cape Verde"
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Intelsat 39 62.0\u00b0e",
+            "freq": "11555 V 30000 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Argentina   vs   Cape Verde"
+        },
+        {
             "channel": "ITV 1 England HD",
             "sat": "Astra 2E 28.2\u00b0e",
             "freq": "11344 H 27500 - 2/3",
@@ -2047,6 +2295,14 @@
             "related_to": "     Argentina   vs   Cape Verde"
         },
         {
+            "channel": "Kan 11 Israel HD",
+            "sat": "Amos 7 4.0\u00b0w",
+            "freq": "11113 H 08518 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Argentina   vs   Cape Verde"
+        },
+        {
             "channel": "KBC 1 Kenya",
             "sat": "Express AMU1 36.1\u00b0e",
             "freq": "12265 V 31420 - 3/4",
@@ -2059,6 +2315,14 @@
             "sat": "Express AMU1 36.1\u00b0e",
             "freq": "12188 V 27500 - 2/3",
             "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Argentina   vs   Cape Verde"
+        },
+        {
+            "channel": "KTRK Sport",
+            "sat": "Eutelsat 70B 70.5\u00b0e",
+            "freq": "11097 H 23627 - 1/2",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Argentina   vs   Cape Verde"
         },
@@ -2098,6 +2362,14 @@
             "channel": "M6 Suisse HD",
             "sat": "Eutelsat 9B 9.0\u00b0e",
             "freq": "12034 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Argentina   vs   Cape Verde"
+        },
+        {
+            "channel": "Mafken TV Zambia",
+            "sat": "Eutelsat 8 West B 8.0\u00b0w",
+            "freq": "3852 R 14167 - 3/4",
             "encry": "FTA",
             "link": "#",
             "related_to": "     Argentina   vs   Cape Verde"
@@ -2147,7 +2419,7 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
-            "link": "https://www.mtv.fi/urheilu",
+            "link": "https://kauppa.telia.fi/kauppa/mtv-katsomo",
             "related_to": "     Argentina   vs   Cape Verde"
         },
         {
@@ -2231,6 +2503,14 @@
             "related_to": "     Argentina   vs   Cape Verde"
         },
         {
+            "channel": "ORTM 2 Mali",
+            "sat": "Intelsat 37e 18.0\u00b0w",
+            "freq": "4129 L 02060 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Argentina   vs   Cape Verde"
+        },
+        {
             "channel": "Peacock Premium USA ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2267,6 +2547,14 @@
             "sat": "Paksat 1R 38.0\u00b0e",
             "freq": "3870 H 13333 - 3/4",
             "encry": "FTA",
+            "link": "#",
+            "related_to": "     Argentina   vs   Cape Verde"
+        },
+        {
+            "channel": "RCN TV HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "4009 R 09240 - 3/4",
+            "encry": "HD Director",
             "link": "#",
             "related_to": "     Argentina   vs   Cape Verde"
         },
@@ -2335,6 +2623,14 @@
             "related_to": "     Argentina   vs   Cape Verde"
         },
         {
+            "channel": "RTS 1 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11914 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Argentina   vs   Cape Verde"
+        },
+        {
             "channel": "RTS 2 Senegal HD",
             "sat": "Amos 17 17.0\u00b0e",
             "freq": "11968 V 34030 - 5/6",
@@ -2383,6 +2679,14 @@
             "related_to": "     Argentina   vs   Cape Verde"
         },
         {
+            "channel": "RUV Sjonvarpid",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "11389 H 24500 - 7/8",
+            "encry": "Conax",
+            "link": "#",
+            "related_to": "     Argentina   vs   Cape Verde"
+        },
+        {
             "channel": "Rwanda TV HD",
             "sat": "Express AMU1 36.1\u00b0e",
             "freq": "12207 H 27500 - 3/4",
@@ -2395,6 +2699,14 @@
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11514 V 28750 - 1/2",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Argentina   vs   Cape Verde"
+        },
+        {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "sat": " \u00b0",
+            "freq": " ",
+            "encry": "",
             "link": "#",
             "related_to": "     Argentina   vs   Cape Verde"
         },
@@ -2412,6 +2724,22 @@
             "freq": "11554 H 30000 - 3/4",
             "encry": "HD VideoGuard",
             "link": "https://4d.rtvslo.si/zivo/tvs2",
+            "related_to": "     Argentina   vs   Cape Verde"
+        },
+        {
+            "channel": "Sport 1 Israel HD",
+            "sat": "Amos 3 4.0\u00b0w",
+            "freq": "10842 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Argentina   vs   Cape Verde"
+        },
+        {
+            "channel": "Sport 24 In Flight HD",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "4095 R 30000 - 3/4",
+            "encry": "HD PowerVu",
+            "link": "#",
             "related_to": "     Argentina   vs   Cape Verde"
         },
         {
@@ -2435,6 +2763,14 @@
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12360 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Argentina   vs   Cape Verde"
+        },
+        {
+            "channel": "SporTV Brazil HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Argentina   vs   Cape Verde"
         },
@@ -2467,6 +2803,14 @@
             "sat": "Astra 2E 28.2\u00b0e",
             "freq": "11386 V 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Argentina   vs   Cape Verde"
+        },
+        {
+            "channel": "Sun Sports TV Zambia",
+            "sat": "SES 5 5.0\u00b0e",
+            "freq": "12380 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     Argentina   vs   Cape Verde"
         },
@@ -2599,6 +2943,14 @@
             "related_to": "     Argentina   vs   Cape Verde"
         },
         {
+            "channel": "TV Klan HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10804 H 29950 - 2/3",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Argentina   vs   Cape Verde"
+        },
+        {
             "channel": "TV Malagasy Madagascar",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11471 H 30000 - 2/3",
@@ -2615,10 +2967,34 @@
             "related_to": "     Argentina   vs   Cape Verde"
         },
         {
+            "channel": "TV P\u00fablica Argentina HD",
+            "sat": "Telstar 12 15.0\u00b0w",
+            "freq": "11919 H 45000 - 4/5",
+            "encry": "MPEG-4 BetaC",
+            "link": "#",
+            "related_to": "     Argentina   vs   Cape Verde"
+        },
+        {
+            "channel": "TV3 Estonia HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11938 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Argentina   vs   Cape Verde"
+        },
+        {
             "channel": "TV3 Ghana",
             "sat": "Astra 2F 28.2\u00b0e",
             "freq": "12522 V 27000 - 7/8",
             "encry": "MPEG-4 Biss",
+            "link": "#",
+            "related_to": "     Argentina   vs   Cape Verde"
+        },
+        {
+            "channel": "TV3 Lietuva HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11938 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Argentina   vs   Cape Verde"
         },
@@ -2671,6 +3047,14 @@
             "related_to": "     Argentina   vs   Cape Verde"
         },
         {
+            "channel": "TVM+ Malta HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Argentina   vs   Cape Verde"
+        },
+        {
             "channel": "TVP 1 Polska HD",
             "sat": "Hotbird 13G 13.0\u00b0e",
             "freq": "11449 H 27500 - 3/4",
@@ -2719,10 +3103,34 @@
             "related_to": "     Argentina   vs   Cape Verde"
         },
         {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Argentina   vs   Cape Verde"
+        },
+        {
             "channel": "VRT 1 Belgium HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "12188 H 29900 - 2/3",
             "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Argentina   vs   Cape Verde"
+        },
+        {
+            "channel": "We Sport Moldova ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Argentina   vs   Cape Verde"
+        },
+        {
+            "channel": "Zap Viva Internacional HD",
+            "sat": "Eutelsat 10B 10.0\u00b0e",
+            "freq": "12734 V 4000",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Argentina   vs   Cape Verde"
         },
@@ -2765,6 +3173,14 @@
             "sat": "NSS 12 57.0\u00b0e",
             "freq": "4095 L 11000 - 1/2",
             "encry": "PowerVu [c]",
+            "link": "#",
+            "related_to": "     Colombia   vs   Ghana"
+        },
+        {
+            "channel": "Am\u00e9rica Peru HD",
+            "sat": "Telstar 12 15.0\u00b0w",
+            "freq": "11919 H 45000 - 4/5",
+            "encry": "MPEG-4 BetaC",
             "link": "#",
             "related_to": "     Colombia   vs   Ghana"
         },
@@ -2905,6 +3321,22 @@
             "related_to": "     Colombia   vs   Ghana"
         },
         {
+            "channel": "Caracol Nacional",
+            "sat": "Intelsat 21 58.0\u00b0w",
+            "freq": "3807 H 02083 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Colombia   vs   Ghana"
+        },
+        {
+            "channel": "ChileVision",
+            "sat": "Telstar 12 15.0\u00b0w",
+            "freq": "11857 H 45000 - 4/5",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "#",
+            "related_to": "     Colombia   vs   Ghana"
+        },
+        {
             "channel": "CRTV Sports Cameroon",
             "sat": "AzerSpace 2 45.0\u00b0e",
             "freq": "12610 H 12500 - 3/4",
@@ -2934,6 +3366,22 @@
             "freq": "10906 V 22000 - 2/3",
             "encry": "HD NagraVision",
             "link": "#",
+            "related_to": "     Colombia   vs   Ghana"
+        },
+        {
+            "channel": "ERT 1 Hellas HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12242 H 13381 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Colombia   vs   Ghana"
+        },
+        {
+            "channel": "Fast Sports TV Armenia",
+            "sat": "Eutelsat 70B 70.5\u00b0e",
+            "freq": "11050 H 20030 - 1/2",
+            "encry": "MPEG-4 Biss",
+            "link": "https://fasttv.am/tv-channels/fastsports",
             "related_to": "     Colombia   vs   Ghana"
         },
         {
@@ -2973,6 +3421,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Colombia   vs   Ghana"
+        },
+        {
+            "channel": "Futbol TV Tajikistan",
+            "sat": "ABS 2A 75.0\u00b0e",
+            "freq": "12252 H 10000 - 3/4",
+            "encry": "HD BISS",
             "link": "#",
             "related_to": "     Colombia   vs   Ghana"
         },
@@ -3033,6 +3489,22 @@
             "related_to": "     Colombia   vs   Ghana"
         },
         {
+            "channel": "IRIB 4K UHD",
+            "sat": "Express AM7 40.0\u00b0e",
+            "freq": "11637 H 30000 - 3/4",
+            "encry": "Free To Air UHD",
+            "link": "#",
+            "related_to": "     Colombia   vs   Ghana"
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Intelsat 39 62.0\u00b0e",
+            "freq": "11555 V 30000 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Colombia   vs   Ghana"
+        },
+        {
             "channel": "ITV 1 England HD",
             "sat": "Astra 2E 28.2\u00b0e",
             "freq": "11344 H 27500 - 2/3",
@@ -3065,6 +3537,14 @@
             "related_to": "     Colombia   vs   Ghana"
         },
         {
+            "channel": "Kan 11 Israel HD",
+            "sat": "Amos 7 4.0\u00b0w",
+            "freq": "11113 H 08518 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Colombia   vs   Ghana"
+        },
+        {
             "channel": "KTRK Sport",
             "sat": "Eutelsat 70B 70.5\u00b0e",
             "freq": "11097 H 23627 - 1/2",
@@ -3086,6 +3566,14 @@
             "freq": "11778 V 29900 - 2/3",
             "encry": "HD Conax",
             "link": "https://m4sport.hu/elo/mtv4live/",
+            "related_to": "     Colombia   vs   Ghana"
+        },
+        {
+            "channel": "Mafken TV Zambia",
+            "sat": "Eutelsat 8 West B 8.0\u00b0w",
+            "freq": "3852 R 14167 - 3/4",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "     Colombia   vs   Ghana"
         },
         {
@@ -3169,6 +3657,14 @@
             "related_to": "     Colombia   vs   Ghana"
         },
         {
+            "channel": "Nova Action HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11876 H 29900 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Colombia   vs   Ghana"
+        },
+        {
             "channel": "NOW Sports HK 4K 616",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -3217,6 +3713,14 @@
             "related_to": "     Colombia   vs   Ghana"
         },
         {
+            "channel": "ORTM 1 Mali",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12604 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Colombia   vs   Ghana"
+        },
+        {
             "channel": "Peacock Premium USA ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -3257,11 +3761,27 @@
             "related_to": "     Colombia   vs   Ghana"
         },
         {
+            "channel": "RCN TV HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "4009 R 09240 - 3/4",
+            "encry": "HD Director",
+            "link": "#",
+            "related_to": "     Colombia   vs   Ghana"
+        },
+        {
             "channel": "RDS Canada",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
             "link": "#",
+            "related_to": "     Colombia   vs   Ghana"
+        },
+        {
+            "channel": "RSI La 2 Svizzera HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "10971 H 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://www.rsi.ch/play/tv/live?tvLiveId=livestream_La2",
             "related_to": "     Colombia   vs   Ghana"
         },
         {
@@ -3313,11 +3833,27 @@
             "related_to": "     Colombia   vs   Ghana"
         },
         {
+            "channel": "RTS 1 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11914 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Colombia   vs   Ghana"
+        },
+        {
             "channel": "RTS 2 Senegal HD",
             "sat": "Amos 17 17.0\u00b0e",
             "freq": "11968 V 34030 - 5/6",
             "encry": "HD Conax",
             "link": "https://live.rts.sn/livetv/rts2",
+            "related_to": "     Colombia   vs   Ghana"
+        },
+        {
+            "channel": "RTS 2 Suisse HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "10971 H 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://www.rts.ch/play/tv/direct?tvLiveId=3608517",
             "related_to": "     Colombia   vs   Ghana"
         },
         {
@@ -3345,6 +3881,22 @@
             "related_to": "     Colombia   vs   Ghana"
         },
         {
+            "channel": "RUV Sjonvarpid",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "11389 H 24500 - 7/8",
+            "encry": "Conax",
+            "link": "#",
+            "related_to": "     Colombia   vs   Ghana"
+        },
+        {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "sat": " \u00b0",
+            "freq": " ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Colombia   vs   Ghana"
+        },
+        {
             "channel": "Sigma TV Cyprus",
             "sat": "Hellas Sat 4 39.0\u00b0e",
             "freq": "11837 H 16515 - 5/6",
@@ -3358,6 +3910,22 @@
             "freq": "11554 H 30000 - 3/4",
             "encry": "HD VideoGuard",
             "link": "https://4d.rtvslo.si/zivo/tvs2",
+            "related_to": "     Colombia   vs   Ghana"
+        },
+        {
+            "channel": "Sport 1 Israel HD",
+            "sat": "Amos 3 4.0\u00b0w",
+            "freq": "10842 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Colombia   vs   Ghana"
+        },
+        {
+            "channel": "Sport 24 In Flight HD",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "4095 R 30000 - 3/4",
+            "encry": "HD PowerVu",
+            "link": "#",
             "related_to": "     Colombia   vs   Ghana"
         },
         {
@@ -3377,6 +3945,14 @@
             "related_to": "     Colombia   vs   Ghana"
         },
         {
+            "channel": "SRF Zwei Schweiz HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "10971 H 29700 - 2/3",
+            "encry": "HD Panaccess",
+            "link": "https://www.srf.ch/play/tv/live?tvLiveId=c49c1d64-9f60-0001-1c36-43c288c01a10",
+            "related_to": "     Colombia   vs   Ghana"
+        },
+        {
             "channel": "STV Player (geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -3389,6 +3965,14 @@
             "sat": "Astra 2E 28.2\u00b0e",
             "freq": "11386 V 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Colombia   vs   Ghana"
+        },
+        {
+            "channel": "Sun Sports TV Zambia",
+            "sat": "SES 5 5.0\u00b0e",
+            "freq": "12380 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     Colombia   vs   Ghana"
         },
@@ -3457,6 +4041,14 @@
             "related_to": "     Colombia   vs   Ghana"
         },
         {
+            "channel": "Teletica 7 (teletica.com/vivo)",
+            "sat": "Intelsat 11 43.1\u00b0w",
+            "freq": "3828 V 03300 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Colombia   vs   Ghana"
+        },
+        {
             "channel": "TRT 1 T\u00fcrkiye HD",
             "sat": "Turksat 3A 42.0\u00b0e",
             "freq": "11096 H 30000 - 5/6",
@@ -3502,6 +4094,14 @@
             "freq": "12303 V 27500 - 2/3",
             "encry": "FTA",
             "link": "https://turkmentv.gov.tm/page/6",
+            "related_to": "     Colombia   vs   Ghana"
+        },
+        {
+            "channel": "TV Klan HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10804 H 29950 - 2/3",
+            "encry": "HD Conax",
+            "link": "#",
             "related_to": "     Colombia   vs   Ghana"
         },
         {
@@ -3553,6 +4153,22 @@
             "related_to": "     Colombia   vs   Ghana"
         },
         {
+            "channel": "TVM Sport+ HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Colombia   vs   Ghana"
+        },
+        {
+            "channel": "TVM+ Malta HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Colombia   vs   Ghana"
+        },
+        {
             "channel": "TVP 2 Polska HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "12265 V 27500 - 3/4",
@@ -3593,10 +4209,34 @@
             "related_to": "     Colombia   vs   Ghana"
         },
         {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Colombia   vs   Ghana"
+        },
+        {
             "channel": "VRT 1 Belgium HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "12188 H 29900 - 2/3",
             "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Colombia   vs   Ghana"
+        },
+        {
+            "channel": "We Sport Moldova ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Colombia   vs   Ghana"
+        },
+        {
+            "channel": "Zap Viva Internacional HD",
+            "sat": "Eutelsat 10B 10.0\u00b0e",
+            "freq": "12734 V 4000",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Colombia   vs   Ghana"
         },
@@ -3699,6 +4339,14 @@
             "related_to": "     Canada   vs   Morocco"
         },
         {
+            "channel": "Fast Sports TV Armenia",
+            "sat": "Eutelsat 70B 70.5\u00b0e",
+            "freq": "11050 H 20030 - 1/2",
+            "encry": "MPEG-4 Biss",
+            "link": "https://fasttv.am/tv-channels/fastsports",
+            "related_to": "     Canada   vs   Morocco"
+        },
+        {
             "channel": "Fubo Sports USA ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -3744,6 +4392,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://play.joj.sk/",
+            "related_to": "     Canada   vs   Morocco"
+        },
+        {
+            "channel": "Kan 11 Israel HD",
+            "sat": "Amos 7 4.0\u00b0w",
+            "freq": "11113 H 08518 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
             "related_to": "     Canada   vs   Morocco"
         },
         {
@@ -3888,6 +4544,14 @@
             "freq": "11554 H 30000 - 3/4",
             "encry": "HD VideoGuard",
             "link": "https://4d.rtvslo.si/zivo/tvs2",
+            "related_to": "     Canada   vs   Morocco"
+        },
+        {
+            "channel": "Sport 1 Israel HD",
+            "sat": "Amos 3 4.0\u00b0w",
+            "freq": "10842 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
             "related_to": "     Canada   vs   Morocco"
         },
         {
@@ -4101,6 +4765,14 @@
             "related_to": "     Paraguay   vs   France"
         },
         {
+            "channel": "BBC One HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "10847 V 23000 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Paraguay   vs   France"
+        },
+        {
             "channel": "BBC Sport [app]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -4194,6 +4866,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://play.joj.sk/",
+            "related_to": "     Paraguay   vs   France"
+        },
+        {
+            "channel": "Kan 11 Israel HD",
+            "sat": "Amos 7 4.0\u00b0w",
+            "freq": "11113 H 08518 - 3/4",
+            "encry": "VideoGuard",
+            "link": "#",
             "related_to": "     Paraguay   vs   France"
         },
         {
@@ -4357,11 +5037,27 @@
             "related_to": "     Paraguay   vs   France"
         },
         {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "sat": " \u00b0",
+            "freq": " ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Paraguay   vs   France"
+        },
+        {
             "channel": "Slovenija TV2 HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11554 H 30000 - 3/4",
             "encry": "HD VideoGuard",
             "link": "https://4d.rtvslo.si/zivo/tvs2",
+            "related_to": "     Paraguay   vs   France"
+        },
+        {
+            "channel": "Sport 1 Israel HD",
+            "sat": "Amos 3 4.0\u00b0w",
+            "freq": "10842 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
             "related_to": "     Paraguay   vs   France"
         },
         {
@@ -4809,6 +5505,14 @@
             "date": "2026-07-06"
         },
         {
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Mexico   vs   England"
+        },
+        {
             "channel": "Arena Sport 1 Slovenija HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -5107,6 +5811,14 @@
             "date": "2026-07-06"
         },
         {
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Portugal   vs   Spain"
+        },
+        {
             "channel": "Arena Sport 1 Slovenija HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -5128,6 +5840,14 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "     Portugal   vs   Spain"
+        },
+        {
+            "channel": "BBC One HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "10847 V 23000 - 3/4",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "     Portugal   vs   Spain"
         },
         {
@@ -5227,6 +5947,30 @@
             "related_to": "     Portugal   vs   Spain"
         },
         {
+            "channel": "MATCH! Futbol 1 HD",
+            "sat": "Horizons 2 84.8\u00b0e",
+            "freq": "11840 H 28800 - 2/3",
+            "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Portugal   vs   Spain"
+        },
+        {
+            "channel": "MATCH! Premier HD",
+            "sat": "Horizons 2 84.8\u00b0e",
+            "freq": "11720 H 28800 - 3/4",
+            "encry": "Conax",
+            "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
+            "related_to": "     Portugal   vs   Spain"
+        },
+        {
+            "channel": "MATCH! Russia HD",
+            "sat": "Yamal 401 90.0\u00b0e",
+            "freq": "3786 R 15284 - 3/4",
+            "encry": "MPEG-4 GoSTcrypt",
+            "link": "#",
+            "related_to": "     Portugal   vs   Spain"
+        },
+        {
             "channel": "MATCH! TV [online] ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -5264,6 +6008,14 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.rts.ch/play/tv/categories/sport",
+            "related_to": "     Portugal   vs   Spain"
+        },
+        {
+            "channel": "RTP 1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "https://www.rtp.pt/play/direto/rtp1",
             "related_to": "     Portugal   vs   Spain"
         },
         {
@@ -5370,6 +6122,14 @@
             "freq": "11494 H 22000 - 2/3",
             "encry": "HD Panaccess",
             "link": "https://live.daserste.de/",
+            "related_to": "     United States   vs   Belgium"
+        },
+        {
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
             "related_to": "     United States   vs   Belgium"
         },
         {
@@ -5639,6 +6399,14 @@
             "related_to": "     Argentina/Cape Verde   vs   Australia/Egypt"
         },
         {
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Argentina/Cape Verde   vs   Australia/Egypt"
+        },
+        {
             "channel": "BarTV Mundial HD",
             "sat": "Astra 1P 19.2\u00b0e",
             "freq": "10818 V 22000 - 2/3",
@@ -5732,6 +6500,30 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": "     Argentina/Cape Verde   vs   Australia/Egypt"
+        },
+        {
+            "channel": "MATCH! Futbol 1 HD",
+            "sat": "Horizons 2 84.8\u00b0e",
+            "freq": "11840 H 28800 - 2/3",
+            "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Argentina/Cape Verde   vs   Australia/Egypt"
+        },
+        {
+            "channel": "MATCH! Premier HD",
+            "sat": "Horizons 2 84.8\u00b0e",
+            "freq": "11720 H 28800 - 3/4",
+            "encry": "Conax",
+            "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
+            "related_to": "     Argentina/Cape Verde   vs   Australia/Egypt"
+        },
+        {
+            "channel": "MATCH! Russia HD",
+            "sat": "Yamal 401 90.0\u00b0e",
+            "freq": "3786 R 15284 - 3/4",
+            "encry": "MPEG-4 GoSTcrypt",
+            "link": "#",
             "related_to": "     Argentina/Cape Verde   vs   Australia/Egypt"
         },
         {
@@ -5913,6 +6705,14 @@
             "related_to": "     Switzerland   vs   Colombia/Ghana"
         },
         {
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Switzerland   vs   Colombia/Ghana"
+        },
+        {
             "channel": "BarTV Mundial HD",
             "sat": "Astra 1P 19.2\u00b0e",
             "freq": "10876 V 22000 - 5/6",
@@ -6022,6 +6822,30 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": "     Switzerland   vs   Colombia/Ghana"
+        },
+        {
+            "channel": "MATCH! Futbol 1 HD",
+            "sat": "Horizons 2 84.8\u00b0e",
+            "freq": "11840 H 28800 - 2/3",
+            "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Switzerland   vs   Colombia/Ghana"
+        },
+        {
+            "channel": "MATCH! Premier HD",
+            "sat": "Horizons 2 84.8\u00b0e",
+            "freq": "11720 H 28800 - 3/4",
+            "encry": "Conax",
+            "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
+            "related_to": "     Switzerland   vs   Colombia/Ghana"
+        },
+        {
+            "channel": "MATCH! Russia HD",
+            "sat": "Yamal 401 90.0\u00b0e",
+            "freq": "3786 R 15284 - 3/4",
+            "encry": "MPEG-4 GoSTcrypt",
+            "link": "#",
             "related_to": "     Switzerland   vs   Colombia/Ghana"
         },
         {
@@ -6235,6 +7059,14 @@
             "related_to": "     Paraguay/France   vs   Canada/Morocco"
         },
         {
+            "channel": "MATCH! TV [online] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://matchtv.ru/video/sports/football",
+            "related_to": "     Paraguay/France   vs   Canada/Morocco"
+        },
+        {
             "channel": "RT\u00c9 2 Ireland HD",
             "sat": "Astra 2E 28.2\u00b0e",
             "freq": "11914 H 27500 - 5/6",
@@ -6314,6 +7146,38 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": "     USA/Belgium   vs   Portugal/Spain"
+        },
+        {
+            "channel": "MATCH! Futbol 1 HD",
+            "sat": "Horizons 2 84.8\u00b0e",
+            "freq": "11840 H 28800 - 2/3",
+            "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     USA/Belgium   vs   Portugal/Spain"
+        },
+        {
+            "channel": "MATCH! Premier HD",
+            "sat": "Horizons 2 84.8\u00b0e",
+            "freq": "11720 H 28800 - 3/4",
+            "encry": "Conax",
+            "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
+            "related_to": "     USA/Belgium   vs   Portugal/Spain"
+        },
+        {
+            "channel": "MATCH! Russia HD",
+            "sat": "Yamal 401 90.0\u00b0e",
+            "freq": "3786 R 15284 - 3/4",
+            "encry": "MPEG-4 GoSTcrypt",
+            "link": "#",
+            "related_to": "     USA/Belgium   vs   Portugal/Spain"
+        },
+        {
+            "channel": "MATCH! TV [online] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://matchtv.ru/video/sports/football",
             "related_to": "     USA/Belgium   vs   Portugal/Spain"
         },
         {
@@ -6399,6 +7263,38 @@
             "related_to": "     Brazil/Norway   vs   Mexico/England"
         },
         {
+            "channel": "MATCH! Futbol 1 HD",
+            "sat": "Horizons 2 84.8\u00b0e",
+            "freq": "11840 H 28800 - 2/3",
+            "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Brazil/Norway   vs   Mexico/England"
+        },
+        {
+            "channel": "MATCH! Premier HD",
+            "sat": "Horizons 2 84.8\u00b0e",
+            "freq": "11720 H 28800 - 3/4",
+            "encry": "Conax",
+            "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
+            "related_to": "     Brazil/Norway   vs   Mexico/England"
+        },
+        {
+            "channel": "MATCH! Russia HD",
+            "sat": "Yamal 401 90.0\u00b0e",
+            "freq": "3786 R 15284 - 3/4",
+            "encry": "MPEG-4 GoSTcrypt",
+            "link": "#",
+            "related_to": "     Brazil/Norway   vs   Mexico/England"
+        },
+        {
+            "channel": "MATCH! TV [online] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://matchtv.ru/video/sports/football",
+            "related_to": "     Brazil/Norway   vs   Mexico/England"
+        },
+        {
             "channel": "RT\u00c9 2 Ireland HD",
             "sat": "Astra 2E 28.2\u00b0e",
             "freq": "11914 H 27500 - 5/6",
@@ -6481,6 +7377,14 @@
             "related_to": "       QUARTER FINAL       "
         },
         {
+            "channel": "MATCH! TV [online] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://matchtv.ru/video/sports/football",
+            "related_to": "       QUARTER FINAL       "
+        },
+        {
             "channel": "RT\u00c9 2 Ireland HD",
             "sat": "Astra 2E 28.2\u00b0e",
             "freq": "11914 H 27500 - 5/6",
@@ -6560,6 +7464,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": "       SEMI FINAL       "
+        },
+        {
+            "channel": "MATCH! TV [online] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://matchtv.ru/video/sports/football",
             "related_to": "       SEMI FINAL       "
         },
         {
@@ -6677,6 +7589,14 @@
             "related_to": "       SEMI FINAL       "
         },
         {
+            "channel": "MATCH! TV [online] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://matchtv.ru/video/sports/football",
+            "related_to": "       SEMI FINAL       "
+        },
+        {
             "channel": "RT\u00c9 2 Ireland HD",
             "sat": "Astra 2E 28.2\u00b0e",
             "freq": "11914 H 27500 - 5/6",
@@ -6759,6 +7679,14 @@
             "related_to": "       3rd PLACE PLAY OFF       "
         },
         {
+            "channel": "MATCH! TV [online] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://matchtv.ru/video/sports/football",
+            "related_to": "       3rd PLACE PLAY OFF       "
+        },
+        {
             "channel": "RT\u00c9 Player (geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -6830,6 +7758,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": "       FINAL       "
+        },
+        {
+            "channel": "MATCH! TV [online] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://matchtv.ru/video/sports/football",
             "related_to": "       FINAL       "
         },
         {
