@@ -495,7 +495,7 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
-            "link": "https://kauppa.telia.fi/kauppa/mtv-katsomo",
+            "link": "https://www.mtv.fi/urheilu",
             "related_to": "     Colombia   vs   Ghana"
         },
         {
@@ -1245,6 +1245,46 @@
             "related_to": "     Canada   vs   Morocco"
         },
         {
+            "channel": "beIN Sports MENA Max 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Canada   vs   Morocco"
+        },
+        {
+            "channel": "beIN Sports MENA Max 3 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Canada   vs   Morocco"
+        },
+        {
+            "channel": "beIN Sports MENA Max 5 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Canada   vs   Morocco"
+        },
+        {
+            "channel": "beIN Sports MENA Max 6 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Canada   vs   Morocco"
+        },
+        {
+            "channel": "Benfica TV HD",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "11304 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Canada   vs   Morocco"
+        },
+        {
             "channel": "BNT 1 Bulgaria HD",
             "sat": "Hellas Sat 3 39.0\u00b0e",
             "freq": "12463 H 30000 - 5/6",
@@ -1258,6 +1298,14 @@
             "freq": "12156 H 30000 - 5/6",
             "encry": "HD NagraVision",
             "link": "https://tv.bnt.bg/bnt3",
+            "related_to": "     Canada   vs   Morocco"
+        },
+        {
+            "channel": "Canal 2 International",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "21576 H 02420 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
             "related_to": "     Canada   vs   Morocco"
         },
         {
@@ -1605,6 +1653,14 @@
             "related_to": "     Canada   vs   Morocco"
         },
         {
+            "channel": "Media Sports Infos",
+            "sat": "Rascom QAF 1R 2.8\u00b0e",
+            "freq": "4071 R 2083 - 3/4",
+            "encry": "MPEG-4 Seca",
+            "link": "#",
+            "related_to": "     Canada   vs   Morocco"
+        },
+        {
             "channel": "Megogo Futbol 1 ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1641,6 +1697,14 @@
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11130 V 30000 - 5/6",
             "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Canada   vs   Morocco"
+        },
+        {
+            "channel": "New World Sport 1 Mauritius",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     Canada   vs   Morocco"
         },
@@ -1682,6 +1746,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://tv.nrk.no/direkte/nrk1",
+            "related_to": "     Canada   vs   Morocco"
+        },
+        {
+            "channel": "ORTB Benin",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10804 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
             "related_to": "     Canada   vs   Morocco"
         },
         {
@@ -1762,6 +1834,14 @@
             "freq": "10971 H 29700 - 2/3",
             "encry": "HD Viaccess",
             "link": "https://www.rsi.ch/play/tv/live?tvLiveId=livestream_La2",
+            "related_to": "     Canada   vs   Morocco"
+        },
+        {
+            "channel": "RTB Z\u00e9nith",
+            "sat": "Eutelsat 3B 3.1\u00b0e",
+            "freq": "3729 L 16833 - 5/6",
+            "encry": "HEVC SD Nagravision",
+            "link": "#",
             "related_to": "     Canada   vs   Morocco"
         },
         {
@@ -1936,6 +2016,14 @@
             "channel": "Sport TV5 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Canada   vs   Morocco"
+        },
+        {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12605 V 30000 - 5/6",
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Canada   vs   Morocco"
@@ -2351,6 +2439,14 @@
             "related_to": "     Paraguay   vs   France"
         },
         {
+            "channel": "BBC iPlayer 4K (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "     Paraguay   vs   France"
+        },
+        {
             "channel": "BBC One HD",
             "sat": "Astra 2E 28.2\u00b0e",
             "freq": "10847 V 23000 - 3/4",
@@ -2387,6 +2483,38 @@
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "11310 H 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Paraguay   vs   France"
+        },
+        {
+            "channel": "beIN Sports MENA Max 2 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Paraguay   vs   France"
+        },
+        {
+            "channel": "beIN Sports MENA Max 4 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Paraguay   vs   France"
+        },
+        {
+            "channel": "beIN Sports MENA Max 5 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Paraguay   vs   France"
+        },
+        {
+            "channel": "beIN Sports MENA Max 6 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Paraguay   vs   France"
         },
@@ -2739,6 +2867,14 @@
             "sat": "Thor 7 0.6\u00b0w",
             "freq": "12476 H 30000 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Paraguay   vs   France"
+        },
+        {
+            "channel": "New World Sport 1 Mauritius",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     Paraguay   vs   France"
         },
@@ -3345,6 +3481,22 @@
             "related_to": "     Brazil   vs   Norway"
         },
         {
+            "channel": "beIN Sports MENA Max 5 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Brazil   vs   Norway"
+        },
+        {
+            "channel": "beIN Sports MENA Max 6 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Brazil   vs   Norway"
+        },
+        {
             "channel": "BNT 1 Bulgaria HD",
             "sat": "Hellas Sat 3 39.0\u00b0e",
             "freq": "12463 H 30000 - 5/6",
@@ -3550,6 +3702,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
+            "related_to": "     Brazil   vs   Norway"
+        },
+        {
+            "channel": "New World Sport 1 Mauritius",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
             "related_to": "     Brazil   vs   Norway"
         },
         {
@@ -4043,6 +4203,22 @@
             "related_to": "     Mexico   vs   England"
         },
         {
+            "channel": "beIN Sports MENA Max 5 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Mexico   vs   England"
+        },
+        {
+            "channel": "beIN Sports MENA Max 6 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Mexico   vs   England"
+        },
+        {
             "channel": "BNT 1 Bulgaria HD",
             "sat": "Hellas Sat 3 39.0\u00b0e",
             "freq": "12463 H 30000 - 5/6",
@@ -4211,6 +4387,14 @@
             "related_to": "     Mexico   vs   England"
         },
         {
+            "channel": "New World Sport 1 Mauritius",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Mexico   vs   England"
+        },
+        {
             "channel": "NOW Sports HK 4K 616",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -4295,6 +4479,14 @@
             "sat": "Hotbird 13G 13.0\u00b0e",
             "freq": "11411 H 27500 - 5/6",
             "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Mexico   vs   England"
+        },
+        {
+            "channel": "RTS 1 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11914 H 30000 - 3/4",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Mexico   vs   England"
         },
@@ -4605,6 +4797,14 @@
             "related_to": "     Portugal   vs   Spain"
         },
         {
+            "channel": "beIN Sports MENA Max 5 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Portugal   vs   Spain"
+        },
+        {
             "channel": "beIN Sports MENA Max 6 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10850 H 27500 - 2/3",
@@ -4813,6 +5013,14 @@
             "related_to": "     Portugal   vs   Spain"
         },
         {
+            "channel": "New World Sport 1 Mauritius",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Portugal   vs   Spain"
+        },
+        {
             "channel": "NOW Sports HK 4K 616",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -4898,6 +5106,14 @@
             "freq": "12360 H 27500 - 3/4",
             "encry": "MPEG-4 Nagra",
             "link": "https://www.rtp.pt/play/direto/rtp1",
+            "related_to": "     Portugal   vs   Spain"
+        },
+        {
+            "channel": "RTS 2 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11914 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
             "related_to": "     Portugal   vs   Spain"
         },
         {
@@ -5061,6 +5277,14 @@
             "related_to": "     Portugal   vs   Spain"
         },
         {
+            "channel": "TVCG 1 HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11817 V 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Portugal   vs   Spain"
+        },
+        {
             "channel": "TVE La 1 HD Espa\u00f1a",
             "sat": "*DTT 0.0\u00b0-",
             "freq": "0000 - -",
@@ -5151,6 +5375,14 @@
             "related_to": "     United States   vs   Belgium"
         },
         {
+            "channel": "Arena Sport 1 Slovenija HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     United States   vs   Belgium"
+        },
+        {
             "channel": "Azam Sports 2 HD",
             "sat": "Eutelsat 7C 7.0\u00b0e",
             "freq": "10981 V 45000 - 5/6",
@@ -5219,6 +5451,22 @@
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "11310 H 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     United States   vs   Belgium"
+        },
+        {
+            "channel": "beIN Sports MENA Max 5 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     United States   vs   Belgium"
+        },
+        {
+            "channel": "beIN Sports MENA Max 6 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     United States   vs   Belgium"
         },
@@ -5372,6 +5620,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://matchtv.ru/video/sports/football",
+            "related_to": "     United States   vs   Belgium"
+        },
+        {
+            "channel": "New World Sport 1 Mauritius",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
             "related_to": "     United States   vs   Belgium"
         },
         {
@@ -5689,6 +5945,14 @@
             "related_to": "     Argentina   vs   Egypt"
         },
         {
+            "channel": "Arena Sport 1 Slovenija HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Argentina   vs   Egypt"
+        },
+        {
             "channel": "Azam Sports 2 HD",
             "sat": "Eutelsat 7C 7.0\u00b0e",
             "freq": "10981 V 45000 - 5/6",
@@ -5725,6 +5989,22 @@
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "11310 H 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Argentina   vs   Egypt"
+        },
+        {
+            "channel": "beIN Sports MENA Max 5 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Argentina   vs   Egypt"
+        },
+        {
+            "channel": "beIN Sports MENA Max 6 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Argentina   vs   Egypt"
         },
@@ -5942,6 +6222,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://matchtv.ru/video/sports/football",
+            "related_to": "     Argentina   vs   Egypt"
+        },
+        {
+            "channel": "New World Sport 1 Mauritius",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
             "related_to": "     Argentina   vs   Egypt"
         },
         {
@@ -6275,6 +6563,14 @@
             "related_to": "     Switzerland   vs   Colombia"
         },
         {
+            "channel": "Arena Sport 1 Slovenija HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Switzerland   vs   Colombia"
+        },
+        {
             "channel": "Azam Sports 2 HD",
             "sat": "Eutelsat 7C 7.0\u00b0e",
             "freq": "10981 V 45000 - 5/6",
@@ -6311,6 +6607,22 @@
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "11310 H 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Switzerland   vs   Colombia"
+        },
+        {
+            "channel": "beIN Sports MENA Max 5 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Switzerland   vs   Colombia"
+        },
+        {
+            "channel": "beIN Sports MENA Max 6 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Switzerland   vs   Colombia"
         },
@@ -6544,6 +6856,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://matchtv.ru/video/sports/football",
+            "related_to": "     Switzerland   vs   Colombia"
+        },
+        {
+            "channel": "New World Sport 1 Mauritius",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
             "related_to": "     Switzerland   vs   Colombia"
         },
         {
@@ -6837,6 +7157,22 @@
             "date": "2026-07-09"
         },
         {
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Paraguay/France   vs   Canada/Morocco"
+        },
+        {
+            "channel": "Arena Sport 1 Slovenija HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Paraguay/France   vs   Canada/Morocco"
+        },
+        {
             "channel": "BarTV Mundial HD",
             "sat": "Astra 1P 19.2\u00b0e",
             "freq": "10876 V 22000 - 5/6",
@@ -6925,6 +7261,14 @@
             },
             "time": "19:00",
             "date": "2026-07-10"
+        },
+        {
+            "channel": "Arena Sport 1 Slovenija HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     USA/Belgium   vs   Portugal/Spain"
         },
         {
             "channel": "BarTV Mundial HD",
@@ -7146,7 +7490,7 @@
         },
         {
             "compet": "FIFA WORLD CUP 2026 - Quarter Final (Kansas City)",
-            "match": "       QUARTER FINAL       ",
+            "match": "     Switzerland/Colombia   vs   Argentina/Egypt",
             "flags": {
                 "team1": "notspecific",
                 "team2": "notspecific"
@@ -7160,7 +7504,7 @@
             "freq": "10876 V 22000 - 5/6",
             "encry": "NagraVision",
             "link": "#",
-            "related_to": "       QUARTER FINAL       "
+            "related_to": "     Switzerland/Colombia   vs   Argentina/Egypt"
         },
         {
             "channel": "DAZN Espa\u00f1a ($/geo/R)",
@@ -7168,7 +7512,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "#",
-            "related_to": "       QUARTER FINAL       "
+            "related_to": "     Switzerland/Colombia   vs   Argentina/Egypt"
         },
         {
             "channel": "DAZN Italia ($/geo/R)",
@@ -7176,7 +7520,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
-            "related_to": "       QUARTER FINAL       "
+            "related_to": "     Switzerland/Colombia   vs   Argentina/Egypt"
         },
         {
             "channel": "DAZN Mundial Espana HD",
@@ -7184,7 +7528,7 @@
             "freq": "10906 V 22000 - 2/3",
             "encry": "HD NagraVision",
             "link": "#",
-            "related_to": "       QUARTER FINAL       "
+            "related_to": "     Switzerland/Colombia   vs   Argentina/Egypt"
         },
         {
             "channel": "Go3 World Cup Baltics ($/geo/R)",
@@ -7192,7 +7536,7 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://go3.ee/fifa2026",
-            "related_to": "       QUARTER FINAL       "
+            "related_to": "     Switzerland/Colombia   vs   Argentina/Egypt"
         },
         {
             "channel": "JOJ Play ($/geo/R)",
@@ -7200,7 +7544,7 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://play.joj.sk/",
-            "related_to": "       QUARTER FINAL       "
+            "related_to": "     Switzerland/Colombia   vs   Argentina/Egypt"
         },
         {
             "channel": "Magenta Sport ($/geo/R)",
@@ -7208,7 +7552,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
-            "related_to": "       QUARTER FINAL       "
+            "related_to": "     Switzerland/Colombia   vs   Argentina/Egypt"
         },
         {
             "channel": "MATCH! TV [online] ($/geo/R)",
@@ -7216,7 +7560,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://matchtv.ru/video/sports/football",
-            "related_to": "       QUARTER FINAL       "
+            "related_to": "     Switzerland/Colombia   vs   Argentina/Egypt"
         },
         {
             "channel": "RT\u00c9 2 Ireland HD",
@@ -7224,7 +7568,7 @@
             "freq": "11914 H 27500 - 5/6",
             "encry": "VideoGuard",
             "link": "#",
-            "related_to": "       QUARTER FINAL       "
+            "related_to": "     Switzerland/Colombia   vs   Argentina/Egypt"
         },
         {
             "channel": "RT\u00c9 Player (geo/R)",
@@ -7232,7 +7576,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.rte.ie/player/onnow",
-            "related_to": "       QUARTER FINAL       "
+            "related_to": "     Switzerland/Colombia   vs   Argentina/Egypt"
         },
         {
             "compet": "FIFA WORLD CUP 2026 - Semi Final (Dallas)",
