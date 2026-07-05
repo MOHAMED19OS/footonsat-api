@@ -889,6 +889,14 @@
             "related_to": "     Brazil   vs   Norway"
         },
         {
+            "channel": "GRTS Gambia",
+            "sat": "Intelsat 905 24.5\u00b0w",
+            "freq": "4070 R 03800 - 1/2",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Brazil   vs   Norway"
+        },
+        {
             "channel": "GTV Ghana",
             "sat": "Express AMU1 36.1\u00b0e",
             "freq": "12418 H 31420 - 3/4",
@@ -1717,6 +1725,22 @@
             "sat": "Intelsat 906 64.0\u00b0e",
             "freq": "3654 R 05632 - 3/4",
             "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Brazil   vs   Norway"
+        },
+        {
+            "channel": "TVM Sport+ HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Brazil   vs   Norway"
+        },
+        {
+            "channel": "TVM+ Malta HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Brazil   vs   Norway"
         },
