@@ -1253,6 +1253,14 @@
             "related_to": "     Portugal   vs   Spain"
         },
         {
+            "channel": "ERT 2 Sport Hellas HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12223 H 13381 - 3/4",
+            "encry": "MPEG-4 Biss",
+            "link": "#",
+            "related_to": "     Portugal   vs   Spain"
+        },
+        {
             "channel": "Eswatini TV",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11170 H 30000 - 5/6",
@@ -2141,6 +2149,14 @@
             "related_to": "     Portugal   vs   Spain"
         },
         {
+            "channel": "TV4 Play Sverige [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "     Portugal   vs   Spain"
+        },
+        {
             "channel": "TV4 Sverige HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "10934 H 25000 - 3/4",
@@ -2507,6 +2523,14 @@
             "sat": "Astra 1L 19.2\u00b0e",
             "freq": "10906 V 22000 - 2/3",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     United States   vs   Belgium"
+        },
+        {
+            "channel": "ERT 1 Hellas HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12242 H 13381 - 3/4",
+            "encry": "HD BISS",
             "link": "#",
             "related_to": "     United States   vs   Belgium"
         },
@@ -3100,6 +3124,14 @@
             "freq": "11938 V 27500 - 5/6",
             "encry": "HD VideoGuard",
             "link": "#",
+            "related_to": "     United States   vs   Belgium"
+        },
+        {
+            "channel": "TV4 Play Sverige [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.tv4play.se/sport",
             "related_to": "     United States   vs   Belgium"
         },
         {
@@ -3953,6 +3985,14 @@
             "related_to": "     Argentina   vs   Egypt"
         },
         {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Argentina   vs   Egypt"
+        },
+        {
             "channel": "Sport TV5 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12360 H 27500 - 3/4",
@@ -4166,6 +4206,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://play.tv2.dk/sport",
+            "related_to": "     Argentina   vs   Egypt"
+        },
+        {
+            "channel": "TV4 Play Sverige [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.tv4play.se/sport",
             "related_to": "     Argentina   vs   Egypt"
         },
         {
@@ -5099,6 +5147,14 @@
             "related_to": "     Switzerland   vs   Colombia"
         },
         {
+            "channel": "SVT Play HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.svtplay.se/",
+            "related_to": "     Switzerland   vs   Colombia"
+        },
+        {
             "channel": "Telemundo USA",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -5437,6 +5493,14 @@
             "related_to": "     France   vs   Morocco"
         },
         {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     France   vs   Morocco"
+        },
+        {
             "channel": "Telemundo USA",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -5493,10 +5557,42 @@
             "related_to": "     France   vs   Morocco"
         },
         {
+            "channel": "TV4 Play Sverige [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "     France   vs   Morocco"
+        },
+        {
+            "channel": "TV4 Sverige HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10934 H 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     France   vs   Morocco"
+        },
+        {
             "channel": "VRT 1 Belgium HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "12188 H 29900 - 2/3",
             "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     France   vs   Morocco"
+        },
+        {
+            "channel": "YLE AREENA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://areena.yle.fi/tv",
+            "related_to": "     France   vs   Morocco"
+        },
+        {
+            "channel": "YLE TV2 Suomi HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10872 H 25000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     France   vs   Morocco"
         },
@@ -5615,6 +5711,30 @@
             "related_to": "     USA/Belgium   vs   Portugal/Spain"
         },
         {
+            "channel": "MTV 3 Suomi HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10809 H 24500 - 7/8",
+            "encry": "Conax",
+            "link": "#",
+            "related_to": "     USA/Belgium   vs   Portugal/Spain"
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "     USA/Belgium   vs   Portugal/Spain"
+        },
+        {
+            "channel": "MTV Urheilu 1 Suomi HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12476 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     USA/Belgium   vs   Portugal/Spain"
+        },
+        {
             "channel": "NPO 1 4K UHD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11895 V 29900 - 2/3",
@@ -5660,6 +5780,14 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.rte.ie/player/onnow",
+            "related_to": "     USA/Belgium   vs   Portugal/Spain"
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
             "related_to": "     USA/Belgium   vs   Portugal/Spain"
         },
         {
@@ -5945,10 +6073,42 @@
             "related_to": "     Norway   vs   England"
         },
         {
+            "channel": "TV4 Play Sverige [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "     Norway   vs   England"
+        },
+        {
+            "channel": "TV4 Sverige HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10934 H 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Norway   vs   England"
+        },
+        {
             "channel": "UTV Northern Ireland HD",
             "sat": "Astra 2E 28.2\u00b0e",
             "freq": "11386 V 27500 - 3/4",
             "encry": "FTA",
+            "link": "#",
+            "related_to": "     Norway   vs   England"
+        },
+        {
+            "channel": "YLE AREENA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://areena.yle.fi/tv",
+            "related_to": "     Norway   vs   England"
+        },
+        {
+            "channel": "YLE TV2 Suomi HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10872 H 25000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Norway   vs   England"
         },
@@ -6032,6 +6192,30 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://matchtv.ru/video/sports/football",
+            "related_to": "     Switzerland/Colombia   vs   Argentina/Egypt"
+        },
+        {
+            "channel": "MTV 3 Suomi HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10809 H 24500 - 7/8",
+            "encry": "Conax",
+            "link": "#",
+            "related_to": "     Switzerland/Colombia   vs   Argentina/Egypt"
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "     Switzerland/Colombia   vs   Argentina/Egypt"
+        },
+        {
+            "channel": "MTV Urheilu 1 Suomi HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12476 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
             "related_to": "     Switzerland/Colombia   vs   Argentina/Egypt"
         },
         {
@@ -6213,6 +6397,14 @@
             "related_to": "       SEMI FINAL       "
         },
         {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "       SEMI FINAL       "
+        },
+        {
             "channel": "TSN Canada 1 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -6250,6 +6442,22 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.tsn.ca/tsnplus",
+            "related_to": "       SEMI FINAL       "
+        },
+        {
+            "channel": "YLE AREENA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://areena.yle.fi/tv",
+            "related_to": "       SEMI FINAL       "
+        },
+        {
+            "channel": "YLE TV2 Suomi HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10872 H 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
             "related_to": "       SEMI FINAL       "
         },
         {
@@ -6367,6 +6575,30 @@
             "related_to": "       SEMI FINAL       "
         },
         {
+            "channel": "MTV 3 Suomi HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10809 H 24500 - 7/8",
+            "encry": "Conax",
+            "link": "#",
+            "related_to": "       SEMI FINAL       "
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "       SEMI FINAL       "
+        },
+        {
+            "channel": "MTV Urheilu 1 Suomi HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12476 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "       SEMI FINAL       "
+        },
+        {
             "channel": "NPO 1 4K UHD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11895 V 29900 - 2/3",
@@ -6396,6 +6628,14 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.rte.ie/player/onnow",
+            "related_to": "       SEMI FINAL       "
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
             "related_to": "       SEMI FINAL       "
         },
         {
@@ -6518,6 +6758,30 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://matchtv.ru/video/sports/football",
+            "related_to": "       3rd PLACE PLAY OFF       "
+        },
+        {
+            "channel": "MTV 3 Suomi HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10809 H 24500 - 7/8",
+            "encry": "Conax",
+            "link": "#",
+            "related_to": "       3rd PLACE PLAY OFF       "
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "       3rd PLACE PLAY OFF       "
+        },
+        {
+            "channel": "MTV Urheilu 1 Suomi HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12476 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
             "related_to": "       3rd PLACE PLAY OFF       "
         },
         {
@@ -6680,6 +6944,22 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.tsn.ca/tsnplus",
+            "related_to": "       FINAL       "
+        },
+        {
+            "channel": "YLE AREENA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://areena.yle.fi/tv",
+            "related_to": "       FINAL       "
+        },
+        {
+            "channel": "YLE TV2 Suomi HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10872 H 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
             "related_to": "       FINAL       "
         },
         {
