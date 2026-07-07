@@ -1227,6 +1227,14 @@
             "related_to": "     Argentina   vs   Egypt"
         },
         {
+            "channel": "Filinfo TV Burkina Faso",
+            "sat": "Eutelsat 3B 3.1\u00b0e",
+            "freq": "3729 L 16833 - 3/5",
+            "encry": "BISS [c]",
+            "link": "#",
+            "related_to": "     Argentina   vs   Egypt"
+        },
+        {
             "channel": "Fox Sports USA 4K",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -2219,6 +2227,14 @@
             "related_to": "     Argentina   vs   Egypt"
         },
         {
+            "channel": "We Sport Moldova ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Argentina   vs   Egypt"
+        },
+        {
             "channel": "YLE AREENA ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2273,6 +2289,24 @@
             "encry": "MPEG-4 Verimatrix",
             "link": "#",
             "related_to": "     Argentina   vs   Egypt"
+        },
+        {
+            "compet": "UEFA Champions League - 1st Qualifying Round (1st Leg)",
+            "match": "     Kauno Zalgiris   vs   Drita",
+            "flags": {
+                "team1": "lithuania",
+                "team2": "kosova"
+            },
+            "time": "16:00",
+            "date": "2026-07-07"
+        },
+        {
+            "channel": "Solidsport Broadcast [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
+            "related_to": "     Kauno Zalgiris   vs   Drita"
         },
         {
             "compet": "UEFA Champions League - 1st Qualifying Round (1st Leg)",
@@ -2411,6 +2445,14 @@
             "related_to": "     Vardar Skopje   vs   KuPS Kuopio"
         },
         {
+            "channel": "Solidsport Broadcast [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
+            "related_to": "     Vardar Skopje   vs   KuPS Kuopio"
+        },
+        {
             "compet": "Friendly Club Match",
             "match": "     Shelbourne   vs   Celtic",
             "flags": {
@@ -2460,6 +2502,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://onefootball.com/en/matches",
+            "related_to": "     Floriana   vs   Shamrock Rovers"
+        },
+        {
+            "channel": "Solidsport Broadcast [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
             "related_to": "     Floriana   vs   Shamrock Rovers"
         },
         {
@@ -2630,6 +2680,22 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://onefootball.com/en/matches",
+            "related_to": "     K\u00cd Klaksv\u00edk   vs   Atert Bissen"
+        },
+        {
+            "channel": "Solidsport Broadcast [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
+            "related_to": "     K\u00cd Klaksv\u00edk   vs   Atert Bissen"
+        },
+        {
+            "channel": "TV KI Faroes ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.ki.fo/kiklaksvik/",
             "related_to": "     K\u00cd Klaksv\u00edk   vs   Atert Bissen"
         },
         {
@@ -3065,6 +3131,14 @@
             "related_to": "     Switzerland   vs   Colombia"
         },
         {
+            "channel": "Jurnal TV Moldova",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Switzerland   vs   Colombia"
+        },
+        {
             "channel": "Kan 11 Israel HD",
             "sat": "Amos 7 4.0\u00b0w",
             "freq": "11113 H 08518 - 3/4",
@@ -3334,6 +3408,14 @@
             "freq": "11411 H 27500 - 5/6",
             "encry": "MPEG-4 Nagra",
             "link": "#",
+            "related_to": "     Switzerland   vs   Colombia"
+        },
+        {
+            "channel": "RTK 1 Kosovo HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10938 H 15835 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "https://www.rtklive.com/sq/livestream/rtk1/",
             "related_to": "     Switzerland   vs   Colombia"
         },
         {
