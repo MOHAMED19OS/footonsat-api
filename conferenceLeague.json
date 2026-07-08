@@ -125,6 +125,14 @@
             "related_to": "     FK Liepaja   vs   Decic Tuzi"
         },
         {
+            "channel": "TVCG 2 HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11817 V 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     FK Liepaja   vs   Decic Tuzi"
+        },
+        {
             "compet": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
             "match": "     Dila Gori   vs   Virtus",
             "flags": {
@@ -161,6 +169,14 @@
             "related_to": "     Alashkert   vs   Yelimay Semey"
         },
         {
+            "channel": "QazSport HD",
+            "sat": "KazSat 2 86.5\u00b0e",
+            "freq": "11495 V 09000 - 8/9",
+            "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Alashkert   vs   Yelimay Semey"
+        },
+        {
             "compet": "UEFA Conference League - 1st Qualifying Round (1st  Leg)",
             "match": "     N\u00f5mme Kalju   vs   Linfield",
             "flags": {
@@ -179,6 +195,14 @@
             "related_to": "     N\u00f5mme Kalju   vs   Linfield"
         },
         {
+            "channel": "Soccernet TV Estonia",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://tv.soccernet.ee/",
+            "related_to": "     N\u00f5mme Kalju   vs   Linfield"
+        },
+        {
             "compet": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
             "match": "     Marsaxlokk   vs   Pyunik",
             "flags": {
@@ -193,6 +217,22 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Marsaxlokk   vs   Pyunik"
+        },
+        {
+            "channel": "TVM Sport+ HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Marsaxlokk   vs   Pyunik"
+        },
+        {
+            "channel": "TVM+ Malta HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Marsaxlokk   vs   Pyunik"
         },
@@ -229,6 +269,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Dynamo Minsk   vs   Sileks"
+        },
+        {
+            "channel": "Belarus 5 HD",
+            "sat": "Belintersat 1 51.5\u00b0e",
+            "freq": "11350 H 45000 - 3/4",
+            "encry": "HD DRE-Crypt",
             "link": "#",
             "related_to": "     Dynamo Minsk   vs   Sileks"
         },
@@ -341,6 +389,22 @@
             "related_to": "     Glentoran   vs   Rigas FS"
         },
         {
+            "channel": "Sporta Centrs TV (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://sportacentrs.com/sportacentrs_tv/live/",
+            "related_to": "     Glentoran   vs   Rigas FS"
+        },
+        {
+            "channel": "TV4 Latvija",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Glentoran   vs   Rigas FS"
+        },
+        {
             "compet": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
             "match": "     Petrovac   vs   Zalgiris",
             "flags": {
@@ -355,6 +419,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Petrovac   vs   Zalgiris"
+        },
+        {
+            "channel": "TVCG 2 HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11817 V 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     Petrovac   vs   Zalgiris"
         },
@@ -427,6 +499,22 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Dinamo City   vs   Astana"
+        },
+        {
+            "channel": "Qazaqstan TV HD",
+            "sat": "KazSat 2 86.5\u00b0e",
+            "freq": "11495 V 09000 - 8/9",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Dinamo City   vs   Astana"
+        },
+        {
+            "channel": "SuperSport 1 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Dinamo City   vs   Astana"
         },
