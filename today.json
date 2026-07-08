@@ -139,6 +139,22 @@
             "related_to": "     Spain U-19   vs   Croatia U-19"
         },
         {
+            "channel": "Bold+ Dansk ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://bold.dk/plus",
+            "related_to": "     Spain U-19   vs   Croatia U-19"
+        },
+        {
+            "channel": "Sport Live Dansk HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "10934 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Spain U-19   vs   Croatia U-19"
+        },
+        {
             "channel": "Sportdigital FUSSBALL HD",
             "sat": "Astra 1L 19.2\u00b0e",
             "freq": "11186 V 22000 - 2/3",
@@ -317,6 +333,24 @@
             "related_to": "     Petrocub   vs   Egnatia"
         },
         {
+            "compet": "Friendly Club Match",
+            "match": "     Fenerbah\u00e7e   vs   Admira Wacker",
+            "flags": {
+                "team1": "turkey",
+                "team2": "austria"
+            },
+            "time": "17:30",
+            "date": "2026-07-08"
+        },
+        {
+            "channel": "TV 100 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "12729 V 30000 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Fenerbah\u00e7e   vs   Admira Wacker"
+        },
+        {
             "compet": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
             "match": "     Connah's Quay   vs   Ballkani",
             "flags": {
@@ -382,6 +416,22 @@
             "channel": "beIN Sports MENA English 2 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "11390 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Ukraine U-19   vs   Germany U-19"
+        },
+        {
+            "channel": "Bold+ Dansk ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://bold.dk/plus",
+            "related_to": "     Ukraine U-19   vs   Germany U-19"
+        },
+        {
+            "channel": "Sport Live Dansk HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "10934 V 25000 - 3/4",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Ukraine U-19   vs   Germany U-19"
