@@ -243,6 +243,14 @@
             "related_to": "     France   vs   Morocco"
         },
         {
+            "channel": "Eswatini TV",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11170 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     France   vs   Morocco"
+        },
+        {
             "channel": "Fast Sports [online] ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -304,6 +312,14 @@
             "freq": "11610 H 20200 - 3/4",
             "encry": "MPEG-4 Verimatrix",
             "link": "#",
+            "related_to": "     France   vs   Morocco"
+        },
+        {
+            "channel": "Gabon 1\u00e8re",
+            "sat": "SES 5 5.0\u00b0e",
+            "freq": "11766 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "https://www.groupegabontelevisions.net/live",
             "related_to": "     France   vs   Morocco"
         },
         {
@@ -404,8 +420,8 @@
         },
         {
             "channel": "Kan 11 Israel HD",
-            "sat": "Amos 7 4.0\u00b0w",
-            "freq": "11113 H 08518 - 3/4",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11140 H 27500 - 3/4",
             "encry": "VideoGuard",
             "link": "#",
             "related_to": "     France   vs   Morocco"
@@ -423,6 +439,14 @@
             "sat": "Express AMU1 36.1\u00b0e",
             "freq": "12188 V 27500 - 2/3",
             "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     France   vs   Morocco"
+        },
+        {
+            "channel": "KTRK Sport",
+            "sat": "Eutelsat 70B 70.5\u00b0e",
+            "freq": "11097 H 23627 - 1/2",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     France   vs   Morocco"
         },
@@ -488,6 +512,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://matchtv.ru/video/sports/football",
+            "related_to": "     France   vs   Morocco"
+        },
+        {
+            "channel": "Media Sports Infos",
+            "sat": "Rascom QAF 1R 2.8\u00b0e",
+            "freq": "4071 R 2083 - 3/4",
+            "encry": "MPEG-4 Seca",
+            "link": "#",
             "related_to": "     France   vs   Morocco"
         },
         {
@@ -579,11 +611,35 @@
             "related_to": "     France   vs   Morocco"
         },
         {
+            "channel": "ORTM 2 Mali",
+            "sat": "Intelsat 37e 18.0\u00b0w",
+            "freq": "4129 L 02060 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     France   vs   Morocco"
+        },
+        {
             "channel": "Peacock Premium USA ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
             "link": "#",
+            "related_to": "     France   vs   Morocco"
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     France   vs   Morocco"
+        },
+        {
+            "channel": "Persiana Sports 2 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
             "related_to": "     France   vs   Morocco"
         },
         {
@@ -654,7 +710,15 @@
             "channel": "RTBF Tipik Belgique",
             "sat": "Hotbird 13G 13.0\u00b0e",
             "freq": "11411 H 27500 - 5/6",
-            "encry": "MPEG-4 Nagra",
+            "encry": "MPEG-4 Viaccess",
+            "link": "#",
+            "related_to": "     France   vs   Morocco"
+        },
+        {
+            "channel": "RTG Guinea",
+            "sat": "SES 5 5.0\u00b0e",
+            "freq": "11766 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     France   vs   Morocco"
         },
@@ -667,11 +731,35 @@
             "related_to": "     France   vs   Morocco"
         },
         {
+            "channel": "RTNC Congo DR",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "11387 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     France   vs   Morocco"
+        },
+        {
+            "channel": "RTS 1 Senegal HD",
+            "sat": "AsiaSat 5 100.5\u00b0e",
+            "freq": "4080 H 30000 - 5/6",
+            "encry": "MPEG-4 Conax",
+            "link": "https://live.rts.sn/livetv/rts1",
+            "related_to": "     France   vs   Morocco"
+        },
+        {
             "channel": "RTS 1 Srbija HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11914 H 30000 - 3/4",
             "encry": "HD Conax",
             "link": "#",
+            "related_to": "     France   vs   Morocco"
+        },
+        {
+            "channel": "RTS 2 Senegal HD",
+            "sat": "Amos 17 17.0\u00b0e",
+            "freq": "11968 V 34030 - 5/6",
+            "encry": "HD Conax",
+            "link": "https://live.rts.sn/livetv/rts2",
             "related_to": "     France   vs   Morocco"
         },
         {
@@ -739,9 +827,25 @@
             "related_to": "     France   vs   Morocco"
         },
         {
+            "channel": "Sigma TV Cyprus",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "11837 H 16515 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     France   vs   Morocco"
+        },
+        {
+            "channel": "Slovenija TV2 HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11554 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "https://4d.rtvslo.si/zivo/tvs2",
+            "related_to": "     France   vs   Morocco"
+        },
+        {
             "channel": "Sport 1 Israel HD",
-            "sat": "Amos 3 4.0\u00b0w",
-            "freq": "10842 V 30000 - 2/3",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     France   vs   Morocco"
@@ -875,6 +979,14 @@
             "related_to": "     France   vs   Morocco"
         },
         {
+            "channel": "Tele Congo",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12149 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     France   vs   Morocco"
+        },
+        {
             "channel": "Telemundo USA",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -995,6 +1107,30 @@
             "related_to": "     France   vs   Morocco"
         },
         {
+            "channel": "TV3 Estonia HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11938 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     France   vs   Morocco"
+        },
+        {
+            "channel": "TV3 Ghana",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12522 V 27000 - 7/8",
+            "encry": "MPEG-4 Biss",
+            "link": "#",
+            "related_to": "     France   vs   Morocco"
+        },
+        {
+            "channel": "TV3 Lietuva HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11938 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     France   vs   Morocco"
+        },
+        {
             "channel": "TV4 Play Sverige [online]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1011,10 +1147,42 @@
             "related_to": "     France   vs   Morocco"
         },
         {
+            "channel": "TV6 Latvija",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11785 V 27500 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     France   vs   Morocco"
+        },
+        {
             "channel": "TVCG 1 HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11817 V 30000 - 3/4",
             "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     France   vs   Morocco"
+        },
+        {
+            "channel": "TVE La 1 HD Espa\u00f1a",
+            "sat": "*DTT 0.0\u00b0-",
+            "freq": "0000 - -",
+            "encry": "NagraVision",
+            "link": "http://www.rtve.es/directo/la-1/",
+            "related_to": "     France   vs   Morocco"
+        },
+        {
+            "channel": "TVE La 1 UHD 4K",
+            "sat": "*DTT 0.0\u00b0-",
+            "freq": "0000 - -",
+            "encry": "Free To Air UHD",
+            "link": "#",
+            "related_to": "     France   vs   Morocco"
+        },
+        {
+            "channel": "TVE La 2 Cat",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     France   vs   Morocco"
         },
@@ -1067,10 +1235,26 @@
             "related_to": "     France   vs   Morocco"
         },
         {
+            "channel": "TVT Togo",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12525 V 30000 - 5/6",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     France   vs   Morocco"
+        },
+        {
             "channel": "T\u00e9l\u00e9 Sahel Niger",
             "sat": "Badr 8 26.0\u00b0e",
             "freq": "4099 L 20000 - 2/3",
             "encry": "HEVC SD Nagravision",
+            "link": "#",
+            "related_to": "     France   vs   Morocco"
+        },
+        {
+            "channel": "T\u00e9l\u00e9 Tchad",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12687 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     France   vs   Morocco"
         },
@@ -1127,6 +1311,14 @@
             "sat": "Eutelsat 36D 35.9\u00b0e",
             "freq": "11263 V 30000 - 5/6",
             "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     France   vs   Morocco"
+        },
+        {
+            "channel": "Zap Viva Internacional HD",
+            "sat": "Eutelsat 10B 10.0\u00b0e",
+            "freq": "12734 V 4000",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     France   vs   Morocco"
         },
@@ -1486,9 +1678,17 @@
         },
         {
             "channel": "Kan 11 Israel HD",
-            "sat": "Amos 7 4.0\u00b0w",
-            "freq": "11113 H 08518 - 3/4",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11140 H 27500 - 3/4",
             "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Spain   vs   Belgium"
+        },
+        {
+            "channel": "KTRK Sport",
+            "sat": "Eutelsat 70B 70.5\u00b0e",
+            "freq": "11097 H 23627 - 1/2",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Spain   vs   Belgium"
         },
@@ -1677,6 +1877,22 @@
             "related_to": "     Spain   vs   Belgium"
         },
         {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Spain   vs   Belgium"
+        },
+        {
+            "channel": "Persiana Sports 2 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
+            "related_to": "     Spain   vs   Belgium"
+        },
+        {
             "channel": "Play RTS Sport (geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1730,6 +1946,14 @@
             "freq": "11411 H 27500 - 5/6",
             "encry": "HD Viaccess",
             "link": "#",
+            "related_to": "     Spain   vs   Belgium"
+        },
+        {
+            "channel": "RTK 1 Kosovo HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10938 H 15835 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "https://www.rtklive.com/sq/livestream/rtk1/",
             "related_to": "     Spain   vs   Belgium"
         },
         {
@@ -1797,9 +2021,25 @@
             "related_to": "     Spain   vs   Belgium"
         },
         {
+            "channel": "Sigma TV Cyprus",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "11837 H 16515 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Spain   vs   Belgium"
+        },
+        {
+            "channel": "Slovenija TV2 HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11554 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "https://4d.rtvslo.si/zivo/tvs2",
+            "related_to": "     Spain   vs   Belgium"
+        },
+        {
             "channel": "Sport 1 Israel HD",
-            "sat": "Amos 3 4.0\u00b0w",
-            "freq": "10842 V 30000 - 2/3",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Spain   vs   Belgium"
@@ -2247,6 +2487,14 @@
             "related_to": "     Norway   vs   England"
         },
         {
+            "channel": "Eswatini TV",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11170 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Norway   vs   England"
+        },
+        {
             "channel": "Fast Sports [online] ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -2300,6 +2548,14 @@
             "freq": "11610 H 20200 - 3/4",
             "encry": "MPEG-4 Verimatrix",
             "link": "#",
+            "related_to": "     Norway   vs   England"
+        },
+        {
+            "channel": "Gabon 1\u00e8re",
+            "sat": "SES 5 5.0\u00b0e",
+            "freq": "11766 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "https://www.groupegabontelevisions.net/live",
             "related_to": "     Norway   vs   England"
         },
         {
@@ -2392,8 +2648,8 @@
         },
         {
             "channel": "Kan 11 Israel HD",
-            "sat": "Amos 7 4.0\u00b0w",
-            "freq": "11113 H 08518 - 3/4",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11140 H 27500 - 3/4",
             "encry": "VideoGuard",
             "link": "#",
             "related_to": "     Norway   vs   England"
@@ -2411,6 +2667,14 @@
             "sat": "Express AMU1 36.1\u00b0e",
             "freq": "12188 V 27500 - 2/3",
             "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Norway   vs   England"
+        },
+        {
+            "channel": "KTRK Sport",
+            "sat": "Eutelsat 70B 70.5\u00b0e",
+            "freq": "11097 H 23627 - 1/2",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Norway   vs   England"
         },
@@ -2503,6 +2767,14 @@
             "related_to": "     Norway   vs   England"
         },
         {
+            "channel": "Media Sports Infos",
+            "sat": "Rascom QAF 1R 2.8\u00b0e",
+            "freq": "4071 R 2083 - 3/4",
+            "encry": "MPEG-4 Seca",
+            "link": "#",
+            "related_to": "     Norway   vs   England"
+        },
+        {
             "channel": "Megogo Futbol 1 ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2567,6 +2839,22 @@
             "related_to": "     Norway   vs   England"
         },
         {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Norway   vs   England"
+        },
+        {
+            "channel": "Persiana Sports 2 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
+            "related_to": "     Norway   vs   England"
+        },
+        {
             "channel": "Play RTS Sport (geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2623,11 +2911,43 @@
             "related_to": "     Norway   vs   England"
         },
         {
+            "channel": "RTG Guinea",
+            "sat": "SES 5 5.0\u00b0e",
+            "freq": "11766 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Norway   vs   England"
+        },
+        {
+            "channel": "RTNC Congo DR",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "11387 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Norway   vs   England"
+        },
+        {
+            "channel": "RTS 1 Senegal HD",
+            "sat": "AsiaSat 5 100.5\u00b0e",
+            "freq": "4080 H 30000 - 5/6",
+            "encry": "MPEG-4 Conax",
+            "link": "https://live.rts.sn/livetv/rts1",
+            "related_to": "     Norway   vs   England"
+        },
+        {
             "channel": "RTS 1 Srbija HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11914 H 30000 - 3/4",
             "encry": "HD Conax",
             "link": "#",
+            "related_to": "     Norway   vs   England"
+        },
+        {
+            "channel": "RTS 2 Senegal HD",
+            "sat": "Amos 17 17.0\u00b0e",
+            "freq": "11968 V 34030 - 5/6",
+            "encry": "HD Conax",
+            "link": "https://live.rts.sn/livetv/rts2",
             "related_to": "     Norway   vs   England"
         },
         {
@@ -2695,9 +3015,25 @@
             "related_to": "     Norway   vs   England"
         },
         {
+            "channel": "Sigma TV Cyprus",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "11837 H 16515 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Norway   vs   England"
+        },
+        {
+            "channel": "Slovenija TV2 HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11554 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "https://4d.rtvslo.si/zivo/tvs2",
+            "related_to": "     Norway   vs   England"
+        },
+        {
             "channel": "Sport 1 Israel HD",
-            "sat": "Amos 3 4.0\u00b0w",
-            "freq": "10842 V 30000 - 2/3",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Norway   vs   England"
@@ -2811,6 +3147,14 @@
             "sat": "Intelsat 22 72.1\u00b0e",
             "freq": "4120 L 9583 - 3/4",
             "encry": "MPEG-4 Crypto",
+            "link": "#",
+            "related_to": "     Norway   vs   England"
+        },
+        {
+            "channel": "Tele Congo",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12149 V 27500 - 3/4",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Norway   vs   England"
         },
@@ -2983,10 +3327,26 @@
             "related_to": "     Norway   vs   England"
         },
         {
+            "channel": "TVT Togo",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12525 V 30000 - 5/6",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Norway   vs   England"
+        },
+        {
             "channel": "T\u00e9l\u00e9 Sahel Niger",
             "sat": "Badr 8 26.0\u00b0e",
             "freq": "4099 L 20000 - 2/3",
             "encry": "HEVC SD Nagravision",
+            "link": "#",
+            "related_to": "     Norway   vs   England"
+        },
+        {
+            "channel": "T\u00e9l\u00e9 Tchad",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12687 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     Norway   vs   England"
         },
@@ -3321,14 +3681,6 @@
             "related_to": "     Argentina   vs   Switzerland"
         },
         {
-            "channel": "Ictimai TV HD",
-            "sat": "AzerSpace 1 46.0\u00b0e",
-            "freq": "11095 H 30000 - 5/6",
-            "encry": "FTA",
-            "link": "#",
-            "related_to": "     Argentina   vs   Switzerland"
-        },
-        {
             "channel": "ITV 1 England HD",
             "sat": "Astra 2E 28.2\u00b0e",
             "freq": "11344 H 27500 - 2/3",
@@ -3354,9 +3706,17 @@
         },
         {
             "channel": "Kan 11 Israel HD",
-            "sat": "Amos 7 4.0\u00b0w",
-            "freq": "11113 H 08518 - 3/4",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11140 H 27500 - 3/4",
             "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Argentina   vs   Switzerland"
+        },
+        {
+            "channel": "KTRK Sport",
+            "sat": "Eutelsat 70B 70.5\u00b0e",
+            "freq": "11097 H 23627 - 1/2",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Argentina   vs   Switzerland"
         },
@@ -3481,6 +3841,22 @@
             "related_to": "     Argentina   vs   Switzerland"
         },
         {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Argentina   vs   Switzerland"
+        },
+        {
+            "channel": "Persiana Sports 2 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
+            "related_to": "     Argentina   vs   Switzerland"
+        },
+        {
             "channel": "Play RTS Sport (geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -3518,6 +3894,14 @@
             "freq": "11411 H 27500 - 5/6",
             "encry": "MPEG-4 Nagra",
             "link": "#",
+            "related_to": "     Argentina   vs   Switzerland"
+        },
+        {
+            "channel": "RTK 1 Kosovo HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10938 H 15835 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "https://www.rtklive.com/sq/livestream/rtk1/",
             "related_to": "     Argentina   vs   Switzerland"
         },
         {
@@ -3577,9 +3961,25 @@
             "related_to": "     Argentina   vs   Switzerland"
         },
         {
+            "channel": "Sigma TV Cyprus",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "11837 H 16515 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Argentina   vs   Switzerland"
+        },
+        {
+            "channel": "Slovenija TV2 HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11554 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "https://4d.rtvslo.si/zivo/tvs2",
+            "related_to": "     Argentina   vs   Switzerland"
+        },
+        {
             "channel": "Sport 1 Israel HD",
-            "sat": "Amos 3 4.0\u00b0w",
-            "freq": "10842 V 30000 - 2/3",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Argentina   vs   Switzerland"
@@ -3995,6 +4395,14 @@
             "related_to": "     France or Morocco   vs   Spain or Belgium"
         },
         {
+            "channel": "Sport 1 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     France or Morocco   vs   Spain or Belgium"
+        },
+        {
             "channel": "Sport TV1 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
@@ -4285,6 +4693,30 @@
             "related_to": "     Norway or England   vs   Argentina or Switzerland"
         },
         {
+            "channel": "MATCH! Futbol 1 HD",
+            "sat": "Horizons 2 84.8\u00b0e",
+            "freq": "11840 H 28800 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Norway or England   vs   Argentina or Switzerland"
+        },
+        {
+            "channel": "MATCH! Premier HD",
+            "sat": "Horizons 2 84.8\u00b0e",
+            "freq": "11720 H 28800 - 3/4",
+            "encry": "Conax",
+            "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
+            "related_to": "     Norway or England   vs   Argentina or Switzerland"
+        },
+        {
+            "channel": "MATCH! Russia HD",
+            "sat": "Yamal 401 90.0\u00b0e",
+            "freq": "3786 R 15284 - 3/4",
+            "encry": "MPEG-4 GoSTcrypt",
+            "link": "#",
+            "related_to": "     Norway or England   vs   Argentina or Switzerland"
+        },
+        {
             "channel": "MATCH! TV [online] ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -4362,6 +4794,14 @@
             "freq": "11554 H 30000 - 3/4",
             "encry": "HD VideoGuard",
             "link": "https://4d.rtvslo.si/zivo/tvs2",
+            "related_to": "     Norway or England   vs   Argentina or Switzerland"
+        },
+        {
+            "channel": "Sport 1 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
             "related_to": "     Norway or England   vs   Argentina or Switzerland"
         },
         {
@@ -4671,6 +5111,14 @@
             "related_to": "       3rd PLACE PLAY OFF       "
         },
         {
+            "channel": "Sport 1 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "       3rd PLACE PLAY OFF       "
+        },
+        {
             "channel": "Sport TV1 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
@@ -4857,6 +5305,30 @@
             "related_to": "       FINAL       "
         },
         {
+            "channel": "MATCH! Futbol 1 HD",
+            "sat": "Horizons 2 84.8\u00b0e",
+            "freq": "11840 H 28800 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "       FINAL       "
+        },
+        {
+            "channel": "MATCH! Premier HD",
+            "sat": "Horizons 2 84.8\u00b0e",
+            "freq": "11720 H 28800 - 3/4",
+            "encry": "Conax",
+            "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
+            "related_to": "       FINAL       "
+        },
+        {
+            "channel": "MATCH! Russia HD",
+            "sat": "Yamal 401 90.0\u00b0e",
+            "freq": "3786 R 15284 - 3/4",
+            "encry": "MPEG-4 GoSTcrypt",
+            "link": "#",
+            "related_to": "       FINAL       "
+        },
+        {
             "channel": "MATCH! TV [online] ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -4910,6 +5382,14 @@
             "freq": "11554 H 30000 - 3/4",
             "encry": "HD VideoGuard",
             "link": "https://4d.rtvslo.si/zivo/tvs2",
+            "related_to": "       FINAL       "
+        },
+        {
+            "channel": "Sport 1 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
             "related_to": "       FINAL       "
         },
         {
