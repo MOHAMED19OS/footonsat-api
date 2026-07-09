@@ -1,6 +1,24 @@
 {
     "footonsat": [
         {
+            "compet": "Dutch Eerste Divisie - Week 1",
+            "match": "     Vitesse Arnhem   vs   RKC Waalwijk",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "18:00",
+            "date": "2026-08-07"
+        },
+        {
+            "channel": "ESPN 4 Nederland HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11739 V 29900 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Vitesse Arnhem   vs   RKC Waalwijk"
+        },
+        {
             "compet": "Dutch Eredivisie - Week 1",
             "match": "     Cambuur-Leeuwarden   vs   Excelsior",
             "flags": {
