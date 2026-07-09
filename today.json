@@ -1,6 +1,42 @@
 {
     "footonsat": [
         {
+            "compet": "USL Championship - Group Stage",
+            "match": "     Hartford Athletic   vs   Orange County",
+            "flags": {
+                "team1": "usa",
+                "team2": "usa"
+            },
+            "time": "23:00",
+            "date": "2026-07-08"
+        },
+        {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Hartford Athletic   vs   Orange County"
+        },
+        {
+            "compet": "USL Championship - Group Stage",
+            "match": "     Sacramento Republic   vs   Rhode Island",
+            "flags": {
+                "team1": "usa",
+                "team2": "usa"
+            },
+            "time": "02:30",
+            "date": "2026-07-09"
+        },
+        {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Sacramento Republic   vs   Rhode Island"
+        },
+        {
             "compet": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
             "match": "     Atletic Escaldes   vs   Mornar",
             "flags": {
@@ -113,14 +149,6 @@
             },
             "time": "16:00",
             "date": "2026-07-09"
-        },
-        {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Dila Gori   vs   Virtus"
         },
         {
             "channel": "Titani TV ($/geo/R)",
@@ -272,6 +300,40 @@
         },
         {
             "compet": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
+            "match": "     Marsaxlokk   vs   Pyunik",
+            "flags": {
+                "team1": "malta",
+                "team2": "armenia"
+            },
+            "time": "17:00",
+            "date": "2026-07-09"
+        },
+        {
+            "channel": "Armenia First TV",
+            "sat": "Eutelsat 70B 70.5\u00b0e",
+            "freq": "11050 H 20030 - 1/2",
+            "encry": "MPEG-4 Biss",
+            "link": "https://www.1tv.am/en/schedule/metric",
+            "related_to": "     Marsaxlokk   vs   Pyunik"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     Marsaxlokk   vs   Pyunik"
+        },
+        {
+            "channel": "TVM+ Malta HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Marsaxlokk   vs   Pyunik"
+        },
+        {
+            "compet": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
             "match": "     Velez Mostar   vs   Milsami Orhei",
             "flags": {
                 "team1": "bosnia",
@@ -374,40 +436,6 @@
         },
         {
             "compet": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
-            "match": "     Marsaxlokk   vs   Pyunik",
-            "flags": {
-                "team1": "malta",
-                "team2": "armenia"
-            },
-            "time": "17:00",
-            "date": "2026-07-09"
-        },
-        {
-            "channel": "Armenia First TV",
-            "sat": "Eutelsat 70B 70.5\u00b0e",
-            "freq": "11050 H 20030 - 1/2",
-            "encry": "MPEG-4 Biss",
-            "link": "https://www.1tv.am/en/schedule/metric",
-            "related_to": "     Marsaxlokk   vs   Pyunik"
-        },
-        {
-            "channel": "TVM Sport+ HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Marsaxlokk   vs   Pyunik"
-        },
-        {
-            "channel": "TVM+ Malta HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Marsaxlokk   vs   Pyunik"
-        },
-        {
-            "compet": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
             "match": "     Bohemians   vs   St Joseph's",
             "flags": {
                 "team1": "ireland",
@@ -462,6 +490,40 @@
         },
         {
             "compet": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
+            "match": "     Caernarfon Town   vs   FCI Levadia",
+            "flags": {
+                "team1": "wales",
+                "team2": "estonia"
+            },
+            "time": "17:30",
+            "date": "2026-07-09"
+        },
+        {
+            "channel": "Cymru Football TV [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.cymrufootball.tv/en",
+            "related_to": "     Caernarfon Town   vs   FCI Levadia"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     Caernarfon Town   vs   FCI Levadia"
+        },
+        {
+            "channel": "Soccernet TV Estonia",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://tv.soccernet.ee/",
+            "related_to": "     Caernarfon Town   vs   FCI Levadia"
+        },
+        {
+            "compet": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
             "match": "     Europa   vs   Shk\u00ebndija",
             "flags": {
                 "team1": "gibraltar",
@@ -488,32 +550,6 @@
         },
         {
             "compet": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
-            "match": "     Caernarfon Town   vs   FCI Levadia",
-            "flags": {
-                "team1": "wales",
-                "team2": "estonia"
-            },
-            "time": "17:30",
-            "date": "2026-07-09"
-        },
-        {
-            "channel": "Cymru Football TV [$]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.cymrufootball.tv/en",
-            "related_to": "     Caernarfon Town   vs   FCI Levadia"
-        },
-        {
-            "channel": "Soccernet TV Estonia",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://tv.soccernet.ee/",
-            "related_to": "     Caernarfon Town   vs   FCI Levadia"
-        },
-        {
-            "compet": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
             "match": "     Vllaznia Shkod\u00ebr   vs   Malisheva",
             "flags": {
                 "team1": "albania",
@@ -521,6 +557,14 @@
             },
             "time": "18:00",
             "date": "2026-07-09"
+        },
+        {
+            "channel": "RTSH 1 Albania",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Vllaznia Shkod\u00ebr   vs   Malisheva"
         },
         {
             "channel": "RTSH Sport Albania",
@@ -653,6 +697,14 @@
             "related_to": "     Glentoran   vs   Rigas FS"
         },
         {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     Glentoran   vs   Rigas FS"
+        },
+        {
             "channel": "Sporta Centrs TV (geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -667,6 +719,32 @@
             "encry": "",
             "link": "#",
             "related_to": "     Glentoran   vs   Rigas FS"
+        },
+        {
+            "compet": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
+            "match": "     Pen-Y-Bont   vs   FC Santa Coloma",
+            "flags": {
+                "team1": "wales",
+                "team2": "andorra"
+            },
+            "time": "18:45",
+            "date": "2026-07-09"
+        },
+        {
+            "channel": "Cymru Football TV [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.cymrufootball.tv/en",
+            "related_to": "     Pen-Y-Bont   vs   FC Santa Coloma"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     Pen-Y-Bont   vs   FC Santa Coloma"
         },
         {
             "compet": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
@@ -711,24 +789,6 @@
             "encry": "",
             "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
             "related_to": "     NSI Runavik   vs   Hamrun Spartans"
-        },
-        {
-            "compet": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
-            "match": "     Pen-Y-Bont   vs   FC Santa Coloma",
-            "flags": {
-                "team1": "wales",
-                "team2": "andorra"
-            },
-            "time": "18:45",
-            "date": "2026-07-09"
-        },
-        {
-            "channel": "Cymru Football TV [$]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.cymrufootball.tv/en",
-            "related_to": "     Pen-Y-Bont   vs   FC Santa Coloma"
         },
         {
             "compet": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
@@ -1309,6 +1369,14 @@
             "sat": "Express AMU1 36.1\u00b0e",
             "freq": "12188 V 27500 - 2/3",
             "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     France   vs   Morocco"
+        },
+        {
+            "channel": "Klan Sport 1 HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10930 H 30000 - 5/6",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     France   vs   Morocco"
         },
