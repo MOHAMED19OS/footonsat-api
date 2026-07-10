@@ -185,6 +185,22 @@
             "related_to": "     Germany U-19   vs   Spain U-19"
         },
         {
+            "channel": "ViaPlay Sport Sverige HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Germany U-19   vs   Spain U-19"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Germany U-19   vs   Spain U-19"
+        },
+        {
             "channel": "Ziggo Sport 2",
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12129 V 29900 - 3/4",
@@ -1781,11 +1797,27 @@
             "related_to": "     Spain   vs   Belgium"
         },
         {
+            "channel": "ZBC Zimbabwe HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11474 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Spain   vs   Belgium"
+        },
+        {
             "channel": "ZDF Deutschland HD",
             "sat": "Astra 1P 19.2\u00b0e",
             "freq": "11362 H 22000 - 2/3",
             "encry": "HD Panaccess",
             "link": "https://www.zdf.de/live-tv",
+            "related_to": "     Spain   vs   Belgium"
+        },
+        {
+            "channel": "ZNBC TV 1",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11130 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
             "related_to": "     Spain   vs   Belgium"
         },
         {
@@ -1839,12 +1871,22 @@
             "related_to": "     Waterford   vs   St Patrick's Athletic"
         },
         {
-            "channel": "Virgin Media Two HD",
-            "sat": "Astra 2E 28.2\u00b0e",
-            "freq": "11856 V 27500 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Waterford   vs   St Patrick's Athletic"
+            "compet": "Uruguay Primera Divisi\u00f3n - Torneo Intermedio - 5",
+            "match": "     Deportivo Maldonado   vs   Albion FC",
+            "flags": {
+                "team1": "uraguay",
+                "team2": "uraguay"
+            },
+            "time": "22:00",
+            "date": "2026-07-10"
+        },
+        {
+            "channel": "Antel TV Internacional 1 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://login.vera.com.uy/login",
+            "related_to": "     Deportivo Maldonado   vs   Albion FC"
         },
         {
             "compet": "Ecuadorian Liga Pro Serie A - Week 18",
