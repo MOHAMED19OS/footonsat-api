@@ -193,6 +193,50 @@
             "related_to": "     Germany U-19   vs   Spain U-19"
         },
         {
+            "compet": "Finnish Veikkausliiga - Week 15",
+            "match": "     VPS Vaasa   vs   SJK Sein\u00e4joki",
+            "flags": {
+                "team1": "finland",
+                "team2": "finland"
+            },
+            "time": "16:00",
+            "date": "2026-07-10"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     VPS Vaasa   vs   SJK Sein\u00e4joki"
+        },
+        {
+            "channel": "Ruutu+ Suomi ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.ruutu.fi/urheilu",
+            "related_to": "     VPS Vaasa   vs   SJK Sein\u00e4joki"
+        },
+        {
+            "compet": "Estonian Meistriliiga - Week 19",
+            "match": "     Harju JK Laagri   vs   Narva Trans",
+            "flags": {
+                "team1": "estonia",
+                "team2": "estonia"
+            },
+            "time": "16:00",
+            "date": "2026-07-10"
+        },
+        {
+            "channel": "ETV 2 Estonia",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11938 V 27500 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Harju JK Laagri   vs   Narva Trans"
+        },
+        {
             "compet": "Friendly Club Match",
             "match": "     Ajax   vs   AEK Larnaca",
             "flags": {
@@ -209,24 +253,6 @@
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Ajax   vs   AEK Larnaca"
-        },
-        {
-            "compet": "Finnish Veikkausliiga - Week 15",
-            "match": "     VPS Vaasa   vs   SJK Sein\u00e4joki",
-            "flags": {
-                "team1": "finland",
-                "team2": "finland"
-            },
-            "time": "16:00",
-            "date": "2026-07-10"
-        },
-        {
-            "channel": "Ruutu+ Suomi ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.ruutu.fi/urheilu",
-            "related_to": "     VPS Vaasa   vs   SJK Sein\u00e4joki"
         },
         {
             "compet": "Friendly Club Match",
@@ -659,6 +685,22 @@
             "related_to": "     Spain   vs   Belgium"
         },
         {
+            "channel": "ETV Estonia",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11958 H 27500 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Spain   vs   Belgium"
+        },
+        {
+            "channel": "ETV+ Estonia",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11938 V 27500 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Spain   vs   Belgium"
+        },
+        {
             "channel": "Fast Sports [online] ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -1003,6 +1045,22 @@
             "related_to": "     Spain   vs   Belgium"
         },
         {
+            "channel": "Qazaqstan TV HD",
+            "sat": "KazSat 2 86.5\u00b0e",
+            "freq": "11495 V 09000 - 8/9",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Spain   vs   Belgium"
+        },
+        {
+            "channel": "QazSport HD",
+            "sat": "KazSat 2 86.5\u00b0e",
+            "freq": "11495 V 09000 - 8/9",
+            "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Spain   vs   Belgium"
+        },
+        {
             "channel": "RAI 1 Italia HD",
             "sat": "Hotbird 13G 13.0\u00b0e",
             "freq": "11766 V 27500 - 2/3",
@@ -1327,6 +1385,22 @@
             "sat": "Thor 6 5.0\u00b0e",
             "freq": "11385 H 30000 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Spain   vs   Belgium"
+        },
+        {
+            "channel": "TV3 Lietuva HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11938 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Spain   vs   Belgium"
+        },
+        {
+            "channel": "TV6 Latvija",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11785 V 27500 - 5/6",
+            "encry": "MPEG-4 NDS",
             "link": "#",
             "related_to": "     Spain   vs   Belgium"
         },
