@@ -1017,6 +1017,24 @@
             "related_to": "     Troms\u00f8   vs   V\u00e5lerenga"
         },
         {
+            "compet": "Friendly Club Match",
+            "match": "     Hapoel Tel Aviv   vs   Dunajsk\u00e1 Streda",
+            "flags": {
+                "team1": "israel",
+                "team2": "slovakia"
+            },
+            "time": "16:00",
+            "date": "2026-07-11"
+        },
+        {
+            "channel": "Sport 4 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Hapoel Tel Aviv   vs   Dunajsk\u00e1 Streda"
+        },
+        {
             "compet": "Irish Premier Division - Week 24",
             "match": "     Galway United   vs   Sligo Rovers",
             "flags": {
@@ -1741,10 +1759,10 @@
             "related_to": "     Norway   vs   England"
         },
         {
-            "channel": "ERT 2 Sport Hellas HD",
+            "channel": "ERT 1 Hellas HD",
             "sat": "Hellas Sat 3 39.0\u00b0e",
-            "freq": "12223 H 13381 - 3/4",
-            "encry": "MPEG-4 Biss",
+            "freq": "12242 H 13381 - 3/4",
+            "encry": "HD BISS",
             "link": "#",
             "related_to": "     Norway   vs   England"
         },
@@ -2113,6 +2131,14 @@
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "12562 H 30000 - 2/3",
             "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Norway   vs   England"
+        },
+        {
+            "channel": "NHK BS Premium 4K",
+            "sat": "BSAT 3A 110.0\u00b0e",
+            "freq": "12034 R 33756",
+            "encry": "Free To Air UHD",
             "link": "#",
             "related_to": "     Norway   vs   England"
         },
