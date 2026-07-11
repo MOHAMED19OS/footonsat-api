@@ -411,6 +411,24 @@
             "related_to": "     Linfield   vs   Aberdeen"
         },
         {
+            "compet": "Friendly Club Match",
+            "match": "     Wisla Krak\u00f3w   vs   Wrexham",
+            "flags": {
+                "team1": "poland",
+                "team2": "wales"
+            },
+            "time": "13:00",
+            "date": "2026-07-11"
+        },
+        {
+            "channel": "Canal+ Sport 1 Polska HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11278 V 27500 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Wisla Krak\u00f3w   vs   Wrexham"
+        },
+        {
             "compet": "Swedish Allsvenskan - Week 12",
             "match": "     Mj\u00e4llby AIF   vs   AIK Stockholm",
             "flags": {
@@ -435,24 +453,6 @@
             "encry": "LiveOnSat.com",
             "link": "https://www.tv4play.se/sport",
             "related_to": "     Mj\u00e4llby AIF   vs   AIK Stockholm"
-        },
-        {
-            "compet": "Friendly Club Match",
-            "match": "     Wisla Krak\u00f3w   vs   Wrexham",
-            "flags": {
-                "team1": "poland",
-                "team2": "wales"
-            },
-            "time": "13:00",
-            "date": "2026-07-11"
-        },
-        {
-            "channel": "Canal+ Sport 1 Polska HD",
-            "sat": "Hotbird 13G 13.0\u00b0e",
-            "freq": "11278 V 27500 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Wisla Krak\u00f3w   vs   Wrexham"
         },
         {
             "compet": "Friendly Club Match",
@@ -1305,6 +1305,14 @@
             "related_to": "     Spain U-19   vs   Germany U-19"
         },
         {
+            "channel": "New World Sport 4 Togo",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Spain U-19   vs   Germany U-19"
+        },
+        {
             "channel": "RTL Deutschland HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "12522 V 30000 - 3/5",
@@ -1463,6 +1471,14 @@
             "related_to": "     Benfica   vs   Flamengo"
         },
         {
+            "channel": "TVi Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Benfica   vs   Flamengo"
+        },
+        {
             "compet": "Irish Womens Premier Division - Round 11",
             "match": "     Sligo Rovers   vs   Wexford",
             "flags": {
@@ -1561,6 +1577,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Norway   vs   England"
+        },
+        {
+            "channel": "ATN (Ariana Television Network)",
+            "sat": "Al Yah 1 52.5\u00b0e",
+            "freq": "12015 H 27500 - 3/4",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Norway   vs   England"
         },
@@ -1813,11 +1837,27 @@
             "related_to": "     Norway   vs   England"
         },
         {
+            "channel": "GEM Sport HD",
+            "sat": "Al Yah 1 52.5\u00b0e",
+            "freq": "12034 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Norway   vs   England"
+        },
+        {
             "channel": "Go3 World Cup Baltics ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "https://go3.ee/fifa2026",
+            "related_to": "     Norway   vs   England"
+        },
+        {
+            "channel": "Grand Sport HD",
+            "sat": "Al Yah 1 52.5\u00b0e",
+            "freq": "11958 V 27500 - 7/8",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "     Norway   vs   England"
         },
         {
@@ -2149,14 +2189,6 @@
             "related_to": "     Norway   vs   England"
         },
         {
-            "channel": "Qazaqstan TV HD",
-            "sat": "KazSat 2 86.5\u00b0e",
-            "freq": "11495 V 09000 - 8/9",
-            "encry": "MPEG-4 NDS",
-            "link": "#",
-            "related_to": "     Norway   vs   England"
-        },
-        {
             "channel": "QazSport HD",
             "sat": "KazSat 2 86.5\u00b0e",
             "freq": "11495 V 09000 - 8/9",
@@ -2325,6 +2357,14 @@
             "related_to": "     Norway   vs   England"
         },
         {
+            "channel": "SIC Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Norway   vs   England"
+        },
+        {
             "channel": "Sigma TV Cyprus",
             "sat": "Hellas Sat 4 39.0\u00b0e",
             "freq": "11837 H 16515 - 5/6",
@@ -2361,6 +2401,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Norway   vs   England"
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Norway   vs   England"
         },
@@ -2653,6 +2701,22 @@
             "related_to": "     Norway   vs   England"
         },
         {
+            "channel": "TVM Sport+ HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Norway   vs   England"
+        },
+        {
+            "channel": "TVM+ Malta HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Norway   vs   England"
+        },
+        {
             "channel": "TVP 1 Polska HD",
             "sat": "Hotbird 13G 13.0\u00b0e",
             "freq": "11449 H 27500 - 3/4",
@@ -2704,6 +2768,22 @@
             "channel": "UTV Northern Ireland HD",
             "sat": "Astra 2E 28.2\u00b0e",
             "freq": "11386 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Norway   vs   England"
+        },
+        {
+            "channel": "VRT 1 Belgium HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "12188 H 29900 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Norway   vs   England"
+        },
+        {
+            "channel": "World Cup HD",
+            "sat": "Al Yah 1 52.5\u00b0e",
+            "freq": "12035 V 27500 - 3/4",
             "encry": "FTA",
             "link": "#",
             "related_to": "     Norway   vs   England"
