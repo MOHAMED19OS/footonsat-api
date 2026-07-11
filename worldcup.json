@@ -339,6 +339,22 @@
             "related_to": "     Norway   vs   England"
         },
         {
+            "channel": "IRIB 4K UHD",
+            "sat": "Express AM7 40.0\u00b0e",
+            "freq": "11637 H 30000 - 3/4",
+            "encry": "Free To Air UHD",
+            "link": "#",
+            "related_to": "     Norway   vs   England"
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Intelsat 39 62.0\u00b0e",
+            "freq": "11555 V 30000 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Norway   vs   England"
+        },
+        {
             "channel": "ITV 1 England HD",
             "sat": "Astra 2E 28.2\u00b0e",
             "freq": "11344 H 27500 - 2/3",
@@ -735,6 +751,14 @@
             "sat": "AzerSpace 1 46.0\u00b0e",
             "freq": "11095 H 30000 - 5/6",
             "encry": "FTA",
+            "link": "#",
+            "related_to": "     Norway   vs   England"
+        },
+        {
+            "channel": "RUV Sjonvarpid",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "11389 H 24500 - 7/8",
+            "encry": "Conax",
             "link": "#",
             "related_to": "     Norway   vs   England"
         },
@@ -1341,10 +1365,26 @@
             "related_to": "     Argentina   vs   Switzerland"
         },
         {
+            "channel": "Canal 2 International",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "21576 H 02420 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Argentina   vs   Switzerland"
+        },
+        {
             "channel": "ChileVision",
             "sat": "Telstar 12 15.0\u00b0w",
             "freq": "11857 H 45000 - 4/5",
             "encry": "MPEG-4 Verimatrix",
+            "link": "#",
+            "related_to": "     Argentina   vs   Switzerland"
+        },
+        {
+            "channel": "CRTV Sports Cameroon",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12610 H 12500 - 3/4",
+            "encry": "HEVC SD Nagravision",
             "link": "#",
             "related_to": "     Argentina   vs   Switzerland"
         },
@@ -1469,6 +1509,14 @@
             "related_to": "     Argentina   vs   Switzerland"
         },
         {
+            "channel": "Gabon 1\u00e8re",
+            "sat": "SES 5 5.0\u00b0e",
+            "freq": "11766 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "https://www.groupegabontelevisions.net/live",
+            "related_to": "     Argentina   vs   Switzerland"
+        },
+        {
             "channel": "Go3 World Cup Baltics ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -1481,6 +1529,30 @@
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11637 V 30000 - 2/3",
             "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Argentina   vs   Switzerland"
+        },
+        {
+            "channel": "Ictimai TV HD",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11095 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Argentina   vs   Switzerland"
+        },
+        {
+            "channel": "IRIB 4K UHD",
+            "sat": "Express AM7 40.0\u00b0e",
+            "freq": "11637 H 30000 - 3/4",
+            "encry": "Free To Air UHD",
+            "link": "#",
+            "related_to": "     Argentina   vs   Switzerland"
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Intelsat 39 62.0\u00b0e",
+            "freq": "11555 V 30000 - 3/4",
+            "encry": "HD BISS",
             "link": "#",
             "related_to": "     Argentina   vs   Switzerland"
         },
@@ -1653,6 +1725,14 @@
             "related_to": "     Argentina   vs   Switzerland"
         },
         {
+            "channel": "ORTB Benin",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10804 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Argentina   vs   Switzerland"
+        },
+        {
             "channel": "Persiana Sport HD",
             "sat": "MonacoSat 52.0\u00b0e",
             "freq": "10762 V 27500 - 2/3",
@@ -1733,6 +1813,22 @@
             "related_to": "     Argentina   vs   Switzerland"
         },
         {
+            "channel": "RTG Guinea",
+            "sat": "SES 5 5.0\u00b0e",
+            "freq": "11766 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Argentina   vs   Switzerland"
+        },
+        {
+            "channel": "RTi La 3 C\u00f4te d\u2019Ivoire",
+            "sat": "SES 5 5.0\u00b0e",
+            "freq": "12341 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Argentina   vs   Switzerland"
+        },
+        {
             "channel": "RTK 1 Kosovo HD",
             "sat": "Hellas Sat 4 39.0\u00b0e",
             "freq": "10938 H 15835 - 2/3",
@@ -1741,11 +1837,35 @@
             "related_to": "     Argentina   vs   Switzerland"
         },
         {
+            "channel": "RTNC Congo DR",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "11387 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Argentina   vs   Switzerland"
+        },
+        {
+            "channel": "RTS 1 Senegal HD",
+            "sat": "AsiaSat 5 100.5\u00b0e",
+            "freq": "4080 H 30000 - 5/6",
+            "encry": "MPEG-4 Conax",
+            "link": "https://live.rts.sn/livetv/rts1",
+            "related_to": "     Argentina   vs   Switzerland"
+        },
+        {
             "channel": "RTS 1 Srbija HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11914 H 30000 - 3/4",
             "encry": "HD Conax",
             "link": "#",
+            "related_to": "     Argentina   vs   Switzerland"
+        },
+        {
+            "channel": "RTS 2 Senegal HD",
+            "sat": "Amos 17 17.0\u00b0e",
+            "freq": "11968 V 34030 - 5/6",
+            "encry": "HD Conax",
+            "link": "https://live.rts.sn/livetv/rts2",
             "related_to": "     Argentina   vs   Switzerland"
         },
         {
@@ -1777,6 +1897,14 @@
             "sat": "AzerSpace 1 46.0\u00b0e",
             "freq": "11095 H 30000 - 5/6",
             "encry": "FTA",
+            "link": "#",
+            "related_to": "     Argentina   vs   Switzerland"
+        },
+        {
+            "channel": "RUV Sjonvarpid",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "11389 H 24500 - 7/8",
+            "encry": "Conax",
             "link": "#",
             "related_to": "     Argentina   vs   Switzerland"
         },
@@ -1925,6 +2053,14 @@
             "related_to": "     Argentina   vs   Switzerland"
         },
         {
+            "channel": "Tele Congo",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12149 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Argentina   vs   Switzerland"
+        },
+        {
             "channel": "Telemundo USA",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2005,6 +2141,14 @@
             "related_to": "     Argentina   vs   Switzerland"
         },
         {
+            "channel": "TV3 Estonia HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11938 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Argentina   vs   Switzerland"
+        },
+        {
             "channel": "TV3 Lietuva HD",
             "sat": "Astra 4A 5.0\u00b0e",
             "freq": "11938 V 27500 - 5/6",
@@ -2041,6 +2185,22 @@
             "sat": "Hotbird 13G 13.0\u00b0e",
             "freq": "10834 V 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Argentina   vs   Switzerland"
+        },
+        {
+            "channel": "TVT Togo",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12525 V 30000 - 5/6",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Argentina   vs   Switzerland"
+        },
+        {
+            "channel": "T\u00e9l\u00e9 Tchad",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12687 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     Argentina   vs   Switzerland"
         },
