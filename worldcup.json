@@ -259,6 +259,14 @@
             "related_to": "     Norway   vs   England"
         },
         {
+            "channel": "Filinfo TV Burkina Faso",
+            "sat": "Eutelsat 3B 3.1\u00b0e",
+            "freq": "3729 L 16833 - 3/5",
+            "encry": "BISS [c]",
+            "link": "#",
+            "related_to": "     Norway   vs   England"
+        },
+        {
             "channel": "Fox Sports USA 4K",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -2807,6 +2815,22 @@
             "related_to": "     France   vs   Spain"
         },
         {
+            "channel": "SVT 1 Sverige HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "11216 V 25000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     France   vs   Spain"
+        },
+        {
+            "channel": "SVT Play HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.svtplay.se/",
+            "related_to": "     France   vs   Spain"
+        },
+        {
             "channel": "TRT 1 T\u00fcrkiye HD",
             "sat": "Turksat 3A 42.0\u00b0e",
             "freq": "11096 H 30000 - 5/6",
@@ -3361,6 +3385,22 @@
             "related_to": "     Norway or England   vs   Argentina or Switzerland"
         },
         {
+            "channel": "TV4 Play Sverige [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "     Norway or England   vs   Argentina or Switzerland"
+        },
+        {
+            "channel": "TV4 Sverige HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10934 H 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Norway or England   vs   Argentina or Switzerland"
+        },
+        {
             "channel": "TV6 Latvija",
             "sat": "Astra 4A 5.0\u00b0e",
             "freq": "11785 V 27500 - 5/6",
@@ -3736,6 +3776,22 @@
             "freq": "11594 V 27500 - 5/6",
             "encry": "Irdeto",
             "link": "#",
+            "related_to": "       3rd PLACE PLAY OFF       "
+        },
+        {
+            "channel": "SVT 1 Sverige HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "11216 V 25000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "       3rd PLACE PLAY OFF       "
+        },
+        {
+            "channel": "SVT Play HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.svtplay.se/",
             "related_to": "       3rd PLACE PLAY OFF       "
         },
         {
@@ -4240,6 +4296,22 @@
             "channel": "TV3 Lietuva HD",
             "sat": "Astra 4A 5.0\u00b0e",
             "freq": "11938 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "       FINAL       "
+        },
+        {
+            "channel": "TV4 Play Sverige [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "       FINAL       "
+        },
+        {
+            "channel": "TV4 Sverige HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10934 H 25000 - 3/4",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "       FINAL       "
