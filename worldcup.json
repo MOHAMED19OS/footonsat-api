@@ -1605,6 +1605,14 @@
             "related_to": "     France   vs   Spain"
         },
         {
+            "channel": "ZDF Deutschland HD",
+            "sat": "Astra 1P 19.2\u00b0e",
+            "freq": "11362 H 22000 - 2/3",
+            "encry": "HD Panaccess",
+            "link": "https://www.zdf.de/live-tv",
+            "related_to": "     France   vs   Spain"
+        },
+        {
             "compet": "FIFA WORLD CUP 2026 - Semi Final (Atlanta)",
             "match": "     England   vs   Argentina",
             "flags": {
@@ -1613,6 +1621,14 @@
             },
             "time": "19:00",
             "date": "2026-07-15"
+        },
+        {
+            "channel": "ARD Das Erste HD",
+            "sat": "Astra 1P 19.2\u00b0e",
+            "freq": "11494 H 22000 - 2/3",
+            "encry": "HD Panaccess",
+            "link": "https://live.daserste.de/",
+            "related_to": "     England   vs   Argentina"
         },
         {
             "channel": "Arena Premium 1 Srbija HD",
