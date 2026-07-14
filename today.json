@@ -458,6 +458,24 @@
         },
         {
             "compet": "Scottish League Cup - Round 2",
+            "match": "     Dunfermline Athletic   vs   Dumbarton",
+            "flags": {
+                "team1": "scotland",
+                "team2": "scotland"
+            },
+            "time": "18:45",
+            "date": "2026-07-14"
+        },
+        {
+            "channel": "DAFC Live ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.dafc.co.uk/videos",
+            "related_to": "     Dunfermline Athletic   vs   Dumbarton"
+        },
+        {
+            "compet": "Scottish League Cup - Round 2",
             "match": "     Clyde   vs   Airdrieonians",
             "flags": {
                 "team1": "scotland",
@@ -1061,6 +1079,22 @@
             "sat": "AzerSpace 1 46.0\u00b0e",
             "freq": "11095 H 30000 - 5/6",
             "encry": "FTA",
+            "link": "#",
+            "related_to": "     France   vs   Spain"
+        },
+        {
+            "channel": "IRIB 4K UHD",
+            "sat": "Express AM7 40.0\u00b0e",
+            "freq": "11637 H 30000 - 3/4",
+            "encry": "Free To Air UHD",
+            "link": "#",
+            "related_to": "     France   vs   Spain"
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Intelsat 39 62.0\u00b0e",
+            "freq": "11555 V 30000 - 3/4",
+            "encry": "HD BISS",
             "link": "#",
             "related_to": "     France   vs   Spain"
         },
@@ -1885,6 +1919,14 @@
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "12687 H 30000 - 3/4",
             "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     France   vs   Spain"
+        },
+        {
+            "channel": "UBC TV Uganda",
+            "sat": "Intelsat 33e 60.0\u00b0e",
+            "freq": "3778 R 5720 - 3/4",
+            "encry": "Irdeto",
             "link": "#",
             "related_to": "     France   vs   Spain"
         },
