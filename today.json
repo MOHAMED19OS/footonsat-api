@@ -1,6 +1,24 @@
 {
     "footonsat": [
         {
+            "compet": "Friendly Club Match",
+            "match": "     Salzburg   vs   Gamba Osaka",
+            "flags": {
+                "team1": "austria",
+                "team2": "japan"
+            },
+            "time": "13:00",
+            "date": "2026-07-15"
+        },
+        {
+            "channel": "YouTube: RB Salzburg",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@fcrbs/streams",
+            "related_to": "     Salzburg   vs   Gamba Osaka"
+        },
+        {
             "compet": "UEFA Conference League - 1st Qualifying Round (2nd Leg) [1-2]",
             "match": "     Malisheva   vs   Vllaznia Shkod\u00ebr",
             "flags": {
@@ -17,6 +35,24 @@
             "encry": "MPEG-4 Conax",
             "link": "https://www.rtklive.com/sq/livestream/rtk1/",
             "related_to": "     Malisheva   vs   Vllaznia Shkod\u00ebr"
+        },
+        {
+            "compet": "Friendly Club Match",
+            "match": "     Ajax   vs   Bochum",
+            "flags": {
+                "team1": "holland",
+                "team2": "germany"
+            },
+            "time": "15:00",
+            "date": "2026-07-15"
+        },
+        {
+            "channel": "YouTube: Ajax TV",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.youtube.com/@AFCAjax/streams",
+            "related_to": "     Ajax   vs   Bochum"
         },
         {
             "compet": "Kazakhstan Cup - Semi Final (1st Leg)",
@@ -71,6 +107,24 @@
             "encry": "HD BISS",
             "link": "https://www.skai.gr/tv/live",
             "related_to": "     Rapid Vienna   vs   Panathinaikos"
+        },
+        {
+            "compet": "Friendly Club Match",
+            "match": "     Salzburg   vs   Istanbul Basaksehir",
+            "flags": {
+                "team1": "austria",
+                "team2": "turkey"
+            },
+            "time": "16:30",
+            "date": "2026-07-15"
+        },
+        {
+            "channel": "YouTube: RB Salzburg",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@fcrbs/streams",
+            "related_to": "     Salzburg   vs   Istanbul Basaksehir"
         },
         {
             "compet": "Friendly Club Match",
@@ -1343,11 +1397,11 @@
             "related_to": "     England   vs   Argentina"
         },
         {
-            "channel": "TRT 1 T\u00fcrkiye HD",
+            "channel": "TRT Spor T\u00fcrkiye HD",
             "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11096 H 30000 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "https://www.trtizle.com/canli/tv/trt-1",
+            "freq": "11054 V 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
             "related_to": "     England   vs   Argentina"
         },
         {
