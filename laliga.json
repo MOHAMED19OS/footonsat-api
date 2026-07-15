@@ -213,6 +213,14 @@
             "related_to": "     Deportivo La Coru\u00f1a   vs   Elche"
         },
         {
+            "channel": "Teledeporte Espa\u00f1a",
+            "sat": "*DTT 0.0\u00b0-",
+            "freq": "0000 - -",
+            "encry": "HD NagraVision",
+            "link": "http://www.rtve.es/directo/teledeporte/",
+            "related_to": "     Deportivo La Coru\u00f1a   vs   Elche"
+        },
+        {
             "compet": "Spanish La Liga (Primera) - Week 1",
             "match": "     Atl\u00e9tico Madrid   vs   M\u00e1laga",
             "flags": {
@@ -245,6 +253,24 @@
             "encry": "",
             "link": "#",
             "related_to": "     Atl\u00e9tico Madrid   vs   M\u00e1laga"
+        },
+        {
+            "compet": "Spanish La Liga (Primera) - Week 2",
+            "match": "     Athletic Bilbao   vs   Sevilla",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "15:00",
+            "date": "2026-08-22"
+        },
+        {
+            "channel": "Teledeporte Espa\u00f1a",
+            "sat": "*DTT 0.0\u00b0-",
+            "freq": "0000 - -",
+            "encry": "HD NagraVision",
+            "link": "http://www.rtve.es/directo/teledeporte/",
+            "related_to": "     Athletic Bilbao   vs   Sevilla"
         },
         {
             "compet": "Spanish La Liga (Primera) - Week 1",
@@ -347,6 +373,24 @@
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Barcelona   vs   Athletic Bilbao"
+        },
+        {
+            "compet": "Spanish La Liga (Primera) - Week 3",
+            "match": "     Racing Santander   vs   Elche",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "17:00",
+            "date": "2026-08-28"
+        },
+        {
+            "channel": "Teledeporte Espa\u00f1a",
+            "sat": "*DTT 0.0\u00b0-",
+            "freq": "0000 - -",
+            "encry": "HD NagraVision",
+            "link": "http://www.rtve.es/directo/teledeporte/",
+            "related_to": "     Racing Santander   vs   Elche"
         }
     ]
 }

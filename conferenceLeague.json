@@ -63,6 +63,14 @@
             "date": "2026-07-16"
         },
         {
+            "channel": "Armenia First TV",
+            "sat": "Eutelsat 70B 70.5\u00b0e",
+            "freq": "11050 H 20030 - 1/2",
+            "encry": "MPEG-4 Biss",
+            "link": "https://www.1tv.am/en/schedule/metric",
+            "related_to": "     Yelimay Semey   vs   Alashkert"
+        },
+        {
             "channel": "QazSport HD",
             "sat": "KazSat 2 86.5\u00b0e",
             "freq": "11495 V 09000 - 8/9",
@@ -193,10 +201,10 @@
             "date": "2026-07-16"
         },
         {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
+            "channel": "Armenia First News TV",
+            "sat": "Eutelsat 70B 70.5\u00b0e",
+            "freq": "11050 H 20030 - 1/2",
+            "encry": "MPEG-4 Biss",
             "link": "#",
             "related_to": "     Pyunik   vs   Marsaxlokk"
         },
@@ -517,11 +525,43 @@
             "date": "2026-07-16"
         },
         {
+            "channel": "BBC iPlayer (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "     Ballkani   vs   Connah's Quay"
+        },
+        {
             "channel": "RTK 1 Kosovo HD",
             "sat": "Hellas Sat 4 39.0\u00b0e",
             "freq": "10938 H 15835 - 2/3",
             "encry": "MPEG-4 Conax",
             "link": "https://www.rtklive.com/sq/livestream/rtk1/",
+            "related_to": "     Ballkani   vs   Connah's Quay"
+        },
+        {
+            "channel": "S4C Clic ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.s4c.cymru/clic/Categories/5",
+            "related_to": "     Ballkani   vs   Connah's Quay"
+        },
+        {
+            "channel": "S4C Sgorio Cymru [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://sgorio.cymru/live-games/?lang=en",
+            "related_to": "     Ballkani   vs   Connah's Quay"
+        },
+        {
+            "channel": "YouTube: Sgorio",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/Sgorio",
             "related_to": "     Ballkani   vs   Connah's Quay"
         },
         {
