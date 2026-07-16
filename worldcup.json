@@ -1397,6 +1397,14 @@
             "related_to": "     Spain   vs   Argentina"
         },
         {
+            "channel": "Teledeporte Espa\u00f1a",
+            "sat": "*DTT 0.0\u00b0-",
+            "freq": "0000 - -",
+            "encry": "HD NagraVision",
+            "link": "http://www.rtve.es/directo/teledeporte/",
+            "related_to": "     Spain   vs   Argentina"
+        },
+        {
             "channel": "TRT 1 T\u00fcrkiye HD",
             "sat": "Turksat 3A 42.0\u00b0e",
             "freq": "11096 H 30000 - 5/6",
@@ -1497,6 +1505,30 @@
             "sat": "Astra 4A 5.0\u00b0e",
             "freq": "11785 V 27500 - 5/6",
             "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Spain   vs   Argentina"
+        },
+        {
+            "channel": "TVE La 1 HD Espa\u00f1a",
+            "sat": "*DTT 0.0\u00b0-",
+            "freq": "0000 - -",
+            "encry": "NagraVision",
+            "link": "http://www.rtve.es/directo/la-1/",
+            "related_to": "     Spain   vs   Argentina"
+        },
+        {
+            "channel": "TVE La 1 UHD 4K",
+            "sat": "*DTT 0.0\u00b0-",
+            "freq": "0000 - -",
+            "encry": "Free To Air UHD",
+            "link": "#",
+            "related_to": "     Spain   vs   Argentina"
+        },
+        {
+            "channel": "TVE La 2 Cat",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Spain   vs   Argentina"
         },
