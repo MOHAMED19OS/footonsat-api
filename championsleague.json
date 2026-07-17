@@ -101,7 +101,7 @@
             "sat": "Astra 1P 19.2\u00b0e",
             "freq": "11303 H 22000 - 2/3",
             "encry": "HD Viaccess",
-            "link": "https://tvthek.orf.at/live",
+            "link": "https://on.orf.at/live?channel=orf1",
             "related_to": "     Sturm Graz   vs   Hearts"
         },
         {
@@ -148,6 +148,24 @@
         },
         {
             "compet": "UEFA Champions League - 2nd Qualifying Round (2nd Leg)",
+            "match": "     Hearts   vs   Sturm Graz",
+            "flags": {
+                "team1": "scotland",
+                "team2": "austria"
+            },
+            "time": "18:45",
+            "date": "2026-07-28"
+        },
+        {
+            "channel": "ORF 1 Austria HD",
+            "sat": "Astra 1P 19.2\u00b0e",
+            "freq": "11303 H 22000 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://on.orf.at/live?channel=orf1",
+            "related_to": "     Hearts   vs   Sturm Graz"
+        },
+        {
+            "compet": "UEFA Champions League - 2nd Qualifying Round (2nd Leg)",
             "match": "     Lech Poznan   vs   AGF Aarhus",
             "flags": {
                 "team1": "poland",
@@ -163,6 +181,24 @@
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Lech Poznan   vs   AGF Aarhus"
+        },
+        {
+            "compet": "UEFA Champions League - 2nd Qualifying Round (2nd Leg)",
+            "match": "     Universitatea Craiova   vs   Levski Sofia",
+            "flags": {
+                "team1": "romania",
+                "team2": "bulgaria"
+            },
+            "time": "17:30",
+            "date": "2026-07-29"
+        },
+        {
+            "channel": "Diema Sport HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Universitatea Craiova   vs   Levski Sofia"
         },
         {
             "compet": "UEFA Champions League - 2nd Qualifying Round (2nd Leg)",

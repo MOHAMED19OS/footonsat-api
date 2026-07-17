@@ -418,6 +418,24 @@
         },
         {
             "compet": "Friendly Club Match",
+            "match": "     Austria Vienna   vs   Paks",
+            "flags": {
+                "team1": "austria",
+                "team2": "hungary"
+            },
+            "time": "18:00",
+            "date": "2026-07-17"
+        },
+        {
+            "channel": "ORF Sport+ Austria HD",
+            "sat": "Astra 1KR 19.2\u00b0e",
+            "freq": "11273 H 22000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "https://on.orf.at/live?channel=orfs",
+            "related_to": "     Austria Vienna   vs   Paks"
+        },
+        {
+            "compet": "Friendly Club Match",
             "match": "     Motherwell   vs   Racing Genk",
             "flags": {
                 "team1": "scotland",
@@ -533,24 +551,6 @@
             "encry": "",
             "link": "#",
             "related_to": "     Zeleznicar   vs   Radnicki Nis"
-        },
-        {
-            "compet": "Friendly Club Match",
-            "match": "     Austria Vienna   vs   Paks",
-            "flags": {
-                "team1": "austria",
-                "team2": "hungary"
-            },
-            "time": "18:00",
-            "date": "2026-07-17"
-        },
-        {
-            "channel": "ORF Sport+ Austria HD",
-            "sat": "Astra 1KR 19.2\u00b0e",
-            "freq": "11273 H 22000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "https://tvthek.orf.at/live",
-            "related_to": "     Austria Vienna   vs   Paks"
         },
         {
             "compet": "Friendly Club Match",
