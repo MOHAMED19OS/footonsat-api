@@ -46,6 +46,24 @@
         },
         {
             "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
+            "match": "     AEK Larnaca   vs   Beitar Jerusalem",
+            "flags": {
+                "team1": "cyprus",
+                "team2": "israel"
+            },
+            "time": "16:30",
+            "date": "2026-07-23"
+        },
+        {
+            "channel": "Sport 4 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     AEK Larnaca   vs   Beitar Jerusalem"
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
             "match": "     Hapoel Tel Aviv   vs   Ludogorets",
             "flags": {
                 "team1": "israel",
@@ -69,24 +87,6 @@
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Hapoel Tel Aviv   vs   Ludogorets"
-        },
-        {
-            "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
-            "match": "     AEK Larnaca   vs   Beitar Jerusalem",
-            "flags": {
-                "team1": "cyprus",
-                "team2": "israel"
-            },
-            "time": "17:00",
-            "date": "2026-07-23"
-        },
-        {
-            "channel": "Sport 4 Israel HD",
-            "sat": "Dror 1 4.0\u00b0w",
-            "freq": "11259 V 30000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     AEK Larnaca   vs   Beitar Jerusalem"
         },
         {
             "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
@@ -237,7 +237,7 @@
                 "team1": "denmark",
                 "team2": "ukraine"
             },
-            "time": "18:00",
+            "time": "17:00",
             "date": "2026-07-29"
         },
         {
@@ -286,24 +286,6 @@
         },
         {
             "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg)",
-            "match": "     AA Gent   vs   LNZ Cherkasy",
-            "flags": {
-                "team1": "belgium",
-                "team2": "ukraine"
-            },
-            "time": "18:00",
-            "date": "2026-07-30"
-        },
-        {
-            "channel": "Kyivstar TV Football (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://tv.kyivstar.ua/en/live-channels/68fb631b4eb468b99819f75b-ks-tv-football",
-            "related_to": "     AA Gent   vs   LNZ Cherkasy"
-        },
-        {
-            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg)",
             "match": "     Austria Vienna   vs   FK Liepaja",
             "flags": {
                 "team1": "austria",
@@ -337,6 +319,24 @@
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     GKS Katowice   vs   MSK Zilina"
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg)",
+            "match": "     AA Gent   vs   LNZ Cherkasy",
+            "flags": {
+                "team1": "belgium",
+                "team2": "ukraine"
+            },
+            "time": "18:30",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "Kyivstar TV Football (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.kyivstar.ua/en/live-channels/68fb631b4eb468b99819f75b-ks-tv-football",
+            "related_to": "     AA Gent   vs   LNZ Cherkasy"
         },
         {
             "compet": "UEFA Conference League",
