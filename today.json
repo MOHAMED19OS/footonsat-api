@@ -183,11 +183,11 @@
             "date": "2026-07-17"
         },
         {
-            "channel": "YouTube Channel (see link)",
+            "channel": "YouTube: FSV Mainz 05",
             "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
+            "freq": "0000 -",
+            "encry": "",
+            "link": "https://www.youtube.com/@1FSVMainz05/streams",
             "related_to": "     Mainz 05   vs   Kaiserslautern"
         },
         {
@@ -480,6 +480,14 @@
             "channel": "Arena Sport 10 Srbija HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "12402 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Red Star Belgrade   vs   Macva Sabac"
+        },
+        {
+            "channel": "Arena Sport 2 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11595 H 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Red Star Belgrade   vs   Macva Sabac"

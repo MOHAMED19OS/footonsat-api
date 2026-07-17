@@ -45,6 +45,14 @@
             "date": "2026-07-21"
         },
         {
+            "channel": "Play RTS Sport (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.rts.ch/play/tv/categories/sport",
+            "related_to": "     Thun   vs   Dinamo Zagreb"
+        },
+        {
             "channel": "RSI La 2 Svizzera HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "10971 H 29700 - 2/3",
@@ -137,6 +145,42 @@
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Levski Sofia   vs   Universitatea Craiova"
+        },
+        {
+            "compet": "UEFA Champions League - 2nd Qualifying Round (2nd Leg)",
+            "match": "     Lech Poznan   vs   AGF Aarhus",
+            "flags": {
+                "team1": "poland",
+                "team2": "denmark"
+            },
+            "time": "17:00",
+            "date": "2026-07-29"
+        },
+        {
+            "channel": "TVP Sport Polska HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "10834 V 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Lech Poznan   vs   AGF Aarhus"
+        },
+        {
+            "compet": "UEFA Champions League - 2nd Qualifying Round (2nd Leg)",
+            "match": "     G\u00f3rnik Zabrze   vs   Fenerbah\u00e7e",
+            "flags": {
+                "team1": "poland",
+                "team2": "turkey"
+            },
+            "time": "18:00",
+            "date": "2026-07-29"
+        },
+        {
+            "channel": "Polsat Sport 1 HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "12265 V 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     G\u00f3rnik Zabrze   vs   Fenerbah\u00e7e"
         },
         {
             "compet": "UEFA Champions League",
