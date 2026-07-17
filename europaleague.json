@@ -2,6 +2,24 @@
     "footonsat": [
         {
             "compet": "UEFA Europa League - 2nd Qualifying Round (1st Leg)",
+            "match": "     Sheriff Tiraspol   vs   Maccabi Tel Aviv",
+            "flags": {
+                "team1": "moldova",
+                "team2": "israel"
+            },
+            "time": "17:00",
+            "date": "2026-07-23"
+        },
+        {
+            "channel": "Sport 1 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Sheriff Tiraspol   vs   Maccabi Tel Aviv"
+        },
+        {
+            "compet": "UEFA Europa League - 2nd Qualifying Round (1st Leg)",
             "match": "     Hammarby   vs   Anderlecht",
             "flags": {
                 "team1": "sweden",
@@ -55,6 +73,14 @@
             "related_to": "     Twente   vs   Ferencv\u00e1ros"
         },
         {
+            "channel": "Sport 6 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Twente   vs   Ferencv\u00e1ros"
+        },
+        {
             "compet": "UEFA Europa League - 2nd Qualifying Round (1st Leg)",
             "match": "     St Gallen   vs   Benfica",
             "flags": {
@@ -63,6 +89,22 @@
             },
             "time": "18:00",
             "date": "2026-07-23"
+        },
+        {
+            "channel": "JOJ Play ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://play.joj.sk/",
+            "related_to": "     St Gallen   vs   Benfica"
+        },
+        {
+            "channel": "JOJ \u0160port SVK HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12266 H 29900 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     St Gallen   vs   Benfica"
         },
         {
             "channel": "Sport TV5 Portugal HD",
