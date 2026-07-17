@@ -11,6 +11,14 @@
             "date": "2026-07-18"
         },
         {
+            "channel": "AFN Sports HD",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "4095 L 11000 - 1/2",
+            "encry": "PowerVu [c]",
+            "link": "#",
+            "related_to": "     France   vs   England"
+        },
+        {
             "channel": "Antena 1 Romania HD",
             "sat": "Hellas Sat 3 39.0\u00b0e",
             "freq": "12565 V 30000 - 7/8",
@@ -47,6 +55,22 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     France   vs   England"
+        },
+        {
+            "channel": "Azam Sports 2 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     France   vs   England"
+        },
+        {
+            "channel": "Azam Sports 4 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     France   vs   England"
         },
@@ -163,6 +187,14 @@
             "related_to": "     France   vs   England"
         },
         {
+            "channel": "beIN Sports MENA Max 6 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     France   vs   England"
+        },
+        {
             "channel": "BNT 1 Bulgaria HD",
             "sat": "Hellas Sat 3 39.0\u00b0e",
             "freq": "12463 H 30000 - 5/6",
@@ -179,11 +211,35 @@
             "related_to": "     France   vs   England"
         },
         {
+            "channel": "Canal 2 International",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "21576 H 02420 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     France   vs   England"
+        },
+        {
+            "channel": "CRTV Sports Cameroon",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12610 H 12500 - 3/4",
+            "encry": "HEVC SD Nagravision",
+            "link": "#",
+            "related_to": "     France   vs   England"
+        },
+        {
             "channel": "CT Sport Czech HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "12344 H 29900 - 2/3",
             "encry": "HD CryptoWorks",
             "link": "#",
+            "related_to": "     France   vs   England"
+        },
+        {
+            "channel": "CT Sport Plus HD (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.ceskatelevize.cz/zive/",
             "related_to": "     France   vs   England"
         },
         {
@@ -259,6 +315,14 @@
             "related_to": "     France   vs   England"
         },
         {
+            "channel": "Gabon 1\u00e8re",
+            "sat": "SES 5 5.0\u00b0e",
+            "freq": "11766 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "https://www.groupegabontelevisions.net/live",
+            "related_to": "     France   vs   England"
+        },
+        {
             "channel": "Go3 World Cup Baltics ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -267,10 +331,34 @@
             "related_to": "     France   vs   England"
         },
         {
+            "channel": "GRTS Gambia",
+            "sat": "Intelsat 905 24.5\u00b0w",
+            "freq": "4070 R 03800 - 1/2",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     France   vs   England"
+        },
+        {
+            "channel": "Hagerie TV Ethiopia",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11105 H 45000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     France   vs   England"
+        },
+        {
             "channel": "HRT 2 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11637 V 30000 - 2/3",
             "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     France   vs   England"
+        },
+        {
+            "channel": "Ice Xtra Maldives",
+            "sat": " \u00b0",
+            "freq": " ",
+            "encry": "",
             "link": "#",
             "related_to": "     France   vs   England"
         },
@@ -303,6 +391,14 @@
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12266 H 29900 - 3/4",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     France   vs   England"
+        },
+        {
+            "channel": "Kan 11 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11140 H 27500 - 3/4",
+            "encry": "VideoGuard",
             "link": "#",
             "related_to": "     France   vs   England"
         },
@@ -435,6 +531,30 @@
             "related_to": "     France   vs   England"
         },
         {
+            "channel": "NBC 2 Namibia",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11130 V 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     France   vs   England"
+        },
+        {
+            "channel": "New World Sport 1 Mauritius",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     France   vs   England"
+        },
+        {
+            "channel": "NHK BS Premium 4K",
+            "sat": "BSAT 3A 110.0\u00b0e",
+            "freq": "12034 R 33756",
+            "encry": "Free To Air UHD",
+            "link": "#",
+            "related_to": "     France   vs   England"
+        },
+        {
             "channel": "NOW Sports HK 4K 616",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -459,11 +579,43 @@
             "related_to": "     France   vs   England"
         },
         {
+            "channel": "NRK 1 Norge HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "12015 V 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     France   vs   England"
+        },
+        {
+            "channel": "NTA Sports 24",
+            "sat": "NigComSat 1R 42.5\u00b0e",
+            "freq": "12589 H 26250 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     France   vs   England"
+        },
+        {
+            "channel": "ORTB Benin",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10804 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     France   vs   England"
+        },
+        {
             "channel": "Play RTS Sport (geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.rts.ch/play/tv/categories/sport",
+            "related_to": "     France   vs   England"
+        },
+        {
+            "channel": "PTV Sports",
+            "sat": "Paksat 1R 38.0\u00b0e",
+            "freq": "3870 H 13333 - 3/4",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "     France   vs   England"
         },
         {
@@ -523,6 +675,14 @@
             "related_to": "     France   vs   England"
         },
         {
+            "channel": "RTG Guinea",
+            "sat": "SES 5 5.0\u00b0e",
+            "freq": "11766 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     France   vs   England"
+        },
+        {
             "channel": "RTi La 3 C\u00f4te d\u2019Ivoire",
             "sat": "SES 5 5.0\u00b0e",
             "freq": "12341 H 27500 - 3/4",
@@ -531,11 +691,35 @@
             "related_to": "     France   vs   England"
         },
         {
+            "channel": "RTNC Congo DR",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "11387 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     France   vs   England"
+        },
+        {
+            "channel": "RTS 1 Senegal HD",
+            "sat": "AsiaSat 5 100.5\u00b0e",
+            "freq": "4080 H 30000 - 5/6",
+            "encry": "MPEG-4 Conax",
+            "link": "https://live.rts.sn/livetv/rts1",
+            "related_to": "     France   vs   England"
+        },
+        {
             "channel": "RTS 1 Srbija HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11914 H 30000 - 3/4",
             "encry": "HD Conax",
             "link": "#",
+            "related_to": "     France   vs   England"
+        },
+        {
+            "channel": "RTS 2 Senegal HD",
+            "sat": "Amos 17 17.0\u00b0e",
+            "freq": "11968 V 34030 - 5/6",
+            "encry": "HD Conax",
+            "link": "https://live.rts.sn/livetv/rts2",
             "related_to": "     France   vs   England"
         },
         {
@@ -563,6 +747,14 @@
             "related_to": "     France   vs   England"
         },
         {
+            "channel": "Rustavi 2",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11095 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     France   vs   England"
+        },
+        {
             "channel": "RUV Sjonvarpid",
             "sat": "Thor 5 0.8\u00b0w",
             "freq": "11389 H 24500 - 7/8",
@@ -579,10 +771,26 @@
             "related_to": "     France   vs   England"
         },
         {
+            "channel": "SABC 3 HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11514 V 28750 - 1/2",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     France   vs   England"
+        },
+        {
             "channel": "Servus TV \u00d6sterreich HD",
             "sat": "Astra 1L 19.2\u00b0e",
             "freq": "11303 H 22000 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     France   vs   England"
+        },
+        {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     France   vs   England"
         },
@@ -607,6 +815,14 @@
             "sat": "Dror 1 4.0\u00b0w",
             "freq": "11259 V 30000 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     France   vs   England"
+        },
+        {
+            "channel": "Sport 24 In Flight HD",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "4095 R 30000 - 3/4",
+            "encry": "HD PowerVu",
             "link": "#",
             "related_to": "     France   vs   England"
         },
@@ -699,6 +915,14 @@
             "related_to": "     France   vs   England"
         },
         {
+            "channel": "TBC 1 Tanzania",
+            "sat": "Intelsat 22 72.1\u00b0e",
+            "freq": "4120 L 9583 - 3/4",
+            "encry": "MPEG-4 Crypto",
+            "link": "#",
+            "related_to": "     France   vs   England"
+        },
+        {
             "channel": "TRT 1 T\u00fcrkiye HD",
             "sat": "Turksat 3A 42.0\u00b0e",
             "freq": "11096 H 30000 - 5/6",
@@ -731,6 +955,30 @@
             "related_to": "     France   vs   England"
         },
         {
+            "channel": "Turkmenistan Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "12303 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://turkmentv.gov.tm/page/6",
+            "related_to": "     France   vs   England"
+        },
+        {
+            "channel": "TV Klan HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10804 H 29950 - 2/3",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     France   vs   England"
+        },
+        {
+            "channel": "TV3 Estonia HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11938 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     France   vs   England"
+        },
+        {
             "channel": "TV3 Lietuva HD",
             "sat": "Astra 4A 5.0\u00b0e",
             "freq": "11938 V 27500 - 5/6",
@@ -743,6 +991,14 @@
             "sat": "Astra 4A 5.0\u00b0e",
             "freq": "11785 V 27500 - 5/6",
             "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     France   vs   England"
+        },
+        {
+            "channel": "TVCG 1 HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11817 V 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     France   vs   England"
         },
@@ -787,6 +1043,14 @@
             "related_to": "     France   vs   England"
         },
         {
+            "channel": "ZBC Zimbabwe HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11474 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     France   vs   England"
+        },
+        {
             "channel": "ZNBC TV 1",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11130 H 30000 - 5/6",
@@ -803,6 +1067,14 @@
             },
             "time": "19:00",
             "date": "2026-07-19"
+        },
+        {
+            "channel": "AFN Sports HD",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "4095 L 11000 - 1/2",
+            "encry": "PowerVu [c]",
+            "link": "#",
+            "related_to": "     Spain   vs   Argentina"
         },
         {
             "channel": "Antena 1 Romania HD",
@@ -833,6 +1105,22 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Spain   vs   Argentina"
+        },
+        {
+            "channel": "Azam Sports 2 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Spain   vs   Argentina"
+        },
+        {
+            "channel": "Azam Sports 4 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Spain   vs   Argentina"
         },
@@ -917,6 +1205,14 @@
             "related_to": "     Spain   vs   Argentina"
         },
         {
+            "channel": "beIN Sports MENA Max 6 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Spain   vs   Argentina"
+        },
+        {
             "channel": "BNT 1 Bulgaria HD",
             "sat": "Hellas Sat 3 39.0\u00b0e",
             "freq": "12463 H 30000 - 5/6",
@@ -933,11 +1229,35 @@
             "related_to": "     Spain   vs   Argentina"
         },
         {
+            "channel": "Canal 2 International",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "21576 H 02420 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Spain   vs   Argentina"
+        },
+        {
+            "channel": "CRTV Sports Cameroon",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12610 H 12500 - 3/4",
+            "encry": "HEVC SD Nagravision",
+            "link": "#",
+            "related_to": "     Spain   vs   Argentina"
+        },
+        {
             "channel": "CT Sport Czech HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "12344 H 29900 - 2/3",
             "encry": "HD CryptoWorks",
             "link": "#",
+            "related_to": "     Spain   vs   Argentina"
+        },
+        {
+            "channel": "CT Sport Plus HD (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.ceskatelevize.cz/zive/",
             "related_to": "     Spain   vs   Argentina"
         },
         {
@@ -1037,6 +1357,14 @@
             "related_to": "     Spain   vs   Argentina"
         },
         {
+            "channel": "Gabon 1\u00e8re",
+            "sat": "SES 5 5.0\u00b0e",
+            "freq": "11766 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "https://www.groupegabontelevisions.net/live",
+            "related_to": "     Spain   vs   Argentina"
+        },
+        {
             "channel": "Go3 World Cup Baltics ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -1045,10 +1373,34 @@
             "related_to": "     Spain   vs   Argentina"
         },
         {
+            "channel": "GRTS Gambia",
+            "sat": "Intelsat 905 24.5\u00b0w",
+            "freq": "4070 R 03800 - 1/2",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Spain   vs   Argentina"
+        },
+        {
+            "channel": "Hagerie TV Ethiopia",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11105 H 45000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Spain   vs   Argentina"
+        },
+        {
             "channel": "HRT 2 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11637 V 30000 - 2/3",
             "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Spain   vs   Argentina"
+        },
+        {
+            "channel": "Ice Xtra Maldives",
+            "sat": " \u00b0",
+            "freq": " ",
+            "encry": "",
             "link": "#",
             "related_to": "     Spain   vs   Argentina"
         },
@@ -1074,6 +1426,14 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.itv.com/watch?channel=itv",
+            "related_to": "     Spain   vs   Argentina"
+        },
+        {
+            "channel": "Jednotka (RTV 1) HD",
+            "sat": "Belintersat 1 51.5\u00b0e",
+            "freq": "11230 H 45000 - 8/9",
+            "encry": "HD CryptoWorks",
+            "link": "https://www.stvr.sk/televizia/live-1",
             "related_to": "     Spain   vs   Argentina"
         },
         {
@@ -1105,6 +1465,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Spain   vs   Argentina"
+        },
+        {
+            "channel": "Kan 11 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11140 H 27500 - 3/4",
+            "encry": "VideoGuard",
             "link": "#",
             "related_to": "     Spain   vs   Argentina"
         },
@@ -1237,6 +1605,38 @@
             "related_to": "     Spain   vs   Argentina"
         },
         {
+            "channel": "NBC 2 Namibia",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11130 V 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Spain   vs   Argentina"
+        },
+        {
+            "channel": "New World Sport 1 Mauritius",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Spain   vs   Argentina"
+        },
+        {
+            "channel": "NHK BS Premium 4K",
+            "sat": "BSAT 3A 110.0\u00b0e",
+            "freq": "12034 R 33756",
+            "encry": "Free To Air UHD",
+            "link": "#",
+            "related_to": "     Spain   vs   Argentina"
+        },
+        {
+            "channel": "Nova Action HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11876 H 29900 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Spain   vs   Argentina"
+        },
+        {
             "channel": "NOW Sports HK 4K 616",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -1261,6 +1661,22 @@
             "related_to": "     Spain   vs   Argentina"
         },
         {
+            "channel": "NRK 1 Norge HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "12015 V 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Spain   vs   Argentina"
+        },
+        {
+            "channel": "NTA Sports 24",
+            "sat": "NigComSat 1R 42.5\u00b0e",
+            "freq": "12589 H 26250 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Spain   vs   Argentina"
+        },
+        {
             "channel": "ORF 1 Austria HD",
             "sat": "Astra 1P 19.2\u00b0e",
             "freq": "11303 H 22000 - 2/3",
@@ -1277,11 +1693,35 @@
             "related_to": "     Spain   vs   Argentina"
         },
         {
+            "channel": "ORF On  ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://on.orf.at/livestream/",
+            "related_to": "     Spain   vs   Argentina"
+        },
+        {
+            "channel": "ORTB Benin",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10804 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Spain   vs   Argentina"
+        },
+        {
             "channel": "Play RTS Sport (geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.rts.ch/play/tv/categories/sport",
+            "related_to": "     Spain   vs   Argentina"
+        },
+        {
+            "channel": "PTV Sports",
+            "sat": "Paksat 1R 38.0\u00b0e",
+            "freq": "3870 H 13333 - 3/4",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "     Spain   vs   Argentina"
         },
         {
@@ -1341,10 +1781,26 @@
             "related_to": "     Spain   vs   Argentina"
         },
         {
+            "channel": "RTG Guinea",
+            "sat": "SES 5 5.0\u00b0e",
+            "freq": "11766 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Spain   vs   Argentina"
+        },
+        {
             "channel": "RTi La 3 C\u00f4te d\u2019Ivoire",
             "sat": "SES 5 5.0\u00b0e",
             "freq": "12341 H 27500 - 3/4",
             "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Spain   vs   Argentina"
+        },
+        {
+            "channel": "RTNC Congo DR",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "11387 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra",
             "link": "#",
             "related_to": "     Spain   vs   Argentina"
         },
@@ -1357,11 +1813,27 @@
             "related_to": "     Spain   vs   Argentina"
         },
         {
+            "channel": "RTS 1 Senegal HD",
+            "sat": "AsiaSat 5 100.5\u00b0e",
+            "freq": "4080 H 30000 - 5/6",
+            "encry": "MPEG-4 Conax",
+            "link": "https://live.rts.sn/livetv/rts1",
+            "related_to": "     Spain   vs   Argentina"
+        },
+        {
             "channel": "RTS 1 Srbija HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11914 H 30000 - 3/4",
             "encry": "HD Conax",
             "link": "#",
+            "related_to": "     Spain   vs   Argentina"
+        },
+        {
+            "channel": "RTS 2 Senegal HD",
+            "sat": "Amos 17 17.0\u00b0e",
+            "freq": "11968 V 34030 - 5/6",
+            "encry": "HD Conax",
+            "link": "https://live.rts.sn/livetv/rts2",
             "related_to": "     Spain   vs   Argentina"
         },
         {
@@ -1389,6 +1861,14 @@
             "related_to": "     Spain   vs   Argentina"
         },
         {
+            "channel": "Rustavi 2",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11095 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Spain   vs   Argentina"
+        },
+        {
             "channel": "RUV Sjonvarpid",
             "sat": "Thor 5 0.8\u00b0w",
             "freq": "11389 H 24500 - 7/8",
@@ -1401,6 +1881,22 @@
             "sat": "Express AMU1 36.1\u00b0e",
             "freq": "12207 H 27500 - 3/4",
             "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Spain   vs   Argentina"
+        },
+        {
+            "channel": "SABC 3 HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11514 V 28750 - 1/2",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Spain   vs   Argentina"
+        },
+        {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Spain   vs   Argentina"
         },
@@ -1425,6 +1921,14 @@
             "sat": "Dror 1 4.0\u00b0w",
             "freq": "11259 V 30000 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Spain   vs   Argentina"
+        },
+        {
+            "channel": "Sport 24 In Flight HD",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "4095 R 30000 - 3/4",
+            "encry": "HD PowerVu",
             "link": "#",
             "related_to": "     Spain   vs   Argentina"
         },
@@ -1525,6 +2029,14 @@
             "related_to": "     Spain   vs   Argentina"
         },
         {
+            "channel": "TBC 1 Tanzania",
+            "sat": "Intelsat 22 72.1\u00b0e",
+            "freq": "4120 L 9583 - 3/4",
+            "encry": "MPEG-4 Crypto",
+            "link": "#",
+            "related_to": "     Spain   vs   Argentina"
+        },
+        {
             "channel": "Teledeporte Espa\u00f1a",
             "sat": "*DTT 0.0\u00b0-",
             "freq": "0000 - -",
@@ -1573,6 +2085,22 @@
             "related_to": "     Spain   vs   Argentina"
         },
         {
+            "channel": "Turkmenistan Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "12303 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://turkmentv.gov.tm/page/6",
+            "related_to": "     Spain   vs   Argentina"
+        },
+        {
+            "channel": "TV Klan HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10804 H 29950 - 2/3",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Spain   vs   Argentina"
+        },
+        {
             "channel": "TV2 Danmark HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "10716 H 25000 - 3/4",
@@ -1602,6 +2130,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://play.tv2.no/sport",
+            "related_to": "     Spain   vs   Argentina"
+        },
+        {
+            "channel": "TV3 Estonia HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11938 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
             "related_to": "     Spain   vs   Argentina"
         },
         {
@@ -1637,6 +2173,14 @@
             "related_to": "     Spain   vs   Argentina"
         },
         {
+            "channel": "TVCG 1 HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11817 V 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Spain   vs   Argentina"
+        },
+        {
             "channel": "TVE La 1 HD Espa\u00f1a",
             "sat": "*DTT 0.0\u00b0-",
             "freq": "0000 - -",
@@ -1657,6 +2201,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Spain   vs   Argentina"
+        },
+        {
+            "channel": "TVNZ 1",
+            "sat": "Koreasat 6 116.0\u00b0e",
+            "freq": "12330 H 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto",
             "link": "#",
             "related_to": "     Spain   vs   Argentina"
         },
@@ -1713,6 +2265,14 @@
             "sat": "Eutelsat 36D 35.9\u00b0e",
             "freq": "11263 V 30000 - 5/6",
             "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Spain   vs   Argentina"
+        },
+        {
+            "channel": "ZBC Zimbabwe HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11474 H 30000 - 5/6",
+            "encry": "Irdeto",
             "link": "#",
             "related_to": "     Spain   vs   Argentina"
         },
