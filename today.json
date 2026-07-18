@@ -500,6 +500,24 @@
         },
         {
             "compet": "Friendly Club Match",
+            "match": "     Hibernian   vs   Br\u00f8ndby",
+            "flags": {
+                "team1": "scotland",
+                "team2": "denmark"
+            },
+            "time": "12:00",
+            "date": "2026-07-18"
+        },
+        {
+            "channel": "Solidsport Broadcast [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
+            "related_to": "     Hibernian   vs   Br\u00f8ndby"
+        },
+        {
+            "compet": "Friendly Club Match",
             "match": "     Burton Albion   vs   Leicester City",
             "flags": {
                 "team1": "england",
@@ -535,24 +553,6 @@
             "related_to": "     Okzhetpes   vs   Zhetysu"
         },
         {
-            "compet": "Friendly Club Match",
-            "match": "     AEK Athens   vs   Groningen",
-            "flags": {
-                "team1": "greece",
-                "team2": "holland"
-            },
-            "time": "12:00",
-            "date": "2026-07-18"
-        },
-        {
-            "channel": "Cosmote Sport 2 HD",
-            "sat": "Eutelsat 9B 9.0\u00b0e",
-            "freq": "11843 V 27500 - 3/5",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     AEK Athens   vs   Groningen"
-        },
-        {
             "compet": "Norwegian Eliteserien - Week 14",
             "match": "     HamKam   vs   Troms\u00f8",
             "flags": {
@@ -577,6 +577,24 @@
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     HamKam   vs   Troms\u00f8"
+        },
+        {
+            "compet": "Friendly Club Match",
+            "match": "     AEK Athens   vs   Groningen",
+            "flags": {
+                "team1": "greece",
+                "team2": "holland"
+            },
+            "time": "12:00",
+            "date": "2026-07-18"
+        },
+        {
+            "channel": "Cosmote Sport 2 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "11843 V 27500 - 3/5",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     AEK Athens   vs   Groningen"
         },
         {
             "compet": "Finnish Veikkausliiga - Week 16",
@@ -869,6 +887,40 @@
             "related_to": "     Real Betis   vs   Sportfreunde Lotte"
         },
         {
+            "compet": "Friendly Club Match - Celtic Park, Glasgow",
+            "match": "     Celtic   vs   Middlesbrough",
+            "flags": {
+                "team1": "scotland",
+                "team2": "england"
+            },
+            "time": "14:00",
+            "date": "2026-07-18"
+        },
+        {
+            "channel": "Celtic Player ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://player.celticfc.com/",
+            "related_to": "     Celtic   vs   Middlesbrough"
+        },
+        {
+            "channel": "Okko Futbol HD ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Celtic   vs   Middlesbrough"
+        },
+        {
+            "channel": "Sport TV+ Portugal",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12476 H 27500 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Celtic   vs   Middlesbrough"
+        },
+        {
             "compet": "Friendly Club Match",
             "match": "     Falkirk   vs   Racing Genk",
             "flags": {
@@ -1143,32 +1195,6 @@
             "related_to": "     AC Oulu   vs   Gnistan"
         },
         {
-            "compet": "Friendly Club Match - Celtic Park, Glasgow",
-            "match": "     Celtic   vs   Middlesbrough",
-            "flags": {
-                "team1": "scotland",
-                "team2": "england"
-            },
-            "time": "14:00",
-            "date": "2026-07-18"
-        },
-        {
-            "channel": "Celtic Player ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "https://player.celticfc.com/",
-            "related_to": "     Celtic   vs   Middlesbrough"
-        },
-        {
-            "channel": "Sport TV+ Portugal",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12476 H 27500 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "#",
-            "related_to": "     Celtic   vs   Middlesbrough"
-        },
-        {
             "compet": "Friendly Club Match",
             "match": "     Salzburg   vs   Mamelodi Sundowns",
             "flags": {
@@ -1293,6 +1319,24 @@
             "encry": "",
             "link": "https://www.premiersports.com/fr/live-now-on-demand",
             "related_to": "     Elgin City   vs   Kilmarnock"
+        },
+        {
+            "compet": "Scottish League Cup - Round 3",
+            "match": "     Hamilton Academical   vs   Raith Rovers",
+            "flags": {
+                "team1": "scotland",
+                "team2": "scotland"
+            },
+            "time": "14:00",
+            "date": "2026-07-18"
+        },
+        {
+            "channel": "Raith TV Live [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.raith.tv/",
+            "related_to": "     Hamilton Academical   vs   Raith Rovers"
         },
         {
             "compet": "Friendly Club Match",
@@ -1551,6 +1595,56 @@
             "related_to": "     Janesboro   vs   Sligo Rovers"
         },
         {
+            "compet": "National Womens Soccer League (NWSL) - Group Stage",
+            "match": "     NJ/NY Gotham   vs   Seattle Reign",
+            "flags": {
+                "team1": "usa",
+                "team2": "usa"
+            },
+            "time": "16:00",
+            "date": "2026-07-18"
+        },
+        {
+            "channel": "HBO Max (uk/ire) [$/geo/R]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.hbomax.com",
+            "related_to": "     NJ/NY Gotham   vs   Seattle Reign"
+        },
+        {
+            "channel": "NWSL+ [app] (geo/R)",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     NJ/NY Gotham   vs   Seattle Reign"
+        },
+        {
+            "channel": "TNT Sports 1 HD",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "3775 L 09583 - 2/3",
+            "encry": "Irdeto [c]",
+            "link": "#",
+            "related_to": "     NJ/NY Gotham   vs   Seattle Reign"
+        },
+        {
+            "channel": "TNT Sports 3 HD",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11612 H 22000 - 5/6",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     NJ/NY Gotham   vs   Seattle Reign"
+        },
+        {
+            "channel": "TSN Canada 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     NJ/NY Gotham   vs   Seattle Reign"
+        },
+        {
             "compet": "USL Championship - Group Stage",
             "match": "     Pittsburgh Riverhounds   vs   Louisville City",
             "flags": {
@@ -1665,56 +1759,6 @@
             "encry": "HD Viaccess",
             "link": "#",
             "related_to": "     Aberdeen   vs   Queen's Park"
-        },
-        {
-            "compet": "National Womens Soccer League (NWSL) - Group Stage",
-            "match": "     NJ/NY Gotham   vs   Seattle Reign",
-            "flags": {
-                "team1": "usa",
-                "team2": "usa"
-            },
-            "time": "16:00",
-            "date": "2026-07-18"
-        },
-        {
-            "channel": "HBO Max (uk/ire) [$/geo/R]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.hbomax.com",
-            "related_to": "     NJ/NY Gotham   vs   Seattle Reign"
-        },
-        {
-            "channel": "NWSL+ [app] (geo/R)",
-            "sat": "Download APP 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "FTA",
-            "link": "#",
-            "related_to": "     NJ/NY Gotham   vs   Seattle Reign"
-        },
-        {
-            "channel": "TNT Sports 1 HD",
-            "sat": "NSS 12 57.0\u00b0e",
-            "freq": "3775 L 09583 - 2/3",
-            "encry": "Irdeto [c]",
-            "link": "#",
-            "related_to": "     NJ/NY Gotham   vs   Seattle Reign"
-        },
-        {
-            "channel": "TNT Sports 3 HD",
-            "sat": "Astra 2G 28.2\u00b0e",
-            "freq": "11612 H 22000 - 5/6",
-            "encry": "VideoGuard",
-            "link": "#",
-            "related_to": "     NJ/NY Gotham   vs   Seattle Reign"
-        },
-        {
-            "channel": "TSN Canada 3 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     NJ/NY Gotham   vs   Seattle Reign"
         },
         {
             "compet": "Bulgarian First League - Week 1",
@@ -2237,24 +2281,6 @@
             "related_to": "     Novi Pazar   vs   Radnicki 1923"
         },
         {
-            "compet": "Friendly Club Match",
-            "match": "     Olot   vs   Espanyol XI",
-            "flags": {
-                "team1": "spain",
-                "team2": "catalonia"
-            },
-            "time": "18:00",
-            "date": "2026-07-18"
-        },
-        {
-            "channel": "Esport 3 Catalunya",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "FTA",
-            "link": "https://www.3cat.cat/3cat/directes/esport3/",
-            "related_to": "     Olot   vs   Espanyol XI"
-        },
-        {
             "compet": "National Womens Soccer League (NWSL) - Group Stage",
             "match": "     Denver Summit   vs   Portland Thorns",
             "flags": {
@@ -2295,6 +2321,24 @@
             "encry": "VideoGuard",
             "link": "#",
             "related_to": "     Denver Summit   vs   Portland Thorns"
+        },
+        {
+            "compet": "Friendly Club Match",
+            "match": "     Olot   vs   Espanyol XI",
+            "flags": {
+                "team1": "spain",
+                "team2": "catalonia"
+            },
+            "time": "18:00",
+            "date": "2026-07-18"
+        },
+        {
+            "channel": "Esport 3 Catalunya",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "FTA",
+            "link": "https://www.3cat.cat/3cat/directes/esport3/",
+            "related_to": "     Olot   vs   Espanyol XI"
         },
         {
             "compet": "Bulgarian First League - Week 1",
@@ -2693,6 +2737,14 @@
             "related_to": "     France   vs   England"
         },
         {
+            "channel": "beIN Sports MENA HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     France   vs   England"
+        },
+        {
             "channel": "beIN Sports MENA Max 1 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 V 27500 - 2/3",
@@ -2817,6 +2869,22 @@
             "sat": "Astra 1L 19.2\u00b0e",
             "freq": "10906 V 22000 - 2/3",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     France   vs   England"
+        },
+        {
+            "channel": "ENTV Alg\u00e9rie HD",
+            "sat": "Eutelsat 7 West A 7.0\u00b0w",
+            "freq": "11680 H 27500 - 2/3",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     France   vs   England"
+        },
+        {
+            "channel": "Eswatini TV",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11170 H 30000 - 5/6",
+            "encry": "Irdeto",
             "link": "#",
             "related_to": "     France   vs   England"
         },
@@ -2981,6 +3049,22 @@
             "related_to": "     France   vs   England"
         },
         {
+            "channel": "IRIB 4K UHD",
+            "sat": "Express AM7 40.0\u00b0e",
+            "freq": "11637 H 30000 - 3/4",
+            "encry": "Free To Air UHD",
+            "link": "#",
+            "related_to": "     France   vs   England"
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Intelsat 39 62.0\u00b0e",
+            "freq": "11555 V 30000 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     France   vs   England"
+        },
+        {
             "channel": "JOJ Play ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -3033,6 +3117,14 @@
             "sat": "Hellas Sat 4 39.0\u00b0e",
             "freq": "10930 H 30000 - 5/6",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     France   vs   England"
+        },
+        {
+            "channel": "KSA Sports 1 HD",
+            "sat": "Al Yah 1 52.5\u00b0e",
+            "freq": "11747 H 27500 - 5/6",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     France   vs   England"
         },
@@ -3197,6 +3289,14 @@
             "related_to": "     France   vs   England"
         },
         {
+            "channel": "Nova Action HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11876 H 29900 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     France   vs   England"
+        },
+        {
             "channel": "NOW Sports HK 4K 616",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -3241,6 +3341,14 @@
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "10804 H 30000 - 2/3",
             "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     France   vs   England"
+        },
+        {
+            "channel": "ORTM 2 Mali",
+            "sat": "Intelsat 37e 18.0\u00b0w",
+            "freq": "4129 L 02060 - 3/4",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     France   vs   England"
         },
@@ -3533,6 +3641,14 @@
             "related_to": "     France   vs   England"
         },
         {
+            "channel": "SporTV Brazil HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     France   vs   England"
+        },
+        {
             "channel": "Sporty TV Africa",
             "sat": "Astra 2F 28.2\u00b0e",
             "freq": "12605 V 30000 - 5/6",
@@ -3621,6 +3737,14 @@
             "related_to": "     France   vs   England"
         },
         {
+            "channel": "Teledeporte Espa\u00f1a",
+            "sat": "*DTT 0.0\u00b0-",
+            "freq": "0000 - -",
+            "encry": "HD NagraVision",
+            "link": "http://www.rtve.es/directo/teledeporte/",
+            "related_to": "     France   vs   England"
+        },
+        {
             "channel": "Telemundo USA",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -3701,6 +3825,14 @@
             "related_to": "     France   vs   England"
         },
         {
+            "channel": "TV P\u00fablica Argentina HD",
+            "sat": "Telstar 12 15.0\u00b0w",
+            "freq": "11919 H 45000 - 4/5",
+            "encry": "MPEG-4 BetaC",
+            "link": "#",
+            "related_to": "     France   vs   England"
+        },
+        {
             "channel": "TV3 Estonia HD",
             "sat": "Astra 4A 5.0\u00b0e",
             "freq": "11938 V 27500 - 5/6",
@@ -3737,6 +3869,30 @@
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11817 V 30000 - 3/4",
             "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     France   vs   England"
+        },
+        {
+            "channel": "TVE La 1 HD Espa\u00f1a",
+            "sat": "*DTT 0.0\u00b0-",
+            "freq": "0000 - -",
+            "encry": "NagraVision",
+            "link": "http://www.rtve.es/directo/la-1/",
+            "related_to": "     France   vs   England"
+        },
+        {
+            "channel": "TVE La 1 UHD 4K",
+            "sat": "*DTT 0.0\u00b0-",
+            "freq": "0000 - -",
+            "encry": "Free To Air UHD",
+            "link": "#",
+            "related_to": "     France   vs   England"
+        },
+        {
+            "channel": "TVE La 2 Cat",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     France   vs   England"
         },
@@ -3805,6 +3961,14 @@
             "related_to": "     France   vs   England"
         },
         {
+            "channel": "UBC TV Uganda",
+            "sat": "Intelsat 33e 60.0\u00b0e",
+            "freq": "3778 R 5720 - 3/4",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     France   vs   England"
+        },
+        {
             "channel": "VRT 1 Belgium HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "12188 H 29900 - 2/3",
@@ -3833,6 +3997,14 @@
             "sat": "Eutelsat 36D 35.9\u00b0e",
             "freq": "11263 V 30000 - 5/6",
             "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     France   vs   England"
+        },
+        {
+            "channel": "Zap Viva Internacional HD",
+            "sat": "Eutelsat 10B 10.0\u00b0e",
+            "freq": "12734 V 4000",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     France   vs   England"
         },

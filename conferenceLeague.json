@@ -2,6 +2,24 @@
     "footonsat": [
         {
             "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
+            "match": "     Atert Bissen   vs   Gy\u00f6r",
+            "flags": {
+                "team1": "luxembourg",
+                "team2": "hungary"
+            },
+            "time": "18:15",
+            "date": "2026-07-21"
+        },
+        {
+            "channel": "M4 Sport Hungary HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11778 V 29900 - 2/3",
+            "encry": "HD Conax",
+            "link": "https://m4sport.hu/elo/mtv4live/",
+            "related_to": "     Atert Bissen   vs   Gy\u00f6r"
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
             "match": "     Istanbul Basaksehir   vs   Inter Turku",
             "flags": {
                 "team1": "turkey",
@@ -64,6 +82,32 @@
         },
         {
             "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
+            "match": "     HJK Helsinki   vs   Coleraine",
+            "flags": {
+                "team1": "finland",
+                "team2": "nireland"
+            },
+            "time": "16:00",
+            "date": "2026-07-23"
+        },
+        {
+            "channel": "HJK TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "FTA",
+            "link": "https://hjktv.fi/hjk",
+            "related_to": "     HJK Helsinki   vs   Coleraine"
+        },
+        {
+            "channel": "Solidsport Broadcast [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
+            "related_to": "     HJK Helsinki   vs   Coleraine"
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
             "match": "     AEK Larnaca   vs   Beitar Jerusalem",
             "flags": {
                 "team1": "cyprus",
@@ -73,38 +117,28 @@
             "date": "2026-07-23"
         },
         {
+            "channel": "Cytavision Sports 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     AEK Larnaca   vs   Beitar Jerusalem"
+        },
+        {
+            "channel": "Cytavision Sports PPV 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     AEK Larnaca   vs   Beitar Jerusalem"
+        },
+        {
             "channel": "Sport 4 Israel HD",
             "sat": "Dror 1 4.0\u00b0w",
             "freq": "11259 V 30000 - 2/3",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     AEK Larnaca   vs   Beitar Jerusalem"
-        },
-        {
-            "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
-            "match": "     Hapoel Tel Aviv   vs   Ludogorets",
-            "flags": {
-                "team1": "israel",
-                "team2": "bulgaria"
-            },
-            "time": "17:00",
-            "date": "2026-07-23"
-        },
-        {
-            "channel": "Diema Sport 2 HD",
-            "sat": "Hellas Sat 3 39.0\u00b0e",
-            "freq": "12156 H 30000 - 5/6",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Hapoel Tel Aviv   vs   Ludogorets"
-        },
-        {
-            "channel": "Sport 2 Israel HD",
-            "sat": "Dror 1 4.0\u00b0w",
-            "freq": "12259 V 30000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Hapoel Tel Aviv   vs   Ludogorets"
         },
         {
             "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
@@ -141,6 +175,40 @@
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Vara\u017edin   vs   Jablonec"
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
+            "match": "     Paks   vs   Panathinaikos",
+            "flags": {
+                "team1": "hungary",
+                "team2": "greece"
+            },
+            "time": "18:00",
+            "date": "2026-07-23"
+        },
+        {
+            "channel": "Cytavision Sports 6 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Paks   vs   Panathinaikos"
+        },
+        {
+            "channel": "Cytavision Sports PPV 2 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Paks   vs   Panathinaikos"
+        },
+        {
+            "channel": "M4 Sport Hungary HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11778 V 29900 - 2/3",
+            "encry": "HD Conax",
+            "link": "https://m4sport.hu/elo/mtv4live/",
+            "related_to": "     Paks   vs   Panathinaikos"
         },
         {
             "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
@@ -188,6 +256,32 @@
         },
         {
             "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
+            "match": "     Hapoel Tel Aviv   vs   Ludogorets",
+            "flags": {
+                "team1": "israel",
+                "team2": "bulgaria"
+            },
+            "time": "18:30",
+            "date": "2026-07-23"
+        },
+        {
+            "channel": "Diema Sport 2 HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12156 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Hapoel Tel Aviv   vs   Ludogorets"
+        },
+        {
+            "channel": "Sport 2 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "12259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Hapoel Tel Aviv   vs   Ludogorets"
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
             "match": "     Lugano   vs   Dukagjini",
             "flags": {
                 "team1": "switzerland",
@@ -221,6 +315,24 @@
             "encry": "",
             "link": "https://tv.kyivstar.ua/en/live-channels/68fb631b4eb468b99819f75b-ks-tv-football",
             "related_to": "     LNZ Cherkasy   vs   AA Gent"
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
+            "match": "     Bravo   vs   Shk\u00ebndija",
+            "flags": {
+                "team1": "slovenia",
+                "team2": "northmacedonia"
+            },
+            "time": "18:45",
+            "date": "2026-07-23"
+        },
+        {
+            "channel": "Sport TV1 Slovenija",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11231 V 42000 - 3/5",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Bravo   vs   Shk\u00ebndija"
         },
         {
             "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",

@@ -1,6 +1,32 @@
 {
     "footonsat": [
         {
+            "compet": "UEFA Europa League - 3rd Qualifying Draw",
+            "match": "       - UEFA Europa League Draw -       ",
+            "flags": {
+                "team1": "assoceu",
+                "team2": "assoceu"
+            },
+            "time": "11:00",
+            "date": "2026-07-20"
+        },
+        {
+            "channel": "Omonoia TV on Cyta ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "       - UEFA Europa League Draw -       "
+        },
+        {
+            "channel": "UEFA.TV [online] (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.uefa.tv/",
+            "related_to": "       - UEFA Europa League Draw -       "
+        },
+        {
             "compet": "UEFA Europa League - 2nd Qualifying Round (1st Leg)",
             "match": "     Sheriff Tiraspol   vs   Maccabi Tel Aviv",
             "flags": {
@@ -52,6 +78,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "#",
+            "related_to": "     Besiktas   vs   Midtjylland"
+        },
+        {
+            "channel": "Solidsport Broadcast [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
             "related_to": "     Besiktas   vs   Midtjylland"
         },
         {
