@@ -157,7 +157,7 @@
         {
             "channel": "beIN Sports MENA HD",
             "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10845 V 27500 - 2/3",
+            "freq": "10850 V 27500 - 2/3",
             "encry": "FTA",
             "link": "#",
             "related_to": "     France   vs   England"
@@ -888,6 +888,14 @@
             "freq": "12341 H 27500 - 3/4",
             "encry": "MPEG-4 Conax",
             "link": "#",
+            "related_to": "     France   vs   England"
+        },
+        {
+            "channel": "RTK 1 Kosovo HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10938 H 15835 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "https://www.rtklive.com/sq/livestream/rtk1/",
             "related_to": "     France   vs   England"
         },
         {
@@ -1631,7 +1639,7 @@
         {
             "channel": "beIN Sports MENA HD",
             "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10845 V 27500 - 2/3",
+            "freq": "10850 V 27500 - 2/3",
             "encry": "FTA",
             "link": "#",
             "related_to": "     Spain   vs   Argentina"
@@ -2226,6 +2234,14 @@
             "freq": "12285 V 30000 - 2/3",
             "encry": "FTA",
             "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
+            "related_to": "     Spain   vs   Argentina"
+        },
+        {
+            "channel": "Moldova 2 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://moldova1.md/moldova2/live",
             "related_to": "     Spain   vs   Argentina"
         },
         {
