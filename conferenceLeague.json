@@ -117,6 +117,14 @@
             "related_to": "     HJK Helsinki   vs   Coleraine"
         },
         {
+            "channel": "NIFL TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://nifltv.co.uk/en",
+            "related_to": "     HJK Helsinki   vs   Coleraine"
+        },
+        {
             "channel": "Solidsport Broadcast [$]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -329,6 +337,24 @@
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Hapoel Tel Aviv   vs   Ludogorets"
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
+            "match": "     MSK Zilina   vs   GKS Katowice",
+            "flags": {
+                "team1": "slovakia",
+                "team2": "poland"
+            },
+            "time": "18:30",
+            "date": "2026-07-23"
+        },
+        {
+            "channel": "TVP Sport Polska HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "10834 V 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     MSK Zilina   vs   GKS Katowice"
         },
         {
             "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
@@ -553,6 +579,24 @@
             "encry": "",
             "link": "https://tv.kyivstar.ua/en/live-channels/68fb631b4eb468b99819f75b-ks-tv-football",
             "related_to": "     AA Gent   vs   LNZ Cherkasy"
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg)",
+            "match": "     Coleraine   vs   HJK Helsinki",
+            "flags": {
+                "team1": "nireland",
+                "team2": "finland"
+            },
+            "time": "18:45",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "NIFL TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://nifltv.co.uk/en",
+            "related_to": "     Coleraine   vs   HJK Helsinki"
         },
         {
             "compet": "UEFA Conference League",
