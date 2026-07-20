@@ -981,11 +981,11 @@
             "date": "2026-07-23"
         },
         {
-            "channel": "- - -",
+            "channel": "LOI TV ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
-            "link": "#",
+            "link": "https://www.loitv.ie/",
             "related_to": "     Shelbourne   vs   N\u00f5mme Kalju"
         },
         {
@@ -1077,6 +1077,14 @@
             },
             "time": "19:00",
             "date": "2026-07-23"
+        },
+        {
+            "channel": "Ilves+ Football ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.ilvesplus.com/en",
+            "related_to": "     Stjarnan   vs   Ilves Tampere"
         },
         {
             "channel": "S\u00ddN Sport Island 2 HD",
@@ -1217,6 +1225,24 @@
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Jablonec   vs   Vara\u017edin"
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg)",
+            "match": "     Ilves Tampere   vs   Stjarnan",
+            "flags": {
+                "team1": "finland",
+                "team2": "iceland"
+            },
+            "time": "16:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "Ilves+ Football ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.ilvesplus.com/en",
+            "related_to": "     Ilves Tampere   vs   Stjarnan"
         },
         {
             "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg)",
