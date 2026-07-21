@@ -481,24 +481,6 @@
             "related_to": "     Floriana   vs   Drita"
         },
         {
-            "compet": "Friendly Club Match",
-            "match": "     Gillingham   vs   Millwall",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "18:00",
-            "date": "2026-07-21"
-        },
-        {
-            "channel": "Millwall TV [$]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.millwallfc.co.uk/videos/",
-            "related_to": "     Gillingham   vs   Millwall"
-        },
-        {
             "compet": "UEFA Champions League - 2nd Qualifying Round (1st Leg)",
             "match": "     Thun   vs   Dinamo Zagreb",
             "flags": {
@@ -555,6 +537,24 @@
             "encry": "HD Panaccess",
             "link": "https://www.srf.ch/play/tv/live?tvLiveId=c49c1d64-9f60-0001-1c36-43c288c01a10",
             "related_to": "     Thun   vs   Dinamo Zagreb"
+        },
+        {
+            "compet": "Friendly Club Match",
+            "match": "     Gillingham   vs   Millwall",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "18:00",
+            "date": "2026-07-21"
+        },
+        {
+            "channel": "Millwall TV [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.millwallfc.co.uk/videos/",
+            "related_to": "     Gillingham   vs   Millwall"
         },
         {
             "compet": "UEFA Champions League - 2nd Qualifying Round (1st Leg)",

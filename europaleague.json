@@ -139,12 +139,78 @@
             "date": "2026-07-23"
         },
         {
+            "channel": "TV Tipsport Czechia",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tipsporttv.livebox.cz/",
+            "related_to": "     Troms\u00f8   vs   Hradec Kr\u00e1lov\u00e9"
+        },
+        {
             "channel": "VG+ Sport Norge ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.vgtv.no/live",
             "related_to": "     Troms\u00f8   vs   Hradec Kr\u00e1lov\u00e9"
+        },
+        {
+            "compet": "UEFA Europa League - 2nd Qualifying Round (1st Leg)",
+            "match": "     St Gallen   vs   Benfica",
+            "flags": {
+                "team1": "switzerland",
+                "team2": "portugal"
+            },
+            "time": "18:00",
+            "date": "2026-07-23"
+        },
+        {
+            "channel": "JOJ Play ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://play.joj.sk/",
+            "related_to": "     St Gallen   vs   Benfica"
+        },
+        {
+            "channel": "JOJ \u0160port SVK HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12266 H 29900 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     St Gallen   vs   Benfica"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     St Gallen   vs   Benfica"
+        },
+        {
+            "channel": "Sport TV5 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     St Gallen   vs   Benfica"
+        },
+        {
+            "channel": "SRF Play (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.srf.ch/play/tv/sport-livestreams",
+            "related_to": "     St Gallen   vs   Benfica"
+        },
+        {
+            "channel": "SRF Zwei Schweiz HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "10971 H 29700 - 2/3",
+            "encry": "HD Panaccess",
+            "link": "https://www.srf.ch/play/tv/live?tvLiveId=c49c1d64-9f60-0001-1c36-43c288c01a10",
+            "related_to": "     St Gallen   vs   Benfica"
         },
         {
             "compet": "UEFA Europa League - 2nd Qualifying Round (1st Leg)",
@@ -170,6 +236,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
+            "related_to": "     Besiktas   vs   Midtjylland"
+        },
+        {
+            "channel": "TV Tipsport Czechia",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tipsporttv.livebox.cz/",
             "related_to": "     Besiktas   vs   Midtjylland"
         },
         {
@@ -221,56 +295,6 @@
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Twente   vs   Ferencv\u00e1ros"
-        },
-        {
-            "compet": "UEFA Europa League - 2nd Qualifying Round (1st Leg)",
-            "match": "     St Gallen   vs   Benfica",
-            "flags": {
-                "team1": "switzerland",
-                "team2": "portugal"
-            },
-            "time": "18:00",
-            "date": "2026-07-23"
-        },
-        {
-            "channel": "JOJ Play ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://play.joj.sk/",
-            "related_to": "     St Gallen   vs   Benfica"
-        },
-        {
-            "channel": "JOJ \u0160port SVK HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12266 H 29900 - 3/4",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     St Gallen   vs   Benfica"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     St Gallen   vs   Benfica"
-        },
-        {
-            "channel": "Sport TV5 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12360 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     St Gallen   vs   Benfica"
-        },
-        {
-            "channel": "SRF Zwei Schweiz HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "10971 H 29700 - 2/3",
-            "encry": "HD Panaccess",
-            "link": "https://www.srf.ch/play/tv/live?tvLiveId=c49c1d64-9f60-0001-1c36-43c288c01a10",
-            "related_to": "     St Gallen   vs   Benfica"
         },
         {
             "compet": "UEFA Europa League - 2nd Qualifying Round (1st Leg)",
@@ -341,6 +365,14 @@
             "related_to": "     Midtjylland   vs   Besiktas"
         },
         {
+            "channel": "TV Tipsport Czechia",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tipsporttv.livebox.cz/",
+            "related_to": "     Midtjylland   vs   Besiktas"
+        },
+        {
             "compet": "UEFA Europa League - 2nd Qualifying Round (2nd Leg)",
             "match": "     Hradec Kr\u00e1lov\u00e9   vs   Troms\u00f8",
             "flags": {
@@ -356,6 +388,14 @@
             "freq": "12070 H 27500 - 3/4",
             "encry": "HD Viaccess",
             "link": "#",
+            "related_to": "     Hradec Kr\u00e1lov\u00e9   vs   Troms\u00f8"
+        },
+        {
+            "channel": "TV Tipsport Czechia",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tipsporttv.livebox.cz/",
             "related_to": "     Hradec Kr\u00e1lov\u00e9   vs   Troms\u00f8"
         },
         {
@@ -386,6 +426,32 @@
         },
         {
             "compet": "UEFA Europa League - 2nd Qualifying Round (2nd Leg)",
+            "match": "     Anderlecht   vs   Hammarby",
+            "flags": {
+                "team1": "belgium",
+                "team2": "sweden"
+            },
+            "time": "18:30",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "RTL Club Belgique",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11411 H 27500 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Anderlecht   vs   Hammarby"
+        },
+        {
+            "channel": "VTM 2 Belgium HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11856 V 29900 - 3/4",
+            "encry": "HD Mediaguard",
+            "link": "#",
+            "related_to": "     Anderlecht   vs   Hammarby"
+        },
+        {
+            "compet": "UEFA Europa League - 2nd Qualifying Round (2nd Leg)",
             "match": "     Benfica   vs   St Gallen",
             "flags": {
                 "team1": "portugal",
@@ -400,6 +466,14 @@
             "freq": "12130 H 27500 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
+            "related_to": "     Benfica   vs   St Gallen"
+        },
+        {
+            "channel": "SRF Play (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.srf.ch/play/tv/sport-livestreams",
             "related_to": "     Benfica   vs   St Gallen"
         },
         {
