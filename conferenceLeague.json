@@ -723,9 +723,9 @@
             "date": "2026-07-23"
         },
         {
-            "channel": "Arena Premium 1 BiH HD",
+            "channel": "Arena Sport 1 BiH HD",
             "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "0000 0",
+            "freq": "11720 H 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Vara\u017edin   vs   Jablonec"
@@ -773,10 +773,10 @@
             "related_to": "     Paks   vs   Panathinaikos"
         },
         {
-            "channel": "Arena Premium 3 Srbija HD",
+            "channel": "Arena Premium 4 Srbija HD",
             "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12422 H 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Paks   vs   Panathinaikos"
         },
@@ -1091,6 +1091,14 @@
             "date": "2026-07-23"
         },
         {
+            "channel": "Arena Premium 3 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Rijeka   vs   Derry City"
+        },
+        {
             "channel": "MAX Sport 2 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11595 H 30000 - 3/4",
@@ -1361,6 +1369,40 @@
             "encry": "",
             "link": "#",
             "related_to": "     Auda   vs   FCSB"
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg)",
+            "match": "     HB T\u00f3rshavn   vs   Motherwell",
+            "flags": {
+                "team1": "faroeislands",
+                "team2": "scotland"
+            },
+            "time": "17:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "Premier Sports 2 Ireland HD",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12188 H 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     HB T\u00f3rshavn   vs   Motherwell"
+        },
+        {
+            "channel": "Premier Sports 2 UK HD",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11671 H 23000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     HB T\u00f3rshavn   vs   Motherwell"
+        },
+        {
+            "channel": "Premier Sports GB Player HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": "     HB T\u00f3rshavn   vs   Motherwell"
         },
         {
             "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg)",
