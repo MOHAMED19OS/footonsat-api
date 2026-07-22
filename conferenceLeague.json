@@ -165,6 +165,14 @@
             "related_to": "     Zeleznicar   vs   Sporting Braga"
         },
         {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     Zeleznicar   vs   Sporting Braga"
+        },
+        {
             "channel": "Sport TV5 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12360 H 27500 - 3/4",
@@ -687,6 +695,14 @@
             "related_to": "     Vaduz   vs   Atletic Escaldes"
         },
         {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     Vaduz   vs   Atletic Escaldes"
+        },
+        {
             "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
             "match": "     FCSB   vs   Auda",
             "flags": {
@@ -881,6 +897,14 @@
             "related_to": "     Vojvodina   vs   Ajax"
         },
         {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     Vojvodina   vs   Ajax"
+        },
+        {
             "channel": "Sport 3 Israel HD",
             "sat": "Dror 1 4.0\u00b0w",
             "freq": "11259 V 30000 - 2/3",
@@ -1011,6 +1035,14 @@
             "date": "2026-07-23"
         },
         {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     Lugano   vs   Dukagjini"
+        },
+        {
             "channel": "RSI La 2 Svizzera HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "10971 H 29700 - 2/3",
@@ -1046,24 +1078,6 @@
         },
         {
             "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
-            "match": "     Motherwell   vs   HB T\u00f3rshavn",
-            "flags": {
-                "team1": "scotland",
-                "team2": "faroeislands"
-            },
-            "time": "18:45",
-            "date": "2026-07-23"
-        },
-        {
-            "channel": "Solidsport Broadcast [$]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
-            "related_to": "     Motherwell   vs   HB T\u00f3rshavn"
-        },
-        {
-            "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
             "match": "     Shelbourne   vs   N\u00f5mme Kalju",
             "flags": {
                 "team1": "ireland",
@@ -1078,6 +1092,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.loitv.ie/",
+            "related_to": "     Shelbourne   vs   N\u00f5mme Kalju"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
             "related_to": "     Shelbourne   vs   N\u00f5mme Kalju"
         },
         {
@@ -1125,12 +1147,38 @@
             "date": "2026-07-23"
         },
         {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     NSI Runavik   vs   Koper"
+        },
+        {
             "channel": "Solidsport Broadcast [$]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
             "related_to": "     NSI Runavik   vs   Koper"
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
+            "match": "     Motherwell   vs   HB T\u00f3rshavn",
+            "flags": {
+                "team1": "scotland",
+                "team2": "faroeislands"
+            },
+            "time": "18:45",
+            "date": "2026-07-23"
+        },
+        {
+            "channel": "Solidsport Broadcast [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
+            "related_to": "     Motherwell   vs   HB T\u00f3rshavn"
         },
         {
             "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
