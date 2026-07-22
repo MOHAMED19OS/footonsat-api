@@ -331,7 +331,7 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
-            "link": "https://tv.soccernet.ee/",
+            "link": "https://www.youtube.com/@SoccernetEE/streams",
             "related_to": "     Paide Linnameeskond   vs   Zira"
         },
         {
@@ -389,7 +389,7 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
-            "link": "https://tv.soccernet.ee/",
+            "link": "https://www.youtube.com/@SoccernetEE/streams",
             "related_to": "     Flora Tallinn   vs   The New Saints"
         },
         {
@@ -495,6 +495,14 @@
             },
             "time": "16:30",
             "date": "2026-07-23"
+        },
+        {
+            "channel": "S\u00ddN Sport Island 2 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     RFS Riga   vs   Vestri"
         },
         {
             "channel": "TV4 Latvija",
@@ -943,6 +951,14 @@
             "related_to": "     Aluminij   vs   Dinamo City"
         },
         {
+            "channel": "SuperSport 2 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Aluminij   vs   Dinamo City"
+        },
+        {
             "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
             "match": "     Vojvodina   vs   Ajax",
             "flags": {
@@ -974,6 +990,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://onefootball.com/en/matches",
+            "related_to": "     Vojvodina   vs   Ajax"
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "     Vojvodina   vs   Ajax"
         },
         {
@@ -1365,7 +1389,7 @@
             "related_to": "     Valur Reykjav\u00edk   vs   Zrinjski"
         },
         {
-            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg)",
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [3-2]",
             "match": "     Riga FC   vs   Vardar Skopje",
             "flags": {
                 "team1": "latvia",
@@ -1558,6 +1582,22 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "     The New Saints   vs   Flora Tallinn"
+        },
+        {
+            "channel": "BBC iPlayer 4K (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "     The New Saints   vs   Flora Tallinn"
+        },
+        {
+            "channel": "BBC Sport Website (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.bbc.com/sport/live-guide",
             "related_to": "     The New Saints   vs   Flora Tallinn"
         },
         {
