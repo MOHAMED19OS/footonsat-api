@@ -216,6 +216,40 @@
         },
         {
             "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
+            "match": "     Alashkert   vs   CFR Cluj",
+            "flags": {
+                "team1": "armenia",
+                "team2": "romania"
+            },
+            "time": "15:00",
+            "date": "2026-07-23"
+        },
+        {
+            "channel": "Armenia First TV",
+            "sat": "Eutelsat 70B 70.5\u00b0e",
+            "freq": "11050 H 20030 - 1/2",
+            "encry": "MPEG-4 Biss",
+            "link": "https://www.1tv.am/en/schedule/metric",
+            "related_to": "     Alashkert   vs   CFR Cluj"
+        },
+        {
+            "channel": "Digi Sport 1 Romania HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "11823 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Alashkert   vs   CFR Cluj"
+        },
+        {
+            "channel": "Prima Sport RO 1 HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12524 V 30000 - 7/8",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Alashkert   vs   CFR Cluj"
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
             "match": "     FK Liepaja   vs   Austria Vienna",
             "flags": {
                 "team1": "latvia",
@@ -225,11 +259,11 @@
             "date": "2026-07-23"
         },
         {
-            "channel": "Joyn [online] ($/geo/R)",
+            "channel": "Joyn AT [online] ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
+            "freq": "0000 -",
             "encry": "",
-            "link": "https://www.joyn.de/sport",
+            "link": "https://www.joyn.at/sport",
             "related_to": "     FK Liepaja   vs   Austria Vienna"
         },
         {
@@ -247,24 +281,6 @@
             "encry": "",
             "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
             "related_to": "     FK Liepaja   vs   Austria Vienna"
-        },
-        {
-            "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
-            "match": "     Alashkert   vs   CFR Cluj",
-            "flags": {
-                "team1": "armenia",
-                "team2": "romania"
-            },
-            "time": "15:00",
-            "date": "2026-07-23"
-        },
-        {
-            "channel": "Armenia First TV",
-            "sat": "Eutelsat 70B 70.5\u00b0e",
-            "freq": "11050 H 20030 - 1/2",
-            "encry": "MPEG-4 Biss",
-            "link": "https://www.1tv.am/en/schedule/metric",
-            "related_to": "     Alashkert   vs   CFR Cluj"
         },
         {
             "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
@@ -329,11 +345,59 @@
             "date": "2026-07-23"
         },
         {
+            "channel": "BBC iPlayer (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "     Flora Tallinn   vs   The New Saints"
+        },
+        {
+            "channel": "BBC iPlayer 4K (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "     Flora Tallinn   vs   The New Saints"
+        },
+        {
+            "channel": "BBC Sport Website (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.bbc.com/sport/live-guide",
+            "related_to": "     Flora Tallinn   vs   The New Saints"
+        },
+        {
+            "channel": "S4C Clic ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.s4c.cymru/clic/Categories/5",
+            "related_to": "     Flora Tallinn   vs   The New Saints"
+        },
+        {
+            "channel": "S4C Sgorio Cymru [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://sgorio.cymru/live-games/?lang=en",
+            "related_to": "     Flora Tallinn   vs   The New Saints"
+        },
+        {
             "channel": "Soccernet TV Estonia",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
             "link": "https://tv.soccernet.ee/",
+            "related_to": "     Flora Tallinn   vs   The New Saints"
+        },
+        {
+            "channel": "YouTube: Sgorio",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/Sgorio",
             "related_to": "     Flora Tallinn   vs   The New Saints"
         },
         {
