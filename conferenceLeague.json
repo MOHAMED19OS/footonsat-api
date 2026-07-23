@@ -265,6 +265,14 @@
             "related_to": "     Debrecen   vs   Pyunik"
         },
         {
+            "channel": "Shant TV Armenia",
+            "sat": "Eutelsat 70B 70.5\u00b0e",
+            "freq": "11050 H 19210 - 1/2",
+            "encry": "MPEG-4 Biss",
+            "link": "#",
+            "related_to": "     Debrecen   vs   Pyunik"
+        },
+        {
             "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
             "match": "     HJK Helsinki   vs   Coleraine",
             "flags": {
@@ -400,6 +408,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "#",
+            "related_to": "     AEK Larnaca   vs   Beitar Jerusalem"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
             "related_to": "     AEK Larnaca   vs   Beitar Jerusalem"
         },
         {
@@ -737,6 +753,14 @@
             "related_to": "     Paks   vs   Panathinaikos"
         },
         {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     Paks   vs   Panathinaikos"
+        },
+        {
             "channel": "SKAI Hellas HD",
             "sat": "Hellas Sat 3 39.0\u00b0e",
             "freq": "12338 H 11568 - 2/3",
@@ -998,6 +1022,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://avs.be/live",
+            "related_to": "     LNZ Cherkasy   vs   AA Gent"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
             "related_to": "     LNZ Cherkasy   vs   AA Gent"
         },
         {
@@ -1275,6 +1307,24 @@
             "encry": "",
             "link": "#",
             "related_to": "     Apollon Limassol   vs   Dila Gori"
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [0-0]",
+            "match": "     CSKA 1948 Sofia   vs   Spartak Trnava",
+            "flags": {
+                "team1": "bulgaria",
+                "team2": "slovakia"
+            },
+            "time": "17:30",
+            "date": "2026-07-28"
+        },
+        {
+            "channel": "bTV Bulgaria HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12463 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     CSKA 1948 Sofia   vs   Spartak Trnava"
         },
         {
             "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg)",
