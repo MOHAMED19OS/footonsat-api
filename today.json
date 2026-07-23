@@ -1831,64 +1831,6 @@
             "related_to": "     St Gallen   vs   Benfica"
         },
         {
-            "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
-            "match": "     Vojvodina   vs   Ajax",
-            "flags": {
-                "team1": "serbia",
-                "team2": "holland"
-            },
-            "time": "18:00",
-            "date": "2026-07-23"
-        },
-        {
-            "channel": "Arena Premium 2 Srbija HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "#",
-            "related_to": "     Vojvodina   vs   Ajax"
-        },
-        {
-            "channel": "Arena Premium 4 BiH HD",
-            "sat": " 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Vojvodina   vs   Ajax"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     Vojvodina   vs   Ajax"
-        },
-        {
-            "channel": "Persiana Sport HD",
-            "sat": "MonacoSat 52.0\u00b0e",
-            "freq": "10804 H 27500 - 2/3",
-            "encry": "FTA",
-            "link": "#",
-            "related_to": "     Vojvodina   vs   Ajax"
-        },
-        {
-            "channel": "Sport 3 Israel HD",
-            "sat": "Dror 1 4.0\u00b0w",
-            "freq": "11259 V 30000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Vojvodina   vs   Ajax"
-        },
-        {
-            "channel": "Ziggo Sport 1 HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12129 V 29900 - 3/4",
-            "encry": "HD Mediaguard",
-            "link": "#",
-            "related_to": "     Vojvodina   vs   Ajax"
-        },
-        {
             "compet": "UEFA Europa League - 2nd Qualifying Round (1st Leg)",
             "match": "     Besiktas   vs   Midtjylland",
             "flags": {
@@ -1897,6 +1839,14 @@
             },
             "time": "18:00",
             "date": "2026-07-23"
+        },
+        {
+            "channel": "5 PLUS Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Besiktas   vs   Midtjylland"
         },
         {
             "channel": "Arena Premium 3 Srbija HD",
@@ -1940,40 +1890,6 @@
         },
         {
             "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
-            "match": "     Aluminij   vs   Dinamo City",
-            "flags": {
-                "team1": "slovenia",
-                "team2": "albania"
-            },
-            "time": "18:00",
-            "date": "2026-07-23"
-        },
-        {
-            "channel": "SportKlub 1 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11471 H 30000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Aluminij   vs   Dinamo City"
-        },
-        {
-            "channel": "SportKlub 1 Slovenija HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11471 H 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Aluminij   vs   Dinamo City"
-        },
-        {
-            "channel": "SuperSport 2 Albania HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "10845 H 30000 - 3/5",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Aluminij   vs   Dinamo City"
-        },
-        {
-            "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
             "match": "     Paks   vs   Panathinaikos",
             "flags": {
                 "team1": "hungary",
@@ -1981,6 +1897,14 @@
             },
             "time": "18:00",
             "date": "2026-07-23"
+        },
+        {
+            "channel": "5 SPORT Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Paks   vs   Panathinaikos"
         },
         {
             "channel": "Arena M3 Premium MKD HD",
@@ -2045,6 +1969,98 @@
             "encry": "HD BISS",
             "link": "https://www.skai.gr/tv/live",
             "related_to": "     Paks   vs   Panathinaikos"
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
+            "match": "     Vojvodina   vs   Ajax",
+            "flags": {
+                "team1": "serbia",
+                "team2": "holland"
+            },
+            "time": "18:00",
+            "date": "2026-07-23"
+        },
+        {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Vojvodina   vs   Ajax"
+        },
+        {
+            "channel": "Arena Premium 4 BiH HD",
+            "sat": " 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Vojvodina   vs   Ajax"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     Vojvodina   vs   Ajax"
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Vojvodina   vs   Ajax"
+        },
+        {
+            "channel": "Sport 3 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Vojvodina   vs   Ajax"
+        },
+        {
+            "channel": "Ziggo Sport 1 HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "HD Mediaguard",
+            "link": "#",
+            "related_to": "     Vojvodina   vs   Ajax"
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
+            "match": "     Aluminij   vs   Dinamo City",
+            "flags": {
+                "team1": "slovenia",
+                "team2": "albania"
+            },
+            "time": "18:00",
+            "date": "2026-07-23"
+        },
+        {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Aluminij   vs   Dinamo City"
+        },
+        {
+            "channel": "SportKlub 1 Slovenija HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Aluminij   vs   Dinamo City"
+        },
+        {
+            "channel": "SuperSport 2 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Aluminij   vs   Dinamo City"
         },
         {
             "compet": "UEFA Europa League - 2nd Qualifying Round (1st Leg)",
