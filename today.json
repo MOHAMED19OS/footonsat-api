@@ -712,40 +712,6 @@
         },
         {
             "compet": "Major League Soccer (MLS) - Week",
-            "match": "     Portland Timbers   vs   Dallas",
-            "flags": {
-                "team1": "usa",
-                "team2": "usa"
-            },
-            "time": "02:30",
-            "date": "2026-07-23"
-        },
-        {
-            "channel": "Apple TV ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://tv.apple.com/",
-            "related_to": "     Portland Timbers   vs   Dallas"
-        },
-        {
-            "channel": "MLS Season Pass [$]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Portland Timbers   vs   Dallas"
-        },
-        {
-            "channel": "TNT Sports 4 HD",
-            "sat": "Astra 2G 28.2\u00b0e",
-            "freq": "11597 V 22000 - 5/6",
-            "encry": "VideoGuard",
-            "link": "#",
-            "related_to": "     Portland Timbers   vs   Dallas"
-        },
-        {
-            "compet": "Major League Soccer (MLS) - Week",
             "match": "     San Jose Earthquakes   vs   Orlando City",
             "flags": {
                 "team1": "usa",
@@ -877,6 +843,32 @@
             "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Los Angeles FC   vs   Real Salt Lake"
+        },
+        {
+            "compet": "Major League Soccer (MLS) - Week",
+            "match": "     Portland Timbers   vs   Dallas",
+            "flags": {
+                "team1": "usa",
+                "team2": "usa"
+            },
+            "time": "02:30",
+            "date": "2026-07-23"
+        },
+        {
+            "channel": "Apple TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.apple.com/",
+            "related_to": "     Portland Timbers   vs   Dallas"
+        },
+        {
+            "channel": "MLS Season Pass [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Portland Timbers   vs   Dallas"
         },
         {
             "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
