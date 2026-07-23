@@ -1017,6 +1017,14 @@
             "related_to": "     Qarabagh   vs   CSKA Sofia"
         },
         {
+            "channel": "Idman TV HD",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11175 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Qarabagh   vs   CSKA Sofia"
+        },
+        {
             "channel": "Play Diema XTRA ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1458,6 +1466,32 @@
         },
         {
             "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
+            "match": "     ML Vitebsk   vs   Sutjeska",
+            "flags": {
+                "team1": "belarus",
+                "team2": "montenegro"
+            },
+            "time": "17:00",
+            "date": "2026-07-23"
+        },
+        {
+            "channel": "TVCG 2 HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11817 V 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     ML Vitebsk   vs   Sutjeska"
+        },
+        {
+            "channel": "YouTube: ML Vitebsk",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@fcmaxline_vtb",
+            "related_to": "     ML Vitebsk   vs   Sutjeska"
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
             "match": "     FC Santa Coloma   vs   Rapid Vienna",
             "flags": {
                 "team1": "andorra",
@@ -1533,24 +1567,6 @@
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Dinamo Tbilisi   vs   Zalgiris"
-        },
-        {
-            "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
-            "match": "     ML Vitebsk   vs   Sutjeska",
-            "flags": {
-                "team1": "belarus",
-                "team2": "montenegro"
-            },
-            "time": "17:00",
-            "date": "2026-07-23"
-        },
-        {
-            "channel": "TVCG 2 HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11817 V 30000 - 3/4",
-            "encry": "MPEG-4 Conax",
-            "link": "#",
-            "related_to": "     ML Vitebsk   vs   Sutjeska"
         },
         {
             "compet": "UEFA Europa League - 2nd Qualifying Round (1st Leg)",
@@ -1792,6 +1808,14 @@
             "channel": "Nova Sport 5 Czech HD",
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12129 V 29900 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Vara\u017edin   vs   Jablonec"
+        },
+        {
+            "channel": "Nova Sport 5 Slovakia HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "12456 V 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Vara\u017edin   vs   Jablonec"
@@ -2895,6 +2919,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Belgrano   vs   Rosario Central"
+        },
+        {
+            "channel": "Spor Smart T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "12188 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Belgrano   vs   Rosario Central"
         },
