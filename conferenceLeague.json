@@ -145,10 +145,10 @@
             "date": "2026-07-30"
         },
         {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
+            "channel": "QazSport HD",
+            "sat": "KazSat 2 86.5\u00b0e",
+            "freq": "11495 V 09000 - 8/9",
+            "encry": "MPEG-4 Irdeto",
             "link": "#",
             "related_to": "     Tobol   vs   Paneve\u017eys"
         },
@@ -393,6 +393,14 @@
             "related_to": "     Dynamo Minsk   vs   Neftchi"
         },
         {
+            "channel": "Ictimai TV HD",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11095 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Dynamo Minsk   vs   Neftchi"
+        },
+        {
             "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [0-3]",
             "match": "     Zalgiris   vs   Dinamo Tbilisi",
             "flags": {
@@ -613,10 +621,26 @@
             "date": "2026-07-30"
         },
         {
-            "channel": "- - -",
+            "channel": "Cytavision Sports 2 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Beitar Jerusalem   vs   AEK Larnaca"
+        },
+        {
+            "channel": "Cytavision Sports PPV 2 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Beitar Jerusalem   vs   AEK Larnaca"
+        },
+        {
+            "channel": "Sport 4 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Beitar Jerusalem   vs   AEK Larnaca"
         },
@@ -635,6 +659,14 @@
             "sat": "Hellas Sat 3 39.0\u00b0e",
             "freq": "12156 H 30000 - 5/6",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Ludogorets   vs   Hapoel Tel Aviv"
+        },
+        {
+            "channel": "Sport 2 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "12259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Ludogorets   vs   Hapoel Tel Aviv"
         },
@@ -690,6 +722,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://tv.kyivstar.ua/en/live-channels/6a5a2aea87b491a656de4d98-ks-tv-football-3",
+            "related_to": "     Ajax   vs   Vojvodina"
+        },
+        {
+            "channel": "Sport 3 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
             "related_to": "     Ajax   vs   Vojvodina"
         },
         {
@@ -941,24 +981,6 @@
             "related_to": "     Sporting Braga   vs   Zeleznicar"
         },
         {
-            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [0-2]",
-            "match": "     Hibernian   vs   Malisheva",
-            "flags": {
-                "team1": "scotland",
-                "team2": "kosova"
-            },
-            "time": "19:00",
-            "date": "2026-07-30"
-        },
-        {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Hibernian   vs   Malisheva"
-        },
-        {
             "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [1-1]",
             "match": "     Dinamo City   vs   Aluminij",
             "flags": {
@@ -975,6 +997,24 @@
             "encry": "",
             "link": "#",
             "related_to": "     Dinamo City   vs   Aluminij"
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [0-2]",
+            "match": "     Hibernian   vs   Malisheva",
+            "flags": {
+                "team1": "scotland",
+                "team2": "kosova"
+            },
+            "time": "19:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "Solidsport Broadcast [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
+            "related_to": "     Hibernian   vs   Malisheva"
         },
         {
             "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [1-4]",
