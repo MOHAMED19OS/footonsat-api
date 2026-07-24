@@ -369,6 +369,14 @@
             "related_to": "     Udinese   vs   Swansea City"
         },
         {
+            "channel": "Tabii Spor T\u00fcrkiye ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.tabii.com/tr",
+            "related_to": "     Udinese   vs   Swansea City"
+        },
+        {
             "channel": "TRT Spor T\u00fcrkiye HD",
             "sat": "Turksat 3A 42.0\u00b0e",
             "freq": "11054 V 30000 - 3/4",
@@ -1837,6 +1845,14 @@
             "related_to": "     Racing Club   vs   Gimnasia La Plata"
         },
         {
+            "channel": "Spor Smart T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "12188 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Racing Club   vs   Gimnasia La Plata"
+        },
+        {
             "channel": "Sportitalia HD",
             "sat": "Eutelsat 9B 9.0\u00b0e",
             "freq": "12341 V 31400 - 5/6",
@@ -1861,6 +1877,24 @@
             "encry": "LiveOnSat.com",
             "link": "https://www.fanatiz.com/",
             "related_to": "     V\u00e9lez Sarsfield   vs   Instituto C\u00f3rdoba"
+        },
+        {
+            "compet": "Uruguay Primera Divisi\u00f3n - Torneo Intermedio - 6",
+            "match": "     Torque   vs   Danubio",
+            "flags": {
+                "team1": "uraguay",
+                "team2": "uraguay"
+            },
+            "time": "22:00",
+            "date": "2026-07-24"
+        },
+        {
+            "channel": "Antel TV Internacional 1 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://login.vera.com.uy/login",
+            "related_to": "     Torque   vs   Danubio"
         },
         {
             "compet": "Uruguay Primera Divisi\u00f3n - Torneo Intermedio - 7",
