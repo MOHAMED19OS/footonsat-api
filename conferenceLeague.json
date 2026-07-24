@@ -341,11 +341,11 @@
             "date": "2026-07-30"
         },
         {
-            "channel": "- - -",
+            "channel": "Sport Bladet Play (geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
-            "link": "#",
+            "link": "https://www.sportbladetplay.se/schedule",
             "related_to": "     FCI Levadia   vs   IFK Gotenberg"
         },
         {
@@ -501,6 +501,14 @@
             "date": "2026-07-30"
         },
         {
+            "channel": "Sport Bladet Play (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.sportbladetplay.se/schedule",
+            "related_to": "     Nordsj\u00e6lland   vs   GAIS"
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -621,6 +629,24 @@
             "related_to": "     Beitar Jerusalem   vs   AEK Larnaca"
         },
         {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [0-2]",
+            "match": "     Ludogorets   vs   Hapoel Tel Aviv",
+            "flags": {
+                "team1": "bulgaria",
+                "team2": "israel"
+            },
+            "time": "18:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "Diema Sport 2 HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12156 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Ludogorets   vs   Hapoel Tel Aviv"
+        },
+        {
             "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [1-2]",
             "match": "     Shk\u00ebndija   vs   Bravo",
             "flags": {
@@ -637,24 +663,6 @@
             "encry": "",
             "link": "#",
             "related_to": "     Shk\u00ebndija   vs   Bravo"
-        },
-        {
-            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [0-2]",
-            "match": "     Ludogorets   vs   Hapoel Tel Aviv",
-            "flags": {
-                "team1": "bulgaria",
-                "team2": "israel"
-            },
-            "time": "18:00",
-            "date": "2026-07-30"
-        },
-        {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Ludogorets   vs   Hapoel Tel Aviv"
         },
         {
             "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [1-2]",
