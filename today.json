@@ -379,6 +379,14 @@
             "related_to": "     Fortuna D\u00fcsseldorf   vs   Borussia Dortmund"
         },
         {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Fortuna D\u00fcsseldorf   vs   Borussia Dortmund"
+        },
+        {
             "channel": "TRT Spor T\u00fcrkiye HD",
             "sat": "Turksat 3A 42.0\u00b0e",
             "freq": "11054 V 30000 - 3/4",
@@ -393,6 +401,32 @@
             "encry": "",
             "link": "https://www.vgtv.no/live",
             "related_to": "     Fortuna D\u00fcsseldorf   vs   Borussia Dortmund"
+        },
+        {
+            "compet": "Danish A-Liga Women - Week 1",
+            "match": "     Midtjylland   vs   Br\u00f8ndby",
+            "flags": {
+                "team1": "denmark",
+                "team2": "denmark"
+            },
+            "time": "11:00",
+            "date": "2026-07-25"
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "     Midtjylland   vs   Br\u00f8ndby"
+        },
+        {
+            "channel": "TV2 Sport X Dansk HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10716 H 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Midtjylland   vs   Br\u00f8ndby"
         },
         {
             "compet": "Russian Premier League - Week 1",
@@ -477,32 +511,6 @@
             "encry": "",
             "link": "https://www.youtube.com/@WerderBremen/streams",
             "related_to": "     Werder Bremen   vs   Bochum"
-        },
-        {
-            "compet": "Danish A-Liga Women - Week 1",
-            "match": "     Midtjylland   vs   Br\u00f8ndby",
-            "flags": {
-                "team1": "denmark",
-                "team2": "denmark"
-            },
-            "time": "11:00",
-            "date": "2026-07-25"
-        },
-        {
-            "channel": "TV2 Play Danmark ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://play.tv2.dk/sport",
-            "related_to": "     Midtjylland   vs   Br\u00f8ndby"
-        },
-        {
-            "channel": "TV2 Sport X Dansk HD",
-            "sat": "Thor 6 0.8\u00b0w",
-            "freq": "10716 H 25000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Midtjylland   vs   Br\u00f8ndby"
         },
         {
             "compet": "Danish A-Liga Women - Week 1",
@@ -702,6 +710,56 @@
         },
         {
             "compet": "Friendly Club Match",
+            "match": "     AZ Alkmaar   vs   Olympiacos",
+            "flags": {
+                "team1": "holland",
+                "team2": "greece"
+            },
+            "time": "13:00",
+            "date": "2026-07-25"
+        },
+        {
+            "channel": "Arena Premium 3 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12422 H 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     AZ Alkmaar   vs   Olympiacos"
+        },
+        {
+            "channel": "Cosmote Sport 1 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "11843 V 27500 - 3/5",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     AZ Alkmaar   vs   Olympiacos"
+        },
+        {
+            "channel": "Okko Futbol HD ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     AZ Alkmaar   vs   Olympiacos"
+        },
+        {
+            "channel": "ON Sport HD",
+            "sat": "Nilesat 201 7.0\u00b0w",
+            "freq": "12015 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     AZ Alkmaar   vs   Olympiacos"
+        },
+        {
+            "channel": "Sport TV4 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     AZ Alkmaar   vs   Olympiacos"
+        },
+        {
+            "compet": "Friendly Club Match",
             "match": "     Kickers Offenbach   vs   Bayer Leverkusen",
             "flags": {
                 "team1": "germany",
@@ -765,48 +823,6 @@
             "encry": "",
             "link": "https://www.vgtv.no/live",
             "related_to": "     Kickers Offenbach   vs   Bayer Leverkusen"
-        },
-        {
-            "compet": "Friendly Club Match",
-            "match": "     AZ Alkmaar   vs   Olympiacos",
-            "flags": {
-                "team1": "holland",
-                "team2": "greece"
-            },
-            "time": "13:00",
-            "date": "2026-07-25"
-        },
-        {
-            "channel": "Arena Premium 3 Srbija HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12422 H 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "#",
-            "related_to": "     AZ Alkmaar   vs   Olympiacos"
-        },
-        {
-            "channel": "Cosmote Sport 1 HD",
-            "sat": "Eutelsat 9B 9.0\u00b0e",
-            "freq": "11843 V 27500 - 3/5",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     AZ Alkmaar   vs   Olympiacos"
-        },
-        {
-            "channel": "Okko Futbol HD ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     AZ Alkmaar   vs   Olympiacos"
-        },
-        {
-            "channel": "Sport TV4 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12360 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     AZ Alkmaar   vs   Olympiacos"
         },
         {
             "compet": "Swedish Allsvenskan - Week 14",
@@ -1109,6 +1125,154 @@
             "related_to": "     IFK Mariehamn   vs   AC Oulu"
         },
         {
+            "compet": "Friendly Club Match - Celtic Park, Glasgow",
+            "match": "     Celtic   vs   AC Milan",
+            "flags": {
+                "team1": "scotland",
+                "team2": "italy"
+            },
+            "time": "14:00",
+            "date": "2026-07-25"
+        },
+        {
+            "channel": "Abu Dhabi Sports 1 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11804 H 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%201",
+            "related_to": "     Celtic   vs   AC Milan"
+        },
+        {
+            "channel": "Celtic Player ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://player.celticfc.com/",
+            "related_to": "     Celtic   vs   AC Milan"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Celtic   vs   AC Milan"
+        },
+        {
+            "channel": "DAZN Italia ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Celtic   vs   AC Milan"
+        },
+        {
+            "channel": "Kuwait Sport HD",
+            "sat": "Badr 4 26.0\u00b0e",
+            "freq": "12523 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Celtic   vs   AC Milan"
+        },
+        {
+            "channel": "Okko Futbol HD ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Celtic   vs   AC Milan"
+        },
+        {
+            "channel": "ON Sport Plus HD",
+            "sat": "Nilesat 201 7.0\u00b0w",
+            "freq": "11977 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Celtic   vs   AC Milan"
+        },
+        {
+            "channel": "Sky Sport Calcio HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12073 V 29900 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Celtic   vs   AC Milan"
+        },
+        {
+            "channel": "Sport 2 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "12259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Celtic   vs   AC Milan"
+        },
+        {
+            "channel": "Sport Bladet Play (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.sportbladetplay.se/schedule",
+            "related_to": "     Celtic   vs   AC Milan"
+        },
+        {
+            "channel": "Sport TV2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Celtic   vs   AC Milan"
+        },
+        {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Celtic   vs   AC Milan"
+        },
+        {
+            "channel": "TRT Spor T\u00fcrkiye HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11054 V 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "related_to": "     Celtic   vs   AC Milan"
+        },
+        {
+            "channel": "TV Tipsport Czechia",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tipsporttv.livebox.cz/",
+            "related_to": "     Celtic   vs   AC Milan"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
+            "related_to": "     Celtic   vs   AC Milan"
+        },
+        {
+            "compet": "Scottish League Cup - Round 5",
+            "match": "     Greenock Morton   vs   Inverness CT",
+            "flags": {
+                "team1": "scotland",
+                "team2": "scotland"
+            },
+            "time": "14:00",
+            "date": "2026-07-25"
+        },
+        {
+            "channel": "Greenock Morton TV [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.gmfc.net/sponsors/",
+            "related_to": "     Greenock Morton   vs   Inverness CT"
+        },
+        {
             "compet": "Friendly Club Match",
             "match": "     Bolton Wanderers   vs   Everton",
             "flags": {
@@ -1173,104 +1337,6 @@
             "encry": "",
             "link": "https://www.vgtv.no/live",
             "related_to": "     Bolton Wanderers   vs   Everton"
-        },
-        {
-            "compet": "Friendly Club Match - Celtic Park, Glasgow",
-            "match": "     Celtic   vs   AC Milan",
-            "flags": {
-                "team1": "scotland",
-                "team2": "italy"
-            },
-            "time": "14:00",
-            "date": "2026-07-25"
-        },
-        {
-            "channel": "Celtic Player ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "https://player.celticfc.com/",
-            "related_to": "     Celtic   vs   AC Milan"
-        },
-        {
-            "channel": "DAZN Belgium ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.dazn.com/en-BE/",
-            "related_to": "     Celtic   vs   AC Milan"
-        },
-        {
-            "channel": "DAZN Italia ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Celtic   vs   AC Milan"
-        },
-        {
-            "channel": "Okko Futbol HD ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Celtic   vs   AC Milan"
-        },
-        {
-            "channel": "Sky Sport Calcio HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "12073 V 29900 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Celtic   vs   AC Milan"
-        },
-        {
-            "channel": "Sport 2 Israel HD",
-            "sat": "Dror 1 4.0\u00b0w",
-            "freq": "12259 V 30000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Celtic   vs   AC Milan"
-        },
-        {
-            "channel": "Sport Bladet Play (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.sportbladetplay.se/schedule",
-            "related_to": "     Celtic   vs   AC Milan"
-        },
-        {
-            "channel": "Sport TV2 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Celtic   vs   AC Milan"
-        },
-        {
-            "channel": "TRT Spor T\u00fcrkiye HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11054 V 30000 - 3/4",
-            "encry": "FTA",
-            "link": "https://www.trtizle.com/canli/tv/trt-spor",
-            "related_to": "     Celtic   vs   AC Milan"
-        },
-        {
-            "channel": "TV Tipsport Czechia",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://tipsporttv.livebox.cz/",
-            "related_to": "     Celtic   vs   AC Milan"
-        },
-        {
-            "channel": "VG+ Sport Norge ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.vgtv.no/live",
-            "related_to": "     Celtic   vs   AC Milan"
         },
         {
             "compet": "Scottish League Cup - Round 5",
@@ -2043,40 +2109,6 @@
             "related_to": "     G\u00f3rnik Zabrze   vs   Slask Wroclaw"
         },
         {
-            "compet": "Swedish Allsvenskan - Week 14",
-            "match": "     Kalmar   vs   Mj\u00e4llby AIF",
-            "flags": {
-                "team1": "sweden",
-                "team2": "sweden"
-            },
-            "time": "15:30",
-            "date": "2026-07-25"
-        },
-        {
-            "channel": "TV4 Play Sverige [online]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.tv4play.se/sport",
-            "related_to": "     Kalmar   vs   Mj\u00e4llby AIF"
-        },
-        {
-            "channel": "TV4 Sport Live 1 HD",
-            "sat": "Thor 6 0.8\u00b0w",
-            "freq": "10934 H 25000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Kalmar   vs   Mj\u00e4llby AIF"
-        },
-        {
-            "channel": "VG+ Sport Norge ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.vgtv.no/live",
-            "related_to": "     Kalmar   vs   Mj\u00e4llby AIF"
-        },
-        {
             "compet": "Russian Premier League - Week 1",
             "match": "     Fakel Voronezh   vs   Dynamo Makhachkala",
             "flags": {
@@ -2159,6 +2191,40 @@
             "encry": "",
             "link": "#",
             "related_to": "     Radnicki Nis   vs   Cukaricki"
+        },
+        {
+            "compet": "Swedish Allsvenskan - Week 14",
+            "match": "     Kalmar   vs   Mj\u00e4llby AIF",
+            "flags": {
+                "team1": "sweden",
+                "team2": "sweden"
+            },
+            "time": "15:30",
+            "date": "2026-07-25"
+        },
+        {
+            "channel": "TV4 Play Sverige [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "     Kalmar   vs   Mj\u00e4llby AIF"
+        },
+        {
+            "channel": "TV4 Sport Live 1 HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10934 H 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Kalmar   vs   Mj\u00e4llby AIF"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
+            "related_to": "     Kalmar   vs   Mj\u00e4llby AIF"
         },
         {
             "compet": "Friendly Club Match",
@@ -3003,6 +3069,22 @@
             "related_to": "     Standard Li\u00e8ge   vs   Juventus"
         },
         {
+            "channel": "Kuwait Sport HD",
+            "sat": "Badr 4 26.0\u00b0e",
+            "freq": "12523 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Standard Li\u00e8ge   vs   Juventus"
+        },
+        {
+            "channel": "Nove Italia HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11393 V 29900 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "https://it.dplay.com/nove/",
+            "related_to": "     Standard Li\u00e8ge   vs   Juventus"
+        },
+        {
             "channel": "Okko Futbol HD ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -3011,9 +3093,33 @@
             "related_to": "     Standard Li\u00e8ge   vs   Juventus"
         },
         {
+            "channel": "ON Sport HD",
+            "sat": "Nilesat 201 7.0\u00b0w",
+            "freq": "12015 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Standard Li\u00e8ge   vs   Juventus"
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Standard Li\u00e8ge   vs   Juventus"
+        },
+        {
             "channel": "Sky Sport Calcio HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "12073 V 29900 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Standard Li\u00e8ge   vs   Juventus"
+        },
+        {
+            "channel": "Sky Sport Uno Italia HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11958 V 27500 - 3/4",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Standard Li\u00e8ge   vs   Juventus"
@@ -3032,6 +3138,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.sportbladetplay.se/schedule",
+            "related_to": "     Standard Li\u00e8ge   vs   Juventus"
+        },
+        {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
             "related_to": "     Standard Li\u00e8ge   vs   Juventus"
         },
         {
@@ -3541,6 +3655,14 @@
             "related_to": "     Sporting Lisbon   vs   Monaco"
         },
         {
+            "channel": "Persiana Sports 3 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Sporting Lisbon   vs   Monaco"
+        },
+        {
             "channel": "Sport TV1 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
@@ -3619,6 +3741,22 @@
             },
             "time": "19:00",
             "date": "2026-07-25"
+        },
+        {
+            "channel": "ON Sport Plus HD",
+            "sat": "Nilesat 201 7.0\u00b0w",
+            "freq": "11977 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     FC Porto   vs   Aston Villa"
+        },
+        {
+            "channel": "Persiana Sports 2 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
+            "related_to": "     FC Porto   vs   Aston Villa"
         },
         {
             "channel": "Premier Sports 2 Ireland HD",
@@ -3917,6 +4055,14 @@
             "related_to": "     Liverpool   vs   Sunderland"
         },
         {
+            "channel": "DAZN Japan ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Liverpool   vs   Sunderland"
+        },
+        {
             "channel": "LFC TV HD",
             "sat": "Astra 2F 28.2\u00b0e",
             "freq": "12188 H 27500 - 2/3",
@@ -3941,6 +4087,14 @@
             "related_to": "     Liverpool   vs   Sunderland"
         },
         {
+            "channel": "Sharjah Sports HD",
+            "sat": "Eutelsat 8 West B 8.0\u00b0w",
+            "freq": "11013 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "https://sba.net.ae/channels/tv/35/stream",
+            "related_to": "     Liverpool   vs   Sunderland"
+        },
+        {
             "channel": "Sport 4 Israel HD",
             "sat": "Dror 1 4.0\u00b0w",
             "freq": "11259 V 30000 - 2/3",
@@ -3961,6 +4115,22 @@
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Liverpool   vs   Sunderland"
+        },
+        {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Liverpool   vs   Sunderland"
+        },
+        {
+            "channel": "ST World Football HD",
+            "sat": "Eutelsat 10B 10.0\u00b0e",
+            "freq": "3736 R 07307 - 5/6",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Liverpool   vs   Sunderland"
         },
@@ -4270,6 +4440,14 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://video.leedsunited.com/fixtures",
+            "related_to": "     Wrexham   vs   Leeds United"
+        },
+        {
+            "channel": "ON Sport Plus HD",
+            "sat": "Nilesat 201 7.0\u00b0w",
+            "freq": "11977 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "     Wrexham   vs   Leeds United"
         },
         {
