@@ -953,6 +953,24 @@
             "related_to": "     IFK V\u00e4rnamo   vs   Brage"
         },
         {
+            "compet": "Friendly Club Match",
+            "match": "     Watford   vs   Hansa Rostock",
+            "flags": {
+                "team1": "england",
+                "team2": "germany"
+            },
+            "time": "13:15",
+            "date": "2026-07-25"
+        },
+        {
+            "channel": "Watford FC TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.watfordfc.com/live",
+            "related_to": "     Watford   vs   Hansa Rostock"
+        },
+        {
             "compet": "Russian Premier League - Week 1",
             "match": "     Akron   vs   Zenit St Petersburg",
             "flags": {
@@ -1125,6 +1143,24 @@
             "related_to": "     IFK Mariehamn   vs   AC Oulu"
         },
         {
+            "compet": "Friendly Club Match",
+            "match": "     Boston United   vs   Peterborough United",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "14:00",
+            "date": "2026-07-25"
+        },
+        {
+            "channel": "POSH+ ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.theposh.com/video/live",
+            "related_to": "     Boston United   vs   Peterborough United"
+        },
+        {
             "compet": "Friendly Club Match - Celtic Park, Glasgow",
             "match": "     Celtic   vs   AC Milan",
             "flags": {
@@ -1135,11 +1171,11 @@
             "date": "2026-07-25"
         },
         {
-            "channel": "Abu Dhabi Sports 1 HD",
+            "channel": "Abu Dhabi Sports 2 HD",
             "sat": "Badr 8 26.0\u00b0e",
             "freq": "11804 H 30000 - 3/4",
             "encry": "FTA",
-            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%201",
+            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%202",
             "related_to": "     Celtic   vs   AC Milan"
         },
         {
@@ -3035,6 +3071,14 @@
             },
             "time": "18:00",
             "date": "2026-07-25"
+        },
+        {
+            "channel": "Abu Dhabi Sports 1 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11804 H 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%201",
+            "related_to": "     Standard Li\u00e8ge   vs   Juventus"
         },
         {
             "channel": "beIN Sports Australia 3 HD",
