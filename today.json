@@ -4139,6 +4139,22 @@
             "related_to": "     Liverpool   vs   Sunderland"
         },
         {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Liverpool   vs   Sunderland"
+        },
+        {
+            "channel": "SAFC Live ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://safc.com/news/team-news/live-video",
+            "related_to": "     Liverpool   vs   Sunderland"
+        },
+        {
             "channel": "Sharjah Sports HD",
             "sat": "Eutelsat 8 West B 8.0\u00b0w",
             "freq": "11013 V 27500 - 5/6",
@@ -4475,6 +4491,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "     Wrexham   vs   Leeds United"
+        },
+        {
+            "channel": "BBC iPlayer 4K (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "https://www.bbc.co.uk/iplayer",
             "related_to": "     Wrexham   vs   Leeds United"
         },
