@@ -519,40 +519,6 @@
             "related_to": "     Orebro   vs   Oddevold"
         },
         {
-            "compet": "Russian FNL - Week 3",
-            "match": "     KamAZ   vs   Rotor Volgograd",
-            "flags": {
-                "team1": "russia",
-                "team2": "russia"
-            },
-            "time": "17:00",
-            "date": "2026-07-27"
-        },
-        {
-            "channel": "MATCH! Planeta",
-            "sat": "ABS 2A 75.0\u00b0e",
-            "freq": "12533 V 44950 - 4/5",
-            "encry": "MPEG-4 NDS",
-            "link": "#",
-            "related_to": "     KamAZ   vs   Rotor Volgograd"
-        },
-        {
-            "channel": "MATCH! Premier HD",
-            "sat": "Horizons 2 84.8\u00b0e",
-            "freq": "11720 H 28800 - 3/4",
-            "encry": "Conax",
-            "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
-            "related_to": "     KamAZ   vs   Rotor Volgograd"
-        },
-        {
-            "channel": "MATCH! Russia HD",
-            "sat": "Yamal 401 90.0\u00b0e",
-            "freq": "3786 R 15284 - 3/4",
-            "encry": "MPEG-4 GoSTcrypt",
-            "link": "#",
-            "related_to": "     KamAZ   vs   Rotor Volgograd"
-        },
-        {
             "compet": "Polish Ekstraklasa - Week 1",
             "match": "     Zaglebie Lubin   vs   Piast Gliwice",
             "flags": {
@@ -561,6 +527,14 @@
             },
             "time": "17:00",
             "date": "2026-07-27"
+        },
+        {
+            "channel": "Arena M3 Premium MKD HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Zaglebie Lubin   vs   Piast Gliwice"
         },
         {
             "channel": "Arena Premium 2 BiH HD",
@@ -617,6 +591,40 @@
             "encry": "",
             "link": "https://www.ekstraklasa.tv/ekstraklasa/",
             "related_to": "     Zaglebie Lubin   vs   Piast Gliwice"
+        },
+        {
+            "compet": "Russian FNL - Week 3",
+            "match": "     KamAZ   vs   Rotor Volgograd",
+            "flags": {
+                "team1": "russia",
+                "team2": "russia"
+            },
+            "time": "17:00",
+            "date": "2026-07-27"
+        },
+        {
+            "channel": "MATCH! Planeta",
+            "sat": "ABS 2A 75.0\u00b0e",
+            "freq": "12533 V 44950 - 4/5",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     KamAZ   vs   Rotor Volgograd"
+        },
+        {
+            "channel": "MATCH! Premier HD",
+            "sat": "Horizons 2 84.8\u00b0e",
+            "freq": "11720 H 28800 - 3/4",
+            "encry": "Conax",
+            "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
+            "related_to": "     KamAZ   vs   Rotor Volgograd"
+        },
+        {
+            "channel": "MATCH! Russia HD",
+            "sat": "Yamal 401 90.0\u00b0e",
+            "freq": "3786 R 15284 - 3/4",
+            "encry": "MPEG-4 GoSTcrypt",
+            "link": "#",
+            "related_to": "     KamAZ   vs   Rotor Volgograd"
         },
         {
             "compet": "Swedish Damallsvenskan - Week 13",
@@ -832,6 +840,14 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
+            "related_to": "     Galatasaray   vs   Venezia"
+        },
+        {
+            "channel": "Magenta Sport ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
             "related_to": "     Galatasaray   vs   Venezia"
         },
         {
