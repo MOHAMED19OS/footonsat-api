@@ -79,6 +79,14 @@
             "related_to": "     Dinamo Zagreb   vs   Thun"
         },
         {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Dinamo Zagreb   vs   Thun"
+        },
+        {
             "channel": "Play RTS Sport (geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -232,6 +240,14 @@
             "freq": "11303 H 22000 - 2/3",
             "encry": "HD Viaccess",
             "link": "https://on.orf.at/live?channel=orf1",
+            "related_to": "     Hearts   vs   Sturm Graz"
+        },
+        {
+            "channel": "Persiana Sports 2 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
             "related_to": "     Hearts   vs   Sturm Graz"
         },
         {
@@ -575,6 +591,14 @@
             "date": "2026-08-03"
         },
         {
+            "channel": "Cosmote Sport 1 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "11843 V 27500 - 3/5",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "       - UEFA Champions League Draw -       "
+        },
+        {
             "channel": "Nova Sport 3 Czech HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11934 V 27500 - 3/4",
@@ -604,6 +628,30 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.uefa.tv/",
+            "related_to": "       - UEFA Champions League Draw -       "
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "       - UEFA Champions League Draw -       "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "       - UEFA Champions League Draw -       "
+        },
+        {
+            "channel": "ViaPlay \u00cdsland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
             "related_to": "       - UEFA Champions League Draw -       "
         },
         {

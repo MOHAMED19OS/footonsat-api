@@ -137,14 +137,6 @@
             "date": "2026-07-30"
         },
         {
-            "channel": "Sport 1 Czechia HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12070 H 27500 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Hradec Kr\u00e1lov\u00e9   vs   Troms\u00f8"
-        },
-        {
             "channel": "TV Tipsport Czechia",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -387,6 +379,14 @@
             },
             "time": "11:00",
             "date": "2026-08-03"
+        },
+        {
+            "channel": "Cosmote Sport 1 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "11843 V 27500 - 3/5",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "       - UEFA Europa League Draw -       "
         },
         {
             "channel": "UEFA.TV [online] (geo/R)",
