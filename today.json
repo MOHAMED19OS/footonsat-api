@@ -289,6 +289,14 @@
             "related_to": "     Tottenham Hotspur   vs   Sydney FC"
         },
         {
+            "channel": "Kuwait Sport HD",
+            "sat": "Badr 4 26.0\u00b0e",
+            "freq": "12523 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Tottenham Hotspur   vs   Sydney FC"
+        },
+        {
             "channel": "Match 4 Hungary HD",
             "sat": "Thor 7 0.6\u00b0w",
             "freq": "12130 H 28000 - 7/8",
@@ -455,6 +463,14 @@
             "sat": "Hotbird 13G 13.0\u00b0e",
             "freq": "11488 H 27500 - 3/4",
             "encry": "HD Mediaguard",
+            "link": "#",
+            "related_to": "     Cerezo Osaka   vs   Borussia Dortmund"
+        },
+        {
+            "channel": "MBC Action HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "12284 V 27500 - 5/6",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Cerezo Osaka   vs   Borussia Dortmund"
         },
@@ -973,6 +989,14 @@
             "related_to": "     Al Ula   vs   Villarreal"
         },
         {
+            "channel": "Teledeporte Espa\u00f1a",
+            "sat": "*DTT 0.0\u00b0-",
+            "freq": "0000 - -",
+            "encry": "HD NagraVision",
+            "link": "http://www.rtve.es/directo/teledeporte/",
+            "related_to": "     Al Ula   vs   Villarreal"
+        },
+        {
             "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [3-3]",
             "match": "     FC Copenhagen   vs   Polissya Zhytomyr",
             "flags": {
@@ -1243,6 +1267,14 @@
             "related_to": "     Real Betis   vs   Lyon"
         },
         {
+            "channel": "Teledeporte Espa\u00f1a",
+            "sat": "*DTT 0.0\u00b0-",
+            "freq": "0000 - -",
+            "encry": "HD NagraVision",
+            "link": "http://www.rtve.es/directo/teledeporte/",
+            "related_to": "     Real Betis   vs   Lyon"
+        },
+        {
             "channel": "TRT Spor T\u00fcrkiye HD",
             "sat": "Turksat 3A 42.0\u00b0e",
             "freq": "11054 V 30000 - 3/4",
@@ -1321,6 +1353,14 @@
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     G\u00f3rnik Zabrze   vs   Fenerbah\u00e7e"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD Viaccess",
             "link": "#",
             "related_to": "     G\u00f3rnik Zabrze   vs   Fenerbah\u00e7e"
         },
@@ -1446,21 +1486,21 @@
         },
         {
             "compet": "Friendly Club Match - Como Cup Day 2",
-            "match": "     Villarreal   vs   Como 1907",
+            "match": "     Como 1907   vs   Al Ula",
             "flags": {
-                "team1": "spain",
-                "team2": "italy"
+                "team1": "italy",
+                "team2": "saudiarabia"
             },
             "time": "18:30",
             "date": "2026-07-29"
         },
         {
-            "channel": "GOL Espa\u00f1a HD",
+            "channel": "Como TV ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 - -",
-            "encry": "Seca",
-            "link": "https://www.goltelevision.com/en-directo",
-            "related_to": "     Villarreal   vs   Como 1907"
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.comofootball.com/liveEvent.html",
+            "related_to": "     Como 1907   vs   Al Ula"
         },
         {
             "channel": "Okko Prime Sport HD ($/geo/R)",
@@ -1468,7 +1508,7 @@
             "freq": "0000 0",
             "encry": "",
             "link": "#",
-            "related_to": "     Villarreal   vs   Como 1907"
+            "related_to": "     Como 1907   vs   Al Ula"
         },
         {
             "channel": "Sport 4 Israel HD",
@@ -1476,7 +1516,7 @@
             "freq": "11259 V 30000 - 2/3",
             "encry": "HD VideoGuard",
             "link": "#",
-            "related_to": "     Villarreal   vs   Como 1907"
+            "related_to": "     Como 1907   vs   Al Ula"
         },
         {
             "channel": "Sportitalia HD",
@@ -1484,15 +1524,7 @@
             "freq": "12341 V 31400 - 5/6",
             "encry": "FTA",
             "link": "https://sportitalialive.it/sihd/",
-            "related_to": "     Villarreal   vs   Como 1907"
-        },
-        {
-            "channel": "TV Tipsport Czechia",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://tipsporttv.livebox.cz/",
-            "related_to": "     Villarreal   vs   Como 1907"
+            "related_to": "     Como 1907   vs   Al Ula"
         },
         {
             "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [3-1]",
@@ -1592,80 +1624,6 @@
         },
         {
             "compet": "Friendly Club Match",
-            "match": "     Birmingham City   vs   Barcelona XI",
-            "flags": {
-                "team1": "england",
-                "team2": "catalonia"
-            },
-            "time": "18:45",
-            "date": "2026-07-29"
-        },
-        {
-            "channel": "Arena M2 Premium MKD HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12246 V 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Birmingham City   vs   Barcelona XI"
-        },
-        {
-            "channel": "Arena Premium 2 Srbija HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "#",
-            "related_to": "     Birmingham City   vs   Barcelona XI"
-        },
-        {
-            "channel": "Arena Premium 4 BiH HD",
-            "sat": " 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Birmingham City   vs   Barcelona XI"
-        },
-        {
-            "channel": "Blues+ TV ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.bcfc.com/pages/en/latest-videos",
-            "related_to": "     Birmingham City   vs   Barcelona XI"
-        },
-        {
-            "channel": "MAX Sport 4 Bulgaria HD",
-            "sat": "AzerSpace 2 45.0\u00b0e",
-            "freq": "11475 V 30000 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Birmingham City   vs   Barcelona XI"
-        },
-        {
-            "channel": "Sport 2 Israel HD",
-            "sat": "Dror 1 4.0\u00b0w",
-            "freq": "12259 V 30000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Birmingham City   vs   Barcelona XI"
-        },
-        {
-            "channel": "SportKlub 1 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11471 H 30000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Birmingham City   vs   Barcelona XI"
-        },
-        {
-            "channel": "Ziggo Sport 2",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12129 V 29900 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "#",
-            "related_to": "     Birmingham City   vs   Barcelona XI"
-        },
-        {
-            "compet": "Friendly Club Match",
             "match": "     Burnley   vs   Espanyol XI",
             "flags": {
                 "team1": "england",
@@ -1728,21 +1686,21 @@
         },
         {
             "compet": "Friendly Club Match - Como Cup Day 2",
-            "match": "     Como 1907   vs   Al Ula",
+            "match": "     Villarreal   vs   Como 1907",
             "flags": {
-                "team1": "italy",
-                "team2": "saudiarabia"
+                "team1": "spain",
+                "team2": "italy"
             },
             "time": "20:00",
             "date": "2026-07-29"
         },
         {
-            "channel": "Como TV ($/geo/R)",
+            "channel": "GOL Espa\u00f1a HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://tv.comofootball.com/liveEvent.html",
-            "related_to": "     Como 1907   vs   Al Ula"
+            "freq": "0000 - -",
+            "encry": "Seca",
+            "link": "https://www.goltelevision.com/en-directo",
+            "related_to": "     Villarreal   vs   Como 1907"
         },
         {
             "channel": "Okko Prime Sport HD ($/geo/R)",
@@ -1750,7 +1708,7 @@
             "freq": "0000 0",
             "encry": "",
             "link": "#",
-            "related_to": "     Como 1907   vs   Al Ula"
+            "related_to": "     Villarreal   vs   Como 1907"
         },
         {
             "channel": "Sport 4 Israel HD",
@@ -1758,7 +1716,7 @@
             "freq": "11259 V 30000 - 2/3",
             "encry": "HD VideoGuard",
             "link": "#",
-            "related_to": "     Como 1907   vs   Al Ula"
+            "related_to": "     Villarreal   vs   Como 1907"
         },
         {
             "channel": "Sportitalia HD",
@@ -1766,7 +1724,23 @@
             "freq": "12341 V 31400 - 5/6",
             "encry": "FTA",
             "link": "https://sportitalialive.it/sihd/",
-            "related_to": "     Como 1907   vs   Al Ula"
+            "related_to": "     Villarreal   vs   Como 1907"
+        },
+        {
+            "channel": "Teledeporte Espa\u00f1a",
+            "sat": "*DTT 0.0\u00b0-",
+            "freq": "0000 - -",
+            "encry": "HD NagraVision",
+            "link": "http://www.rtve.es/directo/teledeporte/",
+            "related_to": "     Villarreal   vs   Como 1907"
+        },
+        {
+            "channel": "TV Tipsport Czechia",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tipsporttv.livebox.cz/",
+            "related_to": "     Villarreal   vs   Como 1907"
         },
         {
             "compet": "CONCACAF U-20 Championships - Round 2",
@@ -2343,6 +2317,14 @@
             "related_to": "     Liverpool   vs   Wrexham"
         },
         {
+            "channel": "Sharjah Sports HD",
+            "sat": "Eutelsat 8 West B 8.0\u00b0w",
+            "freq": "11013 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "https://sba.net.ae/channels/tv/35/stream",
+            "related_to": "     Liverpool   vs   Wrexham"
+        },
+        {
             "channel": "Sport 2 Israel HD",
             "sat": "Dror 1 4.0\u00b0w",
             "freq": "12259 V 30000 - 2/3",
@@ -2362,6 +2344,14 @@
             "channel": "Sport TV1 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Liverpool   vs   Wrexham"
+        },
+        {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12605 V 30000 - 5/6",
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Liverpool   vs   Wrexham"
