@@ -619,6 +619,22 @@
             "related_to": "     Rottach-Egern   vs   Bayern Munich"
         },
         {
+            "channel": "Sport 6 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Rottach-Egern   vs   Bayern Munich"
+        },
+        {
+            "channel": "YouTube: Bayern Munich",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.youtube.com/watch?v=M5ywrjT5pp8",
+            "related_to": "     Rottach-Egern   vs   Bayern Munich"
+        },
+        {
             "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [1-1]",
             "match": "     Noah   vs   Zimbru Chisinau",
             "flags": {
@@ -1079,6 +1095,40 @@
             "related_to": "     Midtjylland   vs   Besiktas"
         },
         {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [4-2]",
+            "match": "     Dynamo Minsk   vs   Neftchi",
+            "flags": {
+                "team1": "belarus",
+                "team2": "azerbaijan"
+            },
+            "time": "17:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "Belarus 5 HD",
+            "sat": "Belintersat 1 51.5\u00b0e",
+            "freq": "11350 H 45000 - 3/4",
+            "encry": "HD DRE-Crypt",
+            "link": "#",
+            "related_to": "     Dynamo Minsk   vs   Neftchi"
+        },
+        {
+            "channel": "Belarus 5 Internet (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Dynamo Minsk   vs   Neftchi"
+        },
+        {
+            "channel": "Ictimai TV HD",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11095 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Dynamo Minsk   vs   Neftchi"
+        },
+        {
             "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [6-2]",
             "match": "     Gy\u00f6r   vs   Atert Bissen",
             "flags": {
@@ -1103,32 +1153,6 @@
             "encry": "",
             "link": "https://onefootball.com/en/matches",
             "related_to": "     Gy\u00f6r   vs   Atert Bissen"
-        },
-        {
-            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [4-2]",
-            "match": "     Dynamo Minsk   vs   Neftchi",
-            "flags": {
-                "team1": "belarus",
-                "team2": "azerbaijan"
-            },
-            "time": "17:00",
-            "date": "2026-07-30"
-        },
-        {
-            "channel": "Belarus 5 HD",
-            "sat": "Belintersat 1 51.5\u00b0e",
-            "freq": "11350 H 45000 - 3/4",
-            "encry": "HD DRE-Crypt",
-            "link": "#",
-            "related_to": "     Dynamo Minsk   vs   Neftchi"
-        },
-        {
-            "channel": "Ictimai TV HD",
-            "sat": "AzerSpace 1 46.0\u00b0e",
-            "freq": "11095 H 30000 - 5/6",
-            "encry": "FTA",
-            "link": "#",
-            "related_to": "     Dynamo Minsk   vs   Neftchi"
         },
         {
             "compet": "UEFA Europa League - 2nd Qualifying Round (2nd Leg) [0-2]",
@@ -1363,10 +1387,10 @@
             "related_to": "     Valletta   vs   Rak\u00f3w Czestochowa"
         },
         {
-            "channel": "TV Republika HD",
-            "sat": "Hotbird 13G 13.0\u00b0e",
-            "freq": "10758 V 27500 - 3/4",
-            "encry": "HD Conax",
+            "channel": "TV Republika Plus",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Valletta   vs   Rak\u00f3w Czestochowa"
         },
@@ -1376,6 +1400,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "#",
+            "related_to": "     Valletta   vs   Rak\u00f3w Czestochowa"
+        },
+        {
+            "channel": "YouTube: Telewizja Republika",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@Telewizja_Republika",
             "related_to": "     Valletta   vs   Rak\u00f3w Czestochowa"
         },
         {
@@ -2241,6 +2273,14 @@
             "date": "2026-07-30"
         },
         {
+            "channel": "Arena Premium 4 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Benfica   vs   St Gallen"
+        },
+        {
             "channel": "Benfica TV HD",
             "sat": "Eutelsat 36C 35.9\u00b0e",
             "freq": "11304 V 30000 - 5/6",
@@ -2262,6 +2302,14 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.rts.ch/play/tv/categories/sport",
+            "related_to": "     Benfica   vs   St Gallen"
+        },
+        {
+            "channel": "RSI La 2 Svizzera HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "10971 H 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://www.rsi.ch/play/tv/live?tvLiveId=livestream_La2",
             "related_to": "     Benfica   vs   St Gallen"
         },
         {
@@ -2287,6 +2335,32 @@
             "encry": "HD Panaccess",
             "link": "https://www.srf.ch/play/tv/live?tvLiveId=c49c1d64-9f60-0001-1c36-43c288c01a10",
             "related_to": "     Benfica   vs   St Gallen"
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [1-1]",
+            "match": "     Dinamo City   vs   Aluminij",
+            "flags": {
+                "team1": "albania",
+                "team2": "slovenia"
+            },
+            "time": "19:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "SportKlub 1 Slovenija HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Dinamo City   vs   Aluminij"
+        },
+        {
+            "channel": "SuperSport 2 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Dinamo City   vs   Aluminij"
         },
         {
             "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [1-0]",
@@ -2329,24 +2403,6 @@
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Sporting Braga   vs   Zeleznicar"
-        },
-        {
-            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [1-1]",
-            "match": "     Dinamo City   vs   Aluminij",
-            "flags": {
-                "team1": "albania",
-                "team2": "slovenia"
-            },
-            "time": "19:00",
-            "date": "2026-07-30"
-        },
-        {
-            "channel": "SuperSport 2 Albania HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "10845 H 30000 - 3/5",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Dinamo City   vs   Aluminij"
         },
         {
             "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [0-3]",

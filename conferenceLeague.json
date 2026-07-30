@@ -421,6 +421,14 @@
             "related_to": "     Dynamo Minsk   vs   Neftchi"
         },
         {
+            "channel": "Belarus 5 Internet (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Dynamo Minsk   vs   Neftchi"
+        },
+        {
             "channel": "Ictimai TV HD",
             "sat": "AzerSpace 1 46.0\u00b0e",
             "freq": "11095 H 30000 - 5/6",
@@ -585,10 +593,10 @@
             "related_to": "     Valletta   vs   Rak\u00f3w Czestochowa"
         },
         {
-            "channel": "TV Republika HD",
-            "sat": "Hotbird 13G 13.0\u00b0e",
-            "freq": "10758 V 27500 - 3/4",
-            "encry": "HD Conax",
+            "channel": "TV Republika Plus",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Valletta   vs   Rak\u00f3w Czestochowa"
         },
@@ -598,6 +606,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "#",
+            "related_to": "     Valletta   vs   Rak\u00f3w Czestochowa"
+        },
+        {
+            "channel": "YouTube: Telewizja Republika",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@Telewizja_Republika",
             "related_to": "     Valletta   vs   Rak\u00f3w Czestochowa"
         },
         {
@@ -1355,6 +1371,14 @@
             },
             "time": "19:00",
             "date": "2026-07-30"
+        },
+        {
+            "channel": "SportKlub 1 Slovenija HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Dinamo City   vs   Aluminij"
         },
         {
             "channel": "SuperSport 2 Albania HD",
