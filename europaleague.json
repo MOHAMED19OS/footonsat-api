@@ -62,6 +62,24 @@
         },
         {
             "compet": "UEFA Europa League - 3rd Qualifying Round (1st Leg)",
+            "match": "     Salzburg   vs   Pafos FC",
+            "flags": {
+                "team1": "austria",
+                "team2": "cyprus"
+            },
+            "time": "17:00",
+            "date": "2026-08-06"
+        },
+        {
+            "channel": "Arena Sport 2 Slovakia HD",
+            "sat": "Belintersat 1 51.5\u00b0e",
+            "freq": "11230 H 45000 - 8/9",
+            "encry": "HD Panaccess",
+            "link": "#",
+            "related_to": "     Salzburg   vs   Pafos FC"
+        },
+        {
+            "compet": "UEFA Europa League - 3rd Qualifying Round (1st Leg)",
             "match": "     PAOK Thessaloniki   vs   Anderlecht",
             "flags": {
                 "team1": "greece",
@@ -149,6 +167,14 @@
             "sat": "Hellas Sat 3 39.0\u00b0e",
             "freq": "12565 V 30000 - 7/8",
             "encry": "Viaccess",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
+            "channel": "Sky Sport 1 Austria HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12032 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Paris St Germain   vs   Aston Villa"
         },
