@@ -2057,6 +2057,50 @@
             "related_to": "     Haverfordwest   vs   Airbus UK"
         },
         {
+            "compet": "Friendly Club Match",
+            "match": "     Middlesbrough   vs   Espanyol XI",
+            "flags": {
+                "team1": "england",
+                "team2": "catalonia"
+            },
+            "time": "14:00",
+            "date": "2026-08-01"
+        },
+        {
+            "channel": "Esport 3 Catalunya",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "FTA",
+            "link": "https://www.3cat.cat/3cat/directes/esport3/",
+            "related_to": "     Middlesbrough   vs   Espanyol XI"
+        },
+        {
+            "channel": "Middlesbrough FC ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://live.mfc.co.uk/",
+            "related_to": "     Middlesbrough   vs   Espanyol XI"
+        },
+        {
+            "compet": "Friendly Club Match",
+            "match": "     Norwich City   vs   Osasuna",
+            "flags": {
+                "team1": "england",
+                "team2": "spain"
+            },
+            "time": "14:00",
+            "date": "2026-08-01"
+        },
+        {
+            "channel": "Canaries TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.canaries.co.uk/canaries-tv",
+            "related_to": "     Norwich City   vs   Osasuna"
+        },
+        {
             "compet": "Scottish Championship - Week 1",
             "match": "     Greenock Morton   vs   Partick Thistle",
             "flags": {
@@ -2789,24 +2833,6 @@
             "related_to": "     Fredrikstad   vs   Sandefjord"
         },
         {
-            "compet": "Friendly Club Match",
-            "match": "     Middlesbrough   vs   Espanyol XI",
-            "flags": {
-                "team1": "england",
-                "team2": "catalonia"
-            },
-            "time": "14:00",
-            "date": "2026-08-01"
-        },
-        {
-            "channel": "Esport 3 Catalunya",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "FTA",
-            "link": "https://www.3cat.cat/3cat/directes/esport3/",
-            "related_to": "     Middlesbrough   vs   Espanyol XI"
-        },
-        {
             "compet": "Irish FAI Womens Cup - Quarter Final",
             "match": "     Athlone Town   vs   Shamrock Rovers",
             "flags": {
@@ -3473,24 +3499,6 @@
             "related_to": "     Honv\u00e9d   vs   MTK Budapest"
         },
         {
-            "compet": "Irish FAI Womens Cup - Quarter Final",
-            "match": "     Galway United   vs   Sligo Rovers",
-            "flags": {
-                "team1": "ireland",
-                "team2": "ireland"
-            },
-            "time": "16:00",
-            "date": "2026-08-01"
-        },
-        {
-            "channel": "LOI TV ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.loitv.ie/",
-            "related_to": "     Galway United   vs   Sligo Rovers"
-        },
-        {
             "compet": "Friendly Club Match",
             "match": "     Kasimpasa   vs   Hull City",
             "flags": {
@@ -3509,12 +3517,38 @@
             "related_to": "     Kasimpasa   vs   Hull City"
         },
         {
+            "channel": "Tigers+ ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.wearehullcity.co.uk/live",
+            "related_to": "     Kasimpasa   vs   Hull City"
+        },
+        {
             "channel": "TV8.5 T\u00fcrkiye HD",
             "sat": "Turksat 4A 42.0\u00b0e",
             "freq": "12346 H 09600 - 3/4",
             "encry": "FTA",
             "link": "https://www.tv8bucuk.com/tv8-5-canli-yayin",
             "related_to": "     Kasimpasa   vs   Hull City"
+        },
+        {
+            "compet": "Irish FAI Womens Cup - Quarter Final",
+            "match": "     Galway United   vs   Sligo Rovers",
+            "flags": {
+                "team1": "ireland",
+                "team2": "ireland"
+            },
+            "time": "16:00",
+            "date": "2026-08-01"
+        },
+        {
+            "channel": "LOI TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.loitv.ie/",
+            "related_to": "     Galway United   vs   Sligo Rovers"
         },
         {
             "compet": "Friendly Club Match",
@@ -4497,6 +4531,40 @@
             "related_to": "     Estrela Amadora   vs   Al Nassr"
         },
         {
+            "compet": "Friendly Club Match",
+            "match": "     Stoke City   vs   Valencia",
+            "flags": {
+                "team1": "england",
+                "team2": "spain"
+            },
+            "time": "17:30",
+            "date": "2026-08-01"
+        },
+        {
+            "channel": "GOL Espa\u00f1a HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 - -",
+            "encry": "Seca",
+            "link": "https://www.goltelevision.com/en-directo",
+            "related_to": "     Stoke City   vs   Valencia"
+        },
+        {
+            "channel": "Stoke City+ Live ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.stokecityfc.com/live-streaming/guides/",
+            "related_to": "     Stoke City   vs   Valencia"
+        },
+        {
+            "channel": "\u00c0 Punt TV (Pais Valenci\u00e0)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Stoke City   vs   Valencia"
+        },
+        {
             "compet": "Austrian Bundesliga - Week 1",
             "match": "     Salzburg   vs   Hartberg",
             "flags": {
@@ -4577,32 +4645,6 @@
             "encry": "HD DRE-Crypt",
             "link": "#",
             "related_to": "     Salzburg   vs   Hartberg"
-        },
-        {
-            "compet": "Friendly Club Match",
-            "match": "     Stoke City   vs   Valencia",
-            "flags": {
-                "team1": "england",
-                "team2": "spain"
-            },
-            "time": "17:30",
-            "date": "2026-08-01"
-        },
-        {
-            "channel": "GOL Espa\u00f1a HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 - -",
-            "encry": "Seca",
-            "link": "https://www.goltelevision.com/en-directo",
-            "related_to": "     Stoke City   vs   Valencia"
-        },
-        {
-            "channel": "\u00c0 Punt TV (Pais Valenci\u00e0)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Stoke City   vs   Valencia"
         },
         {
             "channel": "5 SPORT Israel HD",
