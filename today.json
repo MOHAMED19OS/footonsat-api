@@ -1499,6 +1499,24 @@
             "related_to": "     Piast Gliwice   vs   Wisla Krak\u00f3w"
         },
         {
+            "compet": "Friendly Club Match",
+            "match": "     Energie Cottbus   vs   Werder Bremen",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "13:00",
+            "date": "2026-08-01"
+        },
+        {
+            "channel": "DFB.TV Germany",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 - -",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Energie Cottbus   vs   Werder Bremen"
+        },
+        {
             "compet": "Friendly Club Match - Solna, Sweden",
             "match": "     Manchester United   vs   Atl\u00e9tico Madrid",
             "flags": {
@@ -2029,6 +2047,24 @@
             "encry": "",
             "link": "https://www.cymrufootball.tv/en",
             "related_to": "     Haverfordwest   vs   Airbus UK"
+        },
+        {
+            "compet": "Irish FAI Womens Cup - Quarter Final",
+            "match": "     Bohemians   vs   Shelbourne",
+            "flags": {
+                "team1": "ireland",
+                "team2": "ireland"
+            },
+            "time": "14:00",
+            "date": "2026-08-01"
+        },
+        {
+            "channel": "LOI TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.loitv.ie/",
+            "related_to": "     Bohemians   vs   Shelbourne"
         },
         {
             "compet": "Friendly Club Match",
@@ -2745,6 +2781,24 @@
             "related_to": "     Fredrikstad   vs   Sandefjord"
         },
         {
+            "compet": "Irish FAI Womens Cup - Quarter Final",
+            "match": "     Athlone Town   vs   Shamrock Rovers",
+            "flags": {
+                "team1": "ireland",
+                "team2": "ireland"
+            },
+            "time": "14:30",
+            "date": "2026-08-01"
+        },
+        {
+            "channel": "LOI TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.loitv.ie/",
+            "related_to": "     Athlone Town   vs   Shamrock Rovers"
+        },
+        {
             "compet": "Friendly Club Match",
             "match": "     Hamburg   vs   Everton",
             "flags": {
@@ -3373,6 +3427,42 @@
             "encry": "VideoGuard",
             "link": "#",
             "related_to": "     Voluntari   vs   UTA Arad"
+        },
+        {
+            "compet": "Hungarian NB 1 - Week 2",
+            "match": "     Honv\u00e9d   vs   MTK Budapest",
+            "flags": {
+                "team1": "hungary",
+                "team2": "hungary"
+            },
+            "time": "15:30",
+            "date": "2026-08-01"
+        },
+        {
+            "channel": "M4 Sport Hungary HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11778 V 29900 - 2/3",
+            "encry": "HD Conax",
+            "link": "https://m4sport.hu/elo/mtv4live/",
+            "related_to": "     Honv\u00e9d   vs   MTK Budapest"
+        },
+        {
+            "compet": "Irish FAI Womens Cup - Quarter Final",
+            "match": "     Galway United   vs   Sligo Rovers",
+            "flags": {
+                "team1": "ireland",
+                "team2": "ireland"
+            },
+            "time": "16:00",
+            "date": "2026-08-01"
+        },
+        {
+            "channel": "LOI TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.loitv.ie/",
+            "related_to": "     Galway United   vs   Sligo Rovers"
         },
         {
             "compet": "Friendly Club Match",
@@ -4503,24 +4593,6 @@
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Bnei Sakhnin   vs   Hapoel Haifa"
-        },
-        {
-            "compet": "Hungarian NB 1 - Week 2",
-            "match": "     Honv\u00e9d   vs   MTK Budapest",
-            "flags": {
-                "team1": "hungary",
-                "team2": "hungary"
-            },
-            "time": "17:30",
-            "date": "2026-08-01"
-        },
-        {
-            "channel": "M4 Sport Hungary HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11778 V 29900 - 2/3",
-            "encry": "HD Conax",
-            "link": "https://m4sport.hu/elo/mtv4live/",
-            "related_to": "     Honv\u00e9d   vs   MTK Budapest"
         },
         {
             "compet": "Russian Premier League - Week 2",
