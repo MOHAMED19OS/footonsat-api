@@ -1,24 +1,6 @@
 {
     "footonsat": [
         {
-            "compet": "Dutch Womens Super Cup - FINAL",
-            "match": "     PSV Eindhoven   vs   Twente",
-            "flags": {
-                "team1": "holland",
-                "team2": "holland"
-            },
-            "time": "12:00",
-            "date": "2026-08-01"
-        },
-        {
-            "channel": "ESPN 1 Nederland HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "11739 V 29900 - 3/4",
-            "encry": "HD Mediaguard",
-            "link": "#",
-            "related_to": "     PSV Eindhoven   vs   Twente"
-        },
-        {
             "compet": "Dutch Super Cup (Johan Cruijff Shield) - FINAL",
             "match": "     PSV Eindhoven   vs   AZ Alkmaar",
             "flags": {
@@ -137,6 +119,14 @@
             "sat": "Astra 4A 5.0\u00b0e",
             "freq": "12207 V 30000 - 2/3",
             "encry": "HD Verimatrix",
+            "link": "#",
+            "related_to": "     PSV Eindhoven   vs   AZ Alkmaar"
+        },
+        {
+            "channel": "Silk Universal HD",
+            "sat": "Astra 5B 31.5\u00b0e",
+            "freq": "12207 V 27500 - 5/6",
+            "encry": "MPEG-4 Bulcrypt",
             "link": "#",
             "related_to": "     PSV Eindhoven   vs   AZ Alkmaar"
         },
