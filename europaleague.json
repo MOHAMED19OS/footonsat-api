@@ -85,6 +85,14 @@
             "related_to": "     Larne   vs   Iberia 1999"
         },
         {
+            "channel": "Silk Universal HD",
+            "sat": "Astra 5B 31.5\u00b0e",
+            "freq": "12207 V 27500 - 5/6",
+            "encry": "MPEG-4 Bulcrypt",
+            "link": "#",
+            "related_to": "     Larne   vs   Iberia 1999"
+        },
+        {
             "compet": "UEFA Europa League - 3rd Qualifying Round (1st Leg)",
             "match": "     Shamrock Rovers   vs   Egnatia",
             "flags": {
@@ -118,6 +126,14 @@
             "freq": "12422 H 30000 - 3/4",
             "encry": "MPEG-4 Nagra",
             "link": "#",
+            "related_to": "     Ferencv\u00e1ros   vs   G\u00f3rnik Zabrze"
+        },
+        {
+            "channel": "M4 Sport Hungary HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11778 V 29900 - 2/3",
+            "encry": "HD Conax",
+            "link": "https://m4sport.hu/elo/mtv4live/",
             "related_to": "     Ferencv\u00e1ros   vs   G\u00f3rnik Zabrze"
         },
         {
@@ -164,10 +180,10 @@
         },
         {
             "compet": "UEFA Europa League - 3rd Qualifying Round (1st Leg)",
-            "match": "     Maccabi Tel Aviv   vs   Salzburg",
+            "match": "     Maccabi Tel Aviv   vs   CSKA Sofia",
             "flags": {
                 "team1": "israel",
-                "team2": "austria"
+                "team2": "bulgaria"
             },
             "time": "16:00",
             "date": "2026-08-06"
@@ -178,41 +194,15 @@
             "freq": "0000 -",
             "encry": "",
             "link": "https://sporza.be/nl/categorie/voetbal/",
-            "related_to": "     Maccabi Tel Aviv   vs   Salzburg"
+            "related_to": "     Maccabi Tel Aviv   vs   CSKA Sofia"
         },
         {
-            "compet": "UEFA Europa League - 3rd Qualifying Round (1st Leg)",
-            "match": "     Lincoln Red Imps   vs   Omonia Nicosia",
-            "flags": {
-                "team1": "gibraltar",
-                "team2": "cyprus"
-            },
-            "time": "16:00",
-            "date": "2026-08-06"
-        },
-        {
-            "channel": "Cytavision Sports 2 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
+            "channel": "Sport 1 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "#",
-            "related_to": "     Lincoln Red Imps   vs   Omonia Nicosia"
-        },
-        {
-            "channel": "Omonoia TV on Cyta ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Lincoln Red Imps   vs   Omonia Nicosia"
-        },
-        {
-            "channel": "Play Sports [online] ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 -",
-            "encry": "",
-            "link": "https://sporza.be/nl/categorie/voetbal/",
-            "related_to": "     Lincoln Red Imps   vs   Omonia Nicosia"
+            "related_to": "     Maccabi Tel Aviv   vs   CSKA Sofia"
         },
         {
             "compet": "UEFA Europa League - 3rd Qualifying Round (1st Leg)",
@@ -250,6 +240,24 @@
         },
         {
             "compet": "UEFA Europa League - 3rd Qualifying Round (1st Leg)",
+            "match": "     Hradec Kr\u00e1lov\u00e9   vs   Besiktas",
+            "flags": {
+                "team1": "czechia",
+                "team2": "turkey"
+            },
+            "time": "17:00",
+            "date": "2026-08-06"
+        },
+        {
+            "channel": "Play Sports [online] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 -",
+            "encry": "",
+            "link": "https://sporza.be/nl/categorie/voetbal/",
+            "related_to": "     Hradec Kr\u00e1lov\u00e9   vs   Besiktas"
+        },
+        {
+            "compet": "UEFA Europa League - 3rd Qualifying Round (1st Leg)",
             "match": "     Lech Poznan   vs   K\u00cd Klaksv\u00edk",
             "flags": {
                 "team1": "poland",
@@ -265,6 +273,40 @@
             "encry": "",
             "link": "https://sporza.be/nl/categorie/voetbal/",
             "related_to": "     Lech Poznan   vs   K\u00cd Klaksv\u00edk"
+        },
+        {
+            "compet": "UEFA Europa League - 3rd Qualifying Round (1st Leg)",
+            "match": "     Lincoln Red Imps   vs   Omonia Nicosia",
+            "flags": {
+                "team1": "gibraltar",
+                "team2": "cyprus"
+            },
+            "time": "17:00",
+            "date": "2026-08-06"
+        },
+        {
+            "channel": "Cytavision Sports 2 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Lincoln Red Imps   vs   Omonia Nicosia"
+        },
+        {
+            "channel": "Omonoia TV on Cyta ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Lincoln Red Imps   vs   Omonia Nicosia"
+        },
+        {
+            "channel": "Play Sports [online] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 -",
+            "encry": "",
+            "link": "https://sporza.be/nl/categorie/voetbal/",
+            "related_to": "     Lincoln Red Imps   vs   Omonia Nicosia"
         },
         {
             "compet": "UEFA Europa League - 3rd Qualifying Round (1st Leg)",
@@ -301,22 +343,20 @@
             "related_to": "     Salzburg   vs   Pafos FC"
         },
         {
-            "compet": "UEFA Europa League - 3rd Qualifying Round (1st Leg)",
-            "match": "     Hradec Kr\u00e1lov\u00e9   vs   CSKA Sofia",
-            "flags": {
-                "team1": "czechia",
-                "team2": "bulgaria"
-            },
-            "time": "17:00",
-            "date": "2026-08-06"
+            "channel": "Servus TV [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Salzburg   vs   Pafos FC"
         },
         {
-            "channel": "Play Sports [online] ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 -",
-            "encry": "",
-            "link": "https://sporza.be/nl/categorie/voetbal/",
-            "related_to": "     Hradec Kr\u00e1lov\u00e9   vs   CSKA Sofia"
+            "channel": "Servus TV \u00d6sterreich HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11303 H 22000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Salzburg   vs   Pafos FC"
         },
         {
             "compet": "UEFA Europa League - 3rd Qualifying Round (1st Leg)",
@@ -427,6 +467,24 @@
             "encry": "",
             "link": "https://sporza.be/nl/categorie/voetbal/",
             "related_to": "     Benfica   vs   Hearts"
+        },
+        {
+            "compet": "UEFA Europa League - 3rd Qualifying Round (2nd Leg)",
+            "match": "     Iberia 1999   vs   Larne",
+            "flags": {
+                "team1": "georgia",
+                "team2": "nireland"
+            },
+            "time": "16:00",
+            "date": "2026-08-11"
+        },
+        {
+            "channel": "Silk Universal HD",
+            "sat": "Astra 5B 31.5\u00b0e",
+            "freq": "12207 V 27500 - 5/6",
+            "encry": "MPEG-4 Bulcrypt",
+            "link": "#",
+            "related_to": "     Iberia 1999   vs   Larne"
         },
         {
             "compet": "UEFA Super Cup - FINAL",

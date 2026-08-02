@@ -87,6 +87,14 @@
             "related_to": "     Brann   vs   Apollon Limassol"
         },
         {
+            "channel": "VG+ Sport Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
+            "related_to": "     Brann   vs   Apollon Limassol"
+        },
+        {
             "compet": "UEFA Conference League - 3rd Qualifying Round (1st Leg)",
             "match": "     Panathinaikos   vs   CSKA 1948 Sofia",
             "flags": {
@@ -285,11 +293,11 @@
             "date": "2026-08-06"
         },
         {
-            "channel": "- - -",
+            "channel": "YouTube: Kanal Sportowy",
             "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
+            "freq": "0000 0",
             "encry": "",
-            "link": "#",
+            "link": "https://www.youtube.com/@Kanal_Sportowy",
             "related_to": "     Rak\u00f3w Czestochowa   vs   Hammarby"
         },
         {
@@ -357,11 +365,11 @@
             "date": "2026-08-06"
         },
         {
-            "channel": "- - -",
+            "channel": "FCK TV ($/geo/R",
             "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "https://tv.fck.dk/",
             "related_to": "     Debrecen   vs   FC Copenhagen"
         },
         {
@@ -379,6 +387,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Beitar Jerusalem   vs   Austria Vienna"
+        },
+        {
+            "channel": "Sport 3 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Beitar Jerusalem   vs   Austria Vienna"
         },
@@ -409,6 +425,14 @@
             "related_to": "     Twente   vs   Dunajsk\u00e1 Streda"
         },
         {
+            "channel": "Sport 6 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Twente   vs   Dunajsk\u00e1 Streda"
+        },
+        {
             "compet": "UEFA Conference League - 3rd Qualifying Round (1st Leg)",
             "match": "     Hapoel Tel Aviv   vs   GKS Katowice",
             "flags": {
@@ -419,10 +443,10 @@
             "date": "2026-08-06"
         },
         {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
+            "channel": "Sport 2 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "12259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Hapoel Tel Aviv   vs   GKS Katowice"
         },
@@ -441,6 +465,14 @@
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12246 V 30000 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Ajax   vs   Shelbourne"
+        },
+        {
+            "channel": "Sport 4 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Ajax   vs   Shelbourne"
         },
