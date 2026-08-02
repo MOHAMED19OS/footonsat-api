@@ -169,14 +169,6 @@
             "date": "2026-08-04"
         },
         {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Levski Sofia   vs   Kairat Almaty"
-        },
-        {
             "channel": "Diema Sport HD",
             "sat": "AzerSpace 2 45.0\u00b0e",
             "freq": "12520 V 30000 - 5/6",
@@ -400,6 +392,24 @@
         },
         {
             "compet": "UEFA Champions League - 3rd Qualifying Round (2nd Leg)",
+            "match": "     Bod\u00f8/Glimt   vs   Union St Gilloise",
+            "flags": {
+                "team1": "norway",
+                "team2": "belgium"
+            },
+            "time": "16:00",
+            "date": "2026-08-11"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
+            "related_to": "     Bod\u00f8/Glimt   vs   Union St Gilloise"
+        },
+        {
+            "compet": "UEFA Champions League - 3rd Qualifying Round (2nd Leg)",
             "match": "     Sturm Graz   vs   Fenerbah\u00e7e",
             "flags": {
                 "team1": "austria",
@@ -531,6 +541,14 @@
             "related_to": "     Paris St Germain   vs   Aston Villa"
         },
         {
+            "channel": "SuperSport Premier League HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
             "channel": "TNT Sports 1 HD",
             "sat": "NSS 12 57.0\u00b0e",
             "freq": "3775 L 09583 - 2/3",
@@ -552,6 +570,22 @@
             "freq": "11096 H 30000 - 5/6",
             "encry": "HD Irdeto",
             "link": "https://www.trtizle.com/canli/tv/trt-1",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
+            "channel": "TV2 Sport 1 Norge HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
             "related_to": "     Paris St Germain   vs   Aston Villa"
         }
     ]
