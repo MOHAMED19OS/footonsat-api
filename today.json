@@ -406,32 +406,6 @@
         },
         {
             "compet": "USL Championship - Group Stage",
-            "match": "     Birmingham Legion   vs   Rhode Island",
-            "flags": {
-                "team1": "usa",
-                "team2": "usa"
-            },
-            "time": "00:00",
-            "date": "2026-08-02"
-        },
-        {
-            "channel": "ESPN+ USA ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Birmingham Legion   vs   Rhode Island"
-        },
-        {
-            "channel": "YouTube: USL Championship",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.youtube.com/@USL/streams",
-            "related_to": "     Birmingham Legion   vs   Rhode Island"
-        },
-        {
-            "compet": "USL Championship - Group Stage",
             "match": "     Tampa Bay Rowdies   vs   Louisville City",
             "flags": {
                 "team1": "usa",
@@ -1213,6 +1187,24 @@
             "encry": "",
             "link": "https://www.youtube.com/@SkySportDE/streams",
             "related_to": "     Union Berlin   vs   Cagliari"
+        },
+        {
+            "compet": "Friendly Club Match",
+            "match": "     Luton Town   vs   Go Ahead Eagles",
+            "flags": {
+                "team1": "england",
+                "team2": "holland"
+            },
+            "time": "12:00",
+            "date": "2026-08-02"
+        },
+        {
+            "channel": "Luton LTFC+ ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.lutontown.co.uk/live",
+            "related_to": "     Luton Town   vs   Go Ahead Eagles"
         },
         {
             "compet": "Russian FNL - Week 4",
@@ -2187,6 +2179,24 @@
             "related_to": "     Nordic United   vs   Ljungskile"
         },
         {
+            "compet": "Hungarian NB 1 - Week 2",
+            "match": "     Ujpest   vs   Debrecen",
+            "flags": {
+                "team1": "hungary",
+                "team2": "hungary"
+            },
+            "time": "13:30",
+            "date": "2026-08-02"
+        },
+        {
+            "channel": "M4 Sport Hungary HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11778 V 29900 - 2/3",
+            "encry": "HD Conax",
+            "link": "https://m4sport.hu/elo/mtv4live/",
+            "related_to": "     Ujpest   vs   Debrecen"
+        },
+        {
             "compet": "Cymru Premier - Week 1",
             "match": "     Pen-Y-Bont   vs   The New Saints",
             "flags": {
@@ -2221,24 +2231,6 @@
             "encry": "",
             "link": "https://www.cymrufootball.tv/en",
             "related_to": "     Connah's Quay   vs   Caernarfon Town"
-        },
-        {
-            "compet": "Hungarian NB 1 - Week 2",
-            "match": "     Ujpest   vs   Debrecen",
-            "flags": {
-                "team1": "hungary",
-                "team2": "hungary"
-            },
-            "time": "13:45",
-            "date": "2026-08-02"
-        },
-        {
-            "channel": "M4 Sport Hungary HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11778 V 29900 - 2/3",
-            "encry": "HD Conax",
-            "link": "https://m4sport.hu/elo/mtv4live/",
-            "related_to": "     Ujpest   vs   Debrecen"
         },
         {
             "compet": "Icelandic \u00darvalsdeild - Week 17",
@@ -3377,6 +3369,234 @@
             "related_to": "     Siwelele   vs   TS Galaxy"
         },
         {
+            "compet": "Hungarian NB 1 - Week 2",
+            "match": "     Ferencv\u00e1ros   vs   Vasas",
+            "flags": {
+                "team1": "hungary",
+                "team2": "hungary"
+            },
+            "time": "15:30",
+            "date": "2026-08-02"
+        },
+        {
+            "channel": "M4 Sport Hungary HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11778 V 29900 - 2/3",
+            "encry": "HD Conax",
+            "link": "https://m4sport.hu/elo/mtv4live/",
+            "related_to": "     Ferencv\u00e1ros   vs   Vasas"
+        },
+        {
+            "compet": "Friendly Club Match - Subaru Park, Chester, PA",
+            "match": "     Sunderland   vs   Wrexham",
+            "flags": {
+                "team1": "england",
+                "team2": "wales"
+            },
+            "time": "16:00",
+            "date": "2026-08-02"
+        },
+        {
+            "channel": "Arena 4 Hungary HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "12265 V 28000 - 7/8",
+            "encry": "Conax",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Wrexham"
+        },
+        {
+            "channel": "Arena Premium 5 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12304 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Wrexham"
+        },
+        {
+            "channel": "Arena Sport 4 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11895 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Wrexham"
+        },
+        {
+            "channel": "BBC iPlayer (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "     Sunderland   vs   Wrexham"
+        },
+        {
+            "channel": "BBC iPlayer 4K (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "     Sunderland   vs   Wrexham"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Sunderland   vs   Wrexham"
+        },
+        {
+            "channel": "DAZN Japan ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Wrexham"
+        },
+        {
+            "channel": "Kuwait Sport HD",
+            "sat": "Badr 4 26.0\u00b0e",
+            "freq": "12523 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Wrexham"
+        },
+        {
+            "channel": "Net4+ Sport ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://arena4plus.network4.hu/",
+            "related_to": "     Sunderland   vs   Wrexham"
+        },
+        {
+            "channel": "Okko Futbol HD ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Wrexham"
+        },
+        {
+            "channel": "ON Sport Plus HD",
+            "sat": "Nilesat 201 7.0\u00b0w",
+            "freq": "11977 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Wrexham"
+        },
+        {
+            "channel": "Premier Sports 1 Ireland HD",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12188 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Wrexham"
+        },
+        {
+            "channel": "Premier Sports 1 UK HD",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11686 V 23000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Wrexham"
+        },
+        {
+            "channel": "Premier Sports GB Player HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": "     Sunderland   vs   Wrexham"
+        },
+        {
+            "channel": "S4C Clic ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.s4c.cymru/clic/Categories/5",
+            "related_to": "     Sunderland   vs   Wrexham"
+        },
+        {
+            "channel": "S4C Sgorio Cymru [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://sgorio.cymru/live-games/?lang=en",
+            "related_to": "     Sunderland   vs   Wrexham"
+        },
+        {
+            "channel": "SAFC Live ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://safc.com/news/team-news/live-video",
+            "related_to": "     Sunderland   vs   Wrexham"
+        },
+        {
+            "channel": "Sport 2 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "12259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Wrexham"
+        },
+        {
+            "channel": "Sport Bladet Play (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.sportbladetplay.se/schedule",
+            "related_to": "     Sunderland   vs   Wrexham"
+        },
+        {
+            "channel": "Sport TV+ Portugal",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12476 H 27500 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Wrexham"
+        },
+        {
+            "channel": "Sport TV2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Wrexham"
+        },
+        {
+            "channel": "Stan Sport Australia ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.stan.com.au/sport",
+            "related_to": "     Sunderland   vs   Wrexham"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
+            "related_to": "     Sunderland   vs   Wrexham"
+        },
+        {
+            "channel": "Wrexham AFC [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.wrexhamafc.co.uk/videos",
+            "related_to": "     Sunderland   vs   Wrexham"
+        },
+        {
+            "channel": "YouTube: Sgorio",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/Sgorio",
+            "related_to": "     Sunderland   vs   Wrexham"
+        },
+        {
             "compet": "Dutch Super Cup (Johan Cruijff Shield) - FINAL",
             "match": "     PSV Eindhoven   vs   AZ Alkmaar",
             "flags": {
@@ -3547,206 +3767,12 @@
             "related_to": "     PSV Eindhoven   vs   AZ Alkmaar"
         },
         {
-            "compet": "Friendly Club Match - Subaru Park, Chester, PA",
-            "match": "     Sunderland   vs   Wrexham",
-            "flags": {
-                "team1": "england",
-                "team2": "wales"
-            },
-            "time": "16:00",
-            "date": "2026-08-02"
-        },
-        {
-            "channel": "Arena 4 Hungary HD",
-            "sat": "Thor 5 0.8\u00b0w",
-            "freq": "12265 V 28000 - 7/8",
-            "encry": "Conax",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Wrexham"
-        },
-        {
-            "channel": "Arena Premium 5 Srbija HD",
+            "channel": "Star Channel Nederland",
             "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12304 H 30000 - 3/4",
-            "encry": "HD Conax",
+            "freq": "11739 V 29900 - 3/4",
+            "encry": "MPEG-4 Viaccess",
             "link": "#",
-            "related_to": "     Sunderland   vs   Wrexham"
-        },
-        {
-            "channel": "Arena Sport 4 BiH HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11895 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Wrexham"
-        },
-        {
-            "channel": "BBC iPlayer (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.bbc.co.uk/iplayer",
-            "related_to": "     Sunderland   vs   Wrexham"
-        },
-        {
-            "channel": "BBC iPlayer 4K (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.bbc.co.uk/iplayer",
-            "related_to": "     Sunderland   vs   Wrexham"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Sunderland   vs   Wrexham"
-        },
-        {
-            "channel": "Kuwait Sport HD",
-            "sat": "Badr 4 26.0\u00b0e",
-            "freq": "12523 H 27500 - 2/3",
-            "encry": "FTA",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Wrexham"
-        },
-        {
-            "channel": "Net4+ Sport ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://arena4plus.network4.hu/",
-            "related_to": "     Sunderland   vs   Wrexham"
-        },
-        {
-            "channel": "Okko Futbol HD ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Wrexham"
-        },
-        {
-            "channel": "ON Sport Plus HD",
-            "sat": "Nilesat 201 7.0\u00b0w",
-            "freq": "11977 V 27500 - 5/6",
-            "encry": "FTA",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Wrexham"
-        },
-        {
-            "channel": "Premier Sports 1 Ireland HD",
-            "sat": "Astra 2F 28.2\u00b0e",
-            "freq": "12188 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Wrexham"
-        },
-        {
-            "channel": "Premier Sports 1 UK HD",
-            "sat": "Astra 2G 28.2\u00b0e",
-            "freq": "11686 V 23000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Wrexham"
-        },
-        {
-            "channel": "Premier Sports GB Player HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.premiersports.com/fr/live-now-on-demand",
-            "related_to": "     Sunderland   vs   Wrexham"
-        },
-        {
-            "channel": "S4C Clic ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.s4c.cymru/clic/Categories/5",
-            "related_to": "     Sunderland   vs   Wrexham"
-        },
-        {
-            "channel": "S4C Sgorio Cymru [online]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "https://sgorio.cymru/live-games/?lang=en",
-            "related_to": "     Sunderland   vs   Wrexham"
-        },
-        {
-            "channel": "SAFC Live ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://safc.com/news/team-news/live-video",
-            "related_to": "     Sunderland   vs   Wrexham"
-        },
-        {
-            "channel": "Sport 2 Israel HD",
-            "sat": "Dror 1 4.0\u00b0w",
-            "freq": "12259 V 30000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Wrexham"
-        },
-        {
-            "channel": "Sport Bladet Play (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.sportbladetplay.se/schedule",
-            "related_to": "     Sunderland   vs   Wrexham"
-        },
-        {
-            "channel": "Sport TV+ Portugal",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12476 H 27500 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Wrexham"
-        },
-        {
-            "channel": "Sport TV2 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Sunderland   vs   Wrexham"
-        },
-        {
-            "channel": "Stan Sport Australia ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.stan.com.au/sport",
-            "related_to": "     Sunderland   vs   Wrexham"
-        },
-        {
-            "channel": "VG+ Sport Norge ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.vgtv.no/live",
-            "related_to": "     Sunderland   vs   Wrexham"
-        },
-        {
-            "channel": "Wrexham AFC [online]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.wrexhamafc.co.uk/videos",
-            "related_to": "     Sunderland   vs   Wrexham"
-        },
-        {
-            "channel": "YouTube: Sgorio",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.youtube.com/Sgorio",
-            "related_to": "     Sunderland   vs   Wrexham"
+            "related_to": "     PSV Eindhoven   vs   AZ Alkmaar"
         },
         {
             "compet": "Bulgarian First League - Week 3",
@@ -4559,24 +4585,6 @@
             "related_to": "     GKS Katowice   vs   Radomiak Radom"
         },
         {
-            "compet": "Hungarian NB 1 - Week 2",
-            "match": "     Ferencv\u00e1ros   vs   Vasas",
-            "flags": {
-                "team1": "hungary",
-                "team2": "hungary"
-            },
-            "time": "18:15",
-            "date": "2026-08-02"
-        },
-        {
-            "channel": "M4 Sport Hungary HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11778 V 29900 - 2/3",
-            "encry": "HD Conax",
-            "link": "https://m4sport.hu/elo/mtv4live/",
-            "related_to": "     Ferencv\u00e1ros   vs   Vasas"
-        },
-        {
             "compet": "Romanian Superliga - Week 3",
             "match": "     Rapid Bucharest   vs   CFR Cluj",
             "flags": {
@@ -4730,6 +4738,14 @@
         },
         {
             "channel": "DAZN Deutsch ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Leeds United   vs   Liverpool"
+        },
+        {
+            "channel": "DAZN Japan ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
