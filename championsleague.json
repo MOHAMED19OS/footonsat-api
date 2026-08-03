@@ -43,6 +43,14 @@
             "related_to": "       - UEFA Champions League Draw -       "
         },
         {
+            "channel": "Canal+ Extra 1 Polska HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11278 V 27500 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "       - UEFA Champions League Draw -       "
+        },
+        {
             "channel": "Cosmote Sport 1 HD",
             "sat": "Eutelsat 9B 9.0\u00b0e",
             "freq": "11843 V 27500 - 3/5",
@@ -75,11 +83,27 @@
             "related_to": "       - UEFA Champions League Draw -       "
         },
         {
+            "channel": "Go3 Extra Sport Baltics ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "https://go3.tv/extra_sports",
+            "related_to": "       - UEFA Champions League Draw -       "
+        },
+        {
             "channel": "HBO Max (uk/ire) [$/geo/R]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.hbomax.com",
+            "related_to": "       - UEFA Champions League Draw -       "
+        },
+        {
+            "channel": "Megogo Futbol 1 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
             "related_to": "       - UEFA Champions League Draw -       "
         },
         {
@@ -223,6 +247,14 @@
             "date": "2026-08-04"
         },
         {
+            "channel": "Sport Bladet Play (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.sportbladetplay.se/schedule",
+            "related_to": "     Mj\u00e4llby AIF   vs   Slovan Bratislava"
+        },
+        {
             "channel": "STVR \u0160port Slovakia HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "12012 V 29900 - 3/4",
@@ -245,6 +277,14 @@
             "sat": "AzerSpace 2 45.0\u00b0e",
             "freq": "12520 V 30000 - 5/6",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Levski Sofia   vs   Kairat Almaty"
+        },
+        {
+            "channel": "QazSport HD",
+            "sat": "KazSat 2 86.5\u00b0e",
+            "freq": "11495 V 09000 - 8/9",
+            "encry": "MPEG-4 Irdeto",
             "link": "#",
             "related_to": "     Levski Sofia   vs   Kairat Almaty"
         },
@@ -281,6 +321,64 @@
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Hapoel Be'er Sheva   vs   Red Star Belgrade"
+        },
+        {
+            "compet": "UEFA Champions League - 3rd Qualifying Round (1st Leg)",
+            "match": "     Sparta Prague   vs   Lyon",
+            "flags": {
+                "team1": "czechia",
+                "team2": "france"
+            },
+            "time": "18:00",
+            "date": "2026-08-04"
+        },
+        {
+            "channel": "Arena Sport 1x2 Srbija",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Sparta Prague   vs   Lyon"
+        },
+        {
+            "channel": "Canal+ Foot HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Sparta Prague   vs   Lyon"
+        },
+        {
+            "channel": "Canal+ France HD",
+            "sat": "Astra 1P 19.2\u00b0e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Sparta Prague   vs   Lyon"
+        },
+        {
+            "channel": "Canal+ Live 1 France HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Sparta Prague   vs   Lyon"
+        },
+        {
+            "channel": "JOJ \u0160port SVK HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12266 H 29900 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Sparta Prague   vs   Lyon"
+        },
+        {
+            "channel": "Prima Sport CZ HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12110 H 29900 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Sparta Prague   vs   Lyon"
         },
         {
             "compet": "UEFA Champions League - 3rd Qualifying Round (1st Leg)",
@@ -373,48 +471,6 @@
             "encry": "HD Mediaguard",
             "link": "#",
             "related_to": "     Union St Gilloise   vs   Bod\u00f8/Glimt"
-        },
-        {
-            "compet": "UEFA Champions League - 3rd Qualifying Round (1st Leg)",
-            "match": "     Sparta Prague   vs   Lyon",
-            "flags": {
-                "team1": "czechia",
-                "team2": "france"
-            },
-            "time": "18:00",
-            "date": "2026-08-04"
-        },
-        {
-            "channel": "Arena Sport 1x2 Srbija",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "#",
-            "related_to": "     Sparta Prague   vs   Lyon"
-        },
-        {
-            "channel": "Canal+ Foot HD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "12012 V 29700 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Sparta Prague   vs   Lyon"
-        },
-        {
-            "channel": "Canal+ France HD",
-            "sat": "Astra 1P 19.2\u00b0e",
-            "freq": "12012 V 29700 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Sparta Prague   vs   Lyon"
-        },
-        {
-            "channel": "Canal+ Live 1 France HD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11856 V 29700 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Sparta Prague   vs   Lyon"
         },
         {
             "compet": "UEFA Champions League - 3rd Qualifying Round (1st Leg)",
@@ -658,6 +714,22 @@
             "freq": "12565 V 30000 - 7/8",
             "encry": "Viaccess",
             "link": "#",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
+            "channel": "RT\u00c9 2 Ireland HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11914 H 27500 - 5/6",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
+            "channel": "RT\u00c9 Player (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.rte.ie/player/onnow",
             "related_to": "     Paris St Germain   vs   Aston Villa"
         },
         {
