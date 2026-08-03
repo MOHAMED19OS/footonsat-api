@@ -301,6 +301,22 @@
             "related_to": "     Ararat-Armenia   vs   Celje"
         },
         {
+            "channel": "Kanal A Slovenija HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11387 H 30000 - 3/5",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Ararat-Armenia   vs   Celje"
+        },
+        {
+            "channel": "Voyo Player Slovenija [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://voyo.si/sport",
+            "related_to": "     Ararat-Armenia   vs   Celje"
+        },
+        {
             "compet": "UEFA Champions League - 3rd Qualifying Round (1st Leg)",
             "match": "     Mj\u00e4llby AIF   vs   Slovan Bratislava",
             "flags": {
@@ -309,6 +325,14 @@
             },
             "time": "16:00",
             "date": "2026-08-04"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     Mj\u00e4llby AIF   vs   Slovan Bratislava"
         },
         {
             "channel": "Sport Bladet Play (geo/R)",
@@ -368,6 +392,14 @@
             "freq": "12402 V 30000 - 3/4",
             "encry": "HD Conax",
             "link": "#",
+            "related_to": "     Hapoel Be'er Sheva   vs   Red Star Belgrade"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
             "related_to": "     Hapoel Be'er Sheva   vs   Red Star Belgrade"
         },
         {
@@ -605,6 +637,14 @@
             "related_to": "     AGF Aarhus   vs   Sabah"
         },
         {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     AGF Aarhus   vs   Sabah"
+        },
+        {
             "channel": "TV3+ Dansk HD",
             "sat": "Astra 4A 5.0\u00b0e",
             "freq": "11823 V 27500 - 3/4",
@@ -688,6 +728,14 @@
             "freq": "11303 H 22000 - 2/3",
             "encry": "HD Viaccess",
             "link": "https://on.orf.at/live?channel=orf1",
+            "related_to": "     Sturm Graz   vs   Fenerbah\u00e7e"
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
             "related_to": "     Sturm Graz   vs   Fenerbah\u00e7e"
         },
         {

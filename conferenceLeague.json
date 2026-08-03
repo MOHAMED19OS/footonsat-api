@@ -69,6 +69,14 @@
             "date": "2026-08-04"
         },
         {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     Auda   vs   Dinamo City"
+        },
+        {
             "channel": "TV4 Latvija",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -157,6 +165,14 @@
             "date": "2026-08-06"
         },
         {
+            "channel": "Armenia First TV",
+            "sat": "Eutelsat 70B 70.5\u00b0e",
+            "freq": "11050 H 20030 - 1/2",
+            "encry": "MPEG-4 Biss",
+            "link": "https://www.1tv.am/en/schedule/metric",
+            "related_to": "     Noah   vs   Sion"
+        },
+        {
             "channel": "SRF Play (geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -237,6 +253,14 @@
             "related_to": "     CFR Cluj   vs   Troms\u00f8"
         },
         {
+            "channel": "Prima Sport RO 1 HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12524 V 30000 - 7/8",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     CFR Cluj   vs   Troms\u00f8"
+        },
+        {
             "compet": "UEFA Conference League - 3rd Qualifying Round (1st Leg)",
             "match": "     Riga FC   vs   Gy\u00f6r",
             "flags": {
@@ -270,6 +294,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://tv.hajduk.hr/",
+            "related_to": "     Zalgiris   vs   Hajduk Split"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
             "related_to": "     Zalgiris   vs   Hajduk Split"
         },
         {
@@ -358,6 +390,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "#",
+            "related_to": "     IFK Gotenberg   vs   AA Gent"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
             "related_to": "     IFK Gotenberg   vs   AA Gent"
         },
         {
@@ -605,6 +645,14 @@
             "date": "2026-08-06"
         },
         {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     Borac Banja Luka   vs   ML Vitebsk"
+        },
+        {
             "channel": "RTRS TV",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11817 V 30000 - 3/4",
@@ -628,6 +676,14 @@
             "freq": "0000 0",
             "encry": "HD NagraVision",
             "link": "#",
+            "related_to": "     Rijeka   vs   Ilves Tampere"
+        },
+        {
+            "channel": "Ilves+ Football ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.ilvesplus.com/en",
             "related_to": "     Rijeka   vs   Ilves Tampere"
         },
         {
@@ -937,6 +993,24 @@
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "match": "     Ilves Tampere   vs   Rijeka",
+            "flags": {
+                "team1": "finland",
+                "team2": "croatia"
+            },
+            "time": "16:00",
+            "date": "2026-08-13"
+        },
+        {
+            "channel": "Ilves+ Football ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.ilvesplus.com/en",
+            "related_to": "     Ilves Tampere   vs   Rijeka"
         },
         {
             "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
