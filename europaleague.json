@@ -1,72 +1,6 @@
 {
     "footonsat": [
         {
-            "compet": "UEFA Europa League",
-            "match": "       - UEFA Europa League Draw -       ",
-            "flags": {
-                "team1": "assoceu",
-                "team2": "assoceu"
-            },
-            "time": "11:00",
-            "date": "2026-08-03"
-        },
-        {
-            "channel": "5 SPORT Israel HD",
-            "sat": "Dror 1 4.0\u00b0w",
-            "freq": "11259 V 30000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "       - UEFA Europa League Draw -       "
-        },
-        {
-            "channel": "Cosmote Sport 1 HD",
-            "sat": "Eutelsat 9B 9.0\u00b0e",
-            "freq": "11843 V 27500 - 3/5",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "       - UEFA Europa League Draw -       "
-        },
-        {
-            "channel": "DAZN Canada ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "       - UEFA Europa League Draw -       "
-        },
-        {
-            "channel": "HBO Max (uk/ire) [$/geo/R]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.hbomax.com",
-            "related_to": "       - UEFA Europa League Draw -       "
-        },
-        {
-            "channel": "Omonoia TV on Cyta ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "       - UEFA Europa League Draw -       "
-        },
-        {
-            "channel": "TNT Sports 1 HD",
-            "sat": "NSS 12 57.0\u00b0e",
-            "freq": "3775 L 09583 - 2/3",
-            "encry": "Irdeto [c]",
-            "link": "#",
-            "related_to": "       - UEFA Europa League Draw -       "
-        },
-        {
-            "channel": "UEFA.TV [online] (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.uefa.tv/",
-            "related_to": "       - UEFA Europa League Draw -       "
-        },
-        {
             "compet": "UEFA Europa League - 3rd Qualifying Round (1st Leg)",
             "match": "     Larne   vs   Iberia 1999",
             "flags": {
@@ -109,6 +43,14 @@
             },
             "time": "19:00",
             "date": "2026-08-04"
+        },
+        {
+            "channel": "LOI TV PPV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.loitv.ie/ie",
+            "related_to": "     Shamrock Rovers   vs   Egnatia"
         },
         {
             "channel": "Play Sports [online] ($/geo/R)",
@@ -157,6 +99,14 @@
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12422 H 30000 - 3/4",
             "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Ferencv\u00e1ros   vs   G\u00f3rnik Zabrze"
+        },
+        {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Ferencv\u00e1ros   vs   G\u00f3rnik Zabrze"
         },
@@ -641,6 +591,14 @@
             "date": "2026-08-12"
         },
         {
+            "channel": "Arena Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11678 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
             "channel": "Canal+ Extra 1 Polska HD",
             "sat": "Hotbird 13G 13.0\u00b0e",
             "freq": "11278 V 27500 - 5/6",
@@ -825,6 +783,14 @@
             },
             "time": "17:00",
             "date": "2026-08-13"
+        },
+        {
+            "channel": "Nova Sport 5 Czech HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Besiktas   vs   Hradec Kr\u00e1lov\u00e9"
         },
         {
             "channel": "S Sport+ Streaming",

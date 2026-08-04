@@ -1,64 +1,6 @@
 {
     "footonsat": [
         {
-            "compet": "UEFA Conference League",
-            "match": "       - UEFA Conference League Draw -       ",
-            "flags": {
-                "team1": "assoceu",
-                "team2": "assoceu"
-            },
-            "time": "12:00",
-            "date": "2026-08-03"
-        },
-        {
-            "channel": "5 SPORT Israel HD",
-            "sat": "Dror 1 4.0\u00b0w",
-            "freq": "11259 V 30000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "       - UEFA Conference League Draw -       "
-        },
-        {
-            "channel": "Cosmote Sport 1 HD",
-            "sat": "Eutelsat 9B 9.0\u00b0e",
-            "freq": "11843 V 27500 - 3/5",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "       - UEFA Conference League Draw -       "
-        },
-        {
-            "channel": "DAZN Canada ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "       - UEFA Conference League Draw -       "
-        },
-        {
-            "channel": "HBO Max (uk/ire) [$/geo/R]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.hbomax.com",
-            "related_to": "       - UEFA Conference League Draw -       "
-        },
-        {
-            "channel": "TNT Sports 1 HD",
-            "sat": "NSS 12 57.0\u00b0e",
-            "freq": "3775 L 09583 - 2/3",
-            "encry": "Irdeto [c]",
-            "link": "#",
-            "related_to": "       - UEFA Conference League Draw -       "
-        },
-        {
-            "channel": "UEFA.TV [online] (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.uefa.tv/",
-            "related_to": "       - UEFA Conference League Draw -       "
-        },
-        {
             "compet": "UEFA Conference League - 3rd Qualifying Round (1st Leg)",
             "match": "     Auda   vs   Dinamo City",
             "flags": {
@@ -157,6 +99,14 @@
             "sat": "Hellas Sat 3 39.0\u00b0e",
             "freq": "12463 H 30000 - 5/6",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Panathinaikos   vs   CSKA 1948 Sofia"
+        },
+        {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Panathinaikos   vs   CSKA 1948 Sofia"
         },
@@ -457,14 +407,6 @@
             "date": "2026-08-06"
         },
         {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     IFK Gotenberg   vs   AA Gent"
-        },
-        {
             "channel": "OneFootball [app] ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -553,10 +495,10 @@
             "date": "2026-08-06"
         },
         {
-            "channel": "Arena Sport 1x2 Srbija",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
+            "channel": "Arena Sport 2 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11798 H 30000 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Twente   vs   Dunajsk\u00e1 Streda"
         },
@@ -817,14 +759,6 @@
             "date": "2026-08-06"
         },
         {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Bohemians   vs   Midtjylland"
-        },
-        {
             "channel": "Bohemians FC Stream [$]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -919,14 +853,6 @@
             "date": "2026-08-06"
         },
         {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Hibernian   vs   Shk\u00ebndija"
-        },
-        {
             "channel": "Solidsport Broadcast [$]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -961,6 +887,14 @@
             },
             "time": "19:00",
             "date": "2026-08-12"
+        },
+        {
+            "channel": "Arena Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11678 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
         },
         {
             "channel": "Canal+ Extra 1 Polska HD",
