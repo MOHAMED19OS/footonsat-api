@@ -337,6 +337,22 @@
             "related_to": "     Lech Poznan   vs   K\u00cd Klaksv\u00edk"
         },
         {
+            "channel": "Solidsport Broadcast [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
+            "related_to": "     Lech Poznan   vs   K\u00cd Klaksv\u00edk"
+        },
+        {
+            "channel": "TV KI Faroes ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.ki.fo/kiklaksvik/",
+            "related_to": "     Lech Poznan   vs   K\u00cd Klaksv\u00edk"
+        },
+        {
             "channel": "TVP 2 Polska HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "12265 V 27500 - 3/4",
@@ -479,6 +495,14 @@
             "related_to": "     PAOK Thessaloniki   vs   Anderlecht"
         },
         {
+            "channel": "Mauve TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 H 0",
+            "encry": "",
+            "link": "https://mauvetv.rsca.be/home",
+            "related_to": "     PAOK Thessaloniki   vs   Anderlecht"
+        },
+        {
             "channel": "Open Beyond TV HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "12169 H 27500 - 3/4",
@@ -492,6 +516,14 @@
             "freq": "0000 -",
             "encry": "",
             "link": "https://sporza.be/nl/categorie/voetbal/",
+            "related_to": "     PAOK Thessaloniki   vs   Anderlecht"
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
             "related_to": "     PAOK Thessaloniki   vs   Anderlecht"
         },
         {
@@ -563,6 +595,14 @@
             "date": "2026-08-06"
         },
         {
+            "channel": "Benfica TV HD",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "11304 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Benfica   vs   Hearts"
+        },
+        {
             "channel": "Play Sports [online] ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 -",
@@ -595,7 +635,7 @@
             "related_to": "     Benfica   vs   Hearts"
         },
         {
-            "compet": "UEFA Europa League - 3rd Qualifying Round (2nd Leg)",
+            "compet": "UEFA Europa League - 3rd Qualifying Round (2nd Leg) [0-0]",
             "match": "     Iberia 1999   vs   Larne",
             "flags": {
                 "team1": "georgia",
@@ -849,6 +889,24 @@
             "encry": "",
             "link": "#",
             "related_to": "     Rangers   vs   Jagiellonia"
+        },
+        {
+            "compet": "UEFA Europa League - 3rd Qualifying Round (2nd Leg)",
+            "match": "     Anderlecht   vs   PAOK Thessaloniki",
+            "flags": {
+                "team1": "belgium",
+                "team2": "greece"
+            },
+            "time": "18:30",
+            "date": "2026-08-13"
+        },
+        {
+            "channel": "Mauve TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 H 0",
+            "encry": "",
+            "link": "https://mauvetv.rsca.be/home",
+            "related_to": "     Anderlecht   vs   PAOK Thessaloniki"
         },
         {
             "compet": "UEFA Europa League - 3rd Qualifying Round (2nd Leg)",
