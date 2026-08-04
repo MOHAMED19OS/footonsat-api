@@ -45,6 +45,14 @@
             "date": "2026-08-05"
         },
         {
+            "channel": "Arena Premium 3 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12422 H 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Brann   vs   Apollon Limassol"
+        },
+        {
             "channel": "Cytavision Sports 1 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -138,6 +146,40 @@
         },
         {
             "compet": "UEFA Conference League - 3rd Qualifying Round (1st Leg)",
+            "match": "     Paide Linnameeskond   vs   Rapid Vienna",
+            "flags": {
+                "team1": "estonia",
+                "team2": "austria"
+            },
+            "time": "16:00",
+            "date": "2026-08-06"
+        },
+        {
+            "channel": "ORF 1 Austria HD",
+            "sat": "Astra 1P 19.2\u00b0e",
+            "freq": "11303 H 22000 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://on.orf.at/live?channel=orf1",
+            "related_to": "     Paide Linnameeskond   vs   Rapid Vienna"
+        },
+        {
+            "channel": "Soccernet TV Estonia",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.youtube.com/@SoccernetEE/streams",
+            "related_to": "     Paide Linnameeskond   vs   Rapid Vienna"
+        },
+        {
+            "channel": "Solidsport Broadcast [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
+            "related_to": "     Paide Linnameeskond   vs   Rapid Vienna"
+        },
+        {
+            "compet": "UEFA Conference League - 3rd Qualifying Round (1st Leg)",
             "match": "     Noah   vs   Sion",
             "flags": {
                 "team1": "armenia",
@@ -161,32 +203,6 @@
             "encry": "",
             "link": "https://www.srf.ch/play/tv/sport-livestreams",
             "related_to": "     Noah   vs   Sion"
-        },
-        {
-            "compet": "UEFA Conference League - 3rd Qualifying Round (1st Leg)",
-            "match": "     Paide Linnameeskond   vs   Rapid Vienna",
-            "flags": {
-                "team1": "estonia",
-                "team2": "austria"
-            },
-            "time": "16:00",
-            "date": "2026-08-06"
-        },
-        {
-            "channel": "Soccernet TV Estonia",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.youtube.com/@SoccernetEE/streams",
-            "related_to": "     Paide Linnameeskond   vs   Rapid Vienna"
-        },
-        {
-            "channel": "Solidsport Broadcast [$]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
-            "related_to": "     Paide Linnameeskond   vs   Rapid Vienna"
         },
         {
             "compet": "UEFA Conference League - 3rd Qualifying Round (1st Leg)",
@@ -319,6 +335,14 @@
             "related_to": "     Zalgiris   vs   Hajduk Split"
         },
         {
+            "channel": "Veikkaus TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.veikkaus.fi/fi/veikkaustv/jalkapallo",
+            "related_to": "     Zalgiris   vs   Hajduk Split"
+        },
+        {
             "compet": "UEFA Conference League - 3rd Qualifying Round (1st Leg)",
             "match": "     Sheriff Tiraspol   vs   St Gallen",
             "flags": {
@@ -423,6 +447,14 @@
             "related_to": "     IFK Gotenberg   vs   AA Gent"
         },
         {
+            "channel": "Veikkaus TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.veikkaus.fi/fi/veikkaustv/jalkapallo",
+            "related_to": "     IFK Gotenberg   vs   AA Gent"
+        },
+        {
             "compet": "UEFA Conference League - 3rd Qualifying Round (1st Leg)",
             "match": "     Dynamo Kyiv   vs   Qarabagh",
             "flags": {
@@ -446,6 +478,14 @@
             "freq": "11095 H 30000 - 5/6",
             "encry": "FTA",
             "link": "#",
+            "related_to": "     Dynamo Kyiv   vs   Qarabagh"
+        },
+        {
+            "channel": "KS TV | Futbol 1 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.kyivstar.ua/en/live-channels/68fb631b4eb468b99819f75b-ks-tv-football",
             "related_to": "     Dynamo Kyiv   vs   Qarabagh"
         },
         {
@@ -535,6 +575,14 @@
             "related_to": "     Twente   vs   Dunajsk\u00e1 Streda"
         },
         {
+            "channel": "STVR \u0160port Slovakia HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "12012 V 29900 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "https://www.stvr.sk/televizia/sport",
+            "related_to": "     Twente   vs   Dunajsk\u00e1 Streda"
+        },
+        {
             "compet": "UEFA Conference League - 3rd Qualifying Round (1st Leg)",
             "match": "     Hapoel Tel Aviv   vs   GKS Katowice",
             "flags": {
@@ -549,6 +597,14 @@
             "sat": "Dror 1 4.0\u00b0w",
             "freq": "12259 V 30000 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Hapoel Tel Aviv   vs   GKS Katowice"
+        },
+        {
+            "channel": "TVP Sport Polska HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "10834 V 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Hapoel Tel Aviv   vs   GKS Katowice"
         },
@@ -720,6 +776,14 @@
             "freq": "11817 V 30000 - 3/4",
             "encry": "MPEG-4 Conax",
             "link": "#",
+            "related_to": "     Borac Banja Luka   vs   ML Vitebsk"
+        },
+        {
+            "channel": "Veikkaus TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.veikkaus.fi/fi/veikkaustv/jalkapallo",
             "related_to": "     Borac Banja Luka   vs   ML Vitebsk"
         },
         {
@@ -1079,6 +1143,24 @@
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "match": "     Qarabagh   vs   Dynamo Kyiv",
+            "flags": {
+                "team1": "azerbaijan",
+                "team2": "ukraine"
+            },
+            "time": "16:00",
+            "date": "2026-08-13"
+        },
+        {
+            "channel": "KS TV | Futbol 1 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.kyivstar.ua/en/live-channels/68fb631b4eb468b99819f75b-ks-tv-football",
+            "related_to": "     Qarabagh   vs   Dynamo Kyiv"
         },
         {
             "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",

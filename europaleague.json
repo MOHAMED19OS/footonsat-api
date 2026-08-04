@@ -95,14 +95,6 @@
             "related_to": "     Ferencv\u00e1ros   vs   G\u00f3rnik Zabrze"
         },
         {
-            "channel": "Arena Premium 3 Srbija HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12422 H 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "#",
-            "related_to": "     Ferencv\u00e1ros   vs   G\u00f3rnik Zabrze"
-        },
-        {
             "channel": "ESPN+ USA ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -201,6 +193,22 @@
             },
             "time": "16:00",
             "date": "2026-08-06"
+        },
+        {
+            "channel": "Diema Sport HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Maccabi Tel Aviv   vs   CSKA Sofia"
+        },
+        {
+            "channel": "Play Diema XTRA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://gong.bg/streaming",
+            "related_to": "     Maccabi Tel Aviv   vs   CSKA Sofia"
         },
         {
             "channel": "Play Sports [online] ($/geo/R)",
@@ -325,14 +333,6 @@
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "12265 V 27500 - 3/4",
             "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Lech Poznan   vs   K\u00cd Klaksv\u00edk"
-        },
-        {
-            "channel": "TVP Sport Polska HD",
-            "sat": "Hotbird 13G 13.0\u00b0e",
-            "freq": "10834 V 27500 - 3/4",
-            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Lech Poznan   vs   K\u00cd Klaksv\u00edk"
         },
@@ -534,6 +534,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.srf.ch/play/tv/sport-livestreams",
+            "related_to": "     Thun   vs   V\u00edkingur Reykjav\u00edk"
+        },
+        {
+            "channel": "S\u00ddN Sport Island 2 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
             "related_to": "     Thun   vs   V\u00edkingur Reykjav\u00edk"
         },
         {
