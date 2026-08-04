@@ -37,6 +37,14 @@
             "related_to": "     Jeju United   vs   Bayern Munich"
         },
         {
+            "channel": "Sport 4 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Jeju United   vs   Bayern Munich"
+        },
+        {
             "channel": "Sport TV1 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
@@ -389,6 +397,32 @@
             "related_to": "     Almer\u00eda   vs   Al Nassr"
         },
         {
+            "compet": "Friendly Club Match",
+            "match": "     Huesca   vs   UD Logro\u00f1es",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "17:00",
+            "date": "2026-08-04"
+        },
+        {
+            "channel": "Aragon Deporte Stream",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.cartv.es/aragondeporte/directo",
+            "related_to": "     Huesca   vs   UD Logro\u00f1es"
+        },
+        {
+            "channel": "Arag\u00f3n TV HD",
+            "sat": "*DTT 0.0\u00b0-",
+            "freq": "0000 - 0",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Huesca   vs   UD Logro\u00f1es"
+        },
+        {
             "compet": "German Regionalliga: Nordost - Week 3",
             "match": "     Carl Zeiss Jena   vs   Eintracht 1949",
             "flags": {
@@ -617,70 +651,12 @@
             "related_to": "     Sparta Prague   vs   Lyon"
         },
         {
-            "compet": "UEFA Champions League - 3rd Qualifying Round (1st Leg)",
-            "match": "     Union St Gilloise   vs   Bod\u00f8/Glimt",
-            "flags": {
-                "team1": "belgium",
-                "team2": "norway"
-            },
-            "time": "18:00",
-            "date": "2026-08-04"
-        },
-        {
-            "channel": "Arena M3 Premium MKD HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12246 V 30000 - 3/4",
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
-            "related_to": "     Union St Gilloise   vs   Bod\u00f8/Glimt"
-        },
-        {
-            "channel": "Arena Premium 5 BiH HD",
-            "sat": " 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Union St Gilloise   vs   Bod\u00f8/Glimt"
-        },
-        {
-            "channel": "Arena Sport 1 Slovakia HD",
-            "sat": "Belintersat 1 51.5\u00b0e",
-            "freq": "11290 H 45000 - 8/9",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Union St Gilloise   vs   Bod\u00f8/Glimt"
-        },
-        {
-            "channel": "Arena Sport 2 Srbija HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11798 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Union St Gilloise   vs   Bod\u00f8/Glimt"
-        },
-        {
-            "channel": "RTL Club Belgique",
-            "sat": "Hotbird 13G 13.0\u00b0e",
-            "freq": "11411 H 27500 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "#",
-            "related_to": "     Union St Gilloise   vs   Bod\u00f8/Glimt"
-        },
-        {
-            "channel": "VG+ Sport Norge ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.vgtv.no/live",
-            "related_to": "     Union St Gilloise   vs   Bod\u00f8/Glimt"
-        },
-        {
-            "channel": "VTM 2 Belgium HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "11856 V 29900 - 3/4",
-            "encry": "HD Mediaguard",
-            "link": "#",
-            "related_to": "     Union St Gilloise   vs   Bod\u00f8/Glimt"
+            "related_to": "     Sparta Prague   vs   Lyon"
         },
         {
             "compet": "UEFA Champions League - 3rd Qualifying Round (1st Leg)",
@@ -749,6 +725,14 @@
             "related_to": "     Olympiacos   vs   NEC Nijmegen"
         },
         {
+            "channel": "Sport TV+ Portugal",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12476 H 27500 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Olympiacos   vs   NEC Nijmegen"
+        },
+        {
             "channel": "TV Tipsport Czechia",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -763,6 +747,72 @@
             "encry": "HD Mediaguard",
             "link": "#",
             "related_to": "     Olympiacos   vs   NEC Nijmegen"
+        },
+        {
+            "compet": "UEFA Champions League - 3rd Qualifying Round (1st Leg)",
+            "match": "     Union St Gilloise   vs   Bod\u00f8/Glimt",
+            "flags": {
+                "team1": "belgium",
+                "team2": "norway"
+            },
+            "time": "18:00",
+            "date": "2026-08-04"
+        },
+        {
+            "channel": "Arena M3 Premium MKD HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Union St Gilloise   vs   Bod\u00f8/Glimt"
+        },
+        {
+            "channel": "Arena Premium 5 BiH HD",
+            "sat": " 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Union St Gilloise   vs   Bod\u00f8/Glimt"
+        },
+        {
+            "channel": "Arena Sport 1 Slovakia HD",
+            "sat": "Belintersat 1 51.5\u00b0e",
+            "freq": "11290 H 45000 - 8/9",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Union St Gilloise   vs   Bod\u00f8/Glimt"
+        },
+        {
+            "channel": "Arena Sport 2 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11798 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Union St Gilloise   vs   Bod\u00f8/Glimt"
+        },
+        {
+            "channel": "RTL Club Belgique",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11411 H 27500 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Union St Gilloise   vs   Bod\u00f8/Glimt"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
+            "related_to": "     Union St Gilloise   vs   Bod\u00f8/Glimt"
+        },
+        {
+            "channel": "VTM 2 Belgium HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11856 V 29900 - 3/4",
+            "encry": "HD Mediaguard",
+            "link": "#",
+            "related_to": "     Union St Gilloise   vs   Bod\u00f8/Glimt"
         },
         {
             "compet": "UEFA Champions League - 3rd Qualifying Round (1st Leg)",
@@ -959,9 +1009,9 @@
             "related_to": "     Ipswich Town   vs   Le Havre"
         },
         {
-            "channel": "Sport TV1 Portugal HD",
+            "channel": "Sport TV6 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12246 H 27500 - 3/4",
+            "freq": "12360 H 27500 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Ipswich Town   vs   Le Havre"
