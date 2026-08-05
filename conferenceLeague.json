@@ -309,6 +309,14 @@
             "related_to": "     Zalgiris   vs   Hajduk Split"
         },
         {
+            "channel": "Polsat Sport Extra 1 HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "12265 V 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Zalgiris   vs   Hajduk Split"
+        },
+        {
             "channel": "TV3 Lietuva HD",
             "sat": "Astra 4A 5.0\u00b0e",
             "freq": "11938 V 27500 - 5/6",
@@ -418,6 +426,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://onefootball.com/en/matches",
+            "related_to": "     IFK Gotenberg   vs   AA Gent"
+        },
+        {
+            "channel": "Polsat Sport 3 HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "12284 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
             "related_to": "     IFK Gotenberg   vs   AA Gent"
         },
         {
@@ -955,6 +971,24 @@
             "encry": "HD Viaccess",
             "link": "https://on.orf.at/live?channel=orf1",
             "related_to": "     Rapid Vienna   vs   Paide Linnameeskond"
+        },
+        {
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "match": "     GKS Katowice   vs   Hapoel Tel Aviv",
+            "flags": {
+                "team1": "poland",
+                "team2": "israel"
+            },
+            "time": "16:00",
+            "date": "2026-08-12"
+        },
+        {
+            "channel": "TVP Sport Polska HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "10834 V 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     GKS Katowice   vs   Hapoel Tel Aviv"
         },
         {
             "compet": "UEFA Super Cup - FINAL",
