@@ -101,11 +101,27 @@
             "related_to": "     Fenerbah\u00e7e   vs   Sturm Graz"
         },
         {
+            "channel": "Arena Sport 1 Slovakia HD",
+            "sat": "Belintersat 1 51.5\u00b0e",
+            "freq": "11290 H 45000 - 8/9",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Fenerbah\u00e7e   vs   Sturm Graz"
+        },
+        {
             "channel": "ORF 1 Austria HD",
             "sat": "Astra 1P 19.2\u00b0e",
             "freq": "11303 H 22000 - 2/3",
             "encry": "HD Viaccess",
             "link": "https://on.orf.at/live?channel=orf1",
+            "related_to": "     Fenerbah\u00e7e   vs   Sturm Graz"
+        },
+        {
+            "channel": "Sport TV Azerbaijan (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
             "related_to": "     Fenerbah\u00e7e   vs   Sturm Graz"
         },
         {
@@ -183,6 +199,14 @@
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     NEC Nijmegen   vs   Olympiacos"
+        },
+        {
+            "channel": "Ziggo Sport 1 HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "HD Mediaguard",
             "link": "#",
             "related_to": "     NEC Nijmegen   vs   Olympiacos"
         },
@@ -367,6 +391,14 @@
             "related_to": "     Paris St Germain   vs   Aston Villa"
         },
         {
+            "channel": "S\u00ddN Sport 1 \u00cdsland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
             "channel": "TNT Sports 1 HD",
             "sat": "NSS 12 57.0\u00b0e",
             "freq": "3775 L 09583 - 2/3",
@@ -403,6 +435,38 @@
             "sat": "Thor 6 5.0\u00b0e",
             "freq": "11385 V 30000 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
+            "channel": "ViaPlay \u00cdsland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
+            "channel": "Ziggo Sport 1 HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "HD Mediaguard",
             "link": "#",
             "related_to": "     Paris St Germain   vs   Aston Villa"
         }

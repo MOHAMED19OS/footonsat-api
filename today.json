@@ -303,6 +303,14 @@
             "related_to": "     K-League All Stars   vs   Manchester City"
         },
         {
+            "channel": "Persiana Sports 3 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     K-League All Stars   vs   Manchester City"
+        },
+        {
             "channel": "Sport TV1 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
@@ -425,6 +433,14 @@
             "related_to": "     AC Milan   vs   Inter Milan"
         },
         {
+            "channel": "IRIB Varzesh HD",
+            "sat": "Intelsat 39 62.0\u00b0e",
+            "freq": "11555 V 30000 - 2/3",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     AC Milan   vs   Inter Milan"
+        },
+        {
             "channel": "MAX Sport 3 Bulgaria HD",
             "sat": "AzerSpace 2 45.0\u00b0e",
             "freq": "12600 V 30000 - 5/6",
@@ -454,6 +470,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://onefootball.com/en/matches",
+            "related_to": "     AC Milan   vs   Inter Milan"
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "     AC Milan   vs   Inter Milan"
         },
         {
@@ -589,6 +613,14 @@
             "related_to": "     Chelsea   vs   Juventus"
         },
         {
+            "channel": "DAZN 1 Bar Deutsch HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12070 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Juventus"
+        },
+        {
             "channel": "DAZN Deutsch ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -649,6 +681,22 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Juventus"
+        },
+        {
+            "channel": "Persiana Sports 2 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
+            "related_to": "     Chelsea   vs   Juventus"
+        },
+        {
+            "channel": "Sigma TV Cyprus HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "11837 H 16515 - 5/6",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Chelsea   vs   Juventus"
         },
@@ -839,6 +887,48 @@
             "related_to": "     Fakel Voronezh   vs   Dynamo Moscow"
         },
         {
+            "compet": "Danish Cup (DBU Pokalen) - 1st Round",
+            "match": "     Hobro   vs   Vendsyssel",
+            "flags": {
+                "team1": "denmark",
+                "team2": "denmark"
+            },
+            "time": "16:00",
+            "date": "2026-08-05"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Hobro   vs   Vendsyssel"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Hobro   vs   Vendsyssel"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Hobro   vs   Vendsyssel"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Hobro   vs   Vendsyssel"
+        },
+        {
             "compet": "UEFA Womens Champions League - 2nd Preliminary Round",
             "match": "     \u017dNK Mura   vs   Farul Constanta",
             "flags": {
@@ -891,6 +981,48 @@
             "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Lazio   vs   Ostia Mare"
+        },
+        {
+            "compet": "Danish Cup (DBU Pokalen) - 1st Round",
+            "match": "     Tarup-Paarup   vs   Vejle BK",
+            "flags": {
+                "team1": "denmark",
+                "team2": "denmark"
+            },
+            "time": "16:30",
+            "date": "2026-08-05"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Tarup-Paarup   vs   Vejle BK"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Tarup-Paarup   vs   Vejle BK"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Tarup-Paarup   vs   Vejle BK"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Tarup-Paarup   vs   Vejle BK"
         },
         {
             "compet": "Friendly Club Match",
@@ -1189,11 +1321,27 @@
             "related_to": "     Fenerbah\u00e7e   vs   Sturm Graz"
         },
         {
+            "channel": "Arena Sport 1 Slovakia HD",
+            "sat": "Belintersat 1 51.5\u00b0e",
+            "freq": "11290 H 45000 - 8/9",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Fenerbah\u00e7e   vs   Sturm Graz"
+        },
+        {
             "channel": "ORF 1 Austria HD",
             "sat": "Astra 1P 19.2\u00b0e",
             "freq": "11303 H 22000 - 2/3",
             "encry": "HD Viaccess",
             "link": "https://on.orf.at/live?channel=orf1",
+            "related_to": "     Fenerbah\u00e7e   vs   Sturm Graz"
+        },
+        {
+            "channel": "Sport TV Azerbaijan (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
             "related_to": "     Fenerbah\u00e7e   vs   Sturm Graz"
         },
         {
@@ -1315,6 +1463,14 @@
             "related_to": "     Ferencv\u00e1ros   vs   G\u00f3rnik Zabrze"
         },
         {
+            "channel": "Super Polsat HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11158 V 27500 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Ferencv\u00e1ros   vs   G\u00f3rnik Zabrze"
+        },
+        {
             "compet": "Friendly Club Match - Aviva Stadium, Dublin",
             "match": "     Arsenal   vs   Real Betis",
             "flags": {
@@ -1345,6 +1501,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Arsenal   vs   Real Betis"
+        },
+        {
+            "channel": "DAZN 1 Bar Deutsch HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12070 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Arsenal   vs   Real Betis"
         },
@@ -1402,6 +1566,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://onefootball.com/en/matches",
+            "related_to": "     Arsenal   vs   Real Betis"
+        },
+        {
+            "channel": "Persiana Sports 2 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
             "related_to": "     Arsenal   vs   Real Betis"
         },
         {
@@ -1597,24 +1769,6 @@
             "related_to": "     Shelbourne   vs   Cork City"
         },
         {
-            "compet": "UEFA Womens Champions League - 2nd Preliminary Round",
-            "match": "     Juventus   vs   Torreense",
-            "flags": {
-                "team1": "italy",
-                "team2": "portugal"
-            },
-            "time": "19:00",
-            "date": "2026-08-05"
-        },
-        {
-            "channel": "Canal 11 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12437 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Juventus   vs   Torreense"
-        },
-        {
             "compet": "Friendly Club Match",
             "match": "     Mallorca   vs   Paris St Germain",
             "flags": {
@@ -1713,6 +1867,14 @@
             "related_to": "     Mallorca   vs   Paris St Germain"
         },
         {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Mallorca   vs   Paris St Germain"
+        },
+        {
             "channel": "Sky Sport MIX Deutsch HD",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "11758 H 27500 - 9/10",
@@ -1775,6 +1937,24 @@
             "encry": "MPEG-4 Nagra",
             "link": "#",
             "related_to": "     Mallorca   vs   Paris St Germain"
+        },
+        {
+            "compet": "UEFA Womens Champions League - 2nd Preliminary Round",
+            "match": "     Juventus   vs   Torreense",
+            "flags": {
+                "team1": "italy",
+                "team2": "portugal"
+            },
+            "time": "19:00",
+            "date": "2026-08-05"
+        },
+        {
+            "channel": "Canal 11 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12437 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Juventus   vs   Torreense"
         },
         {
             "compet": "Icelandic \u00darvalsdeild - Week 17",

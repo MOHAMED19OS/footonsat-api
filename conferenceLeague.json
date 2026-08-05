@@ -171,6 +171,22 @@
             "related_to": "     Noah   vs   Sion"
         },
         {
+            "channel": "Play RTS Sport (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.rts.ch/play/tv/categories/sport",
+            "related_to": "     Noah   vs   Sion"
+        },
+        {
+            "channel": "RTS 2 Suisse HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "10971 H 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://www.rts.ch/play/tv/direct?tvLiveId=3608517",
+            "related_to": "     Noah   vs   Sion"
+        },
+        {
             "channel": "SRF Play (geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -258,6 +274,48 @@
         },
         {
             "compet": "UEFA Conference League - 3rd Qualifying Round (1st Leg)",
+            "match": "     Sheriff Tiraspol   vs   St Gallen",
+            "flags": {
+                "team1": "moldova",
+                "team2": "switzerland"
+            },
+            "time": "17:00",
+            "date": "2026-08-06"
+        },
+        {
+            "channel": "Play RTS Sport (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.rts.ch/play/tv/categories/sport",
+            "related_to": "     Sheriff Tiraspol   vs   St Gallen"
+        },
+        {
+            "channel": "SRF Play (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.srf.ch/play/tv/sport-livestreams",
+            "related_to": "     Sheriff Tiraspol   vs   St Gallen"
+        },
+        {
+            "channel": "SRF Zwei Schweiz HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "10971 H 29700 - 2/3",
+            "encry": "HD Panaccess",
+            "link": "https://www.srf.ch/play/tv/live?tvLiveId=c49c1d64-9f60-0001-1c36-43c288c01a10",
+            "related_to": "     Sheriff Tiraspol   vs   St Gallen"
+        },
+        {
+            "channel": "We Sport Moldova ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Sheriff Tiraspol   vs   St Gallen"
+        },
+        {
+            "compet": "UEFA Conference League - 3rd Qualifying Round (1st Leg)",
             "match": "     Riga FC   vs   Gy\u00f6r",
             "flags": {
                 "team1": "latvia",
@@ -272,6 +330,14 @@
             "freq": "12608 H 22500 - 3/4",
             "encry": "MPEG-4 Conax",
             "link": "https://mediaklikk.hu/duna-world-elo/",
+            "related_to": "     Riga FC   vs   Gy\u00f6r"
+        },
+        {
+            "channel": "Polsat Sport Extra 2 HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "12265 V 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
             "related_to": "     Riga FC   vs   Gy\u00f6r"
         },
         {
@@ -331,40 +397,6 @@
             "encry": "",
             "link": "https://www.veikkaus.fi/fi/veikkaustv/jalkapallo",
             "related_to": "     Zalgiris   vs   Hajduk Split"
-        },
-        {
-            "compet": "UEFA Conference League - 3rd Qualifying Round (1st Leg)",
-            "match": "     Sheriff Tiraspol   vs   St Gallen",
-            "flags": {
-                "team1": "moldova",
-                "team2": "switzerland"
-            },
-            "time": "17:00",
-            "date": "2026-08-06"
-        },
-        {
-            "channel": "Play RTS Sport (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.rts.ch/play/tv/categories/sport",
-            "related_to": "     Sheriff Tiraspol   vs   St Gallen"
-        },
-        {
-            "channel": "SRF Play (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.srf.ch/play/tv/sport-livestreams",
-            "related_to": "     Sheriff Tiraspol   vs   St Gallen"
-        },
-        {
-            "channel": "We Sport Moldova ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Sheriff Tiraspol   vs   St Gallen"
         },
         {
             "compet": "UEFA Conference League - 3rd Qualifying Round (1st Leg)",
@@ -495,6 +527,14 @@
             },
             "time": "17:00",
             "date": "2026-08-06"
+        },
+        {
+            "channel": "Arena Sport 2 Slovakia HD",
+            "sat": "Belintersat 1 51.5\u00b0e",
+            "freq": "11230 H 45000 - 8/9",
+            "encry": "HD Panaccess",
+            "link": "#",
+            "related_to": "     Debrecen   vs   FC Copenhagen"
         },
         {
             "channel": "FCK TV ($/geo/R",
@@ -1145,6 +1185,14 @@
             "related_to": "     Paris St Germain   vs   Aston Villa"
         },
         {
+            "channel": "S\u00ddN Sport 1 \u00cdsland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
             "channel": "TNT Sports 1 HD",
             "sat": "NSS 12 57.0\u00b0e",
             "freq": "3775 L 09583 - 2/3",
@@ -1181,6 +1229,38 @@
             "sat": "Thor 6 5.0\u00b0e",
             "freq": "11385 V 30000 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
+            "channel": "ViaPlay \u00cdsland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
+            "channel": "Ziggo Sport 1 HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "HD Mediaguard",
             "link": "#",
             "related_to": "     Paris St Germain   vs   Aston Villa"
         },
