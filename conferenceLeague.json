@@ -2,40 +2,6 @@
     "footonsat": [
         {
             "compet": "UEFA Conference League - 3rd Qualifying Round (1st Leg)",
-            "match": "     Auda   vs   Dinamo City",
-            "flags": {
-                "team1": "latvia",
-                "team2": "albania"
-            },
-            "time": "16:00",
-            "date": "2026-08-04"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     Auda   vs   Dinamo City"
-        },
-        {
-            "channel": "SuperSport 2 Albania HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "10845 H 30000 - 3/5",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Auda   vs   Dinamo City"
-        },
-        {
-            "channel": "TV4 Latvija",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Auda   vs   Dinamo City"
-        },
-        {
-            "compet": "UEFA Conference League - 3rd Qualifying Round (1st Leg)",
             "match": "     Brann   vs   Apollon Limassol",
             "flags": {
                 "team1": "norway",
@@ -43,6 +9,14 @@
             },
             "time": "17:00",
             "date": "2026-08-05"
+        },
+        {
+            "channel": "Arena Premium 2 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Brann   vs   Apollon Limassol"
         },
         {
             "channel": "Arena Premium 3 Srbija HD",
@@ -927,14 +901,6 @@
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12402 V 30000 - 3/4",
             "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Partizan Belgrade   vs   Tobol"
-        },
-        {
-            "channel": "Arena Premium 3 BiH HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Partizan Belgrade   vs   Tobol"
         },

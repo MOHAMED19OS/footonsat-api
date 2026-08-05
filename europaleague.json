@@ -2,74 +2,6 @@
     "footonsat": [
         {
             "compet": "UEFA Europa League - 3rd Qualifying Round (1st Leg)",
-            "match": "     Larne   vs   Iberia 1999",
-            "flags": {
-                "team1": "nireland",
-                "team2": "georgia"
-            },
-            "time": "19:00",
-            "date": "2026-08-04"
-        },
-        {
-            "channel": "NIFL TV ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://nifltv.co.uk/en",
-            "related_to": "     Larne   vs   Iberia 1999"
-        },
-        {
-            "channel": "Play Sports [online] ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 -",
-            "encry": "",
-            "link": "https://sporza.be/nl/categorie/voetbal/",
-            "related_to": "     Larne   vs   Iberia 1999"
-        },
-        {
-            "channel": "Silk Universal HD",
-            "sat": "Astra 5B 31.5\u00b0e",
-            "freq": "12207 V 27500 - 5/6",
-            "encry": "MPEG-4 Bulcrypt",
-            "link": "#",
-            "related_to": "     Larne   vs   Iberia 1999"
-        },
-        {
-            "compet": "UEFA Europa League - 3rd Qualifying Round (1st Leg)",
-            "match": "     Shamrock Rovers   vs   Egnatia",
-            "flags": {
-                "team1": "ireland",
-                "team2": "albania"
-            },
-            "time": "19:00",
-            "date": "2026-08-04"
-        },
-        {
-            "channel": "LOI TV PPV ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.loitv.ie/ie",
-            "related_to": "     Shamrock Rovers   vs   Egnatia"
-        },
-        {
-            "channel": "Play Sports [online] ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 -",
-            "encry": "",
-            "link": "https://sporza.be/nl/categorie/voetbal/",
-            "related_to": "     Shamrock Rovers   vs   Egnatia"
-        },
-        {
-            "channel": "SuperSport 2 Albania HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "10845 H 30000 - 3/5",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Shamrock Rovers   vs   Egnatia"
-        },
-        {
-            "compet": "UEFA Europa League - 3rd Qualifying Round (1st Leg)",
             "match": "     Ferencv\u00e1ros   vs   G\u00f3rnik Zabrze",
             "flags": {
                 "team1": "hungary",
@@ -82,14 +14,6 @@
             "channel": "Arena M3 Premium MKD HD",
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12246 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Ferencv\u00e1ros   vs   G\u00f3rnik Zabrze"
-        },
-        {
-            "channel": "Arena Premium 2 BiH HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "0000 0",
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Ferencv\u00e1ros   vs   G\u00f3rnik Zabrze"
@@ -593,6 +517,14 @@
             },
             "time": "19:00",
             "date": "2026-08-06"
+        },
+        {
+            "channel": "Arena Premium 3 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12422 H 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Benfica   vs   Hearts"
         },
         {
             "channel": "Benfica TV HD",
