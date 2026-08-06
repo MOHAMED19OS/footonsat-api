@@ -2,80 +2,6 @@
     "footonsat": [
         {
             "compet": "UEFA Europa League - 3rd Qualifying Round (1st Leg)",
-            "match": "     Ferencv\u00e1ros   vs   G\u00f3rnik Zabrze",
-            "flags": {
-                "team1": "hungary",
-                "team2": "poland"
-            },
-            "time": "18:15",
-            "date": "2026-08-05"
-        },
-        {
-            "channel": "5 PLUS Israel HD",
-            "sat": "Dror 1 4.0\u00b0w",
-            "freq": "11259 V 30000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Ferencv\u00e1ros   vs   G\u00f3rnik Zabrze"
-        },
-        {
-            "channel": "Arena M3 Premium MKD HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12246 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Ferencv\u00e1ros   vs   G\u00f3rnik Zabrze"
-        },
-        {
-            "channel": "ESPN+ USA ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Ferencv\u00e1ros   vs   G\u00f3rnik Zabrze"
-        },
-        {
-            "channel": "M4 Sport Hungary HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11778 V 29900 - 2/3",
-            "encry": "HD Conax",
-            "link": "https://m4sport.hu/elo/mtv4live/",
-            "related_to": "     Ferencv\u00e1ros   vs   G\u00f3rnik Zabrze"
-        },
-        {
-            "channel": "Play Sports [online] ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 -",
-            "encry": "",
-            "link": "https://sporza.be/nl/categorie/voetbal/",
-            "related_to": "     Ferencv\u00e1ros   vs   G\u00f3rnik Zabrze"
-        },
-        {
-            "channel": "Polsat Sport 1 HD",
-            "sat": "Hotbird 13G 13.0\u00b0e",
-            "freq": "12265 V 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Ferencv\u00e1ros   vs   G\u00f3rnik Zabrze"
-        },
-        {
-            "channel": "Polsat Sport Premium 1 HD",
-            "sat": "Hotbird 13G 13.0\u00b0e",
-            "freq": "11117 V 27500 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Ferencv\u00e1ros   vs   G\u00f3rnik Zabrze"
-        },
-        {
-            "channel": "Super Polsat HD",
-            "sat": "Hotbird 13G 13.0\u00b0e",
-            "freq": "11158 V 27500 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Ferencv\u00e1ros   vs   G\u00f3rnik Zabrze"
-        },
-        {
-            "compet": "UEFA Europa League - 3rd Qualifying Round (1st Leg)",
             "match": "     KuPS Kuopio   vs   Universitatea Craiova",
             "flags": {
                 "team1": "finland",
@@ -475,10 +401,34 @@
             "related_to": "     PAOK Thessaloniki   vs   Anderlecht"
         },
         {
+            "channel": "RTL Club Belgique",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11411 H 27500 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     PAOK Thessaloniki   vs   Anderlecht"
+        },
+        {
+            "channel": "RTL Play Belgium ($geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.rtlplay.be/",
+            "related_to": "     PAOK Thessaloniki   vs   Anderlecht"
+        },
+        {
             "channel": "Sport TV1 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     PAOK Thessaloniki   vs   Anderlecht"
+        },
+        {
+            "channel": "VTM 2 Belgium HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11856 V 29900 - 3/4",
+            "encry": "HD Mediaguard",
             "link": "#",
             "related_to": "     PAOK Thessaloniki   vs   Anderlecht"
         },
