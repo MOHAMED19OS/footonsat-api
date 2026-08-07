@@ -61,6 +61,14 @@
             "related_to": "     Bandirmaspor   vs   Istanbulspor"
         },
         {
+            "channel": "beIN Sports T\u00fcrkiye Max 1 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Bandirmaspor   vs   Istanbulspor"
+        },
+        {
             "channel": "TRT Spor T\u00fcrkiye HD",
             "sat": "Turksat 3A 42.0\u00b0e",
             "freq": "11054 V 30000 - 3/4",
@@ -87,6 +95,22 @@
             "related_to": "     Sivasspor   vs   Erokspor"
         },
         {
+            "channel": "beIN Sports T\u00fcrkiye 2 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Sivasspor   vs   Erokspor"
+        },
+        {
+            "channel": "TRT Spor T\u00fcrkiye HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11054 V 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "related_to": "     Sivasspor   vs   Erokspor"
+        },
+        {
             "compet": "T\u00fcrkiye 1. Lig - Week 1",
             "match": "     Umraniyespor   vs   Mardin 1969",
             "flags": {
@@ -102,6 +126,22 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Umraniyespor   vs   Mardin 1969"
+        },
+        {
+            "channel": "Tabii Spor 6 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Umraniyespor   vs   Mardin 1969"
+        },
+        {
+            "channel": "TRT Kurdi HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11096 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "     Umraniyespor   vs   Mardin 1969"
         },
         {
@@ -157,6 +197,22 @@
             "related_to": "     Sariyer   vs   Muglaspor"
         },
         {
+            "channel": "beIN Sports T\u00fcrkiye 2 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Sariyer   vs   Muglaspor"
+        },
+        {
+            "channel": "TRT Spor T\u00fcrkiye HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11054 V 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "related_to": "     Sariyer   vs   Muglaspor"
+        },
+        {
             "compet": "T\u00fcrkiye 1. Lig - Week 1",
             "match": "     Igdir FK   vs   Fatih Karag\u00fcmr\u00fck",
             "flags": {
@@ -173,6 +229,48 @@
             "encry": "",
             "link": "https://www.beinconnect.com.tr/spor/",
             "related_to": "     Igdir FK   vs   Fatih Karag\u00fcmr\u00fck"
+        },
+        {
+            "channel": "TRT Avaz T\u00fcrkiye HD",
+            "sat": "Yamal 401 90.0\u00b0e",
+            "freq": "10972 H 11200 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.trtizle.com/canli/tv/trt-avaz",
+            "related_to": "     Igdir FK   vs   Fatih Karag\u00fcmr\u00fck"
+        },
+        {
+            "compet": "T\u00fcrkiye 1. Lig - Week 1",
+            "match": "     Bodrumspor   vs   Bursaspor",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "18:30",
+            "date": "2026-08-09"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Bodrumspor   vs   Bursaspor"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye 2 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Bodrumspor   vs   Bursaspor"
+        },
+        {
+            "channel": "TRT Spor T\u00fcrkiye HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11054 V 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "related_to": "     Bodrumspor   vs   Bursaspor"
         },
         {
             "compet": "T\u00fcrkiye 1. Lig - Week 1",
@@ -193,22 +291,12 @@
             "related_to": "     Vanspor   vs   Kayserispor"
         },
         {
-            "compet": "T\u00fcrkiye 1. Lig - Week 1",
-            "match": "     Bodrumspor   vs   Bursaspor",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "18:30",
-            "date": "2026-08-09"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Bodrumspor   vs   Bursaspor"
+            "channel": "TRT Kurdi HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11096 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Vanspor   vs   Kayserispor"
         },
         {
             "compet": "T\u00fcrkiye 1. Lig - Week 1",
@@ -255,6 +343,14 @@
             "date": "2026-08-14"
         },
         {
+            "channel": "beIN Connect New Zealand",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-nz.beinsports.com/en",
+            "related_to": "     Galatasaray   vs   Corum FK"
+        },
+        {
             "channel": "beIN Connect T\u00fcrkiye",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -267,6 +363,22 @@
             "sat": "Turksat 3A 42.0\u00b0e",
             "freq": "11180 H 30000 - 3/4",
             "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Galatasaray   vs   Corum FK"
+        },
+        {
+            "channel": "Sport 2 Hungary HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "11766 V 28000 - 7/8",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Galatasaray   vs   Corum FK"
+        },
+        {
+            "channel": "Sport TV3 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Galatasaray   vs   Corum FK"
         },
@@ -315,6 +427,14 @@
             "date": "2026-08-15"
         },
         {
+            "channel": "beIN Connect New Zealand",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-nz.beinsports.com/en",
+            "related_to": "     Kasimpasa   vs   Trabzonspor"
+        },
+        {
             "channel": "beIN Connect T\u00fcrkiye",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -327,6 +447,14 @@
             "sat": "Turksat 3A 42.0\u00b0e",
             "freq": "11180 H 30000 - 3/4",
             "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Kasimpasa   vs   Trabzonspor"
+        },
+        {
+            "channel": "Sport TV6 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Kasimpasa   vs   Trabzonspor"
         },
@@ -403,6 +531,14 @@
             "date": "2026-08-15"
         },
         {
+            "channel": "beIN Connect New Zealand",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-nz.beinsports.com/en",
+            "related_to": "     Gen\u00e7lerbirligi   vs   Fenerbah\u00e7e"
+        },
+        {
             "channel": "beIN Connect T\u00fcrkiye",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -415,6 +551,22 @@
             "sat": "Turksat 3A 42.0\u00b0e",
             "freq": "11180 H 30000 - 3/4",
             "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Gen\u00e7lerbirligi   vs   Fenerbah\u00e7e"
+        },
+        {
+            "channel": "Sport 1 Hungary HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "12034 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Gen\u00e7lerbirligi   vs   Fenerbah\u00e7e"
+        },
+        {
+            "channel": "Sport TV6 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Gen\u00e7lerbirligi   vs   Fenerbah\u00e7e"
         },
@@ -561,6 +713,14 @@
             "date": "2026-08-16"
         },
         {
+            "channel": "beIN Connect New Zealand",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-nz.beinsports.com/en",
+            "related_to": "     Besiktas   vs   Ey\u00fcpspor"
+        },
+        {
             "channel": "beIN Connect T\u00fcrkiye",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -573,6 +733,14 @@
             "sat": "Turksat 3A 42.0\u00b0e",
             "freq": "11180 H 30000 - 3/4",
             "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Besiktas   vs   Ey\u00fcpspor"
+        },
+        {
+            "channel": "Sport TV4 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Besiktas   vs   Ey\u00fcpspor"
         },

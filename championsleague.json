@@ -11,6 +11,14 @@
             "date": "2026-08-11"
         },
         {
+            "channel": "Diema Sport HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Kairat Almaty   vs   Levski Sofia"
+        },
+        {
             "channel": "Play Diema XTRA ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -55,6 +63,22 @@
             "date": "2026-08-11"
         },
         {
+            "channel": "5 LIVE Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Bod\u00f8/Glimt   vs   Union St Gilloise"
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Bod\u00f8/Glimt   vs   Union St Gilloise"
+        },
+        {
             "channel": "VG+ Sport Norge ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -81,6 +105,14 @@
             "related_to": "     Kauno Zalgiris   vs   Dinamo Zagreb"
         },
         {
+            "channel": "TV3 Lietuva HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11938 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Kauno Zalgiris   vs   Dinamo Zagreb"
+        },
+        {
             "compet": "UEFA Champions League - 3rd Qualifying Round (2nd Leg) [0-0]",
             "match": "     NEC Nijmegen   vs   Olympiacos",
             "flags": {
@@ -89,6 +121,14 @@
             },
             "time": "17:30",
             "date": "2026-08-11"
+        },
+        {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     NEC Nijmegen   vs   Olympiacos"
         },
         {
             "channel": "KS TV | Futbol 1 ($/geo/R)",
@@ -107,7 +147,7 @@
             "related_to": "     NEC Nijmegen   vs   Olympiacos"
         },
         {
-            "channel": "Sport TV1 Portugal HD",
+            "channel": "Sport TV2 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
             "encry": "HD NagraVision",
@@ -133,10 +173,18 @@
             "date": "2026-08-11"
         },
         {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Red Star Belgrade   vs   Hapoel Be'er Sheva"
+        },
+        {
+            "channel": "Sport 1 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Red Star Belgrade   vs   Hapoel Be'er Sheva"
         },
@@ -156,6 +204,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "#",
+            "related_to": "     Slovan Bratislava   vs   Mj\u00e4llby AIF"
+        },
+        {
+            "channel": "STVR \u0160port Slovakia HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "12012 V 29900 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "https://www.stvr.sk/televizia/sport",
             "related_to": "     Slovan Bratislava   vs   Mj\u00e4llby AIF"
         },
         {
@@ -185,6 +241,14 @@
             },
             "time": "18:30",
             "date": "2026-08-11"
+        },
+        {
+            "channel": "5 LIVE Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Sturm Graz   vs   Fenerbah\u00e7e"
         },
         {
             "channel": "MAX Sport 4 Bulgaria HD",
@@ -237,15 +301,39 @@
             "date": "2026-08-11"
         },
         {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
+            "channel": "5 PLUS Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Lyon   vs   Sparta Prague"
         },
         {
-            "compet": "UEFA Super Cup - FINAL",
+            "channel": "MAX Sport 3 Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12600 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Lyon   vs   Sparta Prague"
+        },
+        {
+            "channel": "Prima Sport CZ HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12110 H 29900 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Lyon   vs   Sparta Prague"
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Lyon   vs   Sparta Prague"
+        },
+        {
+            "compet": "UEFA Super Cup - FINAL (Stadion Salzburg, Austria)",
             "match": "     Paris St Germain   vs   Aston Villa",
             "flags": {
                 "team1": "france",
@@ -253,6 +341,14 @@
             },
             "time": "19:00",
             "date": "2026-08-12"
+        },
+        {
+            "channel": "5 SPORT Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
         },
         {
             "channel": "Arena Sport 1 Hrvatska HD",
@@ -351,6 +447,30 @@
             "related_to": "     Paris St Germain   vs   Aston Villa"
         },
         {
+            "channel": "Cytavision Sports 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
+            "channel": "Cytavision Sports 4K 1 UHD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
+            "channel": "Cytavision Sports PPV 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
             "channel": "DAZN Canada ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -403,6 +523,14 @@
             "sat": "AzerSpace 2 45.0\u00b0e",
             "freq": "12600 V 30000 - 5/6",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
+            "channel": "MEGA Hellas HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12414 H 11568 - 2/3",
+            "encry": "MPEG-4 Biss",
             "link": "#",
             "related_to": "     Paris St Germain   vs   Aston Villa"
         },
@@ -516,6 +644,22 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.stan.com.au/sport",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 1 HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 2A HD",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12169 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
             "related_to": "     Paris St Germain   vs   Aston Villa"
         },
         {
