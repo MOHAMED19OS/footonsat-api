@@ -223,6 +223,22 @@
             "related_to": "     Estrela Amadora   vs   Sporting Lisbon"
         },
         {
+            "channel": "TV4 Fotboll HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10872 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Estrela Amadora   vs   Sporting Lisbon"
+        },
+        {
+            "channel": "TV4 Play Sverige [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "     Estrela Amadora   vs   Sporting Lisbon"
+        },
+        {
             "channel": "TVi V+ Portugal",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "10770 H 30000 - 5/6",
@@ -236,6 +252,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.veikkaus.fi/fi/veikkaustv/jalkapallo",
+            "related_to": "     Estrela Amadora   vs   Sporting Lisbon"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
             "related_to": "     Estrela Amadora   vs   Sporting Lisbon"
         },
         {
@@ -401,11 +425,35 @@
             "related_to": "     FC Porto   vs   Alverca"
         },
         {
+            "channel": "TV4 Fotboll HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10872 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     FC Porto   vs   Alverca"
+        },
+        {
+            "channel": "TV4 Play Sverige [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "     FC Porto   vs   Alverca"
+        },
+        {
             "channel": "TVi V+ Portugal",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "10770 H 30000 - 5/6",
             "encry": "MPEG-4 Biss",
             "link": "#",
+            "related_to": "     FC Porto   vs   Alverca"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
             "related_to": "     FC Porto   vs   Alverca"
         },
         {
@@ -571,11 +619,35 @@
             "related_to": "     Benfica   vs   Academico Viseu"
         },
         {
+            "channel": "TV4 Fotboll HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10872 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Benfica   vs   Academico Viseu"
+        },
+        {
+            "channel": "TV4 Play Sverige [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "     Benfica   vs   Academico Viseu"
+        },
+        {
             "channel": "Veikkaus TV ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.veikkaus.fi/fi/veikkaustv/jalkapallo",
+            "related_to": "     Benfica   vs   Academico Viseu"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
             "related_to": "     Benfica   vs   Academico Viseu"
         },
         {
@@ -723,6 +795,14 @@
             "related_to": "     Sporting Lisbon   vs   Vit\u00f3ria Guimar\u00e3es"
         },
         {
+            "channel": "VG+ Sport Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
+            "related_to": "     Sporting Lisbon   vs   Vit\u00f3ria Guimar\u00e3es"
+        },
+        {
             "compet": "Portuguese Liga 1 - Week 2",
             "match": "     Alverca   vs   Estrela Amadora",
             "flags": {
@@ -817,6 +897,14 @@
             "related_to": "     Rio Ave   vs   FC Porto"
         },
         {
+            "channel": "VG+ Sport Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
+            "related_to": "     Rio Ave   vs   FC Porto"
+        },
+        {
             "compet": "Portuguese Liga 1 - Week 2",
             "match": "     Nacional Madeira   vs   Estoril",
             "flags": {
@@ -869,6 +957,24 @@
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Famalic\u00e3o   vs   Mar\u00edtimo"
+        },
+        {
+            "compet": "Portuguese Liga 1 - Week 2",
+            "match": "     Sporting Braga   vs   Gil Vicente",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "19:30",
+            "date": "2026-08-16"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL 2",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Sporting Braga   vs   Gil Vicente"
         },
         {
             "compet": "Portuguese Liga 1 - Week 2",
