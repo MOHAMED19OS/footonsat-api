@@ -2003,6 +2003,14 @@
             "related_to": "     Johor Darul Ta'zim   vs   Chelsea"
         },
         {
+            "channel": "Sharjah Sports HD",
+            "sat": "Eutelsat 8 West B 8.0\u00b0w",
+            "freq": "11013 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "https://sba.net.ae/channels/tv/35/stream",
+            "related_to": "     Johor Darul Ta'zim   vs   Chelsea"
+        },
+        {
             "channel": "Sport 1 Israel HD",
             "sat": "Dror 1 4.0\u00b0w",
             "freq": "11259 V 30000 - 2/3",
@@ -3406,6 +3414,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://onefootball.com/en/matches",
+            "related_to": "     Liverpool   vs   Monaco"
+        },
+        {
+            "channel": "Sharjah Sports HD",
+            "sat": "Eutelsat 8 West B 8.0\u00b0w",
+            "freq": "11013 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "https://sba.net.ae/channels/tv/35/stream",
             "related_to": "     Liverpool   vs   Monaco"
         },
         {
@@ -4831,48 +4847,6 @@
             "related_to": "     Hradec Kr\u00e1lov\u00e9   vs   Ban\u00edk Ostrava"
         },
         {
-            "compet": "Friendly Club Match",
-            "match": "     Mansfield Town   vs   Sheffield United",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "15:00",
-            "date": "2026-08-09"
-        },
-        {
-            "channel": "beIN Sports Australia 3 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Mansfield Town   vs   Sheffield United"
-        },
-        {
-            "channel": "beIN Sports MENA 1 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Mansfield Town   vs   Sheffield United"
-        },
-        {
-            "channel": "beIN Sports MENA English 1 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10850 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Mansfield Town   vs   Sheffield United"
-        },
-        {
-            "channel": "Net4+ Sport ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://arena4plus.network4.hu/",
-            "related_to": "     Mansfield Town   vs   Sheffield United"
-        },
-        {
             "compet": "North Macedonian First League - Week 2",
             "match": "     Skopje   vs   Struga",
             "flags": {
@@ -4933,6 +4907,48 @@
             "encry": "",
             "link": "https://www.veikkaus.fi/fi/veikkaustv/jalkapallo",
             "related_to": "     HamKam   vs   Aalesund"
+        },
+        {
+            "compet": "Friendly Club Match",
+            "match": "     Mansfield Town   vs   Sheffield United",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "15:00",
+            "date": "2026-08-09"
+        },
+        {
+            "channel": "beIN Sports Australia 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Mansfield Town   vs   Sheffield United"
+        },
+        {
+            "channel": "beIN Sports MENA 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Mansfield Town   vs   Sheffield United"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Mansfield Town   vs   Sheffield United"
+        },
+        {
+            "channel": "Net4+ Sport ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://arena4plus.network4.hu/",
+            "related_to": "     Mansfield Town   vs   Sheffield United"
         },
         {
             "compet": "Latvian Virsliga - Week 26",
