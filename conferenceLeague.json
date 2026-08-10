@@ -413,6 +413,14 @@
             "related_to": "     Paris St Germain   vs   Aston Villa"
         },
         {
+            "channel": "LaLiga TV Bar HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "10818 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
             "channel": "M+ Liga de Campeones HD",
             "sat": "Astra 1KR 19.2\u00b0e",
             "freq": "11259 V 22000 - 2/3",
@@ -905,24 +913,6 @@
             "related_to": "     RFS Riga   vs   Jablonec"
         },
         {
-            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg) [0-1]",
-            "match": "     Gy\u00f6r   vs   Riga FC",
-            "flags": {
-                "team1": "hungary",
-                "team2": "latvia"
-            },
-            "time": "17:00",
-            "date": "2026-08-13"
-        },
-        {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Gy\u00f6r   vs   Riga FC"
-        },
-        {
             "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg) [5-0]",
             "match": "     Troms\u00f8   vs   CFR Cluj",
             "flags": {
@@ -938,6 +928,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "#",
+            "related_to": "     Troms\u00f8   vs   CFR Cluj"
+        },
+        {
+            "channel": "Direkte Sport ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.direktesport.no/sport/a1da5593-7bc1-4c70-92da-19e5953a1f9b",
             "related_to": "     Troms\u00f8   vs   CFR Cluj"
         },
         {
@@ -1213,6 +1211,24 @@
             "related_to": "     Austria Vienna   vs   Beitar Jerusalem"
         },
         {
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg) [0-1]",
+            "match": "     Gy\u00f6r   vs   Riga FC",
+            "flags": {
+                "team1": "hungary",
+                "team2": "latvia"
+            },
+            "time": "18:30",
+            "date": "2026-08-13"
+        },
+        {
+            "channel": "TV4 Latvija",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Gy\u00f6r   vs   Riga FC"
+        },
+        {
             "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg) [1-0]",
             "match": "     AA Gent   vs   IFK Gotenberg",
             "flags": {
@@ -1239,6 +1255,14 @@
             },
             "time": "18:45",
             "date": "2026-08-13"
+        },
+        {
+            "channel": "LOI TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.loitv.ie/",
+            "related_to": "     Shelbourne   vs   Ajax"
         },
         {
             "channel": "OneFootball [app] ($/geo/R)",

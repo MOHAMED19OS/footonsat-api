@@ -51,6 +51,14 @@
             "related_to": "     Wolves   vs   Blackburn Rovers"
         },
         {
+            "channel": "Cosmote Sport 3 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "11843 V 27500 - 3/5",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Wolves   vs   Blackburn Rovers"
+        },
+        {
             "channel": "DAZN Canada ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -899,6 +907,14 @@
             "related_to": "     Sheffield United   vs   Birmingham City"
         },
         {
+            "channel": "Cosmote Sport 3 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "11843 V 27500 - 3/5",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Sheffield United   vs   Birmingham City"
+        },
+        {
             "channel": "DAZN Canada ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1045,10 +1061,26 @@
             "related_to": "     Watford   vs   Southampton"
         },
         {
+            "channel": "beIN Sports Australia 2 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Watford   vs   Southampton"
+        },
+        {
             "channel": "beIN Sports France 4 HD max",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "11856 V 29700 - 2/3",
             "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Watford   vs   Southampton"
+        },
+        {
+            "channel": "Cosmote Sport 3 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "11843 V 27500 - 3/5",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Watford   vs   Southampton"
         },
@@ -1199,10 +1231,26 @@
             "related_to": "     Burnley   vs   West Ham United"
         },
         {
+            "channel": "beIN Sports Australia 2 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Burnley   vs   West Ham United"
+        },
+        {
             "channel": "beIN Sports France 4 HD max",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "11856 V 29700 - 2/3",
             "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Burnley   vs   West Ham United"
+        },
+        {
+            "channel": "Cosmote Sport 3 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "11843 V 27500 - 3/5",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Burnley   vs   West Ham United"
         },
@@ -4207,6 +4255,24 @@
             "encry": "MPEG-4 NDS",
             "link": "#",
             "related_to": "     Burnley   vs   Preston N.E."
+        },
+        {
+            "compet": "English Championship - Week 20",
+            "match": "     West Ham United   vs   Middlesbrough",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "20:00",
+            "date": "2026-12-08"
+        },
+        {
+            "channel": "Sky Sports Football HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "12090 V 29500 - 8/9",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     West Ham United   vs   Middlesbrough"
         }
     ]
 }
