@@ -53,6 +53,14 @@
             "related_to": "     Sabah   vs   AGF Aarhus"
         },
         {
+            "channel": "Ictimai TV HD",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11095 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Sabah   vs   AGF Aarhus"
+        },
+        {
             "channel": "TV3+ Dansk HD",
             "sat": "Astra 4A 5.0\u00b0e",
             "freq": "11823 V 27500 - 3/4",
@@ -83,6 +91,14 @@
             "sat": "Dror 1 4.0\u00b0w",
             "freq": "11259 V 30000 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Bod\u00f8/Glimt   vs   Union St Gilloise"
+        },
+        {
+            "channel": "Arena M3 Premium MKD HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Bod\u00f8/Glimt   vs   Union St Gilloise"
         },
@@ -145,6 +161,14 @@
             "date": "2026-08-11"
         },
         {
+            "channel": "Arena Premium 2 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Kauno Zalgiris   vs   Dinamo Zagreb"
+        },
+        {
             "channel": "MAX Sport 1 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11512 H 30000 - 3/4",
@@ -203,6 +227,14 @@
             "related_to": "     NEC Nijmegen   vs   Olympiacos"
         },
         {
+            "channel": "Arena Premium 3 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     NEC Nijmegen   vs   Olympiacos"
+        },
+        {
             "channel": "KS TV | Futbol 1 ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -248,6 +280,14 @@
             "channel": "Arena M1 Premium MKD HD",
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Red Star Belgrade   vs   Hapoel Be'er Sheva"
+        },
+        {
+            "channel": "Arena Premium 1 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "0000 0",
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Red Star Belgrade   vs   Hapoel Be'er Sheva"
@@ -337,6 +377,22 @@
             "related_to": "     Celje   vs   Ararat-Armenia"
         },
         {
+            "channel": "Sport 1 Baltic",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Celje   vs   Ararat-Armenia"
+        },
+        {
+            "channel": "Sport 1 Ukraine",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Celje   vs   Ararat-Armenia"
+        },
+        {
             "channel": "Voyo Player Slovenija [$]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -359,14 +415,6 @@
             "sat": "Dror 1 4.0\u00b0w",
             "freq": "11259 V 30000 - 2/3",
             "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Sturm Graz   vs   Fenerbah\u00e7e"
-        },
-        {
-            "channel": "Arena M3 Premium MKD HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12246 V 30000 - 3/4",
-            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Sturm Graz   vs   Fenerbah\u00e7e"
         },
@@ -449,6 +497,14 @@
             "sat": "Dror 1 4.0\u00b0w",
             "freq": "11259 V 30000 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Lyon   vs   Sparta Prague"
+        },
+        {
+            "channel": "Arena M3 Premium MKD HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Lyon   vs   Sparta Prague"
         },
@@ -547,6 +603,22 @@
             "sat": "Dror 1 4.0\u00b0w",
             "freq": "11259 V 30000 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
+            "channel": "Arena M1 Premium MKD HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
+            "channel": "Arena Premium 1 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Paris St Germain   vs   Aston Villa"
         },
@@ -735,6 +807,14 @@
             "related_to": "     Paris St Germain   vs   Aston Villa"
         },
         {
+            "channel": "Fast Sports TV Armenia",
+            "sat": "Eutelsat 70B 70.5\u00b0e",
+            "freq": "11050 H 20030 - 1/2",
+            "encry": "MPEG-4 Biss",
+            "link": "https://fasttv.am/tv-channels/fastsports",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
             "channel": "Go3 Extra Sport Baltics ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -851,6 +931,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
+            "channel": "Premier Sports 2 Mongolia HD",
+            "sat": "Telstar 18 138.0\u00b0e",
+            "freq": "12598 H 45000 - 5/6",
+            "encry": "MPEG-4 Verimatrix",
             "link": "#",
             "related_to": "     Paris St Germain   vs   Aston Villa"
         },
