@@ -211,6 +211,14 @@
             "related_to": "     Wolves   vs   Blackburn Rovers"
         },
         {
+            "channel": "TSN Malta 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Wolves   vs   Blackburn Rovers"
+        },
+        {
             "channel": "TV2 Play Norge ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -499,6 +507,14 @@
             "sat": "Astra 2F 28.2\u00b0e",
             "freq": "12148 H 27500 - 2/3",
             "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Middlesbrough   vs   Lincoln City"
+        },
+        {
+            "channel": "TSN Malta 5 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Middlesbrough   vs   Lincoln City"
         },
@@ -1051,6 +1067,14 @@
             "related_to": "     Sheffield United   vs   Birmingham City"
         },
         {
+            "channel": "TSN Malta 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Sheffield United   vs   Birmingham City"
+        },
+        {
             "channel": "V Sport 1 Norge HD",
             "sat": "Thor 6 5.0\u00b0e",
             "freq": "11305 H 30000 - 3/4",
@@ -1249,6 +1273,14 @@
             "sat": "Astra 2F 28.2\u00b0e",
             "freq": "12246 V 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Watford   vs   Southampton"
+        },
+        {
+            "channel": "TSN Malta 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Watford   vs   Southampton"
         },
@@ -1503,6 +1535,14 @@
             "related_to": "     Burnley   vs   West Ham United"
         },
         {
+            "channel": "TSN Malta 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Burnley   vs   West Ham United"
+        },
+        {
             "channel": "V Sport 1 Norge HD",
             "sat": "Thor 6 5.0\u00b0e",
             "freq": "11305 H 30000 - 3/4",
@@ -1575,6 +1615,14 @@
             },
             "time": "19:00",
             "date": "2026-08-17"
+        },
+        {
+            "channel": "beIN Sports Australia 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Cardiff City   vs   Wrexham"
         },
         {
             "channel": "beIN Sports France 4 HD max",
@@ -1677,6 +1725,14 @@
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "10970 V 30000 - 5/6",
             "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Cardiff City   vs   Wrexham"
+        },
+        {
+            "channel": "TSN Malta 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Cardiff City   vs   Wrexham"
         },
@@ -4765,6 +4821,24 @@
             "encry": "MPEG-4 NDS",
             "link": "#",
             "related_to": "     West Ham United   vs   Middlesbrough"
+        },
+        {
+            "compet": "English Championship - Week 20",
+            "match": "     Southampton   vs   Burnley",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "20:00",
+            "date": "2026-12-09"
+        },
+        {
+            "channel": "Sky Sports Football HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "12090 V 29500 - 8/9",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Southampton   vs   Burnley"
         }
     ]
 }
