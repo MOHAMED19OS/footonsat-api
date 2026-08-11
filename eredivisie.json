@@ -237,6 +237,14 @@
             "related_to": "     Utrecht   vs   AZ Alkmaar"
         },
         {
+            "channel": "Setanta Sports+ Ukraine HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "12207 V 30000 - 2/3",
+            "encry": "HD Verimatrix",
+            "link": "#",
+            "related_to": "     Utrecht   vs   AZ Alkmaar"
+        },
+        {
             "channel": "SportKlub 1 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11471 H 30000 - 3/4",
@@ -371,6 +379,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Excelsior   vs   PSV Eindhoven"
+        },
+        {
+            "channel": "SuperSport 4 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Excelsior   vs   PSV Eindhoven"
         },
@@ -585,6 +601,14 @@
             "related_to": "     Feyenoord   vs   Go Ahead Eagles"
         },
         {
+            "channel": "SuperSport 2 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Feyenoord   vs   Go Ahead Eagles"
+        },
+        {
             "channel": "SuperSport ESPN HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "10970 V 30000 - 5/6",
@@ -701,10 +725,26 @@
             "related_to": "     Ajax   vs   Heerenveen"
         },
         {
+            "channel": "Setanta Sports+ Ukraine HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "12207 V 30000 - 2/3",
+            "encry": "HD Verimatrix",
+            "link": "#",
+            "related_to": "     Ajax   vs   Heerenveen"
+        },
+        {
             "channel": "Sportdigital FUSSBALL HD",
             "sat": "Astra 1L 19.2\u00b0e",
             "freq": "11186 V 22000 - 2/3",
             "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Ajax   vs   Heerenveen"
+        },
+        {
+            "channel": "SuperSport 2 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Ajax   vs   Heerenveen"
         },
