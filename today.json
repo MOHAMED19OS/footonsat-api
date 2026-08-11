@@ -1,24 +1,6 @@
 {
     "footonsat": [
         {
-            "compet": "Colombian Primera A - Clausura - 4",
-            "match": "     Independiente Medell\u00edn   vs   Millonarios",
-            "flags": {
-                "team1": "colombia",
-                "team2": "colombia"
-            },
-            "time": "23:00",
-            "date": "2026-08-10"
-        },
-        {
-            "channel": "viju+ Sport HD",
-            "sat": "KazSat 3 58.5\u00b0e",
-            "freq": "10720 H 30000 - 3/4",
-            "encry": "VideoGuard",
-            "link": "#",
-            "related_to": "     Independiente Medell\u00edn   vs   Millonarios"
-        },
-        {
             "compet": "Ecuadorian Liga Pro Serie A - Week 24",
             "match": "     Deportivo Cuenca   vs   Manta",
             "flags": {
@@ -1158,6 +1140,14 @@
             "channel": "S Sport+ Streaming",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Sturm Graz   vs   Fenerbah\u00e7e"
+        },
+        {
+            "channel": "Sport TV Azerbaijan (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
             "encry": "",
             "link": "#",
             "related_to": "     Sturm Graz   vs   Fenerbah\u00e7e"
