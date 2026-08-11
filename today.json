@@ -623,6 +623,24 @@
             "related_to": "     Nart Cherkessk   vs   Dynamo Stavropol"
         },
         {
+            "compet": "Portuguese Liga Next Gen - Week 1",
+            "match": "     Sporting Lisbon U-23   vs   Uni\u00e3o Leiria U-23",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "17:00",
+            "date": "2026-08-11"
+        },
+        {
+            "channel": "Canal 11 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12437 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Sporting Lisbon U-23   vs   Uni\u00e3o Leiria U-23"
+        },
+        {
             "compet": "Bulgarian Second League - Week 3",
             "match": "     Yantra Gabrovo   vs   Montana",
             "flags": {
@@ -645,6 +663,14 @@
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11387 H 30000  -3/4",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Yantra Gabrovo   vs   Montana"
+        },
+        {
+            "channel": "SportKlub 3 Slovenija",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11231 V 42000 - 5/6",
+            "encry": "MPEG-4 Irdeto",
             "link": "#",
             "related_to": "     Yantra Gabrovo   vs   Montana"
         },
@@ -1073,7 +1099,7 @@
             "date": "2026-08-11"
         },
         {
-            "channel": "5 LIVE Israel HD",
+            "channel": "5 PLUS Israel HD",
             "sat": "Dror 1 4.0\u00b0w",
             "freq": "11259 V 30000 - 2/3",
             "encry": "HD VideoGuard",
@@ -1153,10 +1179,10 @@
             "related_to": "     Sturm Graz   vs   Fenerbah\u00e7e"
         },
         {
-            "channel": "Sport TV+ Portugal",
+            "channel": "Sport TV4 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12476 H 27500 - 3/4",
-            "encry": "MPEG-4 Nagra",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Sturm Graz   vs   Fenerbah\u00e7e"
         },
@@ -1349,7 +1375,7 @@
             "date": "2026-08-11"
         },
         {
-            "channel": "5 PLUS Israel HD",
+            "channel": "5 LIVE Israel HD",
             "sat": "Dror 1 4.0\u00b0w",
             "freq": "11259 V 30000 - 2/3",
             "encry": "HD VideoGuard",

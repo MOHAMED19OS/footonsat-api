@@ -443,7 +443,7 @@
             "date": "2026-08-11"
         },
         {
-            "channel": "5 LIVE Israel HD",
+            "channel": "5 PLUS Israel HD",
             "sat": "Dror 1 4.0\u00b0w",
             "freq": "11259 V 30000 - 2/3",
             "encry": "HD VideoGuard",
@@ -523,10 +523,10 @@
             "related_to": "     Sturm Graz   vs   Fenerbah\u00e7e"
         },
         {
-            "channel": "Sport TV+ Portugal",
+            "channel": "Sport TV4 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12476 H 27500 - 3/4",
-            "encry": "MPEG-4 Nagra",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Sturm Graz   vs   Fenerbah\u00e7e"
         },
@@ -549,7 +549,7 @@
             "date": "2026-08-11"
         },
         {
-            "channel": "5 PLUS Israel HD",
+            "channel": "5 LIVE Israel HD",
             "sat": "Dror 1 4.0\u00b0w",
             "freq": "11259 V 30000 - 2/3",
             "encry": "HD VideoGuard",
@@ -935,6 +935,22 @@
             "related_to": "     Paris St Germain   vs   Aston Villa"
         },
         {
+            "channel": "Futbol TV Tajikistan",
+            "sat": "ABS 2A 75.0\u00b0e",
+            "freq": "12252 H 10000 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
+            "channel": "GEM Sport HD",
+            "sat": "Al Yah 1 52.5\u00b0e",
+            "freq": "12034 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
             "channel": "Go3 Extra Sport Baltics ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -1191,6 +1207,14 @@
             "related_to": "     Paris St Germain   vs   Aston Villa"
         },
         {
+            "channel": "SportKlub 1 Slovenija HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
             "channel": "Stan Sport Australia ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1319,6 +1343,14 @@
             "related_to": "     Paris St Germain   vs   Aston Villa"
         },
         {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1389,6 +1421,24 @@
             "encry": "MPEG-4 Verimatrix",
             "link": "#",
             "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
+            "compet": "UEFA Champions League - League Phase DRAW",
+            "match": "       - UEFA Champions League Draw -       ",
+            "flags": {
+                "team1": "assoceu",
+                "team2": "assoceu"
+            },
+            "time": "16:00",
+            "date": "2026-08-27"
+        },
+        {
+            "channel": "UEFA.TV [online] (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.uefa.tv/",
+            "related_to": "       - UEFA Champions League Draw -       "
         }
     ]
 }
