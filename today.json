@@ -559,14 +559,6 @@
             "date": "2026-08-12"
         },
         {
-            "channel": "5 LIVE Israel HD",
-            "sat": "Dror 1 4.0\u00b0w",
-            "freq": "11259 V 30000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     FC Copenhagen   vs   Debrecen"
-        },
-        {
             "channel": "ESPN+ USA ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -747,6 +739,14 @@
             "related_to": "     Newcastle United   vs   Everton"
         },
         {
+            "channel": "Kuwait Sport HD",
+            "sat": "Badr 4 26.0\u00b0e",
+            "freq": "12523 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Newcastle United   vs   Everton"
+        },
+        {
             "channel": "Livey Events ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -832,6 +832,14 @@
             "freq": "11013 V 27500 - 5/6",
             "encry": "FTA",
             "link": "https://sba.net.ae/channels/tv/35/stream",
+            "related_to": "     Newcastle United   vs   Everton"
+        },
+        {
+            "channel": "Sigma TV Cyprus HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "11837 H 16515 - 5/6",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "     Newcastle United   vs   Everton"
         },
         {
@@ -1179,6 +1187,14 @@
             "related_to": "     Manchester United   vs   Leeds United"
         },
         {
+            "channel": "Sigma TV Cyprus HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "11837 H 16515 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Manchester United   vs   Leeds United"
+        },
+        {
             "channel": "Sport 1 Israel HD",
             "sat": "Dror 1 4.0\u00b0w",
             "freq": "11259 V 30000 - 2/3",
@@ -1439,152 +1455,6 @@
             "related_to": "     Nottingham Forest   vs   Bayer Leverkusen"
         },
         {
-            "compet": "Friendly Club Match",
-            "match": "     Deportivo La Coru\u00f1a   vs   Real Madrid",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "time": "19:00",
-            "date": "2026-08-12"
-        },
-        {
-            "channel": "Abu Dhabi Sports 1 HD",
-            "sat": "Badr 8 26.0\u00b0e",
-            "freq": "11804 H 30000 - 3/4",
-            "encry": "FTA",
-            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%201",
-            "related_to": "     Deportivo La Coru\u00f1a   vs   Real Madrid"
-        },
-        {
-            "channel": "DAZN Canada ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Deportivo La Coru\u00f1a   vs   Real Madrid"
-        },
-        {
-            "channel": "DAZN Great Britain (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": "     Deportivo La Coru\u00f1a   vs   Real Madrid"
-        },
-        {
-            "channel": "DAZN Ireland ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.dazn.com/en-IE/home",
-            "related_to": "     Deportivo La Coru\u00f1a   vs   Real Madrid"
-        },
-        {
-            "channel": "Fox Deportes USA",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Deportivo La Coru\u00f1a   vs   Real Madrid"
-        },
-        {
-            "channel": "L\u00b4\u00c9quipe Live Foot (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://lequipe.fr/",
-            "related_to": "     Deportivo La Coru\u00f1a   vs   Real Madrid"
-        },
-        {
-            "channel": "Okko Futbol HD ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Deportivo La Coru\u00f1a   vs   Real Madrid"
-        },
-        {
-            "channel": "Persiana Sports 2 HD",
-            "sat": "MonacoSat 52.0\u00b0e",
-            "freq": "10804 H 27500 - 2/3",
-            "encry": "FTA",
-            "link": "https://pokertvfa.live/",
-            "related_to": "     Deportivo La Coru\u00f1a   vs   Real Madrid"
-        },
-        {
-            "channel": "Real Madrid TV",
-            "sat": "*DTT 0.0\u00b0-",
-            "freq": "0000 - -",
-            "encry": "Seca",
-            "link": "#",
-            "related_to": "     Deportivo La Coru\u00f1a   vs   Real Madrid"
-        },
-        {
-            "channel": "RTVE Play ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.rtve.es/play/deportes/",
-            "related_to": "     Deportivo La Coru\u00f1a   vs   Real Madrid"
-        },
-        {
-            "channel": "Sport Bladet Play (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.sportbladetplay.se/schedule",
-            "related_to": "     Deportivo La Coru\u00f1a   vs   Real Madrid"
-        },
-        {
-            "channel": "Sportdigital FUSSBALL HD",
-            "sat": "Astra 1L 19.2\u00b0e",
-            "freq": "11186 V 22000 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Deportivo La Coru\u00f1a   vs   Real Madrid"
-        },
-        {
-            "channel": "TV Tipsport Czechia",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://tipsporttv.livebox.cz/",
-            "related_to": "     Deportivo La Coru\u00f1a   vs   Real Madrid"
-        },
-        {
-            "channel": "TVE La 1 HD Espa\u00f1a",
-            "sat": "*DTT 0.0\u00b0-",
-            "freq": "0000 - -",
-            "encry": "NagraVision",
-            "link": "http://www.rtve.es/directo/la-1/",
-            "related_to": "     Deportivo La Coru\u00f1a   vs   Real Madrid"
-        },
-        {
-            "channel": "TVG Galicia",
-            "sat": "*DTT 0.0\u00b0-",
-            "freq": "0000 - -",
-            "encry": "FTA",
-            "link": "https://www.agalega.gal/videos/76475-tvg",
-            "related_to": "     Deportivo La Coru\u00f1a   vs   Real Madrid"
-        },
-        {
-            "channel": "VG+ Sport Norge ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.vgtv.no/live",
-            "related_to": "     Deportivo La Coru\u00f1a   vs   Real Madrid"
-        },
-        {
-            "channel": "Z Sports 1 Angola",
-            "sat": "Eutelsat 36D 35.9\u00b0e",
-            "freq": "11263 V 30000 - 5/6",
-            "encry": "MPEG-4 Nagra",
-            "link": "#",
-            "related_to": "     Deportivo La Coru\u00f1a   vs   Real Madrid"
-        },
-        {
             "compet": "UEFA Super Cup - FINAL (Stadion Salzburg, Austria)",
             "match": "     Paris St Germain   vs   Aston Villa",
             "flags": {
@@ -1843,6 +1713,14 @@
             "related_to": "     Paris St Germain   vs   Aston Villa"
         },
         {
+            "channel": "Digi 4K UHD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
             "channel": "Digi Sport 1 Romania HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "11823 H 30000 - 5/6",
@@ -1863,6 +1741,14 @@
             "sat": "ABS 2A 75.0\u00b0e",
             "freq": "12252 H 10000 - 3/4",
             "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
+            "channel": "Futbol TV Uzbekistan",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix",
             "link": "#",
             "related_to": "     Paris St Germain   vs   Aston Villa"
         },
@@ -1952,6 +1838,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
+            "channel": "Meraj TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11221 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "     Paris St Germain   vs   Aston Villa"
         },
         {
@@ -2143,6 +2037,14 @@
             "sat": "Hotbird 13E 13.0\u00b0e",
             "freq": "11996 V 29900 - 5/6",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Paris St Germain   vs   Aston Villa"
         },
@@ -2435,6 +2337,160 @@
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Estoril U-23   vs   Gil Vicente U-23"
+        },
+        {
+            "compet": "Friendly Club Match",
+            "match": "     Deportivo La Coru\u00f1a   vs   Real Madrid",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "19:00",
+            "date": "2026-08-12"
+        },
+        {
+            "channel": "Abu Dhabi Sports 1 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11804 H 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%201",
+            "related_to": "     Deportivo La Coru\u00f1a   vs   Real Madrid"
+        },
+        {
+            "channel": "DAZN Canada ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Deportivo La Coru\u00f1a   vs   Real Madrid"
+        },
+        {
+            "channel": "DAZN Great Britain (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "     Deportivo La Coru\u00f1a   vs   Real Madrid"
+        },
+        {
+            "channel": "DAZN Ireland ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "     Deportivo La Coru\u00f1a   vs   Real Madrid"
+        },
+        {
+            "channel": "Fox Deportes USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Deportivo La Coru\u00f1a   vs   Real Madrid"
+        },
+        {
+            "channel": "L\u00b4\u00c9quipe Live Foot (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://lequipe.fr/",
+            "related_to": "     Deportivo La Coru\u00f1a   vs   Real Madrid"
+        },
+        {
+            "channel": "Okko Futbol HD ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Deportivo La Coru\u00f1a   vs   Real Madrid"
+        },
+        {
+            "channel": "ONE Sport Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Deportivo La Coru\u00f1a   vs   Real Madrid"
+        },
+        {
+            "channel": "Persiana Sports 2 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
+            "related_to": "     Deportivo La Coru\u00f1a   vs   Real Madrid"
+        },
+        {
+            "channel": "Real Madrid TV",
+            "sat": "*DTT 0.0\u00b0-",
+            "freq": "0000 - -",
+            "encry": "Seca",
+            "link": "#",
+            "related_to": "     Deportivo La Coru\u00f1a   vs   Real Madrid"
+        },
+        {
+            "channel": "RTVE Play ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.rtve.es/play/deportes/",
+            "related_to": "     Deportivo La Coru\u00f1a   vs   Real Madrid"
+        },
+        {
+            "channel": "Sport Bladet Play (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.sportbladetplay.se/schedule",
+            "related_to": "     Deportivo La Coru\u00f1a   vs   Real Madrid"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Deportivo La Coru\u00f1a   vs   Real Madrid"
+        },
+        {
+            "channel": "TV Tipsport Czechia",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tipsporttv.livebox.cz/",
+            "related_to": "     Deportivo La Coru\u00f1a   vs   Real Madrid"
+        },
+        {
+            "channel": "TVE La 1 HD Espa\u00f1a",
+            "sat": "*DTT 0.0\u00b0-",
+            "freq": "0000 - -",
+            "encry": "NagraVision",
+            "link": "http://www.rtve.es/directo/la-1/",
+            "related_to": "     Deportivo La Coru\u00f1a   vs   Real Madrid"
+        },
+        {
+            "channel": "TVG Galicia",
+            "sat": "*DTT 0.0\u00b0-",
+            "freq": "0000 - -",
+            "encry": "FTA",
+            "link": "https://www.agalega.gal/videos/76475-tvg",
+            "related_to": "     Deportivo La Coru\u00f1a   vs   Real Madrid"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
+            "related_to": "     Deportivo La Coru\u00f1a   vs   Real Madrid"
+        },
+        {
+            "channel": "Z Sports 1 Angola",
+            "sat": "Eutelsat 36D 35.9\u00b0e",
+            "freq": "11263 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Deportivo La Coru\u00f1a   vs   Real Madrid"
         },
         {
             "compet": "Friendly Club Match",
