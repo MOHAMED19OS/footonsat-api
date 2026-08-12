@@ -1,82 +1,6 @@
 {
     "footonsat": [
         {
-            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg) [1-0]",
-            "match": "     Apollon Limassol   vs   Brann",
-            "flags": {
-                "team1": "cyprus",
-                "team2": "norway"
-            },
-            "time": "17:00",
-            "date": "2026-08-11"
-        },
-        {
-            "channel": "Arena Premium 5 BiH HD",
-            "sat": " 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Apollon Limassol   vs   Brann"
-        },
-        {
-            "channel": "Arena Premium 5 Srbija HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12304 H 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Apollon Limassol   vs   Brann"
-        },
-        {
-            "channel": "Cytavision Sports 1 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Apollon Limassol   vs   Brann"
-        },
-        {
-            "channel": "Cytavision Sports PPV 1 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Apollon Limassol   vs   Brann"
-        },
-        {
-            "channel": "VG+ Sport Norge ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.vgtv.no/live",
-            "related_to": "     Apollon Limassol   vs   Brann"
-        },
-        {
-            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg) [1-1]",
-            "match": "     CSKA 1948 Sofia   vs   Panathinaikos",
-            "flags": {
-                "team1": "bulgaria",
-                "team2": "greece"
-            },
-            "time": "17:30",
-            "date": "2026-08-11"
-        },
-        {
-            "channel": "bTV Bulgaria HD",
-            "sat": "Hellas Sat 3 39.0\u00b0e",
-            "freq": "12463 H 30000 - 5/6",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     CSKA 1948 Sofia   vs   Panathinaikos"
-        },
-        {
-            "channel": "SKAI Hellas HD",
-            "sat": "Hellas Sat 3 39.0\u00b0e",
-            "freq": "12338 H 11568 - 2/3",
-            "encry": "HD BISS",
-            "link": "https://www.skai.gr/tv/live",
-            "related_to": "     CSKA 1948 Sofia   vs   Panathinaikos"
-        },
-        {
             "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg) [4-1]",
             "match": "     Rapid Vienna   vs   Paide Linnameeskond",
             "flags": {
@@ -541,6 +465,14 @@
             "related_to": "     Paris St Germain   vs   Aston Villa"
         },
         {
+            "channel": "Jurnal TV Moldova",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
             "channel": "Kanal A Slovenija HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11387 H 30000 - 3/5",
@@ -633,6 +565,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Paris St Germain   vs   Aston Villa"
         },
@@ -733,6 +673,22 @@
             "related_to": "     Paris St Germain   vs   Aston Villa"
         },
         {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
+            "channel": "Silk Universal HD",
+            "sat": "Astra 5B 31.5\u00b0e",
+            "freq": "12207 V 27500 - 5/6",
+            "encry": "MPEG-4 Bulcrypt",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
             "channel": "Sky Sport 1 Austria HD",
             "sat": "Astra 1N 19.2\u00b0e",
             "freq": "12032 H 27500 - 9/10",
@@ -749,10 +705,34 @@
             "related_to": "     Paris St Germain   vs   Aston Villa"
         },
         {
+            "channel": "Sky Sport Italia 4K UHD",
+            "sat": "Hotbird 13E 13.0\u00b0e",
+            "freq": "11996 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
             "channel": "Sony Sports TEN 2 India HD",
             "sat": "G-Sat 10 83.0\u00b0e",
             "freq": "11090 V 32720 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
+            "channel": "Sony Sports TEN 3 India HD",
+            "sat": "G-Sat 10 83.0\u00b0e",
+            "freq": "11090 V 32720 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
+            "channel": "Sony Sports TEN 4 India HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "3868 H 14450 - 3/4",
+            "encry": "MPEG-4 NDS",
             "link": "#",
             "related_to": "     Paris St Germain   vs   Aston Villa"
         },
