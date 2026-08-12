@@ -275,6 +275,14 @@
             "related_to": "     Paris St Germain   vs   Aston Villa"
         },
         {
+            "channel": "Fast Sports [online] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
             "channel": "Fast Sports TV Armenia",
             "sat": "Eutelsat 70B 70.5\u00b0e",
             "freq": "11050 H 20030 - 1/2",
@@ -327,6 +335,14 @@
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11637 V 30000 - 2/3",
             "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Aston Villa"
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Intelsat 39 62.0\u00b0e",
+            "freq": "11555 V 30000 - 3/4",
+            "encry": "HD BISS",
             "link": "#",
             "related_to": "     Paris St Germain   vs   Aston Villa"
         },
@@ -869,10 +885,10 @@
             "date": "2026-08-18"
         },
         {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
+            "channel": "Tring Sport 3 HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Dinamo Zagreb   vs   Viking"
         },
@@ -887,10 +903,10 @@
             "date": "2026-08-18"
         },
         {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
+            "channel": "Tring Sport 2 HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Levski Sofia   vs   AEK Athens"
         },
@@ -913,6 +929,14 @@
             "related_to": "     Fenerbah\u00e7e   vs   Lyon"
         },
         {
+            "channel": "Tring Sport 1 HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Fenerbah\u00e7e   vs   Lyon"
+        },
+        {
             "channel": "TRT 1 T\u00fcrkiye HD",
             "sat": "Turksat 3A 42.0\u00b0e",
             "freq": "11096 H 30000 - 5/6",
@@ -931,10 +955,10 @@
             "date": "2026-08-19"
         },
         {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
+            "channel": "Tring Sport 3 HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Slovan Bratislava   vs   Celje"
         },
@@ -949,15 +973,15 @@
             "date": "2026-08-19"
         },
         {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
+            "channel": "Tring Sport 1 HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     NEC Nijmegen   vs   Bod\u00f8/Glimt"
         },
         {
-            "compet": "UEFA Champions League - Play-Off (1st  Leg)",
+            "compet": "UEFA Champions League - Play-Off (1st Leg) [Bucharest]",
             "match": "     Hapoel Be'er Sheva   vs   Sabah",
             "flags": {
                 "team1": "israel",
@@ -967,10 +991,10 @@
             "date": "2026-08-19"
         },
         {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
+            "channel": "Tring Sport 4 HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
         },
@@ -985,10 +1009,10 @@
             "date": "2026-08-19"
         },
         {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
+            "channel": "Tring Sport 2 HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Celtic   vs   LASK Linz"
         },
@@ -1127,6 +1151,30 @@
             },
             "time": "16:00",
             "date": "2026-08-27"
+        },
+        {
+            "channel": "M+ Liga de Campeones HD",
+            "sat": "Astra 1KR 19.2\u00b0e",
+            "freq": "11259 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "       - UEFA Champions League Draw -       "
+        },
+        {
+            "channel": "Movistar Plus+ HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11097 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "       - UEFA Champions League Draw -       "
+        },
+        {
+            "channel": "Tring Sport 1 HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "       - UEFA Champions League Draw -       "
         },
         {
             "channel": "UEFA.TV [online] (geo/R)",
