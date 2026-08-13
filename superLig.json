@@ -394,6 +394,32 @@
         },
         {
             "compet": "T\u00fcrkiye 1. Lig - Week 2",
+            "match": "     Fatih Karag\u00fcmr\u00fck   vs   Umraniyespor",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "16:00",
+            "date": "2026-08-15"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Fatih Karag\u00fcmr\u00fck   vs   Umraniyespor"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye Max 1 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Fatih Karag\u00fcmr\u00fck   vs   Umraniyespor"
+        },
+        {
+            "compet": "T\u00fcrkiye 1. Lig - Week 2",
             "match": "     Istanbulspor   vs   Bodrumspor",
             "flags": {
                 "team1": "turkey",
@@ -411,22 +437,12 @@
             "related_to": "     Istanbulspor   vs   Bodrumspor"
         },
         {
-            "compet": "T\u00fcrkiye 1. Lig - Week 2",
-            "match": "     Fatih Karag\u00fcmr\u00fck   vs   Umraniyespor",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "16:00",
-            "date": "2026-08-15"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Fatih Karag\u00fcmr\u00fck   vs   Umraniyespor"
+            "channel": "beIN Sports HABER HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "12379 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Istanbulspor   vs   Bodrumspor"
         },
         {
             "compet": "T\u00fcrkiye S\u00fcper Lig - Week 1",
@@ -826,32 +842,6 @@
         },
         {
             "compet": "T\u00fcrkiye 1. Lig - Week 2",
-            "match": "     Bursaspor   vs   Igdir FK",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "18:30",
-            "date": "2026-08-15"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Bursaspor   vs   Igdir FK"
-        },
-        {
-            "channel": "TRT Spor T\u00fcrkiye HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11054 V 30000 - 3/4",
-            "encry": "FTA",
-            "link": "https://www.trtizle.com/canli/tv/trt-spor",
-            "related_to": "     Bursaspor   vs   Igdir FK"
-        },
-        {
-            "compet": "T\u00fcrkiye 1. Lig - Week 2",
             "match": "     Manisa FK   vs   Vanspor",
             "flags": {
                 "team1": "turkey",
@@ -869,12 +859,46 @@
             "related_to": "     Manisa FK   vs   Vanspor"
         },
         {
+            "channel": "beIN Sports T\u00fcrkiye Max 2 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11180 H 29750 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Manisa FK   vs   Vanspor"
+        },
+        {
             "channel": "TRT T\u00fcrk HD",
             "sat": "KazSat 3 58.5\u00b0e",
             "freq": "12719 V 45000 - 3/4",
             "encry": "MPEG-4 Irdeto",
             "link": "#",
             "related_to": "     Manisa FK   vs   Vanspor"
+        },
+        {
+            "compet": "T\u00fcrkiye 1. Lig - Week 2",
+            "match": "     Bursaspor   vs   Igdir FK",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "18:30",
+            "date": "2026-08-15"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Bursaspor   vs   Igdir FK"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye Max 1 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Bursaspor   vs   Igdir FK"
         },
         {
             "compet": "T\u00fcrkiye S\u00fcper Lig - Week 1",
@@ -929,14 +953,6 @@
             "related_to": "     Kayserispor   vs   Sivasspor"
         },
         {
-            "channel": "TRT Spor T\u00fcrkiye HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11054 V 30000 - 3/4",
-            "encry": "FTA",
-            "link": "https://www.trtizle.com/canli/tv/trt-spor",
-            "related_to": "     Kayserispor   vs   Sivasspor"
-        },
-        {
             "compet": "T\u00fcrkiye 1. Lig - Week 2",
             "match": "     Ke\u00e7i\u00f6reng\u00fcc\u00fc   vs   Pendikspor",
             "flags": {
@@ -952,6 +968,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Ke\u00e7i\u00f6reng\u00fcc\u00fc   vs   Pendikspor"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye Max 1 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
             "related_to": "     Ke\u00e7i\u00f6reng\u00fcc\u00fc   vs   Pendikspor"
         },
         {
@@ -1321,11 +1345,11 @@
             "related_to": "     Mardin 1969   vs   Antalyaspor"
         },
         {
-            "channel": "TRT Spor T\u00fcrkiye HD",
+            "channel": "beIN Sports T\u00fcrkiye Max 2 HD",
             "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11054 V 30000 - 3/4",
-            "encry": "FTA",
-            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "freq": "11180 H 29750 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
             "related_to": "     Mardin 1969   vs   Antalyaspor"
         },
         {
@@ -1344,6 +1368,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Muglaspor   vs   Bandirmaspor"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye Max 1 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
             "related_to": "     Muglaspor   vs   Bandirmaspor"
         },
         {
@@ -1407,14 +1439,6 @@
             "related_to": "     Batman Petrolspor   vs   Boluspor"
         },
         {
-            "channel": "TRT Spor T\u00fcrkiye HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11054 V 30000 - 3/4",
-            "encry": "FTA",
-            "link": "https://www.trtizle.com/canli/tv/trt-spor",
-            "related_to": "     Batman Petrolspor   vs   Boluspor"
-        },
-        {
             "compet": "T\u00fcrkiye S\u00fcper Lig - Week 2",
             "match": "     Erzurumspor   vs   Galatasaray",
             "flags": {
@@ -1464,14 +1488,6 @@
             "freq": "11676 V 24444 - 3/4",
             "encry": "HD Irdeto",
             "link": "#",
-            "related_to": "     Fatih Karag\u00fcmr\u00fck   vs   Bursaspor"
-        },
-        {
-            "channel": "TRT Spor T\u00fcrkiye HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11054 V 30000 - 3/4",
-            "encry": "FTA",
-            "link": "https://www.trtizle.com/canli/tv/trt-spor",
             "related_to": "     Fatih Karag\u00fcmr\u00fck   vs   Bursaspor"
         },
         {
