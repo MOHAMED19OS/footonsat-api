@@ -295,15 +295,15 @@
             "related_to": "     Kasimpasa   vs   Trabzonspor"
         },
         {
-            "channel": "beIN Sports MENA 1 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
+            "channel": "beIN Sports France 2 HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Kasimpasa   vs   Trabzonspor"
         },
         {
-            "channel": "beIN Sports MENA 2 HD",
+            "channel": "beIN Sports MENA 1 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 H 27500 - 2/3",
             "encry": "HD VideoGuard",
@@ -314,6 +314,14 @@
             "channel": "beIN Sports MENA English 1 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10850 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Kasimpasa   vs   Trabzonspor"
+        },
+        {
+            "channel": "beIN Sports MENA French 2 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 H 27500 - 2/3",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Kasimpasa   vs   Trabzonspor"
@@ -631,14 +639,6 @@
             "related_to": "     Gen\u00e7lerbirligi   vs   Fenerbah\u00e7e"
         },
         {
-            "channel": "beIN Sports France 4 HD max",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11856 V 29700 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Gen\u00e7lerbirligi   vs   Fenerbah\u00e7e"
-        },
-        {
             "channel": "beIN Sports France 6 HD max",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "11856 V 29700 - 2/3",
@@ -914,40 +914,6 @@
         },
         {
             "compet": "T\u00fcrkiye 1. Lig - Week 2",
-            "match": "     Manisa FK   vs   Vanspor",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "18:30",
-            "date": "2026-08-15"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Manisa FK   vs   Vanspor"
-        },
-        {
-            "channel": "beIN Sports T\u00fcrkiye Max 2 HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11180 H 29750 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Manisa FK   vs   Vanspor"
-        },
-        {
-            "channel": "TRT T\u00fcrk HD",
-            "sat": "KazSat 3 58.5\u00b0e",
-            "freq": "12719 V 45000 - 3/4",
-            "encry": "MPEG-4 Irdeto",
-            "link": "#",
-            "related_to": "     Manisa FK   vs   Vanspor"
-        },
-        {
-            "compet": "T\u00fcrkiye 1. Lig - Week 2",
             "match": "     Bursaspor   vs   Igdir FK",
             "flags": {
                 "team1": "turkey",
@@ -979,6 +945,40 @@
             "encry": "FTA",
             "link": "https://www.trtizle.com/canli/tv/trt-spor",
             "related_to": "     Bursaspor   vs   Igdir FK"
+        },
+        {
+            "compet": "T\u00fcrkiye 1. Lig - Week 2",
+            "match": "     Manisa FK   vs   Vanspor",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "18:30",
+            "date": "2026-08-15"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Manisa FK   vs   Vanspor"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye Max 2 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11180 H 29750 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Manisa FK   vs   Vanspor"
+        },
+        {
+            "channel": "TRT T\u00fcrk HD",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "12719 V 45000 - 3/4",
+            "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Manisa FK   vs   Vanspor"
         },
         {
             "compet": "T\u00fcrkiye S\u00fcper Lig - Week 1",
@@ -1101,6 +1101,14 @@
             "related_to": "     Besiktas   vs   Ey\u00fcpspor"
         },
         {
+            "channel": "ART Motion Sport 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "     Besiktas   vs   Ey\u00fcpspor"
+        },
+        {
             "channel": "beIN Connect Australia",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1217,6 +1225,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Besiktas   vs   Ey\u00fcpspor"
+        },
+        {
+            "channel": "beIN Sports MENA 3 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Besiktas   vs   Ey\u00fcpspor"
         },
@@ -1569,6 +1585,14 @@
             "related_to": "     Erzurumspor   vs   Galatasaray"
         },
         {
+            "channel": "MATCH! Futbol 1 HD",
+            "sat": "Horizons 2 84.8\u00b0e",
+            "freq": "11840 H 28800 - 2/3",
+            "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Erzurumspor   vs   Galatasaray"
+        },
+        {
             "channel": "Sport TV3 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
@@ -1647,24 +1671,6 @@
             "related_to": "     Umraniyespor   vs   Erokspor"
         },
         {
-            "compet": "T\u00fcrkiye 1. Lig - Week 3",
-            "match": "     Igdir FK   vs   Kayserispor",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "16:00",
-            "date": "2026-08-22"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Igdir FK   vs   Kayserispor"
-        },
-        {
             "compet": "T\u00fcrkiye S\u00fcper Lig - Week 2",
             "match": "     Corum FK   vs   Kasimpasa",
             "flags": {
@@ -1691,6 +1697,24 @@
             "related_to": "     Corum FK   vs   Kasimpasa"
         },
         {
+            "compet": "T\u00fcrkiye 1. Lig - Week 3",
+            "match": "     Igdir FK   vs   Kayserispor",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "16:00",
+            "date": "2026-08-22"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Igdir FK   vs   Kayserispor"
+        },
+        {
             "compet": "T\u00fcrkiye S\u00fcper Lig - Week 2",
             "match": "     Fenerbah\u00e7e   vs   Konyaspor",
             "flags": {
@@ -1713,6 +1737,14 @@
             "sat": "Turksat 3A 42.0\u00b0e",
             "freq": "11180 H 30000 - 3/4",
             "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Fenerbah\u00e7e   vs   Konyaspor"
+        },
+        {
+            "channel": "MATCH! Futbol 3 HD",
+            "sat": "Horizons 2 84.8\u00b0e",
+            "freq": "11840 H 28800 - 2/3",
+            "encry": "MPEG-4 Irdeto",
             "link": "#",
             "related_to": "     Fenerbah\u00e7e   vs   Konyaspor"
         },
@@ -1895,6 +1927,14 @@
             "sat": "Turksat 3A 42.0\u00b0e",
             "freq": "11180 H 30000 - 3/4",
             "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Alanyaspor   vs   Besiktas"
+        },
+        {
+            "channel": "MATCH! Futbol 3 HD",
+            "sat": "Horizons 2 84.8\u00b0e",
+            "freq": "11840 H 28800 - 2/3",
+            "encry": "MPEG-4 Irdeto",
             "link": "#",
             "related_to": "     Alanyaspor   vs   Besiktas"
         },
