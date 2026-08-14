@@ -75,6 +75,14 @@
             "related_to": "     Dinamo Zagreb   vs   Viking"
         },
         {
+            "channel": "M+ Liga de Campeones 3 HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "10788 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Dinamo Zagreb   vs   Viking"
+        },
+        {
             "channel": "MTV Katsomon+ ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -120,6 +128,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://play.tv2.no/sport",
+            "related_to": "     Dinamo Zagreb   vs   Viking"
+        },
+        {
+            "channel": "TV3 Sport Dansk HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11345 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
             "related_to": "     Dinamo Zagreb   vs   Viking"
         },
         {
@@ -269,6 +285,14 @@
             "related_to": "     Levski Sofia   vs   AEK Athens"
         },
         {
+            "channel": "M+ Liga de Campeones 2 HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "10729 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "#",
+            "related_to": "     Levski Sofia   vs   AEK Athens"
+        },
+        {
             "channel": "MTV Katsomon+ ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -314,6 +338,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://play.tv2.no/sport",
+            "related_to": "     Levski Sofia   vs   AEK Athens"
+        },
+        {
+            "channel": "TV3 MAX Dansk HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11345 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
             "related_to": "     Levski Sofia   vs   AEK Athens"
         },
         {
@@ -522,6 +554,14 @@
             "channel": "TV2 Sport 1 Norge HD",
             "sat": "Thor 6 5.0\u00b0e",
             "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Fenerbah\u00e7e   vs   Lyon"
+        },
+        {
+            "channel": "TV3+ Dansk HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11823 V 27500 - 3/4",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Fenerbah\u00e7e   vs   Lyon"
@@ -753,6 +793,14 @@
             "related_to": "     Celtic   vs   LASK Linz"
         },
         {
+            "channel": "TV3+ Dansk HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11823 V 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Celtic   vs   LASK Linz"
+        },
+        {
             "channel": "V Sport Premium HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "10903 V 25000 - 3/4",
@@ -920,6 +968,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://play.tv2.no/sport",
+            "related_to": "     NEC Nijmegen   vs   Bod\u00f8/Glimt"
+        },
+        {
+            "channel": "TV3 Sport Dansk HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11345 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
             "related_to": "     NEC Nijmegen   vs   Bod\u00f8/Glimt"
         },
         {
@@ -1208,24 +1264,6 @@
         },
         {
             "compet": "UEFA Champions League - Play-Off (2nd Leg)",
-            "match": "     Sabah   vs   Hapoel Be'er Sheva",
-            "flags": {
-                "team1": "azerbaijan",
-                "team2": "israel"
-            },
-            "time": "16:45",
-            "date": "2026-08-25"
-        },
-        {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Sabah   vs   Hapoel Be'er Sheva"
-        },
-        {
-            "compet": "UEFA Champions League - Play-Off (2nd Leg)",
             "match": "     Bod\u00f8/Glimt   vs   NEC Nijmegen",
             "flags": {
                 "team1": "norway",
@@ -1235,11 +1273,19 @@
             "date": "2026-08-25"
         },
         {
-            "channel": "- - -",
+            "channel": "MTV Urheilu 1 Suomi HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12476 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Bod\u00f8/Glimt   vs   NEC Nijmegen"
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
-            "link": "#",
+            "link": "https://play.tv2.no/sport",
             "related_to": "     Bod\u00f8/Glimt   vs   NEC Nijmegen"
         },
         {
@@ -1253,11 +1299,27 @@
             "date": "2026-08-25"
         },
         {
+            "channel": "MTV Urheilu 3 Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     LASK Linz   vs   Celtic"
+        },
+        {
             "channel": "Prime Video UK [$]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.primevideo.com/",
+            "related_to": "     LASK Linz   vs   Celtic"
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://play.tv2.no/sport",
             "related_to": "     LASK Linz   vs   Celtic"
         },
         {
@@ -1271,30 +1333,20 @@
             "date": "2026-08-26"
         },
         {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
+            "channel": "MTV Urheilu 2 Suomi HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "11247 V 24500 - 7/8",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     AEK Athens   vs   Levski Sofia"
         },
         {
-            "compet": "UEFA Champions League - Play-Off (2nd Leg)",
-            "match": "     Viking   vs   Dinamo Zagreb",
-            "flags": {
-                "team1": "norway",
-                "team2": "croatia"
-            },
-            "time": "19:00",
-            "date": "2026-08-26"
-        },
-        {
-            "channel": "- - -",
+            "channel": "TV2 Play Norge ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
-            "link": "#",
-            "related_to": "     Viking   vs   Dinamo Zagreb"
+            "link": "https://play.tv2.no/sport",
+            "related_to": "     AEK Athens   vs   Levski Sofia"
         },
         {
             "compet": "UEFA Champions League - Play-Off (2nd Leg)",
@@ -1307,11 +1359,19 @@
             "date": "2026-08-26"
         },
         {
-            "channel": "- - -",
+            "channel": "MTV MAX Suomi HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10841 H 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Celje   vs   Slovan Bratislava"
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
-            "link": "#",
+            "link": "https://play.tv2.no/sport",
             "related_to": "     Celje   vs   Slovan Bratislava"
         },
         {
@@ -1325,12 +1385,54 @@
             "date": "2026-08-26"
         },
         {
+            "channel": "MTV Urheilu 1 Suomi HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12476 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Lyon   vs   Fenerbah\u00e7e"
+        },
+        {
             "channel": "TRT 1 T\u00fcrkiye HD",
             "sat": "Turksat 3A 42.0\u00b0e",
             "freq": "11096 H 30000 - 5/6",
             "encry": "HD Irdeto",
             "link": "https://www.trtizle.com/canli/tv/trt-1",
             "related_to": "     Lyon   vs   Fenerbah\u00e7e"
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "     Lyon   vs   Fenerbah\u00e7e"
+        },
+        {
+            "compet": "UEFA Champions League - Play-Off (2nd Leg)",
+            "match": "     Viking   vs   Dinamo Zagreb",
+            "flags": {
+                "team1": "norway",
+                "team2": "croatia"
+            },
+            "time": "19:00",
+            "date": "2026-08-26"
+        },
+        {
+            "channel": "MTV Urheilu 3 Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Viking   vs   Dinamo Zagreb"
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "     Viking   vs   Dinamo Zagreb"
         },
         {
             "compet": "UEFA Champions League - League Phase DRAW",
