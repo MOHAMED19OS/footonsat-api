@@ -115,6 +115,22 @@
             "related_to": "     Wolves   vs   Blackburn Rovers"
         },
         {
+            "channel": "ESPN 1 Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "3980 L 21600 - 3/4",
+            "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     Wolves   vs   Blackburn Rovers"
+        },
+        {
+            "channel": "Futbol TV Tajikistan",
+            "sat": "ABS 2A 75.0\u00b0e",
+            "freq": "12252 H 10000 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Wolves   vs   Blackburn Rovers"
+        },
+        {
             "channel": "Match 4 Hungary HD",
             "sat": "Thor 7 0.6\u00b0w",
             "freq": "12130 H 28000 - 7/8",
@@ -5184,24 +5200,6 @@
         },
         {
             "compet": "English Championship - Week 8",
-            "match": "     Stoke City   vs   Sheffield United",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "11:30",
-            "date": "2026-09-19"
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Stoke City   vs   Sheffield United"
-        },
-        {
-            "compet": "English Championship - Week 8",
             "match": "     Millwall   vs   West Ham United",
             "flags": {
                 "team1": "england",
@@ -5289,6 +5287,24 @@
             "encry": "FTA",
             "link": "#",
             "related_to": "     Millwall   vs   West Ham United"
+        },
+        {
+            "compet": "English Championship - Week 8",
+            "match": "     Stoke City   vs   Sheffield United",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "11:30",
+            "date": "2026-09-19"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Stoke City   vs   Sheffield United"
         },
         {
             "compet": "English Championship - Week 8",
@@ -6473,6 +6489,60 @@
             "encry": "MPEG-4 NDS",
             "link": "#",
             "related_to": "     Bolton Wanderers   vs   Wrexham"
+        },
+        {
+            "compet": "English Championship - Week 21",
+            "match": "     Stoke City   vs   West Bromwich Albion",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "12:30",
+            "date": "2026-12-12"
+        },
+        {
+            "channel": "Sky Sports Football HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "12090 V 29500 - 8/9",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Stoke City   vs   West Bromwich Albion"
+        },
+        {
+            "compet": "English Championship - Week 21",
+            "match": "     Queens Park Rangers   vs   Watford",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "12:30",
+            "date": "2026-12-12"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Queens Park Rangers   vs   Watford"
+        },
+        {
+            "compet": "English Championship - Week 21",
+            "match": "     Preston N.E.   vs   Middlesbrough",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "12:30",
+            "date": "2026-12-12"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Preston N.E.   vs   Middlesbrough"
         }
     ]
 }
