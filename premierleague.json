@@ -52,9 +52,25 @@
         },
         {
             "channel": "Canal+ Foot HD",
-            "sat": "Astra 1M 19.2\u00b0e",
+            "sat": "Astra 1P 19.2\u00b0e",
             "freq": "12012 V 29700 - 2/3",
             "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Arsenal   vs   Coventry City"
+        },
+        {
+            "channel": "Canal+ Foot UHD HDR",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12207 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Arsenal   vs   Coventry City"
+        },
+        {
+            "channel": "Canal+ France UHD HDR",
+            "sat": "Astra 1P 19.2\u00b0e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Arsenal   vs   Coventry City"
         },
@@ -261,10 +277,34 @@
             "related_to": "     Hull City   vs   Manchester United"
         },
         {
+            "channel": "Canal+ Foot HD",
+            "sat": "Astra 1P 19.2\u00b0e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Hull City   vs   Manchester United"
+        },
+        {
+            "channel": "Canal+ Foot UHD HDR",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12207 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Hull City   vs   Manchester United"
+        },
+        {
             "channel": "Canal+ France HD",
             "sat": "Astra 1P 19.2\u00b0e",
             "freq": "12012 V 29700 - 2/3",
             "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Hull City   vs   Manchester United"
+        },
+        {
+            "channel": "Canal+ France UHD HDR",
+            "sat": "Astra 1P 19.2\u00b0e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Hull City   vs   Manchester United"
         },
@@ -617,9 +657,9 @@
             "related_to": "     Ipswich Town   vs   Sunderland"
         },
         {
-            "channel": "Canal+ Live 2 France HD",
-            "sat": "Astra 1L 19.2\u00b0e",
-            "freq": "12728 V 29700 - 2/3",
+            "channel": "Canal+ Live 4 France HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11934 V 29700 - 2/3",
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Ipswich Town   vs   Sunderland"
@@ -764,9 +804,25 @@
         },
         {
             "channel": "Canal+ Foot HD",
-            "sat": "Astra 1M 19.2\u00b0e",
+            "sat": "Astra 1P 19.2\u00b0e",
             "freq": "12012 V 29700 - 2/3",
             "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Everton   vs   Crystal Palace"
+        },
+        {
+            "channel": "Canal+ Foot UHD HDR",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12207 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Everton   vs   Crystal Palace"
+        },
+        {
+            "channel": "Canal+ Live 2 France HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "12728 V 29700 - 2/3",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Everton   vs   Crystal Palace"
         },
@@ -918,9 +974,33 @@
         },
         {
             "channel": "Canal+ Foot HD",
-            "sat": "Astra 1M 19.2\u00b0e",
+            "sat": "Astra 1P 19.2\u00b0e",
             "freq": "12012 V 29700 - 2/3",
             "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Brentford   vs   Tottenham Hotspur"
+        },
+        {
+            "channel": "Canal+ Foot UHD HDR",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12207 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Brentford   vs   Tottenham Hotspur"
+        },
+        {
+            "channel": "Canal+ France HD",
+            "sat": "Astra 1P 19.2\u00b0e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Brentford   vs   Tottenham Hotspur"
+        },
+        {
+            "channel": "Canal+ France UHD HDR",
+            "sat": "Astra 1P 19.2\u00b0e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Brentford   vs   Tottenham Hotspur"
         },
@@ -1120,9 +1200,17 @@
         },
         {
             "channel": "Canal+ Foot HD",
-            "sat": "Astra 1M 19.2\u00b0e",
+            "sat": "Astra 1P 19.2\u00b0e",
             "freq": "12012 V 29700 - 2/3",
             "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Manchester City   vs   Bournemouth"
+        },
+        {
+            "channel": "Canal+ Foot UHD HDR",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12207 V 29700 - 2/3",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Manchester City   vs   Bournemouth"
         },
@@ -1670,9 +1758,17 @@
         },
         {
             "channel": "Canal+ Foot HD",
-            "sat": "Astra 1M 19.2\u00b0e",
+            "sat": "Astra 1P 19.2\u00b0e",
             "freq": "12012 V 29700 - 2/3",
             "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Fulham   vs   Chelsea"
+        },
+        {
+            "channel": "Canal+ Foot UHD HDR",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12207 V 29700 - 2/3",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Fulham   vs   Chelsea"
         },
@@ -1872,7 +1968,7 @@
         },
         {
             "channel": "Canal+ Foot HD",
-            "sat": "Astra 1M 19.2\u00b0e",
+            "sat": "Astra 1P 19.2\u00b0e",
             "freq": "12012 V 29700 - 2/3",
             "encry": "HD Viaccess",
             "link": "#",
@@ -2214,7 +2310,7 @@
         },
         {
             "channel": "Canal+ Foot HD",
-            "sat": "Astra 1M 19.2\u00b0e",
+            "sat": "Astra 1P 19.2\u00b0e",
             "freq": "12012 V 29700 - 2/3",
             "encry": "HD Viaccess",
             "link": "#",
@@ -2312,7 +2408,7 @@
         },
         {
             "channel": "Canal+ Foot HD",
-            "sat": "Astra 1M 19.2\u00b0e",
+            "sat": "Astra 1P 19.2\u00b0e",
             "freq": "12012 V 29700 - 2/3",
             "encry": "HD Viaccess",
             "link": "#",
@@ -2442,7 +2538,7 @@
         },
         {
             "channel": "Canal+ Foot HD",
-            "sat": "Astra 1M 19.2\u00b0e",
+            "sat": "Astra 1P 19.2\u00b0e",
             "freq": "12012 V 29700 - 2/3",
             "encry": "HD Viaccess",
             "link": "#",
@@ -2914,7 +3010,7 @@
         },
         {
             "channel": "Canal+ Foot HD",
-            "sat": "Astra 1M 19.2\u00b0e",
+            "sat": "Astra 1P 19.2\u00b0e",
             "freq": "12012 V 29700 - 2/3",
             "encry": "HD Viaccess",
             "link": "#",

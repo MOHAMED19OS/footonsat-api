@@ -2811,22 +2811,6 @@
             "date": "2026-08-14"
         },
         {
-            "channel": "Arena Premium 5 Srbija HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12304 H 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     K\u00cd Klaksv\u00edk   vs   Lech Poznan"
-        },
-        {
-            "channel": "Arena Sport 3 BiH HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11895 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     K\u00cd Klaksv\u00edk   vs   Lech Poznan"
-        },
-        {
             "channel": "TV KI Faroes ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -3435,6 +3419,40 @@
             "related_to": "     Real Sociedad II   vs   Castell\u00f3n"
         },
         {
+            "compet": "T\u00fcrkiye 1. Lig - Week 2",
+            "match": "     Erokspor   vs   Sariyer",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "18:30",
+            "date": "2026-08-14"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Erokspor   vs   Sariyer"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye 2 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Erokspor   vs   Sariyer"
+        },
+        {
+            "channel": "TRT Spor T\u00fcrkiye HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11054 V 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "related_to": "     Erokspor   vs   Sariyer"
+        },
+        {
             "compet": "Friendly Club Match",
             "match": "     Coventry City   vs   Monaco",
             "flags": {
@@ -3575,32 +3593,6 @@
             "encry": "",
             "link": "#",
             "related_to": "     Legia Warsaw   vs   Radomiak Radom"
-        },
-        {
-            "compet": "T\u00fcrkiye 1. Lig - Week 2",
-            "match": "     Erokspor   vs   Sariyer",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "18:30",
-            "date": "2026-08-14"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Erokspor   vs   Sariyer"
-        },
-        {
-            "channel": "beIN Sports T\u00fcrkiye 2 HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11676 V 24444 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Erokspor   vs   Sariyer"
         },
         {
             "compet": "Romanian Superliga - Week 5",
@@ -5246,6 +5238,14 @@
         },
         {
             "channel": "DAZN Espa\u00f1a ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Fiorentina   vs   Benevento"
+        },
+        {
+            "channel": "DAZN France ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
