@@ -893,6 +893,14 @@
             "related_to": "     Liverpool   vs   Como 1907"
         },
         {
+            "channel": "Como TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.comofootball.com/liveEvent.html",
+            "related_to": "     Liverpool   vs   Como 1907"
+        },
+        {
             "channel": "LFC TV HD",
             "sat": "Astra 2F 28.2\u00b0e",
             "freq": "12188 H 27500 - 2/3",
@@ -906,6 +914,14 @@
             "freq": "11977 V 27500 - 5/6",
             "encry": "FTA",
             "link": "#",
+            "related_to": "     Liverpool   vs   Como 1907"
+        },
+        {
+            "channel": "Sportitalia HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12341 V 31400 - 5/6",
+            "encry": "FTA",
+            "link": "https://sportitalialive.it/sihd/",
             "related_to": "     Liverpool   vs   Como 1907"
         },
         {
@@ -1983,24 +1999,6 @@
             "related_to": "     Beveren   vs   Anderlecht"
         },
         {
-            "compet": "Scottish SWPL 1 - Week 1",
-            "match": "     Hibernian   vs   Motherwell",
-            "flags": {
-                "team1": "scotland",
-                "team2": "scotland"
-            },
-            "time": "12:00",
-            "date": "2026-08-16"
-        },
-        {
-            "channel": "YouTube: Hibernian FC",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.youtube.com/c/HibsTV",
-            "related_to": "     Hibernian   vs   Motherwell"
-        },
-        {
             "compet": "Swedish Allsvenskan - Week 17",
             "match": "     Degerfor   vs   IFK Gotenberg",
             "flags": {
@@ -2033,6 +2031,24 @@
             "encry": "",
             "link": "https://www.vgtv.no/live",
             "related_to": "     Degerfor   vs   IFK Gotenberg"
+        },
+        {
+            "compet": "Scottish SWPL 1 - Week 1",
+            "match": "     Hibernian   vs   Motherwell",
+            "flags": {
+                "team1": "scotland",
+                "team2": "scotland"
+            },
+            "time": "12:00",
+            "date": "2026-08-16"
+        },
+        {
+            "channel": "YouTube: Hibernian FC",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/c/HibsTV",
+            "related_to": "     Hibernian   vs   Motherwell"
         },
         {
             "compet": "Swedish Allsvenskan - Week 17",
@@ -3023,7 +3039,7 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
-            "link": "https://www.stenhousemuirfc.com/warriors-tv/",
+            "link": "https://warriorstv.com/",
             "related_to": "     Stenhousemuir   vs   Motherwell"
         },
         {
@@ -3535,6 +3551,14 @@
             "related_to": "     Arsenal   vs   Manchester City"
         },
         {
+            "channel": "IRIB TV3 HD",
+            "sat": "Intelsat 39 62.0\u00b0e",
+            "freq": "11555 V 30000 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Arsenal   vs   Manchester City"
+        },
+        {
             "channel": "M+ Liga de Campeones HD",
             "sat": "Astra 1KR 19.2\u00b0e",
             "freq": "11259 V 22000 - 2/3",
@@ -3945,6 +3969,56 @@
             "related_to": "     Lyngby   vs   Midtjylland"
         },
         {
+            "compet": "Russian Premier League - Week 4",
+            "match": "     Kryliya Sovetov   vs   Dynamo Makhachkala",
+            "flags": {
+                "team1": "russia",
+                "team2": "russia"
+            },
+            "time": "14:00",
+            "date": "2026-08-16"
+        },
+        {
+            "channel": "Arena Premium 4 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Kryliya Sovetov   vs   Dynamo Makhachkala"
+        },
+        {
+            "channel": "Arena Premium 5 BiH HD",
+            "sat": " 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Kryliya Sovetov   vs   Dynamo Makhachkala"
+        },
+        {
+            "channel": "MATCH! Premier HD",
+            "sat": "Horizons 2 84.8\u00b0e",
+            "freq": "11720 H 28800 - 3/4",
+            "encry": "Conax",
+            "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
+            "related_to": "     Kryliya Sovetov   vs   Dynamo Makhachkala"
+        },
+        {
+            "channel": "MATCH! TV [online] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://matchtv.ru/video/sports/football",
+            "related_to": "     Kryliya Sovetov   vs   Dynamo Makhachkala"
+        },
+        {
+            "channel": "Q Sport International HD",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "10720 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Kryliya Sovetov   vs   Dynamo Makhachkala"
+        },
+        {
             "compet": "Belgian Pro League - Week 2",
             "match": "     RAAL La Louvi\u00e8re   vs   AA Gent",
             "flags": {
@@ -3995,56 +4069,6 @@
             "encry": "",
             "link": "#",
             "related_to": "     Beerschot   vs   AA Gent U-23"
-        },
-        {
-            "compet": "Russian Premier League - Week 4",
-            "match": "     Kryliya Sovetov   vs   Dynamo Makhachkala",
-            "flags": {
-                "team1": "russia",
-                "team2": "russia"
-            },
-            "time": "14:00",
-            "date": "2026-08-16"
-        },
-        {
-            "channel": "Arena Premium 4 Srbija HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12246 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Kryliya Sovetov   vs   Dynamo Makhachkala"
-        },
-        {
-            "channel": "Arena Premium 5 BiH HD",
-            "sat": " 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Kryliya Sovetov   vs   Dynamo Makhachkala"
-        },
-        {
-            "channel": "MATCH! Premier HD",
-            "sat": "Horizons 2 84.8\u00b0e",
-            "freq": "11720 H 28800 - 3/4",
-            "encry": "Conax",
-            "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
-            "related_to": "     Kryliya Sovetov   vs   Dynamo Makhachkala"
-        },
-        {
-            "channel": "MATCH! TV [online] ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://matchtv.ru/video/sports/football",
-            "related_to": "     Kryliya Sovetov   vs   Dynamo Makhachkala"
-        },
-        {
-            "channel": "Q Sport International HD",
-            "sat": "KazSat 3 58.5\u00b0e",
-            "freq": "10720 H 30000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Kryliya Sovetov   vs   Dynamo Makhachkala"
         },
         {
             "compet": "Brazilian S\u00e9rie A - Week 23",
@@ -4143,24 +4167,6 @@
             "related_to": "     Basel   vs   Barcelona"
         },
         {
-            "compet": "Kosovo Superliga - Week 1",
-            "match": "     Drita   vs   Llapi",
-            "flags": {
-                "team1": "kosova",
-                "team2": "kosova"
-            },
-            "time": "14:30",
-            "date": "2026-08-16"
-        },
-        {
-            "channel": "ART Motion Sport 1 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://artmotion.net/tv/",
-            "related_to": "     Drita   vs   Llapi"
-        },
-        {
             "compet": "Swedish Allsvenskan - Week 17",
             "match": "     GAIS   vs   Malm\u00f6 FF",
             "flags": {
@@ -4227,6 +4233,24 @@
             "encry": "",
             "link": "https://www.vgtv.no/live",
             "related_to": "     Kalmar   vs   Hammarby"
+        },
+        {
+            "compet": "Kosovo Superliga - Week 1",
+            "match": "     Drita   vs   Llapi",
+            "flags": {
+                "team1": "kosova",
+                "team2": "kosova"
+            },
+            "time": "14:30",
+            "date": "2026-08-16"
+        },
+        {
+            "channel": "ART Motion Sport 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "     Drita   vs   Llapi"
         },
         {
             "compet": "Portuguese Liga 2 - Week 2",
@@ -5039,6 +5063,14 @@
             "related_to": "     Real Madrid   vs   Schalke 04"
         },
         {
+            "channel": "FanCode India ($/geo/R)",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.fancode.com/rugby/schedule/upcoming",
+            "related_to": "     Real Madrid   vs   Schalke 04"
+        },
+        {
             "channel": "Fox Deportes USA",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -5165,6 +5197,244 @@
             "encry": "MPEG-4 Nagra",
             "link": "#",
             "related_to": "     Real Madrid   vs   Schalke 04"
+        },
+        {
+            "compet": "Bosnia-Herzegovina Premier Liga - Week 2",
+            "match": "     BSK Banja Luka   vs   Velez Mostar",
+            "flags": {
+                "team1": "bosnia",
+                "team2": "bosnia"
+            },
+            "time": "15:00",
+            "date": "2026-08-16"
+        },
+        {
+            "channel": "Arena Sport 7 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11595 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     BSK Banja Luka   vs   Velez Mostar"
+        },
+        {
+            "channel": "Arena Sport 7 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11817 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     BSK Banja Luka   vs   Velez Mostar"
+        },
+        {
+            "channel": "MY TV BiH",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://mymedia.ba/",
+            "related_to": "     BSK Banja Luka   vs   Velez Mostar"
+        },
+        {
+            "compet": "Friendly Club Match",
+            "match": "     Newcastle United   vs   Strasbourg",
+            "flags": {
+                "team1": "england",
+                "team2": "france"
+            },
+            "time": "15:00",
+            "date": "2026-08-16"
+        },
+        {
+            "channel": "Arena Sport 4 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11798 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Newcastle United   vs   Strasbourg"
+        },
+        {
+            "channel": "Arena Sport 7 BiH HD",
+            "sat": " 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Newcastle United   vs   Strasbourg"
+        },
+        {
+            "channel": "Ligue 1+ ($/geo/R)",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://plus.ligue1.com/home",
+            "related_to": "     Newcastle United   vs   Strasbourg"
+        },
+        {
+            "channel": "NUFC TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.nufc.co.uk/nufc-tv/",
+            "related_to": "     Newcastle United   vs   Strasbourg"
+        },
+        {
+            "channel": "Sport TV7 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Newcastle United   vs   Strasbourg"
+        },
+        {
+            "channel": "SuperSport ESPN 2 HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Newcastle United   vs   Strasbourg"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
+            "related_to": "     Newcastle United   vs   Strasbourg"
+        },
+        {
+            "channel": "VOYO Pro TV Romania [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://voyo.protv.ro/premier-league",
+            "related_to": "     Newcastle United   vs   Strasbourg"
+        },
+        {
+            "compet": "Scottish League Cup - 2nd Round",
+            "match": "     Rangers   vs   St Mirren",
+            "flags": {
+                "team1": "scotland",
+                "team2": "scotland"
+            },
+            "time": "15:00",
+            "date": "2026-08-16"
+        },
+        {
+            "channel": "5 STARS Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Rangers   vs   St Mirren"
+        },
+        {
+            "channel": "Arena Sport 1 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12460 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Rangers   vs   St Mirren"
+        },
+        {
+            "channel": "Arena Sport 3 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11895 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Rangers   vs   St Mirren"
+        },
+        {
+            "channel": "ART Motion Sport 2 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "     Rangers   vs   St Mirren"
+        },
+        {
+            "channel": "Cosmote Sport 8 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12149 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Rangers   vs   St Mirren"
+        },
+        {
+            "channel": "Digi Sport 4 Romania",
+            "sat": "Intelsat 10-02 1.0\u00b0w",
+            "freq": "12687 H 27500 - 3/4",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Rangers   vs   St Mirren"
+        },
+        {
+            "channel": "Premier Sports 1 Ireland HD",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12188 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Rangers   vs   St Mirren"
+        },
+        {
+            "channel": "Premier Sports 1 UK HD",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11686 V 23000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Rangers   vs   St Mirren"
+        },
+        {
+            "channel": "Premier Sports GB Player HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": "     Rangers   vs   St Mirren"
+        },
+        {
+            "channel": "Rangers TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://tv.rangers.co.uk/",
+            "related_to": "     Rangers   vs   St Mirren"
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Rangers   vs   St Mirren"
+        },
+        {
+            "channel": "Sharjah Sports 2 HD",
+            "sat": "Eutelsat 8 West B 8.0\u00b0w",
+            "freq": "11013 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Rangers   vs   St Mirren"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL 2",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Rangers   vs   St Mirren"
+        },
+        {
+            "channel": "St Mirren TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://tv.stmirren.com/",
+            "related_to": "     Rangers   vs   St Mirren"
+        },
+        {
+            "channel": "Telekanal Futbol HD",
+            "sat": "Express AM5 140.0\u00b0e",
+            "freq": "11262 V 30000 - 3/4",
+            "encry": "MPEG-4 Irdeto",
+            "link": "https://football-tv.ru/live",
+            "related_to": "     Rangers   vs   St Mirren"
         },
         {
             "compet": "Spanish La Liga (Primera) - Week 1",
@@ -5577,202 +5847,6 @@
             "related_to": "     Racing Santander   vs   Villarreal"
         },
         {
-            "compet": "Friendly Club Match",
-            "match": "     Newcastle United   vs   Strasbourg",
-            "flags": {
-                "team1": "england",
-                "team2": "france"
-            },
-            "time": "15:00",
-            "date": "2026-08-16"
-        },
-        {
-            "channel": "Arena Sport 4 Srbija HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11798 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Newcastle United   vs   Strasbourg"
-        },
-        {
-            "channel": "Arena Sport 7 BiH HD",
-            "sat": " 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Newcastle United   vs   Strasbourg"
-        },
-        {
-            "channel": "Ligue 1+ ($/geo/R)",
-            "sat": "Download APP 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://plus.ligue1.com/home",
-            "related_to": "     Newcastle United   vs   Strasbourg"
-        },
-        {
-            "channel": "NUFC TV ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.nufc.co.uk/nufc-tv/",
-            "related_to": "     Newcastle United   vs   Strasbourg"
-        },
-        {
-            "channel": "Sport TV7 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12360 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Newcastle United   vs   Strasbourg"
-        },
-        {
-            "channel": "SuperSport ESPN 2 HD",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "10970 V 30000 - 5/6",
-            "encry": "Irdeto",
-            "link": "#",
-            "related_to": "     Newcastle United   vs   Strasbourg"
-        },
-        {
-            "channel": "VG+ Sport Norge ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.vgtv.no/live",
-            "related_to": "     Newcastle United   vs   Strasbourg"
-        },
-        {
-            "channel": "VOYO Pro TV Romania [$]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://voyo.protv.ro/premier-league",
-            "related_to": "     Newcastle United   vs   Strasbourg"
-        },
-        {
-            "compet": "Scottish League Cup - 2nd Round",
-            "match": "     Rangers   vs   St Mirren",
-            "flags": {
-                "team1": "scotland",
-                "team2": "scotland"
-            },
-            "time": "15:00",
-            "date": "2026-08-16"
-        },
-        {
-            "channel": "5 STARS Israel HD",
-            "sat": "Dror 1 4.0\u00b0w",
-            "freq": "11259 V 30000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Rangers   vs   St Mirren"
-        },
-        {
-            "channel": "Arena Sport 1 Srbija HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12460 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Rangers   vs   St Mirren"
-        },
-        {
-            "channel": "Arena Sport 3 BiH HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11895 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Rangers   vs   St Mirren"
-        },
-        {
-            "channel": "Cosmote Sport 8 HD",
-            "sat": "Eutelsat 9B 9.0\u00b0e",
-            "freq": "12149 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Rangers   vs   St Mirren"
-        },
-        {
-            "channel": "Digi Sport 4 Romania",
-            "sat": "Intelsat 10-02 1.0\u00b0w",
-            "freq": "12687 H 27500 - 3/4",
-            "encry": "NagraVision",
-            "link": "#",
-            "related_to": "     Rangers   vs   St Mirren"
-        },
-        {
-            "channel": "Premier Sports 1 Ireland HD",
-            "sat": "Astra 2F 28.2\u00b0e",
-            "freq": "12188 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Rangers   vs   St Mirren"
-        },
-        {
-            "channel": "Premier Sports 1 UK HD",
-            "sat": "Astra 2G 28.2\u00b0e",
-            "freq": "11686 V 23000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Rangers   vs   St Mirren"
-        },
-        {
-            "channel": "Premier Sports GB Player HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.premiersports.com/fr/live-now-on-demand",
-            "related_to": "     Rangers   vs   St Mirren"
-        },
-        {
-            "channel": "Rangers TV ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "https://tv.rangers.co.uk/",
-            "related_to": "     Rangers   vs   St Mirren"
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Rangers   vs   St Mirren"
-        },
-        {
-            "channel": "Sharjah Sports 2 HD",
-            "sat": "Eutelsat 8 West B 8.0\u00b0w",
-            "freq": "11013 V 27500 - 5/6",
-            "encry": "FTA",
-            "link": "#",
-            "related_to": "     Rangers   vs   St Mirren"
-        },
-        {
-            "channel": "Sportdigital FUSSBALL 2",
-            "sat": "Download APP 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Rangers   vs   St Mirren"
-        },
-        {
-            "channel": "St Mirren TV ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://tv.stmirren.com/",
-            "related_to": "     Rangers   vs   St Mirren"
-        },
-        {
-            "channel": "Telekanal Futbol HD",
-            "sat": "Express AM5 140.0\u00b0e",
-            "freq": "11262 V 30000 - 3/4",
-            "encry": "MPEG-4 Irdeto",
-            "link": "https://football-tv.ru/live",
-            "related_to": "     Rangers   vs   St Mirren"
-        },
-        {
             "compet": "Austrian Bundesliga - Week 3",
             "match": "     Hartberg   vs   Austria Vienna",
             "flags": {
@@ -5929,32 +6003,6 @@
             "encry": "HD Exset",
             "link": "#",
             "related_to": "     Rodina Moscow 2   vs   Dinamo Bryansk"
-        },
-        {
-            "compet": "Bosnia-Herzegovina Premier Liga - Week 2",
-            "match": "     BSK Banja Luka   vs   Velez Mostar",
-            "flags": {
-                "team1": "bosnia",
-                "team2": "bosnia"
-            },
-            "time": "15:00",
-            "date": "2026-08-16"
-        },
-        {
-            "channel": "Arena Sport 7 Srbija HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11817 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     BSK Banja Luka   vs   Velez Mostar"
-        },
-        {
-            "channel": "MY TV BiH",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://mymedia.ba/",
-            "related_to": "     BSK Banja Luka   vs   Velez Mostar"
         },
         {
             "compet": "Azerbaijan Premier League - Week 1",
@@ -6323,32 +6371,6 @@
             "related_to": "     Glasgow City   vs   Celtic"
         },
         {
-            "compet": "Slovenian Prva Liga - Week 5",
-            "match": "     Radomlje   vs   Aluminij",
-            "flags": {
-                "team1": "slovenia",
-                "team2": "slovenia"
-            },
-            "time": "15:30",
-            "date": "2026-08-16"
-        },
-        {
-            "channel": "SportKlub 1 Slovenija HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11471 H 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Radomlje   vs   Aluminij"
-        },
-        {
-            "channel": "SportKlub 3 Hrvatska",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11387 H 30000  -3/4",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Radomlje   vs   Aluminij"
-        },
-        {
             "compet": "Polish Ekstraklasa - Week 4",
             "match": "     Cracovia   vs   Rak\u00f3w Czestochowa",
             "flags": {
@@ -6359,18 +6381,18 @@
             "date": "2026-08-16"
         },
         {
-            "channel": "Arena Sport 3 Slovenija HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
+            "channel": "Arena Sport 3 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11512 H 30000 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Cracovia   vs   Rak\u00f3w Czestochowa"
         },
         {
-            "channel": "Arena Sport 5 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11678 H 30000 - 3/4",
-            "encry": "HD NagraVision",
+            "channel": "Arena Sport 3 Slovenija HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Cracovia   vs   Rak\u00f3w Czestochowa"
         },
@@ -6397,6 +6419,32 @@
             "encry": "",
             "link": "https://www.ekstraklasa.tv/ekstraklasa/",
             "related_to": "     Cracovia   vs   Rak\u00f3w Czestochowa"
+        },
+        {
+            "compet": "Slovenian Prva Liga - Week 5",
+            "match": "     Radomlje   vs   Aluminij",
+            "flags": {
+                "team1": "slovenia",
+                "team2": "slovenia"
+            },
+            "time": "15:30",
+            "date": "2026-08-16"
+        },
+        {
+            "channel": "SportKlub 1 Slovenija HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Radomlje   vs   Aluminij"
+        },
+        {
+            "channel": "SportKlub 3 Hrvatska",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11387 H 30000  -3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Radomlje   vs   Aluminij"
         },
         {
             "compet": "Hungarian NB 1 - Week 4",
@@ -6427,9 +6475,9 @@
             "date": "2026-08-16"
         },
         {
-            "channel": "Arena Sport 6 Hrvatska HD",
+            "channel": "Arena Sport 4 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11554 V 30000 - 5/6",
+            "freq": "11554 H 30000 - 5/6",
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Otelul Galati   vs   Universitatea Craiova"
@@ -6469,118 +6517,6 @@
             "related_to": "     TS Galaxy   vs   Golden Arrows"
         },
         {
-            "compet": "T\u00fcrkiye 1. Lig - Week 2",
-            "match": "     Kayserispor   vs   Sivasspor",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "16:00",
-            "date": "2026-08-16"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Kayserispor   vs   Sivasspor"
-        },
-        {
-            "channel": "beIN Sports T\u00fcrkiye 2 HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11676 V 24444 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Kayserispor   vs   Sivasspor"
-        },
-        {
-            "channel": "TRT Spor T\u00fcrkiye HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11054 V 30000 - 3/4",
-            "encry": "FTA",
-            "link": "https://www.trtizle.com/canli/tv/trt-spor",
-            "related_to": "     Kayserispor   vs   Sivasspor"
-        },
-        {
-            "compet": "T\u00fcrkiye 1. Lig - Week 2",
-            "match": "     Ke\u00e7i\u00f6reng\u00fcc\u00fc   vs   Pendikspor",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "16:00",
-            "date": "2026-08-16"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Ke\u00e7i\u00f6reng\u00fcc\u00fc   vs   Pendikspor"
-        },
-        {
-            "channel": "beIN Sports T\u00fcrkiye Max 1 HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11676 V 24444 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Ke\u00e7i\u00f6reng\u00fcc\u00fc   vs   Pendikspor"
-        },
-        {
-            "channel": "TRT Avaz T\u00fcrkiye HD",
-            "sat": "Yamal 401 90.0\u00b0e",
-            "freq": "10972 H 11200 - 3/4",
-            "encry": "FTA",
-            "link": "https://www.trtizle.com/canli/tv/trt-avaz",
-            "related_to": "     Ke\u00e7i\u00f6reng\u00fcc\u00fc   vs   Pendikspor"
-        },
-        {
-            "compet": "Portuguese Liga 3 - Week 2",
-            "match": "     S\u00e3o Jo\u00e3o Ver   vs   Fafe",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "16:00",
-            "date": "2026-08-16"
-        },
-        {
-            "channel": "Canal 11 [online] (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.canal11.pt/",
-            "related_to": "     S\u00e3o Jo\u00e3o Ver   vs   Fafe"
-        },
-        {
-            "channel": "Canal 11 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12437 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     S\u00e3o Jo\u00e3o Ver   vs   Fafe"
-        },
-        {
-            "compet": "Portuguese Liga 3 - Week 2",
-            "match": "     Vit\u00f3ria Sernache   vs   Sporting Covilh\u00e3",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "16:00",
-            "date": "2026-08-16"
-        },
-        {
-            "channel": "Canal 11 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12437 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Vit\u00f3ria Sernache   vs   Sporting Covilh\u00e3"
-        },
-        {
             "compet": "Italian Cup (Coppa Italia) - 1st Round",
             "match": "     Frosinone   vs   Juve Stabia",
             "flags": {
@@ -6603,6 +6539,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Frosinone   vs   Juve Stabia"
+        },
+        {
+            "channel": "Arena Sport 5 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11678 H 30000 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Frosinone   vs   Juve Stabia"
         },
@@ -6693,6 +6637,118 @@
             "encry": "",
             "link": "https://www.vgtv.no/live",
             "related_to": "     Frosinone   vs   Juve Stabia"
+        },
+        {
+            "compet": "T\u00fcrkiye 1. Lig - Week 2",
+            "match": "     Ke\u00e7i\u00f6reng\u00fcc\u00fc   vs   Pendikspor",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "16:00",
+            "date": "2026-08-16"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Ke\u00e7i\u00f6reng\u00fcc\u00fc   vs   Pendikspor"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye Max 1 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Ke\u00e7i\u00f6reng\u00fcc\u00fc   vs   Pendikspor"
+        },
+        {
+            "channel": "TRT Avaz T\u00fcrkiye HD",
+            "sat": "Yamal 401 90.0\u00b0e",
+            "freq": "10972 H 11200 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.trtizle.com/canli/tv/trt-avaz",
+            "related_to": "     Ke\u00e7i\u00f6reng\u00fcc\u00fc   vs   Pendikspor"
+        },
+        {
+            "compet": "Portuguese Liga 3 - Week 2",
+            "match": "     S\u00e3o Jo\u00e3o Ver   vs   Fafe",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "16:00",
+            "date": "2026-08-16"
+        },
+        {
+            "channel": "Canal 11 [online] (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.canal11.pt/",
+            "related_to": "     S\u00e3o Jo\u00e3o Ver   vs   Fafe"
+        },
+        {
+            "channel": "Canal 11 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12437 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     S\u00e3o Jo\u00e3o Ver   vs   Fafe"
+        },
+        {
+            "compet": "Portuguese Liga 3 - Week 2",
+            "match": "     Vit\u00f3ria Sernache   vs   Sporting Covilh\u00e3",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "16:00",
+            "date": "2026-08-16"
+        },
+        {
+            "channel": "Canal 11 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12437 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Vit\u00f3ria Sernache   vs   Sporting Covilh\u00e3"
+        },
+        {
+            "compet": "T\u00fcrkiye 1. Lig - Week 2",
+            "match": "     Kayserispor   vs   Sivasspor",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "16:00",
+            "date": "2026-08-16"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Kayserispor   vs   Sivasspor"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye 2 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Kayserispor   vs   Sivasspor"
+        },
+        {
+            "channel": "TRT Spor T\u00fcrkiye HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11054 V 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "related_to": "     Kayserispor   vs   Sivasspor"
         },
         {
             "compet": "Slovenian Prva Liga - Week 5",
@@ -6995,32 +7051,6 @@
             "related_to": "     Caldas   vs   Lusitano de Evora"
         },
         {
-            "compet": "Belgian Pro League - Week 2",
-            "match": "     Mechelen   vs   Standard Li\u00e8ge",
-            "flags": {
-                "team1": "belgium",
-                "team2": "belgium"
-            },
-            "time": "16:30",
-            "date": "2026-08-16"
-        },
-        {
-            "channel": "DAZN Belgium ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.dazn.com/en-BE/",
-            "related_to": "     Mechelen   vs   Standard Li\u00e8ge"
-        },
-        {
-            "channel": "DAZN Pro League 1 HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12129 V 29900 - 3/4",
-            "encry": "MPEG-4 Viaccess",
-            "link": "#",
-            "related_to": "     Mechelen   vs   Standard Li\u00e8ge"
-        },
-        {
             "compet": "Russian Premier League - Week 4",
             "match": "     Baltika   vs   Spartak Moscow",
             "flags": {
@@ -7103,6 +7133,32 @@
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Vara\u017edin   vs   Rijeka"
+        },
+        {
+            "compet": "Belgian Pro League - Week 2",
+            "match": "     Mechelen   vs   Standard Li\u00e8ge",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "16:30",
+            "date": "2026-08-16"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Mechelen   vs   Standard Li\u00e8ge"
+        },
+        {
+            "channel": "DAZN Pro League 1 HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "MPEG-4 Viaccess",
+            "link": "#",
+            "related_to": "     Mechelen   vs   Standard Li\u00e8ge"
         },
         {
             "compet": "Spanish La Liga (Primera) - Week 1",
@@ -7555,6 +7611,48 @@
             "related_to": "     Espanyol   vs   Levante"
         },
         {
+            "compet": "Serbian Super League - Week 5",
+            "match": "     IMT Novi Belgrade   vs   Radnicki Nis",
+            "flags": {
+                "team1": "serbia",
+                "team2": "serbia"
+            },
+            "time": "17:00",
+            "date": "2026-08-16"
+        },
+        {
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     IMT Novi Belgrade   vs   Radnicki Nis"
+        },
+        {
+            "channel": "Arena Premium 4 BiH HD",
+            "sat": " 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     IMT Novi Belgrade   vs   Radnicki Nis"
+        },
+        {
+            "channel": "Arena Sport 10 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     IMT Novi Belgrade   vs   Radnicki Nis"
+        },
+        {
+            "channel": "Arena Sport 8 Hrvatska HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     IMT Novi Belgrade   vs   Radnicki Nis"
+        },
+        {
             "compet": "Friendly Club Match - Anfield, Livepool",
             "match": "     Liverpool   vs   Como 1907",
             "flags": {
@@ -7586,6 +7684,14 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
+            "related_to": "     Liverpool   vs   Como 1907"
+        },
+        {
+            "channel": "FanCode India ($/geo/R)",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.fancode.com/rugby/schedule/upcoming",
             "related_to": "     Liverpool   vs   Como 1907"
         },
         {
@@ -7733,6 +7839,32 @@
             "related_to": "     Liverpool   vs   Como 1907"
         },
         {
+            "compet": "Bosnia-Herzegovina Premier Liga - Week 2",
+            "match": "     Sloga Doboj   vs   Borac Banja Luka",
+            "flags": {
+                "team1": "bosnia",
+                "team2": "bosnia"
+            },
+            "time": "17:00",
+            "date": "2026-08-16"
+        },
+        {
+            "channel": "Arena Premium 1 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Sloga Doboj   vs   Borac Banja Luka"
+        },
+        {
+            "channel": "Arena Sport 3 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11798 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Sloga Doboj   vs   Borac Banja Luka"
+        },
+        {
             "compet": "Spanish La Liga 2 - Week 1",
             "match": "     Girona   vs   Legan\u00e9s",
             "flags": {
@@ -7762,14 +7894,6 @@
             "channel": "Arena Sport 1 BiH HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11720 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Girona   vs   Legan\u00e9s"
-        },
-        {
-            "channel": "Arena Sport 2 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11595 H 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Girona   vs   Legan\u00e9s"
@@ -7963,32 +8087,6 @@
             "related_to": "     Prishtina   vs   Ballkani"
         },
         {
-            "compet": "Bosnia-Herzegovina Premier Liga - Week 2",
-            "match": "     Sloga Doboj   vs   Borac Banja Luka",
-            "flags": {
-                "team1": "bosnia",
-                "team2": "bosnia"
-            },
-            "time": "17:00",
-            "date": "2026-08-16"
-        },
-        {
-            "channel": "Arena Premium 1 BiH HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Sloga Doboj   vs   Borac Banja Luka"
-        },
-        {
-            "channel": "Arena Sport 7 Srbija HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11817 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Sloga Doboj   vs   Borac Banja Luka"
-        },
-        {
             "compet": "Azerbaijan Premier League - Week 1",
             "match": "     Zira   vs   Shafa Baku",
             "flags": {
@@ -8023,40 +8121,6 @@
             "encry": "",
             "link": "#",
             "related_to": "     Anorthosis   vs   APOEL Nicosia"
-        },
-        {
-            "compet": "Serbian Super League - Week 5",
-            "match": "     IMT Novi Belgrade   vs   Radnicki Nis",
-            "flags": {
-                "team1": "serbia",
-                "team2": "serbia"
-            },
-            "time": "17:00",
-            "date": "2026-08-16"
-        },
-        {
-            "channel": "Arena Premium 1 Srbija HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     IMT Novi Belgrade   vs   Radnicki Nis"
-        },
-        {
-            "channel": "Arena Premium 4 BiH HD",
-            "sat": " 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     IMT Novi Belgrade   vs   Radnicki Nis"
-        },
-        {
-            "channel": "Arena Sport 10 Srbija HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     IMT Novi Belgrade   vs   Radnicki Nis"
         },
         {
             "channel": "5 SPORT Israel HD",
@@ -8683,6 +8747,48 @@
             "related_to": "     Koper   vs   Bravo"
         },
         {
+            "compet": "Romanian Superliga - Week 5",
+            "match": "     Corvinul Hunedoara   vs   CFR Cluj",
+            "flags": {
+                "team1": "romania",
+                "team2": "romania"
+            },
+            "time": "18:30",
+            "date": "2026-08-16"
+        },
+        {
+            "channel": "Arena Sport 6 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Corvinul Hunedoara   vs   CFR Cluj"
+        },
+        {
+            "channel": "Arena Sport 6 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11554 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Corvinul Hunedoara   vs   CFR Cluj"
+        },
+        {
+            "channel": "Digi Sport 1 Romania HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "11823 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Corvinul Hunedoara   vs   CFR Cluj"
+        },
+        {
+            "channel": "Prima Sport RO 1 HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12524 V 30000 - 7/8",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Corvinul Hunedoara   vs   CFR Cluj"
+        },
+        {
             "compet": "T\u00fcrkiye S\u00fcper Lig - Week 1",
             "match": "     Besiktas   vs   Ey\u00fcpspor",
             "flags": {
@@ -8693,9 +8799,9 @@
             "date": "2026-08-16"
         },
         {
-            "channel": "Arena Sport 3 Srbija HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11798 H 30000 - 3/4",
+            "channel": "Arena Sport 1 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12460 H 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Besiktas   vs   Ey\u00fcpspor"
@@ -9081,48 +9187,6 @@
             "related_to": "     Muglaspor   vs   Bandirmaspor"
         },
         {
-            "compet": "Romanian Superliga - Week 5",
-            "match": "     Corvinul Hunedoara   vs   CFR Cluj",
-            "flags": {
-                "team1": "romania",
-                "team2": "romania"
-            },
-            "time": "18:30",
-            "date": "2026-08-16"
-        },
-        {
-            "channel": "Arena Sport 4 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11554 H 30000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Corvinul Hunedoara   vs   CFR Cluj"
-        },
-        {
-            "channel": "Arena Sport 6 BiH HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Corvinul Hunedoara   vs   CFR Cluj"
-        },
-        {
-            "channel": "Digi Sport 1 Romania HD",
-            "sat": "Thor 6 0.8\u00b0w",
-            "freq": "11823 H 30000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Corvinul Hunedoara   vs   CFR Cluj"
-        },
-        {
-            "channel": "Prima Sport RO 1 HD",
-            "sat": "Hellas Sat 3 39.0\u00b0e",
-            "freq": "12524 V 30000 - 7/8",
-            "encry": "VideoGuard",
-            "link": "#",
-            "related_to": "     Corvinul Hunedoara   vs   CFR Cluj"
-        },
-        {
             "compet": "T\u00fcrkiye S\u00fcper Lig - Week 1",
             "match": "     Amedspor   vs   Erzurumspor",
             "flags": {
@@ -9269,56 +9333,6 @@
             "encry": "",
             "link": "https://www.vgtv.no/live",
             "related_to": "     Hellas Verona   vs   Virtus Entella"
-        },
-        {
-            "compet": "CAF African Women's Cup of Nations - FINAL",
-            "match": "     Cameroon   vs   Malawi",
-            "flags": {
-                "team1": "cameroon",
-                "team2": "malawi"
-            },
-            "time": "19:00",
-            "date": "2026-08-16"
-        },
-        {
-            "channel": "beIN Sports Australia 2 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Cameroon   vs   Malawi"
-        },
-        {
-            "channel": "beIN Sports France 1 HD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11856 V 29700 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Cameroon   vs   Malawi"
-        },
-        {
-            "channel": "beIN Sports MENA English 2 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "11390 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Cameroon   vs   Malawi"
-        },
-        {
-            "channel": "Sport TV4 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12360 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Cameroon   vs   Malawi"
-        },
-        {
-            "channel": "Ziggo Sport 1 HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12129 V 29900 - 3/4",
-            "encry": "HD Mediaguard",
-            "link": "#",
-            "related_to": "     Cameroon   vs   Malawi"
         },
         {
             "compet": "French Super Cup (Troph\u00e9e des Champions) - FINAL",
@@ -9486,6 +9500,14 @@
             "channel": "Futbol TV Tajikistan",
             "sat": "ABS 2A 75.0\u00b0e",
             "freq": "12252 H 10000 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Lens   vs   Paris St Germain"
+        },
+        {
+            "channel": "IRIB Varzesh HD",
+            "sat": "Intelsat 39 62.0\u00b0e",
+            "freq": "11555 V 30000 - 2/3",
             "encry": "HD BISS",
             "link": "#",
             "related_to": "     Lens   vs   Paris St Germain"
@@ -9691,76 +9713,6 @@
             "related_to": "     Lens   vs   Paris St Germain"
         },
         {
-            "compet": "Portuguese Liga 3 - Week 2",
-            "match": "     Varzim   vs   Marco 09",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "19:00",
-            "date": "2026-08-16"
-        },
-        {
-            "channel": "Canal 11 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12437 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Varzim   vs   Marco 09"
-        },
-        {
-            "compet": "Italian Serie C Coppa Italia - 1st Round",
-            "match": "     Bari   vs   Casarano",
-            "flags": {
-                "team1": "italy",
-                "team2": "italy"
-            },
-            "time": "19:00",
-            "date": "2026-08-16"
-        },
-        {
-            "channel": "Sky Sport 253 Italia HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "12341 V 29900 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Bari   vs   Casarano"
-        },
-        {
-            "compet": "Serbian Super League - Week 5",
-            "match": "     Zemun   vs   Mladost Lucani",
-            "flags": {
-                "team1": "serbia",
-                "team2": "serbia"
-            },
-            "time": "19:00",
-            "date": "2026-08-16"
-        },
-        {
-            "channel": "Arena Premium 3 Srbija HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12422 H 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "#",
-            "related_to": "     Zemun   vs   Mladost Lucani"
-        },
-        {
-            "channel": "Arena Sport 1 BiH HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11720 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Zemun   vs   Mladost Lucani"
-        },
-        {
-            "channel": "Arena Sport 10 Srbija HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Zemun   vs   Mladost Lucani"
-        },
-        {
             "compet": "Serbian Super League - Week 5",
             "match": "     Partizan Belgrade   vs   Radnicki 1923",
             "flags": {
@@ -9795,12 +9747,166 @@
             "related_to": "     Partizan Belgrade   vs   Radnicki 1923"
         },
         {
+            "channel": "Arena Sport 8 Hrvatska HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Partizan Belgrade   vs   Radnicki 1923"
+        },
+        {
             "channel": "Arena Sport 9 Srbija HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11895 V 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Partizan Belgrade   vs   Radnicki 1923"
+        },
+        {
+            "compet": "Bosnia-Herzegovina Premier Liga - Week 2",
+            "match": "     Radnik Bijeljina   vs   Zrinjski",
+            "flags": {
+                "team1": "bosnia",
+                "team2": "bosnia"
+            },
+            "time": "19:00",
+            "date": "2026-08-16"
+        },
+        {
+            "channel": "Arena Premium 1 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Radnik Bijeljina   vs   Zrinjski"
+        },
+        {
+            "channel": "Arena Sport 7 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11595 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Radnik Bijeljina   vs   Zrinjski"
+        },
+        {
+            "compet": "Serbian Super League - Week 5",
+            "match": "     Zemun   vs   Mladost Lucani",
+            "flags": {
+                "team1": "serbia",
+                "team2": "serbia"
+            },
+            "time": "19:00",
+            "date": "2026-08-16"
+        },
+        {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Zemun   vs   Mladost Lucani"
+        },
+        {
+            "channel": "Arena Sport 1 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11720 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Zemun   vs   Mladost Lucani"
+        },
+        {
+            "channel": "Arena Sport 10 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Zemun   vs   Mladost Lucani"
+        },
+        {
+            "compet": "CAF African Women's Cup of Nations - FINAL",
+            "match": "     Cameroon   vs   Malawi",
+            "flags": {
+                "team1": "cameroon",
+                "team2": "malawi"
+            },
+            "time": "19:00",
+            "date": "2026-08-16"
+        },
+        {
+            "channel": "beIN Sports Australia 2 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Cameroon   vs   Malawi"
+        },
+        {
+            "channel": "beIN Sports France 1 HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Cameroon   vs   Malawi"
+        },
+        {
+            "channel": "beIN Sports MENA English 2 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "11390 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Cameroon   vs   Malawi"
+        },
+        {
+            "channel": "Sport TV4 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Cameroon   vs   Malawi"
+        },
+        {
+            "channel": "Ziggo Sport 1 HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "HD Mediaguard",
+            "link": "#",
+            "related_to": "     Cameroon   vs   Malawi"
+        },
+        {
+            "compet": "Portuguese Liga 3 - Week 2",
+            "match": "     Varzim   vs   Marco 09",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "19:00",
+            "date": "2026-08-16"
+        },
+        {
+            "channel": "Canal 11 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12437 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Varzim   vs   Marco 09"
+        },
+        {
+            "compet": "Italian Serie C Coppa Italia - 1st Round",
+            "match": "     Bari   vs   Casarano",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "19:00",
+            "date": "2026-08-16"
+        },
+        {
+            "channel": "Sky Sport 253 Italia HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12341 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Bari   vs   Casarano"
         },
         {
             "compet": "Brazilian S\u00e9rie A - Week 23",
@@ -9863,24 +9969,6 @@
             "related_to": "     Gorica   vs   Hajduk Split"
         },
         {
-            "compet": "Bosnia-Herzegovina Premier Liga - Week 2",
-            "match": "     Radnik Bijeljina   vs   Zrinjski",
-            "flags": {
-                "team1": "bosnia",
-                "team2": "bosnia"
-            },
-            "time": "19:00",
-            "date": "2026-08-16"
-        },
-        {
-            "channel": "Arena Premium 1 BiH HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Radnik Bijeljina   vs   Zrinjski"
-        },
-        {
             "compet": "Italian Cup (Coppa Italia) - 1st Round",
             "match": "     Lazio   vs   Mantova",
             "flags": {
@@ -9907,10 +9995,10 @@
             "related_to": "     Lazio   vs   Mantova"
         },
         {
-            "channel": "Arena Sport 1 Srbija HD",
+            "channel": "Arena Premium 3 Srbija HD",
             "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12460 H 30000 - 3/4",
-            "encry": "HD NagraVision",
+            "freq": "12422 H 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
             "link": "#",
             "related_to": "     Lazio   vs   Mantova"
         },
