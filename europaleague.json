@@ -137,10 +137,10 @@
             "date": "2026-08-20"
         },
         {
-            "channel": "HT Spor T\u00fcrkiye HD",
+            "channel": "ATV T\u00fcrkiye HD",
             "sat": "Turksat 4A 42.0\u00b0e",
-            "freq": "11837 V 30000 - 2/3",
-            "encry": "FTA",
+            "freq": "12053 H 27500 - 5/6",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Trabzonspor   vs   Ferencv\u00e1ros"
         },
@@ -163,10 +163,10 @@
             "date": "2026-08-20"
         },
         {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
+            "channel": "Cosmote Sport 1 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "11843 V 27500 - 3/5",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     OFI Crete   vs   CSKA Sofia"
         },
@@ -223,6 +223,24 @@
             "encry": "",
             "link": "#",
             "related_to": "     Benfica   vs   AGF Aarhus"
+        },
+        {
+            "compet": "UEFA Europa League - Play-Off (2nd Leg)",
+            "match": "     Ferencv\u00e1ros   vs   Trabzonspor",
+            "flags": {
+                "team1": "hungary",
+                "team2": "turkey"
+            },
+            "time": "18:30",
+            "date": "2026-08-27"
+        },
+        {
+            "channel": "ATV T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "12053 H 27500 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Ferencv\u00e1ros   vs   Trabzonspor"
         }
     ]
 }
