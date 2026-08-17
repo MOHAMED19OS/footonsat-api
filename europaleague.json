@@ -11,14 +11,6 @@
             "date": "2026-08-20"
         },
         {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Kairat Almaty   vs   Anderlecht"
-        },
-        {
             "channel": "QazSport HD",
             "sat": "KazSat 2 86.5\u00b0e",
             "freq": "11495 V 09000 - 8/9",
@@ -35,14 +27,6 @@
             },
             "time": "16:00",
             "date": "2026-08-20"
-        },
-        {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Mj\u00e4llby AIF   vs   Salzburg"
         },
         {
             "channel": "Sport Bladet Play (geo/R)",
@@ -195,6 +179,14 @@
             "related_to": "     OFI Crete   vs   CSKA Sofia"
         },
         {
+            "channel": "Diema Sport HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     OFI Crete   vs   CSKA Sofia"
+        },
+        {
             "compet": "UEFA Europa League - Play-Off (1st Leg)",
             "match": "     Red Star Belgrade   vs   Viktoria Plzen",
             "flags": {
@@ -205,10 +197,18 @@
             "date": "2026-08-20"
         },
         {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
+            "channel": "Arena Premium 1 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Red Star Belgrade   vs   Viktoria Plzen"
+        },
+        {
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Red Star Belgrade   vs   Viktoria Plzen"
         },
@@ -221,14 +221,6 @@
             },
             "time": "18:00",
             "date": "2026-08-20"
-        },
-        {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Sint-Truiden   vs   Omonia Nicosia"
         },
         {
             "channel": "Cytavision Sports 1 HD",
@@ -255,6 +247,24 @@
             "encry": "",
             "link": "#",
             "related_to": "     Benfica   vs   AGF Aarhus"
+        },
+        {
+            "compet": "UEFA Europa League - Play-Off (2nd Leg)",
+            "match": "     CSKA Sofia   vs   OFI Crete",
+            "flags": {
+                "team1": "bulgaria",
+                "team2": "greece"
+            },
+            "time": "18:00",
+            "date": "2026-08-27"
+        },
+        {
+            "channel": "Diema Sport HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     CSKA Sofia   vs   OFI Crete"
         },
         {
             "compet": "UEFA Europa League - Play-Off (2nd Leg)",
