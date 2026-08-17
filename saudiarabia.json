@@ -11,6 +11,22 @@
             "date": "2026-08-20"
         },
         {
+            "channel": "Como TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.comofootball.com/liveEvent.html",
+            "related_to": "     Al Fayha   vs   Al Hilal"
+        },
+        {
+            "channel": "DAZN 1 Bar Deutsch HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12070 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Fayha   vs   Al Hilal"
+        },
+        {
             "channel": "DAZN Canada ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -67,6 +83,14 @@
             "related_to": "     Al Fayha   vs   Al Hilal"
         },
         {
+            "channel": "Sportitalia HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12341 V 31400 - 5/6",
+            "encry": "FTA",
+            "link": "https://sportitalialive.it/sihd/",
+            "related_to": "     Al Fayha   vs   Al Hilal"
+        },
+        {
             "channel": "Sp\u00edler 1 TV Hungary HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "11766 V 28000 - 7/8",
@@ -99,6 +123,14 @@
             },
             "time": "16:00",
             "date": "2026-08-21"
+        },
+        {
+            "channel": "DAZN 2 Bar Deutsch HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11798 H 27500 - 9/0",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Riyadh   vs   Al Nassr"
         },
         {
             "channel": "DAZN Canada ($/geo/R)",
@@ -138,6 +170,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.fancode.com/rugby/schedule/upcoming",
+            "related_to": "     Al Riyadh   vs   Al Nassr"
+        },
+        {
+            "channel": "Prima Sport RO 2 HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12565 V 30000 - 7/8",
+            "encry": "VideoGuard",
+            "link": "#",
             "related_to": "     Al Riyadh   vs   Al Nassr"
         },
         {

@@ -29,11 +29,11 @@
             "date": "2026-08-20"
         },
         {
-            "channel": "- - -",
+            "channel": "Jalkapallo TV ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
+            "freq": "0000 0",
             "encry": "",
-            "link": "#",
+            "link": "https://jalkapallotv.com/jalkapallo",
             "related_to": "     Inter Turku   vs   FC Copenhagen"
         },
         {
@@ -153,6 +153,14 @@
             "related_to": "     Twente   vs   Qarabagh"
         },
         {
+            "channel": "Sport 3 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Twente   vs   Qarabagh"
+        },
+        {
             "compet": "UEFA Conference League - Play-Off (1st Leg)",
             "match": "     G\u00f3rnik Zabrze   vs   Monaco",
             "flags": {
@@ -190,6 +198,14 @@
         },
         {
             "channel": "- - -",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     V\u00edkingur Reykjav\u00edk   vs   Borac Banja Luka"
+        },
+        {
+            "channel": "S\u00ddN Sport Island 1 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
