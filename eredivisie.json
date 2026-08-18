@@ -1,60 +1,6 @@
 {
     "footonsat": [
         {
-            "compet": "Dutch Eerste Divisie - Week 2",
-            "match": "     De Graafschap   vs   AZ Youths",
-            "flags": {
-                "team1": "holland",
-                "team2": "holland"
-            },
-            "time": "18:00",
-            "date": "2026-08-17"
-        },
-        {
-            "channel": "ESPN 1 Nederland HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "11739 V 29900 - 3/4",
-            "encry": "HD Mediaguard",
-            "link": "#",
-            "related_to": "     De Graafschap   vs   AZ Youths"
-        },
-        {
-            "compet": "Dutch Eerste Divisie - Week 2",
-            "match": "     Ajax Youths   vs   Emmen",
-            "flags": {
-                "team1": "holland",
-                "team2": "holland"
-            },
-            "time": "18:00",
-            "date": "2026-08-17"
-        },
-        {
-            "channel": "ESPN 2 Nederland HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "11856 V 29900 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Ajax Youths   vs   Emmen"
-        },
-        {
-            "compet": "Dutch Eerste Divisie - Week 2",
-            "match": "     Utrecht Youths   vs   Vitesse Arnhem",
-            "flags": {
-                "team1": "holland",
-                "team2": "holland"
-            },
-            "time": "18:00",
-            "date": "2026-08-17"
-        },
-        {
-            "channel": "ESPN 3 Nederland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Utrecht Youths   vs   Vitesse Arnhem"
-        },
-        {
             "compet": "Dutch Eerste Divisie - Week 3",
             "match": "     Vitesse Arnhem   vs   Almere City",
             "flags": {
@@ -285,6 +231,14 @@
             "related_to": "     Fortuna Sittard   vs   AZ Alkmaar"
         },
         {
+            "channel": "Kanal 1 Sport Slovakia HD",
+            "sat": "Belintersat 1 51.5\u00b0e",
+            "freq": "11290 H 45000 - 8/9",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Fortuna Sittard   vs   AZ Alkmaar"
+        },
+        {
             "channel": "Nova Sports 2 Hellas HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "12130 H 27500 - 3/4",
@@ -465,9 +419,25 @@
             "related_to": "     PSV Eindhoven   vs   Groningen"
         },
         {
+            "channel": "DAZN 3 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     PSV Eindhoven   vs   Groningen"
+        },
+        {
             "channel": "DAZN Espa\u00f1a ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     PSV Eindhoven   vs   Groningen"
+        },
+        {
+            "channel": "DAZN Portugal ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
             "encry": "",
             "link": "#",
             "related_to": "     PSV Eindhoven   vs   Groningen"
@@ -493,6 +463,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     PSV Eindhoven   vs   Groningen"
+        },
+        {
+            "channel": "Kanal 1 Sport Slovakia HD",
+            "sat": "Belintersat 1 51.5\u00b0e",
+            "freq": "11290 H 45000 - 8/9",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     PSV Eindhoven   vs   Groningen"
         },
@@ -581,9 +559,25 @@
             "related_to": "     Cambuur-Leeuwarden   vs   Feyenoord"
         },
         {
+            "channel": "DAZN 3 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Cambuur-Leeuwarden   vs   Feyenoord"
+        },
+        {
             "channel": "DAZN Espa\u00f1a ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Cambuur-Leeuwarden   vs   Feyenoord"
+        },
+        {
+            "channel": "DAZN Portugal ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
             "encry": "",
             "link": "#",
             "related_to": "     Cambuur-Leeuwarden   vs   Feyenoord"
@@ -609,6 +603,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Cambuur-Leeuwarden   vs   Feyenoord"
+        },
+        {
+            "channel": "Kanal 1 Sport Slovakia HD",
+            "sat": "Belintersat 1 51.5\u00b0e",
+            "freq": "11290 H 45000 - 8/9",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Cambuur-Leeuwarden   vs   Feyenoord"
         },
