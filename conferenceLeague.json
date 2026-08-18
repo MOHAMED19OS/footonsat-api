@@ -37,6 +37,14 @@
             "related_to": "     Inter Turku   vs   FC Copenhagen"
         },
         {
+            "channel": "Solidsport Broadcast [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
+            "related_to": "     Inter Turku   vs   FC Copenhagen"
+        },
+        {
             "compet": "UEFA Conference League - Play-Off (1st Leg)",
             "match": "     Troms\u00f8   vs   Brighton H.A.",
             "flags": {
@@ -104,6 +112,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "#",
+            "related_to": "     Midtjylland   vs   Rijeka"
+        },
+        {
+            "channel": "Discovery+ DK ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.discoveryplus.dk/sport",
             "related_to": "     Midtjylland   vs   Rijeka"
         },
         {
@@ -389,11 +405,11 @@
             "date": "2026-08-20"
         },
         {
-            "channel": "- - -",
+            "channel": "Solidsport Broadcast [$]",
             "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
+            "freq": "0000 0",
             "encry": "",
-            "link": "#",
+            "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
             "related_to": "     AA Gent   vs   Hibernian"
         },
         {
@@ -441,6 +457,14 @@
             "related_to": "     Motherwell   vs   Freiburg"
         },
         {
+            "channel": "Solidsport Broadcast [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
+            "related_to": "     Motherwell   vs   Freiburg"
+        },
+        {
             "compet": "UEFA Conference League - Play-Off (1st Leg)",
             "match": "     Atalanta   vs   Hapoel Tel Aviv",
             "flags": {
@@ -462,6 +486,14 @@
             "channel": "Sky Sport Calcio HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "12073 V 29900 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Atalanta   vs   Hapoel Tel Aviv"
+        },
+        {
+            "channel": "Sky Sport Uno Italia HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11958 V 27500 - 3/4",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Atalanta   vs   Hapoel Tel Aviv"
@@ -551,6 +583,22 @@
             },
             "time": "19:00",
             "date": "2026-08-20"
+        },
+        {
+            "channel": "Jalkapallo TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://jalkapallotv.com/jalkapallo",
+            "related_to": "     Shamrock Rovers   vs   KuPS Kuopio"
+        },
+        {
+            "channel": "KuPS TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://kupstv.fi/kups/games",
+            "related_to": "     Shamrock Rovers   vs   KuPS Kuopio"
         },
         {
             "channel": "LOI TV ($/geo/R)",
