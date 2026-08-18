@@ -724,6 +724,24 @@
         },
         {
             "compet": "UEFA Conference League - Play-Off (2nd Leg)",
+            "match": "     Jablonec   vs   Rangers",
+            "flags": {
+                "team1": "czechia",
+                "team2": "scotland"
+            },
+            "time": "16:00",
+            "date": "2026-08-27"
+        },
+        {
+            "channel": "Rangers TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://tv.rangers.co.uk/",
+            "related_to": "     Jablonec   vs   Rangers"
+        },
+        {
+            "compet": "UEFA Conference League - Play-Off (2nd Leg)",
             "match": "     Riga FC   vs   K\u00cd Klaksv\u00edk",
             "flags": {
                 "team1": "latvia",
