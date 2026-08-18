@@ -1,6 +1,96 @@
 {
     "footonsat": [
         {
+            "compet": "Saudi King's Cup - Round of 32",
+            "match": "     Al Akhdoud   vs   Al Khaleej",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "16:15",
+            "date": "2026-08-18"
+        },
+        {
+            "channel": "Thmanyah KSA [app]",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Akhdoud   vs   Al Khaleej"
+        },
+        {
+            "compet": "Saudi King's Cup - Round of 32",
+            "match": "     Al Najma   vs   Al Ittihad",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "16:15",
+            "date": "2026-08-18"
+        },
+        {
+            "channel": "Thmanyah 1 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Najma   vs   Al Ittihad"
+        },
+        {
+            "compet": "Saudi King's Cup - Round of 32",
+            "match": "     Al Jabalain   vs   Al Ettifaq",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "16:15",
+            "date": "2026-08-18"
+        },
+        {
+            "channel": "Thmanyah 3 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Jabalain   vs   Al Ettifaq"
+        },
+        {
+            "compet": "Saudi King's Cup - Round of 32",
+            "match": "     Al Faisaly   vs   NEOM SC",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "18:00",
+            "date": "2026-08-18"
+        },
+        {
+            "channel": "Thmanyah KSA [app]",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Faisaly   vs   NEOM SC"
+        },
+        {
+            "compet": "Saudi King's Cup - Round of 32",
+            "match": "     Al Diriyah   vs   Al Nassr",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "18:00",
+            "date": "2026-08-18"
+        },
+        {
+            "channel": "Thmanyah 2 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Diriyah   vs   Al Nassr"
+        },
+        {
             "compet": "Saudi Pro League - Week 2",
             "match": "     Al Fayha   vs   Al Hilal",
             "flags": {
@@ -201,6 +291,14 @@
             "sat": "Astra 1P 19.2\u00b0e",
             "freq": "11097 V 22000 - 5/6",
             "encry": "Seca",
+            "link": "#",
+            "related_to": "     Al Riyadh   vs   Al Nassr"
+        },
+        {
+            "channel": "MAX Sport 2 Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "11475 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Al Riyadh   vs   Al Nassr"
         },
