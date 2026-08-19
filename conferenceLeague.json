@@ -107,19 +107,19 @@
             "date": "2026-08-20"
         },
         {
-            "channel": "- - -",
+            "channel": "Disney+ Danmark ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
+            "freq": "0000 0",
             "encry": "",
             "link": "#",
             "related_to": "     Midtjylland   vs   Rijeka"
         },
         {
-            "channel": "Discovery+ DK ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.discoveryplus.dk/sport",
+            "channel": "MAX Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11512 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
             "related_to": "     Midtjylland   vs   Rijeka"
         },
         {
@@ -671,6 +671,14 @@
             "related_to": "     Hajduk Split   vs   Rak\u00f3w Czestochowa"
         },
         {
+            "channel": "YouTube: Kanal Sportowy",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@Kanal_Sportowy",
+            "related_to": "     Hajduk Split   vs   Rak\u00f3w Czestochowa"
+        },
+        {
             "compet": "UEFA Conference League - Play-Off (1st Leg)",
             "match": "     Dinamo City   vs   Pafos FC",
             "flags": {
@@ -783,6 +791,24 @@
             "encry": "",
             "link": "https://on.orf.at/livestream/",
             "related_to": "     Austria Vienna   vs   Sporting Braga"
+        },
+        {
+            "compet": "UEFA Conference League - Play-Off (2nd Leg)",
+            "match": "     Rijeka   vs   Midtjylland",
+            "flags": {
+                "team1": "croatia",
+                "team2": "denmark"
+            },
+            "time": "18:45",
+            "date": "2026-08-27"
+        },
+        {
+            "channel": "MAX Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11512 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Rijeka   vs   Midtjylland"
         }
     ]
 }
