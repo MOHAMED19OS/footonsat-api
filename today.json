@@ -991,14 +991,6 @@
             "related_to": "     Atl\u00e9tico Madrid   vs   M\u00e1laga"
         },
         {
-            "channel": "beIN Sports MENA 4 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Atl\u00e9tico Madrid   vs   M\u00e1laga"
-        },
-        {
             "channel": "Belarus 5 HD",
             "sat": "Belintersat 1 51.5\u00b0e",
             "freq": "11350 H 45000 - 3/4",
@@ -1793,6 +1785,14 @@
             "related_to": "     Celtic   vs   LASK Linz"
         },
         {
+            "channel": "Play Sports 3 Belgium",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Celtic   vs   LASK Linz"
+        },
+        {
             "channel": "Premier Sports 1 Ireland HD",
             "sat": "Astra 2F 28.2\u00b0e",
             "freq": "12188 H 27500 - 2/3",
@@ -2115,9 +2115,9 @@
             "related_to": "     NEC Nijmegen   vs   Bod\u00f8/Glimt"
         },
         {
-            "channel": "beIN Sports MENA 2 HD",
+            "channel": "beIN Sports MENA 4 HD",
             "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 H 27500 - 2/3",
+            "freq": "10810 V 27500 - 2/3",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     NEC Nijmegen   vs   Bod\u00f8/Glimt"
@@ -2215,6 +2215,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     NEC Nijmegen   vs   Bod\u00f8/Glimt"
+        },
+        {
+            "channel": "DAZN 2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     NEC Nijmegen   vs   Bod\u00f8/Glimt"
         },
@@ -2581,6 +2589,368 @@
             "related_to": "     Moreirense U-23   vs   Famalic\u00e3o U-23"
         },
         {
+            "compet": "UEFA Champions League - Play-Off (1st Leg) [Bucharest]",
+            "match": "     Hapoel Be'er Sheva   vs   Sabah",
+            "flags": {
+                "team1": "israel",
+                "team2": "azerbaijan"
+            },
+            "time": "19:00",
+            "date": "2026-08-19"
+        },
+        {
+            "channel": "5 SPORT Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
+            "channel": "Arena Premium 4 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
+            "channel": "Arena Premium 5 BiH HD",
+            "sat": " 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
+            "channel": "Arena Sport 6 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11554 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
+            "channel": "ART Motion Sport 2 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
+            "channel": "beIN Connect MENA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect.bein.com/",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
+            "channel": "beIN Sports MENA English 2 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "11390 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
+            "channel": "Blue Sport 2 Live HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
+            "channel": "Canal+ Extra 2 Polska HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11278 V 27500 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
+            "channel": "Canal+ Live 3 France HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "12090 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
+            "channel": "Canal+ Sport 360 HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "12090 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
+            "channel": "Cosmote Sport 5 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12418 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
+            "channel": "Cytavision Sports 7 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
+            "channel": "DAZN 4 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12399 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
+            "channel": "DAZN Portugal ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
+            "channel": "Digi Sport 4 Romania",
+            "sat": "Intelsat 10-02 1.0\u00b0w",
+            "freq": "12687 H 27500 - 3/4",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
+            "channel": "HBO Max (uk only) [$/geo/R]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.hbomax.com",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
+            "channel": "Ictimai TV HD",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11095 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
+            "channel": "M+ Liga de Campeones 4",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "10979 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "#",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
+            "channel": "Megogo Futbol 4 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
+            "channel": "Megogo Sport Ukraine HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12285 V 30000 - 2/3",
+            "encry": "FTA",
+            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
+            "channel": "Pickx+ Sports 4 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
+            "channel": "Play Sports 5 Belgium",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
+            "channel": "Premier Sports 4 Mongolia HD",
+            "sat": "Telstar 18 138.0\u00b0e",
+            "freq": "12598 H 45000 - 5/6",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "#",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
+            "channel": "Prima Sport RO 5 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
+            "channel": "QazSport HD",
+            "sat": "KazSat 2 86.5\u00b0e",
+            "freq": "11495 V 09000 - 8/9",
+            "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
+            "channel": "RTL+ Hungary [online]",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.rtlmost.hu/rtl_most/sport-rtl-f_1222",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
+            "channel": "Sky Go Italy [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
+            "channel": "Sky Sport 4 Austria HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12382 H 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
+            "channel": "Sky Sport MIX Italia HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11862 H 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
+            "channel": "S\u00ddN Sport 2 \u00cdsland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
+            "channel": "TNT Sports 5 HD",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11597 V 22000 - 5/6",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
+            "channel": "Tring Sport 4 HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
+            "channel": "TSN Malta 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
+            "channel": "TV3 MAX Dansk HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11345 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
+            "channel": "ViX TV [app] (geo/R)",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
+            "channel": "Ziggo Sport 3",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
             "compet": "UEFA Champions League - Play-Off (1st  Leg)",
             "match": "     Slovan Bratislava   vs   Celje",
             "flags": {
@@ -2699,6 +3069,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Slovan Bratislava   vs   Celje"
+        },
+        {
+            "channel": "DAZN 3 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Slovan Bratislava   vs   Celje"
         },
@@ -2957,352 +3335,6 @@
             "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     Slovan Bratislava   vs   Celje"
-        },
-        {
-            "compet": "UEFA Champions League - Play-Off (1st Leg) [Bucharest]",
-            "match": "     Hapoel Be'er Sheva   vs   Sabah",
-            "flags": {
-                "team1": "israel",
-                "team2": "azerbaijan"
-            },
-            "time": "19:00",
-            "date": "2026-08-19"
-        },
-        {
-            "channel": "5 SPORT Israel HD",
-            "sat": "Dror 1 4.0\u00b0w",
-            "freq": "11259 V 30000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
-        },
-        {
-            "channel": "Arena Premium 4 Srbija HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12246 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
-        },
-        {
-            "channel": "Arena Premium 5 BiH HD",
-            "sat": " 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
-        },
-        {
-            "channel": "Arena Sport 6 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11554 V 30000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
-        },
-        {
-            "channel": "ART Motion Sport 2 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://artmotion.net/tv/",
-            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
-        },
-        {
-            "channel": "beIN Connect MENA",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://connect.bein.com/",
-            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
-        },
-        {
-            "channel": "beIN Sports MENA English 2 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "11390 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
-        },
-        {
-            "channel": "Blue Sport 2 Live HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
-        },
-        {
-            "channel": "Canal+ Extra 2 Polska HD",
-            "sat": "Hotbird 13G 13.0\u00b0e",
-            "freq": "11278 V 27500 - 5/6",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
-        },
-        {
-            "channel": "Canal+ Live 3 France HD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "12090 V 29700 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
-        },
-        {
-            "channel": "Canal+ Sport 360 HD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "12090 V 29700 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
-        },
-        {
-            "channel": "Cosmote Sport 5 HD",
-            "sat": "Eutelsat 9B 9.0\u00b0e",
-            "freq": "12418 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
-        },
-        {
-            "channel": "Cytavision Sports 7 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
-        },
-        {
-            "channel": "DAZN Portugal ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
-        },
-        {
-            "channel": "Digi Sport 4 Romania",
-            "sat": "Intelsat 10-02 1.0\u00b0w",
-            "freq": "12687 H 27500 - 3/4",
-            "encry": "NagraVision",
-            "link": "#",
-            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
-        },
-        {
-            "channel": "Fast Sports [online] ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://fasttv.am/live-sports?sport_type=football",
-            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
-        },
-        {
-            "channel": "HBO Max (uk only) [$/geo/R]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.hbomax.com",
-            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
-        },
-        {
-            "channel": "Ictimai TV HD",
-            "sat": "AzerSpace 1 46.0\u00b0e",
-            "freq": "11095 H 30000 - 5/6",
-            "encry": "FTA",
-            "link": "#",
-            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
-        },
-        {
-            "channel": "M+ Liga de Campeones 4",
-            "sat": "Astra 1L 19.2\u00b0e",
-            "freq": "10979 V 22000 - 5/6",
-            "encry": "Seca",
-            "link": "#",
-            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
-        },
-        {
-            "channel": "Megogo Futbol 4 ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
-        },
-        {
-            "channel": "Megogo Sport Ukraine HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12285 V 30000 - 2/3",
-            "encry": "FTA",
-            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
-            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
-        },
-        {
-            "channel": "MTV Katsomon+ ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.mtv.fi/urheilu",
-            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
-        },
-        {
-            "channel": "Paramount+ USA ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
-        },
-        {
-            "channel": "Pickx+ Sports 4 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
-        },
-        {
-            "channel": "Premier Sports 4 Mongolia HD",
-            "sat": "Telstar 18 138.0\u00b0e",
-            "freq": "12598 H 45000 - 5/6",
-            "encry": "MPEG-4 Verimatrix",
-            "link": "#",
-            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
-        },
-        {
-            "channel": "Prima Sport RO 5 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
-        },
-        {
-            "channel": "QazSport HD",
-            "sat": "KazSat 2 86.5\u00b0e",
-            "freq": "11495 V 09000 - 8/9",
-            "encry": "MPEG-4 Irdeto",
-            "link": "#",
-            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
-        },
-        {
-            "channel": "RTL+ Hungary [online]",
-            "sat": "Download APP 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.rtlmost.hu/rtl_most/sport-rtl-f_1222",
-            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
-        },
-        {
-            "channel": "Sky Go Italy [online]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
-        },
-        {
-            "channel": "Sky Sport 4 Austria HD",
-            "sat": "Astra 1N 19.2\u00b0e",
-            "freq": "12382 H 27500 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
-        },
-        {
-            "channel": "Sky Sport MIX Italia HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "11862 H 29900 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
-        },
-        {
-            "channel": "S\u00ddN Sport 2 \u00cdsland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
-        },
-        {
-            "channel": "TNT Sports 5 HD",
-            "sat": "Astra 2G 28.2\u00b0e",
-            "freq": "11597 V 22000 - 5/6",
-            "encry": "VideoGuard",
-            "link": "#",
-            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
-        },
-        {
-            "channel": "Tring Sport 4 HD",
-            "sat": "Hellas Sat 4 39.0\u00b0e",
-            "freq": "10890 H 30000 - 5/6",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
-        },
-        {
-            "channel": "TSN Malta 3 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
-        },
-        {
-            "channel": "TV2 Play Norge ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://play.tv2.no/sport",
-            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
-        },
-        {
-            "channel": "TV3 MAX Dansk HD",
-            "sat": "Thor 6 5.0\u00b0e",
-            "freq": "11345 V 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
-        },
-        {
-            "channel": "ViX TV [app] (geo/R)",
-            "sat": "Download APP 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "FTA",
-            "link": "#",
-            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
-        },
-        {
-            "channel": "Ziggo Sport 3",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
         },
         {
             "compet": "Serbian 1st League (Prva liga Srbija) - Week 4",

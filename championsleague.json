@@ -83,9 +83,9 @@
             "related_to": "     NEC Nijmegen   vs   Bod\u00f8/Glimt"
         },
         {
-            "channel": "beIN Sports MENA 2 HD",
+            "channel": "beIN Sports MENA 4 HD",
             "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 H 27500 - 2/3",
+            "freq": "10810 V 27500 - 2/3",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     NEC Nijmegen   vs   Bod\u00f8/Glimt"
@@ -183,6 +183,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     NEC Nijmegen   vs   Bod\u00f8/Glimt"
+        },
+        {
+            "channel": "DAZN 2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     NEC Nijmegen   vs   Bod\u00f8/Glimt"
         },
@@ -637,6 +645,14 @@
             "related_to": "     Slovan Bratislava   vs   Celje"
         },
         {
+            "channel": "DAZN 3 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Slovan Bratislava   vs   Celje"
+        },
+        {
             "channel": "DAZN Deutsch ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1007,6 +1023,14 @@
             "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
         },
         {
+            "channel": "DAZN 4 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12399 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
             "channel": "DAZN Deutsch ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1098,6 +1122,14 @@
             "channel": "Pickx+ Sports 4 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
+        },
+        {
+            "channel": "Play Sports 5 Belgium",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
             "encry": "",
             "link": "#",
             "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
@@ -1561,6 +1593,14 @@
             "related_to": "     Celtic   vs   LASK Linz"
         },
         {
+            "channel": "Play Sports 3 Belgium",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Celtic   vs   LASK Linz"
+        },
+        {
             "channel": "Premier Sports 1 Ireland HD",
             "sat": "Astra 2F 28.2\u00b0e",
             "freq": "12188 H 27500 - 2/3",
@@ -1827,6 +1867,14 @@
             "related_to": "     Sabah   vs   Hapoel Be'er Sheva"
         },
         {
+            "channel": "beIN Sports MENA English 2 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "11390 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Sabah   vs   Hapoel Be'er Sheva"
+        },
+        {
             "channel": "Blue Sport 1 Live HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1908,6 +1956,14 @@
         },
         {
             "channel": "Paramount+ USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Sabah   vs   Hapoel Be'er Sheva"
+        },
+        {
+            "channel": "Pickx+ Sports 3 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
@@ -2002,6 +2058,22 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://connect.bein.com/",
+            "related_to": "     Bod\u00f8/Glimt   vs   NEC Nijmegen"
+        },
+        {
+            "channel": "beIN Sports MENA 2 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Bod\u00f8/Glimt   vs   NEC Nijmegen"
+        },
+        {
+            "channel": "beIN Sports MENA English 2 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "11390 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
             "related_to": "     Bod\u00f8/Glimt   vs   NEC Nijmegen"
         },
         {
@@ -2117,6 +2189,22 @@
             "related_to": "     Bod\u00f8/Glimt   vs   NEC Nijmegen"
         },
         {
+            "channel": "Pickx+ Sports 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Bod\u00f8/Glimt   vs   NEC Nijmegen"
+        },
+        {
+            "channel": "RTL Club Belgique",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11411 H 27500 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Bod\u00f8/Glimt   vs   NEC Nijmegen"
+        },
+        {
             "channel": "RTL+ Hungary [online]",
             "sat": "Download APP 0.0\u00b0",
             "freq": "0000 0",
@@ -2196,6 +2284,22 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://connect.bein.com/",
+            "related_to": "     LASK Linz   vs   Celtic"
+        },
+        {
+            "channel": "beIN Sports MENA 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     LASK Linz   vs   Celtic"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
             "related_to": "     LASK Linz   vs   Celtic"
         },
         {
@@ -2288,6 +2392,14 @@
         },
         {
             "channel": "Paramount+ USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     LASK Linz   vs   Celtic"
+        },
+        {
+            "channel": "Pickx+ Sports 2 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
@@ -2513,6 +2625,22 @@
             "related_to": "     Lyon   vs   Fenerbah\u00e7e"
         },
         {
+            "channel": "Pickx+ Sports 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Lyon   vs   Fenerbah\u00e7e"
+        },
+        {
+            "channel": "RTL Club Belgique",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11411 H 27500 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Lyon   vs   Fenerbah\u00e7e"
+        },
+        {
             "channel": "RTL+ Hungary [online]",
             "sat": "Download APP 0.0\u00b0",
             "freq": "0000 0",
@@ -2652,6 +2780,14 @@
         },
         {
             "channel": "Paramount+ USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Viking   vs   Dinamo Zagreb"
+        },
+        {
+            "channel": "Pickx+ Sports 3 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
@@ -2837,6 +2973,22 @@
             "related_to": "     AEK Athens   vs   Levski Sofia"
         },
         {
+            "channel": "Pickx+ Sports 2 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     AEK Athens   vs   Levski Sofia"
+        },
+        {
+            "channel": "Play Sports 4 Belgium",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     AEK Athens   vs   Levski Sofia"
+        },
+        {
             "channel": "RTL+ Hungary [online]",
             "sat": "Download APP 0.0\u00b0",
             "freq": "0000 0",
@@ -3008,6 +3160,14 @@
         },
         {
             "channel": "Paramount+ USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Celje   vs   Slovan Bratislava"
+        },
+        {
+            "channel": "Pickx+ Sports 4 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
