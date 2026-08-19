@@ -715,6 +715,32 @@
             "related_to": "     Dynamo Moscow   vs   FK Krasnodar"
         },
         {
+            "compet": "English League Trophy - Group North - 4",
+            "match": "     Mansfield Town   vs   Manchester City U-21",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "18:00",
+            "date": "2026-08-19"
+        },
+        {
+            "channel": "EFL iFollow ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Mansfield Town   vs   Manchester City U-21"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Mansfield Town   vs   Manchester City U-21"
+        },
+        {
             "compet": "Saudi King's Cup - Round of 32",
             "match": "     Al Ula   vs   Al Fateh",
             "flags": {
@@ -775,24 +801,6 @@
             "encry": "Seca",
             "link": "#",
             "related_to": "     Ponferradina   vs   Real Madrid Castilla"
-        },
-        {
-            "compet": "English League Trophy - Group North - 4",
-            "match": "     Mansfield Town   vs   Manchester City U-21",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "18:00",
-            "date": "2026-08-19"
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Mansfield Town   vs   Manchester City U-21"
         },
         {
             "compet": "Irish Womens Premier Division - Round 13",
@@ -1377,14 +1385,6 @@
             "related_to": "     Celtic   vs   LASK Linz"
         },
         {
-            "channel": "ART Motion Sport 2 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://artmotion.net/tv/",
-            "related_to": "     Celtic   vs   LASK Linz"
-        },
-        {
             "channel": "beIN Connect MENA",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -1673,6 +1673,14 @@
             "related_to": "     Celtic   vs   LASK Linz"
         },
         {
+            "channel": "RTK 1 Kosovo HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10938 H 15835 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "https://www.rtklive.com/sq/livestream/rtk1/",
+            "related_to": "     Celtic   vs   LASK Linz"
+        },
+        {
             "channel": "RTL+ Hungary [online]",
             "sat": "Download APP 0.0\u00b0",
             "freq": "0000 0",
@@ -1907,7 +1915,7 @@
             "related_to": "     NEC Nijmegen   vs   Bod\u00f8/Glimt"
         },
         {
-            "channel": "ART Motion Sport 1 HD",
+            "channel": "ART Motion Sport 3 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
@@ -2431,7 +2439,7 @@
             "related_to": "     Slovan Bratislava   vs   Celje"
         },
         {
-            "channel": "ART Motion Sport 3 HD",
+            "channel": "ART Motion Sport 1 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
@@ -2793,7 +2801,7 @@
             "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
         },
         {
-            "channel": "ART Motion Sport 4 HD",
+            "channel": "ART Motion Sport 2 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
@@ -2849,9 +2857,9 @@
             "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
         },
         {
-            "channel": "Cosmote Sport 4 HD",
+            "channel": "Cosmote Sport 5 HD",
             "sat": "Eutelsat 9B 9.0\u00b0e",
-            "freq": "12149 V 27500 - 2/3",
+            "freq": "12418 V 27500 - 2/3",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Hapoel Be'er Sheva   vs   Sabah"

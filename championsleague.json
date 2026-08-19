@@ -51,7 +51,7 @@
             "related_to": "     NEC Nijmegen   vs   Bod\u00f8/Glimt"
         },
         {
-            "channel": "ART Motion Sport 1 HD",
+            "channel": "ART Motion Sport 3 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
@@ -541,7 +541,7 @@
             "related_to": "     Slovan Bratislava   vs   Celje"
         },
         {
-            "channel": "ART Motion Sport 3 HD",
+            "channel": "ART Motion Sport 1 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
@@ -911,14 +911,6 @@
             "related_to": "     Celtic   vs   LASK Linz"
         },
         {
-            "channel": "ART Motion Sport 2 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://artmotion.net/tv/",
-            "related_to": "     Celtic   vs   LASK Linz"
-        },
-        {
             "channel": "beIN Connect MENA",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -1207,6 +1199,14 @@
             "related_to": "     Celtic   vs   LASK Linz"
         },
         {
+            "channel": "RTK 1 Kosovo HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10938 H 15835 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "https://www.rtklive.com/sq/livestream/rtk1/",
+            "related_to": "     Celtic   vs   LASK Linz"
+        },
+        {
             "channel": "RTL+ Hungary [online]",
             "sat": "Download APP 0.0\u00b0",
             "freq": "0000 0",
@@ -1433,7 +1433,7 @@
             "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
         },
         {
-            "channel": "ART Motion Sport 4 HD",
+            "channel": "ART Motion Sport 2 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
@@ -1489,9 +1489,9 @@
             "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
         },
         {
-            "channel": "Cosmote Sport 4 HD",
+            "channel": "Cosmote Sport 5 HD",
             "sat": "Eutelsat 9B 9.0\u00b0e",
-            "freq": "12149 V 27500 - 2/3",
+            "freq": "12418 V 27500 - 2/3",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Hapoel Be'er Sheva   vs   Sabah"
@@ -1747,10 +1747,26 @@
             "related_to": "     Sabah   vs   Hapoel Be'er Sheva"
         },
         {
+            "channel": "Cosmote Sport 4 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12149 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Sabah   vs   Hapoel Be'er Sheva"
+        },
+        {
             "channel": "DAZN Deutsch ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Sabah   vs   Hapoel Be'er Sheva"
+        },
+        {
+            "channel": "Digi Sport 2 Romania HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "11823 H 30000 - 5/6",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Sabah   vs   Hapoel Be'er Sheva"
         },
@@ -1853,10 +1869,26 @@
             "related_to": "     Bod\u00f8/Glimt   vs   NEC Nijmegen"
         },
         {
+            "channel": "Cosmote Sport 2 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "11843 V 27500 - 3/5",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Bod\u00f8/Glimt   vs   NEC Nijmegen"
+        },
+        {
             "channel": "DAZN Deutsch ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Bod\u00f8/Glimt   vs   NEC Nijmegen"
+        },
+        {
+            "channel": "Digi Sport 2 Romania HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "11823 H 30000 - 5/6",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Bod\u00f8/Glimt   vs   NEC Nijmegen"
         },
@@ -1964,6 +1996,22 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://connect.bein.com/",
+            "related_to": "     LASK Linz   vs   Celtic"
+        },
+        {
+            "channel": "Cosmote Sport 3 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "11843 V 27500 - 3/5",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     LASK Linz   vs   Celtic"
+        },
+        {
+            "channel": "Digi Sport 1 Romania HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "11823 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
             "related_to": "     LASK Linz   vs   Celtic"
         },
         {
