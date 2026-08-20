@@ -2,6 +2,24 @@
     "footonsat": [
         {
             "compet": "UEFA Conference League - Play-Off (1st Leg)",
+            "match": "     Lincoln Red Imps   vs   Larne",
+            "flags": {
+                "team1": "gibraltar",
+                "team2": "nireland"
+            },
+            "time": "16:00",
+            "date": "2026-08-20"
+        },
+        {
+            "channel": "NIFL TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://nifltv.co.uk/en",
+            "related_to": "     Lincoln Red Imps   vs   Larne"
+        },
+        {
+            "compet": "UEFA Conference League - Play-Off (1st Leg)",
             "match": "     Inter Turku   vs   FC Copenhagen",
             "flags": {
                 "team1": "finland",
@@ -28,24 +46,6 @@
         },
         {
             "compet": "UEFA Conference League - Play-Off (1st Leg)",
-            "match": "     Lincoln Red Imps   vs   Larne",
-            "flags": {
-                "team1": "gibraltar",
-                "team2": "nireland"
-            },
-            "time": "16:00",
-            "date": "2026-08-20"
-        },
-        {
-            "channel": "NIFL TV ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://nifltv.co.uk/en",
-            "related_to": "     Lincoln Red Imps   vs   Larne"
-        },
-        {
-            "compet": "UEFA Conference League - Play-Off (1st Leg)",
             "match": "     Nordsj\u00e6lland   vs   St Gallen",
             "flags": {
                 "team1": "denmark",
@@ -53,6 +53,14 @@
             },
             "time": "17:00",
             "date": "2026-08-20"
+        },
+        {
+            "channel": "Arena Sport 4 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11895 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Nordsj\u00e6lland   vs   St Gallen"
         },
         {
             "channel": "Arena Sport 4 Srbija HD",
@@ -131,10 +139,26 @@
             "date": "2026-08-20"
         },
         {
+            "channel": "Arena Premium 3 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Midtjylland   vs   Rijeka"
+        },
+        {
             "channel": "Disney+ Danmark ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Midtjylland   vs   Rijeka"
+        },
+        {
+            "channel": "MAX Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11512 H 30000 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Midtjylland   vs   Rijeka"
         },
@@ -183,10 +207,18 @@
             "date": "2026-08-20"
         },
         {
-            "channel": "5 SPORT Israel HD",
+            "channel": "5 PLUS Israel HD",
             "sat": "Dror 1 4.0\u00b0w",
             "freq": "11259 V 30000 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     PAOK Thessaloniki   vs   Brann"
+        },
+        {
+            "channel": "Arena Sport 5 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     PAOK Thessaloniki   vs   Brann"
         },
@@ -291,8 +323,8 @@
             "date": "2026-08-20"
         },
         {
-            "channel": "Ligue 1+ ($/geo/R)",
-            "sat": "Download APP 0.0\u00b0",
+            "channel": "Ligue 1+ 2 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "https://plus.ligue1.com/home",
@@ -399,6 +431,22 @@
             },
             "time": "18:15",
             "date": "2026-08-20"
+        },
+        {
+            "channel": "5 SPORT Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Sion   vs   Ajax"
+        },
+        {
+            "channel": "Arena Sport 2 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11895 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Sion   vs   Ajax"
         },
         {
             "channel": "Arena Sport 2 Srbija HD",
@@ -561,14 +609,6 @@
             "date": "2026-08-20"
         },
         {
-            "channel": "5 PLUS Israel HD",
-            "sat": "Dror 1 4.0\u00b0w",
-            "freq": "11259 V 30000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Motherwell   vs   Freiburg"
-        },
-        {
             "channel": "ESPN+ USA ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -601,6 +641,14 @@
             },
             "time": "18:30",
             "date": "2026-08-20"
+        },
+        {
+            "channel": "Arena Sport 3 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11895 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Atalanta   vs   Hapoel Tel Aviv"
         },
         {
             "channel": "Arena Sport 8 Srbija HD",
@@ -669,6 +717,14 @@
             "related_to": "     Hearts   vs   Rapid Vienna"
         },
         {
+            "channel": "Arena Sport 7 BiH HD",
+            "sat": " 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Hearts   vs   Rapid Vienna"
+        },
+        {
             "channel": "Hearts TV ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -709,6 +765,14 @@
             },
             "time": "18:45",
             "date": "2026-08-20"
+        },
+        {
+            "channel": "Arena Sport 6 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Rangers   vs   Jablonec"
         },
         {
             "channel": "Arena Sport 7 Srbija HD",
@@ -787,6 +851,14 @@
             "related_to": "     Sporting Braga   vs   Austria Vienna"
         },
         {
+            "channel": "Arena Sport 1 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11720 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Sporting Braga   vs   Austria Vienna"
+        },
+        {
             "channel": "ORF On ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -821,6 +893,14 @@
             "related_to": "     Getafe   vs   Partizan Belgrade"
         },
         {
+            "channel": "Arena Premium 2 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Getafe   vs   Partizan Belgrade"
+        },
+        {
             "channel": "Arena Premium 2 Srbija HD",
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12402 V 30000 - 3/4",
@@ -834,6 +914,22 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://onefootball.com/en/matches",
+            "related_to": "     Getafe   vs   Partizan Belgrade"
+        },
+        {
+            "channel": "RTS 3 Srbija",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11914 H 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Getafe   vs   Partizan Belgrade"
+        },
+        {
+            "channel": "Sport TV1 Slovenija",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11231 V 42000 - 3/5",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
             "related_to": "     Getafe   vs   Partizan Belgrade"
         },
         {
@@ -990,6 +1086,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": "     Freiburg   vs   Motherwell"
+        },
+        {
+            "channel": "SWR Fernsehen BW HD",
+            "sat": "Astra 1P 19.2\u00b0e",
+            "freq": "11494 H 22000 - 2/3",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "     Freiburg   vs   Motherwell"
         },
         {
