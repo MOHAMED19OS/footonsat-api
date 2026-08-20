@@ -125,6 +125,14 @@
             "related_to": "     Mj\u00e4llby AIF   vs   Salzburg"
         },
         {
+            "channel": "YouTube: RB Salzburg",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@fcrbs/streams",
+            "related_to": "     Mj\u00e4llby AIF   vs   Salzburg"
+        },
+        {
             "compet": "UEFA Europa League - Play-Off (1st Leg)",
             "match": "     Jagiellonia   vs   Iberia 1999",
             "flags": {
@@ -511,6 +519,14 @@
             "related_to": "     Sint-Truiden   vs   Omonia Nicosia"
         },
         {
+            "channel": "Omonoia TV on Cyta ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Sint-Truiden   vs   Omonia Nicosia"
+        },
+        {
             "compet": "UEFA Europa League - Play-Off (1st Leg)",
             "match": "     Benfica   vs   AGF Aarhus",
             "flags": {
@@ -553,7 +569,43 @@
             "related_to": "     Benfica   vs   AGF Aarhus"
         },
         {
-            "compet": "UEFA Europa League - Play-Off (2nd Leg)",
+            "compet": "UEFA Europa League - Play-Off (2nd Leg) [0-4]",
+            "match": "     Iberia 1999   vs   Jagiellonia",
+            "flags": {
+                "team1": "georgia",
+                "team2": "poland"
+            },
+            "time": "16:00",
+            "date": "2026-08-27"
+        },
+        {
+            "channel": "- - -",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Iberia 1999   vs   Jagiellonia"
+        },
+        {
+            "compet": "UEFA Europa League - Play-Off (2nd Leg) [1-1]",
+            "match": "     Ararat-Armenia   vs   Universitatea Craiova",
+            "flags": {
+                "team1": "armenia",
+                "team2": "romania"
+            },
+            "time": "16:00",
+            "date": "2026-08-27"
+        },
+        {
+            "channel": "- - -",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Ararat-Armenia   vs   Universitatea Craiova"
+        },
+        {
+            "compet": "UEFA Europa League - Play-Off (2nd Leg) [0-3]",
             "match": "     Viktoria Plzen   vs   Red Star Belgrade",
             "flags": {
                 "team1": "czechia",
@@ -579,7 +631,7 @@
             "related_to": "     Viktoria Plzen   vs   Red Star Belgrade"
         },
         {
-            "compet": "UEFA Europa League - Play-Off (2nd Leg)",
+            "compet": "UEFA Europa League - Play-Off (2nd Leg) [0-1]",
             "match": "     Omonia Nicosia   vs   Sint-Truiden",
             "flags": {
                 "team1": "cyprus",
@@ -597,7 +649,43 @@
             "related_to": "     Omonia Nicosia   vs   Sint-Truiden"
         },
         {
-            "compet": "UEFA Europa League - Play-Off (2nd Leg)",
+            "compet": "UEFA Europa League - Play-Off (2nd Leg) [1-0]",
+            "match": "     Salzburg   vs   Mj\u00e4llby AIF",
+            "flags": {
+                "team1": "austria",
+                "team2": "sweden"
+            },
+            "time": "17:00",
+            "date": "2026-08-27"
+        },
+        {
+            "channel": "- - -",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Salzburg   vs   Mj\u00e4llby AIF"
+        },
+        {
+            "compet": "UEFA Europa League - Play-Off (2nd Leg) [0-0]",
+            "match": "     Lillestr\u00f8m   vs   Egnatia",
+            "flags": {
+                "team1": "norway",
+                "team2": "albania"
+            },
+            "time": "17:00",
+            "date": "2026-08-27"
+        },
+        {
+            "channel": "- - -",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Lillestr\u00f8m   vs   Egnatia"
+        },
+        {
+            "compet": "UEFA Europa League - Play-Off (2nd Leg) [0-3]",
             "match": "     Kauno Zalgiris   vs   Besiktas",
             "flags": {
                 "team1": "lithuania",
@@ -615,7 +703,7 @@
             "related_to": "     Kauno Zalgiris   vs   Besiktas"
         },
         {
-            "compet": "UEFA Europa League - Play-Off (2nd Leg)",
+            "compet": "UEFA Europa League - Play-Off (2nd Leg) [0-3]",
             "match": "     CSKA Sofia   vs   OFI Crete",
             "flags": {
                 "team1": "bulgaria",
@@ -631,6 +719,24 @@
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     CSKA Sofia   vs   OFI Crete"
+        },
+        {
+            "compet": "UEFA Europa League - Play-Off (2nd Leg) [0-7]",
+            "match": "     Thun   vs   Lech Poznan",
+            "flags": {
+                "team1": "switzerland",
+                "team2": "poland"
+            },
+            "time": "18:00",
+            "date": "2026-08-27"
+        },
+        {
+            "channel": "- - -",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Thun   vs   Lech Poznan"
         },
         {
             "compet": "UEFA Europa League - Play-Off (2nd Leg)",
@@ -651,7 +757,7 @@
             "related_to": "     AGF Aarhus   vs   Benfica"
         },
         {
-            "compet": "UEFA Europa League - Play-Off (2nd Leg)",
+            "compet": "UEFA Europa League - Play-Off (2nd Leg) [1-0]",
             "match": "     Ferencv\u00e1ros   vs   Trabzonspor",
             "flags": {
                 "team1": "hungary",
@@ -677,7 +783,7 @@
             "related_to": "     Ferencv\u00e1ros   vs   Trabzonspor"
         },
         {
-            "compet": "UEFA Europa League - Play-Off (2nd Leg)",
+            "compet": "UEFA Europa League - Play-Off (2nd Leg) [3-0]",
             "match": "     Anderlecht   vs   Kairat Almaty",
             "flags": {
                 "team1": "belgium",

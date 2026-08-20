@@ -251,8 +251,8 @@
             "related_to": "     Al Fayha   vs   Al Hilal"
         },
         {
-            "channel": "Strike TV",
-            "sat": "Thor 6 0.8\u00b0w",
+            "channel": "Strike TV Czechia",
+            "sat": "Thor 7 0.6\u00b0w",
             "freq": "12245 H 30000 - 3/4",
             "encry": "MPEG-4 Nagra",
             "link": "#",
@@ -299,6 +299,14 @@
             },
             "time": "16:00",
             "date": "2026-08-21"
+        },
+        {
+            "channel": "Azam Sports 3 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Al Riyadh   vs   Al Nassr"
         },
         {
             "channel": "DAZN 2 Bar Deutsch HD",
@@ -349,6 +357,22 @@
             "related_to": "     Al Riyadh   vs   Al Nassr"
         },
         {
+            "channel": "Fox Deportes USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Riyadh   vs   Al Nassr"
+        },
+        {
+            "channel": "Fox Soccer Plus USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Riyadh   vs   Al Nassr"
+        },
+        {
             "channel": "M+ Liga de Campeones HD",
             "sat": "Astra 1KR 19.2\u00b0e",
             "freq": "11259 V 22000 - 2/3",
@@ -373,6 +397,14 @@
             "related_to": "     Al Riyadh   vs   Al Nassr"
         },
         {
+            "channel": "Okko Prime Sport HD ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Riyadh   vs   Al Nassr"
+        },
+        {
             "channel": "Prima Sport RO 2 HD",
             "sat": "Hellas Sat 3 39.0\u00b0e",
             "freq": "12565 V 30000 - 7/8",
@@ -384,6 +416,14 @@
             "channel": "S Sport+ Streaming",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Riyadh   vs   Al Nassr"
+        },
+        {
+            "channel": "Setanta Sports 2 Baltic",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
             "encry": "",
             "link": "#",
             "related_to": "     Al Riyadh   vs   Al Nassr"
@@ -437,10 +477,26 @@
             "related_to": "     Al Riyadh   vs   Al Nassr"
         },
         {
+            "channel": "SPOTV Malaysia 2 HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "11102 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Riyadh   vs   Al Nassr"
+        },
+        {
             "channel": "Sp\u00edler 1 TV Hungary HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "11766 V 28000 - 7/8",
             "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Al Riyadh   vs   Al Nassr"
+        },
+        {
+            "channel": "Strike TV Czechia",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12245 H 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
             "link": "#",
             "related_to": "     Al Riyadh   vs   Al Nassr"
         },
@@ -513,6 +569,14 @@
             "date": "2026-08-21"
         },
         {
+            "channel": "Azam Sports 3 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Al Qadisiyah   vs   Al Ittihad"
+        },
+        {
             "channel": "DAZN Canada ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -525,6 +589,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Al Qadisiyah   vs   Al Ittihad"
+        },
+        {
+            "channel": "DAZN France ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Al Qadisiyah   vs   Al Ittihad"
         },
@@ -553,6 +625,22 @@
             "related_to": "     Al Qadisiyah   vs   Al Ittihad"
         },
         {
+            "channel": "Fox Deportes USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Qadisiyah   vs   Al Ittihad"
+        },
+        {
+            "channel": "Fox Soccer Plus USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Qadisiyah   vs   Al Ittihad"
+        },
+        {
             "channel": "HT Spor T\u00fcrkiye HD",
             "sat": "Turksat 4A 42.0\u00b0e",
             "freq": "11837 V 30000 - 2/3",
@@ -565,6 +653,14 @@
             "sat": "Astra 1P 19.2\u00b0e",
             "freq": "11318 V 22000 - 5/6",
             "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Al Qadisiyah   vs   Al Ittihad"
+        },
+        {
+            "channel": "Okko Futbol HD ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Al Qadisiyah   vs   Al Ittihad"
         },
@@ -589,6 +685,22 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Al Qadisiyah   vs   Al Ittihad"
+        },
+        {
+            "channel": "SporTV Brazil HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Al Qadisiyah   vs   Al Ittihad"
+        },
+        {
+            "channel": "SPOTV Malaysia 2 HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "11102 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Al Qadisiyah   vs   Al Ittihad"
         },
@@ -633,6 +745,14 @@
             },
             "time": "18:00",
             "date": "2026-08-21"
+        },
+        {
+            "channel": "Band Sports Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "11680 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Faisaly   vs   NEOM SC"
         },
         {
             "channel": "Thmanyah KSA [app]",
@@ -1089,6 +1209,14 @@
             },
             "time": "16:10",
             "date": "2026-08-25"
+        },
+        {
+            "channel": "MAX Sport 3 Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12600 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Taawoun   vs   Al Fayha"
         },
         {
             "channel": "Thmanyah KSA [app]",
