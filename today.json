@@ -1105,6 +1105,32 @@
             "related_to": "     Benfica U-23   vs   Rio Ave U-23"
         },
         {
+            "compet": "UEFA Conference League - Play-Off (1st Leg)",
+            "match": "     Lincoln Red Imps   vs   Larne",
+            "flags": {
+                "team1": "gibraltar",
+                "team2": "nireland"
+            },
+            "time": "16:00",
+            "date": "2026-08-20"
+        },
+        {
+            "channel": "Gibraltar FA TV",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Lincoln Red Imps   vs   Larne"
+        },
+        {
+            "channel": "NIFL TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://nifltv.co.uk/en",
+            "related_to": "     Lincoln Red Imps   vs   Larne"
+        },
+        {
             "compet": "UEFA Europa League - Play-Off (1st Leg)",
             "match": "     Mj\u00e4llby AIF   vs   Salzburg",
             "flags": {
@@ -1153,24 +1179,6 @@
             "encry": "",
             "link": "https://www.sportbladetplay.se/schedule",
             "related_to": "     Mj\u00e4llby AIF   vs   Salzburg"
-        },
-        {
-            "compet": "UEFA Conference League - Play-Off (1st Leg)",
-            "match": "     Lincoln Red Imps   vs   Larne",
-            "flags": {
-                "team1": "gibraltar",
-                "team2": "nireland"
-            },
-            "time": "16:00",
-            "date": "2026-08-20"
-        },
-        {
-            "channel": "NIFL TV ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://nifltv.co.uk/en",
-            "related_to": "     Lincoln Red Imps   vs   Larne"
         },
         {
             "compet": "UEFA Europa League - Play-Off (1st Leg)",
@@ -1789,14 +1797,6 @@
             "related_to": "     PAOK Thessaloniki   vs   Brann"
         },
         {
-            "channel": "Arena Sport 5 BiH HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     PAOK Thessaloniki   vs   Brann"
-        },
-        {
             "channel": "Arena Sport 6 Srbija HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11817 V 30000 - 3/4",
@@ -1967,6 +1967,14 @@
             "related_to": "     Al Fayha   vs   Al Hilal"
         },
         {
+            "channel": "Prima Sport RO 5 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Fayha   vs   Al Hilal"
+        },
+        {
             "channel": "S Sport+ Streaming",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2083,6 +2091,14 @@
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "10970 V 30000 - 5/6",
             "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Al Fayha   vs   Al Hilal"
+        },
+        {
+            "channel": "Thmanyah 1 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Al Fayha   vs   Al Hilal"
         },
@@ -2702,64 +2718,6 @@
         },
         {
             "compet": "UEFA Conference League - Play-Off (1st Leg)",
-            "match": "     Hearts   vs   Rapid Vienna",
-            "flags": {
-                "team1": "scotland",
-                "team2": "austria"
-            },
-            "time": "18:45",
-            "date": "2026-08-20"
-        },
-        {
-            "channel": "Arena Sport 3 Srbija HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11798 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Hearts   vs   Rapid Vienna"
-        },
-        {
-            "channel": "Arena Sport 7 BiH HD",
-            "sat": " 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Hearts   vs   Rapid Vienna"
-        },
-        {
-            "channel": "Hearts TV ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "https://heartstv.heartsfc.co.uk/",
-            "related_to": "     Hearts   vs   Rapid Vienna"
-        },
-        {
-            "channel": "Kanal 1 Xtra Slovakia HD",
-            "sat": "Belintersat 1 51.5\u00b0e",
-            "freq": "11230 H 45000 - 8/9",
-            "encry": "HD Panaccess",
-            "link": "#",
-            "related_to": "     Hearts   vs   Rapid Vienna"
-        },
-        {
-            "channel": "ORF 1 Austria HD",
-            "sat": "Astra 1P 19.2\u00b0e",
-            "freq": "11303 H 22000 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "https://on.orf.at/live?channel=orf1",
-            "related_to": "     Hearts   vs   Rapid Vienna"
-        },
-        {
-            "channel": "ORF On ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://on.orf.at/livestream/",
-            "related_to": "     Hearts   vs   Rapid Vienna"
-        },
-        {
-            "compet": "UEFA Conference League - Play-Off (1st Leg)",
             "match": "     Rangers   vs   Jablonec",
             "flags": {
                 "team1": "scotland",
@@ -2799,6 +2757,64 @@
             "encry": "",
             "link": "https://tipsporttv.livebox.cz/",
             "related_to": "     Rangers   vs   Jablonec"
+        },
+        {
+            "compet": "UEFA Conference League - Play-Off (1st Leg)",
+            "match": "     Hearts   vs   Rapid Vienna",
+            "flags": {
+                "team1": "scotland",
+                "team2": "austria"
+            },
+            "time": "18:45",
+            "date": "2026-08-20"
+        },
+        {
+            "channel": "Arena Sport 3 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11798 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Hearts   vs   Rapid Vienna"
+        },
+        {
+            "channel": "Arena Sport 5 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Hearts   vs   Rapid Vienna"
+        },
+        {
+            "channel": "Hearts TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://heartstv.heartsfc.co.uk/",
+            "related_to": "     Hearts   vs   Rapid Vienna"
+        },
+        {
+            "channel": "Kanal 1 Xtra Slovakia HD",
+            "sat": "Belintersat 1 51.5\u00b0e",
+            "freq": "11230 H 45000 - 8/9",
+            "encry": "HD Panaccess",
+            "link": "#",
+            "related_to": "     Hearts   vs   Rapid Vienna"
+        },
+        {
+            "channel": "ORF 1 Austria HD",
+            "sat": "Astra 1P 19.2\u00b0e",
+            "freq": "11303 H 22000 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://on.orf.at/live?channel=orf1",
+            "related_to": "     Hearts   vs   Rapid Vienna"
+        },
+        {
+            "channel": "ORF On ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://on.orf.at/livestream/",
+            "related_to": "     Hearts   vs   Rapid Vienna"
         },
         {
             "compet": "French Ligue 3 - Week 3",
@@ -3048,14 +3064,6 @@
             "channel": "Arena Sport 1 Srbija HD",
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12460 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Rayo Vallecano   vs   Alav\u00e9s"
-        },
-        {
-            "channel": "Arena Sport 4 Srbija HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11798 H 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Rayo Vallecano   vs   Alav\u00e9s"
@@ -3507,14 +3515,6 @@
             "sat": "Thor 5 0.8\u00b0w",
             "freq": "12265 V 28000 - 7/8",
             "encry": "Conax",
-            "link": "#",
-            "related_to": "     Sheffield Wednesday   vs   Bradford City"
-        },
-        {
-            "channel": "Arena Premium 4 BiH HD",
-            "sat": " 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
             "link": "#",
             "related_to": "     Sheffield Wednesday   vs   Bradford City"
         },

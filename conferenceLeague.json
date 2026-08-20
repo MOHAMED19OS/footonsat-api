@@ -11,6 +11,14 @@
             "date": "2026-08-20"
         },
         {
+            "channel": "Gibraltar FA TV",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Lincoln Red Imps   vs   Larne"
+        },
+        {
             "channel": "NIFL TV ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -211,14 +219,6 @@
             "sat": "Dror 1 4.0\u00b0w",
             "freq": "11259 V 30000 - 2/3",
             "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     PAOK Thessaloniki   vs   Brann"
-        },
-        {
-            "channel": "Arena Sport 5 BiH HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     PAOK Thessaloniki   vs   Brann"
         },
@@ -717,10 +717,10 @@
             "related_to": "     Hearts   vs   Rapid Vienna"
         },
         {
-            "channel": "Arena Sport 7 BiH HD",
-            "sat": " 0.0\u00b0",
+            "channel": "Arena Sport 5 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
             "freq": "0000 0",
-            "encry": "",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Hearts   vs   Rapid Vienna"
         },
@@ -1130,6 +1130,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://tv.kyivstar.ua/en/live-channels/68fb653f4eb468b99832891a-ks-tv-football-2",
+            "related_to": "     Ajax   vs   Sion"
+        },
+        {
+            "channel": "Ziggo Sport 1 HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "HD Mediaguard",
+            "link": "#",
             "related_to": "     Ajax   vs   Sion"
         },
         {

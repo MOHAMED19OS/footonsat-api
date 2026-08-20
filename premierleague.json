@@ -1,6 +1,40 @@
 {
     "footonsat": [
         {
+            "compet": "English PL 2 - Regular Season",
+            "match": "     Everton U-21   vs   Liverpool U-21",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "18:00",
+            "date": "2026-08-21"
+        },
+        {
+            "channel": "All Red Video ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://video.liverpoolfc.com/",
+            "related_to": "     Everton U-21   vs   Liverpool U-21"
+        },
+        {
+            "channel": "Everton On TV [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.evertonfc.com/live",
+            "related_to": "     Everton U-21   vs   Liverpool U-21"
+        },
+        {
+            "channel": "LFC TV HD",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12188 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Everton U-21   vs   Liverpool U-21"
+        },
+        {
             "compet": "English Premier League - Week 1",
             "match": "     Arsenal   vs   Coventry City",
             "flags": {
@@ -3395,14 +3429,6 @@
             "related_to": "     Newcastle United   vs   Liverpool"
         },
         {
-            "channel": "Arena Premium 1 BiH HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Newcastle United   vs   Liverpool"
-        },
-        {
             "channel": "Arena Premium 2 Srbija HD",
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12402 V 30000 - 3/4",
@@ -3423,6 +3449,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Newcastle United   vs   Liverpool"
+        },
+        {
+            "channel": "Arena Sport 4 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11895 V 30000 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Newcastle United   vs   Liverpool"
         },
@@ -3858,6 +3892,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://astrogo.astro.com.my/hubSports",
+            "related_to": "     Fulham   vs   Chelsea"
+        },
+        {
+            "channel": "Astro Premier League HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10772 V 30000 - 5/6",
+            "encry": "HD Mediaguard",
+            "link": "#",
             "related_to": "     Fulham   vs   Chelsea"
         },
         {
