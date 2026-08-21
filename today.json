@@ -289,24 +289,6 @@
             "related_to": "     FC Tokyo   vs   JEF United Chiba"
         },
         {
-            "compet": "Armenian Premier League - Week 4",
-            "match": "     Alashkert   vs   Gandzasar",
-            "flags": {
-                "team1": "armenia",
-                "team2": "armenia"
-            },
-            "time": "12:00",
-            "date": "2026-08-21"
-        },
-        {
-            "channel": "YouTube: Armenian PL",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 -",
-            "encry": "",
-            "link": "https://www.youtube.com/@Armenian_PL/streams",
-            "related_to": "     Alashkert   vs   Gandzasar"
-        },
-        {
             "compet": "Malaysian Super League - Week 1",
             "match": "     Johor Darul Ta'zim   vs   Kuching City",
             "flags": {
@@ -323,6 +305,42 @@
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Johor Darul Ta'zim   vs   Kuching City"
+        },
+        {
+            "compet": "Egyptian Division 2A - Week 1",
+            "match": "     Ismaily   vs   Masar",
+            "flags": {
+                "team1": "egypt",
+                "team2": "egypt"
+            },
+            "time": "13:30",
+            "date": "2026-08-21"
+        },
+        {
+            "channel": "ON Sport Max HD",
+            "sat": "Nilesat 201 7.0\u00b0w",
+            "freq": "11977 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Ismaily   vs   Masar"
+        },
+        {
+            "compet": "Egyptian Premier League - Week 1",
+            "match": "     Wadi Degla   vs   ZED FC",
+            "flags": {
+                "team1": "egypt",
+                "team2": "egypt"
+            },
+            "time": "14:00",
+            "date": "2026-08-21"
+        },
+        {
+            "channel": "ON Sport HD",
+            "sat": "Nilesat 201 7.0\u00b0w",
+            "freq": "12015 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Wadi Degla   vs   ZED FC"
         },
         {
             "compet": "Serbian Superliga \u017dene - Week 1",
@@ -385,6 +403,24 @@
             "encry": "VideoGuard",
             "link": "#",
             "related_to": "     Chindia T\u00e2rgoviste   vs   Dinamo Bucharest"
+        },
+        {
+            "compet": "Kosovo Superliga - Week 2",
+            "match": "     Malisheva   vs   Drenica",
+            "flags": {
+                "team1": "kosova",
+                "team2": "kosova"
+            },
+            "time": "14:30",
+            "date": "2026-08-21"
+        },
+        {
+            "channel": "ART Motion Sport 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "     Malisheva   vs   Drenica"
         },
         {
             "compet": "Armenian Premier League - Week 4",
@@ -759,6 +795,14 @@
             "related_to": "     Al Riyadh   vs   Al Nassr"
         },
         {
+            "channel": "Sportitalia HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12341 V 31400 - 5/6",
+            "encry": "FTA",
+            "link": "https://sportitalialive.it/sihd/",
+            "related_to": "     Al Riyadh   vs   Al Nassr"
+        },
+        {
             "channel": "SportKlub 1 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11471 H 30000 - 3/4",
@@ -771,6 +815,14 @@
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11231 V 42000 - 5/6",
             "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Al Riyadh   vs   Al Nassr"
+        },
+        {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Al Riyadh   vs   Al Nassr"
         },
@@ -1619,6 +1671,60 @@
             "related_to": "     Wacker Innsbruck   vs   St P\u00f6lten"
         },
         {
+            "compet": "Egyptian Premier League - Week 1",
+            "match": "     Abu Qir Semad   vs   National Bank",
+            "flags": {
+                "team1": "egypt",
+                "team2": "egypt"
+            },
+            "time": "17:00",
+            "date": "2026-08-21"
+        },
+        {
+            "channel": "ON Sport Max HD",
+            "sat": "Nilesat 201 7.0\u00b0w",
+            "freq": "11977 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Abu Qir Semad   vs   National Bank"
+        },
+        {
+            "compet": "Egyptian Premier League - Week 1",
+            "match": "     Zamalek   vs   Al Ittihad",
+            "flags": {
+                "team1": "egypt",
+                "team2": "egypt"
+            },
+            "time": "17:00",
+            "date": "2026-08-21"
+        },
+        {
+            "channel": "ON Sport HD",
+            "sat": "Nilesat 201 7.0\u00b0w",
+            "freq": "12015 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Zamalek   vs   Al Ittihad"
+        },
+        {
+            "compet": "Armenian Premier League - Week 4",
+            "match": "     Alashkert   vs   Gandzasar",
+            "flags": {
+                "team1": "armenia",
+                "team2": "armenia"
+            },
+            "time": "17:00",
+            "date": "2026-08-21"
+        },
+        {
+            "channel": "YouTube: Armenian PL",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 -",
+            "encry": "",
+            "link": "https://www.youtube.com/@Armenian_PL/streams",
+            "related_to": "     Alashkert   vs   Gandzasar"
+        },
+        {
             "compet": "North Macedonian First League - Week 4",
             "match": "     Bregalnica Stip   vs   Bashkimi",
             "flags": {
@@ -2085,6 +2191,14 @@
             "related_to": "     Al Qadisiyah   vs   Al Ittihad"
         },
         {
+            "channel": "Sportitalia HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12341 V 31400 - 5/6",
+            "encry": "FTA",
+            "link": "https://sportitalialive.it/sihd/",
+            "related_to": "     Al Qadisiyah   vs   Al Ittihad"
+        },
+        {
             "channel": "SportKlub 9 Hrvatska",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -2097,6 +2211,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Al Qadisiyah   vs   Al Ittihad"
+        },
+        {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Al Qadisiyah   vs   Al Ittihad"
         },
@@ -2289,24 +2411,6 @@
             "related_to": "     FK Sarajevo   vs   BSK Banja Luka"
         },
         {
-            "compet": "Montenegrin First League - Week 4",
-            "match": "     Mornar   vs   Buducnost",
-            "flags": {
-                "team1": "montenegro",
-                "team2": "montenegro"
-            },
-            "time": "18:00",
-            "date": "2026-08-21"
-        },
-        {
-            "channel": "Arena Sport 4 Srbija HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11798 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Mornar   vs   Buducnost"
-        },
-        {
             "compet": "French Ligue 2 - Week 3",
             "match": "     Dunkerque   vs   Montpellier",
             "flags": {
@@ -2333,78 +2437,6 @@
             "related_to": "     Dunkerque   vs   Montpellier"
         },
         {
-            "compet": "French Ligue 2 - Week 3",
-            "match": "     Boulogne   vs   Red Star FC",
-            "flags": {
-                "team1": "france",
-                "team2": "france"
-            },
-            "time": "18:00",
-            "date": "2026-08-21"
-        },
-        {
-            "channel": "beIN Sports France 4 HD max",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11856 V 29700 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Boulogne   vs   Red Star FC"
-        },
-        {
-            "compet": "French Ligue 2 - Week 3",
-            "match": "     Clermont Foot   vs   Dijon",
-            "flags": {
-                "team1": "france",
-                "team2": "france"
-            },
-            "time": "18:00",
-            "date": "2026-08-21"
-        },
-        {
-            "channel": "beIN Sports France 5 HD max",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11856 V 29700 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Clermont Foot   vs   Dijon"
-        },
-        {
-            "compet": "French Ligue 2 - Week 3",
-            "match": "     Pau   vs   Nancy",
-            "flags": {
-                "team1": "france",
-                "team2": "france"
-            },
-            "time": "18:00",
-            "date": "2026-08-21"
-        },
-        {
-            "channel": "beIN Sports France 7 HD max",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11895 V 29700 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Pau   vs   Nancy"
-        },
-        {
-            "compet": "French Ligue 2 - Week 3",
-            "match": "     Sochaux   vs   Guingamp",
-            "flags": {
-                "team1": "france",
-                "team2": "france"
-            },
-            "time": "18:00",
-            "date": "2026-08-21"
-        },
-        {
-            "channel": "beIN Sports France 8 HD max",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11895 V 29700 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Sochaux   vs   Guingamp"
-        },
-        {
             "compet": "Belgian Challenger Pro League - Week 2",
             "match": "     Anderlecht U-23   vs   Excelsior Virton",
             "flags": {
@@ -2429,6 +2461,24 @@
             "encry": "",
             "link": "#",
             "related_to": "     Anderlecht U-23   vs   Excelsior Virton"
+        },
+        {
+            "compet": "Montenegrin First League - Week 4",
+            "match": "     Mornar   vs   Buducnost",
+            "flags": {
+                "team1": "montenegro",
+                "team2": "montenegro"
+            },
+            "time": "18:00",
+            "date": "2026-08-21"
+        },
+        {
+            "channel": "Arena Sport 4 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11798 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Mornar   vs   Buducnost"
         },
         {
             "compet": "Dutch Eerste Divisie - Week 3",
@@ -2557,6 +2607,78 @@
             "related_to": "     Sporting Lokeren   vs   Eupen"
         },
         {
+            "compet": "French Ligue 2 - Week 3",
+            "match": "     Boulogne   vs   Red Star FC",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "18:00",
+            "date": "2026-08-21"
+        },
+        {
+            "channel": "beIN Sports France 4 HD max",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Boulogne   vs   Red Star FC"
+        },
+        {
+            "compet": "French Ligue 2 - Week 3",
+            "match": "     Clermont Foot   vs   Dijon",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "18:00",
+            "date": "2026-08-21"
+        },
+        {
+            "channel": "beIN Sports France 5 HD max",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Clermont Foot   vs   Dijon"
+        },
+        {
+            "compet": "French Ligue 2 - Week 3",
+            "match": "     Pau   vs   Nancy",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "18:00",
+            "date": "2026-08-21"
+        },
+        {
+            "channel": "beIN Sports France 7 HD max",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11895 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Pau   vs   Nancy"
+        },
+        {
+            "compet": "French Ligue 2 - Week 3",
+            "match": "     Sochaux   vs   Guingamp",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "18:00",
+            "date": "2026-08-21"
+        },
+        {
+            "channel": "beIN Sports France 8 HD max",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11895 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Sochaux   vs   Guingamp"
+        },
+        {
             "compet": "Bulgarian First League - Week 6",
             "match": "     Cherno More Varna   vs   Dunav Ruse",
             "flags": {
@@ -2661,6 +2783,14 @@
             "related_to": "     Erzurumspor   vs   Galatasaray"
         },
         {
+            "channel": "ART Motion Sport 2 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "     Erzurumspor   vs   Galatasaray"
+        },
+        {
             "channel": "beIN Connect T\u00fcrkiye",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2729,6 +2859,14 @@
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Erzurumspor   vs   Galatasaray"
+        },
+        {
+            "channel": "Sport+ Qazaqstan",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "10720 H 30000 - 3/4",
+            "encry": "MPEG-4 NDS",
             "link": "#",
             "related_to": "     Erzurumspor   vs   Galatasaray"
         },
@@ -3203,6 +3341,14 @@
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10850 H 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Marseille   vs   Strasbourg"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye 5 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11180 H 29750 - 5/6",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Marseille   vs   Strasbourg"
         },
@@ -4173,6 +4319,14 @@
             "related_to": "     Real Betis   vs   Real Sociedad"
         },
         {
+            "channel": "Futbol TV Tajikistan",
+            "sat": "ABS 2A 75.0\u00b0e",
+            "freq": "12252 H 10000 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Real Betis   vs   Real Sociedad"
+        },
+        {
             "channel": "Go3 Sport 1 Baltic HD",
             "sat": "Astra 4A 5.0\u00b0e",
             "freq": "11938 V 27500 - 5/6",
@@ -4711,6 +4865,14 @@
             "related_to": "     Arsenal   vs   Coventry City"
         },
         {
+            "channel": "GEM Sport HD",
+            "sat": "Al Yah 1 52.5\u00b0e",
+            "freq": "12034 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Arsenal   vs   Coventry City"
+        },
+        {
             "channel": "Hub Premier 1 HD ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -4727,10 +4889,26 @@
             "related_to": "     Arsenal   vs   Coventry City"
         },
         {
+            "channel": "IRIB Varzesh HD",
+            "sat": "Intelsat 39 62.0\u00b0e",
+            "freq": "11555 V 30000 - 2/3",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Arsenal   vs   Coventry City"
+        },
+        {
             "channel": "Match 4 Hungary HD",
             "sat": "Thor 7 0.6\u00b0w",
             "freq": "12130 H 28000 - 7/8",
             "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Arsenal   vs   Coventry City"
+        },
+        {
+            "channel": "Meraj TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11221 V 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Arsenal   vs   Coventry City"
         },
@@ -5023,6 +5201,14 @@
             "related_to": "     Arsenal   vs   Coventry City"
         },
         {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Arsenal   vs   Coventry City"
+        },
+        {
             "channel": "ViaPlay 2 Urheilu HD",
             "sat": "Thor 5 0.8\u00b0w",
             "freq": "11278 V 25000 - 3/4",
@@ -5101,6 +5287,32 @@
             "encry": "",
             "link": "https://voyo.protv.ro/sport",
             "related_to": "     Arsenal   vs   Coventry City"
+        },
+        {
+            "compet": "Albanian Superliga - Week 1",
+            "match": "     Vllaznia Shkod\u00ebr   vs   Sk\u00ebnderbeu",
+            "flags": {
+                "team1": "albania",
+                "team2": "albania"
+            },
+            "time": "19:00",
+            "date": "2026-08-21"
+        },
+        {
+            "channel": "RTSH 1 Albania",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Vllaznia Shkod\u00ebr   vs   Sk\u00ebnderbeu"
+        },
+        {
+            "channel": "RTSH Tani [app]",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Vllaznia Shkod\u00ebr   vs   Sk\u00ebnderbeu"
         },
         {
             "compet": "Italian Serie C Girone C - Girone C - 1",
