@@ -369,32 +369,6 @@
             "related_to": "     Fagiano Okayama   vs   Tokyo Verdy"
         },
         {
-            "compet": "Japanese J1 League - Week 3",
-            "match": "     Cerezo Osaka   vs   Shimizu S-Pulse",
-            "flags": {
-                "team1": "japan",
-                "team2": "japan"
-            },
-            "time": "10:00",
-            "date": "2026-08-22"
-        },
-        {
-            "channel": "DAZN Japan ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Cerezo Osaka   vs   Shimizu S-Pulse"
-        },
-        {
-            "channel": "Stan Sport Australia ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.stan.com.au/sport",
-            "related_to": "     Cerezo Osaka   vs   Shimizu S-Pulse"
-        },
-        {
             "compet": "German Frauen Bundesliga - Week 1",
             "match": "     Eintracht Frankfurt   vs   FC Cologne",
             "flags": {
@@ -429,11 +403,27 @@
             "related_to": "     Eintracht Frankfurt   vs   FC Cologne"
         },
         {
+            "channel": "DAZN Ireland ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "     Eintracht Frankfurt   vs   FC Cologne"
+        },
+        {
             "channel": "DAZN Portugal ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "#",
+            "related_to": "     Eintracht Frankfurt   vs   FC Cologne"
+        },
+        {
+            "channel": "DAZN Worldwide ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com",
             "related_to": "     Eintracht Frankfurt   vs   FC Cologne"
         },
         {
@@ -467,6 +457,32 @@
             "encry": "",
             "link": "#",
             "related_to": "     Eintracht Frankfurt   vs   FC Cologne"
+        },
+        {
+            "compet": "Japanese J1 League - Week 3",
+            "match": "     Cerezo Osaka   vs   Shimizu S-Pulse",
+            "flags": {
+                "team1": "japan",
+                "team2": "japan"
+            },
+            "time": "10:00",
+            "date": "2026-08-22"
+        },
+        {
+            "channel": "DAZN Japan ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Cerezo Osaka   vs   Shimizu S-Pulse"
+        },
+        {
+            "channel": "Stan Sport Australia ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.stan.com.au/sport",
+            "related_to": "     Cerezo Osaka   vs   Shimizu S-Pulse"
         },
         {
             "compet": "Portuguese Liga 3 - Week 3",
@@ -780,6 +796,176 @@
         },
         {
             "compet": "German Cup (DFB-Pokal) - Round 1",
+            "match": "     Wehen Wiesbaden   vs   Bayer Leverkusen",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "11:00",
+            "date": "2026-08-22"
+        },
+        {
+            "channel": "Abu Dhabi Sports 1 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11804 H 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%201",
+            "related_to": "     Wehen Wiesbaden   vs   Bayer Leverkusen"
+        },
+        {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Wehen Wiesbaden   vs   Bayer Leverkusen"
+        },
+        {
+            "channel": "Arena Sport 4 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11895 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Wehen Wiesbaden   vs   Bayer Leverkusen"
+        },
+        {
+            "channel": "Astro Football HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10932 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Wehen Wiesbaden   vs   Bayer Leverkusen"
+        },
+        {
+            "channel": "beIN Sports France 3 HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Wehen Wiesbaden   vs   Bayer Leverkusen"
+        },
+        {
+            "channel": "DAZN 2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Wehen Wiesbaden   vs   Bayer Leverkusen"
+        },
+        {
+            "channel": "Diema Sport HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Wehen Wiesbaden   vs   Bayer Leverkusen"
+        },
+        {
+            "channel": "Eleven Sports 2 Polska HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11488 H 27500 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Wehen Wiesbaden   vs   Bayer Leverkusen"
+        },
+        {
+            "channel": "ESPN 4 Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "3980 L 21600 - 5/6",
+            "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     Wehen Wiesbaden   vs   Bayer Leverkusen"
+        },
+        {
+            "channel": "Megogo Futbol 1 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
+            "related_to": "     Wehen Wiesbaden   vs   Bayer Leverkusen"
+        },
+        {
+            "channel": "Megogo Sport Kazakhstan [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Wehen Wiesbaden   vs   Bayer Leverkusen"
+        },
+        {
+            "channel": "Nova Sport 1 Czech HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11876 H 29900 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Wehen Wiesbaden   vs   Bayer Leverkusen"
+        },
+        {
+            "channel": "Persiana Sports 2 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
+            "related_to": "     Wehen Wiesbaden   vs   Bayer Leverkusen"
+        },
+        {
+            "channel": "RTL+ Deutschland (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://plus.rtl.de/video-tv/live",
+            "related_to": "     Wehen Wiesbaden   vs   Bayer Leverkusen"
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Wehen Wiesbaden   vs   Bayer Leverkusen"
+        },
+        {
+            "channel": "Sky Sport MIX Deutsch HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11758 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Wehen Wiesbaden   vs   Bayer Leverkusen"
+        },
+        {
+            "channel": "Sport 2 Hungary HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "11766 V 28000 - 7/8",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Wehen Wiesbaden   vs   Bayer Leverkusen"
+        },
+        {
+            "channel": "Sport 3 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Wehen Wiesbaden   vs   Bayer Leverkusen"
+        },
+        {
+            "channel": "SuperSport ESPN HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Wehen Wiesbaden   vs   Bayer Leverkusen"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
+            "related_to": "     Wehen Wiesbaden   vs   Bayer Leverkusen"
+        },
+        {
+            "compet": "German Cup (DFB-Pokal) - Round 1",
             "match": "     Energie Cottbus   vs   Augsburg",
             "flags": {
                 "team1": "germany",
@@ -867,160 +1053,6 @@
             "encry": "",
             "link": "https://www.vgtv.no/live",
             "related_to": "     Energie Cottbus   vs   Augsburg"
-        },
-        {
-            "compet": "German Cup (DFB-Pokal) - Round 1",
-            "match": "     Wehen Wiesbaden   vs   Bayer Leverkusen",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "11:00",
-            "date": "2026-08-22"
-        },
-        {
-            "channel": "Abu Dhabi Sports 1 HD",
-            "sat": "Badr 8 26.0\u00b0e",
-            "freq": "11804 H 30000 - 3/4",
-            "encry": "FTA",
-            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%201",
-            "related_to": "     Wehen Wiesbaden   vs   Bayer Leverkusen"
-        },
-        {
-            "channel": "Arena Premium 2 Srbija HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "#",
-            "related_to": "     Wehen Wiesbaden   vs   Bayer Leverkusen"
-        },
-        {
-            "channel": "Arena Sport 4 BiH HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11895 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Wehen Wiesbaden   vs   Bayer Leverkusen"
-        },
-        {
-            "channel": "Astro Football HD",
-            "sat": "Measat 3b 91.5\u00b0e",
-            "freq": "10932 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Wehen Wiesbaden   vs   Bayer Leverkusen"
-        },
-        {
-            "channel": "beIN Sports France 3 HD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11856 V 29700 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Wehen Wiesbaden   vs   Bayer Leverkusen"
-        },
-        {
-            "channel": "DAZN 2 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Wehen Wiesbaden   vs   Bayer Leverkusen"
-        },
-        {
-            "channel": "Diema Sport HD",
-            "sat": "AzerSpace 2 45.0\u00b0e",
-            "freq": "12520 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Wehen Wiesbaden   vs   Bayer Leverkusen"
-        },
-        {
-            "channel": "Eleven Sports 2 Polska HD",
-            "sat": "Hotbird 13G 13.0\u00b0e",
-            "freq": "11488 H 27500 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Wehen Wiesbaden   vs   Bayer Leverkusen"
-        },
-        {
-            "channel": "Megogo Futbol 1 ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
-            "related_to": "     Wehen Wiesbaden   vs   Bayer Leverkusen"
-        },
-        {
-            "channel": "Megogo Sport Kazakhstan [$]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Wehen Wiesbaden   vs   Bayer Leverkusen"
-        },
-        {
-            "channel": "Nova Sport 1 Czech HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11876 H 29900 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Wehen Wiesbaden   vs   Bayer Leverkusen"
-        },
-        {
-            "channel": "RTL+ Deutschland (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://plus.rtl.de/video-tv/live",
-            "related_to": "     Wehen Wiesbaden   vs   Bayer Leverkusen"
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Wehen Wiesbaden   vs   Bayer Leverkusen"
-        },
-        {
-            "channel": "Sky Sport MIX Deutsch HD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11758 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Wehen Wiesbaden   vs   Bayer Leverkusen"
-        },
-        {
-            "channel": "Sport 2 Hungary HD",
-            "sat": "Thor 6 0.8\u00b0w",
-            "freq": "11766 V 28000 - 7/8",
-            "encry": "NagraVision",
-            "link": "#",
-            "related_to": "     Wehen Wiesbaden   vs   Bayer Leverkusen"
-        },
-        {
-            "channel": "Sport 3 Israel HD",
-            "sat": "Dror 1 4.0\u00b0w",
-            "freq": "11259 V 30000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Wehen Wiesbaden   vs   Bayer Leverkusen"
-        },
-        {
-            "channel": "SuperSport ESPN HD",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "10970 V 30000 - 5/6",
-            "encry": "Irdeto",
-            "link": "#",
-            "related_to": "     Wehen Wiesbaden   vs   Bayer Leverkusen"
-        },
-        {
-            "channel": "VG+ Sport Norge ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.vgtv.no/live",
-            "related_to": "     Wehen Wiesbaden   vs   Bayer Leverkusen"
         },
         {
             "compet": "Danish A-Liga Women - Week 4",
@@ -1325,6 +1357,14 @@
             "related_to": "     Hull City   vs   Manchester United"
         },
         {
+            "channel": "ESPN 1 Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "3980 L 21600 - 3/4",
+            "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     Hull City   vs   Manchester United"
+        },
+        {
             "channel": "Fast Sports TV Armenia",
             "sat": "Eutelsat 70B 70.5\u00b0e",
             "freq": "11050 H 20030 - 1/2",
@@ -1360,6 +1400,22 @@
             "channel": "Idman TV HD",
             "sat": "AzerSpace 1 46.0\u00b0e",
             "freq": "11175 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Hull City   vs   Manchester United"
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Intelsat 39 62.0\u00b0e",
+            "freq": "11555 V 30000 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Hull City   vs   Manchester United"
+        },
+        {
+            "channel": "Meraj TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11221 V 27500 - 2/3",
             "encry": "FTA",
             "link": "#",
             "related_to": "     Hull City   vs   Manchester United"
@@ -1405,6 +1461,14 @@
             "related_to": "     Hull City   vs   Manchester United"
         },
         {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Hull City   vs   Manchester United"
+        },
+        {
             "channel": "Play Sports 1 Belgium",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1441,6 +1505,14 @@
             "sat": "KazSat 3 58.5\u00b0e",
             "freq": "12657 V 45000 - 3/4",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Hull City   vs   Manchester United"
+        },
+        {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Hull City   vs   Manchester United"
         },
@@ -1811,6 +1883,14 @@
             "sat": "Dror 1 4.0\u00b0w",
             "freq": "12259 V 30000 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Lincoln City   vs   Portsmouth"
+        },
+        {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Lincoln City   vs   Portsmouth"
         },
@@ -4147,6 +4227,14 @@
             "related_to": "     Everton   vs   Crystal Palace"
         },
         {
+            "channel": "Persiana Sports 3 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Everton   vs   Crystal Palace"
+        },
+        {
             "channel": "Premier Sports 2 Mongolia HD",
             "sat": "Telstar 18 138.0\u00b0e",
             "freq": "12598 H 45000 - 5/6",
@@ -4159,6 +4247,14 @@
             "sat": "KazSat 3 58.5\u00b0e",
             "freq": "12657 V 45000 - 3/4",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Everton   vs   Crystal Palace"
+        },
+        {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Everton   vs   Crystal Palace"
         },
@@ -4481,6 +4577,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Ipswich Town   vs   Sunderland"
+        },
+        {
+            "channel": "ESPN 2 Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "3980 L 21600 - 3/4",
+            "encry": "HD PowerVu",
             "link": "#",
             "related_to": "     Ipswich Town   vs   Sunderland"
         },
@@ -4871,6 +4975,14 @@
             "related_to": "     Nottingham Forest   vs   Leeds United"
         },
         {
+            "channel": "ESPN 1 Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "3980 L 21600 - 3/4",
+            "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     Nottingham Forest   vs   Leeds United"
+        },
+        {
             "channel": "Fast Sports 2 Armenia ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -4951,6 +5063,14 @@
             "related_to": "     Nottingham Forest   vs   Leeds United"
         },
         {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Nottingham Forest   vs   Leeds United"
+        },
+        {
             "channel": "Play Sports 2 Belgium",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -4971,6 +5091,14 @@
             "sat": "Telstar 18 138.0\u00b0e",
             "freq": "12598 H 45000 - 5/6",
             "encry": "MPEG-4 Verimatrix",
+            "link": "#",
+            "related_to": "     Nottingham Forest   vs   Leeds United"
+        },
+        {
+            "channel": "Setanta Sports 2 Georgia HD",
+            "sat": " \u00b0",
+            "freq": " ",
+            "encry": "",
             "link": "#",
             "related_to": "     Nottingham Forest   vs   Leeds United"
         },
@@ -5055,10 +5183,26 @@
             "related_to": "     Nottingham Forest   vs   Leeds United"
         },
         {
+            "channel": "TV Miramar Mozambique",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "12245 H 27500 3/4",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Nottingham Forest   vs   Leeds United"
+        },
+        {
             "channel": "TV3 Sport Dansk HD",
             "sat": "Thor 6 5.0\u00b0e",
             "freq": "11345 V 30000 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Nottingham Forest   vs   Leeds United"
+        },
+        {
+            "channel": "UTV Tanzania",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Nottingham Forest   vs   Leeds United"
         },
@@ -5209,6 +5353,14 @@
             "related_to": "     West Ham United   vs   Charlton Athletic"
         },
         {
+            "channel": "ESPN 4 Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "3980 L 21600 - 5/6",
+            "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     West Ham United   vs   Charlton Athletic"
+        },
+        {
             "channel": "Nova Sport 3 Czech HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11934 V 27500 - 3/4",
@@ -5244,6 +5396,14 @@
             "channel": "Sport TV2 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     West Ham United   vs   Charlton Athletic"
+        },
+        {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12605 V 30000 - 5/6",
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     West Ham United   vs   Charlton Athletic"
@@ -5354,6 +5514,118 @@
         },
         {
             "compet": "Scottish Championship - Week 3",
+            "match": "     Greenock Morton   vs   Arbroath",
+            "flags": {
+                "team1": "scotland",
+                "team2": "scotland"
+            },
+            "time": "14:00",
+            "date": "2026-08-22"
+        },
+        {
+            "channel": "Greenock Morton TV [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.gmfc.net/sponsors/",
+            "related_to": "     Greenock Morton   vs   Arbroath"
+        },
+        {
+            "compet": "Albanian Superliga - Week 1",
+            "match": "     La\u00e7i   vs   Elbasani",
+            "flags": {
+                "team1": "albania",
+                "team2": "albania"
+            },
+            "time": "14:00",
+            "date": "2026-08-22"
+        },
+        {
+            "channel": "FIFA+ [app] (geo/R)",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     La\u00e7i   vs   Elbasani"
+        },
+        {
+            "channel": "FIFA+ on DAZN (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.joyn.de/play/live-tv?channel_id=1373",
+            "related_to": "     La\u00e7i   vs   Elbasani"
+        },
+        {
+            "channel": "RTSH Sport Albania",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10930 H 30000 - 5/6",
+            "encry": "MPEG-4 Conax",
+            "link": "https://tv.rtsh.al/kanalet/rtsh-sport",
+            "related_to": "     La\u00e7i   vs   Elbasani"
+        },
+        {
+            "channel": "RTSH Tani [app]",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     La\u00e7i   vs   Elbasani"
+        },
+        {
+            "compet": "Albanian Superliga - Week 1",
+            "match": "     Partizan Tirana   vs   Teuta",
+            "flags": {
+                "team1": "albania",
+                "team2": "albania"
+            },
+            "time": "14:00",
+            "date": "2026-08-22"
+        },
+        {
+            "channel": "FIFA+ [app] (geo/R)",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Partizan Tirana   vs   Teuta"
+        },
+        {
+            "channel": "FIFA+ on DAZN (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.joyn.de/play/live-tv?channel_id=1373",
+            "related_to": "     Partizan Tirana   vs   Teuta"
+        },
+        {
+            "channel": "RTSH Tani [app]",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Partizan Tirana   vs   Teuta"
+        },
+        {
+            "compet": "Egyptian Premier League - Week 1",
+            "match": "     El Gaish   vs   Al Mokawloon",
+            "flags": {
+                "team1": "egypt",
+                "team2": "egypt"
+            },
+            "time": "14:00",
+            "date": "2026-08-22"
+        },
+        {
+            "channel": "ON Sport Max HD",
+            "sat": "Nilesat 201 7.0\u00b0w",
+            "freq": "11977 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     El Gaish   vs   Al Mokawloon"
+        },
+        {
+            "compet": "Scottish Championship - Week 3",
             "match": "     Livingston   vs   Dunfermline Athletic",
             "flags": {
                 "team1": "scotland",
@@ -5377,42 +5649,6 @@
             "encry": "",
             "link": "https://www.lfclive.co.uk/",
             "related_to": "     Livingston   vs   Dunfermline Athletic"
-        },
-        {
-            "compet": "Albanian Superliga - Week 1",
-            "match": "     La\u00e7i   vs   Elbasani",
-            "flags": {
-                "team1": "albania",
-                "team2": "albania"
-            },
-            "time": "14:00",
-            "date": "2026-08-22"
-        },
-        {
-            "channel": "RTSH Tani [app]",
-            "sat": "Download APP 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     La\u00e7i   vs   Elbasani"
-        },
-        {
-            "compet": "Albanian Superliga - Week 1",
-            "match": "     Partizan Tirana   vs   Teuta",
-            "flags": {
-                "team1": "albania",
-                "team2": "albania"
-            },
-            "time": "14:00",
-            "date": "2026-08-22"
-        },
-        {
-            "channel": "RTSH Tani [app]",
-            "sat": "Download APP 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Partizan Tirana   vs   Teuta"
         },
         {
             "compet": "Armenian Premier League - Week 4",
@@ -5449,6 +5685,24 @@
             "encry": "",
             "link": "https://www.clydefc.co.uk/club/clyde-tv/",
             "related_to": "     Clyde   vs   Forfar Athletic"
+        },
+        {
+            "compet": "Egyptian Premier League - Week 1",
+            "match": "     Asyut Petroleum   vs   Petrojet",
+            "flags": {
+                "team1": "egypt",
+                "team2": "egypt"
+            },
+            "time": "14:00",
+            "date": "2026-08-22"
+        },
+        {
+            "channel": "ON Sport HD",
+            "sat": "Nilesat 201 7.0\u00b0w",
+            "freq": "12015 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Asyut Petroleum   vs   Petrojet"
         },
         {
             "compet": "English Championship - Week 2",
@@ -7033,6 +7287,14 @@
             "related_to": "     Athletic Bilbao   vs   Sevilla"
         },
         {
+            "channel": "Sport TV 2 Azerbaijan (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Athletic Bilbao   vs   Sevilla"
+        },
+        {
             "channel": "SportKlub 4 Hrvatska",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -7849,30 +8111,126 @@
             "related_to": "     Umraniyespor   vs   Erokspor"
         },
         {
-            "compet": "Bulgarian First League - Week 6",
-            "match": "     Ludogorets   vs   Slavia Sofia",
+            "compet": "German Cup (DFB-Pokal) - Round 1",
+            "match": "     Eintracht Trier   vs   RB Leipzig",
             "flags": {
-                "team1": "bulgaria",
-                "team2": "bulgaria"
+                "team1": "germany",
+                "team2": "germany"
             },
             "time": "16:00",
             "date": "2026-08-22"
         },
         {
-            "channel": "Diema Sport HD",
-            "sat": "AzerSpace 2 45.0\u00b0e",
-            "freq": "12520 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Ludogorets   vs   Slavia Sofia"
+            "channel": "Abu Dhabi Sports 2 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11804 H 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%202",
+            "related_to": "     Eintracht Trier   vs   RB Leipzig"
         },
         {
-            "channel": "SportKlub 11 Hrvatska",
+            "channel": "beIN Sports France 2 HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Eintracht Trier   vs   RB Leipzig"
+        },
+        {
+            "channel": "DAZN 2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Eintracht Trier   vs   RB Leipzig"
+        },
+        {
+            "channel": "DAZN Portugal ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "#",
-            "related_to": "     Ludogorets   vs   Slavia Sofia"
+            "related_to": "     Eintracht Trier   vs   RB Leipzig"
+        },
+        {
+            "channel": "Diema Sport 3 HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Eintracht Trier   vs   RB Leipzig"
+        },
+        {
+            "channel": "ESPN 4 Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "3980 L 21600 - 5/6",
+            "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     Eintracht Trier   vs   RB Leipzig"
+        },
+        {
+            "channel": "Megogo Futbol 4 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Eintracht Trier   vs   RB Leipzig"
+        },
+        {
+            "channel": "Megogo Sport Kazakhstan [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Eintracht Trier   vs   RB Leipzig"
+        },
+        {
+            "channel": "Nova Sport 1 Czech HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11876 H 29900 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Eintracht Trier   vs   RB Leipzig"
+        },
+        {
+            "channel": "RTL+ Deutschland (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://plus.rtl.de/video-tv/live",
+            "related_to": "     Eintracht Trier   vs   RB Leipzig"
+        },
+        {
+            "channel": "Sky Sport 3 Deutsch HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12304 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Eintracht Trier   vs   RB Leipzig"
+        },
+        {
+            "channel": "Sky Sport MIX Deutsch HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11758 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Eintracht Trier   vs   RB Leipzig"
+        },
+        {
+            "channel": "Sport 2 Hungary HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "11766 V 28000 - 7/8",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Eintracht Trier   vs   RB Leipzig"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
+            "related_to": "     Eintracht Trier   vs   RB Leipzig"
         },
         {
             "compet": "German Cup (DFB-Pokal) - Round 1",
@@ -8079,112 +8437,6 @@
             "related_to": "     Igdir FK   vs   Kayserispor"
         },
         {
-            "compet": "German Cup (DFB-Pokal) - Round 1",
-            "match": "     Eintracht Trier   vs   RB Leipzig",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "16:00",
-            "date": "2026-08-22"
-        },
-        {
-            "channel": "beIN Sports France 2 HD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11856 V 29700 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Eintracht Trier   vs   RB Leipzig"
-        },
-        {
-            "channel": "DAZN 2 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Eintracht Trier   vs   RB Leipzig"
-        },
-        {
-            "channel": "DAZN Portugal ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Eintracht Trier   vs   RB Leipzig"
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "AzerSpace 2 45.0\u00b0e",
-            "freq": "12520 V 30000 - 5/6",
-            "encry": "MPEG-4 NDS",
-            "link": "#",
-            "related_to": "     Eintracht Trier   vs   RB Leipzig"
-        },
-        {
-            "channel": "Megogo Futbol 4 ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Eintracht Trier   vs   RB Leipzig"
-        },
-        {
-            "channel": "Megogo Sport Kazakhstan [$]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Eintracht Trier   vs   RB Leipzig"
-        },
-        {
-            "channel": "Nova Sport 1 Czech HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11876 H 29900 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Eintracht Trier   vs   RB Leipzig"
-        },
-        {
-            "channel": "RTL+ Deutschland (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://plus.rtl.de/video-tv/live",
-            "related_to": "     Eintracht Trier   vs   RB Leipzig"
-        },
-        {
-            "channel": "Sky Sport 3 Deutsch HD",
-            "sat": "Astra 1N 19.2\u00b0e",
-            "freq": "12304 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Eintracht Trier   vs   RB Leipzig"
-        },
-        {
-            "channel": "Sky Sport MIX Deutsch HD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11758 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Eintracht Trier   vs   RB Leipzig"
-        },
-        {
-            "channel": "Sport 2 Hungary HD",
-            "sat": "Thor 6 0.8\u00b0w",
-            "freq": "11766 V 28000 - 7/8",
-            "encry": "NagraVision",
-            "link": "#",
-            "related_to": "     Eintracht Trier   vs   RB Leipzig"
-        },
-        {
-            "channel": "VG+ Sport Norge ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.vgtv.no/live",
-            "related_to": "     Eintracht Trier   vs   RB Leipzig"
-        },
-        {
             "compet": "Friendly Club Match",
             "match": "     Olympiakos Nicosia   vs   APOEL Nicosia",
             "flags": {
@@ -8235,6 +8487,32 @@
             "encry": "",
             "link": "#",
             "related_to": "     AEL Limassol   vs   Aris Limassol"
+        },
+        {
+            "compet": "Bulgarian First League - Week 6",
+            "match": "     Ludogorets   vs   Slavia Sofia",
+            "flags": {
+                "team1": "bulgaria",
+                "team2": "bulgaria"
+            },
+            "time": "16:00",
+            "date": "2026-08-22"
+        },
+        {
+            "channel": "Diema Sport HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Ludogorets   vs   Slavia Sofia"
+        },
+        {
+            "channel": "SportKlub 11 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Ludogorets   vs   Slavia Sofia"
         },
         {
             "compet": "German Cup (DFB-Pokal) - Round 1",
@@ -8543,11 +8821,27 @@
             "related_to": "     Sporting Charleroi   vs   Mechelen"
         },
         {
+            "channel": "DAZN Ireland ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "     Sporting Charleroi   vs   Mechelen"
+        },
+        {
             "channel": "DAZN Pro League 1 HD",
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12129 V 29900 - 3/4",
             "encry": "MPEG-4 Viaccess",
             "link": "#",
+            "related_to": "     Sporting Charleroi   vs   Mechelen"
+        },
+        {
+            "channel": "DAZN Worldwide ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com",
             "related_to": "     Sporting Charleroi   vs   Mechelen"
         },
         {
@@ -8841,6 +9135,14 @@
             "related_to": "     Brentford   vs   Tottenham Hotspur"
         },
         {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Brentford   vs   Tottenham Hotspur"
+        },
+        {
             "channel": "Play Sports 1 Belgium",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -8861,6 +9163,14 @@
             "sat": "KazSat 3 58.5\u00b0e",
             "freq": "12657 V 45000 - 3/4",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Brentford   vs   Tottenham Hotspur"
+        },
+        {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Brentford   vs   Tottenham Hotspur"
         },
@@ -9089,32 +9399,6 @@
             "related_to": "     Brentford   vs   Tottenham Hotspur"
         },
         {
-            "compet": "Qatar Stars League - Week 1",
-            "match": "     Al Sadd   vs   Al Ahli",
-            "flags": {
-                "team1": "qatar",
-                "team2": "qatar"
-            },
-            "time": "16:30",
-            "date": "2026-08-22"
-        },
-        {
-            "channel": "beIN Sports MENA 2 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Al Sadd   vs   Al Ahli"
-        },
-        {
-            "channel": "beIN Sports MENA Global HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 V 27500 - 2/3",
-            "encry": "FTA",
-            "link": "#",
-            "related_to": "     Al Sadd   vs   Al Ahli"
-        },
-        {
             "compet": "Italian Serie A - Week 1",
             "match": "     Inter Milan   vs   Monza",
             "flags": {
@@ -9165,10 +9449,26 @@
             "related_to": "     Inter Milan   vs   Monza"
         },
         {
+            "channel": "ART Motion Sport 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "     Inter Milan   vs   Monza"
+        },
+        {
             "channel": "Astro Football HD",
             "sat": "Measat 3b 91.5\u00b0e",
             "freq": "10932 V 30000 - 5/6",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Inter Milan   vs   Monza"
+        },
+        {
+            "channel": "Azam Sports 3 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Inter Milan   vs   Monza"
         },
@@ -9277,6 +9577,14 @@
             "related_to": "     Inter Milan   vs   Monza"
         },
         {
+            "channel": "DAZN Ireland ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "     Inter Milan   vs   Monza"
+        },
+        {
             "channel": "DAZN Italia ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -9301,11 +9609,27 @@
             "related_to": "     Inter Milan   vs   Monza"
         },
         {
+            "channel": "ESPN 1 Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "3980 L 21600 - 3/4",
+            "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     Inter Milan   vs   Monza"
+        },
+        {
             "channel": "Fast Sports TV Armenia",
             "sat": "Eutelsat 70B 70.5\u00b0e",
             "freq": "11050 H 20030 - 1/2",
             "encry": "MPEG-4 Biss",
             "link": "https://fasttv.am/tv-channels/fastsports",
+            "related_to": "     Inter Milan   vs   Monza"
+        },
+        {
+            "channel": "GEM Sport 2",
+            "sat": " \u00b0",
+            "freq": " ",
+            "encry": "",
+            "link": "#",
             "related_to": "     Inter Milan   vs   Monza"
         },
         {
@@ -9389,6 +9713,14 @@
             "related_to": "     Inter Milan   vs   Monza"
         },
         {
+            "channel": "Persiana Sports 2 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
+            "related_to": "     Inter Milan   vs   Monza"
+        },
+        {
             "channel": "Prima Sport RO 3 HD",
             "sat": "Hellas Sat 3 39.0\u00b0e",
             "freq": "12606 V 30000 - 3/4",
@@ -9441,6 +9773,14 @@
             "sat": "Dror 1 4.0\u00b0w",
             "freq": "12259 V 30000 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Inter Milan   vs   Monza"
+        },
+        {
+            "channel": "Sport TV Azerbaijan (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Inter Milan   vs   Monza"
         },
@@ -9575,10 +9915,26 @@
             "related_to": "     Udinese   vs   Como 1907"
         },
         {
+            "channel": "ART Motion Sport 2 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "     Udinese   vs   Como 1907"
+        },
+        {
             "channel": "Astro Arena Bola HD",
             "sat": "Measat 3b 91.5\u00b0e",
             "freq": "10772 V 30000 - 5/6",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Udinese   vs   Como 1907"
+        },
+        {
+            "channel": "Azam Sports 2 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Udinese   vs   Como 1907"
         },
@@ -9652,6 +10008,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "     Udinese   vs   Como 1907"
+        },
+        {
+            "channel": "DAZN Ireland ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
             "related_to": "     Udinese   vs   Como 1907"
         },
         {
@@ -9861,6 +10225,32 @@
             "encry": "",
             "link": "https://www.vgtv.no/live",
             "related_to": "     Udinese   vs   Como 1907"
+        },
+        {
+            "compet": "Qatar Stars League - Week 1",
+            "match": "     Al Sadd   vs   Al Ahli",
+            "flags": {
+                "team1": "qatar",
+                "team2": "qatar"
+            },
+            "time": "16:30",
+            "date": "2026-08-22"
+        },
+        {
+            "channel": "beIN Sports MENA 2 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Sadd   vs   Al Ahli"
+        },
+        {
+            "channel": "beIN Sports MENA Global HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Sadd   vs   Al Ahli"
         },
         {
             "compet": "Croatian HNL - Week 4",
@@ -10129,6 +10519,42 @@
             "encry": "FTA",
             "link": "#",
             "related_to": "     Zira   vs   Imishli"
+        },
+        {
+            "compet": "Egyptian Premier League - Week 1",
+            "match": "     Al Masry   vs   Smouha",
+            "flags": {
+                "team1": "egypt",
+                "team2": "egypt"
+            },
+            "time": "17:00",
+            "date": "2026-08-22"
+        },
+        {
+            "channel": "ON Sport Max HD",
+            "sat": "Nilesat 201 7.0\u00b0w",
+            "freq": "11977 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Masry   vs   Smouha"
+        },
+        {
+            "compet": "Egyptian Premier League - Week 1",
+            "match": "     Ghazl El Mahalla   vs   Pyramids",
+            "flags": {
+                "team1": "egypt",
+                "team2": "egypt"
+            },
+            "time": "17:00",
+            "date": "2026-08-22"
+        },
+        {
+            "channel": "ON Sport HD",
+            "sat": "Nilesat 201 7.0\u00b0w",
+            "freq": "12015 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Ghazl El Mahalla   vs   Pyramids"
         },
         {
             "compet": "Greek Super League 1 - Week 1",
@@ -10869,6 +11295,14 @@
             "related_to": "     Valencia   vs   Celta Vigo"
         },
         {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Valencia   vs   Celta Vigo"
+        },
+        {
             "channel": "Sp\u00edler 2 TV Hungary HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "11727 V 28000 - 7/8",
@@ -11427,6 +11861,524 @@
             "related_to": "     Celje   vs   Radomlje"
         },
         {
+            "compet": "T\u00fcrkiye 1. Lig - Week 3",
+            "match": "     Antalyaspor   vs   Pendikspor",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "18:30",
+            "date": "2026-08-22"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Antalyaspor   vs   Pendikspor"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye Max 2 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11180 H 29750 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Antalyaspor   vs   Pendikspor"
+        },
+        {
+            "channel": "TRT Spor T\u00fcrkiye HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11054 V 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "related_to": "     Antalyaspor   vs   Pendikspor"
+        },
+        {
+            "compet": "T\u00fcrkiye 1. Lig - Week 3",
+            "match": "     Bodrumspor   vs   Muglaspor",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "18:30",
+            "date": "2026-08-22"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Bodrumspor   vs   Muglaspor"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye Max 1 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Bodrumspor   vs   Muglaspor"
+        },
+        {
+            "channel": "TRT Avaz T\u00fcrkiye HD",
+            "sat": "Yamal 401 90.0\u00b0e",
+            "freq": "10972 H 11200 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.trtizle.com/canli/tv/trt-avaz",
+            "related_to": "     Bodrumspor   vs   Muglaspor"
+        },
+        {
+            "compet": "German Super Cup - FINAL (Signal Iduna Park, Dortmund)",
+            "match": "     Borussia Dortmund   vs   Bayern Munich",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "18:30",
+            "date": "2026-08-22"
+        },
+        {
+            "channel": "Arena M1 Premium MKD HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "Arena Sport 7 BiH HD",
+            "sat": " 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "Azam Sports 2 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "beIN Sports 3 HD (Astro)",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "beIN Sports France 2 HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "DAZN 2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "DAZN Portugal ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "Diema Sport 3 HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "Digi Sport 2 Romania HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "11823 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "Eleven Sports 1 Polska HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11488 H 27500 - 3/4",
+            "encry": "HD Mediaguard",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "Fast Sports 1 Armenia ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://fasttv.am/tv-channels/fastsports1",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "GEM Sport 1 HD",
+            "sat": "Al Yah 1 52.5\u00b0e",
+            "freq": "12034 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "Go3 Sport 1 Baltic HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11938 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "https://go3.tv/en/live_tv",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "IRIB Varzesh HD",
+            "sat": "Intelsat 39 62.0\u00b0e",
+            "freq": "11555 V 30000 - 2/3",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "Match 4 Hungary HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12130 H 28000 - 7/8",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "MBC Action HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "12284 V 27500 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "Nova Sport 3 Czech HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11934 V 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "Nova Sports 3 Cyprus HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11823 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "Nova Sports 3 Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11823 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "Okko Prime Sport HD ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "Persiana Sports 2 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "Play Sports 2 Belgium",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "Premier Sports 2 Mongolia HD",
+            "sat": "Telstar 18 138.0\u00b0e",
+            "freq": "12598 H 45000 - 5/6",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "Prime Video UK PPV [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.primevideo.com/",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "SAT.1 Deutschland HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12545 H 22000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "SAT.1 Schweiz HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12051 V 27500 - 3/4",
+            "encry": "HD Panaccess",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "SAT.1 \u00d6sterreich HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12051 V 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "Setanta Sports 1 Eurasia HD",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "12657 V 45000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "Setanta Sports 2 Georgia HD",
+            "sat": " \u00b0",
+            "freq": " ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "Setanta Sports+ Ukraine HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "12207 V 30000 - 2/3",
+            "encry": "HD Verimatrix",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "Sky Sport Bundesliga 5 HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12032 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "Sky Sport Bundesliga HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12304 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "Sky Sport Bundesliga UHD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11798 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "Sky Sport Max Italia HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11977 H 29900 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "Sky Sport Top Event HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "11914 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "Sport 3 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "Sport TV1 Slovenija",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11231 V 42000 - 3/5",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "SportKlub 3 Hrvatska",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11387 H 30000  -3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "Tring Sport 2 HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "TSN Malta 5 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "USA Network HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "V Sport 1 Norge HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11305 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "ViaPlay Sport Sverige HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "ViaPlay TV+ Nederland",
+            "sat": " 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "ViaPlay \u00cdsland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "Z Sports 2 Angola",
+            "sat": "Eutelsat 36D 35.9\u00b0e",
+            "freq": "11388 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
             "compet": "T\u00fcrkiye S\u00fcper Lig - Week 2",
             "match": "     Fenerbah\u00e7e   vs   Konyaspor",
             "flags": {
@@ -11835,484 +12787,6 @@
             "encry": "",
             "link": "#",
             "related_to": "     Fenerbah\u00e7e   vs   Konyaspor"
-        },
-        {
-            "compet": "T\u00fcrkiye 1. Lig - Week 3",
-            "match": "     Antalyaspor   vs   Pendikspor",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "18:30",
-            "date": "2026-08-22"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Antalyaspor   vs   Pendikspor"
-        },
-        {
-            "channel": "beIN Sports T\u00fcrkiye Max 2 HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11180 H 29750 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Antalyaspor   vs   Pendikspor"
-        },
-        {
-            "channel": "TRT Spor T\u00fcrkiye HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11054 V 30000 - 3/4",
-            "encry": "FTA",
-            "link": "https://www.trtizle.com/canli/tv/trt-spor",
-            "related_to": "     Antalyaspor   vs   Pendikspor"
-        },
-        {
-            "compet": "T\u00fcrkiye 1. Lig - Week 3",
-            "match": "     Bodrumspor   vs   Muglaspor",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "18:30",
-            "date": "2026-08-22"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Bodrumspor   vs   Muglaspor"
-        },
-        {
-            "channel": "beIN Sports T\u00fcrkiye Max 1 HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11676 V 24444 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Bodrumspor   vs   Muglaspor"
-        },
-        {
-            "channel": "TRT Avaz T\u00fcrkiye HD",
-            "sat": "Yamal 401 90.0\u00b0e",
-            "freq": "10972 H 11200 - 3/4",
-            "encry": "FTA",
-            "link": "https://www.trtizle.com/canli/tv/trt-avaz",
-            "related_to": "     Bodrumspor   vs   Muglaspor"
-        },
-        {
-            "compet": "German Super Cup - FINAL (Signal Iduna Park, Dortmund)",
-            "match": "     Borussia Dortmund   vs   Bayern Munich",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "18:30",
-            "date": "2026-08-22"
-        },
-        {
-            "channel": "Arena M1 Premium MKD HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12246 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "Arena Premium 1 Srbija HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "Arena Sport 7 BiH HD",
-            "sat": " 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "beIN Sports 3 HD (Astro)",
-            "sat": "Measat 3b 91.5\u00b0e",
-            "freq": "10732 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "beIN Sports France 2 HD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11856 V 29700 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "DAZN 2 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "DAZN Portugal ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "AzerSpace 2 45.0\u00b0e",
-            "freq": "12520 V 30000 - 5/6",
-            "encry": "MPEG-4 NDS",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "Digi Sport 2 Romania HD",
-            "sat": "Thor 6 0.8\u00b0w",
-            "freq": "11823 H 30000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "Eleven Sports 1 Polska HD",
-            "sat": "Hotbird 13G 13.0\u00b0e",
-            "freq": "11488 H 27500 - 3/4",
-            "encry": "HD Mediaguard",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "Fast Sports 1 Armenia ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://fasttv.am/tv-channels/fastsports1",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "Fast Sports [online] ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://fasttv.am/live-sports?sport_type=football",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "Go3 Sport 1 Baltic HD",
-            "sat": "Astra 4A 5.0\u00b0e",
-            "freq": "11938 V 27500 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "https://go3.tv/en/live_tv",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "Match 4 Hungary HD",
-            "sat": "Thor 7 0.6\u00b0w",
-            "freq": "12130 H 28000 - 7/8",
-            "encry": "NagraVision",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "MBC Action HD",
-            "sat": "Badr 8 26.0\u00b0e",
-            "freq": "12284 V 27500 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "Nova Sport 3 Czech HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11934 V 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "Nova Sports 3 Cyprus HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "11823 H 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "Nova Sports 3 Hellas HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "11823 H 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "Okko Prime Sport HD ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "Play Sports 2 Belgium",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "Premier Sports 2 Mongolia HD",
-            "sat": "Telstar 18 138.0\u00b0e",
-            "freq": "12598 H 45000 - 5/6",
-            "encry": "MPEG-4 Verimatrix",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "Prime Video UK PPV [$]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.primevideo.com/",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "SAT.1 Deutschland HD",
-            "sat": "Astra 1N 19.2\u00b0e",
-            "freq": "12545 H 22000 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "SAT.1 Schweiz HD",
-            "sat": "Astra 1N 19.2\u00b0e",
-            "freq": "12051 V 27500 - 3/4",
-            "encry": "HD Panaccess",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "SAT.1 \u00d6sterreich HD",
-            "sat": "Astra 1N 19.2\u00b0e",
-            "freq": "12051 V 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "Setanta Sports 1 Eurasia HD",
-            "sat": "KazSat 3 58.5\u00b0e",
-            "freq": "12657 V 45000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "Setanta Sports+ Ukraine HD",
-            "sat": "Astra 4A 5.0\u00b0e",
-            "freq": "12207 V 30000 - 2/3",
-            "encry": "HD Verimatrix",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "Sky Sport Bundesliga 5 HD",
-            "sat": "Astra 1N 19.2\u00b0e",
-            "freq": "12032 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "Sky Sport Bundesliga HD",
-            "sat": "Astra 1N 19.2\u00b0e",
-            "freq": "12304 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "Sky Sport Bundesliga UHD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11798 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "Sky Sport Max Italia HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "11977 H 29900 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "Sky Sport Top Event HD",
-            "sat": "Astra 1N 19.2\u00b0e",
-            "freq": "11914 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "Solh TV",
-            "sat": "MonacoSat 52.0\u00b0e",
-            "freq": "10845 V 27500 - 2/3",
-            "encry": "FTA",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "Sport 3 Israel HD",
-            "sat": "Dror 1 4.0\u00b0w",
-            "freq": "11259 V 30000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "Sport TV1 Slovenija",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11231 V 42000 - 3/5",
-            "encry": "MPEG-4 NDS",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "SportKlub 3 Hrvatska",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11387 H 30000  -3/4",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "Tring Sport 2 HD",
-            "sat": "Hellas Sat 4 39.0\u00b0e",
-            "freq": "10890 H 30000 - 5/6",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "TSN Malta 5 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "USA Network HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "V Sport 1 Norge HD",
-            "sat": "Thor 6 5.0\u00b0e",
-            "freq": "11305 H 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "ViaPlay Sport Sverige HD",
-            "sat": "Thor 6 0.8\u00b0w",
-            "freq": "10809 V 25000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "ViaPlay TV+ Nederland",
-            "sat": " 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "ViaPlay \u00cdsland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
-        },
-        {
-            "channel": "Z Sports 2 Angola",
-            "sat": "Eutelsat 36D 35.9\u00b0e",
-            "freq": "11388 V 30000 - 5/6",
-            "encry": "MPEG-4 Nagra",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
         },
         {
             "compet": "Greek Super League 1 - Week 1",
@@ -12737,6 +13211,14 @@
             "related_to": "     Toulouse   vs   Lyon"
         },
         {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Toulouse   vs   Lyon"
+        },
+        {
             "channel": "Sport TV6 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12360 H 27500 - 3/4",
@@ -13019,440 +13501,6 @@
             "related_to": "     Troyes   vs   Paris FC"
         },
         {
-            "compet": "Italian Serie A - Week 1",
-            "match": "     Genoa   vs   Napoli",
-            "flags": {
-                "team1": "italy",
-                "team2": "italy"
-            },
-            "time": "18:45",
-            "date": "2026-08-22"
-        },
-        {
-            "channel": "Arena Premium 2 BiH HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "Arena Premium 2 Srbija HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "#",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "Arena Sport 1 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11678 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "Arena Sport 1 Slovenija HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "Astro Football HD",
-            "sat": "Measat 3b 91.5\u00b0e",
-            "freq": "10932 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "beIN Sports Australia 3 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "CBS Sports Golazo N/W (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "FTA",
-            "link": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "Cosmote Sport 1 HD",
-            "sat": "Eutelsat 9B 9.0\u00b0e",
-            "freq": "11843 V 27500 - 3/5",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "Cytavision Sports 4 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "Cytavision Sports PPV 4 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "DAZN 2 Bar Deutsch HD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11798 H 27500 - 9/0",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "DAZN 2 Belgium",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "DAZN Belgium ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.dazn.com/en-BE/",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "DAZN Espa\u00f1a ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "DAZN France ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "DAZN Great Britain (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "DAZN Italia ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "Eleven Sports 2 Polska HD",
-            "sat": "Hotbird 13G 13.0\u00b0e",
-            "freq": "11488 H 27500 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "Fast Sports 2 Armenia ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://fasttv.am/tv-channels/fastsports2",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "Go3 Sport 3 Baltic",
-            "sat": "Astra 4A 5.0\u00b0e",
-            "freq": "11938 V 27500 - 5/6",
-            "encry": "MPEG-4 NDS",
-            "link": "https://go3.tv/en/live_tv",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "HBO Max (uk only) [$/geo/R]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.hbomax.com",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "Match 4 Hungary HD",
-            "sat": "Thor 7 0.6\u00b0w",
-            "freq": "12130 H 28000 - 7/8",
-            "encry": "NagraVision",
-            "link": "#",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "MATCH! Futbol 1 HD",
-            "sat": "Horizons 2 84.8\u00b0e",
-            "freq": "11840 H 28800 - 2/3",
-            "encry": "MPEG-4 Irdeto",
-            "link": "#",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "MATCH! TV [online] ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://matchtv.ru/video/sports/football",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "MAX Sport 3 Bulgaria HD",
-            "sat": "AzerSpace 2 45.0\u00b0e",
-            "freq": "12600 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "Megogo Futbol 2 ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "MTV Katsomon+ ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.mtv.fi/urheilu",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "MTV Urheilu 1 Suomi HD",
-            "sat": "Thor 7 0.6\u00b0w",
-            "freq": "12476 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "NBC Universo USA",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "Paramount+ USA ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "Peacock Premium USA ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "Prima Sport RO 3 HD",
-            "sat": "Hellas Sat 3 39.0\u00b0e",
-            "freq": "12606 V 30000 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "S Sport 2 T\u00fcrkiye HD",
-            "sat": "Turksat 4A 42.0\u00b0e",
-            "freq": "11880 H 20000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "Setanta Sports Qazaqstan HD",
-            "sat": "KazSat 3 58.5\u00b0e",
-            "freq": "12657 V 45000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "Sky Go Italy [online]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "Sky Sport 251 Italia HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "12418 V 29900 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "Sky Sport Calcio HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "12073 V 29900 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "Sky Sport Italia 4K UHD",
-            "sat": "Hotbird 13E 13.0\u00b0e",
-            "freq": "11996 V 29900 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "Sport 1 Czechia HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12070 H 27500 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "Sport 2 Israel HD",
-            "sat": "Dror 1 4.0\u00b0w",
-            "freq": "12259 V 30000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "Sport TV3 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "SuperSport Football HD",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "11674 H 30000 - 5/6",
-            "encry": "Irdeto",
-            "link": "#",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "TNT Sports 1 HD",
-            "sat": "NSS 12 57.0\u00b0e",
-            "freq": "3775 L 09583 - 2/3",
-            "encry": "Irdeto [c]",
-            "link": "#",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "Tring Sport 1 HD",
-            "sat": "Hellas Sat 4 39.0\u00b0e",
-            "freq": "10890 H 30000 - 5/6",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "TSN Malta 3 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "TV2 Play Danmark ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://play.tv2.dk/sport",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "TV2 Sport X Dansk HD",
-            "sat": "Thor 6 0.8\u00b0w",
-            "freq": "10716 H 25000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "TV4 Fotboll HD",
-            "sat": "Thor 6 0.8\u00b0w",
-            "freq": "10872 V 25000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "TV4 Play Sverige [online]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.tv4play.se/sport",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "VG+ Sport Norge ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.vgtv.no/live",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
-            "channel": "Ziggo Sport 1 HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12129 V 29900 - 3/4",
-            "encry": "HD Mediaguard",
-            "link": "#",
-            "related_to": "     Genoa   vs   Napoli"
-        },
-        {
             "compet": "French Ligue 1 - Week 1",
             "match": "     Nice   vs   Lorient",
             "flags": {
@@ -13655,62 +13703,126 @@
             "related_to": "     Nice   vs   Lorient"
         },
         {
-            "compet": "French Ligue 1 - Week 1",
-            "match": "     Le Mans   vs   Brest",
+            "compet": "Italian Serie A - Week 1",
+            "match": "     Genoa   vs   Napoli",
             "flags": {
-                "team1": "france",
-                "team2": "france"
+                "team1": "italy",
+                "team2": "italy"
             },
             "time": "18:45",
             "date": "2026-08-22"
         },
         {
-            "channel": "Arena Sport 2 Slovenija HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Le Mans   vs   Brest"
-        },
-        {
-            "channel": "Arena Sport 2 Srbija HD",
+            "channel": "Arena Premium 2 BiH HD",
             "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11798 H 30000 - 3/4",
+            "freq": "0000 0",
             "encry": "HD NagraVision",
             "link": "#",
-            "related_to": "     Le Mans   vs   Brest"
+            "related_to": "     Genoa   vs   Napoli"
         },
         {
-            "channel": "Arena Sport 8 Hrvatska HD",
+            "channel": "Arena Premium 2 Srbija HD",
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12402 V 30000 - 3/4",
-            "encry": "HD Conax",
+            "encry": "MPEG-4 Nagra",
             "link": "#",
-            "related_to": "     Le Mans   vs   Brest"
+            "related_to": "     Genoa   vs   Napoli"
         },
         {
-            "channel": "beIN Connect T\u00fcrkiye",
+            "channel": "Arena Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11678 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Genoa   vs   Napoli"
+        },
+        {
+            "channel": "Arena Sport 1 Slovenija HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Le Mans   vs   Brest"
+            "link": "#",
+            "related_to": "     Genoa   vs   Napoli"
         },
         {
-            "channel": "beIN Sports MENA 2 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 H 27500 - 2/3",
+            "channel": "ART Motion Sport 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "     Genoa   vs   Napoli"
+        },
+        {
+            "channel": "Astro Football HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10932 V 30000 - 5/6",
             "encry": "HD VideoGuard",
             "link": "#",
-            "related_to": "     Le Mans   vs   Brest"
+            "related_to": "     Genoa   vs   Napoli"
         },
         {
-            "channel": "Cablenet Sports 1 HD",
+            "channel": "beIN Sports Australia 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Genoa   vs   Napoli"
+        },
+        {
+            "channel": "CBS Sports Golazo N/W (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "FTA",
+            "link": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
+            "related_to": "     Genoa   vs   Napoli"
+        },
+        {
+            "channel": "Cosmote Sport 1 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "11843 V 27500 - 3/5",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Genoa   vs   Napoli"
+        },
+        {
+            "channel": "Cytavision Sports 4 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
             "link": "#",
-            "related_to": "     Le Mans   vs   Brest"
+            "related_to": "     Genoa   vs   Napoli"
+        },
+        {
+            "channel": "Cytavision Sports PPV 4 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Genoa   vs   Napoli"
+        },
+        {
+            "channel": "DAZN 2 Bar Deutsch HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11798 H 27500 - 9/0",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Genoa   vs   Napoli"
+        },
+        {
+            "channel": "DAZN 2 Belgium",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Genoa   vs   Napoli"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Genoa   vs   Napoli"
         },
         {
             "channel": "DAZN Deutsch ($/geo/R)",
@@ -13718,7 +13830,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
-            "related_to": "     Le Mans   vs   Brest"
+            "related_to": "     Genoa   vs   Napoli"
         },
         {
             "channel": "DAZN Espa\u00f1a ($/geo/R)",
@@ -13726,87 +13838,343 @@
             "freq": "0000 ",
             "encry": "",
             "link": "#",
-            "related_to": "     Le Mans   vs   Brest"
+            "related_to": "     Genoa   vs   Napoli"
         },
         {
-            "channel": "DAZN Japan ($/geo/R)",
+            "channel": "DAZN France ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
-            "encry": "LiveOnSat.com",
+            "encry": "",
             "link": "#",
-            "related_to": "     Le Mans   vs   Brest"
+            "related_to": "     Genoa   vs   Napoli"
         },
         {
-            "channel": "Ligue 1+ 5 ($/geo/R)",
+            "channel": "DAZN Great Britain (geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
-            "link": "https://plus.ligue1.com/home",
-            "related_to": "     Le Mans   vs   Brest"
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "     Genoa   vs   Napoli"
         },
         {
-            "channel": "Ligue 1+ Multiplex [$]",
-            "sat": "Download APP 0.0\u00b0",
+            "channel": "DAZN Ireland ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "     Genoa   vs   Napoli"
+        },
+        {
+            "channel": "DAZN Italia ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Genoa   vs   Napoli"
+        },
+        {
+            "channel": "Eleven Sports 2 Polska HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11488 H 27500 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Genoa   vs   Napoli"
+        },
+        {
+            "channel": "ESPN 1 Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "3980 L 21600 - 3/4",
+            "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     Genoa   vs   Napoli"
+        },
+        {
+            "channel": "Fast Sports 2 Armenia ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
-            "link": "https://plus.ligue1.com/home",
-            "related_to": "     Le Mans   vs   Brest"
+            "link": "https://fasttv.am/tv-channels/fastsports2",
+            "related_to": "     Genoa   vs   Napoli"
         },
         {
-            "channel": "Megogo Futbol 8 ($/geo/R)",
+            "channel": "Go3 Sport 3 Baltic",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11938 V 27500 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "https://go3.tv/en/live_tv",
+            "related_to": "     Genoa   vs   Napoli"
+        },
+        {
+            "channel": "HBO Max (uk only) [$/geo/R]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.hbomax.com",
+            "related_to": "     Genoa   vs   Napoli"
+        },
+        {
+            "channel": "Match 4 Hungary HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12130 H 28000 - 7/8",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Genoa   vs   Napoli"
+        },
+        {
+            "channel": "MATCH! Futbol 1 HD",
+            "sat": "Horizons 2 84.8\u00b0e",
+            "freq": "11840 H 28800 - 2/3",
+            "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Genoa   vs   Napoli"
+        },
+        {
+            "channel": "MATCH! TV [online] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://matchtv.ru/video/sports/football",
+            "related_to": "     Genoa   vs   Napoli"
+        },
+        {
+            "channel": "MAX Sport 3 Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12600 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Genoa   vs   Napoli"
+        },
+        {
+            "channel": "Megogo Futbol 2 ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
             "link": "#",
-            "related_to": "     Le Mans   vs   Brest"
+            "related_to": "     Genoa   vs   Napoli"
         },
         {
-            "channel": "TV2 Play Norge ($/geo/R)",
+            "channel": "MTV Katsomon+ ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "     Genoa   vs   Napoli"
+        },
+        {
+            "channel": "MTV Urheilu 1 Suomi HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12476 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Genoa   vs   Napoli"
+        },
+        {
+            "channel": "NBC Universo USA",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
-            "link": "https://play.tv2.no/sport",
-            "related_to": "     Le Mans   vs   Brest"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
             "link": "#",
-            "related_to": "     Le Mans   vs   Brest"
+            "related_to": "     Genoa   vs   Napoli"
         },
         {
-            "channel": "ViaPlay Nederland HD",
+            "channel": "Paramount+ USA ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
             "link": "#",
-            "related_to": "     Le Mans   vs   Brest"
+            "related_to": "     Genoa   vs   Napoli"
         },
         {
-            "channel": "ViaPlay Norge HD",
+            "channel": "Peacock Premium USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Genoa   vs   Napoli"
+        },
+        {
+            "channel": "Persiana Sports 3 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Genoa   vs   Napoli"
+        },
+        {
+            "channel": "Prima Sport RO 3 HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12606 V 30000 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Genoa   vs   Napoli"
+        },
+        {
+            "channel": "S Sport 2 T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11880 H 20000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Genoa   vs   Napoli"
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Genoa   vs   Napoli"
+        },
+        {
+            "channel": "Setanta Sports Qazaqstan HD",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "12657 V 45000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Genoa   vs   Napoli"
+        },
+        {
+            "channel": "Sky Go Italy [online]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
-            "related_to": "     Le Mans   vs   Brest"
+            "related_to": "     Genoa   vs   Napoli"
         },
         {
-            "channel": "ViaPlay Suomi HD",
+            "channel": "Sky Sport 251 Italia HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12418 V 29900 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Genoa   vs   Napoli"
+        },
+        {
+            "channel": "Sky Sport Calcio HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12073 V 29900 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Genoa   vs   Napoli"
+        },
+        {
+            "channel": "Sky Sport Italia 4K UHD",
+            "sat": "Hotbird 13E 13.0\u00b0e",
+            "freq": "11996 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Genoa   vs   Napoli"
+        },
+        {
+            "channel": "Sport 1 Czechia HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12070 H 27500 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Genoa   vs   Napoli"
+        },
+        {
+            "channel": "Sport 2 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "12259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Genoa   vs   Napoli"
+        },
+        {
+            "channel": "Sport TV3 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Genoa   vs   Napoli"
+        },
+        {
+            "channel": "SuperSport Football HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11674 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Genoa   vs   Napoli"
+        },
+        {
+            "channel": "TNT Sports 1 HD",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "3775 L 09583 - 2/3",
+            "encry": "Irdeto [c]",
+            "link": "#",
+            "related_to": "     Genoa   vs   Napoli"
+        },
+        {
+            "channel": "Tring Sport 1 HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Genoa   vs   Napoli"
+        },
+        {
+            "channel": "TSN Malta 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Genoa   vs   Napoli"
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "     Genoa   vs   Napoli"
+        },
+        {
+            "channel": "TV2 Sport X Dansk HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10716 H 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Genoa   vs   Napoli"
+        },
+        {
+            "channel": "TV4 Fotboll HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10872 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Genoa   vs   Napoli"
+        },
+        {
+            "channel": "TV4 Play Sverige [online]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Le Mans   vs   Brest"
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "     Genoa   vs   Napoli"
         },
         {
-            "channel": "ViaPlay Sverige HD",
+            "channel": "VG+ Sport Norge ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
-            "encry": "LiveOnSat.com",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
+            "related_to": "     Genoa   vs   Napoli"
+        },
+        {
+            "channel": "ZBC Channel 2",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "11043 V 45000 - 5/6",
+            "encry": "MPEG-4 Nagra",
             "link": "#",
-            "related_to": "     Le Mans   vs   Brest"
+            "related_to": "     Genoa   vs   Napoli"
+        },
+        {
+            "channel": "Ziggo Sport 1 HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "HD Mediaguard",
+            "link": "#",
+            "related_to": "     Genoa   vs   Napoli"
         },
         {
             "compet": "Italian Serie A - Week 1",
@@ -13848,6 +14216,14 @@
             "freq": "11554 H 30000 - 5/6",
             "encry": "HD NagraVision",
             "link": "#",
+            "related_to": "     Parma   vs   Cagliari"
+        },
+        {
+            "channel": "ART Motion Sport 5 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
             "related_to": "     Parma   vs   Cagliari"
         },
         {
@@ -13928,6 +14304,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "     Parma   vs   Cagliari"
+        },
+        {
+            "channel": "DAZN Ireland ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
             "related_to": "     Parma   vs   Cagliari"
         },
         {
@@ -14101,12 +14485,182 @@
             "related_to": "     Antwerp   vs   Racing Genk"
         },
         {
+            "channel": "DAZN Ireland ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "     Antwerp   vs   Racing Genk"
+        },
+        {
             "channel": "DAZN Pro League 1 HD",
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12129 V 29900 - 3/4",
             "encry": "MPEG-4 Viaccess",
             "link": "#",
             "related_to": "     Antwerp   vs   Racing Genk"
+        },
+        {
+            "channel": "DAZN Worldwide ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com",
+            "related_to": "     Antwerp   vs   Racing Genk"
+        },
+        {
+            "compet": "French Ligue 1 - Week 1",
+            "match": "     Le Mans   vs   Brest",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "18:45",
+            "date": "2026-08-22"
+        },
+        {
+            "channel": "Arena Sport 2 Slovenija HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Le Mans   vs   Brest"
+        },
+        {
+            "channel": "Arena Sport 2 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11798 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Le Mans   vs   Brest"
+        },
+        {
+            "channel": "Arena Sport 8 Hrvatska HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Le Mans   vs   Brest"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Le Mans   vs   Brest"
+        },
+        {
+            "channel": "beIN Sports MENA 2 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Le Mans   vs   Brest"
+        },
+        {
+            "channel": "Cablenet Sports 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Le Mans   vs   Brest"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Le Mans   vs   Brest"
+        },
+        {
+            "channel": "DAZN Espa\u00f1a ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Le Mans   vs   Brest"
+        },
+        {
+            "channel": "DAZN Japan ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Le Mans   vs   Brest"
+        },
+        {
+            "channel": "Ligue 1+ 5 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://plus.ligue1.com/home",
+            "related_to": "     Le Mans   vs   Brest"
+        },
+        {
+            "channel": "Ligue 1+ Multiplex [$]",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://plus.ligue1.com/home",
+            "related_to": "     Le Mans   vs   Brest"
+        },
+        {
+            "channel": "Megogo Futbol 8 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Le Mans   vs   Brest"
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "     Le Mans   vs   Brest"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Le Mans   vs   Brest"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Le Mans   vs   Brest"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Le Mans   vs   Brest"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Le Mans   vs   Brest"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Le Mans   vs   Brest"
         },
         {
             "compet": "Bosnia-Herzegovina Premier Liga - Week 3",
@@ -14593,6 +15147,14 @@
             "related_to": "     Sporting Lisbon   vs   Alverca"
         },
         {
+            "channel": "ESPN 4 Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "3980 L 21600 - 5/6",
+            "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     Sporting Lisbon   vs   Alverca"
+        },
+        {
             "channel": "Kanal 1 Sport Slovakia HD",
             "sat": "Belintersat 1 51.5\u00b0e",
             "freq": "11290 H 45000 - 8/9",
@@ -14939,6 +15501,14 @@
             "related_to": "     Espanyol   vs   Real Madrid"
         },
         {
+            "channel": "GEM Sport 2",
+            "sat": " \u00b0",
+            "freq": " ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Espanyol   vs   Real Madrid"
+        },
+        {
             "channel": "Go3 Sport Open Baltic",
             "sat": "Astra 4A 5.0\u00b0e",
             "freq": "11958 H 27500 - 5/6",
@@ -14951,6 +15521,14 @@
             "sat": "AzerSpace 1 46.0\u00b0e",
             "freq": "11175 H 30000 - 5/6",
             "encry": "FTA",
+            "link": "#",
+            "related_to": "     Espanyol   vs   Real Madrid"
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Intelsat 39 62.0\u00b0e",
+            "freq": "11555 V 30000 - 3/4",
+            "encry": "HD BISS",
             "link": "#",
             "related_to": "     Espanyol   vs   Real Madrid"
         },
@@ -14995,10 +15573,26 @@
             "related_to": "     Espanyol   vs   Real Madrid"
         },
         {
+            "channel": "Meraj TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11221 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Espanyol   vs   Real Madrid"
+        },
+        {
             "channel": "Nova Sport 4 Czech HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11934 V 27500 - 3/4",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Espanyol   vs   Real Madrid"
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Espanyol   vs   Real Madrid"
         },
@@ -15115,6 +15709,14 @@
             "related_to": "     Espanyol   vs   Real Madrid"
         },
         {
+            "channel": "Zor TV Uzbekistan",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "#",
+            "related_to": "     Espanyol   vs   Real Madrid"
+        },
+        {
             "compet": "Portuguese Liga 3 - Week 3",
             "match": "     Pa\u00e7os Ferreira   vs   Varzim",
             "flags": {
@@ -15215,6 +15817,14 @@
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11678 H 30000 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Independiente   vs   Independiente RM"
+        },
+        {
+            "channel": "Spor Smart T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "12188 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Independiente   vs   Independiente RM"
         },
@@ -15457,6 +16067,14 @@
             "sat": "Horizons 2 84.8\u00b0e",
             "freq": "11840 H 28800 - 2/3",
             "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Cruzeiro   vs   Flamengo"
+        },
+        {
+            "channel": "Spor Smart T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "12188 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Cruzeiro   vs   Flamengo"
         },
