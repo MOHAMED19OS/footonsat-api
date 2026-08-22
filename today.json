@@ -3215,24 +3215,6 @@
             "related_to": "     Korona Kielce   vs   Motor Lublin"
         },
         {
-            "compet": "Belarus Premier League - Week 19",
-            "match": "     Slavia Mozyr   vs   FC Gomel",
-            "flags": {
-                "team1": "belarus",
-                "team2": "belarus"
-            },
-            "time": "13:00",
-            "date": "2026-08-22"
-        },
-        {
-            "channel": "Belarus 5 HD",
-            "sat": "Belintersat 1 51.5\u00b0e",
-            "freq": "11350 H 45000 - 3/4",
-            "encry": "HD DRE-Crypt",
-            "link": "#",
-            "related_to": "     Slavia Mozyr   vs   FC Gomel"
-        },
-        {
             "compet": "Swedish Allsvenskan - Week 18",
             "match": "     Orgryte   vs   Halmstad",
             "flags": {
@@ -3265,6 +3247,24 @@
             "encry": "",
             "link": "https://www.vgtv.no/live",
             "related_to": "     Orgryte   vs   Halmstad"
+        },
+        {
+            "compet": "Belarus Premier League - Week 19",
+            "match": "     Slavia Mozyr   vs   FC Gomel",
+            "flags": {
+                "team1": "belarus",
+                "team2": "belarus"
+            },
+            "time": "13:00",
+            "date": "2026-08-22"
+        },
+        {
+            "channel": "Belarus 5 HD",
+            "sat": "Belintersat 1 51.5\u00b0e",
+            "freq": "11350 H 45000 - 3/4",
+            "encry": "HD DRE-Crypt",
+            "link": "#",
+            "related_to": "     Slavia Mozyr   vs   FC Gomel"
         },
         {
             "compet": "Portuguese Liga 2 - Week 3",
@@ -5092,6 +5092,22 @@
             "freq": "12598 H 45000 - 5/6",
             "encry": "MPEG-4 Verimatrix",
             "link": "#",
+            "related_to": "     Nottingham Forest   vs   Leeds United"
+        },
+        {
+            "channel": "RTS 1 Senegal HD",
+            "sat": "AsiaSat 5 100.5\u00b0e",
+            "freq": "4080 H 30000 - 5/6",
+            "encry": "MPEG-4 Conax",
+            "link": "https://live.rts.sn/livetv/rts1",
+            "related_to": "     Nottingham Forest   vs   Leeds United"
+        },
+        {
+            "channel": "RTS 2 Senegal HD",
+            "sat": "Amos 17 17.0\u00b0e",
+            "freq": "11968 V 34030 - 5/6",
+            "encry": "HD Conax",
+            "link": "https://live.rts.sn/livetv/rts2",
             "related_to": "     Nottingham Forest   vs   Leeds United"
         },
         {
@@ -7319,6 +7335,14 @@
             "related_to": "     Athletic Bilbao   vs   Sevilla"
         },
         {
+            "channel": "ST Sports Life",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "12418 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Athletic Bilbao   vs   Sevilla"
+        },
+        {
             "channel": "SuperSport 2 Albania HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "10845 H 30000 - 3/5",
@@ -8053,10 +8077,26 @@
             "related_to": "     Al Fateh   vs   Al Ettifaq"
         },
         {
+            "channel": "Sportitalia SoloCalcio HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11179 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://sportitalialive.it/sisolocalcio/",
+            "related_to": "     Al Fateh   vs   Al Ettifaq"
+        },
+        {
             "channel": "SportKlub 6 Hrvatska",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Al Fateh   vs   Al Ettifaq"
+        },
+        {
+            "channel": "ST World Football HD",
+            "sat": "Eutelsat 10B 10.0\u00b0e",
+            "freq": "3736 R 07307 - 5/6",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Al Fateh   vs   Al Ettifaq"
         },
@@ -8635,6 +8675,42 @@
             "related_to": "     Wil 1900   vs   Kriens"
         },
         {
+            "compet": "Portuguese Liga 3 - Week 3",
+            "match": "     Trofense   vs   S\u00e3o Jo\u00e3o Ver",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "16:00",
+            "date": "2026-08-22"
+        },
+        {
+            "channel": "Canal 11 [online] (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.canal11.pt/",
+            "related_to": "     Trofense   vs   S\u00e3o Jo\u00e3o Ver"
+        },
+        {
+            "compet": "Portuguese Liga 3 - Week 3",
+            "match": "     Lusitano de Evora   vs   Mafra",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "16:00",
+            "date": "2026-08-22"
+        },
+        {
+            "channel": "Canal 11 [online] (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.canal11.pt/",
+            "related_to": "     Lusitano de Evora   vs   Mafra"
+        },
+        {
             "compet": "T\u00fcrkiye S\u00fcper Lig - Week 2",
             "match": "     Caykur Rizespor   vs   Samsunspor",
             "flags": {
@@ -8685,42 +8761,6 @@
             "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Corum FK   vs   Kasimpasa"
-        },
-        {
-            "compet": "Portuguese Liga 3 - Week 3",
-            "match": "     Trofense   vs   S\u00e3o Jo\u00e3o Ver",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "16:00",
-            "date": "2026-08-22"
-        },
-        {
-            "channel": "Canal 11 [online] (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.canal11.pt/",
-            "related_to": "     Trofense   vs   S\u00e3o Jo\u00e3o Ver"
-        },
-        {
-            "compet": "Portuguese Liga 3 - Week 3",
-            "match": "     Lusitano de Evora   vs   Mafra",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "16:00",
-            "date": "2026-08-22"
-        },
-        {
-            "channel": "Canal 11 [online] (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.canal11.pt/",
-            "related_to": "     Lusitano de Evora   vs   Mafra"
         },
         {
             "compet": "Slovak Super Liga - Week 5",
@@ -8999,6 +9039,14 @@
             "related_to": "     Brentford   vs   Tottenham Hotspur"
         },
         {
+            "channel": "Canal+ Sport 3 Afrique HD",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "11823 H 27500 - 3/4",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Brentford   vs   Tottenham Hotspur"
+        },
+        {
             "channel": "Cytavision Sports 3 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -9215,6 +9263,14 @@
             "related_to": "     Brentford   vs   Tottenham Hotspur"
         },
         {
+            "channel": "Sky Sport Uno Italia HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11958 V 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Brentford   vs   Tottenham Hotspur"
+        },
+        {
             "channel": "Sky Sports Main Event HD",
             "sat": "Astra 2E 28.2\u00b0e",
             "freq": "11934 V 27500 - 5/6",
@@ -9283,6 +9339,22 @@
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "10845 H 30000 - 3/5",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Brentford   vs   Tottenham Hotspur"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 1 HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Brentford   vs   Tottenham Hotspur"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 2A HD",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12169 H 27500 - 2/3",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Brentford   vs   Tottenham Hotspur"
         },
@@ -9796,6 +9868,14 @@
             "channel": "SuperSport Football HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11674 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Inter Milan   vs   Monza"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 360",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12130 H 27500 - 2/3",
             "encry": "Irdeto",
             "link": "#",
             "related_to": "     Inter Milan   vs   Monza"
@@ -11311,6 +11391,14 @@
             "related_to": "     Valencia   vs   Celta Vigo"
         },
         {
+            "channel": "ST Sports Premium HD",
+            "sat": "Belintersat 1 51.5\u00b0e",
+            "freq": "11098 H 16665 - 1/2",
+            "encry": "Conax",
+            "link": "#",
+            "related_to": "     Valencia   vs   Celta Vigo"
+        },
+        {
             "channel": "SuperSport 4 Albania HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "10845 H 30000 - 3/5",
@@ -11327,10 +11415,26 @@
             "related_to": "     Valencia   vs   Celta Vigo"
         },
         {
+            "channel": "SuperSport M\u00e1Ximo 3A HD",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12169 V 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Valencia   vs   Celta Vigo"
+        },
+        {
             "channel": "TSN Malta 4 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Valencia   vs   Celta Vigo"
+        },
+        {
+            "channel": "TV Miramar Mozambique",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "12245 H 27500 3/4",
+            "encry": "Irdeto",
             "link": "#",
             "related_to": "     Valencia   vs   Celta Vigo"
         },
@@ -11423,6 +11527,104 @@
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Maccabi Haifa   vs   Hapoel Ramat Gan"
+        },
+        {
+            "compet": "Saudi Pro League - Week 2",
+            "match": "     Al Ahli   vs   Abha Club",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "18:00",
+            "date": "2026-08-22"
+        },
+        {
+            "channel": "DAZN Canada ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Abha Club"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Abha Club"
+        },
+        {
+            "channel": "DAZN Ireland ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "     Al Ahli   vs   Abha Club"
+        },
+        {
+            "channel": "DAZN Worldwide ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com",
+            "related_to": "     Al Ahli   vs   Abha Club"
+        },
+        {
+            "channel": "FanCode India ($/geo/R)",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.fancode.com/rugby/schedule/upcoming",
+            "related_to": "     Al Ahli   vs   Abha Club"
+        },
+        {
+            "channel": "HT Spor T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11837 V 30000 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Abha Club"
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Abha Club"
+        },
+        {
+            "channel": "SportKlub 10 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Abha Club"
+        },
+        {
+            "channel": "ST Sports Life",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "12418 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Abha Club"
+        },
+        {
+            "channel": "Thmanyah 1 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Abha Club"
+        },
+        {
+            "channel": "Thmanyah KSA [app]",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Abha Club"
         },
         {
             "compet": "Czech LIGA - Week 5",
@@ -11605,96 +11807,6 @@
             "encry": "",
             "link": "#",
             "related_to": "     Al Khaleej   vs   Al Shabab"
-        },
-        {
-            "compet": "Saudi Pro League - Week 2",
-            "match": "     Al Ahli   vs   Abha Club",
-            "flags": {
-                "team1": "saudiarabia",
-                "team2": "saudiarabia"
-            },
-            "time": "18:00",
-            "date": "2026-08-22"
-        },
-        {
-            "channel": "DAZN Canada ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Al Ahli   vs   Abha Club"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Al Ahli   vs   Abha Club"
-        },
-        {
-            "channel": "DAZN Ireland ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.dazn.com/en-IE/home",
-            "related_to": "     Al Ahli   vs   Abha Club"
-        },
-        {
-            "channel": "DAZN Worldwide ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.dazn.com",
-            "related_to": "     Al Ahli   vs   Abha Club"
-        },
-        {
-            "channel": "FanCode India ($/geo/R)",
-            "sat": "Download APP 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.fancode.com/rugby/schedule/upcoming",
-            "related_to": "     Al Ahli   vs   Abha Club"
-        },
-        {
-            "channel": "HT Spor T\u00fcrkiye HD",
-            "sat": "Turksat 4A 42.0\u00b0e",
-            "freq": "11837 V 30000 - 2/3",
-            "encry": "FTA",
-            "link": "#",
-            "related_to": "     Al Ahli   vs   Abha Club"
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Al Ahli   vs   Abha Club"
-        },
-        {
-            "channel": "SportKlub 10 Hrvatska",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Al Ahli   vs   Abha Club"
-        },
-        {
-            "channel": "Thmanyah 1 HD",
-            "sat": "Badr 8 26.0\u00b0e",
-            "freq": "11919 H 27500 - 3/4",
-            "encry": "FTA",
-            "link": "#",
-            "related_to": "     Al Ahli   vs   Abha Club"
-        },
-        {
-            "channel": "Thmanyah KSA [app]",
-            "sat": "Download APP 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Al Ahli   vs   Abha Club"
         },
         {
             "compet": "Friendly Club Match",
@@ -11987,6 +12099,14 @@
             "related_to": "     Borussia Dortmund   vs   Bayern Munich"
         },
         {
+            "channel": "Canal+ Sport 2 Afrique HD",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "11785 H 27500 - 3/4",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
             "channel": "DAZN 2 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
@@ -12243,6 +12363,14 @@
             "related_to": "     Borussia Dortmund   vs   Bayern Munich"
         },
         {
+            "channel": "Sky Sport Uno Italia HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11958 V 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
             "channel": "Solh TV",
             "sat": "MonacoSat 52.0\u00b0e",
             "freq": "10845 V 27500 - 2/3",
@@ -12270,6 +12398,14 @@
             "channel": "SportKlub 3 Hrvatska",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11387 H 30000  -3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Bayern Munich"
+        },
+        {
+            "channel": "ST World Football HD",
+            "sat": "Eutelsat 10B 10.0\u00b0e",
+            "freq": "3736 R 07307 - 5/6",
             "encry": "HD Conax",
             "link": "#",
             "related_to": "     Borussia Dortmund   vs   Bayern Munich"
@@ -13235,6 +13371,14 @@
             "related_to": "     Toulouse   vs   Lyon"
         },
         {
+            "channel": "SuperSport M\u00e1Ximo 1 HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Toulouse   vs   Lyon"
+        },
+        {
             "channel": "SuperSport Variety 4 HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11170 H 30000 - 5/6",
@@ -14092,6 +14236,14 @@
             "channel": "SuperSport Football HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11674 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Genoa   vs   Napoli"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 360",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12130 H 27500 - 2/3",
             "encry": "Irdeto",
             "link": "#",
             "related_to": "     Genoa   vs   Napoli"
@@ -15317,6 +15469,14 @@
             "related_to": "     Espanyol   vs   Real Madrid"
         },
         {
+            "channel": "Canal+ Sport 3 Afrique HD",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "11823 H 27500 - 3/4",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Espanyol   vs   Real Madrid"
+        },
+        {
             "channel": "Cosmote Sport 7 HD",
             "sat": "Eutelsat 9B 9.0\u00b0e",
             "freq": "12149 V 27500 - 2/3",
@@ -15629,6 +15789,14 @@
             "related_to": "     Espanyol   vs   Real Madrid"
         },
         {
+            "channel": "Silk Sport 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Espanyol   vs   Real Madrid"
+        },
+        {
             "channel": "SportKlub 1 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11471 H 30000 - 3/4",
@@ -15653,6 +15821,14 @@
             "related_to": "     Espanyol   vs   Real Madrid"
         },
         {
+            "channel": "ST Sports Premium HD",
+            "sat": "Belintersat 1 51.5\u00b0e",
+            "freq": "11098 H 16665 - 1/2",
+            "encry": "Conax",
+            "link": "#",
+            "related_to": "     Espanyol   vs   Real Madrid"
+        },
+        {
             "channel": "SuperSport 2 Albania HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "10845 H 30000 - 3/5",
@@ -15665,6 +15841,14 @@
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11594 V 27500 - 5/6",
             "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Espanyol   vs   Real Madrid"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 3A HD",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12169 V 27500 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Espanyol   vs   Real Madrid"
         },
