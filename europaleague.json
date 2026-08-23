@@ -47,6 +47,14 @@
             "date": "2026-08-27"
         },
         {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Viktoria Plzen   vs   Red Star Belgrade"
+        },
+        {
             "channel": "Nova Sport 5 Czech HD",
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12129 V 29900 - 3/4",
@@ -63,6 +71,14 @@
             "related_to": "     Viktoria Plzen   vs   Red Star Belgrade"
         },
         {
+            "channel": "RTS 2 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11914 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Viktoria Plzen   vs   Red Star Belgrade"
+        },
+        {
             "compet": "UEFA Europa League - Play-Off (2nd Leg) [0-1]",
             "match": "     Omonia Nicosia   vs   Sint-Truiden",
             "flags": {
@@ -73,11 +89,35 @@
             "date": "2026-08-27"
         },
         {
+            "channel": "Cytavision Sports 2 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Omonia Nicosia   vs   Sint-Truiden"
+        },
+        {
+            "channel": "Cytavision Sports PPV 2 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Omonia Nicosia   vs   Sint-Truiden"
+        },
+        {
             "channel": "DAZN Belgium ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Omonia Nicosia   vs   Sint-Truiden"
+        },
+        {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
             "related_to": "     Omonia Nicosia   vs   Sint-Truiden"
         },
         {
@@ -125,6 +165,14 @@
             "related_to": "     Lillestr\u00f8m   vs   Egnatia"
         },
         {
+            "channel": "VG+ Sport Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
+            "related_to": "     Lillestr\u00f8m   vs   Egnatia"
+        },
+        {
             "compet": "UEFA Europa League - Play-Off (2nd Leg) [0-3]",
             "match": "     Kauno Zalgiris   vs   Besiktas",
             "flags": {
@@ -138,6 +186,14 @@
             "channel": "S Sport+ Streaming",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Kauno Zalgiris   vs   Besiktas"
+        },
+        {
+            "channel": "Sport 1 Ukraine",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
             "encry": "",
             "link": "#",
             "related_to": "     Kauno Zalgiris   vs   Besiktas"
@@ -229,6 +285,14 @@
             "related_to": "     AGF Aarhus   vs   Benfica"
         },
         {
+            "channel": "Sport TV5 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     AGF Aarhus   vs   Benfica"
+        },
+        {
             "compet": "UEFA Europa League - Play-Off (2nd Leg) [1-0]",
             "match": "     Ferencv\u00e1ros   vs   Trabzonspor",
             "flags": {
@@ -265,11 +329,27 @@
             "date": "2026-08-27"
         },
         {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Anderlecht   vs   Kairat Almaty"
+        },
+        {
             "channel": "Mauve TV ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 H 0",
             "encry": "",
             "link": "https://mauvetv.rsca.be/home",
+            "related_to": "     Anderlecht   vs   Kairat Almaty"
+        },
+        {
+            "channel": "VTM 2 Belgium HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11856 V 29900 - 3/4",
+            "encry": "HD Mediaguard",
+            "link": "#",
             "related_to": "     Anderlecht   vs   Kairat Almaty"
         },
         {

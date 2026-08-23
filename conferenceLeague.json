@@ -53,6 +53,30 @@
             "related_to": "     KuPS Kuopio   vs   Shamrock Rovers"
         },
         {
+            "channel": "Jalkapallo TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://jalkapallotv.com/jalkapallo",
+            "related_to": "     KuPS Kuopio   vs   Shamrock Rovers"
+        },
+        {
+            "channel": "KuPS TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://kupstv.fi/kups/games",
+            "related_to": "     KuPS Kuopio   vs   Shamrock Rovers"
+        },
+        {
+            "channel": "Solidsport Broadcast [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
+            "related_to": "     KuPS Kuopio   vs   Shamrock Rovers"
+        },
+        {
             "compet": "UEFA Conference League - Play-Off (2nd Leg) [1-0]",
             "match": "     Qarabagh   vs   Twente",
             "flags": {
@@ -79,6 +103,22 @@
             "related_to": "     Qarabagh   vs   Twente"
         },
         {
+            "channel": "Sport 4 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Qarabagh   vs   Twente"
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Qarabagh   vs   Twente"
+        },
+        {
             "compet": "UEFA Conference League - Play-Off (2nd Leg) [1-2]",
             "match": "     Maccabi Tel Aviv   vs   Lugano",
             "flags": {
@@ -93,6 +133,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Maccabi Tel Aviv   vs   Lugano"
+        },
+        {
+            "channel": "Sport 2 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "12259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Maccabi Tel Aviv   vs   Lugano"
         },
@@ -175,6 +223,14 @@
             "related_to": "     Monaco   vs   G\u00f3rnik Zabrze"
         },
         {
+            "channel": "VG+ Sport Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
+            "related_to": "     Monaco   vs   G\u00f3rnik Zabrze"
+        },
+        {
             "compet": "UEFA Conference League - Play-Off (2nd Leg) [0-0]",
             "match": "     Riga FC   vs   K\u00cd Klaksv\u00edk",
             "flags": {
@@ -224,6 +280,22 @@
             "channel": "- - -",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Pafos FC   vs   Dinamo City"
+        },
+        {
+            "channel": "Cytavision Sports 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Pafos FC   vs   Dinamo City"
+        },
+        {
+            "channel": "Cytavision Sports PPV 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
             "encry": "",
             "link": "#",
             "related_to": "     Pafos FC   vs   Dinamo City"
@@ -283,6 +355,14 @@
             "related_to": "     FC Copenhagen   vs   Inter Turku"
         },
         {
+            "channel": "FCK TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "https://tv.fck.dk/",
+            "related_to": "     FC Copenhagen   vs   Inter Turku"
+        },
+        {
             "compet": "UEFA Conference League - Play-Off (2nd Leg) [1-1]",
             "match": "     Brann   vs   PAOK Thessaloniki",
             "flags": {
@@ -298,6 +378,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "#",
+            "related_to": "     Brann   vs   PAOK Thessaloniki"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
             "related_to": "     Brann   vs   PAOK Thessaloniki"
         },
         {
@@ -319,6 +407,14 @@
             "related_to": "     St Gallen   vs   Nordsj\u00e6lland"
         },
         {
+            "channel": "SRF Info Schweiz HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "10971 H 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://www.srf.ch/play/tv/sport-livestreams",
+            "related_to": "     St Gallen   vs   Nordsj\u00e6lland"
+        },
+        {
             "compet": "UEFA Conference League - Play-Off (2nd Leg) [0-0]",
             "match": "     Hapoel Tel Aviv   vs   Atalanta",
             "flags": {
@@ -332,6 +428,14 @@
             "channel": "Sky Sport Calcio HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "12073 V 29900 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Hapoel Tel Aviv   vs   Atalanta"
+        },
+        {
+            "channel": "Sport 1 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Hapoel Tel Aviv   vs   Atalanta"
@@ -360,6 +464,22 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://tv.kyivstar.ua/en/live-channels/68fb653f4eb468b99832891a-ks-tv-football-2",
+            "related_to": "     Ajax   vs   Sion"
+        },
+        {
+            "channel": "Sport 4 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Ajax   vs   Sion"
+        },
+        {
+            "channel": "Sport TV4 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
             "related_to": "     Ajax   vs   Sion"
         },
         {
@@ -397,6 +517,14 @@
             "related_to": "     Austria Vienna   vs   Sporting Braga"
         },
         {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Austria Vienna   vs   Sporting Braga"
+        },
+        {
             "compet": "UEFA Conference League - Play-Off (2nd Leg) [0-0]",
             "match": "     Brighton H.A.   vs   Troms\u00f8",
             "flags": {
@@ -412,6 +540,14 @@
             "freq": "12265 V 27500 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
+            "related_to": "     Brighton H.A.   vs   Troms\u00f8"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
             "related_to": "     Brighton H.A.   vs   Troms\u00f8"
         },
         {
@@ -443,6 +579,22 @@
             "date": "2026-08-27"
         },
         {
+            "channel": "Bold+ Dansk ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://bold.dk/plus",
+            "related_to": "     Rijeka   vs   Midtjylland"
+        },
+        {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Rijeka   vs   Midtjylland"
+        },
+        {
             "channel": "MAX Sport 1 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11512 H 30000 - 3/4",
@@ -465,6 +617,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Partizan Belgrade   vs   Getafe"
+        },
+        {
+            "channel": "RTS 2 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11914 H 30000 - 3/4",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Partizan Belgrade   vs   Getafe"
         },
