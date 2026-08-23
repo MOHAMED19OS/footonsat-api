@@ -55,6 +55,14 @@
             "date": "2026-08-27"
         },
         {
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Viktoria Plzen   vs   Red Star Belgrade"
+        },
+        {
             "channel": "ESPN+ USA ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -152,6 +160,14 @@
             "freq": "11303 H 22000 - 2/3",
             "encry": "HD VideoGuard",
             "link": "#",
+            "related_to": "     Salzburg   vs   Mj\u00e4llby AIF"
+        },
+        {
+            "channel": "Sport Bladet Play (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.sportbladetplay.se/schedule",
             "related_to": "     Salzburg   vs   Mj\u00e4llby AIF"
         },
         {
@@ -271,6 +287,30 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Thun   vs   Lech Poznan"
+        },
+        {
+            "channel": "Play RTS Sport (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.rts.ch/play/tv/categories/sport",
+            "related_to": "     Thun   vs   Lech Poznan"
+        },
+        {
+            "channel": "SRF Play (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.srf.ch/play/tv/sport-livestreams",
+            "related_to": "     Thun   vs   Lech Poznan"
+        },
+        {
+            "channel": "TVP 2 Polska HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12265 V 27500 - 3/4",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Thun   vs   Lech Poznan"
         },
