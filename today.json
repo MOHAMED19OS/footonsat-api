@@ -1027,32 +1027,6 @@
             "related_to": "     S\u00f8nderjyskE   vs   Nordsj\u00e6lland"
         },
         {
-            "compet": "Portuguese Liga 3 - Week 3",
-            "match": "     Paredes   vs   Le\u00e7a",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "10:00",
-            "date": "2026-08-23"
-        },
-        {
-            "channel": "Canal 11 [online] (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.canal11.pt/",
-            "related_to": "     Paredes   vs   Le\u00e7a"
-        },
-        {
-            "channel": "Canal 11 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12437 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Paredes   vs   Le\u00e7a"
-        },
-        {
             "compet": "Russian Premier League - Week 5",
             "match": "     Akron   vs   Kryliya Sovetov",
             "flags": {
@@ -1109,6 +1083,32 @@
             "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Akron   vs   Kryliya Sovetov"
+        },
+        {
+            "compet": "Portuguese Liga 3 - Week 3",
+            "match": "     Paredes   vs   Le\u00e7a",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "10:00",
+            "date": "2026-08-23"
+        },
+        {
+            "channel": "Canal 11 [online] (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.canal11.pt/",
+            "related_to": "     Paredes   vs   Le\u00e7a"
+        },
+        {
+            "channel": "Canal 11 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12437 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Paredes   vs   Le\u00e7a"
         },
         {
             "compet": "Russian FNL 2A - Fall Season Silver Round 6",
@@ -3285,6 +3285,22 @@
             "related_to": "     Manchester City   vs   Bournemouth"
         },
         {
+            "channel": "Sport 24 At Sea HD",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "4095 R 30000 - 3/4",
+            "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     Manchester City   vs   Bournemouth"
+        },
+        {
+            "channel": "Sport 24 In Flight HD",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "4095 R 30000 - 3/4",
+            "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     Manchester City   vs   Bournemouth"
+        },
+        {
             "channel": "Sport TV Azerbaijan (geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -4000,6 +4016,88 @@
         },
         {
             "compet": "German Cup (DFB-Pokal) - Round 1",
+            "match": "     Braunschweig   vs   Union Berlin",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "13:30",
+            "date": "2026-08-23"
+        },
+        {
+            "channel": "Megogo Futbol 2 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Braunschweig   vs   Union Berlin"
+        },
+        {
+            "channel": "Megogo Sport Kazakhstan [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Braunschweig   vs   Union Berlin"
+        },
+        {
+            "channel": "RTL+ Deutschland (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://plus.rtl.de/video-tv/live",
+            "related_to": "     Braunschweig   vs   Union Berlin"
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Braunschweig   vs   Union Berlin"
+        },
+        {
+            "channel": "Sky Sport MIX Deutsch HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11758 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Braunschweig   vs   Union Berlin"
+        },
+        {
+            "channel": "Sport 1 Hungary HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "12034 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Braunschweig   vs   Union Berlin"
+        },
+        {
+            "channel": "Sport 1 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Braunschweig   vs   Union Berlin"
+        },
+        {
+            "channel": "Sport 3 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Braunschweig   vs   Union Berlin"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
+            "related_to": "     Braunschweig   vs   Union Berlin"
+        },
+        {
+            "compet": "German Cup (DFB-Pokal) - Round 1",
             "match": "     Schott Mainz   vs   M\u00f6nchengladbach",
             "flags": {
                 "team1": "germany",
@@ -4233,80 +4331,6 @@
             "related_to": "     Krieschow   vs   Mainz 05"
         },
         {
-            "compet": "German Cup (DFB-Pokal) - Round 1",
-            "match": "     Braunschweig   vs   Union Berlin",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "13:30",
-            "date": "2026-08-23"
-        },
-        {
-            "channel": "Megogo Futbol 2 ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Braunschweig   vs   Union Berlin"
-        },
-        {
-            "channel": "Megogo Sport Kazakhstan [$]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Braunschweig   vs   Union Berlin"
-        },
-        {
-            "channel": "RTL+ Deutschland (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://plus.rtl.de/video-tv/live",
-            "related_to": "     Braunschweig   vs   Union Berlin"
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Braunschweig   vs   Union Berlin"
-        },
-        {
-            "channel": "Sky Sport MIX Deutsch HD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11758 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Braunschweig   vs   Union Berlin"
-        },
-        {
-            "channel": "Sport 1 Hungary HD",
-            "sat": "Thor 6 0.8\u00b0w",
-            "freq": "12034 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Braunschweig   vs   Union Berlin"
-        },
-        {
-            "channel": "Sport 3 Israel HD",
-            "sat": "Dror 1 4.0\u00b0w",
-            "freq": "11259 V 30000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Braunschweig   vs   Union Berlin"
-        },
-        {
-            "channel": "VG+ Sport Norge ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.vgtv.no/live",
-            "related_to": "     Braunschweig   vs   Union Berlin"
-        },
-        {
             "compet": "Croatian Prva NL - Week 1",
             "match": "     Bijelo Brdo   vs   Dinamo Zagreb II",
             "flags": {
@@ -4373,6 +4397,88 @@
             "encry": "FTA",
             "link": "https://www.trtizle.com/canli/tv/trt-spor",
             "related_to": "     Bandirmaspor   vs   Ke\u00e7i\u00f6reng\u00fcc\u00fc"
+        },
+        {
+            "compet": "German Frauen Bundesliga - Week 1",
+            "match": "     RB Leipzig   vs   Bayer Leverkusen",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "14:00",
+            "date": "2026-08-23"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayer Leverkusen"
+        },
+        {
+            "channel": "DAZN Portugal ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayer Leverkusen"
+        },
+        {
+            "channel": "Sport 4 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayer Leverkusen"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayer Leverkusen"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayer Leverkusen"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayer Leverkusen"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayer Leverkusen"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayer Leverkusen"
+        },
+        {
+            "channel": "ViaPlay \u00cdsland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Bayer Leverkusen"
         },
         {
             "compet": "Danish Superliga - Week 5",
@@ -4443,80 +4549,6 @@
             "encry": "",
             "link": "https://www.youtube.com/@SoccernetEE/streams",
             "related_to": "     Paide Linnameeskond   vs   N\u00f5mme United"
-        },
-        {
-            "compet": "German Frauen Bundesliga - Week 1",
-            "match": "     RB Leipzig   vs   Bayer Leverkusen",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "14:00",
-            "date": "2026-08-23"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayer Leverkusen"
-        },
-        {
-            "channel": "DAZN Portugal ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayer Leverkusen"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayer Leverkusen"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayer Leverkusen"
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayer Leverkusen"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayer Leverkusen"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayer Leverkusen"
-        },
-        {
-            "channel": "ViaPlay \u00cdsland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     RB Leipzig   vs   Bayer Leverkusen"
         },
         {
             "compet": "Russian FNL - Week 8",
@@ -6407,6 +6439,22 @@
             "related_to": "     Newcastle United   vs   Liverpool"
         },
         {
+            "channel": "Sport 24 At Sea HD",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "4095 R 30000 - 3/4",
+            "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     Newcastle United   vs   Liverpool"
+        },
+        {
+            "channel": "Sport 24 In Flight HD",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "4095 R 30000 - 3/4",
+            "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     Newcastle United   vs   Liverpool"
+        },
+        {
             "channel": "Sp\u00edler 1 TV Hungary HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "11766 V 28000 - 7/8",
@@ -6905,6 +6953,94 @@
             "encry": "Irdeto",
             "link": "#",
             "related_to": "     Trabzonspor   vs   Istanbul Basaksehir"
+        },
+        {
+            "channel": "5 SPORT Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Bnei Yehuda   vs   Hapoel Kfar Shalem"
+        },
+        {
+            "channel": "5 SPORT Mobile (S/Cast)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.sport5.co.il/",
+            "related_to": "     Bnei Yehuda   vs   Hapoel Kfar Shalem"
+        },
+        {
+            "channel": "5 STARS Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Bnei Yehuda   vs   Hapoel Kfar Shalem"
+        },
+        {
+            "channel": "5 SPORT Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Kafr Qasim   vs   Hapoel Acco"
+        },
+        {
+            "channel": "5 SPORT Mobile (S/Cast)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.sport5.co.il/",
+            "related_to": "     Kafr Qasim   vs   Hapoel Acco"
+        },
+        {
+            "channel": "5 SPORT Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Kiryat Yam   vs   Maccabi Bnei Raina"
+        },
+        {
+            "channel": "5 SPORT Mobile (S/Cast)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.sport5.co.il/",
+            "related_to": "     Kiryat Yam   vs   Maccabi Bnei Raina"
+        },
+        {
+            "channel": "5 SPORT Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Hapoel Kfar Saba   vs   Ironi Modi'in"
+        },
+        {
+            "channel": "5 SPORT Mobile (S/Cast)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.sport5.co.il/",
+            "related_to": "     Hapoel Kfar Saba   vs   Ironi Modi'in"
+        },
+        {
+            "channel": "5 SPORT Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Maccabi Herzliya   vs   Hapoel Ra'anana"
+        },
+        {
+            "channel": "5 SPORT Mobile (S/Cast)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.sport5.co.il/",
+            "related_to": "     Maccabi Herzliya   vs   Hapoel Ra'anana"
         },
         {
             "compet": "Italian Serie C Girone A - Girone A - 1",
@@ -7453,46 +7589,6 @@
             "encry": "",
             "link": "https://www.canal11.pt/",
             "related_to": "     Caldas   vs   Louletano"
-        },
-        {
-            "channel": "5 SPORT Mobile (S/Cast)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.sport5.co.il/",
-            "related_to": "     Kiryat Yam   vs   Maccabi Bnei Raina"
-        },
-        {
-            "channel": "5 SPORT Mobile (S/Cast)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.sport5.co.il/",
-            "related_to": "     Bnei Yehuda   vs   Hapoel Kfar Shalem"
-        },
-        {
-            "channel": "5 SPORT Mobile (S/Cast)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.sport5.co.il/",
-            "related_to": "     Maccabi Herzliya   vs   Hapoel Ra'anana"
-        },
-        {
-            "channel": "5 SPORT Mobile (S/Cast)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.sport5.co.il/",
-            "related_to": "     Hapoel Kfar Saba   vs   Ironi Modi'in"
-        },
-        {
-            "channel": "5 SPORT Mobile (S/Cast)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.sport5.co.il/",
-            "related_to": "     Kafr Qasim   vs   Hapoel Acco"
         },
         {
             "compet": "T\u00fcrkiye S\u00fcper Lig - Week 2",
