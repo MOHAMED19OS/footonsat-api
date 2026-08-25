@@ -555,6 +555,32 @@
             "related_to": "     Al Taawoun   vs   Al Fayha"
         },
         {
+            "compet": "Portuguese Liga Next Gen - Week 3",
+            "match": "     Portimonense U-23   vs   Farense U-23",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "16:30",
+            "date": "2026-08-25"
+        },
+        {
+            "channel": "Canal 11 [online] (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.canal11.pt/",
+            "related_to": "     Portimonense U-23   vs   Farense U-23"
+        },
+        {
+            "channel": "Canal 11 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12437 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Portimonense U-23   vs   Farense U-23"
+        },
+        {
             "compet": "Danish Cup (DBU Pokalen) - 2nd Round",
             "match": "     Br\u00f8nsh\u00f8j   vs   AB Copenhagen",
             "flags": {
@@ -595,24 +621,6 @@
             "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Br\u00f8nsh\u00f8j   vs   AB Copenhagen"
-        },
-        {
-            "compet": "Portuguese Liga Next Gen - Week 3",
-            "match": "     Portimonense U-23   vs   Farense U-23",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "16:30",
-            "date": "2026-08-25"
-        },
-        {
-            "channel": "Canal 11 [online] (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.canal11.pt/",
-            "related_to": "     Portimonense U-23   vs   Farense U-23"
         },
         {
             "compet": "UEFA Champions League - Play-Off (2nd Leg) [1-2]",
@@ -745,6 +753,14 @@
             "related_to": "     Sabah   vs   Hapoel Be'er Sheva"
         },
         {
+            "channel": "DAZN 1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12399 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Sabah   vs   Hapoel Be'er Sheva"
+        },
+        {
             "channel": "DAZN 2 Bar Deutsch HD",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "11798 H 27500 - 9/0",
@@ -757,6 +773,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Sabah   vs   Hapoel Be'er Sheva"
+        },
+        {
+            "channel": "DAZN Portugal ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Sabah   vs   Hapoel Be'er Sheva"
         },
@@ -1665,6 +1689,24 @@
             "encry": "",
             "link": "#",
             "related_to": "     Bristol Rovers   vs   Chelsea U-21"
+        },
+        {
+            "compet": "Scottish Challenge Cup - Group Stage - 2",
+            "match": "     Kelty Hearts   vs   Clydebank",
+            "flags": {
+                "team1": "scotland",
+                "team2": "scotland"
+            },
+            "time": "18:45",
+            "date": "2026-08-25"
+        },
+        {
+            "channel": "Kelty Hearts TV [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://khtv.co.uk/",
+            "related_to": "     Kelty Hearts   vs   Clydebank"
         },
         {
             "compet": "English League Cup - 2nd Round",
@@ -2729,6 +2771,14 @@
             "related_to": "     Nottingham Forest   vs   Leeds United"
         },
         {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Nottingham Forest   vs   Leeds United"
+        },
+        {
             "channel": "Persiana Sports 3 HD",
             "sat": "MonacoSat 52.0\u00b0e",
             "freq": "11420 V 27500 - 2/3",
@@ -3098,6 +3148,14 @@
             "freq": "12246 V 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
+            "related_to": "     Valencia   vs   Real Betis"
+        },
+        {
+            "channel": "ART Motion Sport 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
             "related_to": "     Valencia   vs   Real Betis"
         },
         {
@@ -3719,10 +3777,26 @@
             "related_to": "     Bod\u00f8/Glimt   vs   NEC Nijmegen"
         },
         {
+            "channel": "DAZN 2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Bod\u00f8/Glimt   vs   NEC Nijmegen"
+        },
+        {
             "channel": "DAZN Deutsch ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Bod\u00f8/Glimt   vs   NEC Nijmegen"
+        },
+        {
+            "channel": "DAZN Portugal ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Bod\u00f8/Glimt   vs   NEC Nijmegen"
         },
@@ -4037,6 +4111,32 @@
             "encry": "HD Mediaguard",
             "link": "#",
             "related_to": "     Bod\u00f8/Glimt   vs   NEC Nijmegen"
+        },
+        {
+            "compet": "Portuguese Liga Next Gen - Week 3",
+            "match": "     Sporting Lisbon U-23   vs   Benfica U-23",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "19:00",
+            "date": "2026-08-25"
+        },
+        {
+            "channel": "Canal 11 [online] (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.canal11.pt/",
+            "related_to": "     Sporting Lisbon U-23   vs   Benfica U-23"
+        },
+        {
+            "channel": "Canal 11 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12437 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Sporting Lisbon U-23   vs   Benfica U-23"
         },
         {
             "compet": "UEFA Champions League - Play-Off (2nd Leg) [0-3]",
@@ -4559,24 +4659,6 @@
             "encry": "",
             "link": "#",
             "related_to": "     LASK Linz   vs   Celtic"
-        },
-        {
-            "compet": "Portuguese Liga Next Gen - Week 3",
-            "match": "     Sporting Lisbon U-23   vs   Benfica U-23",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "19:00",
-            "date": "2026-08-25"
-        },
-        {
-            "channel": "Canal 11 [online] (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.canal11.pt/",
-            "related_to": "     Sporting Lisbon U-23   vs   Benfica U-23"
         }
     ]
 }
