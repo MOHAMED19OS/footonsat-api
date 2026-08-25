@@ -1,66 +1,6 @@
 {
     "footonsat": [
         {
-            "compet": "T\u00fcrkiye S\u00fcper Lig - Week 2",
-            "match": "     Kocaelispor   vs   Amedspor",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "18:30",
-            "date": "2026-08-24"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Kocaelispor   vs   Amedspor"
-        },
-        {
-            "channel": "beIN Sports T\u00fcrkiye 1 HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11180 H 30000 - 3/4",
-            "encry": "Irdeto",
-            "link": "#",
-            "related_to": "     Kocaelispor   vs   Amedspor"
-        },
-        {
-            "compet": "T\u00fcrkiye 1. Lig - Week 3",
-            "match": "     Sivasspor   vs   Manisa FK",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "18:30",
-            "date": "2026-08-24"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Sivasspor   vs   Manisa FK"
-        },
-        {
-            "channel": "beIN Sports T\u00fcrkiye 2 HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11676 V 24444 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Sivasspor   vs   Manisa FK"
-        },
-        {
-            "channel": "TRT Spor T\u00fcrkiye HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11054 V 30000 - 3/4",
-            "encry": "FTA",
-            "link": "https://www.trtizle.com/canli/tv/trt-spor",
-            "related_to": "     Sivasspor   vs   Manisa FK"
-        },
-        {
             "compet": "T\u00fcrkiye 1. Lig - Week 4",
             "match": "     Pendikspor   vs   Bandirmaspor",
             "flags": {
@@ -138,6 +78,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Antalyaspor   vs   Sariyer"
+        },
+        {
+            "channel": "TRT Spor T\u00fcrkiye HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11054 V 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
             "related_to": "     Antalyaspor   vs   Sariyer"
         },
         {
@@ -261,6 +209,14 @@
             },
             "time": "18:30",
             "date": "2026-08-29"
+        },
+        {
+            "channel": "Arena Sport 8 Hrvatska HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Galatasaray   vs   G\u00f6ztepe"
         },
         {
             "channel": "beIN Connect T\u00fcrkiye",
@@ -427,6 +383,14 @@
             "date": "2026-08-30"
         },
         {
+            "channel": "Arena Sport 6 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11554 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Samsunspor   vs   Fenerbah\u00e7e"
+        },
+        {
             "channel": "beIN Connect T\u00fcrkiye",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -513,6 +477,70 @@
             "date": "2026-08-31"
         },
         {
+            "channel": "beIN Connect Australia",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://connect-au.beinsports.com/en",
+            "related_to": "     Besiktas   vs   Corum FK"
+        },
+        {
+            "channel": "beIN Connect Hong Kong",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-hk.beinsports.com/en",
+            "related_to": "     Besiktas   vs   Corum FK"
+        },
+        {
+            "channel": "beIN Connect Indonesia",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-id.beinsports.com/id",
+            "related_to": "     Besiktas   vs   Corum FK"
+        },
+        {
+            "channel": "beIN Connect Malaysia",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-my.beinsports.com/en",
+            "related_to": "     Besiktas   vs   Corum FK"
+        },
+        {
+            "channel": "beIN Connect New Zealand",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-nz.beinsports.com/en",
+            "related_to": "     Besiktas   vs   Corum FK"
+        },
+        {
+            "channel": "beIN Connect Philippines",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-ph.beinsports.com/en",
+            "related_to": "     Besiktas   vs   Corum FK"
+        },
+        {
+            "channel": "beIN Connect Singapore",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-sg.beinsports.com/en",
+            "related_to": "     Besiktas   vs   Corum FK"
+        },
+        {
+            "channel": "beIN Connect Thailand",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-th.beinsports.com/en",
+            "related_to": "     Besiktas   vs   Corum FK"
+        },
+        {
             "channel": "beIN Connect T\u00fcrkiye",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -529,6 +557,14 @@
             "related_to": "     Besiktas   vs   Corum FK"
         },
         {
+            "channel": "beIN Sports HK 2 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Besiktas   vs   Corum FK"
+        },
+        {
             "channel": "beIN Sports T\u00fcrkiye 1 HD",
             "sat": "Turksat 3A 42.0\u00b0e",
             "freq": "11180 H 30000 - 3/4",
@@ -541,6 +577,14 @@
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "10977 H 24114 - 1/2",
             "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Besiktas   vs   Corum FK"
+        },
+        {
+            "channel": "Sport 2 Hungary HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "11766 V 28000 - 7/8",
+            "encry": "NagraVision",
             "link": "#",
             "related_to": "     Besiktas   vs   Corum FK"
         },

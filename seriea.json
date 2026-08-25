@@ -1,874 +1,6 @@
 {
     "footonsat": [
         {
-            "compet": "Italian Serie A - Week 1",
-            "match": "     Bologna   vs   Lazio",
-            "flags": {
-                "team1": "italy",
-                "team2": "italy"
-            },
-            "time": "16:30",
-            "date": "2026-08-24"
-        },
-        {
-            "channel": "Arena 4 Hungary HD",
-            "sat": "Thor 5 0.8\u00b0w",
-            "freq": "12265 V 28000 - 7/8",
-            "encry": "Conax",
-            "link": "#",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "Arena M3 Premium MKD HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12246 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "Arena Premium 2 BiH HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "Arena Premium 2 Srbija HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "#",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "Arena Sport 1 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11678 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "Arena Sport 2 Slovenija HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "ART Motion Sport 2 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://artmotion.net/tv/",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "Astro Football HD",
-            "sat": "Measat 3b 91.5\u00b0e",
-            "freq": "10932 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "Azam Sports 3 HD",
-            "sat": "Eutelsat 7C 7.0\u00b0e",
-            "freq": "10981 V 45000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "beIN Sports Australia 3 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "CBS Sports Network USA",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "Cosmote Sport 2 HD",
-            "sat": "Eutelsat 9B 9.0\u00b0e",
-            "freq": "11843 V 27500 - 3/5",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "Cytavision Sports 4 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "Cytavision Sports PPV 4 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "DAZN 2 Bar Deutsch HD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11798 H 27500 - 9/0",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "DAZN Belgium ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.dazn.com/en-BE/",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "DAZN Espa\u00f1a ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "DAZN France ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "DAZN Great Britain (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "DAZN Ireland ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.dazn.com/en-IE/home",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "DAZN Italia ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "Digi Sport 2 Romania HD",
-            "sat": "Thor 6 0.8\u00b0w",
-            "freq": "11823 H 30000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "Eleven Sports 1 Polska HD",
-            "sat": "Hotbird 13G 13.0\u00b0e",
-            "freq": "11488 H 27500 - 3/4",
-            "encry": "HD Mediaguard",
-            "link": "#",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "ESPN 4 Brazil HD",
-            "sat": "SES 6 40.5\u00b0w",
-            "freq": "3980 L 21600 - 5/6",
-            "encry": "HD PowerVu",
-            "link": "#",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "Fast Sports TV Armenia",
-            "sat": "Eutelsat 70B 70.5\u00b0e",
-            "freq": "11050 H 20030 - 1/2",
-            "encry": "MPEG-4 Biss",
-            "link": "https://fasttv.am/tv-channels/fastsports",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "MATCH! Futbol 1 HD",
-            "sat": "Horizons 2 84.8\u00b0e",
-            "freq": "11840 H 28800 - 2/3",
-            "encry": "MPEG-4 Irdeto",
-            "link": "#",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "MATCH! Russia HD",
-            "sat": "Yamal 401 90.0\u00b0e",
-            "freq": "3786 R 15284 - 3/4",
-            "encry": "MPEG-4 GoSTcrypt",
-            "link": "#",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "MATCH! TV [online] ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://matchtv.ru/video/sports/football",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "MAX Sport 3 Bulgaria HD",
-            "sat": "AzerSpace 2 45.0\u00b0e",
-            "freq": "12600 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "Megogo Futbol 1 ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "MTV Katsomon+ ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.mtv.fi/urheilu",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "MTV Urheilu 1 Suomi HD",
-            "sat": "Thor 7 0.6\u00b0w",
-            "freq": "12476 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "NBC Universo USA",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "Paramount+ USA ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "Peacock Premium USA ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "Persiana Sport HD",
-            "sat": "MonacoSat 52.0\u00b0e",
-            "freq": "10762 V 27500 - 2/3",
-            "encry": "FTA",
-            "link": "#",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "Prima Sport RO 2 HD",
-            "sat": "Hellas Sat 3 39.0\u00b0e",
-            "freq": "12565 V 30000 - 7/8",
-            "encry": "VideoGuard",
-            "link": "#",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "S Sport 2 T\u00fcrkiye HD",
-            "sat": "Turksat 4A 42.0\u00b0e",
-            "freq": "11880 H 20000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "Setanta Sports 1 Baltic",
-            "sat": "Astra 4A 5.0\u00b0e",
-            "freq": "11958 H 27500 - 5/6",
-            "encry": "MPEG-4 NDS",
-            "link": "#",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "Sport 1 Czechia HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12070 H 27500 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "Sport TV2 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "SuperSport Football HD",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "11674 H 30000 - 5/6",
-            "encry": "Irdeto",
-            "link": "#",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "SuperSport M\u00e1Ximo 1 HD",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "11594 V 27500 - 5/6",
-            "encry": "Irdeto",
-            "link": "#",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "SuperSport M\u00e1Ximo 360",
-            "sat": "Express AMU1 36.1\u00b0e",
-            "freq": "12130 H 27500 - 2/3",
-            "encry": "Irdeto",
-            "link": "#",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "Tring Sport 1 HD",
-            "sat": "Hellas Sat 4 39.0\u00b0e",
-            "freq": "10890 H 30000 - 5/6",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "TSN Malta 6 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "TV2 Play Danmark ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://play.tv2.dk/sport",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "TV4 Play Sverige [online]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.tv4play.se/sport",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "TV4 Sport Live 2 HD",
-            "sat": "Thor 6 0.8\u00b0w",
-            "freq": "10778 H 25000 - 3/4",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "VG+ Sport Norge ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.vgtv.no/live",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "channel": "Ziggo Sport 1 HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12129 V 29900 - 3/4",
-            "encry": "HD Mediaguard",
-            "link": "#",
-            "related_to": "     Bologna   vs   Lazio"
-        },
-        {
-            "compet": "Italian Serie A - Week 1",
-            "match": "     Roma   vs   Fiorentina",
-            "flags": {
-                "team1": "italy",
-                "team2": "italy"
-            },
-            "time": "18:45",
-            "date": "2026-08-24"
-        },
-        {
-            "channel": "Arena 4 Hungary HD",
-            "sat": "Thor 5 0.8\u00b0w",
-            "freq": "12265 V 28000 - 7/8",
-            "encry": "Conax",
-            "link": "#",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "Arena M3 Premium MKD HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12246 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "Arena Premium 1 Slovenija",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "Arena Premium 2 BiH HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "Arena Premium 2 Srbija HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "#",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "Arena Sport 2 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11595 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "ART Motion Sport 2 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://artmotion.net/tv/",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "Astro Football HD",
-            "sat": "Measat 3b 91.5\u00b0e",
-            "freq": "10932 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "Azam Sports 3 HD",
-            "sat": "Eutelsat 7C 7.0\u00b0e",
-            "freq": "10981 V 45000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "beIN Sports Australia 3 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "Cosmote Sport 3 HD",
-            "sat": "Eutelsat 9B 9.0\u00b0e",
-            "freq": "11843 V 27500 - 3/5",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "Cytavision Sports 4 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "Cytavision Sports PPV 4 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "DAZN 2 Bar Deutsch HD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11798 H 27500 - 9/0",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "DAZN Belgium ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.dazn.com/en-BE/",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "DAZN Espa\u00f1a ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "DAZN France ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "DAZN Great Britain (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "DAZN Ireland ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.dazn.com/en-IE/home",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "DAZN Italia ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "Digi Sport 2 Romania HD",
-            "sat": "Thor 6 0.8\u00b0w",
-            "freq": "11823 H 30000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "Eleven Sports 1 Polska HD",
-            "sat": "Hotbird 13G 13.0\u00b0e",
-            "freq": "11488 H 27500 - 3/4",
-            "encry": "HD Mediaguard",
-            "link": "#",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "Fast Sports 1 Armenia ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://fasttv.am/tv-channels/fastsports1",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "GEM Sport 2",
-            "sat": "Al Yah 1 52.5\u00b0e",
-            "freq": "11881 V 27500 - 5/6",
-            "encry": "FTA",
-            "link": "#",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "Go3 Sport 1 Baltic HD",
-            "sat": "Astra 4A 5.0\u00b0e",
-            "freq": "11938 V 27500 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "https://go3.tv/en/live_tv",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "MATCH! Futbol 1 HD",
-            "sat": "Horizons 2 84.8\u00b0e",
-            "freq": "11840 H 28800 - 2/3",
-            "encry": "MPEG-4 Irdeto",
-            "link": "#",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "MATCH! Russia HD",
-            "sat": "Yamal 401 90.0\u00b0e",
-            "freq": "3786 R 15284 - 3/4",
-            "encry": "MPEG-4 GoSTcrypt",
-            "link": "#",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "MATCH! TV [online] ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://matchtv.ru/video/sports/football",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "MAX Sport 3 Bulgaria HD",
-            "sat": "AzerSpace 2 45.0\u00b0e",
-            "freq": "12600 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "Megogo Futbol 1 ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "MTV Katsomon+ ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.mtv.fi/urheilu",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "MTV Urheilu 1 Suomi HD",
-            "sat": "Thor 7 0.6\u00b0w",
-            "freq": "12476 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "Paramount+ USA ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "Peacock Premium USA ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "Polsat Sport 3 HD",
-            "sat": "Hotbird 13G 13.0\u00b0e",
-            "freq": "12284 H 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "Prima Sport RO 2 HD",
-            "sat": "Hellas Sat 3 39.0\u00b0e",
-            "freq": "12565 V 30000 - 7/8",
-            "encry": "VideoGuard",
-            "link": "#",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "S Sport 2 T\u00fcrkiye HD",
-            "sat": "Turksat 4A 42.0\u00b0e",
-            "freq": "11880 H 20000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "Setanta Sports 1 Baltic",
-            "sat": "Astra 4A 5.0\u00b0e",
-            "freq": "11958 H 27500 - 5/6",
-            "encry": "MPEG-4 NDS",
-            "link": "#",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "Sport 1 Czechia HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12070 H 27500 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "Sport TV Azerbaijan (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "Sport TV2 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "SuperSport Football HD",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "11674 H 30000 - 5/6",
-            "encry": "Irdeto",
-            "link": "#",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "SuperSport M\u00e1Ximo 360",
-            "sat": "Express AMU1 36.1\u00b0e",
-            "freq": "12130 H 27500 - 2/3",
-            "encry": "Irdeto",
-            "link": "#",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "Tring Sport 1 HD",
-            "sat": "Hellas Sat 4 39.0\u00b0e",
-            "freq": "10890 H 30000 - 5/6",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "TSN Malta 3 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "TV2 Play Danmark ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://play.tv2.dk/sport",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "TV2 Sport Dansk HD",
-            "sat": "Thor 6 5.0\u00b0e",
-            "freq": "11305 H 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "TV4 Play Sverige [online]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.tv4play.se/sport",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "TV4 Sport Live 1 HD",
-            "sat": "Thor 6 0.8\u00b0w",
-            "freq": "10934 H 25000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "VG+ Sport Norge ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.vgtv.no/live",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
-            "channel": "Ziggo Sport 2",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12129 V 29900 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "#",
-            "related_to": "     Roma   vs   Fiorentina"
-        },
-        {
             "compet": "Italian Serie A - Week 2",
             "match": "     AC Milan   vs   Venezia",
             "flags": {
@@ -960,6 +92,14 @@
         },
         {
             "channel": "DAZN Italia ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     AC Milan   vs   Venezia"
+        },
+        {
+            "channel": "DAZN Japan ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
@@ -1201,6 +341,14 @@
             "related_to": "     Fiorentina   vs   Frosinone"
         },
         {
+            "channel": "DAZN Japan ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Fiorentina   vs   Frosinone"
+        },
+        {
             "channel": "Eleven Sports 4 Polska HD",
             "sat": "Hotbird 13G 13.0\u00b0e",
             "freq": "11278 V 27500 - 3/4",
@@ -1387,6 +535,14 @@
             "related_to": "     Monza   vs   Udinese"
         },
         {
+            "channel": "DAZN Japan ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Monza   vs   Udinese"
+        },
+        {
             "channel": "Eleven Sports 3 Polska HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "11488 H 27500 - 3/4",
@@ -1566,6 +722,14 @@
         },
         {
             "channel": "DAZN Italia ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Sassuolo   vs   Torino"
+        },
+        {
+            "channel": "DAZN Japan ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
@@ -1768,6 +932,14 @@
         },
         {
             "channel": "DAZN Italia ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Juventus   vs   Parma"
+        },
+        {
+            "channel": "DAZN Japan ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
@@ -2219,6 +1391,14 @@
             "related_to": "     Cagliari   vs   Inter Milan"
         },
         {
+            "channel": "DAZN Japan ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Cagliari   vs   Inter Milan"
+        },
+        {
             "channel": "Eleven Sports 1 Polska HD",
             "sat": "Hotbird 13G 13.0\u00b0e",
             "freq": "11488 H 27500 - 3/4",
@@ -2461,6 +1641,14 @@
             "related_to": "     Lazio   vs   Genoa"
         },
         {
+            "channel": "DAZN Japan ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Lazio   vs   Genoa"
+        },
+        {
             "channel": "Eleven Sports 2 Polska HD",
             "sat": "Hotbird 13G 13.0\u00b0e",
             "freq": "11488 H 27500 - 3/4",
@@ -2567,6 +1755,14 @@
             "date": "2026-08-31"
         },
         {
+            "channel": "beIN Sports Australia 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Lecce   vs   Roma"
+        },
+        {
             "channel": "DAZN Belgium ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -2616,6 +1812,14 @@
         },
         {
             "channel": "DAZN Italia ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Lecce   vs   Roma"
+        },
+        {
+            "channel": "DAZN Japan ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
@@ -2753,6 +1957,14 @@
             "date": "2026-08-31"
         },
         {
+            "channel": "beIN Sports Australia 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Atalanta   vs   Bologna"
+        },
+        {
             "channel": "DAZN Belgium ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -2802,6 +2014,14 @@
         },
         {
             "channel": "DAZN Italia ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Atalanta   vs   Bologna"
+        },
+        {
+            "channel": "DAZN Japan ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
@@ -2979,10 +2199,26 @@
             "related_to": "     Genoa   vs   Como 1907"
         },
         {
+            "channel": "DAZN Japan ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Genoa   vs   Como 1907"
+        },
+        {
             "channel": "Paramount+ USA ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Genoa   vs   Como 1907"
+        },
+        {
+            "channel": "S Sport 2 T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11880 H 20000 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Genoa   vs   Como 1907"
         },
@@ -3077,10 +2313,26 @@
             "related_to": "     Fiorentina   vs   Torino"
         },
         {
+            "channel": "DAZN Japan ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Fiorentina   vs   Torino"
+        },
+        {
             "channel": "Paramount+ USA ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Fiorentina   vs   Torino"
+        },
+        {
+            "channel": "S Sport 2 T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11880 H 20000 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Fiorentina   vs   Torino"
         },
@@ -3175,10 +2427,26 @@
             "related_to": "     Inter Milan   vs   Napoli"
         },
         {
+            "channel": "DAZN Japan ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Inter Milan   vs   Napoli"
+        },
+        {
             "channel": "Paramount+ USA ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Inter Milan   vs   Napoli"
+        },
+        {
+            "channel": "S Sport 2 T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11880 H 20000 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Inter Milan   vs   Napoli"
         },
@@ -3273,10 +2541,26 @@
             "related_to": "     Roma   vs   Atalanta"
         },
         {
+            "channel": "DAZN Japan ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Roma   vs   Atalanta"
+        },
+        {
             "channel": "Paramount+ USA ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Roma   vs   Atalanta"
+        },
+        {
+            "channel": "S Sport 2 T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11880 H 20000 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Roma   vs   Atalanta"
         },
@@ -3364,6 +2648,14 @@
         },
         {
             "channel": "DAZN Italia ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Parma   vs   Monza"
+        },
+        {
+            "channel": "DAZN Japan ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
@@ -3469,6 +2761,14 @@
             "related_to": "     Frosinone   vs   Venezia"
         },
         {
+            "channel": "DAZN Japan ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Frosinone   vs   Venezia"
+        },
+        {
             "channel": "Paramount+ USA ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -3567,10 +2867,26 @@
             "related_to": "     Bologna   vs   Sassuolo"
         },
         {
+            "channel": "DAZN Japan ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Bologna   vs   Sassuolo"
+        },
+        {
             "channel": "Paramount+ USA ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Bologna   vs   Sassuolo"
+        },
+        {
+            "channel": "S Sport 2 T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11880 H 20000 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Bologna   vs   Sassuolo"
         },
@@ -3665,10 +2981,26 @@
             "related_to": "     Juventus   vs   AC Milan"
         },
         {
+            "channel": "DAZN Japan ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Juventus   vs   AC Milan"
+        },
+        {
             "channel": "Paramount+ USA ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Juventus   vs   AC Milan"
+        },
+        {
+            "channel": "S Sport 2 T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11880 H 20000 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Juventus   vs   AC Milan"
         },
@@ -3763,10 +3095,26 @@
             "related_to": "     Cagliari   vs   Lecce"
         },
         {
+            "channel": "DAZN Japan ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Cagliari   vs   Lecce"
+        },
+        {
             "channel": "Paramount+ USA ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Cagliari   vs   Lecce"
+        },
+        {
+            "channel": "S Sport 2 T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11880 H 20000 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Cagliari   vs   Lecce"
         },
@@ -3861,10 +3209,26 @@
             "related_to": "     Udinese   vs   Lazio"
         },
         {
+            "channel": "DAZN Japan ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Udinese   vs   Lazio"
+        },
+        {
             "channel": "Paramount+ USA ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Udinese   vs   Lazio"
+        },
+        {
+            "channel": "S Sport 2 T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11880 H 20000 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Udinese   vs   Lazio"
         },

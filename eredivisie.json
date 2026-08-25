@@ -1,42 +1,6 @@
 {
     "footonsat": [
         {
-            "compet": "Dutch Eerste Divisie - Week 3",
-            "match": "     PSV Youths   vs   FC Oss",
-            "flags": {
-                "team1": "holland",
-                "team2": "holland"
-            },
-            "time": "18:00",
-            "date": "2026-08-24"
-        },
-        {
-            "channel": "ESPN 2 Nederland HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "11856 V 29900 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     PSV Youths   vs   FC Oss"
-        },
-        {
-            "compet": "Dutch Eerste Divisie - Week 3",
-            "match": "     Utrecht Youths   vs   Heracles Almelo",
-            "flags": {
-                "team1": "holland",
-                "team2": "holland"
-            },
-            "time": "18:00",
-            "date": "2026-08-24"
-        },
-        {
-            "channel": "ESPN 1 Nederland HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "11739 V 29900 - 3/4",
-            "encry": "HD Mediaguard",
-            "link": "#",
-            "related_to": "     Utrecht Youths   vs   Heracles Almelo"
-        },
-        {
             "compet": "Dutch Eredivisie - Week 4",
             "match": "     Groningen   vs   Fortuna Sittard",
             "flags": {
@@ -273,6 +237,14 @@
             "related_to": "     Utrecht   vs   PSV Eindhoven"
         },
         {
+            "channel": "S Sport+ Streaming",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Utrecht   vs   PSV Eindhoven"
+        },
+        {
             "channel": "Setanta Sports 1 Eurasia HD",
             "sat": "KazSat 3 58.5\u00b0e",
             "freq": "12657 V 45000 - 3/4",
@@ -397,6 +369,14 @@
             "related_to": "     Feyenoord   vs   ADO Den Haag"
         },
         {
+            "channel": "S Sport+ Streaming",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Feyenoord   vs   ADO Den Haag"
+        },
+        {
             "channel": "Sport TV2 Slovenija",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -509,6 +489,14 @@
             "sat": "Hotbird 13G 13.0\u00b0e",
             "freq": "12284 H 27500 - 3/4",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Telstar   vs   Ajax"
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Telstar   vs   Ajax"
         },
