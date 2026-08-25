@@ -473,6 +473,22 @@
             "related_to": "     Abha Club   vs   Al Khaleej"
         },
         {
+            "channel": "Fox Deportes USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Abha Club   vs   Al Khaleej"
+        },
+        {
+            "channel": "Fox Sports 2 USA HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Abha Club   vs   Al Khaleej"
+        },
+        {
             "channel": "SportKlub 1 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11471 H 30000 - 3/4",
@@ -485,6 +501,14 @@
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11387 H 32000 - 3/4",
             "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Abha Club   vs   Al Khaleej"
+        },
+        {
+            "channel": "ST Sports Premium HD",
+            "sat": "Belintersat 1 51.5\u00b0e",
+            "freq": "11098 H 16665 - 1/2",
+            "encry": "Conax",
             "link": "#",
             "related_to": "     Abha Club   vs   Al Khaleej"
         },
@@ -705,10 +729,26 @@
             "related_to": "     Sabah   vs   Hapoel Be'er Sheva"
         },
         {
+            "channel": "DAZN 2 Bar Deutsch HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11798 H 27500 - 9/0",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Sabah   vs   Hapoel Be'er Sheva"
+        },
+        {
             "channel": "DAZN Deutsch ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Sabah   vs   Hapoel Be'er Sheva"
+        },
+        {
+            "channel": "Digi 4K UHD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Sabah   vs   Hapoel Be'er Sheva"
         },
@@ -773,6 +813,14 @@
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12090 V 29900 - 3/4",
             "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Sabah   vs   Hapoel Be'er Sheva"
+        },
+        {
+            "channel": "Okko Prime Sport HD ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Sabah   vs   Hapoel Be'er Sheva"
         },
@@ -849,6 +897,14 @@
             "related_to": "     Sabah   vs   Hapoel Be'er Sheva"
         },
         {
+            "channel": "Sony Sports TEN 2 India HD",
+            "sat": "G-Sat 10 83.0\u00b0e",
+            "freq": "11090 V 32720 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Sabah   vs   Hapoel Be'er Sheva"
+        },
+        {
             "channel": "Sport 1 Hungary HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "12034 V 30000 - 3/4",
@@ -894,6 +950,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://play.tv2.no/sport",
+            "related_to": "     Sabah   vs   Hapoel Be'er Sheva"
+        },
+        {
+            "channel": "TV3 MAX Dansk HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11345 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
             "related_to": "     Sabah   vs   Hapoel Be'er Sheva"
         },
         {
@@ -973,40 +1037,6 @@
             "related_to": "     Wacker Burghausen   vs   Ingolstadt"
         },
         {
-            "compet": "German Regionalliga: Nordost - Week 6",
-            "match": "     Lok Leipzig   vs   Chemnitz",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "17:00",
-            "date": "2026-08-25"
-        },
-        {
-            "channel": "FreiePresse [online]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 -",
-            "encry": "",
-            "link": "https://www.freiepresse.de/sport",
-            "related_to": "     Lok Leipzig   vs   Chemnitz"
-        },
-        {
-            "channel": "LVZ Live Sport [$]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.lvz.de/themen/sachsen-livesport/",
-            "related_to": "     Lok Leipzig   vs   Chemnitz"
-        },
-        {
-            "channel": "MZ Deutsch Live [online]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 -",
-            "encry": "",
-            "link": "https://www.mz.de/live",
-            "related_to": "     Lok Leipzig   vs   Chemnitz"
-        },
-        {
             "compet": "Swedish Superettan - Week 20",
             "match": "     Oster   vs   GIF Sundsvall",
             "flags": {
@@ -1057,6 +1087,40 @@
             "encry": "LiveOnSat.com",
             "link": "https://www.tv4play.se/sport",
             "related_to": "     Orebro   vs   Varberg"
+        },
+        {
+            "compet": "German Regionalliga: Nordost - Week 6",
+            "match": "     Lok Leipzig   vs   Chemnitz",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "17:00",
+            "date": "2026-08-25"
+        },
+        {
+            "channel": "FreiePresse [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 -",
+            "encry": "",
+            "link": "https://www.freiepresse.de/sport",
+            "related_to": "     Lok Leipzig   vs   Chemnitz"
+        },
+        {
+            "channel": "LVZ Live Sport [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.lvz.de/themen/sachsen-livesport/",
+            "related_to": "     Lok Leipzig   vs   Chemnitz"
+        },
+        {
+            "channel": "MZ Deutsch Live [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 -",
+            "encry": "",
+            "link": "https://www.mz.de/live",
+            "related_to": "     Lok Leipzig   vs   Chemnitz"
         },
         {
             "compet": "Danish Cup (DBU Pokalen) - 2nd Round",
@@ -1221,6 +1285,22 @@
             "related_to": "     Al Ettifaq   vs   Al Nassr"
         },
         {
+            "channel": "Fox Deportes USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Ettifaq   vs   Al Nassr"
+        },
+        {
+            "channel": "Fox Sports 2 USA HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Ettifaq   vs   Al Nassr"
+        },
+        {
             "channel": "M+ Vamos 1 Espa\u00f1a HD",
             "sat": "Astra 1P 19.2\u00b0e",
             "freq": "11156 V 22000 - 5/6",
@@ -1229,10 +1309,34 @@
             "related_to": "     Al Ettifaq   vs   Al Nassr"
         },
         {
+            "channel": "Okko Sport HD ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Ettifaq   vs   Al Nassr"
+        },
+        {
+            "channel": "Polsat Sport Premium 1 HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11117 V 27500 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Al Ettifaq   vs   Al Nassr"
+        },
+        {
             "channel": "Prima Sport RO 4 HD",
             "sat": "Hellas Sat 3 39.0\u00b0e",
             "freq": "12405 V 30000 - 7/8",
             "encry": "Viaccess",
+            "link": "#",
+            "related_to": "     Al Ettifaq   vs   Al Nassr"
+        },
+        {
+            "channel": "Setanta Sports 2 Baltic",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Al Ettifaq   vs   Al Nassr"
         },
@@ -1269,6 +1373,14 @@
             "related_to": "     Al Ettifaq   vs   Al Nassr"
         },
         {
+            "channel": "Sportitalia HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12341 V 31400 - 5/6",
+            "encry": "FTA",
+            "link": "https://sportitalialive.it/sihd/",
+            "related_to": "     Al Ettifaq   vs   Al Nassr"
+        },
+        {
             "channel": "SportKlub 3 Hrvatska",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11387 H 30000  -3/4",
@@ -1285,6 +1397,14 @@
             "related_to": "     Al Ettifaq   vs   Al Nassr"
         },
         {
+            "channel": "SporTV Brazil HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Al Ettifaq   vs   Al Nassr"
+        },
+        {
             "channel": "SPOTV Malaysia HD",
             "sat": "Measat 3b 91.5\u00b0e",
             "freq": "10772 V 30000 - 5/6",
@@ -1297,6 +1417,14 @@
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "11766 V 28000 - 7/8",
             "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Al Ettifaq   vs   Al Nassr"
+        },
+        {
+            "channel": "ST World Football HD",
+            "sat": "Eutelsat 10B 10.0\u00b0e",
+            "freq": "3736 R 07307 - 5/6",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Al Ettifaq   vs   Al Nassr"
         },
@@ -1462,88 +1590,6 @@
         },
         {
             "compet": "English League Cup - 2nd Round",
-            "match": "     Plymouth Argyle   vs   Coventry City",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "18:45",
-            "date": "2026-08-25"
-        },
-        {
-            "channel": "beIN Sports MENA 9 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10850 V 27500 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Plymouth Argyle   vs   Coventry City"
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "sat": "AzerSpace 2 45.0\u00b0e",
-            "freq": "12600 V 30000 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Plymouth Argyle   vs   Coventry City"
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Plymouth Argyle   vs   Coventry City"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Plymouth Argyle   vs   Coventry City"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Plymouth Argyle   vs   Coventry City"
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Plymouth Argyle   vs   Coventry City"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Plymouth Argyle   vs   Coventry City"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Plymouth Argyle   vs   Coventry City"
-        },
-        {
-            "channel": "ViaPlay \u00cdsland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Plymouth Argyle   vs   Coventry City"
-        },
-        {
-            "compet": "English League Cup - 2nd Round",
             "match": "     Southampton   vs   West Ham United",
             "flags": {
                 "team1": "england",
@@ -1609,6 +1655,22 @@
             "related_to": "     Southampton   vs   West Ham United"
         },
         {
+            "channel": "Diema Sport HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Southampton   vs   West Ham United"
+        },
+        {
+            "channel": "ESPN 4 Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "3980 L 21600 - 5/6",
+            "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     Southampton   vs   West Ham United"
+        },
+        {
             "channel": "Paramount+ USA ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1628,6 +1690,30 @@
             "channel": "Sport 2 Israel HD",
             "sat": "Dror 1 4.0\u00b0w",
             "freq": "12259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Southampton   vs   West Ham United"
+        },
+        {
+            "channel": "Sport TV2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Southampton   vs   West Ham United"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 360",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12130 H 27500 - 2/3",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Southampton   vs   West Ham United"
+        },
+        {
+            "channel": "V Sport 1 Sverige HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10809 V 25000 - 3/4",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Southampton   vs   West Ham United"
@@ -1715,6 +1801,14 @@
             "related_to": "     Sheffield Wednesday   vs   Wolves"
         },
         {
+            "channel": "Sport TV7 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Sheffield Wednesday   vs   Wolves"
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1761,6 +1855,96 @@
             "encry": "",
             "link": "#",
             "related_to": "     Sheffield Wednesday   vs   Wolves"
+        },
+        {
+            "compet": "English League Cup - 2nd Round",
+            "match": "     Plymouth Argyle   vs   Coventry City",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "18:45",
+            "date": "2026-08-25"
+        },
+        {
+            "channel": "beIN Sports MENA 9 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Plymouth Argyle   vs   Coventry City"
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12600 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Plymouth Argyle   vs   Coventry City"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Plymouth Argyle   vs   Coventry City"
+        },
+        {
+            "channel": "ST Sports Focus",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11977 V 27500 - 3/4",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Plymouth Argyle   vs   Coventry City"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Plymouth Argyle   vs   Coventry City"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Plymouth Argyle   vs   Coventry City"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Plymouth Argyle   vs   Coventry City"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Plymouth Argyle   vs   Coventry City"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Plymouth Argyle   vs   Coventry City"
+        },
+        {
+            "channel": "ViaPlay \u00cdsland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Plymouth Argyle   vs   Coventry City"
         },
         {
             "compet": "English League Cup - 2nd Round",
@@ -1817,6 +2001,14 @@
             "sat": "Dror 1 4.0\u00b0w",
             "freq": "11259 V 30000 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Ipswich Town   vs   Leicester City"
+        },
+        {
+            "channel": "ST Sports Life",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "12418 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     Ipswich Town   vs   Leicester City"
         },
@@ -2039,24 +2231,6 @@
             "related_to": "     Alloa Athletic   vs   Motherwell B"
         },
         {
-            "compet": "Scottish Challenge Cup - Group Stage - 2",
-            "match": "     Dumbarton   vs   Celtic B",
-            "flags": {
-                "team1": "scotland",
-                "team2": "scotland"
-            },
-            "time": "18:45",
-            "date": "2026-08-25"
-        },
-        {
-            "channel": "Dumbarton FC [$]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://sonsplayer.com/",
-            "related_to": "     Dumbarton   vs   Celtic B"
-        },
-        {
             "compet": "English League Cup - 2nd Round",
             "match": "     Doncaster Rovers   vs   Middlesbrough",
             "flags": {
@@ -2159,6 +2333,24 @@
             "encry": "",
             "link": "#",
             "related_to": "     Watford   vs   Peterborough United"
+        },
+        {
+            "compet": "Scottish Challenge Cup - Group Stage - 2",
+            "match": "     Dumbarton   vs   Celtic B",
+            "flags": {
+                "team1": "scotland",
+                "team2": "scotland"
+            },
+            "time": "18:45",
+            "date": "2026-08-25"
+        },
+        {
+            "channel": "Dumbarton FC [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://sonsplayer.com/",
+            "related_to": "     Dumbarton   vs   Celtic B"
         },
         {
             "compet": "Scottish Challenge Cup - Group Stage - 2",
@@ -2401,6 +2593,14 @@
             "related_to": "     Nottingham Forest   vs   Leeds United"
         },
         {
+            "channel": "ESPN 1 Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "3980 L 21600 - 3/4",
+            "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     Nottingham Forest   vs   Leeds United"
+        },
+        {
             "channel": "ITV 1 England HD",
             "sat": "Astra 2E 28.2\u00b0e",
             "freq": "11344 H 27500 - 2/3",
@@ -2457,6 +2657,22 @@
             "related_to": "     Nottingham Forest   vs   Leeds United"
         },
         {
+            "channel": "Sport TV3 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Nottingham Forest   vs   Leeds United"
+        },
+        {
+            "channel": "ST Sports Arena",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11938 V 27500 - 3/4",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Nottingham Forest   vs   Leeds United"
+        },
+        {
             "channel": "STV Player (geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2469,6 +2685,22 @@
             "sat": "Astra 2E 28.2\u00b0e",
             "freq": "11386 V 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Nottingham Forest   vs   Leeds United"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 2A HD",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12169 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Nottingham Forest   vs   Leeds United"
+        },
+        {
+            "channel": "SuperSport Premier League HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
             "link": "#",
             "related_to": "     Nottingham Forest   vs   Leeds United"
         },
@@ -2517,6 +2749,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Nottingham Forest   vs   Leeds United"
+        },
+        {
+            "channel": "ViaPlay Sport Sverige HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Nottingham Forest   vs   Leeds United"
         },
@@ -2627,9 +2867,33 @@
             "related_to": "     Birmingham City   vs   Brentford"
         },
         {
+            "channel": "SuperSport Football HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11674 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Birmingham City   vs   Brentford"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 1 HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Birmingham City   vs   Brentford"
+        },
+        {
             "channel": "V Sport 2 Norge HD",
             "sat": "Thor 6 5.0\u00b0e",
             "freq": "11345 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Birmingham City   vs   Brentford"
+        },
+        {
+            "channel": "V Sport Extra Sverige HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10903 V 25000 - 3/4",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Birmingham City   vs   Brentford"
@@ -2745,6 +3009,30 @@
             "sat": "Eutelsat 9B 9.0\u00b0e",
             "freq": "12149 V 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Valencia   vs   Real Betis"
+        },
+        {
+            "channel": "DAZN 1 Bar Deutsch HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12070 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Valencia   vs   Real Betis"
+        },
+        {
+            "channel": "DAZN 1 Italia HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11843 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Valencia   vs   Real Betis"
+        },
+        {
+            "channel": "DAZN 1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12399 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Valencia   vs   Real Betis"
         },
@@ -2909,6 +3197,14 @@
             "related_to": "     Valencia   vs   Real Betis"
         },
         {
+            "channel": "MAX Sport 4 Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "11475 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Valencia   vs   Real Betis"
+        },
+        {
             "channel": "Megogo Futbol 4 ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -3005,6 +3301,14 @@
             "related_to": "     Valencia   vs   Real Betis"
         },
         {
+            "channel": "Setanta Sports 1 Baltic",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11958 H 27500 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Valencia   vs   Real Betis"
+        },
+        {
             "channel": "Setanta Sports 1 Eurasia HD",
             "sat": "KazSat 3 58.5\u00b0e",
             "freq": "12657 V 45000 - 3/4",
@@ -3037,6 +3341,14 @@
             "related_to": "     Valencia   vs   Real Betis"
         },
         {
+            "channel": "ST Sports Premium HD",
+            "sat": "Belintersat 1 51.5\u00b0e",
+            "freq": "11098 H 16665 - 1/2",
+            "encry": "Conax",
+            "link": "#",
+            "related_to": "     Valencia   vs   Real Betis"
+        },
+        {
             "channel": "SuperSport 2 Albania HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "10845 H 30000 - 3/5",
@@ -3049,6 +3361,14 @@
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11594 V 27500 - 5/6",
             "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Valencia   vs   Real Betis"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 3A HD",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12169 V 27500 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Valencia   vs   Real Betis"
         },
@@ -3231,6 +3551,14 @@
             "related_to": "     LASK Linz   vs   Celtic"
         },
         {
+            "channel": "Digi 4K UHD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     LASK Linz   vs   Celtic"
+        },
+        {
             "channel": "Digi Sport 1 Romania HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "11823 H 30000 - 5/6",
@@ -3391,11 +3719,35 @@
             "related_to": "     LASK Linz   vs   Celtic"
         },
         {
+            "channel": "Q Sport Football HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     LASK Linz   vs   Celtic"
+        },
+        {
+            "channel": "Qazaqstan TV HD",
+            "sat": "KazSat 2 86.5\u00b0e",
+            "freq": "11495 V 09000 - 8/9",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     LASK Linz   vs   Celtic"
+        },
+        {
             "channel": "RTL+ Hungary [online]",
             "sat": "Download APP 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.rtlmost.hu/rtl_most/sport-rtl-f_1222",
+            "related_to": "     LASK Linz   vs   Celtic"
+        },
+        {
+            "channel": "Setanta Sports 2 Georgia HD",
+            "sat": " \u00b0",
+            "freq": " ",
+            "encry": "",
+            "link": "#",
             "related_to": "     LASK Linz   vs   Celtic"
         },
         {
@@ -3415,6 +3767,14 @@
             "related_to": "     LASK Linz   vs   Celtic"
         },
         {
+            "channel": "Sony Sports TEN 2 India HD",
+            "sat": "G-Sat 10 83.0\u00b0e",
+            "freq": "11090 V 32720 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     LASK Linz   vs   Celtic"
+        },
+        {
             "channel": "Sport 1 Hungary HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "12034 V 30000 - 3/4",
@@ -3427,6 +3787,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     LASK Linz   vs   Celtic"
+        },
+        {
+            "channel": "Sport TV5 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     LASK Linz   vs   Celtic"
         },
@@ -3452,6 +3820,22 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://play.tv2.no/sport",
+            "related_to": "     LASK Linz   vs   Celtic"
+        },
+        {
+            "channel": "TV3+ Dansk HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11823 V 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     LASK Linz   vs   Celtic"
+        },
+        {
+            "channel": "V Sport Football HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
             "related_to": "     LASK Linz   vs   Celtic"
         },
         {
@@ -3657,6 +4041,14 @@
             "related_to": "     Bod\u00f8/Glimt   vs   NEC Nijmegen"
         },
         {
+            "channel": "DAZN 2 Bar Deutsch HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11798 H 27500 - 9/0",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Bod\u00f8/Glimt   vs   NEC Nijmegen"
+        },
+        {
             "channel": "DAZN Deutsch ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -3745,6 +4137,14 @@
             "related_to": "     Bod\u00f8/Glimt   vs   NEC Nijmegen"
         },
         {
+            "channel": "Okko Prime Sport HD ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Bod\u00f8/Glimt   vs   NEC Nijmegen"
+        },
+        {
             "channel": "Paramount+ USA ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -3801,6 +4201,22 @@
             "related_to": "     Bod\u00f8/Glimt   vs   NEC Nijmegen"
         },
         {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Bod\u00f8/Glimt   vs   NEC Nijmegen"
+        },
+        {
+            "channel": "Silk Universal HD",
+            "sat": "Astra 5B 31.5\u00b0e",
+            "freq": "12207 V 27500 - 5/6",
+            "encry": "MPEG-4 Bulcrypt",
+            "link": "#",
+            "related_to": "     Bod\u00f8/Glimt   vs   NEC Nijmegen"
+        },
+        {
             "channel": "Sky Sport 3 Austria HD",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "11758 H 27500 - 9/10",
@@ -3812,6 +4228,14 @@
             "channel": "Sky Sport Uno Italia HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "11958 V 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Bod\u00f8/Glimt   vs   NEC Nijmegen"
+        },
+        {
+            "channel": "Sony Sports TEN 5 India HD",
+            "sat": "G-Sat 10 83.0\u00b0e",
+            "freq": "11840 V 32720 - 3/4",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Bod\u00f8/Glimt   vs   NEC Nijmegen"
@@ -3862,6 +4286,22 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://play.tv2.no/sport",
+            "related_to": "     Bod\u00f8/Glimt   vs   NEC Nijmegen"
+        },
+        {
+            "channel": "TV3 Sport Dansk HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11345 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Bod\u00f8/Glimt   vs   NEC Nijmegen"
+        },
+        {
+            "channel": "V Sport Premium HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10903 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
             "related_to": "     Bod\u00f8/Glimt   vs   NEC Nijmegen"
         },
         {
