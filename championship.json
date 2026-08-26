@@ -11,6 +11,14 @@
             "date": "2026-08-28"
         },
         {
+            "channel": "Arena Sport 1x2 Srbija",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Wrexham   vs   Birmingham City"
+        },
+        {
             "channel": "Arena Sport 4 Slovenija HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -22,6 +30,14 @@
             "channel": "Arena Sport 5 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11678 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Wrexham   vs   Birmingham City"
+        },
+        {
+            "channel": "Arena Sport 6 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "0000 0",
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Wrexham   vs   Birmingham City"
@@ -197,9 +213,25 @@
             "related_to": "     Middlesbrough   vs   West Bromwich Albion"
         },
         {
+            "channel": "Arena Sport 1 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12460 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Middlesbrough   vs   West Bromwich Albion"
+        },
+        {
             "channel": "Arena Sport 2 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11595 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Middlesbrough   vs   West Bromwich Albion"
+        },
+        {
+            "channel": "Arena Sport 3 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11895 V 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Middlesbrough   vs   West Bromwich Albion"
@@ -682,6 +714,22 @@
             "channel": "Arena Sport 3 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11512 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Cardiff City   vs   Sheffield United"
+        },
+        {
+            "channel": "Arena Sport 7 BiH HD",
+            "sat": " 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Cardiff City   vs   Sheffield United"
+        },
+        {
+            "channel": "Arena Sport 7 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11817 V 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Cardiff City   vs   Sheffield United"
@@ -2864,24 +2912,6 @@
         },
         {
             "compet": "English Championship - Week 10",
-            "match": "     Birmingham City   vs   Preston N.E.",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "18:45",
-            "date": "2026-10-13"
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Birmingham City   vs   Preston N.E."
-        },
-        {
-            "compet": "English Championship - Week 10",
             "match": "     Cardiff City   vs   Watford",
             "flags": {
                 "team1": "england",
@@ -2959,6 +2989,24 @@
             "encry": "MPEG-4 NDS",
             "link": "#",
             "related_to": "     Stoke City   vs   Middlesbrough"
+        },
+        {
+            "compet": "English Championship - Week 10",
+            "match": "     Birmingham City   vs   Preston N.E.",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:00",
+            "date": "2026-10-13"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Birmingham City   vs   Preston N.E."
         },
         {
             "compet": "English Championship - Week 10",
