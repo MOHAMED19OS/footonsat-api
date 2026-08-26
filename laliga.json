@@ -629,9 +629,25 @@
             "related_to": "     Celta Vigo   vs   Osasuna"
         },
         {
+            "channel": "Canal+ Sport 7 Polska HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "0000 -",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Celta Vigo   vs   Osasuna"
+        },
+        {
             "channel": "Cosmote Sport 5 HD",
             "sat": "Eutelsat 9B 9.0\u00b0e",
             "freq": "12418 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Celta Vigo   vs   Osasuna"
+        },
+        {
+            "channel": "DAZN 2 Bar Deutsch HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11798 H 27500 - 9/0",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Celta Vigo   vs   Osasuna"
@@ -805,14 +821,6 @@
             "related_to": "     Celta Vigo   vs   Osasuna"
         },
         {
-            "channel": "Premier Sports GB Player HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.premiersports.com/fr/live-now-on-demand",
-            "related_to": "     Celta Vigo   vs   Osasuna"
-        },
-        {
             "channel": "Prima Sport RO 2 HD",
             "sat": "Hellas Sat 3 39.0\u00b0e",
             "freq": "12565 V 30000 - 7/8",
@@ -832,6 +840,22 @@
             "channel": "SportKlub 3 Hrvatska",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11387 H 30000  -3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Celta Vigo   vs   Osasuna"
+        },
+        {
+            "channel": "SportKlub 3 Slovenija",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11231 V 42000 - 5/6",
+            "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Celta Vigo   vs   Osasuna"
+        },
+        {
+            "channel": "SuperSport 4 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
             "encry": "HD Conax",
             "link": "#",
             "related_to": "     Celta Vigo   vs   Osasuna"
@@ -947,6 +971,30 @@
             "sat": "Eutelsat 9B 9.0\u00b0e",
             "freq": "12149 V 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Athletic Bilbao"
+        },
+        {
+            "channel": "Cytavision Sports 4K 1 UHD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Athletic Bilbao"
+        },
+        {
+            "channel": "Cytavision Sports 8 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Athletic Bilbao"
+        },
+        {
+            "channel": "Cytavision Sports PPV 5 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Barcelona   vs   Athletic Bilbao"
         },
@@ -1207,6 +1255,22 @@
             "related_to": "     Barcelona   vs   Athletic Bilbao"
         },
         {
+            "channel": "Premier Sports 2 Ireland HD",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12188 H 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Athletic Bilbao"
+        },
+        {
+            "channel": "Premier Sports 2 UK HD",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11671 H 23000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Athletic Bilbao"
+        },
+        {
             "channel": "Premier Sports GB Player HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -1239,6 +1303,14 @@
             "related_to": "     Barcelona   vs   Athletic Bilbao"
         },
         {
+            "channel": "Setanta Sports 1 Baltic",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11958 H 27500 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Athletic Bilbao"
+        },
+        {
             "channel": "Setanta Sports 1 Eurasia HD",
             "sat": "KazSat 3 58.5\u00b0e",
             "freq": "12657 V 45000 - 3/4",
@@ -1255,6 +1327,14 @@
             "related_to": "     Barcelona   vs   Athletic Bilbao"
         },
         {
+            "channel": "SportKlub 1 Slovenija HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Athletic Bilbao"
+        },
+        {
             "channel": "Sp\u00edler 2 TV Hungary HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "11727 V 28000 - 7/8",
@@ -1263,10 +1343,26 @@
             "related_to": "     Barcelona   vs   Athletic Bilbao"
         },
         {
+            "channel": "SuperSport 2 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Athletic Bilbao"
+        },
+        {
             "channel": "SuperSport LaLiga HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11594 V 27500 - 5/6",
             "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Athletic Bilbao"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 3A HD",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12169 V 27500 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Barcelona   vs   Athletic Bilbao"
         },
@@ -1284,6 +1380,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://play.tv2.no/sport",
+            "related_to": "     Barcelona   vs   Athletic Bilbao"
+        },
+        {
+            "channel": "TV2 Sport Premium HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
             "related_to": "     Barcelona   vs   Athletic Bilbao"
         },
         {
@@ -1348,6 +1452,14 @@
             "channel": "beIN Sports MENA 3 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Racing Santander   vs   Elche"
+        },
+        {
+            "channel": "Cosmote Sport 7 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12149 V 27500 - 2/3",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Racing Santander   vs   Elche"
@@ -1667,6 +1779,30 @@
             "related_to": "     Alav\u00e9s   vs   Villarreal"
         },
         {
+            "channel": "Cosmote Sport 5 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12418 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Alav\u00e9s   vs   Villarreal"
+        },
+        {
+            "channel": "Cytavision Sports 4K 2 UHD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Alav\u00e9s   vs   Villarreal"
+        },
+        {
+            "channel": "Cytavision Sports 8 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Alav\u00e9s   vs   Villarreal"
+        },
+        {
             "channel": "DAZN 3 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
@@ -1949,6 +2085,14 @@
             "related_to": "     Levante   vs   Real Betis"
         },
         {
+            "channel": "Cosmote Sport 7 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12149 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Levante   vs   Real Betis"
+        },
+        {
             "channel": "DAZN 3 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
@@ -2203,6 +2347,30 @@
             "sat": "Hotbird 13G 13.0\u00b0e",
             "freq": "11278 V 27500 - 3/4",
             "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Espanyol"
+        },
+        {
+            "channel": "Cosmote Sport 5 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12418 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Espanyol"
+        },
+        {
+            "channel": "Cytavision Sports 4K 2 UHD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Espanyol"
+        },
+        {
+            "channel": "Cytavision Sports 8 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Real Sociedad   vs   Espanyol"
         },
@@ -2497,6 +2665,30 @@
             "related_to": "     Sevilla   vs   Atl\u00e9tico Madrid"
         },
         {
+            "channel": "Cosmote Sport 7 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12149 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Sevilla   vs   Atl\u00e9tico Madrid"
+        },
+        {
+            "channel": "Cytavision Sports 4K 2 UHD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Sevilla   vs   Atl\u00e9tico Madrid"
+        },
+        {
+            "channel": "Cytavision Sports 8 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Sevilla   vs   Atl\u00e9tico Madrid"
+        },
+        {
             "channel": "DAZN 1 Belgium",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -2787,6 +2979,22 @@
             "related_to": "     Real Madrid   vs   M\u00e1laga"
         },
         {
+            "channel": "Cytavision Sports 4K 2 UHD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   M\u00e1laga"
+        },
+        {
+            "channel": "Cytavision Sports 8 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   M\u00e1laga"
+        },
+        {
             "channel": "DAZN 1 Belgium",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -3069,6 +3277,14 @@
             "related_to": "     Deportivo A Coru\u00f1a   vs   Valencia"
         },
         {
+            "channel": "Cosmote Sport 5 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12418 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Deportivo A Coru\u00f1a   vs   Valencia"
+        },
+        {
             "channel": "DAZN 1 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12399 H 27500 - 3/4",
@@ -3315,6 +3531,30 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Celta Vigo   vs   Athletic Bilbao"
+        },
+        {
+            "channel": "Cosmote Sport 7 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12149 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Celta Vigo   vs   Athletic Bilbao"
+        },
+        {
+            "channel": "Cytavision Sports 4K 2 UHD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Celta Vigo   vs   Athletic Bilbao"
+        },
+        {
+            "channel": "Cytavision Sports 8 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Celta Vigo   vs   Athletic Bilbao"
         },
@@ -3577,6 +3817,14 @@
             "related_to": "     Osasuna   vs   Getafe"
         },
         {
+            "channel": "Cosmote Sport 7 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12149 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Osasuna   vs   Getafe"
+        },
+        {
             "channel": "DAZN Deutsch ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -3803,6 +4051,30 @@
             "related_to": "     Barcelona   vs   Rayo Vallecano"
         },
         {
+            "channel": "Cosmote Sport 6 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12418 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Rayo Vallecano"
+        },
+        {
+            "channel": "Cytavision Sports 4K 2 UHD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Rayo Vallecano"
+        },
+        {
+            "channel": "Cytavision Sports 8 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Rayo Vallecano"
+        },
+        {
             "channel": "DAZN Deutsch ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -3987,6 +4259,40 @@
             "related_to": "     Barcelona   vs   Rayo Vallecano"
         },
         {
+            "compet": "Spanish La Liga (Primera) - Week 6",
+            "match": "     Real Sociedad   vs   Celta Vigo",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "19:00",
+            "date": "2026-09-03"
+        },
+        {
+            "channel": "Premier Sports 2 Ireland HD",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12188 H 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Celta Vigo"
+        },
+        {
+            "channel": "Premier Sports 2 UK HD",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11671 H 23000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Celta Vigo"
+        },
+        {
+            "channel": "Premier Sports GB Player HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": "     Real Sociedad   vs   Celta Vigo"
+        },
+        {
             "compet": "Spanish La Liga (Primera) - Week 4",
             "match": "     Real Betis   vs   Real Madrid",
             "flags": {
@@ -3995,6 +4301,30 @@
             },
             "time": "19:00",
             "date": "2026-09-04"
+        },
+        {
+            "channel": "Premier Sports 1 Ireland HD",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12188 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Real Betis   vs   Real Madrid"
+        },
+        {
+            "channel": "Premier Sports 1 UK HD",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11686 V 23000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Real Betis   vs   Real Madrid"
+        },
+        {
+            "channel": "Premier Sports GB Player HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": "     Real Betis   vs   Real Madrid"
         },
         {
             "channel": "S Sport 1 T\u00fcrkiye HD",

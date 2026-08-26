@@ -77,6 +77,22 @@
             "related_to": "     Iberia 1999   vs   Jagiellonia"
         },
         {
+            "channel": "Sport 3 Ukraine",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Iberia 1999   vs   Jagiellonia"
+        },
+        {
+            "channel": "Super Polsat HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11158 V 27500 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Iberia 1999   vs   Jagiellonia"
+        },
+        {
             "compet": "UEFA Europa League - Play-Off (2nd Leg) [0-3]",
             "match": "     Viktoria Plzen   vs   Red Star Belgrade",
             "flags": {
@@ -85,6 +101,14 @@
             },
             "time": "17:00",
             "date": "2026-08-27"
+        },
+        {
+            "channel": "5 PLUS Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Viktoria Plzen   vs   Red Star Belgrade"
         },
         {
             "channel": "Arena M1 Premium MKD HD",
@@ -211,11 +235,27 @@
             "date": "2026-08-27"
         },
         {
+            "channel": "Arena Premium 4 BiH HD",
+            "sat": " 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Salzburg   vs   Mj\u00e4llby AIF"
+        },
+        {
             "channel": "Arena Sport 1 Srbija HD",
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12460 H 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
+            "related_to": "     Salzburg   vs   Mj\u00e4llby AIF"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
             "related_to": "     Salzburg   vs   Mj\u00e4llby AIF"
         },
         {
@@ -251,6 +291,22 @@
             },
             "time": "17:00",
             "date": "2026-08-27"
+        },
+        {
+            "channel": "RTSH 1 Albania",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Lillestr\u00f8m   vs   Egnatia"
+        },
+        {
+            "channel": "RTSH Sport Albania",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10930 H 30000 - 5/6",
+            "encry": "MPEG-4 Conax",
+            "link": "https://tv.rtsh.al/kanalet/rtsh-sport",
+            "related_to": "     Lillestr\u00f8m   vs   Egnatia"
         },
         {
             "channel": "VG+ Sport Norge ($/geo/R)",
@@ -489,6 +545,14 @@
             "date": "2026-08-27"
         },
         {
+            "channel": "5 PLUS Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Ferencv\u00e1ros   vs   Trabzonspor"
+        },
+        {
             "channel": "Arena Premium 2 Srbija HD",
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12402 V 30000 - 3/4",
@@ -535,6 +599,14 @@
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12402 V 30000 - 3/4",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "       - UEFA Europa League Draw -       "
+        },
+        {
+            "channel": "Cosmote Sport 1 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "11843 V 27500 - 3/5",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "       - UEFA Europa League Draw -       "
         },
