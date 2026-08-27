@@ -67,9 +67,9 @@
             "related_to": "     Lille   vs   Paris St Germain"
         },
         {
-            "channel": "beIN Sports MENA French 1 HD",
+            "channel": "beIN Sports MENA French 2 HD",
             "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "11390 V 27500 - 2/3",
+            "freq": "10850 H 27500 - 2/3",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Lille   vs   Paris St Germain"
@@ -142,6 +142,22 @@
             "channel": "Nova Sport 4 Czech HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11934 V 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Lille   vs   Paris St Germain"
+        },
+        {
+            "channel": "Prime Video UK PPV [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.primevideo.com/",
+            "related_to": "     Lille   vs   Paris St Germain"
+        },
+        {
+            "channel": "SuperSport 2 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
             "encry": "HD Conax",
             "link": "#",
             "related_to": "     Lille   vs   Paris St Germain"
@@ -371,6 +387,176 @@
             "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Strasbourg   vs   Lens"
+        },
+        {
+            "compet": "French Ligue 1 - Week 2",
+            "match": "     Brest   vs   Toulouse",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "18:45",
+            "date": "2026-08-29"
+        },
+        {
+            "channel": "Arena Sport 2 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11595 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Brest   vs   Toulouse"
+        },
+        {
+            "channel": "Arena Sport 2 Slovenija HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Brest   vs   Toulouse"
+        },
+        {
+            "channel": "Arena Sport 5 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11798 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Brest   vs   Toulouse"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Brest   vs   Toulouse"
+        },
+        {
+            "channel": "beIN Sports MENA 6 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Brest   vs   Toulouse"
+        },
+        {
+            "channel": "Cablenet Sports 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Brest   vs   Toulouse"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Brest   vs   Toulouse"
+        },
+        {
+            "channel": "DAZN Espa\u00f1a ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Brest   vs   Toulouse"
+        },
+        {
+            "channel": "DAZN Japan ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Brest   vs   Toulouse"
+        },
+        {
+            "channel": "Eleven Sports 4 Polska HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11278 V 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Brest   vs   Toulouse"
+        },
+        {
+            "channel": "Ligue 1+ 4 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://plus.ligue1.com/home",
+            "related_to": "     Brest   vs   Toulouse"
+        },
+        {
+            "channel": "Ligue 1+ Multiplex [$]",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://plus.ligue1.com/home",
+            "related_to": "     Brest   vs   Toulouse"
+        },
+        {
+            "channel": "Megogo Futbol 5 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Brest   vs   Toulouse"
+        },
+        {
+            "channel": "Nova Sport 3 Czech HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11934 V 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Brest   vs   Toulouse"
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "     Brest   vs   Toulouse"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Brest   vs   Toulouse"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Brest   vs   Toulouse"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Brest   vs   Toulouse"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Brest   vs   Toulouse"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Brest   vs   Toulouse"
         },
         {
             "compet": "French Ligue 1 - Week 2",
@@ -682,176 +868,6 @@
         },
         {
             "compet": "French Ligue 1 - Week 2",
-            "match": "     Brest   vs   Toulouse",
-            "flags": {
-                "team1": "france",
-                "team2": "france"
-            },
-            "time": "18:45",
-            "date": "2026-08-29"
-        },
-        {
-            "channel": "Arena Sport 2 BiH HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11895 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Brest   vs   Toulouse"
-        },
-        {
-            "channel": "Arena Sport 2 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11595 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Brest   vs   Toulouse"
-        },
-        {
-            "channel": "Arena Sport 2 Slovenija HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Brest   vs   Toulouse"
-        },
-        {
-            "channel": "Arena Sport 5 Srbija HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11798 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Brest   vs   Toulouse"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Brest   vs   Toulouse"
-        },
-        {
-            "channel": "Cablenet Sports 3 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Brest   vs   Toulouse"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Brest   vs   Toulouse"
-        },
-        {
-            "channel": "DAZN Espa\u00f1a ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Brest   vs   Toulouse"
-        },
-        {
-            "channel": "DAZN Japan ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Brest   vs   Toulouse"
-        },
-        {
-            "channel": "Eleven Sports 4 Polska HD",
-            "sat": "Hotbird 13G 13.0\u00b0e",
-            "freq": "11278 V 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Brest   vs   Toulouse"
-        },
-        {
-            "channel": "Ligue 1+ 4 ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://plus.ligue1.com/home",
-            "related_to": "     Brest   vs   Toulouse"
-        },
-        {
-            "channel": "Ligue 1+ Multiplex [$]",
-            "sat": "Download APP 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://plus.ligue1.com/home",
-            "related_to": "     Brest   vs   Toulouse"
-        },
-        {
-            "channel": "Megogo Futbol 5 ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Brest   vs   Toulouse"
-        },
-        {
-            "channel": "Nova Sport 3 Czech HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11934 V 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Brest   vs   Toulouse"
-        },
-        {
-            "channel": "TV2 Play Norge ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://play.tv2.no/sport",
-            "related_to": "     Brest   vs   Toulouse"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Brest   vs   Toulouse"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Brest   vs   Toulouse"
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Brest   vs   Toulouse"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Brest   vs   Toulouse"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Brest   vs   Toulouse"
-        },
-        {
-            "compet": "French Ligue 1 - Week 2",
             "match": "     Lyon   vs   Le Havre",
             "flags": {
                 "team1": "france",
@@ -997,6 +1013,14 @@
             "related_to": "     Lyon   vs   Le Havre"
         },
         {
+            "channel": "SuperSport 3 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Lyon   vs   Le Havre"
+        },
+        {
             "channel": "TV2 Play Norge ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1132,14 +1156,6 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Paris FC   vs   Nice"
-        },
-        {
-            "channel": "beIN Sports MENA 4 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
             "related_to": "     Paris FC   vs   Nice"
         },
         {
@@ -1321,14 +1337,6 @@
             "related_to": "     Rennes   vs   Le Mans"
         },
         {
-            "channel": "beIN Sports MENA 4 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Rennes   vs   Le Mans"
-        },
-        {
             "channel": "beIN Sports MENA 5 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 H 27500 - 2/3",
@@ -1507,22 +1515,6 @@
             "related_to": "     Monaco   vs   Marseille"
         },
         {
-            "channel": "beIN Sports MENA 4 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Monaco   vs   Marseille"
-        },
-        {
-            "channel": "beIN Sports MENA 5 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Monaco   vs   Marseille"
-        },
-        {
             "channel": "beIN Sports MENA French 1 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "11390 V 27500 - 2/3",
@@ -1627,6 +1619,14 @@
             "related_to": "     Monaco   vs   Marseille"
         },
         {
+            "channel": "SuperSport 2 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Monaco   vs   Marseille"
+        },
+        {
             "channel": "TV2 Play Norge ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1683,6 +1683,14 @@
             },
             "time": "18:45",
             "date": "2026-09-03"
+        },
+        {
+            "channel": "Arena Sport 2 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11595 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Toulouse   vs   Lille"
         },
         {
             "channel": "beIN Connect T\u00fcrkiye",
@@ -1783,6 +1791,14 @@
             "date": "2026-09-04"
         },
         {
+            "channel": "Arena Sport 2 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11595 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Lyon   vs   Auxerre"
+        },
+        {
             "channel": "beIN Connect T\u00fcrkiye",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1863,6 +1879,14 @@
             },
             "time": "19:05",
             "date": "2026-09-04"
+        },
+        {
+            "channel": "Arena Sport 2 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11595 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Monaco"
         },
         {
             "channel": "beIN Connect T\u00fcrkiye",
@@ -1955,6 +1979,14 @@
             "date": "2026-09-05"
         },
         {
+            "channel": "Arena Sport 10 Hrvatska HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Lens   vs   Lorient"
+        },
+        {
             "channel": "beIN Connect T\u00fcrkiye",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2035,6 +2067,14 @@
             },
             "time": "18:45",
             "date": "2026-09-05"
+        },
+        {
+            "channel": "Arena Sport 7 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11595 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Le Havre   vs   Brest"
         },
         {
             "channel": "beIN Connect T\u00fcrkiye",
@@ -2119,6 +2159,14 @@
             "date": "2026-09-05"
         },
         {
+            "channel": "Arena Sport 3 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11512 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Nice   vs   Le Mans"
+        },
+        {
             "channel": "beIN Connect T\u00fcrkiye",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2199,6 +2247,14 @@
             },
             "time": "13:00",
             "date": "2026-09-06"
+        },
+        {
+            "channel": "Arena Sport 2 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11595 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Troyes   vs   Strasbourg"
         },
         {
             "channel": "beIN Connect T\u00fcrkiye",
@@ -2291,6 +2347,14 @@
             "date": "2026-09-06"
         },
         {
+            "channel": "Arena Sport 4 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11554 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Angers   vs   Rennes"
+        },
+        {
             "channel": "beIN Connect T\u00fcrkiye",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2379,6 +2443,14 @@
             },
             "time": "18:45",
             "date": "2026-09-06"
+        },
+        {
+            "channel": "Arena Sport 2 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11595 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Marseille   vs   Paris FC"
         },
         {
             "channel": "beIN Connect T\u00fcrkiye",

@@ -85,6 +85,14 @@
             "related_to": "     River Plate   vs   Independiente Santa F\u00e9"
         },
         {
+            "channel": "beIN Sports MENA English 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     River Plate   vs   Independiente Santa F\u00e9"
+        },
+        {
             "channel": "beIN Sports US Espa\u00f1ol",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -383,19 +391,19 @@
             "related_to": "       - UEFA Champions League Draw -       "
         },
         {
-            "channel": "Arena Sport 1 BiH HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11720 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "       - UEFA Champions League Draw -       "
-        },
-        {
             "channel": "Arena Sport 1 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11678 H 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
+            "related_to": "       - UEFA Champions League Draw -       "
+        },
+        {
+            "channel": "ART Motion Sport 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
             "related_to": "       - UEFA Champions League Draw -       "
         },
         {
@@ -551,6 +559,14 @@
             "related_to": "       - UEFA Champions League Draw -       "
         },
         {
+            "channel": "Ictimai TV HD",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11095 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "       - UEFA Champions League Draw -       "
+        },
+        {
             "channel": "M+ Liga de Campeones HD",
             "sat": "Astra 1KR 19.2\u00b0e",
             "freq": "11259 V 22000 - 2/3",
@@ -703,6 +719,14 @@
             "related_to": "       - UEFA Champions League Draw -       "
         },
         {
+            "channel": "Real Madrid TV",
+            "sat": "*DTT 0.0\u00b0-",
+            "freq": "0000 - -",
+            "encry": "Seca",
+            "link": "#",
+            "related_to": "       - UEFA Champions League Draw -       "
+        },
+        {
             "channel": "RTL+ Hungary [online]",
             "sat": "Download APP 0.0\u00b0",
             "freq": "0000 0",
@@ -759,6 +783,14 @@
             "related_to": "       - UEFA Champions League Draw -       "
         },
         {
+            "channel": "Sport TV Azerbaijan (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "       - UEFA Champions League Draw -       "
+        },
+        {
             "channel": "Sport TV+ Portugal",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12476 H 27500 - 3/4",
@@ -787,6 +819,14 @@
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11594 V 27500 - 5/6",
             "encry": "Irdeto",
+            "link": "#",
+            "related_to": "       - UEFA Champions League Draw -       "
+        },
+        {
+            "channel": "S\u00ddN Sport 1 \u00cdsland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "       - UEFA Champions League Draw -       "
         },
@@ -917,6 +957,48 @@
             "encry": "HD Mediaguard",
             "link": "#",
             "related_to": "       - UEFA Champions League Draw -       "
+        },
+        {
+            "compet": "UEFA Europa League - Play-Off (2nd Leg) [1-1]",
+            "match": "     Ararat-Armenia   vs   Universitatea Craiova",
+            "flags": {
+                "team1": "armenia",
+                "team2": "romania"
+            },
+            "time": "16:00",
+            "date": "2026-08-27"
+        },
+        {
+            "channel": "Armenia First TV",
+            "sat": "Eutelsat 70B 70.5\u00b0e",
+            "freq": "11050 H 20030 - 1/2",
+            "encry": "MPEG-4 Biss",
+            "link": "https://www.1tv.am/en/schedule/metric",
+            "related_to": "     Ararat-Armenia   vs   Universitatea Craiova"
+        },
+        {
+            "channel": "Canal 11 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12437 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Ararat-Armenia   vs   Universitatea Craiova"
+        },
+        {
+            "channel": "VOYO Pro TV Romania [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://voyo.protv.ro/premier-league",
+            "related_to": "     Ararat-Armenia   vs   Universitatea Craiova"
+        },
+        {
+            "channel": "VOYO Sport 1 Romania [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://voyo.protv.ro/sport",
+            "related_to": "     Ararat-Armenia   vs   Universitatea Craiova"
         },
         {
             "compet": "UEFA Conference League - Play-Off (2nd Leg) [1-0]",
@@ -1135,40 +1217,6 @@
             "related_to": "     Maccabi Tel Aviv   vs   Lugano"
         },
         {
-            "compet": "UEFA Europa League - Play-Off (2nd Leg) [1-1]",
-            "match": "     Ararat-Armenia   vs   Universitatea Craiova",
-            "flags": {
-                "team1": "armenia",
-                "team2": "romania"
-            },
-            "time": "16:00",
-            "date": "2026-08-27"
-        },
-        {
-            "channel": "Armenia First TV",
-            "sat": "Eutelsat 70B 70.5\u00b0e",
-            "freq": "11050 H 20030 - 1/2",
-            "encry": "MPEG-4 Biss",
-            "link": "https://www.1tv.am/en/schedule/metric",
-            "related_to": "     Ararat-Armenia   vs   Universitatea Craiova"
-        },
-        {
-            "channel": "Canal 11 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12437 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Ararat-Armenia   vs   Universitatea Craiova"
-        },
-        {
-            "channel": "VOYO Pro TV Romania [$]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://voyo.protv.ro/premier-league",
-            "related_to": "     Ararat-Armenia   vs   Universitatea Craiova"
-        },
-        {
             "compet": "Qatar Stars League - Week 2",
             "match": "     Al Wakrah   vs   Al Rayyan",
             "flags": {
@@ -1179,9 +1227,9 @@
             "date": "2026-08-27"
         },
         {
-            "channel": "beIN Sports MENA 8 HD",
+            "channel": "beIN Sports MENA 2 HD",
             "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 V 27500 - 2/3",
+            "freq": "10810 H 27500 - 2/3",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Al Wakrah   vs   Al Rayyan"
@@ -1345,6 +1393,48 @@
             "related_to": "     Freiburg   vs   Motherwell"
         },
         {
+            "compet": "UEFA Conference League - Play-Off (2nd Leg) [2-2]",
+            "match": "     Inter Escaldes   vs   Drita",
+            "flags": {
+                "team1": "andorra",
+                "team2": "kosova"
+            },
+            "time": "17:00",
+            "date": "2026-08-27"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     Inter Escaldes   vs   Drita"
+        },
+        {
+            "channel": "RTK 4 Kosovo HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.rtklive.com/sq/livestream/rtk4/",
+            "related_to": "     Inter Escaldes   vs   Drita"
+        },
+        {
+            "channel": "Veikkaus TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.veikkaus.fi/fi/veikkaustv/jalkapallo",
+            "related_to": "     Inter Escaldes   vs   Drita"
+        },
+        {
+            "channel": "YouTube: Andorra Esportiu",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 -",
+            "encry": "FTA",
+            "link": "https://www.youtube.com/watch?v=Ufx8MQ9seP0",
+            "related_to": "     Inter Escaldes   vs   Drita"
+        },
+        {
             "compet": "UEFA Conference League - Play-Off (2nd Leg) [0-0]",
             "match": "     Riga FC   vs   K\u00cd Klaksv\u00edk",
             "flags": {
@@ -1385,32 +1475,6 @@
             "encry": "",
             "link": "https://www.veikkaus.fi/fi/veikkaustv/jalkapallo",
             "related_to": "     Riga FC   vs   K\u00cd Klaksv\u00edk"
-        },
-        {
-            "compet": "UEFA Conference League - Play-Off (2nd Leg) [2-2]",
-            "match": "     Inter Escaldes   vs   Drita",
-            "flags": {
-                "team1": "andorra",
-                "team2": "kosova"
-            },
-            "time": "17:00",
-            "date": "2026-08-27"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     Inter Escaldes   vs   Drita"
-        },
-        {
-            "channel": "Veikkaus TV ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.veikkaus.fi/fi/veikkaustv/jalkapallo",
-            "related_to": "     Inter Escaldes   vs   Drita"
         },
         {
             "compet": "UEFA Europa League - Play-Off (2nd Leg) [1-0]",
@@ -1505,18 +1569,18 @@
             "related_to": "     Viktoria Plzen   vs   Red Star Belgrade"
         },
         {
-            "channel": "Arena Premium 1 BiH HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Viktoria Plzen   vs   Red Star Belgrade"
-        },
-        {
             "channel": "Arena Premium 1 Srbija HD",
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12402 V 30000 - 3/4",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Viktoria Plzen   vs   Red Star Belgrade"
+        },
+        {
+            "channel": "Arena Sport 1 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11720 H 30000 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Viktoria Plzen   vs   Red Star Belgrade"
         },
@@ -1875,6 +1939,14 @@
             "date": "2026-08-27"
         },
         {
+            "channel": "Veikkaus TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.veikkaus.fi/fi/veikkaustv/jalkapallo",
+            "related_to": "     Vejle BK   vs   Silkeborg"
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2231,6 +2303,80 @@
             "related_to": "     CSKA Sofia   vs   OFI Crete"
         },
         {
+            "compet": "UEFA Conference League - Play-Off (2nd Leg) [0-0]",
+            "match": "     Brighton H.A.   vs   Troms\u00f8",
+            "flags": {
+                "team1": "england",
+                "team2": "norway"
+            },
+            "time": "18:30",
+            "date": "2026-08-27"
+        },
+        {
+            "channel": "Arena Sport 6 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11817 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Brighton H.A.   vs   Troms\u00f8"
+        },
+        {
+            "channel": "Arena Sport 7 BiH HD",
+            "sat": " 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Brighton H.A.   vs   Troms\u00f8"
+        },
+        {
+            "channel": "MyAlbion Digital ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.brightonandhovealbion.com/latest-videos",
+            "related_to": "     Brighton H.A.   vs   Troms\u00f8"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     Brighton H.A.   vs   Troms\u00f8"
+        },
+        {
+            "channel": "Polsat Sport Extra 2 HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "12265 V 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Brighton H.A.   vs   Troms\u00f8"
+        },
+        {
+            "channel": "Prima Sport CZ HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12110 H 29900 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Brighton H.A.   vs   Troms\u00f8"
+        },
+        {
+            "channel": "Sport Bladet Play (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.sportbladetplay.se/schedule",
+            "related_to": "     Brighton H.A.   vs   Troms\u00f8"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
+            "related_to": "     Brighton H.A.   vs   Troms\u00f8"
+        },
+        {
             "compet": "English League Cup - 2nd Round",
             "match": "     Chelsea   vs   Luton Town",
             "flags": {
@@ -2313,9 +2459,9 @@
             "related_to": "     Chelsea   vs   Luton Town"
         },
         {
-            "channel": "beIN Sports MENA French 1 HD",
+            "channel": "beIN Sports MENA French 2 HD",
             "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "11390 V 27500 - 2/3",
+            "freq": "10850 H 27500 - 2/3",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Chelsea   vs   Luton Town"
@@ -2349,6 +2495,14 @@
             "sat": "Hellas Sat 3 39.0\u00b0e",
             "freq": "12156 H 30000 - 5/6",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Luton Town"
+        },
+        {
+            "channel": "Digi Sport 3 Romania",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "11900 H 28000 - 5/6",
+            "encry": "NagraVision",
             "link": "#",
             "related_to": "     Chelsea   vs   Luton Town"
         },
@@ -2433,6 +2587,22 @@
             "related_to": "     Chelsea   vs   Luton Town"
         },
         {
+            "channel": "Sky Sports Football HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "12090 V 29500 - 8/9",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Luton Town"
+        },
+        {
+            "channel": "Sky Sports Main Event HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11934 V 27500 - 5/6",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Luton Town"
+        },
+        {
             "channel": "Sky Sports+ [via APP]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -2452,6 +2622,14 @@
             "channel": "Sport TV3 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Luton Town"
+        },
+        {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12605 V 30000 - 5/6",
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Chelsea   vs   Luton Town"
@@ -2627,14 +2805,6 @@
             "related_to": "     Celta Vigo   vs   Osasuna"
         },
         {
-            "channel": "beIN Sports MENA 2 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Celta Vigo   vs   Osasuna"
-        },
-        {
             "channel": "beIN Sports MENA 8 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 V 27500 - 2/3",
@@ -2707,14 +2877,6 @@
             "related_to": "     Celta Vigo   vs   Osasuna"
         },
         {
-            "channel": "DAZN Espa\u00f1a ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Celta Vigo   vs   Osasuna"
-        },
-        {
             "channel": "DAZN France ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2743,6 +2905,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Celta Vigo   vs   Osasuna"
+        },
+        {
+            "channel": "Digi Sport 4 Romania",
+            "sat": "Intelsat 10-02 1.0\u00b0w",
+            "freq": "12687 H 27500 - 3/4",
+            "encry": "NagraVision",
             "link": "#",
             "related_to": "     Celta Vigo   vs   Osasuna"
         },
@@ -3111,72 +3281,6 @@
             "encry": "",
             "link": "https://www.veikkaus.fi/fi/veikkaustv/jalkapallo",
             "related_to": "     Borac Banja Luka   vs   V\u00edkingur Reykjav\u00edk"
-        },
-        {
-            "compet": "UEFA Conference League - Play-Off (2nd Leg) [0-0]",
-            "match": "     Brighton H.A.   vs   Troms\u00f8",
-            "flags": {
-                "team1": "england",
-                "team2": "norway"
-            },
-            "time": "18:30",
-            "date": "2026-08-27"
-        },
-        {
-            "channel": "Arena Sport 6 Srbija HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11817 V 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Brighton H.A.   vs   Troms\u00f8"
-        },
-        {
-            "channel": "Arena Sport 7 BiH HD",
-            "sat": " 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Brighton H.A.   vs   Troms\u00f8"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     Brighton H.A.   vs   Troms\u00f8"
-        },
-        {
-            "channel": "Polsat Sport Extra 2 HD",
-            "sat": "Hotbird 13G 13.0\u00b0e",
-            "freq": "12265 V 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Brighton H.A.   vs   Troms\u00f8"
-        },
-        {
-            "channel": "Prima Sport CZ HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12110 H 29900 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Brighton H.A.   vs   Troms\u00f8"
-        },
-        {
-            "channel": "Sport Bladet Play (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.sportbladetplay.se/schedule",
-            "related_to": "     Brighton H.A.   vs   Troms\u00f8"
-        },
-        {
-            "channel": "VG+ Sport Norge ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.vgtv.no/live",
-            "related_to": "     Brighton H.A.   vs   Troms\u00f8"
         },
         {
             "compet": "UEFA Europa League - Play-Off (2nd Leg) [3-0]",
@@ -3607,6 +3711,14 @@
             "related_to": "     Barcelona   vs   Athletic Bilbao"
         },
         {
+            "channel": "Arezo TV HD",
+            "sat": "Al Yah 1 52.5\u00b0e",
+            "freq": "12054 H 27500 - 3/5",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Athletic Bilbao"
+        },
+        {
             "channel": "ART Motion Sport 1 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -3807,6 +3919,14 @@
             "related_to": "     Barcelona   vs   Athletic Bilbao"
         },
         {
+            "channel": "Digi Sport 1 Romania HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "11823 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Athletic Bilbao"
+        },
+        {
             "channel": "Disney+ Danmark ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -3883,6 +4003,14 @@
             "sat": "AzerSpace 1 46.0\u00b0e",
             "freq": "11175 H 30000 - 5/6",
             "encry": "FTA",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Athletic Bilbao"
+        },
+        {
+            "channel": "IRIB Varzesh HD",
+            "sat": "Intelsat 39 62.0\u00b0e",
+            "freq": "11555 V 30000 - 2/3",
+            "encry": "HD BISS",
             "link": "#",
             "related_to": "     Barcelona   vs   Athletic Bilbao"
         },
@@ -3967,22 +4095,6 @@
             "related_to": "     Barcelona   vs   Athletic Bilbao"
         },
         {
-            "channel": "Premier Sports 1 Ireland HD",
-            "sat": "Astra 2F 28.2\u00b0e",
-            "freq": "12188 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Barcelona   vs   Athletic Bilbao"
-        },
-        {
-            "channel": "Premier Sports 1 UK HD",
-            "sat": "Astra 2G 28.2\u00b0e",
-            "freq": "11686 V 23000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Barcelona   vs   Athletic Bilbao"
-        },
-        {
             "channel": "Premier Sports 2 Ireland HD",
             "sat": "Astra 2F 28.2\u00b0e",
             "freq": "12188 H 27500 - 3/4",
@@ -4043,6 +4155,14 @@
             "sat": "KazSat 3 58.5\u00b0e",
             "freq": "12657 V 45000 - 3/4",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Athletic Bilbao"
+        },
+        {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Barcelona   vs   Athletic Bilbao"
         },
@@ -4151,6 +4271,88 @@
             "related_to": "     Barcelona   vs   Athletic Bilbao"
         },
         {
+            "compet": "UEFA Conference League - Play-Off (2nd Leg) [1-3]",
+            "match": "     Partizan Belgrade   vs   Getafe",
+            "flags": {
+                "team1": "serbia",
+                "team2": "spain"
+            },
+            "time": "19:00",
+            "date": "2026-08-27"
+        },
+        {
+            "channel": "Arena M1 Premium MKD HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Partizan Belgrade   vs   Getafe"
+        },
+        {
+            "channel": "Arena Premium 1 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Partizan Belgrade   vs   Getafe"
+        },
+        {
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Partizan Belgrade   vs   Getafe"
+        },
+        {
+            "channel": "Arena Sport 10 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Partizan Belgrade   vs   Getafe"
+        },
+        {
+            "channel": "M+ Liga de Campeones HD",
+            "sat": "Astra 1KR 19.2\u00b0e",
+            "freq": "11259 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Partizan Belgrade   vs   Getafe"
+        },
+        {
+            "channel": "Movistar Plus+ HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11097 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Partizan Belgrade   vs   Getafe"
+        },
+        {
+            "channel": "RTS 2 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11914 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Partizan Belgrade   vs   Getafe"
+        },
+        {
+            "channel": "RTS 3 Srbija",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11914 H 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Partizan Belgrade   vs   Getafe"
+        },
+        {
+            "channel": "YouTube: Getafe CF",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@GetafeCFmedia/streams",
+            "related_to": "     Partizan Belgrade   vs   Getafe"
+        },
+        {
             "compet": "UEFA Conference League - Play-Off (2nd Leg) [0-0]",
             "match": "     Hibernian   vs   AA Gent",
             "flags": {
@@ -4191,56 +4393,6 @@
             "encry": "",
             "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
             "related_to": "     Hibernian   vs   AA Gent"
-        },
-        {
-            "compet": "UEFA Conference League - Play-Off (2nd Leg) [1-3]",
-            "match": "     Partizan Belgrade   vs   Getafe",
-            "flags": {
-                "team1": "serbia",
-                "team2": "spain"
-            },
-            "time": "19:00",
-            "date": "2026-08-27"
-        },
-        {
-            "channel": "Arena M1 Premium MKD HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12246 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Partizan Belgrade   vs   Getafe"
-        },
-        {
-            "channel": "Arena Premium 1 BiH HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Partizan Belgrade   vs   Getafe"
-        },
-        {
-            "channel": "Arena Premium 1 Srbija HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Partizan Belgrade   vs   Getafe"
-        },
-        {
-            "channel": "RTS 2 Srbija HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11914 H 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Partizan Belgrade   vs   Getafe"
-        },
-        {
-            "channel": "YouTube: Getafe CF",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.youtube.com/@GetafeCFmedia/streams",
-            "related_to": "     Partizan Belgrade   vs   Getafe"
         },
         {
             "compet": "UEFA Conference League - Play-Off (2nd Leg) [2-0]",
