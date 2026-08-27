@@ -283,6 +283,14 @@
             "related_to": "     Salzburg   vs   Mj\u00e4llby AIF"
         },
         {
+            "channel": "Veikkaus TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.veikkaus.fi/fi/veikkaustv/jalkapallo",
+            "related_to": "     Salzburg   vs   Mj\u00e4llby AIF"
+        },
+        {
             "compet": "UEFA Europa League - Play-Off (2nd Leg) [0-0]",
             "match": "     Lillestr\u00f8m   vs   Egnatia",
             "flags": {
@@ -461,11 +469,27 @@
             "related_to": "     AGF Aarhus   vs   Benfica"
         },
         {
+            "channel": "Persiana Sports 3 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     AGF Aarhus   vs   Benfica"
+        },
+        {
             "channel": "Sport TV5 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12360 H 27500 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
+            "related_to": "     AGF Aarhus   vs   Benfica"
+        },
+        {
+            "channel": "Veikkaus TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.veikkaus.fi/fi/veikkaustv/jalkapallo",
             "related_to": "     AGF Aarhus   vs   Benfica"
         },
         {
@@ -565,6 +589,14 @@
             "sat": "Turksat 4A 42.0\u00b0e",
             "freq": "12053 H 27500 - 5/6",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Ferencv\u00e1ros   vs   Trabzonspor"
+        },
+        {
+            "channel": "GEM Sport 2",
+            "sat": "Al Yah 1 52.5\u00b0e",
+            "freq": "11881 V 27500 - 5/6",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Ferencv\u00e1ros   vs   Trabzonspor"
         },
