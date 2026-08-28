@@ -101,6 +101,30 @@
             "related_to": "       - UEFA Europa League Draw -       "
         },
         {
+            "channel": "Canal+ Foot HD",
+            "sat": "Astra 1P 19.2\u00b0e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "       - UEFA Europa League Draw -       "
+        },
+        {
+            "channel": "Canal+ France HD",
+            "sat": "Astra 1P 19.2\u00b0e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "       - UEFA Europa League Draw -       "
+        },
+        {
+            "channel": "CBC Sport HD",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11095 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "       - UEFA Europa League Draw -       "
+        },
+        {
             "channel": "CBS Sports Golazo N/W (geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -261,6 +285,14 @@
             "related_to": "       - UEFA Europa League Draw -       "
         },
         {
+            "channel": "RTK 1 Kosovo HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10938 H 15835 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "https://www.rtklive.com/sq/livestream/rtk1/",
+            "related_to": "       - UEFA Europa League Draw -       "
+        },
+        {
             "channel": "Setanta Sports 1 Georgia HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -277,9 +309,25 @@
             "related_to": "       - UEFA Europa League Draw -       "
         },
         {
+            "channel": "Sky Sport 1 Austria HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12032 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "       - UEFA Europa League Draw -       "
+        },
+        {
             "channel": "Sky Sport 24 HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "11862 H 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "       - UEFA Europa League Draw -       "
+        },
+        {
+            "channel": "Sky Sport News Deutsch HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12304 H 27500 - 9/10",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "       - UEFA Europa League Draw -       "
@@ -457,6 +505,30 @@
             "related_to": "       - UEFA Conference League Draw -       "
         },
         {
+            "channel": "Canal+ Foot HD",
+            "sat": "Astra 1P 19.2\u00b0e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "       - UEFA Conference League Draw -       "
+        },
+        {
+            "channel": "Canal+ France HD",
+            "sat": "Astra 1P 19.2\u00b0e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "       - UEFA Conference League Draw -       "
+        },
+        {
+            "channel": "CBC Sport HD",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11095 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "       - UEFA Conference League Draw -       "
+        },
+        {
             "channel": "CBS Sports Golazo N/W (geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -617,9 +689,25 @@
             "related_to": "       - UEFA Conference League Draw -       "
         },
         {
+            "channel": "Sky Sport 1 Austria HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12032 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "       - UEFA Conference League Draw -       "
+        },
+        {
             "channel": "Sky Sport 24 HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "11862 H 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "       - UEFA Conference League Draw -       "
+        },
+        {
+            "channel": "Sky Sport News Deutsch HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12304 H 27500 - 9/10",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "       - UEFA Conference League Draw -       "
@@ -715,6 +803,42 @@
             "related_to": "     Kolos Kovalivka   vs   Obolon Kyiv"
         },
         {
+            "compet": "Egyptian Premier League - Week 2",
+            "match": "     El Qanah   vs   El Gouna",
+            "flags": {
+                "team1": "egypt",
+                "team2": "egypt"
+            },
+            "time": "14:00",
+            "date": "2026-08-28"
+        },
+        {
+            "channel": "ON Sport Egypt [app]",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 -",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     El Qanah   vs   El Gouna"
+        },
+        {
+            "compet": "Egyptian Premier League - Week 2",
+            "match": "     ENPPI   vs   Wadi Degla",
+            "flags": {
+                "team1": "egypt",
+                "team2": "egypt"
+            },
+            "time": "14:00",
+            "date": "2026-08-28"
+        },
+        {
+            "channel": "ON Sport Egypt [app]",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 -",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     ENPPI   vs   Wadi Degla"
+        },
+        {
             "compet": "Serbian Superliga \u017dene - Week 2",
             "match": "     Ma\u0161inac Ni\u0161   vs   Radnicki 1923",
             "flags": {
@@ -749,6 +873,42 @@
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Al Ahli   vs   Lusail City"
+        },
+        {
+            "compet": "Kosovo Superliga - Week 3",
+            "match": "     Drenica   vs   Ballkani",
+            "flags": {
+                "team1": "kosova",
+                "team2": "kosova"
+            },
+            "time": "14:30",
+            "date": "2026-08-28"
+        },
+        {
+            "channel": "ART Motion Sport 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "     Drenica   vs   Ballkani"
+        },
+        {
+            "compet": "Kosovo Liga e Par\u00eb - Week 3",
+            "match": "     Ferizaj   vs   Trep\u00e7a 89",
+            "flags": {
+                "team1": "kosova",
+                "team2": "kosova"
+            },
+            "time": "14:30",
+            "date": "2026-08-28"
+        },
+        {
+            "channel": "ART Motion Sport 2 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "     Ferizaj   vs   Trep\u00e7a 89"
         },
         {
             "compet": "Romanian Superliga - Week 7",
@@ -947,6 +1107,32 @@
             "related_to": "     Ke\u00e7i\u00f6reng\u00fcc\u00fc   vs   Umraniyespor"
         },
         {
+            "compet": "Saudi Pro League - Week 4",
+            "match": "     Al Fayha   vs   Abha Club",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "16:00",
+            "date": "2026-08-28"
+        },
+        {
+            "channel": "Thmanyah 3 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Fayha   vs   Abha Club"
+        },
+        {
+            "channel": "Thmanyah KSA [app]",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Fayha   vs   Abha Club"
+        },
+        {
             "compet": "Cypriot 1. Division - Week 1",
             "match": "     Krasava FC   vs   Omonia 29is Maiou",
             "flags": {
@@ -1039,24 +1225,6 @@
             "encry": "",
             "link": "#",
             "related_to": "     Slavia Sofia   vs   Septemvri Sofia"
-        },
-        {
-            "compet": "Saudi Pro League - Week 4",
-            "match": "     Al Fayha   vs   Abha Club",
-            "flags": {
-                "team1": "saudiarabia",
-                "team2": "saudiarabia"
-            },
-            "time": "16:00",
-            "date": "2026-08-28"
-        },
-        {
-            "channel": "Thmanyah KSA [app]",
-            "sat": "Download APP 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Al Fayha   vs   Abha Club"
         },
         {
             "compet": "Slovak 2. Liga - Week 6",
@@ -1397,6 +1565,14 @@
             "related_to": "     Braunschweig   vs   Hertha Berlin"
         },
         {
+            "channel": "TSN Malta 8 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Braunschweig   vs   Hertha Berlin"
+        },
+        {
             "channel": "ViaPlay 2 Urheilu HD",
             "sat": "Thor 5 0.8\u00b0w",
             "freq": "11278 V 25000 - 3/4",
@@ -1594,6 +1770,14 @@
             "channel": "SportKlub 7 Hrvatska",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Bochum   vs   Osnabr\u00fcck"
+        },
+        {
+            "channel": "TSN Malta 7 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
             "encry": "",
             "link": "#",
             "related_to": "     Bochum   vs   Osnabr\u00fcck"
@@ -1892,6 +2076,14 @@
             "freq": "0000 0",
             "encry": "HD NagraVision",
             "link": "#",
+            "related_to": "     Racing Santander   vs   Elche"
+        },
+        {
+            "channel": "ART Motion Sport 2 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
             "related_to": "     Racing Santander   vs   Elche"
         },
         {
@@ -2303,6 +2495,84 @@
             "related_to": "     Racing Santander   vs   Elche"
         },
         {
+            "compet": "Egyptian Premier League - Week 2",
+            "match": "     ZED FC   vs   Al Ahly",
+            "flags": {
+                "team1": "egypt",
+                "team2": "egypt"
+            },
+            "time": "17:00",
+            "date": "2026-08-28"
+        },
+        {
+            "channel": "ON Sport Egypt [app]",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 -",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     ZED FC   vs   Al Ahly"
+        },
+        {
+            "compet": "Egyptian Premier League - Week 2",
+            "match": "     Al Ittihad   vs   Ceramica Cleopatra",
+            "flags": {
+                "team1": "egypt",
+                "team2": "egypt"
+            },
+            "time": "17:00",
+            "date": "2026-08-28"
+        },
+        {
+            "channel": "ON Sport Egypt [app]",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 -",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Ittihad   vs   Ceramica Cleopatra"
+        },
+        {
+            "compet": "German Regionalliga: Nordost - Week 7",
+            "match": "     VSG Altglienicke   vs   Chemie Leipzig",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "17:00",
+            "date": "2026-08-28"
+        },
+        {
+            "channel": "FreiePresse [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 -",
+            "encry": "",
+            "link": "https://www.freiepresse.de/sport",
+            "related_to": "     VSG Altglienicke   vs   Chemie Leipzig"
+        },
+        {
+            "channel": "LVZ Live Sport [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.lvz.de/themen/sachsen-livesport/",
+            "related_to": "     VSG Altglienicke   vs   Chemie Leipzig"
+        },
+        {
+            "channel": "MZ Deutsch Live [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 -",
+            "encry": "",
+            "link": "https://www.mz.de/live",
+            "related_to": "     VSG Altglienicke   vs   Chemie Leipzig"
+        },
+        {
+            "channel": "Th\u00fcringen Live Stream",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.thueringer-allgemeine.de/sport/fussball/regionalliga/fussball-regionalliga-nordost-im-livestream-id236140111.html",
+            "related_to": "     VSG Altglienicke   vs   Chemie Leipzig"
+        },
+        {
             "compet": "German 3. Liga - Week 3",
             "match": "     Fortuna D\u00fcsseldorf   vs   Stuttgart II",
             "flags": {
@@ -2457,40 +2727,6 @@
             "related_to": "     Chemnitz   vs   Carl Zeiss Jena"
         },
         {
-            "compet": "German Regionalliga: Nordost - Week 7",
-            "match": "     VSG Altglienicke   vs   Chemie Leipzig",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "17:00",
-            "date": "2026-08-28"
-        },
-        {
-            "channel": "FreiePresse [online]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 -",
-            "encry": "",
-            "link": "https://www.freiepresse.de/sport",
-            "related_to": "     VSG Altglienicke   vs   Chemie Leipzig"
-        },
-        {
-            "channel": "LVZ Live Sport [$]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.lvz.de/themen/sachsen-livesport/",
-            "related_to": "     VSG Altglienicke   vs   Chemie Leipzig"
-        },
-        {
-            "channel": "MZ Deutsch Live [online]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 -",
-            "encry": "",
-            "link": "https://www.mz.de/live",
-            "related_to": "     VSG Altglienicke   vs   Chemie Leipzig"
-        },
-        {
             "compet": "Swedish Damallsvenskan - Week 16",
             "match": "     Uppsala   vs   Eskilstuna United",
             "flags": {
@@ -2635,6 +2871,144 @@
             "encry": "",
             "link": "#",
             "related_to": "     Yverdon Sport   vs   Wil 1900"
+        },
+        {
+            "compet": "Saudi Pro League - Week 4",
+            "match": "     Al Khaleej   vs   Al Hilal",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "18:00",
+            "date": "2026-08-28"
+        },
+        {
+            "channel": "Band Sports Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "11680 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Khaleej   vs   Al Hilal"
+        },
+        {
+            "channel": "DAZN Canada ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Al Khaleej   vs   Al Hilal"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Al Khaleej   vs   Al Hilal"
+        },
+        {
+            "channel": "DAZN France ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Khaleej   vs   Al Hilal"
+        },
+        {
+            "channel": "DAZN Ireland ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "     Al Khaleej   vs   Al Hilal"
+        },
+        {
+            "channel": "DAZN Worldwide ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com",
+            "related_to": "     Al Khaleej   vs   Al Hilal"
+        },
+        {
+            "channel": "FanCode India ($/geo/R)",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.fancode.com/rugby/schedule/upcoming",
+            "related_to": "     Al Khaleej   vs   Al Hilal"
+        },
+        {
+            "channel": "HT Spor T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11837 V 30000 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Khaleej   vs   Al Hilal"
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Khaleej   vs   Al Hilal"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL 2",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Khaleej   vs   Al Hilal"
+        },
+        {
+            "channel": "SportKlub 6 Slovenija",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Khaleej   vs   Al Hilal"
+        },
+        {
+            "channel": "SportKlub 8 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Khaleej   vs   Al Hilal"
+        },
+        {
+            "channel": "ST Sports Arena",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11938 V 27500 - 3/4",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Al Khaleej   vs   Al Hilal"
+        },
+        {
+            "channel": "SuperSport 5 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10804 H 29950 - 2/3",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Al Khaleej   vs   Al Hilal"
+        },
+        {
+            "channel": "Thmanyah 2 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Khaleej   vs   Al Hilal"
+        },
+        {
+            "channel": "Thmanyah KSA [app]",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Khaleej   vs   Al Hilal"
         },
         {
             "compet": "Saudi Pro League - Week 4",
@@ -2799,6 +3173,14 @@
             "related_to": "     Al Nassr   vs   Al Taawoun"
         },
         {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Al Nassr   vs   Al Taawoun"
+        },
+        {
             "channel": "SPOTV Malaysia HD",
             "sat": "Measat 3b 91.5\u00b0e",
             "freq": "10772 V 30000 - 5/6",
@@ -2847,142 +3229,20 @@
             "related_to": "     Al Nassr   vs   Al Taawoun"
         },
         {
+            "channel": "Thmanyah 1 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Nassr   vs   Al Taawoun"
+        },
+        {
             "channel": "Thmanyah KSA [app]",
             "sat": "Download APP 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "#",
             "related_to": "     Al Nassr   vs   Al Taawoun"
-        },
-        {
-            "compet": "Saudi Pro League - Week 4",
-            "match": "     Al Khaleej   vs   Al Hilal",
-            "flags": {
-                "team1": "saudiarabia",
-                "team2": "saudiarabia"
-            },
-            "time": "18:00",
-            "date": "2026-08-28"
-        },
-        {
-            "channel": "Band Sports Brazil HD",
-            "sat": "SES 6 40.5\u00b0w",
-            "freq": "11680 V 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Al Khaleej   vs   Al Hilal"
-        },
-        {
-            "channel": "DAZN Canada ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Al Khaleej   vs   Al Hilal"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Al Khaleej   vs   Al Hilal"
-        },
-        {
-            "channel": "DAZN France ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Al Khaleej   vs   Al Hilal"
-        },
-        {
-            "channel": "DAZN Ireland ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.dazn.com/en-IE/home",
-            "related_to": "     Al Khaleej   vs   Al Hilal"
-        },
-        {
-            "channel": "DAZN Worldwide ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.dazn.com",
-            "related_to": "     Al Khaleej   vs   Al Hilal"
-        },
-        {
-            "channel": "FanCode India ($/geo/R)",
-            "sat": "Download APP 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.fancode.com/rugby/schedule/upcoming",
-            "related_to": "     Al Khaleej   vs   Al Hilal"
-        },
-        {
-            "channel": "HT Spor T\u00fcrkiye HD",
-            "sat": "Turksat 4A 42.0\u00b0e",
-            "freq": "11837 V 30000 - 2/3",
-            "encry": "FTA",
-            "link": "#",
-            "related_to": "     Al Khaleej   vs   Al Hilal"
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Al Khaleej   vs   Al Hilal"
-        },
-        {
-            "channel": "Sportdigital FUSSBALL 2",
-            "sat": "Download APP 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Al Khaleej   vs   Al Hilal"
-        },
-        {
-            "channel": "SportKlub 6 Slovenija",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Al Khaleej   vs   Al Hilal"
-        },
-        {
-            "channel": "SportKlub 8 Hrvatska",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Al Khaleej   vs   Al Hilal"
-        },
-        {
-            "channel": "ST Sports Arena",
-            "sat": "Thor 6 5.0\u00b0e",
-            "freq": "11938 V 27500 - 3/4",
-            "encry": "MPEG-4 NDS",
-            "link": "#",
-            "related_to": "     Al Khaleej   vs   Al Hilal"
-        },
-        {
-            "channel": "SuperSport 5 Albania HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "10804 H 29950 - 2/3",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Al Khaleej   vs   Al Hilal"
-        },
-        {
-            "channel": "Thmanyah KSA [app]",
-            "sat": "Download APP 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Al Khaleej   vs   Al Hilal"
         },
         {
             "compet": "Dutch Eerste Divisie - Week 4",
@@ -3171,6 +3431,76 @@
             "related_to": "     Universitatea Cluj   vs   Petrolul"
         },
         {
+            "compet": "Belgian Challenger Pro League - Week 3",
+            "match": "     Sporting Hasselt   vs   AA Gent U-23",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "18:00",
+            "date": "2026-08-28"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Sporting Hasselt   vs   AA Gent U-23"
+        },
+        {
+            "channel": "DAZN Pro League 2 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Sporting Hasselt   vs   AA Gent U-23"
+        },
+        {
+            "compet": "Belgian Challenger Pro League - Week 3",
+            "match": "     Sporting Lokeren   vs   Racing Genk U-23",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "18:00",
+            "date": "2026-08-28"
+        },
+        {
+            "channel": "DAZN Belgium ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": "     Sporting Lokeren   vs   Racing Genk U-23"
+        },
+        {
+            "compet": "Dutch Eredivisie - Week 4",
+            "match": "     Groningen   vs   Fortuna Sittard",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "18:00",
+            "date": "2026-08-28"
+        },
+        {
+            "channel": "ESPN 2 Nederland HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11856 V 29900 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Groningen   vs   Fortuna Sittard"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Groningen   vs   Fortuna Sittard"
+        },
+        {
             "compet": "French Ligue 2 - Week 4",
             "match": "     Nancy   vs   Dunkerque",
             "flags": {
@@ -3259,76 +3589,6 @@
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Laval   vs   Grenoble Foot 38"
-        },
-        {
-            "compet": "Belgian Challenger Pro League - Week 3",
-            "match": "     Sporting Hasselt   vs   AA Gent U-23",
-            "flags": {
-                "team1": "belgium",
-                "team2": "belgium"
-            },
-            "time": "18:00",
-            "date": "2026-08-28"
-        },
-        {
-            "channel": "DAZN Belgium ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.dazn.com/en-BE/",
-            "related_to": "     Sporting Hasselt   vs   AA Gent U-23"
-        },
-        {
-            "channel": "DAZN Pro League 2 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Sporting Hasselt   vs   AA Gent U-23"
-        },
-        {
-            "compet": "Belgian Challenger Pro League - Week 3",
-            "match": "     Sporting Lokeren   vs   Racing Genk U-23",
-            "flags": {
-                "team1": "belgium",
-                "team2": "belgium"
-            },
-            "time": "18:00",
-            "date": "2026-08-28"
-        },
-        {
-            "channel": "DAZN Belgium ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.dazn.com/en-BE/",
-            "related_to": "     Sporting Lokeren   vs   Racing Genk U-23"
-        },
-        {
-            "compet": "Dutch Eredivisie - Week 4",
-            "match": "     Groningen   vs   Fortuna Sittard",
-            "flags": {
-                "team1": "holland",
-                "team2": "holland"
-            },
-            "time": "18:00",
-            "date": "2026-08-28"
-        },
-        {
-            "channel": "ESPN 2 Nederland HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "11856 V 29900 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Groningen   vs   Fortuna Sittard"
-        },
-        {
-            "channel": "ESPN Extra Nederland",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Groningen   vs   Fortuna Sittard"
         },
         {
             "compet": "Slovenian Prva Liga - Week 7",
@@ -3525,6 +3785,14 @@
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12304 H 30000 - 3/4",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Bayern Munich   vs   Stuttgart"
+        },
+        {
+            "channel": "Azam Sports 2 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Bayern Munich   vs   Stuttgart"
         },
@@ -3737,6 +4005,14 @@
             "related_to": "     Bayern Munich   vs   Stuttgart"
         },
         {
+            "channel": "Puls 4 \u00d6sterreich HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12051 V 27500 - 3/4",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Bayern Munich   vs   Stuttgart"
+        },
+        {
             "channel": "S Sport+ Streaming",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -3893,6 +4169,14 @@
             "sat": "Hellas Sat 4 39.0\u00b0e",
             "freq": "10890 H 30000 - 5/6",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Bayern Munich   vs   Stuttgart"
+        },
+        {
+            "channel": "TSN Malta 5 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Bayern Munich   vs   Stuttgart"
         },
@@ -4583,10 +4867,26 @@
             "related_to": "     AC Milan   vs   Venezia"
         },
         {
+            "channel": "ART Motion Sport 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "     AC Milan   vs   Venezia"
+        },
+        {
             "channel": "Astro Football HD",
             "sat": "Measat 3b 91.5\u00b0e",
             "freq": "10932 V 30000 - 5/6",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     AC Milan   vs   Venezia"
+        },
+        {
+            "channel": "Azam Sports 3 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     AC Milan   vs   Venezia"
         },
@@ -4839,6 +5139,14 @@
             "related_to": "     AC Milan   vs   Venezia"
         },
         {
+            "channel": "Sport TV Azerbaijan (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     AC Milan   vs   Venezia"
+        },
+        {
             "channel": "Sport TV2 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
@@ -4867,6 +5175,14 @@
             "sat": "Hellas Sat 4 39.0\u00b0e",
             "freq": "10890 H 30000 - 5/6",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     AC Milan   vs   Venezia"
+        },
+        {
+            "channel": "TSN Malta 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     AC Milan   vs   Venezia"
         },
@@ -5887,6 +6203,14 @@
             "related_to": "     Crystal Palace   vs   Manchester City"
         },
         {
+            "channel": "AzTV HD (azerbaijan)",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11095 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Manchester City"
+        },
+        {
             "channel": "beIN Connect MENA",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -6079,6 +6403,14 @@
             "related_to": "     Crystal Palace   vs   Manchester City"
         },
         {
+            "channel": "Meraj TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11221 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Manchester City"
+        },
+        {
             "channel": "Monomax Streaming ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -6178,6 +6510,14 @@
             "channel": "Sky Sport Italia 4K UHD",
             "sat": "Hotbird 13E 13.0\u00b0e",
             "freq": "11996 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Manchester City"
+        },
+        {
+            "channel": "Sky Sport Premier League DE HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12032 H 27500 - 9/10",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Crystal Palace   vs   Manchester City"
@@ -6295,6 +6635,14 @@
             "related_to": "     Crystal Palace   vs   Manchester City"
         },
         {
+            "channel": "TSN Malta 2 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Manchester City"
+        },
+        {
             "channel": "USA Network HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -6383,70 +6731,142 @@
             "related_to": "     Crystal Palace   vs   Manchester City"
         },
         {
-            "compet": "Spanish La Liga 2 - Week 3",
-            "match": "     Tenerife   vs   Sporting Gij\u00f3n",
+            "compet": "Italian Serie C Girone C - Girone C - 2",
+            "match": "     Barletta   vs   Bari",
             "flags": {
-                "team1": "spain",
-                "team2": "spain"
+                "team1": "italy",
+                "team2": "italy"
             },
             "time": "19:00",
             "date": "2026-08-28"
         },
         {
-            "channel": "beIN Sports 2 HD (Astro)",
-            "sat": "Measat 3b 91.5\u00b0e",
-            "freq": "10732 V 30000 - 5/6",
+            "channel": "Sky Go Italy [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Barletta   vs   Bari"
+        },
+        {
+            "channel": "Sky Sport 251 Italia HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12418 V 29900 - 3/4",
             "encry": "HD VideoGuard",
             "link": "#",
-            "related_to": "     Tenerife   vs   Sporting Gij\u00f3n"
+            "related_to": "     Barletta   vs   Bari"
         },
         {
-            "channel": "DAZN Espa\u00f1a ($/geo/R)",
+            "channel": "Sky Sport Uno Italia HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11958 V 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Barletta   vs   Bari"
+        },
+        {
+            "compet": "Italian Serie C Girone C - Girone C - 2",
+            "match": "     Scafatese   vs   Picerno",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "19:00",
+            "date": "2026-08-28"
+        },
+        {
+            "channel": "Sky Go Italy [online]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
-            "encry": "",
+            "encry": "LiveOnSat.com",
             "link": "#",
-            "related_to": "     Tenerife   vs   Sporting Gij\u00f3n"
+            "related_to": "     Scafatese   vs   Picerno"
         },
         {
-            "channel": "LaLiga Hypermotion HD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "10758 V 22000 - 5/6",
-            "encry": "Seca",
+            "channel": "Sky Sport 255 Italia HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12073 V 29900 - 5/6",
+            "encry": "VideoGuard",
             "link": "#",
-            "related_to": "     Tenerife   vs   Sporting Gij\u00f3n"
+            "related_to": "     Scafatese   vs   Picerno"
         },
         {
-            "channel": "LaLiga TV Bar 2",
-            "sat": "Astra 1L 19.2\u00b0e",
-            "freq": "11038 V 22000 - 5/6",
-            "encry": "NagraVision",
-            "link": "#",
-            "related_to": "     Tenerife   vs   Sporting Gij\u00f3n"
+            "compet": "Italian Serie C Girone B - Girone B - 2",
+            "match": "     Pianese   vs   Vado",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "19:00",
+            "date": "2026-08-28"
         },
         {
-            "channel": "Megogo Futbol 5 ($/geo/R)",
+            "channel": "Sky Go Italy [online]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
-            "encry": "",
+            "encry": "LiveOnSat.com",
             "link": "#",
-            "related_to": "     Tenerife   vs   Sporting Gij\u00f3n"
+            "related_to": "     Pianese   vs   Vado"
         },
         {
-            "channel": "Orange F\u00fatbol 2 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
+            "channel": "Sky Sport 254 Italia HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12073 V 29900 - 5/6",
+            "encry": "VideoGuard",
             "link": "#",
-            "related_to": "     Tenerife   vs   Sporting Gij\u00f3n"
+            "related_to": "     Pianese   vs   Vado"
         },
         {
-            "channel": "Prima Sport RO PPV 2",
+            "compet": "Italian Serie C Girone C - Girone C - 2",
+            "match": "     Casarano   vs   Giugliano",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "19:00",
+            "date": "2026-08-28"
+        },
+        {
+            "channel": "Sky Go Italy [online]",
             "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
             "link": "#",
-            "related_to": "     Tenerife   vs   Sporting Gij\u00f3n"
+            "related_to": "     Casarano   vs   Giugliano"
+        },
+        {
+            "channel": "Sky Sport 253 Italia HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12341 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Casarano   vs   Giugliano"
+        },
+        {
+            "compet": "Italian Serie C Girone C - Girone C - 2",
+            "match": "     Cavese   vs   Audace Cerignola",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "19:00",
+            "date": "2026-08-28"
+        },
+        {
+            "channel": "Sky Go Italy [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Cavese   vs   Audace Cerignola"
+        },
+        {
+            "channel": "Sky Sport 252 Italia HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11996 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Cavese   vs   Audace Cerignola"
         },
         {
             "compet": "English Championship - Week 3",
@@ -6571,6 +6991,14 @@
             "related_to": "     Wrexham   vs   Birmingham City"
         },
         {
+            "channel": "Sky Sport MIX Deutsch HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11758 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Wrexham   vs   Birmingham City"
+        },
+        {
             "channel": "Sky Sports Football HD",
             "sat": "Astra 2E 28.2\u00b0e",
             "freq": "12090 V 29500 - 8/9",
@@ -6643,6 +7071,14 @@
             "related_to": "     Wrexham   vs   Birmingham City"
         },
         {
+            "channel": "TSN Malta 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Wrexham   vs   Birmingham City"
+        },
+        {
             "channel": "V Sport 1 Sverige HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "10809 V 25000 - 3/4",
@@ -6705,6 +7141,80 @@
             "encry": "",
             "link": "#",
             "related_to": "     Wrexham   vs   Birmingham City"
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 3",
+            "match": "     Tenerife   vs   Sporting Gij\u00f3n",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "19:00",
+            "date": "2026-08-28"
+        },
+        {
+            "channel": "beIN Sports 2 HD (Astro)",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Tenerife   vs   Sporting Gij\u00f3n"
+        },
+        {
+            "channel": "DAZN Espa\u00f1a ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Tenerife   vs   Sporting Gij\u00f3n"
+        },
+        {
+            "channel": "LaLiga Hypermotion HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "10758 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "#",
+            "related_to": "     Tenerife   vs   Sporting Gij\u00f3n"
+        },
+        {
+            "channel": "LaLiga TV Bar 2",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11038 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Tenerife   vs   Sporting Gij\u00f3n"
+        },
+        {
+            "channel": "Megogo Futbol 5 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Tenerife   vs   Sporting Gij\u00f3n"
+        },
+        {
+            "channel": "Orange F\u00fatbol 2 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Tenerife   vs   Sporting Gij\u00f3n"
+        },
+        {
+            "channel": "Prima Sport RO PPV 2",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Tenerife   vs   Sporting Gij\u00f3n"
+        },
+        {
+            "channel": "TSN Malta 7 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Tenerife   vs   Sporting Gij\u00f3n"
         },
         {
             "compet": "Portuguese Cup (Ta\u00e7a de Portugal) - 1st Round",
@@ -6775,96 +7285,6 @@
             "related_to": "     Drogheda United   vs   Dundalk"
         },
         {
-            "compet": "Italian Serie C Girone C - Girone C - 2",
-            "match": "     Scafatese   vs   Picerno",
-            "flags": {
-                "team1": "italy",
-                "team2": "italy"
-            },
-            "time": "19:00",
-            "date": "2026-08-28"
-        },
-        {
-            "channel": "Sky Go Italy [online]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Scafatese   vs   Picerno"
-        },
-        {
-            "compet": "Italian Serie C Girone C - Girone C - 2",
-            "match": "     Barletta   vs   Bari",
-            "flags": {
-                "team1": "italy",
-                "team2": "italy"
-            },
-            "time": "19:00",
-            "date": "2026-08-28"
-        },
-        {
-            "channel": "Sky Go Italy [online]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Barletta   vs   Bari"
-        },
-        {
-            "compet": "Italian Serie C Girone C - Girone C - 2",
-            "match": "     Casarano   vs   Giugliano",
-            "flags": {
-                "team1": "italy",
-                "team2": "italy"
-            },
-            "time": "19:00",
-            "date": "2026-08-28"
-        },
-        {
-            "channel": "Sky Go Italy [online]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Casarano   vs   Giugliano"
-        },
-        {
-            "compet": "Italian Serie C Girone C - Girone C - 2",
-            "match": "     Cavese   vs   Audace Cerignola",
-            "flags": {
-                "team1": "italy",
-                "team2": "italy"
-            },
-            "time": "19:00",
-            "date": "2026-08-28"
-        },
-        {
-            "channel": "Sky Go Italy [online]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Cavese   vs   Audace Cerignola"
-        },
-        {
-            "compet": "Italian Serie C Girone B - Girone B - 2",
-            "match": "     Pianese   vs   Vado",
-            "flags": {
-                "team1": "italy",
-                "team2": "italy"
-            },
-            "time": "19:00",
-            "date": "2026-08-28"
-        },
-        {
-            "channel": "Sky Go Italy [online]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Pianese   vs   Vado"
-        },
-        {
             "compet": "Portuguese Liga 1 - Week 4",
             "match": "     Rio Ave   vs   Sporting Lisbon",
             "flags": {
@@ -6891,9 +7311,9 @@
             "related_to": "     Rio Ave   vs   Sporting Lisbon"
         },
         {
-            "channel": "beIN Sports T\u00fcrkiye 4 HD",
+            "channel": "beIN Sports T\u00fcrkiye 5 HD",
             "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11676 V 24444 - 3/4",
+            "freq": "11180 H 29750 - 5/6",
             "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Rio Ave   vs   Sporting Lisbon"
@@ -6968,6 +7388,14 @@
             "freq": "12285 V 30000 - 2/3",
             "encry": "FTA",
             "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
+            "related_to": "     Rio Ave   vs   Sporting Lisbon"
+        },
+        {
+            "channel": "Sport 1 Lithuania HD [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
             "related_to": "     Rio Ave   vs   Sporting Lisbon"
         },
         {
@@ -7070,6 +7498,14 @@
             "freq": "12460 H 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
+            "related_to": "     Alav\u00e9s   vs   Villarreal"
+        },
+        {
+            "channel": "ART Motion Sport 2 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
             "related_to": "     Alav\u00e9s   vs   Villarreal"
         },
         {
