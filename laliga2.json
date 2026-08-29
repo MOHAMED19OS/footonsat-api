@@ -2,80 +2,6 @@
     "footonsat": [
         {
             "compet": "Spanish La Liga 2 - Week 3",
-            "match": "     Tenerife   vs   Sporting Gij\u00f3n",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "time": "19:00",
-            "date": "2026-08-28"
-        },
-        {
-            "channel": "beIN Sports 2 HD (Astro)",
-            "sat": "Measat 3b 91.5\u00b0e",
-            "freq": "10732 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Tenerife   vs   Sporting Gij\u00f3n"
-        },
-        {
-            "channel": "DAZN Espa\u00f1a ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Tenerife   vs   Sporting Gij\u00f3n"
-        },
-        {
-            "channel": "LaLiga Hypermotion HD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "10758 V 22000 - 5/6",
-            "encry": "Seca",
-            "link": "#",
-            "related_to": "     Tenerife   vs   Sporting Gij\u00f3n"
-        },
-        {
-            "channel": "LaLiga TV Bar 2",
-            "sat": "Astra 1L 19.2\u00b0e",
-            "freq": "11038 V 22000 - 5/6",
-            "encry": "NagraVision",
-            "link": "#",
-            "related_to": "     Tenerife   vs   Sporting Gij\u00f3n"
-        },
-        {
-            "channel": "Megogo Futbol 5 ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Tenerife   vs   Sporting Gij\u00f3n"
-        },
-        {
-            "channel": "Orange F\u00fatbol 2 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Tenerife   vs   Sporting Gij\u00f3n"
-        },
-        {
-            "channel": "Prima Sport RO PPV 2",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Tenerife   vs   Sporting Gij\u00f3n"
-        },
-        {
-            "channel": "TSN Malta 7 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Tenerife   vs   Sporting Gij\u00f3n"
-        },
-        {
-            "compet": "Spanish La Liga 2 - Week 3",
             "match": "     Sabadell   vs   Almer\u00eda",
             "flags": {
                 "team1": "spain",
@@ -201,6 +127,14 @@
             },
             "time": "19:30",
             "date": "2026-08-29"
+        },
+        {
+            "channel": "beIN Sports 2 HD (Astro)",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Girona   vs   Las Palmas"
         },
         {
             "channel": "beIN Sports MENA 3 HD",
