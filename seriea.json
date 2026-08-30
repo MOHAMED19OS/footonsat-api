@@ -307,6 +307,14 @@
             "related_to": "     Napoli   vs   Como 1907"
         },
         {
+            "channel": "Persiana Sports 3 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Napoli   vs   Como 1907"
+        },
+        {
             "channel": "Prima Sport RO 2 HD",
             "sat": "Hellas Sat 3 39.0\u00b0e",
             "freq": "12565 V 30000 - 7/8",
@@ -350,6 +358,14 @@
             "channel": "Sport TV4 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Napoli   vs   Como 1907"
+        },
+        {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12605 V 30000 - 5/6",
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Napoli   vs   Como 1907"
@@ -501,6 +517,14 @@
             "related_to": "     Cagliari   vs   Inter Milan"
         },
         {
+            "channel": "Azam Sports 2 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Cagliari   vs   Inter Milan"
+        },
+        {
             "channel": "beIN Sports Australia 3 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -637,6 +661,14 @@
             "related_to": "     Cagliari   vs   Inter Milan"
         },
         {
+            "channel": "GEM Sport 1 HD",
+            "sat": "Al Yah 1 52.5\u00b0e",
+            "freq": "12034 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Cagliari   vs   Inter Milan"
+        },
+        {
             "channel": "HBO Max (uk only) [$/geo/R]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -713,6 +745,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Cagliari   vs   Inter Milan"
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Cagliari   vs   Inter Milan"
         },
@@ -1100,6 +1140,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "#",
+            "related_to": "     Lazio   vs   Genoa"
+        },
+        {
+            "channel": "Persiana Sports 2 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
             "related_to": "     Lazio   vs   Genoa"
         },
         {
@@ -2769,7 +2817,7 @@
                 "team1": "italy",
                 "team2": "italy"
             },
-            "time": "16:00",
+            "time": "16:30",
             "date": "2026-09-07"
         },
         {
