@@ -87,6 +87,32 @@
             "related_to": "     Deportivo Cali   vs   Bucaramanga"
         },
         {
+            "compet": "Ukrainian Premier League - Week 4",
+            "match": "     Zorya Luhansk   vs   FC Kharkiv",
+            "flags": {
+                "team1": "ukraine",
+                "team2": "ukraine"
+            },
+            "time": "10:00",
+            "date": "2026-08-31"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     Zorya Luhansk   vs   FC Kharkiv"
+        },
+        {
+            "channel": "UPL TV Ukraine HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "12207 V 30000 - 2/3",
+            "encry": "HD Verimatrix",
+            "link": "https://upl.ua/en/upltv",
+            "related_to": "     Zorya Luhansk   vs   FC Kharkiv"
+        },
+        {
             "compet": "English PL 2 - Regular Season",
             "match": "     Chelsea U-21   vs   West Ham United U-21",
             "flags": {
@@ -247,6 +273,32 @@
             "encry": "",
             "link": "https://www.cymrufootball.tv/en",
             "related_to": "     Airbus UK   vs   Holywell Town"
+        },
+        {
+            "compet": "Portuguese Liga Next Gen - Week 4",
+            "match": "     Torreense U-23   vs   Sporting Braga U-23",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "14:00",
+            "date": "2026-08-31"
+        },
+        {
+            "channel": "Canal 11 [online] (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.canal11.pt/",
+            "related_to": "     Torreense U-23   vs   Sporting Braga U-23"
+        },
+        {
+            "channel": "Canal 11 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12437 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Torreense U-23   vs   Sporting Braga U-23"
         },
         {
             "compet": "Cymru Premier - Week 6",
@@ -1193,24 +1245,6 @@
             "related_to": "     Bukovyna   vs   Dynamo Kyiv"
         },
         {
-            "compet": "Bulgarian First League - Week 7",
-            "match": "     Dunav Ruse   vs   Lokomotiv Sofia",
-            "flags": {
-                "team1": "bulgaria",
-                "team2": "bulgaria"
-            },
-            "time": "16:00",
-            "date": "2026-08-31"
-        },
-        {
-            "channel": "Diema Sport HD",
-            "sat": "AzerSpace 2 45.0\u00b0e",
-            "freq": "12520 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Dunav Ruse   vs   Lokomotiv Sofia"
-        },
-        {
             "compet": "German Frauen Bundesliga - Week 2",
             "match": "     Bayern Munich   vs   Mainz 05",
             "flags": {
@@ -1251,6 +1285,48 @@
             "encry": "",
             "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
             "related_to": "     Bayern Munich   vs   Mainz 05"
+        },
+        {
+            "channel": "Sport 6 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Bayern Munich   vs   Mainz 05"
+        },
+        {
+            "compet": "Bulgarian First League - Week 7",
+            "match": "     Dunav Ruse   vs   Lokomotiv Sofia",
+            "flags": {
+                "team1": "bulgaria",
+                "team2": "bulgaria"
+            },
+            "time": "16:00",
+            "date": "2026-08-31"
+        },
+        {
+            "channel": "Diema Sport HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Dunav Ruse   vs   Lokomotiv Sofia"
+        },
+        {
+            "channel": "SportKlub 2 Hrvatska",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11678 V 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Dunav Ruse   vs   Lokomotiv Sofia"
+        },
+        {
+            "channel": "SportKlub 6 Slovenija",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Dunav Ruse   vs   Lokomotiv Sofia"
         },
         {
             "compet": "Norwegian Toppserien (W) - Week 14",
@@ -1357,6 +1433,22 @@
             "date": "2026-08-31"
         },
         {
+            "channel": "Arena M3 Premium MKD HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Lecce   vs   Roma"
+        },
+        {
+            "channel": "Arena Premium 2 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Lecce   vs   Roma"
+        },
+        {
             "channel": "Arena Premium 3 Srbija HD",
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12422 H 30000 - 3/4",
@@ -1381,11 +1473,35 @@
             "related_to": "     Lecce   vs   Roma"
         },
         {
+            "channel": "Astro Football HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10932 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Lecce   vs   Roma"
+        },
+        {
+            "channel": "Azam Sports 3 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Lecce   vs   Roma"
+        },
+        {
             "channel": "beIN Sports Australia 3 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
+            "related_to": "     Lecce   vs   Roma"
+        },
+        {
+            "channel": "CBS Sports Golazo N/W (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "FTA",
+            "link": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
             "related_to": "     Lecce   vs   Roma"
         },
         {
@@ -1409,6 +1525,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Lecce   vs   Roma"
+        },
+        {
+            "channel": "DAZN 2 Bar Deutsch HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11798 H 27500 - 9/0",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Lecce   vs   Roma"
         },
@@ -1493,6 +1617,38 @@
             "related_to": "     Lecce   vs   Roma"
         },
         {
+            "channel": "Fast Sports TV Armenia",
+            "sat": "Eutelsat 70B 70.5\u00b0e",
+            "freq": "11050 H 20030 - 1/2",
+            "encry": "MPEG-4 Biss",
+            "link": "https://fasttv.am/tv-channels/fastsports",
+            "related_to": "     Lecce   vs   Roma"
+        },
+        {
+            "channel": "Go3 Sport 2 Baltic HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11958 H 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "https://go3.tv/en/live_tv",
+            "related_to": "     Lecce   vs   Roma"
+        },
+        {
+            "channel": "IRIB Varzesh HD",
+            "sat": "Intelsat 39 62.0\u00b0e",
+            "freq": "11555 V 30000 - 2/3",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Lecce   vs   Roma"
+        },
+        {
+            "channel": "Match 4 Hungary HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12130 H 28000 - 7/8",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Lecce   vs   Roma"
+        },
+        {
             "channel": "MATCH! Futbol 1 HD",
             "sat": "Horizons 2 84.8\u00b0e",
             "freq": "11840 H 28800 - 2/3",
@@ -1509,10 +1665,34 @@
             "related_to": "     Lecce   vs   Roma"
         },
         {
+            "channel": "MAX Sport 3 Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12600 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Lecce   vs   Roma"
+        },
+        {
+            "channel": "Megogo Futbol 2 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Lecce   vs   Roma"
+        },
+        {
             "channel": "MTV Urheilu 2 Suomi HD",
             "sat": "Thor 5 0.8\u00b0w",
             "freq": "11247 V 24500 - 7/8",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Lecce   vs   Roma"
+        },
+        {
+            "channel": "NBC Universo USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Lecce   vs   Roma"
         },
@@ -1533,10 +1713,26 @@
             "related_to": "     Lecce   vs   Roma"
         },
         {
+            "channel": "Persiana Sports 2 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
+            "related_to": "     Lecce   vs   Roma"
+        },
+        {
             "channel": "Prima Sport RO 3 HD",
             "sat": "Hellas Sat 3 39.0\u00b0e",
             "freq": "12606 V 30000 - 3/4",
             "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Lecce   vs   Roma"
+        },
+        {
+            "channel": "Q Sport Football HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Lecce   vs   Roma"
         },
@@ -1552,6 +1748,14 @@
             "channel": "S Sport+ Streaming",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Lecce   vs   Roma"
+        },
+        {
+            "channel": "Setanta Sports 2 Baltic",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
             "encry": "",
             "link": "#",
             "related_to": "     Lecce   vs   Roma"
@@ -1581,6 +1785,14 @@
             "related_to": "     Lecce   vs   Roma"
         },
         {
+            "channel": "Sky Sport Italia 4K UHD",
+            "sat": "Hotbird 13E 13.0\u00b0e",
+            "freq": "11996 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Lecce   vs   Roma"
+        },
+        {
             "channel": "Sport 1 Czechia HD",
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12070 H 27500 - 3/4",
@@ -1589,9 +1801,41 @@
             "related_to": "     Lecce   vs   Roma"
         },
         {
+            "channel": "Sport 4 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Lecce   vs   Roma"
+        },
+        {
+            "channel": "Sport TV2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Lecce   vs   Roma"
+        },
+        {
             "channel": "SuperSport Football HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11674 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Lecce   vs   Roma"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 1 HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Lecce   vs   Roma"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 360",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12130 H 27500 - 2/3",
             "encry": "Irdeto",
             "link": "#",
             "related_to": "     Lecce   vs   Roma"
@@ -1629,6 +1873,122 @@
             "related_to": "     Lecce   vs   Roma"
         },
         {
+            "channel": "TV4 Sport Live 2 HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10778 H 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Lecce   vs   Roma"
+        },
+        {
+            "channel": "Ziggo Sport 1 HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "HD Mediaguard",
+            "link": "#",
+            "related_to": "     Lecce   vs   Roma"
+        },
+        {
+            "channel": "Ziggo Sport 2",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Lecce   vs   Roma"
+        },
+        {
+            "compet": "Greek Super League 1 - Week 2",
+            "match": "     Levadiakos   vs   Panathinaikos",
+            "flags": {
+                "team1": "greece",
+                "team2": "greece"
+            },
+            "time": "16:30",
+            "date": "2026-08-31"
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12600 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Levadiakos   vs   Panathinaikos"
+        },
+        {
+            "channel": "Nova Sports 2 Cyprus HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Levadiakos   vs   Panathinaikos"
+        },
+        {
+            "channel": "Nova Sports 2 Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Levadiakos   vs   Panathinaikos"
+        },
+        {
+            "channel": "SportKlub 5 Slovenija",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Levadiakos   vs   Panathinaikos"
+        },
+        {
+            "channel": "SportKlub 6 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Levadiakos   vs   Panathinaikos"
+        },
+        {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Levadiakos   vs   Panathinaikos"
+        },
+        {
+            "channel": "SuperSport 2 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Levadiakos   vs   Panathinaikos"
+        },
+        {
+            "compet": "Croatian HNL - Week 5",
+            "match": "     Lokomotiva Zagreb   vs   Hajduk Split",
+            "flags": {
+                "team1": "croatia",
+                "team2": "croatia"
+            },
+            "time": "16:30",
+            "date": "2026-08-31"
+        },
+        {
+            "channel": "Arena Premium 5 BiH HD",
+            "sat": " 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Lokomotiva Zagreb   vs   Hajduk Split"
+        },
+        {
+            "channel": "MAX Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11512 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Lokomotiva Zagreb   vs   Hajduk Split"
+        },
+        {
             "compet": "Russian FNL - Week 9",
             "match": "     Spartak Kostroma   vs   Rotor Volgograd",
             "flags": {
@@ -1655,58 +2015,6 @@
             "related_to": "     Spartak Kostroma   vs   Rotor Volgograd"
         },
         {
-            "compet": "Greek Super League 1 - Week 2",
-            "match": "     Levadiakos   vs   Panathinaikos",
-            "flags": {
-                "team1": "greece",
-                "team2": "greece"
-            },
-            "time": "16:30",
-            "date": "2026-08-31"
-        },
-        {
-            "channel": "Nova Sports 2 Cyprus HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "12130 H 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Levadiakos   vs   Panathinaikos"
-        },
-        {
-            "channel": "Nova Sports 2 Hellas HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "12130 H 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Levadiakos   vs   Panathinaikos"
-        },
-        {
-            "channel": "SuperSport 2 Albania HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "10845 H 30000 - 3/5",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Levadiakos   vs   Panathinaikos"
-        },
-        {
-            "compet": "Croatian HNL - Week 5",
-            "match": "     Lokomotiva Zagreb   vs   Hajduk Split",
-            "flags": {
-                "team1": "croatia",
-                "team2": "croatia"
-            },
-            "time": "16:30",
-            "date": "2026-08-31"
-        },
-        {
-            "channel": "MAX Sport 1 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11512 H 30000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Lokomotiva Zagreb   vs   Hajduk Split"
-        },
-        {
             "compet": "Danish Superliga - Week 6",
             "match": "     FC Copenhagen   vs   S\u00f8nderjyskE",
             "flags": {
@@ -1725,6 +2033,22 @@
             "related_to": "     FC Copenhagen   vs   S\u00f8nderjyskE"
         },
         {
+            "channel": "ONE2 Sport Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     FC Copenhagen   vs   S\u00f8nderjyskE"
+        },
+        {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     FC Copenhagen   vs   S\u00f8nderjyskE"
+        },
+        {
             "channel": "TV2 Play Danmark ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1739,6 +2063,40 @@
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     FC Copenhagen   vs   S\u00f8nderjyskE"
+        },
+        {
+            "compet": "Serbian Super League - Week 7",
+            "match": "     Partizan Belgrade   vs   OFK Belgrade",
+            "flags": {
+                "team1": "serbia",
+                "team2": "serbia"
+            },
+            "time": "17:00",
+            "date": "2026-08-31"
+        },
+        {
+            "channel": "Arena M2 Premium MKD HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Partizan Belgrade   vs   OFK Belgrade"
+        },
+        {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Partizan Belgrade   vs   OFK Belgrade"
+        },
+        {
+            "channel": "Arena Premium 4 BiH HD",
+            "sat": " 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Partizan Belgrade   vs   OFK Belgrade"
         },
         {
             "compet": "Cypriot 1. Division - Week 1",
@@ -1851,24 +2209,6 @@
             "encry": "NagraVision",
             "link": "#",
             "related_to": "     Burgos   vs   Real Sociedad II"
-        },
-        {
-            "compet": "Serbian Super League - Week 7",
-            "match": "     Partizan Belgrade   vs   OFK Belgrade",
-            "flags": {
-                "team1": "serbia",
-                "team2": "serbia"
-            },
-            "time": "17:00",
-            "date": "2026-08-31"
-        },
-        {
-            "channel": "Arena Premium 2 Srbija HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "#",
-            "related_to": "     Partizan Belgrade   vs   OFK Belgrade"
         },
         {
             "compet": "Swedish Allsvenskan - Week 19",
@@ -2003,6 +2343,14 @@
             "date": "2026-08-31"
         },
         {
+            "channel": "Arena Premium 3 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Osasuna   vs   Getafe"
+        },
+        {
             "channel": "Arena Premium 5 Srbija HD",
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12304 H 30000 - 3/4",
@@ -2027,6 +2375,14 @@
             "related_to": "     Osasuna   vs   Getafe"
         },
         {
+            "channel": "beIN Sports 1 HD (Astro)",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10812 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Osasuna   vs   Getafe"
+        },
+        {
             "channel": "beIN Sports Australia 1 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2047,6 +2403,14 @@
             "sat": "Hotbird 13G 13.0\u00b0e",
             "freq": "11278 V 27500 - 3/4",
             "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Osasuna   vs   Getafe"
+        },
+        {
+            "channel": "Canal+ Sport 7 Polska HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "0000 -",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Osasuna   vs   Getafe"
         },
@@ -2219,6 +2583,14 @@
             "related_to": "     Osasuna   vs   Getafe"
         },
         {
+            "channel": "Megogo Futbol 1 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
+            "related_to": "     Osasuna   vs   Getafe"
+        },
+        {
             "channel": "Nova Sport 5 Czech HD",
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12129 V 29900 - 3/4",
@@ -2231,6 +2603,22 @@
             "sat": "Thor 6 5.0\u00b0e",
             "freq": "12456 V 30000 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Osasuna   vs   Getafe"
+        },
+        {
+            "channel": "ONE Sport Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Osasuna   vs   Getafe"
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Osasuna   vs   Getafe"
         },
@@ -2283,6 +2671,22 @@
             "related_to": "     Osasuna   vs   Getafe"
         },
         {
+            "channel": "SportKlub 3 Hrvatska",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11387 H 30000  -3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Osasuna   vs   Getafe"
+        },
+        {
+            "channel": "SportKlub 3 Slovenija",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11231 V 42000 - 5/6",
+            "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Osasuna   vs   Getafe"
+        },
+        {
             "channel": "Sp\u00edler 2 TV Hungary HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "11727 V 28000 - 7/8",
@@ -2307,6 +2711,14 @@
             "related_to": "     Osasuna   vs   Getafe"
         },
         {
+            "channel": "SuperSport M\u00e1Ximo 3A HD",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12169 V 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Osasuna   vs   Getafe"
+        },
+        {
             "channel": "TSN Malta 4 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2323,10 +2735,26 @@
             "related_to": "     Osasuna   vs   Getafe"
         },
         {
+            "channel": "TV2 Sport Premium HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Osasuna   vs   Getafe"
+        },
+        {
             "channel": "ViaPlay Norge HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Osasuna   vs   Getafe"
+        },
+        {
+            "channel": "Ziggo Sport 3",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Osasuna   vs   Getafe"
         },
@@ -2479,6 +2907,14 @@
             "related_to": "     Besiktas   vs   Corum FK"
         },
         {
+            "channel": "Arena Sport 3 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11895 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Besiktas   vs   Corum FK"
+        },
+        {
             "channel": "ART Motion Sport 3 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2559,6 +2995,14 @@
             "related_to": "     Besiktas   vs   Corum FK"
         },
         {
+            "channel": "beIN Sports France 2 HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Besiktas   vs   Corum FK"
+        },
+        {
             "channel": "beIN Sports France 4 HD max",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "11856 V 29700 - 2/3",
@@ -2599,6 +3043,14 @@
             "related_to": "     Besiktas   vs   Corum FK"
         },
         {
+            "channel": "MATCH! TV [online] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://matchtv.ru/video/sports/football",
+            "related_to": "     Besiktas   vs   Corum FK"
+        },
+        {
             "channel": "Prima Sport RO 4 HD",
             "sat": "Hellas Sat 3 39.0\u00b0e",
             "freq": "12405 V 30000 - 7/8",
@@ -2619,6 +3071,22 @@
             "sat": "KazSat 3 58.5\u00b0e",
             "freq": "10720 H 30000 - 3/4",
             "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Besiktas   vs   Corum FK"
+        },
+        {
+            "channel": "SportKlub 5 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Besiktas   vs   Corum FK"
+        },
+        {
+            "channel": "SportKlub 6 Slovenija",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Besiktas   vs   Corum FK"
         },
@@ -2657,6 +3125,14 @@
             "related_to": "     Amedspor   vs   Trabzonspor"
         },
         {
+            "channel": "Arena Sport 6 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Amedspor   vs   Trabzonspor"
+        },
+        {
             "channel": "ART Motion Sport 4 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2670,6 +3146,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Amedspor   vs   Trabzonspor"
+        },
+        {
+            "channel": "beIN Sports 3 HD (Astro)",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
             "related_to": "     Amedspor   vs   Trabzonspor"
         },
         {
@@ -2689,6 +3173,22 @@
             "related_to": "     Amedspor   vs   Trabzonspor"
         },
         {
+            "channel": "ESPN 3 Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "3980 L 21600 - 3/4",
+            "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     Amedspor   vs   Trabzonspor"
+        },
+        {
+            "channel": "MATCH! TV [online] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://matchtv.ru/video/sports/football",
+            "related_to": "     Amedspor   vs   Trabzonspor"
+        },
+        {
             "channel": "Prima Sport RO PPV 1",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -2697,10 +3197,34 @@
             "related_to": "     Amedspor   vs   Trabzonspor"
         },
         {
+            "channel": "Sport 2 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "12259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Amedspor   vs   Trabzonspor"
+        },
+        {
             "channel": "Sport TV3 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Amedspor   vs   Trabzonspor"
+        },
+        {
+            "channel": "SportKlub 2 Hrvatska",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11678 V 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Amedspor   vs   Trabzonspor"
+        },
+        {
+            "channel": "SportKlub 5 Slovenija",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Amedspor   vs   Trabzonspor"
         },
@@ -2781,6 +3305,14 @@
             "related_to": "     Dijon   vs   St Etienne"
         },
         {
+            "channel": "Arena Sport 7 BiH HD",
+            "sat": " 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Dijon   vs   St Etienne"
+        },
+        {
             "channel": "beIN Sports France 1 HD",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "11856 V 29700 - 2/3",
@@ -2847,6 +3379,30 @@
             "date": "2026-08-31"
         },
         {
+            "channel": "Arena 4 Hungary HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "12265 V 28000 - 7/8",
+            "encry": "Conax",
+            "link": "#",
+            "related_to": "     Atalanta   vs   Bologna"
+        },
+        {
+            "channel": "Arena M3 Premium MKD HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Atalanta   vs   Bologna"
+        },
+        {
+            "channel": "Arena Premium 2 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Atalanta   vs   Bologna"
+        },
+        {
             "channel": "Arena Premium 3 Srbija HD",
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12422 H 30000 - 3/4",
@@ -2868,6 +3424,22 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://artmotion.net/tv/",
+            "related_to": "     Atalanta   vs   Bologna"
+        },
+        {
+            "channel": "Astro Football HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10932 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Atalanta   vs   Bologna"
+        },
+        {
+            "channel": "Azam Sports 3 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
             "related_to": "     Atalanta   vs   Bologna"
         },
         {
@@ -2899,6 +3471,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Atalanta   vs   Bologna"
+        },
+        {
+            "channel": "DAZN 2 Bar Deutsch HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11798 H 27500 - 9/0",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Atalanta   vs   Bologna"
         },
@@ -2983,6 +3563,22 @@
             "related_to": "     Atalanta   vs   Bologna"
         },
         {
+            "channel": "Fast Sports 2 Armenia ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://fasttv.am/tv-channels/fastsports2",
+            "related_to": "     Atalanta   vs   Bologna"
+        },
+        {
+            "channel": "Go3 Sport 2 Baltic HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11958 H 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "https://go3.tv/en/live_tv",
+            "related_to": "     Atalanta   vs   Bologna"
+        },
+        {
             "channel": "MATCH! Futbol 1 HD",
             "sat": "Horizons 2 84.8\u00b0e",
             "freq": "11840 H 28800 - 2/3",
@@ -2996,6 +3592,22 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://matchtv.ru/video/sports/football",
+            "related_to": "     Atalanta   vs   Bologna"
+        },
+        {
+            "channel": "MAX Sport 3 Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12600 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Atalanta   vs   Bologna"
+        },
+        {
+            "channel": "Megogo Futbol 2 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
             "related_to": "     Atalanta   vs   Bologna"
         },
         {
@@ -3023,6 +3635,14 @@
             "related_to": "     Atalanta   vs   Bologna"
         },
         {
+            "channel": "Persiana Sports 3 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Atalanta   vs   Bologna"
+        },
+        {
             "channel": "Prima Sport RO 3 HD",
             "sat": "Hellas Sat 3 39.0\u00b0e",
             "freq": "12606 V 30000 - 3/4",
@@ -3031,9 +3651,25 @@
             "related_to": "     Atalanta   vs   Bologna"
         },
         {
+            "channel": "Q Sport Football HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Atalanta   vs   Bologna"
+        },
+        {
             "channel": "S Sport+ Streaming",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Atalanta   vs   Bologna"
+        },
+        {
+            "channel": "Setanta Sports 2 Baltic",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
             "encry": "",
             "link": "#",
             "related_to": "     Atalanta   vs   Bologna"
@@ -3063,9 +3699,41 @@
             "related_to": "     Atalanta   vs   Bologna"
         },
         {
+            "channel": "Sky Sport Italia 4K UHD",
+            "sat": "Hotbird 13E 13.0\u00b0e",
+            "freq": "11996 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Atalanta   vs   Bologna"
+        },
+        {
+            "channel": "Sport 4 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Atalanta   vs   Bologna"
+        },
+        {
+            "channel": "Sport TV2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Atalanta   vs   Bologna"
+        },
+        {
             "channel": "SuperSport Football HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11674 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Atalanta   vs   Bologna"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 360",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12130 H 27500 - 2/3",
             "encry": "Irdeto",
             "link": "#",
             "related_to": "     Atalanta   vs   Bologna"
@@ -3103,6 +3771,14 @@
             "related_to": "     Atalanta   vs   Bologna"
         },
         {
+            "channel": "TV4 Sport Live 3 HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10778 H 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Atalanta   vs   Bologna"
+        },
+        {
             "compet": "English Premier League - Week 2",
             "match": "     Aston Villa   vs   Arsenal",
             "flags": {
@@ -3111,6 +3787,22 @@
             },
             "time": "19:00",
             "date": "2026-08-31"
+        },
+        {
+            "channel": "Arena M2 Premium MKD HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Arsenal"
+        },
+        {
+            "channel": "Arena Premium 1 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Arsenal"
         },
         {
             "channel": "Arena Premium 2 Srbija HD",
@@ -3134,6 +3826,22 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://astrogo.astro.com.my/hubSports",
+            "related_to": "     Aston Villa   vs   Arsenal"
+        },
+        {
+            "channel": "Astro Grandstand HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10932 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Arsenal"
+        },
+        {
+            "channel": "Astro Premier League HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10772 V 30000 - 5/6",
+            "encry": "HD Mediaguard",
+            "link": "#",
             "related_to": "     Aston Villa   vs   Arsenal"
         },
         {
@@ -3193,10 +3901,26 @@
             "related_to": "     Aston Villa   vs   Arsenal"
         },
         {
+            "channel": "Canal+ Extra 1 Polska HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11278 V 27500 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Arsenal"
+        },
+        {
             "channel": "Canal+ Foot HD",
             "sat": "Astra 1P 19.2\u00b0e",
             "freq": "12012 V 29700 - 2/3",
             "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Arsenal"
+        },
+        {
+            "channel": "Canal+ Foot UHD HDR",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12207 V 29700 - 2/3",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Aston Villa   vs   Arsenal"
         },
@@ -3206,6 +3930,14 @@
             "freq": "11973 V 29900 - 3/4",
             "encry": "HD Viaccess",
             "link": "https://livetv.skylink.cz",
+            "related_to": "     Aston Villa   vs   Arsenal"
+        },
+        {
+            "channel": "Canal+ Sport 3 Afrique HD",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "11823 H 27500 - 3/4",
+            "encry": "Irdeto",
+            "link": "#",
             "related_to": "     Aston Villa   vs   Arsenal"
         },
         {
@@ -3281,11 +4013,83 @@
             "related_to": "     Aston Villa   vs   Arsenal"
         },
         {
+            "channel": "Diema Sport 2 4K",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Arsenal"
+        },
+        {
+            "channel": "Diema Sport 2 HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12156 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Arsenal"
+        },
+        {
+            "channel": "ESPN 1 Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "3980 L 21600 - 3/4",
+            "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Arsenal"
+        },
+        {
+            "channel": "Fast Sports 1 Armenia ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://fasttv.am/tv-channels/fastsports1",
+            "related_to": "     Aston Villa   vs   Arsenal"
+        },
+        {
+            "channel": "GEM Sport 1 HD",
+            "sat": "Al Yah 1 52.5\u00b0e",
+            "freq": "12034 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Arsenal"
+        },
+        {
             "channel": "Go3 Extra Sport Baltics ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "LiveOnSat.com",
             "link": "https://go3.tv/extra_sports",
+            "related_to": "     Aston Villa   vs   Arsenal"
+        },
+        {
+            "channel": "Idman TV HD",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11175 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Arsenal"
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Intelsat 39 62.0\u00b0e",
+            "freq": "11555 V 30000 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Arsenal"
+        },
+        {
+            "channel": "Match 4 Hungary HD",
+            "sat": "Thor 7 0.6\u00b0w",
+            "freq": "12130 H 28000 - 7/8",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Arsenal"
+        },
+        {
+            "channel": "Meraj TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11221 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "     Aston Villa   vs   Arsenal"
         },
         {
@@ -3297,11 +4101,27 @@
             "related_to": "     Aston Villa   vs   Arsenal"
         },
         {
+            "channel": "NBC Universo USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Arsenal"
+        },
+        {
             "channel": "Nova Sports Prime Hellas HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "12130 H 27500 - 3/4",
             "encry": "HD Irdeto",
             "link": "#",
+            "related_to": "     Aston Villa   vs   Arsenal"
+        },
+        {
+            "channel": "Persiana Sports 2 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
             "related_to": "     Aston Villa   vs   Arsenal"
         },
         {
@@ -3321,6 +4141,38 @@
             "related_to": "     Aston Villa   vs   Arsenal"
         },
         {
+            "channel": "Premier Sports 2 Mongolia HD",
+            "sat": "Telstar 18 138.0\u00b0e",
+            "freq": "12598 H 45000 - 5/6",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Arsenal"
+        },
+        {
+            "channel": "Setanta Sports 1 Eurasia HD",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "12657 V 45000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Arsenal"
+        },
+        {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Arsenal"
+        },
+        {
+            "channel": "Setanta Sports Ukraine HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "12207 V 30000 - 2/3",
+            "encry": "HD Verimatrix",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Arsenal"
+        },
+        {
             "channel": "Sky Go UK [online]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -3329,9 +4181,41 @@
             "related_to": "     Aston Villa   vs   Arsenal"
         },
         {
+            "channel": "Sky Sport 2 Austria HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11992 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Arsenal"
+        },
+        {
             "channel": "Sky Sport Arena Italia HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "11996 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Arsenal"
+        },
+        {
+            "channel": "Sky Sport Deutsch UHD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11758 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Arsenal"
+        },
+        {
+            "channel": "Sky Sport Premier League DE HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12032 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Arsenal"
+        },
+        {
+            "channel": "Sky Sport Top Event HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "11914 H 27500 - 9/10",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Aston Villa   vs   Arsenal"
@@ -3369,6 +4253,22 @@
             "related_to": "     Aston Villa   vs   Arsenal"
         },
         {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Arsenal"
+        },
+        {
+            "channel": "Sport 1 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Arsenal"
+        },
+        {
             "channel": "Sport TV Azerbaijan (geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -3393,6 +4293,22 @@
             "related_to": "     Aston Villa   vs   Arsenal"
         },
         {
+            "channel": "SuperSport M\u00e1Ximo 1 HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Arsenal"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 2A HD",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12169 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Arsenal"
+        },
+        {
             "channel": "SuperSport Premier League HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11594 V 27500 - 5/6",
@@ -3413,6 +4329,14 @@
             "sat": "Astra 4A 5.0\u00b0e",
             "freq": "11823 V 27500 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Arsenal"
+        },
+        {
+            "channel": "USA Network HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Aston Villa   vs   Arsenal"
         },
@@ -3487,6 +4411,90 @@
             "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Aston Villa   vs   Arsenal"
+        },
+        {
+            "channel": "ViaPlay TV+ Nederland",
+            "sat": " 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Arsenal"
+        },
+        {
+            "compet": "Albanian Superliga - Week 2",
+            "match": "     Sk\u00ebnderbeu   vs   Dinamo City",
+            "flags": {
+                "team1": "albania",
+                "team2": "albania"
+            },
+            "time": "19:00",
+            "date": "2026-08-31"
+        },
+        {
+            "channel": "FIFA+ [app] (geo/R)",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Sk\u00ebnderbeu   vs   Dinamo City"
+        },
+        {
+            "channel": "FIFA+ on DAZN (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.joyn.de/play/live-tv?channel_id=1373",
+            "related_to": "     Sk\u00ebnderbeu   vs   Dinamo City"
+        },
+        {
+            "channel": "RTSH 1 Albania",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Sk\u00ebnderbeu   vs   Dinamo City"
+        },
+        {
+            "channel": "RTSH Sport Albania",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10930 H 30000 - 5/6",
+            "encry": "MPEG-4 Conax",
+            "link": "https://tv.rtsh.al/kanalet/rtsh-sport",
+            "related_to": "     Sk\u00ebnderbeu   vs   Dinamo City"
+        },
+        {
+            "channel": "RTSH Tani [app]",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Sk\u00ebnderbeu   vs   Dinamo City"
+        },
+        {
+            "compet": "Croatian HNL - Week 5",
+            "match": "     Gorica   vs   Rijeka",
+            "flags": {
+                "team1": "croatia",
+                "team2": "croatia"
+            },
+            "time": "19:00",
+            "date": "2026-08-31"
+        },
+        {
+            "channel": "Arena Premium 5 BiH HD",
+            "sat": " 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Gorica   vs   Rijeka"
+        },
+        {
+            "channel": "MAX Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11512 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Gorica   vs   Rijeka"
         },
         {
             "compet": "Italian Serie C Girone A - Girone A - 2",
@@ -3601,100 +4609,6 @@
             "related_to": "     Treviso   vs   Lecco"
         },
         {
-            "compet": "Albanian Superliga - Week 2",
-            "match": "     Sk\u00ebnderbeu   vs   Dinamo City",
-            "flags": {
-                "team1": "albania",
-                "team2": "albania"
-            },
-            "time": "19:00",
-            "date": "2026-08-31"
-        },
-        {
-            "channel": "FIFA+ [app] (geo/R)",
-            "sat": "Download APP 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "FTA",
-            "link": "#",
-            "related_to": "     Sk\u00ebnderbeu   vs   Dinamo City"
-        },
-        {
-            "channel": "FIFA+ on DAZN (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.joyn.de/play/live-tv?channel_id=1373",
-            "related_to": "     Sk\u00ebnderbeu   vs   Dinamo City"
-        },
-        {
-            "channel": "RTSH Tani [app]",
-            "sat": "Download APP 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Sk\u00ebnderbeu   vs   Dinamo City"
-        },
-        {
-            "compet": "Croatian HNL - Week 5",
-            "match": "     Gorica   vs   Rijeka",
-            "flags": {
-                "team1": "croatia",
-                "team2": "croatia"
-            },
-            "time": "19:00",
-            "date": "2026-08-31"
-        },
-        {
-            "channel": "MAX Sport 1 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11512 H 30000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Gorica   vs   Rijeka"
-        },
-        {
-            "compet": "Portuguese Liga 1 - Week 4",
-            "match": "     Sporting Braga   vs   Vit\u00f3ria Guimar\u00e3es",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "19:15",
-            "date": "2026-08-31"
-        },
-        {
-            "channel": "beIN Sports France 5 HD max",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11856 V 29700 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Sporting Braga   vs   Vit\u00f3ria Guimar\u00e3es"
-        },
-        {
-            "channel": "Bold+ Dansk ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://bold.dk/plus",
-            "related_to": "     Sporting Braga   vs   Vit\u00f3ria Guimar\u00e3es"
-        },
-        {
-            "channel": "Cosmote Sport 2 HD",
-            "sat": "Eutelsat 9B 9.0\u00b0e",
-            "freq": "11843 V 27500 - 3/5",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Sporting Braga   vs   Vit\u00f3ria Guimar\u00e3es"
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Sporting Braga   vs   Vit\u00f3ria Guimar\u00e3es"
-        },
-        {
             "compet": "Portuguese Liga 1 - Week 4",
             "match": "     Benfica   vs   Estoril",
             "flags": {
@@ -3705,6 +4619,14 @@
             "date": "2026-08-31"
         },
         {
+            "channel": "beIN Connect Canada",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-ca.beinsports.com/",
+            "related_to": "     Benfica   vs   Estoril"
+        },
+        {
             "channel": "beIN Connect T\u00fcrkiye",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -3713,10 +4635,42 @@
             "related_to": "     Benfica   vs   Estoril"
         },
         {
+            "channel": "beIN Connect USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://connect-us.beinsports.com/",
+            "related_to": "     Benfica   vs   Estoril"
+        },
+        {
+            "channel": "beIN Sports France 4 HD max",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Benfica   vs   Estoril"
+        },
+        {
             "channel": "beIN Sports T\u00fcrkiye 4 HD",
             "sat": "Turksat 3A 42.0\u00b0e",
             "freq": "11676 V 24444 - 3/4",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Benfica   vs   Estoril"
+        },
+        {
+            "channel": "beIN Sports US Espa\u00f1ol",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Benfica   vs   Estoril"
+        },
+        {
+            "channel": "beIN Sports US HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Benfica   vs   Estoril"
         },
@@ -3769,10 +4723,66 @@
             "related_to": "     Benfica   vs   Estoril"
         },
         {
+            "channel": "Eleven Sports 4 Polska HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11278 V 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Benfica   vs   Estoril"
+        },
+        {
+            "channel": "ESPN 4 Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "3980 L 21600 - 5/6",
+            "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     Benfica   vs   Estoril"
+        },
+        {
+            "channel": "Fubo Sports USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.fubosportsnetwork.com/",
+            "related_to": "     Benfica   vs   Estoril"
+        },
+        {
+            "channel": "FuboTV Canada ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Benfica   vs   Estoril"
+        },
+        {
             "channel": "MATCH! Futbol 3 HD",
             "sat": "Horizons 2 84.8\u00b0e",
             "freq": "11840 H 28800 - 2/3",
             "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Benfica   vs   Estoril"
+        },
+        {
+            "channel": "Megogo Futbol 3 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Benfica   vs   Estoril"
+        },
+        {
+            "channel": "Q Sport League HD",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "12719 V 45000 - 3/4",
+            "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Benfica   vs   Estoril"
+        },
+        {
+            "channel": "Sport 1 Hungary HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "12034 V 30000 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Benfica   vs   Estoril"
         },
@@ -3785,12 +4795,86 @@
             "related_to": "     Benfica   vs   Estoril"
         },
         {
+            "channel": "Sport 3 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Benfica   vs   Estoril"
+        },
+        {
             "channel": "Sportdigital FUSSBALL HD",
             "sat": "Astra 1L 19.2\u00b0e",
             "freq": "11186 V 22000 - 2/3",
             "encry": "HD Viaccess",
             "link": "#",
             "related_to": "     Benfica   vs   Estoril"
+        },
+        {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Benfica   vs   Estoril"
+        },
+        {
+            "compet": "Portuguese Liga 1 - Week 4",
+            "match": "     Sporting Braga   vs   Vit\u00f3ria Guimar\u00e3es",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "19:15",
+            "date": "2026-08-31"
+        },
+        {
+            "channel": "beIN Sports France 5 HD max",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Sporting Braga   vs   Vit\u00f3ria Guimar\u00e3es"
+        },
+        {
+            "channel": "Bold+ Dansk ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://bold.dk/plus",
+            "related_to": "     Sporting Braga   vs   Vit\u00f3ria Guimar\u00e3es"
+        },
+        {
+            "channel": "Cosmote Sport 2 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "11843 V 27500 - 3/5",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Sporting Braga   vs   Vit\u00f3ria Guimar\u00e3es"
+        },
+        {
+            "channel": "ESPN 4 Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "3980 L 21600 - 5/6",
+            "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     Sporting Braga   vs   Vit\u00f3ria Guimar\u00e3es"
+        },
+        {
+            "channel": "Megogo Sport Ukraine HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12285 V 30000 - 2/3",
+            "encry": "FTA",
+            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
+            "related_to": "     Sporting Braga   vs   Vit\u00f3ria Guimar\u00e3es"
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Sporting Braga   vs   Vit\u00f3ria Guimar\u00e3es"
         },
         {
             "compet": "Icelandic \u00darvalsdeild - Week 21",
@@ -3821,10 +4905,26 @@
             "date": "2026-08-31"
         },
         {
+            "channel": "Arena M1 Premium MKD HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Rayo Vallecano"
+        },
+        {
             "channel": "Arena Premium 1 Srbija HD",
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12402 V 30000 - 3/4",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Rayo Vallecano"
+        },
+        {
+            "channel": "Arena Premium 3 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Barcelona   vs   Rayo Vallecano"
         },
@@ -3841,6 +4941,22 @@
             "sat": "Eutelsat 7C 7.0\u00b0e",
             "freq": "10981 V 45000 - 5/6",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Rayo Vallecano"
+        },
+        {
+            "channel": "AzTV HD (azerbaijan)",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11095 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Rayo Vallecano"
+        },
+        {
+            "channel": "beIN Sports 1 HD (Astro)",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10812 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Barcelona   vs   Rayo Vallecano"
         },
@@ -3865,6 +4981,14 @@
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "10886 H 30000 - 8/9",
             "encry": "HD Mediaguard",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Rayo Vallecano"
+        },
+        {
+            "channel": "Canal+ Sport 6 Polska HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11449 H 27500 - 5/6",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Barcelona   vs   Rayo Vallecano"
         },
@@ -3897,6 +5021,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Rayo Vallecano"
+        },
+        {
+            "channel": "DAZN 1 Bar Deutsch HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12070 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Barcelona   vs   Rayo Vallecano"
         },
@@ -4037,6 +5169,38 @@
             "related_to": "     Barcelona   vs   Rayo Vallecano"
         },
         {
+            "channel": "Fast Sports TV Armenia",
+            "sat": "Eutelsat 70B 70.5\u00b0e",
+            "freq": "11050 H 20030 - 1/2",
+            "encry": "MPEG-4 Biss",
+            "link": "https://fasttv.am/tv-channels/fastsports",
+            "related_to": "     Barcelona   vs   Rayo Vallecano"
+        },
+        {
+            "channel": "GEM Sport 2",
+            "sat": "Al Yah 1 52.5\u00b0e",
+            "freq": "11881 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Rayo Vallecano"
+        },
+        {
+            "channel": "Go3 Sport 1 Baltic HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11938 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "https://go3.tv/en/live_tv",
+            "related_to": "     Barcelona   vs   Rayo Vallecano"
+        },
+        {
+            "channel": "IRIB Varzesh HD",
+            "sat": "Intelsat 39 62.0\u00b0e",
+            "freq": "11555 V 30000 - 2/3",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Rayo Vallecano"
+        },
+        {
             "channel": "LaLiga TV Bar HD",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "10818 V 22000 - 2/3",
@@ -4069,10 +5233,42 @@
             "related_to": "     Barcelona   vs   Rayo Vallecano"
         },
         {
+            "channel": "MAX Sport 4 Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "11475 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Rayo Vallecano"
+        },
+        {
+            "channel": "Megogo Futbol 1 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
+            "related_to": "     Barcelona   vs   Rayo Vallecano"
+        },
+        {
             "channel": "Nova Sport 4 Czech HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11934 V 27500 - 3/4",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Rayo Vallecano"
+        },
+        {
+            "channel": "ONE Sport Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Rayo Vallecano"
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Barcelona   vs   Rayo Vallecano"
         },
@@ -4125,10 +5321,42 @@
             "related_to": "     Barcelona   vs   Rayo Vallecano"
         },
         {
+            "channel": "Setanta Sports 1 Baltic",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11958 H 27500 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Rayo Vallecano"
+        },
+        {
+            "channel": "Setanta Sports 2 Eurasia HD",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "12657 V 45000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Rayo Vallecano"
+        },
+        {
             "channel": "Sport TV 2 Azerbaijan (geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Rayo Vallecano"
+        },
+        {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Rayo Vallecano"
+        },
+        {
+            "channel": "SportKlub 2 Slovenija",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11387 H 32000 - 3/4",
+            "encry": "MPEG-4 Irdeto",
             "link": "#",
             "related_to": "     Barcelona   vs   Rayo Vallecano"
         },
@@ -4157,6 +5385,14 @@
             "related_to": "     Barcelona   vs   Rayo Vallecano"
         },
         {
+            "channel": "SuperSport M\u00e1Ximo 3A HD",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12169 V 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Rayo Vallecano"
+        },
+        {
             "channel": "TSN Malta 4 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -4173,10 +5409,26 @@
             "related_to": "     Barcelona   vs   Rayo Vallecano"
         },
         {
+            "channel": "TV2 Sport 1 Norge HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Rayo Vallecano"
+        },
+        {
             "channel": "ViaPlay Norge HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Rayo Vallecano"
+        },
+        {
+            "channel": "Ziggo Sport 1 HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "HD Mediaguard",
             "link": "#",
             "related_to": "     Barcelona   vs   Rayo Vallecano"
         },
@@ -4189,6 +5441,14 @@
             },
             "time": "19:30",
             "date": "2026-08-31"
+        },
+        {
+            "channel": "beIN Sports 2 HD (Astro)",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Celta Vigo II   vs   Castell\u00f3n"
         },
         {
             "channel": "DAZN Espa\u00f1a ($/geo/R)",
@@ -4223,6 +5483,14 @@
             "related_to": "     Celta Vigo II   vs   Castell\u00f3n"
         },
         {
+            "channel": "MAX Sport 2 Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "11475 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Celta Vigo II   vs   Castell\u00f3n"
+        },
+        {
             "channel": "Nova Sport 3 Czech HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11934 V 27500 - 3/4",
@@ -4252,6 +5520,14 @@
             "channel": "Arena Sport 1 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11678 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Estudiantes LP   vs   Newell's Old Boys"
+        },
+        {
+            "channel": "Sport TV2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Estudiantes LP   vs   Newell's Old Boys"
