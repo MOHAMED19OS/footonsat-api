@@ -2177,40 +2177,6 @@
             "related_to": "     Al Masry   vs   Pyramids"
         },
         {
-            "compet": "Spanish La Liga 2 - Week 3",
-            "match": "     Burgos   vs   Real Sociedad II",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "time": "17:00",
-            "date": "2026-08-31"
-        },
-        {
-            "channel": "DAZN Espa\u00f1a ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Burgos   vs   Real Sociedad II"
-        },
-        {
-            "channel": "LaLiga Hypermotion HD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "10758 V 22000 - 5/6",
-            "encry": "Seca",
-            "link": "#",
-            "related_to": "     Burgos   vs   Real Sociedad II"
-        },
-        {
-            "channel": "LaLiga TV Bar 2",
-            "sat": "Astra 1L 19.2\u00b0e",
-            "freq": "11038 V 22000 - 5/6",
-            "encry": "NagraVision",
-            "link": "#",
-            "related_to": "     Burgos   vs   Real Sociedad II"
-        },
-        {
             "compet": "Swedish Allsvenskan - Week 19",
             "match": "     Sirius   vs   Malm\u00f6 FF",
             "flags": {
@@ -2243,6 +2209,40 @@
             "encry": "",
             "link": "https://www.vgtv.no/live",
             "related_to": "     Sirius   vs   Malm\u00f6 FF"
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 3",
+            "match": "     Burgos   vs   Real Sociedad II",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "17:00",
+            "date": "2026-08-31"
+        },
+        {
+            "channel": "DAZN Espa\u00f1a ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Burgos   vs   Real Sociedad II"
+        },
+        {
+            "channel": "LaLiga Hypermotion HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "10758 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "#",
+            "related_to": "     Burgos   vs   Real Sociedad II"
+        },
+        {
+            "channel": "LaLiga TV Bar 2",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11038 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Burgos   vs   Real Sociedad II"
         },
         {
             "compet": "Lithuanian A Lyga - Week 29",
@@ -3443,6 +3443,30 @@
             "related_to": "     Atalanta   vs   Bologna"
         },
         {
+            "channel": "BBC iPlayer (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "     Atalanta   vs   Bologna"
+        },
+        {
+            "channel": "BBC Sport [app]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Atalanta   vs   Bologna"
+        },
+        {
+            "channel": "BBC Sport Website (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.bbc.com/sport/live-guide",
+            "related_to": "     Atalanta   vs   Bologna"
+        },
+        {
             "channel": "beIN Sports Australia 3 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -4113,6 +4137,14 @@
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "12130 H 27500 - 3/4",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Arsenal"
+        },
+        {
+            "channel": "NOW Sports HK 1 4K",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Aston Villa   vs   Arsenal"
         },

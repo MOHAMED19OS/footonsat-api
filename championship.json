@@ -875,7 +875,7 @@
             "related_to": "     Preston N.E.   vs   Blackburn Rovers"
         },
         {
-            "channel": "beIN Sports France 9 HD max",
+            "channel": "beIN Sports France 10 HD max",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "11895 V 29700 - 2/3",
             "encry": "HD NagraVision",
@@ -993,7 +993,7 @@
             "related_to": "     Burnley   vs   Bristol City"
         },
         {
-            "channel": "beIN Sports France 9 HD max",
+            "channel": "beIN Sports France 10 HD max",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "11895 V 29700 - 2/3",
             "encry": "HD NagraVision",
@@ -1035,7 +1035,7 @@
             "related_to": "     Swansea City   vs   Wrexham"
         },
         {
-            "channel": "beIN Sports France 9 HD max",
+            "channel": "beIN Sports France 10 HD max",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "11895 V 29700 - 2/3",
             "encry": "HD NagraVision",
@@ -1595,24 +1595,6 @@
             "encry": "",
             "link": "#",
             "related_to": "     Bristol City   vs   Lincoln City"
-        },
-        {
-            "compet": "English Championship - Week 6",
-            "match": "     Wolves   vs   Portsmouth",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "18:45",
-            "date": "2026-09-16"
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Wolves   vs   Portsmouth"
         },
         {
             "compet": "English Championship - Week 8",
@@ -2313,6 +2295,24 @@
             "encry": "",
             "link": "#",
             "related_to": "     Millwall   vs   Lincoln City"
+        },
+        {
+            "compet": "English Championship - Week 6",
+            "match": "     Wolves   vs   Portsmouth",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "18:45",
+            "date": "2026-10-20"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Wolves   vs   Portsmouth"
         },
         {
             "compet": "English Championship - Week 12",
