@@ -119,11 +119,35 @@
             "date": "2026-09-16"
         },
         {
-            "channel": "- - -",
+            "channel": "RTL Deutschland HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "12522 V 30000 - 3/5",
+            "encry": "Irdeto",
+            "link": "https://plus.rtl.de/video-tv/live-tv/rtl-1",
+            "related_to": "     Bayer Leverkusen   vs   Celje"
+        },
+        {
+            "channel": "RTL Schweiz HD",
+            "sat": "Hotbird 13E 13.0\u00b0e",
+            "freq": "11096 H 30000 - 3/4",
+            "encry": "HD Panaccess",
+            "link": "#",
+            "related_to": "     Bayer Leverkusen   vs   Celje"
+        },
+        {
+            "channel": "RTL \u00d6sterreich HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "12226 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Bayer Leverkusen   vs   Celje"
+        },
+        {
+            "channel": "RTL+ Deutschland (geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
-            "link": "#",
+            "link": "https://plus.rtl.de/video-tv/live",
             "related_to": "     Bayer Leverkusen   vs   Celje"
         },
         {
@@ -155,10 +179,10 @@
             "date": "2026-09-16"
         },
         {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
+            "channel": "Sport TV5 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     AC Milan   vs   Benfica"
         },
@@ -173,11 +197,27 @@
             "date": "2026-09-17"
         },
         {
-            "channel": "- - -",
+            "channel": "Nitro Deutschland HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "12188 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "https://plus.rtl.de/video-tv/live-tv/nitro-3",
+            "related_to": "     OFI Crete   vs   Hoffenheim"
+        },
+        {
+            "channel": "Nitro \u00d6sterreich",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12663 H 22000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     OFI Crete   vs   Hoffenheim"
+        },
+        {
+            "channel": "RTL+ Deutschland (geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
-            "link": "#",
+            "link": "https://plus.rtl.de/video-tv/live",
             "related_to": "     OFI Crete   vs   Hoffenheim"
         },
         {
