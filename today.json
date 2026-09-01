@@ -415,6 +415,22 @@
             "related_to": "     Parma   vs   Cremonese"
         },
         {
+            "channel": "ART Motion Sport 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "     Parma   vs   Cremonese"
+        },
+        {
+            "channel": "Azam Sports 4 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Parma   vs   Cremonese"
+        },
+        {
             "channel": "Cytavision Sports 4 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -999,6 +1015,14 @@
             "date": "2026-09-01"
         },
         {
+            "channel": "Azam Sports 2 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Al Hilal   vs   Al Ahli"
+        },
+        {
             "channel": "Band Sports Brazil HD",
             "sat": "SES 6 40.5\u00b0w",
             "freq": "11680 V 30000 - 3/4",
@@ -1215,6 +1239,14 @@
             "related_to": "     Al Hilal   vs   Al Ahli"
         },
         {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Al Hilal   vs   Al Ahli"
+        },
+        {
             "channel": "Sp\u00edler 1 TV Hungary HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "11766 V 28000 - 7/8",
@@ -1315,104 +1347,6 @@
             "related_to": "     Z\u00fcrich   vs   Young Boys"
         },
         {
-            "compet": "English Championship - Week 4",
-            "match": "     West Ham United   vs   Wolves",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "18:45",
-            "date": "2026-09-01"
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     West Ham United   vs   Wolves"
-        },
-        {
-            "channel": "Sky Sports+ TV HD",
-            "sat": "Astra 2F 28.2\u00b0e",
-            "freq": "12148 H 27500 - 2/3",
-            "encry": "VideoGuard",
-            "link": "#",
-            "related_to": "     West Ham United   vs   Wolves"
-        },
-        {
-            "channel": "V Sport 2 Norge HD",
-            "sat": "Thor 6 5.0\u00b0e",
-            "freq": "11345 H 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     West Ham United   vs   Wolves"
-        },
-        {
-            "channel": "ViaPlay 2 Urheilu HD",
-            "sat": "Thor 5 0.8\u00b0w",
-            "freq": "11278 V 25000 - 3/4",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     West Ham United   vs   Wolves"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     West Ham United   vs   Wolves"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     West Ham United   vs   Wolves"
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     West Ham United   vs   Wolves"
-        },
-        {
-            "channel": "ViaPlay Sport Sverige HD",
-            "sat": "Thor 6 0.8\u00b0w",
-            "freq": "10809 V 25000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     West Ham United   vs   Wolves"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     West Ham United   vs   Wolves"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     West Ham United   vs   Wolves"
-        },
-        {
-            "channel": "ViaPlay \u00cdsland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     West Ham United   vs   Wolves"
-        },
-        {
             "compet": "German Cup (DFB-Pokal) - Round 1",
             "match": "     HEBC Hamburg   vs   Borussia Dortmund",
             "flags": {
@@ -1421,6 +1355,14 @@
             },
             "time": "18:45",
             "date": "2026-09-01"
+        },
+        {
+            "channel": "Abu Dhabi Sports 1 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11804 H 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%201",
+            "related_to": "     HEBC Hamburg   vs   Borussia Dortmund"
         },
         {
             "channel": "Arena M1 Premium MKD HD",
@@ -1519,6 +1461,14 @@
             "related_to": "     HEBC Hamburg   vs   Borussia Dortmund"
         },
         {
+            "channel": "ERT 2 Sport Hellas HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12223 H 13381 - 3/4",
+            "encry": "MPEG-4 Biss",
+            "link": "#",
+            "related_to": "     HEBC Hamburg   vs   Borussia Dortmund"
+        },
+        {
             "channel": "ESPN 1 Brazil HD",
             "sat": "SES 6 40.5\u00b0w",
             "freq": "3980 L 21600 - 3/4",
@@ -1555,6 +1505,14 @@
             "sat": "MonacoSat 52.0\u00b0e",
             "freq": "10762 V 27500 - 2/3",
             "encry": "FTA",
+            "link": "#",
+            "related_to": "     HEBC Hamburg   vs   Borussia Dortmund"
+        },
+        {
+            "channel": "RTL 4K UHD",
+            "sat": "Astra 1KR 19.2\u00b0e",
+            "freq": "11391 H 22000 - 5/6",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     HEBC Hamburg   vs   Borussia Dortmund"
         },
@@ -1661,6 +1619,104 @@
             "encry": "",
             "link": "https://www.vgtv.no/live",
             "related_to": "     HEBC Hamburg   vs   Borussia Dortmund"
+        },
+        {
+            "compet": "English Championship - Week 4",
+            "match": "     West Ham United   vs   Wolves",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "18:45",
+            "date": "2026-09-01"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     West Ham United   vs   Wolves"
+        },
+        {
+            "channel": "Sky Sports+ TV HD",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12148 H 27500 - 2/3",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     West Ham United   vs   Wolves"
+        },
+        {
+            "channel": "V Sport 2 Norge HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11345 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     West Ham United   vs   Wolves"
+        },
+        {
+            "channel": "ViaPlay 2 Urheilu HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "11278 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     West Ham United   vs   Wolves"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     West Ham United   vs   Wolves"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     West Ham United   vs   Wolves"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     West Ham United   vs   Wolves"
+        },
+        {
+            "channel": "ViaPlay Sport Sverige HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     West Ham United   vs   Wolves"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     West Ham United   vs   Wolves"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     West Ham United   vs   Wolves"
+        },
+        {
+            "channel": "ViaPlay \u00cdsland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     West Ham United   vs   Wolves"
         },
         {
             "compet": "English Championship - Week 4",
@@ -2701,6 +2757,22 @@
             "related_to": "     Torino   vs   Monza"
         },
         {
+            "channel": "ART Motion Sport 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "     Torino   vs   Monza"
+        },
+        {
+            "channel": "Azam Sports 4 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Torino   vs   Monza"
+        },
+        {
             "channel": "Cytavision Sports 4 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2753,6 +2825,14 @@
             "sat": "AzerSpace 2 45.0\u00b0e",
             "freq": "12600 V 30000 - 5/6",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Torino   vs   Monza"
+        },
+        {
+            "channel": "MBC Action HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "12284 V 27500 - 5/6",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Torino   vs   Monza"
         },
