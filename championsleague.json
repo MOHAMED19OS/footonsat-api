@@ -2,80 +2,6 @@
     "footonsat": [
         {
             "compet": "UEFA Champions League - League Phase: Round 1",
-            "match": "     AEK Athens   vs   LASK Linz",
-            "flags": {
-                "team1": "greece",
-                "team2": "austria"
-            },
-            "time": "16:45",
-            "date": "2026-09-08"
-        },
-        {
-            "channel": "beIN Sports MENA 2 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     AEK Athens   vs   LASK Linz"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     AEK Athens   vs   LASK Linz"
-        },
-        {
-            "channel": "HBO Max (uk only) [$/geo/R]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.hbomax.com",
-            "related_to": "     AEK Athens   vs   LASK Linz"
-        },
-        {
-            "channel": "MTV Katsomon+ ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.mtv.fi/urheilu",
-            "related_to": "     AEK Athens   vs   LASK Linz"
-        },
-        {
-            "channel": "SuperSport Football Plus HD",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "11594 H 30000 - 5/6",
-            "encry": "Irdeto",
-            "link": "#",
-            "related_to": "     AEK Athens   vs   LASK Linz"
-        },
-        {
-            "channel": "TV2 Play Norge ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://play.tv2.no/sport",
-            "related_to": "     AEK Athens   vs   LASK Linz"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     AEK Athens   vs   LASK Linz"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     AEK Athens   vs   LASK Linz"
-        },
-        {
-            "compet": "UEFA Champions League - League Phase: Round 1",
             "match": "     Club Brugge   vs   Aston Villa",
             "flags": {
                 "team1": "belgium",
@@ -117,10 +43,10 @@
             "related_to": "     Club Brugge   vs   Aston Villa"
         },
         {
-            "channel": "SuperSport Premier League HD",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "11130 V 30000 - 5/6",
-            "encry": "Irdeto",
+            "channel": "TNT Sports 1 HD",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "3775 L 09583 - 2/3",
+            "encry": "Irdeto [c]",
             "link": "#",
             "related_to": "     Club Brugge   vs   Aston Villa"
         },
@@ -174,21 +100,29 @@
         },
         {
             "compet": "UEFA Champions League - League Phase: Round 1",
-            "match": "     Borussia Dortmund   vs   Villarreal",
+            "match": "     AEK Athens   vs   LASK Linz",
             "flags": {
-                "team1": "germany",
-                "team2": "spain"
+                "team1": "greece",
+                "team2": "austria"
             },
-            "time": "19:00",
+            "time": "16:45",
             "date": "2026-09-08"
         },
         {
-            "channel": "beIN Sports MENA 4 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
             "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Villarreal"
+            "related_to": "     AEK Athens   vs   LASK Linz"
+        },
+        {
+            "channel": "HBO Max (uk only) [$/geo/R]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.hbomax.com",
+            "related_to": "     AEK Athens   vs   LASK Linz"
         },
         {
             "channel": "MTV Katsomon+ ($/geo/R)",
@@ -196,23 +130,15 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.mtv.fi/urheilu",
-            "related_to": "     Borussia Dortmund   vs   Villarreal"
+            "related_to": "     AEK Athens   vs   LASK Linz"
         },
         {
-            "channel": "Prime Video Deutsch [$]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
+            "channel": "TNT Sports 2 HD",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11597 V 22000 - 5/6",
+            "encry": "VideoGuard",
             "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Villarreal"
-        },
-        {
-            "channel": "SuperSport PSL HD",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "11594 V 27500 - 5/6",
-            "encry": "Irdeto",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Villarreal"
+            "related_to": "     AEK Athens   vs   LASK Linz"
         },
         {
             "channel": "TV2 Play Norge ($/geo/R)",
@@ -220,7 +146,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://play.tv2.no/sport",
-            "related_to": "     Borussia Dortmund   vs   Villarreal"
+            "related_to": "     AEK Athens   vs   LASK Linz"
         },
         {
             "channel": "ViaPlay Danmark HD",
@@ -228,7 +154,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Villarreal"
+            "related_to": "     AEK Athens   vs   LASK Linz"
         },
         {
             "channel": "ViaPlay Sverige HD",
@@ -236,7 +162,105 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Villarreal"
+            "related_to": "     AEK Athens   vs   LASK Linz"
+        },
+        {
+            "compet": "UEFA Champions League - League Phase: Round 1",
+            "match": "     Real Madrid   vs   Inter Milan",
+            "flags": {
+                "team1": "spain",
+                "team2": "italy"
+            },
+            "time": "19:00",
+            "date": "2026-09-08"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Inter Milan"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Inter Milan"
+        },
+        {
+            "channel": "HBO Max (uk only) [$/geo/R]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.hbomax.com",
+            "related_to": "     Real Madrid   vs   Inter Milan"
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "     Real Madrid   vs   Inter Milan"
+        },
+        {
+            "channel": "TNT Sports 1 HD",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "3775 L 09583 - 2/3",
+            "encry": "Irdeto [c]",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Inter Milan"
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "     Real Madrid   vs   Inter Milan"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Inter Milan"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Inter Milan"
+        },
+        {
+            "channel": "Virgin Media PLAY (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Inter Milan"
+        },
+        {
+            "channel": "Virgin Media TV [app] (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Inter Milan"
+        },
+        {
+            "channel": "Virgin Media Two HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11856 V 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Real Madrid   vs   Inter Milan"
         },
         {
             "compet": "UEFA Champions League - League Phase: Round 1",
@@ -249,19 +273,19 @@
             "date": "2026-09-08"
         },
         {
-            "channel": "beIN Sports MENA 3 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Lille   vs   Real Betis"
-        },
-        {
             "channel": "DAZN Deutsch ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
+            "related_to": "     Lille   vs   Real Betis"
+        },
+        {
+            "channel": "HBO Max (uk only) [$/geo/R]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.hbomax.com",
             "related_to": "     Lille   vs   Real Betis"
         },
         {
@@ -273,10 +297,10 @@
             "related_to": "     Lille   vs   Real Betis"
         },
         {
-            "channel": "SuperSport LaLiga HD",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "11594 V 27500 - 5/6",
-            "encry": "Irdeto",
+            "channel": "TNT Sports 3 HD",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11612 H 22000 - 5/6",
+            "encry": "VideoGuard",
             "link": "#",
             "related_to": "     Lille   vs   Real Betis"
         },
@@ -313,14 +337,6 @@
             },
             "time": "19:00",
             "date": "2026-09-08"
-        },
-        {
-            "channel": "beIN Sports MENA 2 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     FC Porto   vs   Manchester City"
         },
         {
             "channel": "DAZN Deutsch ($/geo/R)",
@@ -363,14 +379,6 @@
             "related_to": "     FC Porto   vs   Manchester City"
         },
         {
-            "channel": "SuperSport Premier League HD",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "11130 V 30000 - 5/6",
-            "encry": "Irdeto",
-            "link": "#",
-            "related_to": "     FC Porto   vs   Manchester City"
-        },
-        {
             "channel": "TV2 Play Norge ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -396,37 +404,21 @@
         },
         {
             "compet": "UEFA Champions League - League Phase: Round 1",
-            "match": "     Real Madrid   vs   Inter Milan",
+            "match": "     Borussia Dortmund   vs   Villarreal",
             "flags": {
-                "team1": "spain",
-                "team2": "italy"
+                "team1": "germany",
+                "team2": "spain"
             },
             "time": "19:00",
             "date": "2026-09-08"
         },
         {
-            "channel": "beIN Sports MENA 1 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Real Madrid   vs   Inter Milan"
-        },
-        {
-            "channel": "beIN Sports MENA English 1 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10850 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Real Madrid   vs   Inter Milan"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
+            "channel": "HBO Max (uk only) [$/geo/R]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Real Madrid   vs   Inter Milan"
+            "encry": "",
+            "link": "https://www.hbomax.com",
+            "related_to": "     Borussia Dortmund   vs   Villarreal"
         },
         {
             "channel": "MTV Katsomon+ ($/geo/R)",
@@ -434,15 +426,23 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.mtv.fi/urheilu",
-            "related_to": "     Real Madrid   vs   Inter Milan"
+            "related_to": "     Borussia Dortmund   vs   Villarreal"
         },
         {
-            "channel": "SuperSport Football Plus HD",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "11594 H 30000 - 5/6",
-            "encry": "Irdeto",
+            "channel": "Prime Video Deutsch [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
-            "related_to": "     Real Madrid   vs   Inter Milan"
+            "related_to": "     Borussia Dortmund   vs   Villarreal"
+        },
+        {
+            "channel": "TNT Sports 2 HD",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11597 V 22000 - 5/6",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Borussia Dortmund   vs   Villarreal"
         },
         {
             "channel": "TV2 Play Norge ($/geo/R)",
@@ -450,7 +450,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://play.tv2.no/sport",
-            "related_to": "     Real Madrid   vs   Inter Milan"
+            "related_to": "     Borussia Dortmund   vs   Villarreal"
         },
         {
             "channel": "ViaPlay Danmark HD",
@@ -458,7 +458,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
-            "related_to": "     Real Madrid   vs   Inter Milan"
+            "related_to": "     Borussia Dortmund   vs   Villarreal"
         },
         {
             "channel": "ViaPlay Sverige HD",
@@ -466,31 +466,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
-            "related_to": "     Real Madrid   vs   Inter Milan"
-        },
-        {
-            "channel": "Virgin Media PLAY (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Real Madrid   vs   Inter Milan"
-        },
-        {
-            "channel": "Virgin Media TV [app] (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Real Madrid   vs   Inter Milan"
-        },
-        {
-            "channel": "Virgin Media Two HD",
-            "sat": "Astra 2E 28.2\u00b0e",
-            "freq": "11856 V 27500 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Real Madrid   vs   Inter Milan"
+            "related_to": "     Borussia Dortmund   vs   Villarreal"
         },
         {
             "compet": "UEFA Champions League - League Phase: Round 1",
@@ -511,19 +487,19 @@
             "related_to": "     Barcelona   vs   Feyenoord"
         },
         {
-            "channel": "bTV Action HD",
-            "sat": "AzerSpace 2 45.0\u00b0e",
-            "freq": "11555 V 30000 - 3/4",
-            "encry": "Irdeto",
-            "link": "#",
-            "related_to": "     Barcelona   vs   Feyenoord"
-        },
-        {
             "channel": "DAZN Deutsch ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
+            "related_to": "     Barcelona   vs   Feyenoord"
+        },
+        {
+            "channel": "HBO Max (uk only) [$/geo/R]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.hbomax.com",
             "related_to": "     Barcelona   vs   Feyenoord"
         },
         {
@@ -535,10 +511,10 @@
             "related_to": "     Barcelona   vs   Feyenoord"
         },
         {
-            "channel": "SuperSport Premier League HD",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "11130 V 30000 - 5/6",
-            "encry": "Irdeto",
+            "channel": "TNT Sports 3 HD",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11612 H 22000 - 5/6",
+            "encry": "VideoGuard",
             "link": "#",
             "related_to": "     Barcelona   vs   Feyenoord"
         },
@@ -563,6 +539,30 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Feyenoord"
+        },
+        {
+            "channel": "Virgin Media PLAY (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Feyenoord"
+        },
+        {
+            "channel": "Virgin Media TV [app] (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Barcelona   vs   Feyenoord"
+        },
+        {
+            "channel": "Virgin Media Two HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11856 V 27500 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Barcelona   vs   Feyenoord"
         },
@@ -585,27 +585,19 @@
             "related_to": "     Stuttgart   vs   Viking"
         },
         {
+            "channel": "HBO Max (uk only) [$/geo/R]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.hbomax.com",
+            "related_to": "     Stuttgart   vs   Viking"
+        },
+        {
             "channel": "MTV Katsomon+ ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.mtv.fi/urheilu",
-            "related_to": "     Stuttgart   vs   Viking"
-        },
-        {
-            "channel": "Ring Bulgaria HD",
-            "sat": "AzerSpace 2 45.0\u00b0e",
-            "freq": "12600 V 30000 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Stuttgart   vs   Viking"
-        },
-        {
-            "channel": "SuperSport Football Plus HD",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "11594 H 30000 - 5/6",
-            "encry": "Irdeto",
-            "link": "#",
             "related_to": "     Stuttgart   vs   Viking"
         },
         {
@@ -634,6 +626,96 @@
         },
         {
             "compet": "UEFA Champions League - League Phase: Round 1",
+            "match": "     Napoli   vs   Arsenal",
+            "flags": {
+                "team1": "italy",
+                "team2": "england"
+            },
+            "time": "19:00",
+            "date": "2026-09-09"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Napoli   vs   Arsenal"
+        },
+        {
+            "channel": "HBO Max (uk only) [$/geo/R]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.hbomax.com",
+            "related_to": "     Napoli   vs   Arsenal"
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "     Napoli   vs   Arsenal"
+        },
+        {
+            "channel": "TNT Sports 2 HD",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11597 V 22000 - 5/6",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Napoli   vs   Arsenal"
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "     Napoli   vs   Arsenal"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Napoli   vs   Arsenal"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Napoli   vs   Arsenal"
+        },
+        {
+            "channel": "Virgin Media PLAY (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Napoli   vs   Arsenal"
+        },
+        {
+            "channel": "Virgin Media TV [app] (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Napoli   vs   Arsenal"
+        },
+        {
+            "channel": "Virgin Media Two HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11856 V 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Napoli   vs   Arsenal"
+        },
+        {
+            "compet": "UEFA Champions League - League Phase: Round 1",
             "match": "     Liverpool   vs   Atl\u00e9tico Madrid",
             "flags": {
                 "team1": "england",
@@ -648,6 +730,14 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
+            "related_to": "     Liverpool   vs   Atl\u00e9tico Madrid"
+        },
+        {
+            "channel": "HBO Max (uk only) [$/geo/R]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.hbomax.com",
             "related_to": "     Liverpool   vs   Atl\u00e9tico Madrid"
         },
         {
@@ -683,10 +773,18 @@
             "related_to": "     Liverpool   vs   Atl\u00e9tico Madrid"
         },
         {
-            "channel": "SuperSport Football Plus HD",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "11594 H 30000 - 5/6",
-            "encry": "Irdeto",
+            "channel": "TNT Sports 1 HD",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "3775 L 09583 - 2/3",
+            "encry": "Irdeto [c]",
+            "link": "#",
+            "related_to": "     Liverpool   vs   Atl\u00e9tico Madrid"
+        },
+        {
+            "channel": "TNT Sports Ultimate UHD",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12207 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Liverpool   vs   Atl\u00e9tico Madrid"
         },
@@ -741,6 +839,14 @@
             "related_to": "     Paris St Germain   vs   Slovan Bratislava"
         },
         {
+            "channel": "HBO Max (uk only) [$/geo/R]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.hbomax.com",
+            "related_to": "     Paris St Germain   vs   Slovan Bratislava"
+        },
+        {
             "channel": "MTV Katsomon+ ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -749,18 +855,10 @@
             "related_to": "     Paris St Germain   vs   Slovan Bratislava"
         },
         {
-            "channel": "Ring Bulgaria HD",
-            "sat": "AzerSpace 2 45.0\u00b0e",
-            "freq": "12600 V 30000 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Paris St Germain   vs   Slovan Bratislava"
-        },
-        {
-            "channel": "SuperSport Action HD",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "11554 H 30000 - 2/3",
-            "encry": "HD Irdeto",
+            "channel": "TNT Sports 3 HD",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11612 H 22000 - 5/6",
+            "encry": "VideoGuard",
             "link": "#",
             "related_to": "     Paris St Germain   vs   Slovan Bratislava"
         },
@@ -787,72 +885,6 @@
             "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Paris St Germain   vs   Slovan Bratislava"
-        },
-        {
-            "compet": "UEFA Champions League - League Phase: Round 1",
-            "match": "     Napoli   vs   Arsenal",
-            "flags": {
-                "team1": "italy",
-                "team2": "england"
-            },
-            "time": "19:00",
-            "date": "2026-09-09"
-        },
-        {
-            "channel": "bTV Action HD",
-            "sat": "AzerSpace 2 45.0\u00b0e",
-            "freq": "11555 V 30000 - 3/4",
-            "encry": "Irdeto",
-            "link": "#",
-            "related_to": "     Napoli   vs   Arsenal"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Napoli   vs   Arsenal"
-        },
-        {
-            "channel": "MTV Katsomon+ ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.mtv.fi/urheilu",
-            "related_to": "     Napoli   vs   Arsenal"
-        },
-        {
-            "channel": "SuperSport Premier League HD",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "11130 V 30000 - 5/6",
-            "encry": "Irdeto",
-            "link": "#",
-            "related_to": "     Napoli   vs   Arsenal"
-        },
-        {
-            "channel": "TV2 Play Norge ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://play.tv2.no/sport",
-            "related_to": "     Napoli   vs   Arsenal"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Napoli   vs   Arsenal"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Napoli   vs   Arsenal"
         },
         {
             "compet": "UEFA Champions League - League Phase: Round 1",
@@ -873,6 +905,14 @@
             "related_to": "     Sporting Lisbon   vs   Galatasaray"
         },
         {
+            "channel": "HBO Max (uk only) [$/geo/R]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.hbomax.com",
+            "related_to": "     Sporting Lisbon   vs   Galatasaray"
+        },
+        {
             "channel": "MTV Katsomon+ ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -885,14 +925,6 @@
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12360 H 27500 - 3/4",
             "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Sporting Lisbon   vs   Galatasaray"
-        },
-        {
-            "channel": "SuperSport LaLiga HD",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "11594 V 27500 - 5/6",
-            "encry": "Irdeto",
             "link": "#",
             "related_to": "     Sporting Lisbon   vs   Galatasaray"
         },
@@ -947,19 +979,19 @@
             "related_to": "     PSV Eindhoven   vs   Shakhtar Donetsk"
         },
         {
+            "channel": "HBO Max (uk only) [$/geo/R]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.hbomax.com",
+            "related_to": "     PSV Eindhoven   vs   Shakhtar Donetsk"
+        },
+        {
             "channel": "MTV Katsomon+ ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.mtv.fi/urheilu",
-            "related_to": "     PSV Eindhoven   vs   Shakhtar Donetsk"
-        },
-        {
-            "channel": "SuperSport Premier League HD",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "11130 V 30000 - 5/6",
-            "encry": "Irdeto",
-            "link": "#",
             "related_to": "     PSV Eindhoven   vs   Shakhtar Donetsk"
         },
         {
@@ -1005,19 +1037,19 @@
             "related_to": "     Fenerbah\u00e7e   vs   Roma"
         },
         {
+            "channel": "HBO Max (uk only) [$/geo/R]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.hbomax.com",
+            "related_to": "     Fenerbah\u00e7e   vs   Roma"
+        },
+        {
             "channel": "MTV Katsomon+ ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.mtv.fi/urheilu",
-            "related_to": "     Fenerbah\u00e7e   vs   Roma"
-        },
-        {
-            "channel": "SuperSport Football Plus HD",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "11594 H 30000 - 5/6",
-            "encry": "Irdeto",
-            "link": "#",
             "related_to": "     Fenerbah\u00e7e   vs   Roma"
         },
         {
@@ -1071,19 +1103,19 @@
             "related_to": "     Slavia Prague   vs   Lens"
         },
         {
+            "channel": "HBO Max (uk only) [$/geo/R]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.hbomax.com",
+            "related_to": "     Slavia Prague   vs   Lens"
+        },
+        {
             "channel": "MTV Katsomon+ ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.mtv.fi/urheilu",
-            "related_to": "     Slavia Prague   vs   Lens"
-        },
-        {
-            "channel": "SuperSport LaLiga HD",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "11594 V 27500 - 5/6",
-            "encry": "Irdeto",
-            "link": "#",
             "related_to": "     Slavia Prague   vs   Lens"
         },
         {
@@ -1129,6 +1161,14 @@
             "related_to": "     Manchester United   vs   Sabah"
         },
         {
+            "channel": "HBO Max (uk only) [$/geo/R]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.hbomax.com",
+            "related_to": "     Manchester United   vs   Sabah"
+        },
+        {
             "channel": "MTV Katsomon+ ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -1141,14 +1181,6 @@
             "sat": "Astra 2F 28.2\u00b0e",
             "freq": "12188 H 27500 - 2/3",
             "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Manchester United   vs   Sabah"
-        },
-        {
-            "channel": "SuperSport Premier League HD",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "11130 V 30000 - 5/6",
-            "encry": "Irdeto",
             "link": "#",
             "related_to": "     Manchester United   vs   Sabah"
         },
@@ -1195,19 +1227,19 @@
             "related_to": "     Como 1907   vs   RB Leipzig"
         },
         {
+            "channel": "HBO Max (uk only) [$/geo/R]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.hbomax.com",
+            "related_to": "     Como 1907   vs   RB Leipzig"
+        },
+        {
             "channel": "MTV Katsomon+ ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.mtv.fi/urheilu",
-            "related_to": "     Como 1907   vs   RB Leipzig"
-        },
-        {
-            "channel": "SuperSport Football HD",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "11674 H 30000 - 5/6",
-            "encry": "Irdeto",
-            "link": "#",
             "related_to": "     Como 1907   vs   RB Leipzig"
         },
         {
@@ -1253,19 +1285,19 @@
             "related_to": "     Bayern Munich   vs   Bod\u00f8/Glimt"
         },
         {
+            "channel": "HBO Max (uk only) [$/geo/R]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.hbomax.com",
+            "related_to": "     Bayern Munich   vs   Bod\u00f8/Glimt"
+        },
+        {
             "channel": "MTV Katsomon+ ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.mtv.fi/urheilu",
-            "related_to": "     Bayern Munich   vs   Bod\u00f8/Glimt"
-        },
-        {
-            "channel": "SuperSport Football Plus HD",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "11594 H 30000 - 5/6",
-            "encry": "Irdeto",
-            "link": "#",
             "related_to": "     Bayern Munich   vs   Bod\u00f8/Glimt"
         },
         {
