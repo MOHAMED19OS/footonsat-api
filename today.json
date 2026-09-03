@@ -419,6 +419,24 @@
             "related_to": "     Palermo   vs   Mantova"
         },
         {
+            "compet": "Armenian Premier League - Week 6",
+            "match": "     Alashkert   vs   FC Van",
+            "flags": {
+                "team1": "armenia",
+                "team2": "armenia"
+            },
+            "time": "16:00",
+            "date": "2026-09-03"
+        },
+        {
+            "channel": "YouTube: Armenian PL",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 -",
+            "encry": "",
+            "link": "https://www.youtube.com/@Armenian_PL/streams",
+            "related_to": "     Alashkert   vs   FC Van"
+        },
+        {
             "compet": "Polish Ekstraklasa - Week 5",
             "match": "     Rak\u00f3w Czestochowa   vs   G\u00f3rnik Zabrze",
             "flags": {
@@ -765,6 +783,30 @@
             "sat": "Turksat 4A 42.0\u00b0e",
             "freq": "11837 V 30000 - 2/3",
             "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Diriyah   vs   Al Qadisiyah"
+        },
+        {
+            "channel": "M+ #Vamos Bar 1",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "10876 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "#",
+            "related_to": "     Al Diriyah   vs   Al Qadisiyah"
+        },
+        {
+            "channel": "M+ Liga de Campeones HD",
+            "sat": "Astra 1KR 19.2\u00b0e",
+            "freq": "11259 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Al Diriyah   vs   Al Qadisiyah"
+        },
+        {
+            "channel": "M+ Vamos 1 Espa\u00f1a HD",
+            "sat": "Astra 1P 19.2\u00b0e",
+            "freq": "11156 V 22000 - 5/6",
+            "encry": "Seca",
             "link": "#",
             "related_to": "     Al Diriyah   vs   Al Qadisiyah"
         },
@@ -1811,6 +1853,14 @@
             "related_to": "     Real Sociedad   vs   Celta Vigo"
         },
         {
+            "channel": "IRIB Varzesh HD",
+            "sat": "Intelsat 39 62.0\u00b0e",
+            "freq": "11555 V 30000 - 2/3",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Celta Vigo"
+        },
+        {
             "channel": "LaLiga TV Bar HD",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "10818 V 22000 - 2/3",
@@ -2007,6 +2057,14 @@
             "sat": "Thor 6 5.0\u00b0e",
             "freq": "11385 V 30000 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Celta Vigo"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Real Sociedad   vs   Celta Vigo"
         },
