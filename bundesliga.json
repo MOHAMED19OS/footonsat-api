@@ -11,6 +11,14 @@
             "date": "2026-09-04"
         },
         {
+            "channel": "Arena 4 Hungary HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "12265 V 28000 - 7/8",
+            "encry": "Conax",
+            "link": "#",
+            "related_to": "     Stuttgart   vs   FC Cologne"
+        },
+        {
             "channel": "Arena Premium 4 BiH HD",
             "sat": " 0.0\u00b0",
             "freq": "0000 0",
@@ -22,6 +30,14 @@
             "channel": "Arena Sport 1 Srbija HD",
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12460 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Stuttgart   vs   FC Cologne"
+        },
+        {
+            "channel": "Azam Sports 1 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Stuttgart   vs   FC Cologne"
@@ -51,9 +67,33 @@
             "related_to": "     Stuttgart   vs   FC Cologne"
         },
         {
+            "channel": "beIN Sports 3 HD (Astro)",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Stuttgart   vs   FC Cologne"
+        },
+        {
             "channel": "beIN Sports France 9 HD max",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "11895 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Stuttgart   vs   FC Cologne"
+        },
+        {
+            "channel": "Canal+ Sport 1 Afrique HD",
+            "sat": "SES 4 22.0\u00b0w",
+            "freq": "11171 V 45000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Stuttgart   vs   FC Cologne"
+        },
+        {
+            "channel": "DAZN 3 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Stuttgart   vs   FC Cologne"
@@ -67,10 +107,42 @@
             "related_to": "     Stuttgart   vs   FC Cologne"
         },
         {
+            "channel": "Digi Sport 4 Romania",
+            "sat": "Intelsat 10-02 1.0\u00b0w",
+            "freq": "12687 H 27500 - 3/4",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Stuttgart   vs   FC Cologne"
+        },
+        {
             "channel": "Eleven Sports 4 Polska HD",
             "sat": "Hotbird 13G 13.0\u00b0e",
             "freq": "11278 V 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Stuttgart   vs   FC Cologne"
+        },
+        {
+            "channel": "MBC Action HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "12284 V 27500 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Stuttgart   vs   FC Cologne"
+        },
+        {
+            "channel": "NBC Universo USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Stuttgart   vs   FC Cologne"
+        },
+        {
+            "channel": "Nova Sport 3 Czech HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11934 V 27500 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Stuttgart   vs   FC Cologne"
         },
@@ -87,6 +159,22 @@
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "11823 H 27500 - 3/4",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Stuttgart   vs   FC Cologne"
+        },
+        {
+            "channel": "Okko Futbol HD ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Stuttgart   vs   FC Cologne"
+        },
+        {
+            "channel": "Prima Sport RO 4 HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12405 V 30000 - 7/8",
+            "encry": "Viaccess",
             "link": "#",
             "related_to": "     Stuttgart   vs   FC Cologne"
         },
@@ -163,10 +251,42 @@
             "related_to": "     Stuttgart   vs   FC Cologne"
         },
         {
+            "channel": "SportKlub 2 Hrvatska",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11678 V 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Stuttgart   vs   FC Cologne"
+        },
+        {
+            "channel": "SporTV Brazil HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Stuttgart   vs   FC Cologne"
+        },
+        {
+            "channel": "ST World Football HD",
+            "sat": "Eutelsat 10B 10.0\u00b0e",
+            "freq": "3736 R 07307 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Stuttgart   vs   FC Cologne"
+        },
+        {
             "channel": "Tring Sport 3 HD",
             "sat": "Hellas Sat 4 39.0\u00b0e",
             "freq": "10890 H 30000 - 5/6",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Stuttgart   vs   FC Cologne"
+        },
+        {
+            "channel": "TSN Malta 5 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Stuttgart   vs   FC Cologne"
         },
@@ -240,6 +360,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "#",
+            "related_to": "     Stuttgart   vs   FC Cologne"
+        },
+        {
+            "channel": "YouTube: Bundesliga",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@bundesliga/streams",
             "related_to": "     Stuttgart   vs   FC Cologne"
         },
         {
@@ -497,6 +625,14 @@
             "date": "2026-09-05"
         },
         {
+            "channel": "Arena 4 Hungary HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "12265 V 28000 - 7/8",
+            "encry": "Conax",
+            "link": "#",
+            "related_to": "     Hoffenheim   vs   Borussia Dortmund"
+        },
+        {
             "channel": "Arena Premium 4 BiH HD",
             "sat": " 0.0\u00b0",
             "freq": "0000 0",
@@ -509,6 +645,14 @@
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11798 H 30000 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Hoffenheim   vs   Borussia Dortmund"
+        },
+        {
+            "channel": "beIN Sports 3 HD (Astro)",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Hoffenheim   vs   Borussia Dortmund"
         },
@@ -855,6 +999,14 @@
             "date": "2026-09-05"
         },
         {
+            "channel": "Arena 4 Hungary HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "12265 V 28000 - 7/8",
+            "encry": "Conax",
+            "link": "#",
+            "related_to": "     Schalke 04   vs   Bayern Munich"
+        },
+        {
             "channel": "Arena Premium 4 BiH HD",
             "sat": " 0.0\u00b0",
             "freq": "0000 0",
@@ -867,6 +1019,14 @@
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12246 V 30000 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Schalke 04   vs   Bayern Munich"
+        },
+        {
+            "channel": "beIN Sports 3 HD (Astro)",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Schalke 04   vs   Bayern Munich"
         },
@@ -899,6 +1059,14 @@
             "sat": "Hotbird 13G 13.0\u00b0e",
             "freq": "11488 H 27500 - 3/4",
             "encry": "HD Mediaguard",
+            "link": "#",
+            "related_to": "     Schalke 04   vs   Bayern Munich"
+        },
+        {
+            "channel": "GEM Sport 1 HD",
+            "sat": "Al Yah 1 52.5\u00b0e",
+            "freq": "12034 V 27500 - 3/4",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Schalke 04   vs   Bayern Munich"
         },
@@ -1007,10 +1175,26 @@
             "related_to": "     Schalke 04   vs   Bayern Munich"
         },
         {
+            "channel": "SporTV Brazil HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Schalke 04   vs   Bayern Munich"
+        },
+        {
             "channel": "Tring Sport 2 HD",
             "sat": "Hellas Sat 4 39.0\u00b0e",
             "freq": "10890 H 30000 - 5/6",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Schalke 04   vs   Bayern Munich"
+        },
+        {
+            "channel": "TSN Malta 5 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Schalke 04   vs   Bayern Munich"
         },
@@ -1071,6 +1255,14 @@
             },
             "time": "13:30",
             "date": "2026-09-06"
+        },
+        {
+            "channel": "Arena 4 Hungary HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "12265 V 28000 - 7/8",
+            "encry": "Conax",
+            "link": "#",
+            "related_to": "     Hamburg   vs   Mainz 05"
         },
         {
             "channel": "Arena Premium 2 Srbija HD",
@@ -1201,6 +1393,14 @@
             "related_to": "     Hamburg   vs   Mainz 05"
         },
         {
+            "channel": "TSN Malta 6 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Hamburg   vs   Mainz 05"
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1257,6 +1457,14 @@
             },
             "time": "15:30",
             "date": "2026-09-06"
+        },
+        {
+            "channel": "Arena 4 Hungary HD",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "12265 V 28000 - 7/8",
+            "encry": "Conax",
+            "link": "#",
+            "related_to": "     Eintracht Frankfurt   vs   Augsburg"
         },
         {
             "channel": "Arena Premium 4 BiH HD",
@@ -1359,6 +1567,14 @@
             "sat": "Hellas Sat 4 39.0\u00b0e",
             "freq": "10890 H 30000 - 5/6",
             "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Eintracht Frankfurt   vs   Augsburg"
+        },
+        {
+            "channel": "TSN Malta 5 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Eintracht Frankfurt   vs   Augsburg"
         },
