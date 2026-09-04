@@ -117,24 +117,6 @@
             "related_to": "     Abha Club   vs   Al Ettifaq"
         },
         {
-            "compet": "Armenian Premier League - Week 6",
-            "match": "     Noah   vs   Gandzasar",
-            "flags": {
-                "team1": "armenia",
-                "team2": "armenia"
-            },
-            "time": "16:00",
-            "date": "2026-09-04"
-        },
-        {
-            "channel": "YouTube: Armenian PL",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 -",
-            "encry": "",
-            "link": "https://www.youtube.com/@Armenian_PL/streams",
-            "related_to": "     Noah   vs   Gandzasar"
-        },
-        {
             "compet": "Bulgarian First League - Week 8",
             "match": "     Septemvri Sofia   vs   Botev Vratsa",
             "flags": {
@@ -151,6 +133,24 @@
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Septemvri Sofia   vs   Botev Vratsa"
+        },
+        {
+            "compet": "Armenian Premier League - Week 6",
+            "match": "     Noah   vs   Gandzasar",
+            "flags": {
+                "team1": "armenia",
+                "team2": "armenia"
+            },
+            "time": "16:00",
+            "date": "2026-09-04"
+        },
+        {
+            "channel": "YouTube: Armenian PL",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 -",
+            "encry": "",
+            "link": "https://www.youtube.com/@Armenian_PL/streams",
+            "related_to": "     Noah   vs   Gandzasar"
         },
         {
             "compet": "Polish 1. Liga - Week 7",
@@ -1151,11 +1151,27 @@
             "date": "2026-09-04"
         },
         {
+            "channel": "Arena Premium 3 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Istanbul Basaksehir   vs   Galatasaray"
+        },
+        {
             "channel": "Arena Sport 5 Srbija HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "11798 H 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
+            "related_to": "     Istanbul Basaksehir   vs   Galatasaray"
+        },
+        {
+            "channel": "ART Motion Sport 4 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
             "related_to": "     Istanbul Basaksehir   vs   Galatasaray"
         },
         {
@@ -1211,6 +1227,14 @@
             "sat": "Hellas Sat 3 39.0\u00b0e",
             "freq": "12565 V 30000 - 7/8",
             "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Istanbul Basaksehir   vs   Galatasaray"
+        },
+        {
+            "channel": "Sport 2 Hungary HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "11766 V 28000 - 7/8",
+            "encry": "NagraVision",
             "link": "#",
             "related_to": "     Istanbul Basaksehir   vs   Galatasaray"
         },
@@ -1451,42 +1475,6 @@
             "related_to": "     Ingolstadt   vs   Alemannia Aachen"
         },
         {
-            "compet": "South African Premiership - Week 5",
-            "match": "     Marumo Gallants   vs   Polokwane City",
-            "flags": {
-                "team1": "southafrica",
-                "team2": "southafrica"
-            },
-            "time": "17:30",
-            "date": "2026-09-04"
-        },
-        {
-            "channel": "SuperSport OTT 3",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Marumo Gallants   vs   Polokwane City"
-        },
-        {
-            "compet": "South African Premiership - Week 5",
-            "match": "     Richards Bay   vs   AmaZulu",
-            "flags": {
-                "team1": "southafrica",
-                "team2": "southafrica"
-            },
-            "time": "17:30",
-            "date": "2026-09-04"
-        },
-        {
-            "channel": "SuperSport PSL HD",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "11594 V 27500 - 5/6",
-            "encry": "Irdeto",
-            "link": "#",
-            "related_to": "     Richards Bay   vs   AmaZulu"
-        },
-        {
             "compet": "Romanian Superliga - Week 8",
             "match": "     CFR Cluj   vs   Farul Constanta",
             "flags": {
@@ -1527,6 +1515,42 @@
             "encry": "VideoGuard",
             "link": "#",
             "related_to": "     CFR Cluj   vs   Farul Constanta"
+        },
+        {
+            "compet": "South African Premiership - Week 5",
+            "match": "     Marumo Gallants   vs   Polokwane City",
+            "flags": {
+                "team1": "southafrica",
+                "team2": "southafrica"
+            },
+            "time": "17:30",
+            "date": "2026-09-04"
+        },
+        {
+            "channel": "SuperSport OTT 3",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Marumo Gallants   vs   Polokwane City"
+        },
+        {
+            "compet": "South African Premiership - Week 5",
+            "match": "     Richards Bay   vs   AmaZulu",
+            "flags": {
+                "team1": "southafrica",
+                "team2": "southafrica"
+            },
+            "time": "17:30",
+            "date": "2026-09-04"
+        },
+        {
+            "channel": "SuperSport PSL HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Richards Bay   vs   AmaZulu"
         },
         {
             "compet": "Swiss Challenge League - Week 7",
@@ -1743,80 +1767,6 @@
             "related_to": "     Al Shabab   vs   Al Hilal"
         },
         {
-            "compet": "Saudi Pro League - Week 5",
-            "match": "     Al Ahli   vs   Al Riyadh",
-            "flags": {
-                "team1": "saudiarabia",
-                "team2": "saudiarabia"
-            },
-            "time": "18:00",
-            "date": "2026-09-04"
-        },
-        {
-            "channel": "DAZN France ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Al Ahli   vs   Al Riyadh"
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Al Ahli   vs   Al Riyadh"
-        },
-        {
-            "channel": "SportKlub 5 Slovenija",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Al Ahli   vs   Al Riyadh"
-        },
-        {
-            "channel": "SportKlub 7 Hrvatska",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Al Ahli   vs   Al Riyadh"
-        },
-        {
-            "channel": "ST Sports Arena",
-            "sat": "Thor 6 5.0\u00b0e",
-            "freq": "11938 V 27500 - 3/4",
-            "encry": "MPEG-4 NDS",
-            "link": "#",
-            "related_to": "     Al Ahli   vs   Al Riyadh"
-        },
-        {
-            "channel": "Thmanyah 3 HD",
-            "sat": "Badr 8 26.0\u00b0e",
-            "freq": "11919 H 27500 - 3/4",
-            "encry": "FTA",
-            "link": "#",
-            "related_to": "     Al Ahli   vs   Al Riyadh"
-        },
-        {
-            "channel": "Thmanyah KSA [app]",
-            "sat": "Download APP 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Al Ahli   vs   Al Riyadh"
-        },
-        {
-            "channel": "ZBC Channel 2",
-            "sat": "Eutelsat 7C 7.0\u00b0e",
-            "freq": "11043 V 45000 - 5/6",
-            "encry": "MPEG-4 Nagra",
-            "link": "#",
-            "related_to": "     Al Ahli   vs   Al Riyadh"
-        },
-        {
             "compet": "English Womens Super League - Week 1",
             "match": "     London City   vs   Manchester United",
             "flags": {
@@ -1839,6 +1789,14 @@
             "sat": "MonacoSat 52.0\u00b0e",
             "freq": "11420 V 27500 - 2/3",
             "encry": "FTA",
+            "link": "#",
+            "related_to": "     London City   vs   Manchester United"
+        },
+        {
+            "channel": "Q Sport League HD",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "12719 V 45000 - 3/4",
+            "encry": "MPEG-4 Irdeto",
             "link": "#",
             "related_to": "     London City   vs   Manchester United"
         },
@@ -1929,6 +1887,80 @@
             "encry": "",
             "link": "#",
             "related_to": "     London City   vs   Manchester United"
+        },
+        {
+            "compet": "Saudi Pro League - Week 5",
+            "match": "     Al Ahli   vs   Al Riyadh",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "18:00",
+            "date": "2026-09-04"
+        },
+        {
+            "channel": "DAZN France ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Al Riyadh"
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Al Riyadh"
+        },
+        {
+            "channel": "SportKlub 5 Slovenija",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Al Riyadh"
+        },
+        {
+            "channel": "SportKlub 7 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Al Riyadh"
+        },
+        {
+            "channel": "ST Sports Arena",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11938 V 27500 - 3/4",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Al Riyadh"
+        },
+        {
+            "channel": "Thmanyah 3 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Al Riyadh"
+        },
+        {
+            "channel": "Thmanyah KSA [app]",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Al Riyadh"
+        },
+        {
+            "channel": "ZBC Channel 2",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "11043 V 45000 - 5/6",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Al Riyadh"
         },
         {
             "compet": "French Ligue 2 - Week 5",
@@ -2341,6 +2373,14 @@
             "related_to": "     Stuttgart   vs   FC Cologne"
         },
         {
+            "channel": "Premier Sports 5 Mongolia HD",
+            "sat": "Telstar 18 138.0\u00b0e",
+            "freq": "12598 H 45000 - 5/6",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "#",
+            "related_to": "     Stuttgart   vs   FC Cologne"
+        },
+        {
             "channel": "Prima Sport RO 4 HD",
             "sat": "Hellas Sat 3 39.0\u00b0e",
             "freq": "12405 V 30000 - 7/8",
@@ -2354,6 +2394,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "#",
+            "related_to": "     Stuttgart   vs   FC Cologne"
+        },
+        {
+            "channel": "SABC Sport HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11514 V 28750 - 1/2",
+            "encry": "HD NagraVision",
+            "link": "https://www.sabcsport.com/tv/live/",
             "related_to": "     Stuttgart   vs   FC Cologne"
         },
         {
@@ -2881,6 +2929,14 @@
             "related_to": "     Genoa   vs   Como 1907"
         },
         {
+            "channel": "ART Motion Sport 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "     Genoa   vs   Como 1907"
+        },
+        {
             "channel": "Astro Football HD",
             "sat": "Measat 3b 91.5\u00b0e",
             "freq": "10932 V 30000 - 5/6",
@@ -3065,6 +3121,14 @@
             "related_to": "     Genoa   vs   Como 1907"
         },
         {
+            "channel": "Q Sport Football HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Genoa   vs   Como 1907"
+        },
+        {
             "channel": "S Sport 2 T\u00fcrkiye HD",
             "sat": "Turksat 4A 42.0\u00b0e",
             "freq": "11880 H 20000 - 3/4",
@@ -3142,6 +3206,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://play.tv2.dk/sport",
+            "related_to": "     Genoa   vs   Como 1907"
+        },
+        {
+            "channel": "TV2 Sport Dansk HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11305 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
             "related_to": "     Genoa   vs   Como 1907"
         },
         {
@@ -4289,6 +4361,14 @@
             "related_to": "     Ipswich Town   vs   Liverpool"
         },
         {
+            "channel": "NOW Sports HK 1 4K",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Ipswich Town   vs   Liverpool"
+        },
+        {
             "channel": "Persiana Sports 3 HD",
             "sat": "MonacoSat 52.0\u00b0e",
             "freq": "11420 V 27500 - 2/3",
@@ -4301,6 +4381,22 @@
             "sat": "Download APP 0.0\u00b0",
             "freq": "0000 -",
             "encry": "",
+            "link": "#",
+            "related_to": "     Ipswich Town   vs   Liverpool"
+        },
+        {
+            "channel": "Premier Sports 2 Mongolia HD",
+            "sat": "Telstar 18 138.0\u00b0e",
+            "freq": "12598 H 45000 - 5/6",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "#",
+            "related_to": "     Ipswich Town   vs   Liverpool"
+        },
+        {
+            "channel": "See Dansk HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11265 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Ipswich Town   vs   Liverpool"
         },
@@ -4569,6 +4665,14 @@
             },
             "time": "19:00",
             "date": "2026-09-04"
+        },
+        {
+            "channel": "5 STARS Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Fleury 91   vs   Lyon"
         },
         {
             "channel": "Canal+ Sport 360 HD",
@@ -5047,6 +5151,14 @@
             "related_to": "     FC Porto   vs   Moreirense"
         },
         {
+            "channel": "Bold+ Dansk ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://bold.dk/plus",
+            "related_to": "     FC Porto   vs   Moreirense"
+        },
+        {
             "channel": "Canal+ Polska [online]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -5060,6 +5172,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.clarosports.com/en-vivo/",
+            "related_to": "     FC Porto   vs   Moreirense"
+        },
+        {
+            "channel": "Cosmote Sport 3 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "11843 V 27500 - 3/5",
+            "encry": "HD VideoGuard",
+            "link": "#",
             "related_to": "     FC Porto   vs   Moreirense"
         },
         {
@@ -5087,10 +5207,34 @@
             "related_to": "     FC Porto   vs   Moreirense"
         },
         {
+            "channel": "MATCH! Futbol 3 HD",
+            "sat": "Horizons 2 84.8\u00b0e",
+            "freq": "11840 H 28800 - 2/3",
+            "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     FC Porto   vs   Moreirense"
+        },
+        {
+            "channel": "Q Sport Arena HD",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "10720 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     FC Porto   vs   Moreirense"
+        },
+        {
             "channel": "Sport 1 Lithuania HD [$]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     FC Porto   vs   Moreirense"
+        },
+        {
+            "channel": "Sport 2 Hungary HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "11766 V 28000 - 7/8",
+            "encry": "NagraVision",
             "link": "#",
             "related_to": "     FC Porto   vs   Moreirense"
         },
