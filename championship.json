@@ -187,6 +187,14 @@
             "related_to": "     Preston N.E.   vs   Blackburn Rovers"
         },
         {
+            "channel": "SuperSport M\u00e1Ximo 360",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12130 H 27500 - 2/3",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Preston N.E.   vs   Blackburn Rovers"
+        },
+        {
             "channel": "TSN Malta 8 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -305,6 +313,14 @@
             },
             "time": "14:00",
             "date": "2026-09-05"
+        },
+        {
+            "channel": "CBS Sports Golazo N/W (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "FTA",
+            "link": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
+            "related_to": "     Queens Park Rangers   vs   Middlesbrough"
         },
         {
             "channel": "Paramount+ USA ($/geo/R)",
@@ -1119,6 +1135,14 @@
             "date": "2026-09-11"
         },
         {
+            "channel": "beIN Sports Australia 2 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     West Ham United   vs   Wrexham"
+        },
+        {
             "channel": "beIN Sports France 9 HD max",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "11895 V 29700 - 2/3",
@@ -1201,6 +1225,14 @@
             "date": "2026-09-12"
         },
         {
+            "channel": "beIN Sports France 9 HD max",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11895 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Derby County   vs   Birmingham City"
+        },
+        {
             "channel": "Sky Go UK [online]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -1259,6 +1291,24 @@
             "encry": "",
             "link": "#",
             "related_to": "     West Bromwich Albion   vs   Queens Park Rangers"
+        },
+        {
+            "compet": "English Championship - Week 7",
+            "match": "     Watford   vs   Stoke City",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "14:00",
+            "date": "2026-09-12"
+        },
+        {
+            "channel": "beIN Sports France 9 HD max",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11895 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Watford   vs   Stoke City"
         },
         {
             "compet": "English Championship - Week 7",
