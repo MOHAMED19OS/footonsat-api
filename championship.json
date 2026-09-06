@@ -610,24 +610,6 @@
         },
         {
             "compet": "English Championship - Week 7",
-            "match": "     Bolton Wanderers   vs   Cardiff City",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "11:30",
-            "date": "2026-09-12"
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Bolton Wanderers   vs   Cardiff City"
-        },
-        {
-            "compet": "English Championship - Week 7",
             "match": "     West Bromwich Albion   vs   Queens Park Rangers",
             "flags": {
                 "team1": "england",
@@ -643,6 +625,32 @@
             "encry": "",
             "link": "#",
             "related_to": "     West Bromwich Albion   vs   Queens Park Rangers"
+        },
+        {
+            "channel": "Sky Sports+ TV HD",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12148 H 27500 - 2/3",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     West Bromwich Albion   vs   Queens Park Rangers"
+        },
+        {
+            "compet": "English Championship - Week 7",
+            "match": "     Bolton Wanderers   vs   Cardiff City",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "11:30",
+            "date": "2026-09-12"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Bolton Wanderers   vs   Cardiff City"
         },
         {
             "compet": "English Championship - Week 7",
