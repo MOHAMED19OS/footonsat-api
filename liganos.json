@@ -89,6 +89,14 @@
             "related_to": "     Casa Pia   vs   FC Porto"
         },
         {
+            "channel": "beIN Sports France 6 HD max",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Casa Pia   vs   FC Porto"
+        },
+        {
             "channel": "Sport TV1 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
@@ -116,24 +124,6 @@
         },
         {
             "compet": "Portuguese Liga 1 - Week 6",
-            "match": "     Arouca   vs   Santa Clara",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "17:00",
-            "date": "2026-09-13"
-        },
-        {
-            "channel": "Sport TV2 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Arouca   vs   Santa Clara"
-        },
-        {
-            "compet": "Portuguese Liga 1 - Week 6",
             "match": "     Benfica   vs   Gil Vicente",
             "flags": {
                 "team1": "portugal",
@@ -151,12 +141,38 @@
             "related_to": "     Benfica   vs   Gil Vicente"
         },
         {
+            "channel": "beIN Sports France 7 HD max",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11895 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Benfica   vs   Gil Vicente"
+        },
+        {
             "channel": "Benfica TV HD",
             "sat": "Eutelsat 36C 35.9\u00b0e",
             "freq": "11304 V 30000 - 5/6",
             "encry": "MPEG-4 Nagra",
             "link": "#",
             "related_to": "     Benfica   vs   Gil Vicente"
+        },
+        {
+            "compet": "Portuguese Liga 1 - Week 6",
+            "match": "     Arouca   vs   Santa Clara",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "17:00",
+            "date": "2026-09-13"
+        },
+        {
+            "channel": "Sport TV2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Arouca   vs   Santa Clara"
         },
         {
             "compet": "Portuguese Liga 1 - Week 6",
