@@ -1,3 +1,30 @@
 {
-    "footonsat": []
+    "footonsat": [
+        {
+            "compet": "Belgian Pro League - Week 6",
+            "match": "     Mechelen   vs   Anderlecht",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "18:45",
+            "date": "2026-09-11"
+        },
+        {
+            "channel": "DAZN Great Britain (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "     Mechelen   vs   Anderlecht"
+        },
+        {
+            "channel": "DAZN Ireland ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "     Mechelen   vs   Anderlecht"
+        }
+    ]
 }
