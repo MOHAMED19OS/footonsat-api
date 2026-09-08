@@ -1,32 +1,6 @@
 {
     "footonsat": [
         {
-            "compet": "Portuguese Liga 1 - Week 5",
-            "match": "     Estoril   vs   Arouca",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "19:15",
-            "date": "2026-09-07"
-        },
-        {
-            "channel": "Cosmote Sport 2 HD",
-            "sat": "Eutelsat 9B 9.0\u00b0e",
-            "freq": "11843 V 27500 - 3/5",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Estoril   vs   Arouca"
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Estoril   vs   Arouca"
-        },
-        {
             "compet": "Portuguese Liga 1 - Week 3",
             "match": "     Moreirense   vs   Benfica",
             "flags": {
@@ -91,6 +65,14 @@
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Estrela Amadora   vs   Sporting Braga"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD Viaccess",
             "link": "#",
             "related_to": "     Estrela Amadora   vs   Sporting Braga"
         },

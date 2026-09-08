@@ -1,30 +1,22 @@
 {
     "footonsat": [
         {
-            "compet": "Spanish La Liga 2 - Week 4",
-            "match": "     Sabadell   vs   C\u00f3rdoba",
+            "compet": "Spanish La Liga 2 - Week 5",
+            "match": "     C\u00f3rdoba   vs   Almer\u00eda",
             "flags": {
                 "team1": "spain",
                 "team2": "spain"
             },
-            "time": "18:30",
-            "date": "2026-09-07"
+            "time": "19:00",
+            "date": "2026-09-12"
         },
         {
-            "channel": "DAZN Espa\u00f1a ($/geo/R)",
+            "channel": "Premier Sports GB Player HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
+            "freq": "0000 0",
             "encry": "",
-            "link": "#",
-            "related_to": "     Sabadell   vs   C\u00f3rdoba"
-        },
-        {
-            "channel": "LaLiga Hypermotion HD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "10758 V 22000 - 5/6",
-            "encry": "Seca",
-            "link": "#",
-            "related_to": "     Sabadell   vs   C\u00f3rdoba"
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": "     C\u00f3rdoba   vs   Almer\u00eda"
         }
     ]
 }
