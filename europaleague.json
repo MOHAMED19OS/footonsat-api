@@ -53,6 +53,14 @@
             "related_to": "     Omonia Nicosia   vs   Celta Vigo"
         },
         {
+            "channel": "beIN Sports MENA 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Omonia Nicosia   vs   Celta Vigo"
+        },
+        {
             "channel": "HBO Max (uk only) [$/geo/R]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -112,6 +120,48 @@
         },
         {
             "compet": "UEFA Europa League - League Phase: Round 1",
+            "match": "     Anderlecht   vs   Lyon",
+            "flags": {
+                "team1": "belgium",
+                "team2": "france"
+            },
+            "time": "19:00",
+            "date": "2026-09-16"
+        },
+        {
+            "channel": "- - -",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Anderlecht   vs   Lyon"
+        },
+        {
+            "channel": "beIN Sports MENA 8 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Anderlecht   vs   Lyon"
+        },
+        {
+            "channel": "HBO Max (uk only) [$/geo/R]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.hbomax.com",
+            "related_to": "     Anderlecht   vs   Lyon"
+        },
+        {
+            "channel": "TNT Sports 4 HD",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11597 V 22000 - 5/6",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Anderlecht   vs   Lyon"
+        },
+        {
+            "compet": "UEFA Europa League - League Phase: Round 1",
             "match": "     AC Milan   vs   Benfica",
             "flags": {
                 "team1": "italy",
@@ -119,6 +169,22 @@
             },
             "time": "19:00",
             "date": "2026-09-16"
+        },
+        {
+            "channel": "beIN Sports MENA 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     AC Milan   vs   Benfica"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     AC Milan   vs   Benfica"
         },
         {
             "channel": "HBO Max (uk only) [$/geo/R]",
@@ -212,10 +278,10 @@
         },
         {
             "compet": "UEFA Europa League - League Phase: Round 1",
-            "match": "     Anderlecht   vs   Lyon",
+            "match": "     Olympiacos   vs   Jagiellonia",
             "flags": {
-                "team1": "belgium",
-                "team2": "france"
+                "team1": "greece",
+                "team2": "poland"
             },
             "time": "19:00",
             "date": "2026-09-16"
@@ -226,7 +292,15 @@
             "freq": "0000 ",
             "encry": "",
             "link": "#",
-            "related_to": "     Anderlecht   vs   Lyon"
+            "related_to": "     Olympiacos   vs   Jagiellonia"
+        },
+        {
+            "channel": "beIN Sports MENA Xtra 3 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Olympiacos   vs   Jagiellonia"
         },
         {
             "channel": "HBO Max (uk only) [$/geo/R]",
@@ -234,15 +308,15 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.hbomax.com",
-            "related_to": "     Anderlecht   vs   Lyon"
+            "related_to": "     Olympiacos   vs   Jagiellonia"
         },
         {
-            "channel": "TNT Sports 4 HD",
+            "channel": "TNT Sports 8",
             "sat": "Astra 2G 28.2\u00b0e",
             "freq": "11597 V 22000 - 5/6",
             "encry": "VideoGuard",
             "link": "#",
-            "related_to": "     Anderlecht   vs   Lyon"
+            "related_to": "     Olympiacos   vs   Jagiellonia"
         },
         {
             "compet": "UEFA Europa League - League Phase: Round 1",
@@ -263,46 +337,20 @@
             "related_to": "     Sturm Graz   vs   Rennes"
         },
         {
+            "channel": "beIN Sports MENA Xtra 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Sturm Graz   vs   Rennes"
+        },
+        {
             "channel": "HBO Max (uk only) [$/geo/R]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.hbomax.com",
             "related_to": "     Sturm Graz   vs   Rennes"
-        },
-        {
-            "compet": "UEFA Europa League - League Phase: Round 1",
-            "match": "     Olympiacos   vs   Jagiellonia",
-            "flags": {
-                "team1": "greece",
-                "team2": "poland"
-            },
-            "time": "19:00",
-            "date": "2026-09-16"
-        },
-        {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Olympiacos   vs   Jagiellonia"
-        },
-        {
-            "channel": "HBO Max (uk only) [$/geo/R]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.hbomax.com",
-            "related_to": "     Olympiacos   vs   Jagiellonia"
-        },
-        {
-            "channel": "TNT Sports 8",
-            "sat": "Astra 2G 28.2\u00b0e",
-            "freq": "11597 V 22000 - 5/6",
-            "encry": "VideoGuard",
-            "link": "#",
-            "related_to": "     Olympiacos   vs   Jagiellonia"
         },
         {
             "compet": "UEFA Europa League - League Phase: Round 1",
