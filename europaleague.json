@@ -685,6 +685,14 @@
             "related_to": "     OFI Crete   vs   Hoffenheim"
         },
         {
+            "channel": "beIN Sports MENA 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     OFI Crete   vs   Hoffenheim"
+        },
+        {
             "channel": "Blue Sport 8 Live HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -775,6 +783,14 @@
             "related_to": "     Levski Sofia   vs   Salzburg"
         },
         {
+            "channel": "beIN Sports MENA 3 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Levski Sofia   vs   Salzburg"
+        },
+        {
             "channel": "Blue Sport 7 Live HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -841,6 +857,14 @@
             "related_to": "     Crystal Palace   vs   Lech Poznan"
         },
         {
+            "channel": "beIN Sports MENA 4 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Lech Poznan"
+        },
+        {
             "channel": "Blue Sport 2 Live HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -895,6 +919,14 @@
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11678 H 30000 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
+            "channel": "beIN Sports MENA 8 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Real Sociedad   vs   Bournemouth"
         },
@@ -1047,6 +1079,14 @@
             "related_to": "     Juventus   vs   NEC Nijmegen"
         },
         {
+            "channel": "beIN Sports MENA 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Juventus   vs   NEC Nijmegen"
+        },
+        {
             "channel": "Blue Sport 1 Live UHD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1133,6 +1173,14 @@
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11595 H 30000 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Besiktas   vs   Marseille"
+        },
+        {
+            "channel": "beIN Sports MENA 3 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Besiktas   vs   Marseille"
         },
@@ -1226,6 +1274,48 @@
         },
         {
             "compet": "UEFA Europa League - League Phase: Round 1",
+            "match": "     Lillestr\u00f8m   vs   Torreense",
+            "flags": {
+                "team1": "norway",
+                "team2": "portugal"
+            },
+            "time": "19:00",
+            "date": "2026-09-17"
+        },
+        {
+            "channel": "beIN Sports MENA Xtra 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Lillestr\u00f8m   vs   Torreense"
+        },
+        {
+            "channel": "Blue Sport 5 Live HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Lillestr\u00f8m   vs   Torreense"
+        },
+        {
+            "channel": "HBO Max (uk only) [$/geo/R]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.hbomax.com",
+            "related_to": "     Lillestr\u00f8m   vs   Torreense"
+        },
+        {
+            "channel": "ViaPlay \u00cdsland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Lillestr\u00f8m   vs   Torreense"
+        },
+        {
+            "compet": "UEFA Europa League - League Phase: Round 1",
             "match": "     Viktoria Plzen   vs   Union St Gilloise",
             "flags": {
                 "team1": "czechia",
@@ -1289,40 +1379,6 @@
             "encry": "",
             "link": "#",
             "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
-        },
-        {
-            "compet": "UEFA Europa League - League Phase: Round 1",
-            "match": "     Lillestr\u00f8m   vs   Torreense",
-            "flags": {
-                "team1": "norway",
-                "team2": "portugal"
-            },
-            "time": "19:00",
-            "date": "2026-09-17"
-        },
-        {
-            "channel": "Blue Sport 5 Live HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Lillestr\u00f8m   vs   Torreense"
-        },
-        {
-            "channel": "HBO Max (uk only) [$/geo/R]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.hbomax.com",
-            "related_to": "     Lillestr\u00f8m   vs   Torreense"
-        },
-        {
-            "channel": "ViaPlay \u00cdsland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Lillestr\u00f8m   vs   Torreense"
         },
         {
             "compet": "UEFA Europa League - League Phase: Round 3",
