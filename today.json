@@ -213,6 +213,14 @@
             "related_to": "     Al Qadisiyah   vs   Al Ettifaq"
         },
         {
+            "channel": "Fox Soccer Plus USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Qadisiyah   vs   Al Ettifaq"
+        },
+        {
             "channel": "Prima Sport RO PPV 1",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -2223,24 +2231,6 @@
             "related_to": "     Heracles Almelo   vs   AZ Youths"
         },
         {
-            "compet": "English PL 2 - Regular Season",
-            "match": "     Derby County U-21   vs   Tottenham U-21",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "18:00",
-            "date": "2026-09-11"
-        },
-        {
-            "channel": "SpursPlay ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "https://play.tottenhamhotspur.com/",
-            "related_to": "     Derby County U-21   vs   Tottenham U-21"
-        },
-        {
             "compet": "French Ligue 2 - Week 6",
             "match": "     Dijon   vs   Laval",
             "flags": {
@@ -2331,6 +2321,24 @@
             "related_to": "     Nancy   vs   Reims"
         },
         {
+            "compet": "English PL 2 - Regular Season",
+            "match": "     Derby County U-21   vs   Tottenham U-21",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "18:00",
+            "date": "2026-09-11"
+        },
+        {
+            "channel": "SpursPlay ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://play.tottenhamhotspur.com/",
+            "related_to": "     Derby County U-21   vs   Tottenham U-21"
+        },
+        {
             "compet": "Slovenian Prva Liga - Week 9",
             "match": "     Brinje Grosuplje   vs   Nafta 1903",
             "flags": {
@@ -2417,6 +2425,14 @@
             "related_to": "     Union Berlin   vs   Schalke 04"
         },
         {
+            "channel": "Azam Sports 2 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Union Berlin   vs   Schalke 04"
+        },
+        {
             "channel": "BBC iPlayer (geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2489,6 +2505,22 @@
             "related_to": "     Union Berlin   vs   Schalke 04"
         },
         {
+            "channel": "M+ Liga de Campeones 2 HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "10729 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "#",
+            "related_to": "     Union Berlin   vs   Schalke 04"
+        },
+        {
+            "channel": "M+ Vamos 1 Espa\u00f1a HD",
+            "sat": "Astra 1P 19.2\u00b0e",
+            "freq": "11156 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "#",
+            "related_to": "     Union Berlin   vs   Schalke 04"
+        },
+        {
             "channel": "MBC Action HD",
             "sat": "Badr 8 26.0\u00b0e",
             "freq": "12284 V 27500 - 5/6",
@@ -2541,6 +2573,22 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Union Berlin   vs   Schalke 04"
+        },
+        {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Union Berlin   vs   Schalke 04"
+        },
+        {
+            "channel": "Setanta Sports+ Ukraine HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "12207 V 30000 - 2/3",
+            "encry": "HD Verimatrix",
             "link": "#",
             "related_to": "     Union Berlin   vs   Schalke 04"
         },
@@ -2807,14 +2855,6 @@
             "related_to": "     Greenock Morton   vs   Livingston"
         },
         {
-            "channel": "LFC Livingston ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 -",
-            "encry": "",
-            "link": "https://www.lfclive.co.uk/",
-            "related_to": "     Greenock Morton   vs   Livingston"
-        },
-        {
             "compet": "French Ligue 1 - Week 4",
             "match": "     Rennes   vs   Marseille",
             "flags": {
@@ -2945,6 +2985,14 @@
             "related_to": "     Rennes   vs   Marseille"
         },
         {
+            "channel": "Go3 Sport 2 Baltic HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11958 H 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "https://go3.tv/en/live_tv",
+            "related_to": "     Rennes   vs   Marseille"
+        },
+        {
             "channel": "Ligue 1+ ($/geo/R)",
             "sat": "Download APP 0.0\u00b0",
             "freq": "0000 0",
@@ -2977,6 +3025,38 @@
             "related_to": "     Rennes   vs   Marseille"
         },
         {
+            "channel": "Setanta Sports 1 Baltic",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11958 H 27500 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Rennes   vs   Marseille"
+        },
+        {
+            "channel": "Setanta Sports 2 Georgia HD",
+            "sat": " \u00b0",
+            "freq": " ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Rennes   vs   Marseille"
+        },
+        {
+            "channel": "Setanta Sports Moldova HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Rennes   vs   Marseille"
+        },
+        {
+            "channel": "Setanta Sports Qazaqstan HD",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "12657 V 45000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Rennes   vs   Marseille"
+        },
+        {
             "channel": "Sport TV3 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
@@ -3004,6 +3084,14 @@
             "channel": "SuperSport Football Plus HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11594 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Rennes   vs   Marseille"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 1 HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11594 V 27500 - 5/6",
             "encry": "Irdeto",
             "link": "#",
             "related_to": "     Rennes   vs   Marseille"
@@ -3254,6 +3342,14 @@
             "channel": "SuperSport Football HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11674 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Venezia   vs   Fiorentina"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 360",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12130 H 27500 - 2/3",
             "encry": "Irdeto",
             "link": "#",
             "related_to": "     Venezia   vs   Fiorentina"
@@ -3795,6 +3891,14 @@
             "date": "2026-09-11"
         },
         {
+            "channel": "Arena M1 Premium MKD HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Sevilla   vs   Valencia"
+        },
+        {
             "channel": "Arena Premium 3 BiH HD",
             "sat": "Astra 3B 23.5\u00b0e",
             "freq": "0000 0",
@@ -3947,6 +4051,14 @@
             "related_to": "     Sevilla   vs   Valencia"
         },
         {
+            "channel": "Persiana Sports 3 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Sevilla   vs   Valencia"
+        },
+        {
             "channel": "Premier Sports 2 Ireland HD",
             "sat": "Astra 2F 28.2\u00b0e",
             "freq": "12188 H 27500 - 3/4",
@@ -3995,6 +4107,22 @@
             "related_to": "     Sevilla   vs   Valencia"
         },
         {
+            "channel": "Setanta Sports 2 Baltic",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Sevilla   vs   Valencia"
+        },
+        {
+            "channel": "Setanta Sports 2 Eurasia HD",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "12657 V 45000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Sevilla   vs   Valencia"
+        },
+        {
             "channel": "SportKlub 1 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11471 H 30000 - 3/4",
@@ -4039,6 +4167,14 @@
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11594 V 27500 - 5/6",
             "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Sevilla   vs   Valencia"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 3A HD",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12169 V 27500 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Sevilla   vs   Valencia"
         },
@@ -4133,6 +4269,14 @@
             "related_to": "     West Ham United   vs   Wrexham"
         },
         {
+            "channel": "ESPN 1 Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "3980 L 21600 - 3/4",
+            "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     West Ham United   vs   Wrexham"
+        },
+        {
             "channel": "Magenta Hellas Sport 3 HD",
             "sat": "Eutelsat 9B 9.0\u00b0e",
             "freq": "11843 V 27500 - 3/5",
@@ -4153,6 +4297,22 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     West Ham United   vs   Wrexham"
+        },
+        {
+            "channel": "Setanta Sports 1 Eurasia HD",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "12657 V 45000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     West Ham United   vs   Wrexham"
+        },
+        {
+            "channel": "Setanta Sports Ukraine HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "12207 V 30000 - 2/3",
+            "encry": "HD Verimatrix",
             "link": "#",
             "related_to": "     West Ham United   vs   Wrexham"
         },
@@ -4229,6 +4389,14 @@
             "related_to": "     West Ham United   vs   Wrexham"
         },
         {
+            "channel": "SuperSport M\u00e1Ximo 2A HD",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12169 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     West Ham United   vs   Wrexham"
+        },
+        {
             "channel": "SuperSport Premier League HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11594 V 27500 - 5/6",
@@ -4283,6 +4451,32 @@
             "encry": "",
             "link": "#",
             "related_to": "     West Ham United   vs   Wrexham"
+        },
+        {
+            "compet": "French F\u00e9minine Premi\u00e8re Ligue - Week 2",
+            "match": "     Paris St Germain   vs   Strasbourg",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "19:00",
+            "date": "2026-09-11"
+        },
+        {
+            "channel": "Canal+ Foot HD",
+            "sat": "Astra 1P 19.2\u00b0e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Strasbourg"
+        },
+        {
+            "channel": "Persiana Sports 4 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Paris St Germain   vs   Strasbourg"
         },
         {
             "compet": "Italian Serie BKT - Week 4",
@@ -4457,24 +4651,6 @@
             "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Pisa   vs   Virtus Entella"
-        },
-        {
-            "compet": "French F\u00e9minine Premi\u00e8re Ligue - Week 2",
-            "match": "     Paris St Germain   vs   Strasbourg",
-            "flags": {
-                "team1": "france",
-                "team2": "france"
-            },
-            "time": "19:00",
-            "date": "2026-09-11"
-        },
-        {
-            "channel": "Canal+ Foot HD",
-            "sat": "Astra 1P 19.2\u00b0e",
-            "freq": "12012 V 29700 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Paris St Germain   vs   Strasbourg"
         },
         {
             "compet": "Portuguese Liga 2 - Week 6",
