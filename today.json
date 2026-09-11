@@ -1,40 +1,6 @@
 {
     "footonsat": [
         {
-            "compet": "CONMEBOL Copa Sudamericana - Quarter Final (1st Leg)",
-            "match": "     Cienciano   vs   Nacional Montevideo",
-            "flags": {
-                "team1": "peru",
-                "team2": "uraguay"
-            },
-            "time": "00:30",
-            "date": "2026-09-11"
-        },
-        {
-            "channel": "Arena Premium 2 Srbija HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "#",
-            "related_to": "     Cienciano   vs   Nacional Montevideo"
-        },
-        {
-            "channel": "beIN Connect USA",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://connect-us.beinsports.com/",
-            "related_to": "     Cienciano   vs   Nacional Montevideo"
-        },
-        {
-            "channel": "beIN Sports MENA 3 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Cienciano   vs   Nacional Montevideo"
-        },
-        {
             "compet": "CONMEBOL Copa Libertadores - Quarter Final (1st Leg)",
             "match": "     Independiente del Valle   vs   Flamengo",
             "flags": {
@@ -91,6 +57,40 @@
             "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Independiente del Valle   vs   Flamengo"
+        },
+        {
+            "compet": "CONMEBOL Copa Sudamericana - Quarter Final (1st Leg)",
+            "match": "     Cienciano   vs   Nacional Montevideo",
+            "flags": {
+                "team1": "peru",
+                "team2": "uraguay"
+            },
+            "time": "00:30",
+            "date": "2026-09-11"
+        },
+        {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Cienciano   vs   Nacional Montevideo"
+        },
+        {
+            "channel": "beIN Connect USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://connect-us.beinsports.com/",
+            "related_to": "     Cienciano   vs   Nacional Montevideo"
+        },
+        {
+            "channel": "beIN Sports MENA 3 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Cienciano   vs   Nacional Montevideo"
         },
         {
             "compet": "Croatian Prva NL - Week 5",
@@ -205,6 +205,14 @@
             "date": "2026-09-11"
         },
         {
+            "channel": "Azam Sports 3 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Al Qadisiyah   vs   Al Ettifaq"
+        },
+        {
             "channel": "Prima Sport RO PPV 1",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -216,6 +224,14 @@
             "channel": "S Sport+ Streaming",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Qadisiyah   vs   Al Ettifaq"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL 2",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
             "encry": "",
             "link": "#",
             "related_to": "     Al Qadisiyah   vs   Al Ettifaq"
@@ -241,6 +257,14 @@
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "11766 V 28000 - 7/8",
             "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Al Qadisiyah   vs   Al Ettifaq"
+        },
+        {
+            "channel": "ST World Football HD",
+            "sat": "Eutelsat 10B 10.0\u00b0e",
+            "freq": "3736 R 07307 - 5/6",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Al Qadisiyah   vs   Al Ettifaq"
         },
@@ -535,6 +559,30 @@
             "related_to": "     Nuremberg   vs   Hannover 96"
         },
         {
+            "channel": "DAZN 1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12399 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Nuremberg   vs   Hannover 96"
+        },
+        {
+            "channel": "DAZN Portugal ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Nuremberg   vs   Hannover 96"
+        },
+        {
+            "channel": "Diema Sport 2 HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12156 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Nuremberg   vs   Hannover 96"
+        },
+        {
             "channel": "Digi Sport 2 Romania HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "11823 H 30000 - 5/6",
@@ -547,6 +595,14 @@
             "sat": "Hotbird 13G 13.0\u00b0e",
             "freq": "11488 H 27500 - 3/4",
             "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Nuremberg   vs   Hannover 96"
+        },
+        {
+            "channel": "Nova Sport 4 Czech HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11934 V 27500 - 3/4",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Nuremberg   vs   Hannover 96"
         },
@@ -663,6 +719,192 @@
             "related_to": "     Nuremberg   vs   Hannover 96"
         },
         {
+            "compet": "German 2. Bundesliga - Week 5",
+            "match": "     Darmstadt 98   vs   Arminia Bielefeld",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "16:30",
+            "date": "2026-09-11"
+        },
+        {
+            "channel": "Arena Premium 4 BiH HD",
+            "sat": " 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Darmstadt 98   vs   Arminia Bielefeld"
+        },
+        {
+            "channel": "Arena Sport 2 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11798 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Darmstadt 98   vs   Arminia Bielefeld"
+        },
+        {
+            "channel": "beIN Sports Australia 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Darmstadt 98   vs   Arminia Bielefeld"
+        },
+        {
+            "channel": "Eleven Sports 4 Polska HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11278 V 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Darmstadt 98   vs   Arminia Bielefeld"
+        },
+        {
+            "channel": "Nova Sport 6 Czech HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12090 V 29900 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Darmstadt 98   vs   Arminia Bielefeld"
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12600 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Darmstadt 98   vs   Arminia Bielefeld"
+        },
+        {
+            "channel": "Nova Sports 3 Cyprus HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11823 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Darmstadt 98   vs   Arminia Bielefeld"
+        },
+        {
+            "channel": "Nova Sports 3 Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11823 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Darmstadt 98   vs   Arminia Bielefeld"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     Darmstadt 98   vs   Arminia Bielefeld"
+        },
+        {
+            "channel": "Prima Sport RO PPV 2",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Darmstadt 98   vs   Arminia Bielefeld"
+        },
+        {
+            "channel": "Sky Sport Bundesliga 4 HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12032 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Darmstadt 98   vs   Arminia Bielefeld"
+        },
+        {
+            "channel": "Sport 1 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Darmstadt 98   vs   Arminia Bielefeld"
+        },
+        {
+            "channel": "Sport TV3 Slovenija",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Darmstadt 98   vs   Arminia Bielefeld"
+        },
+        {
+            "channel": "SportKlub 3 Hrvatska",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11387 H 30000  -3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Darmstadt 98   vs   Arminia Bielefeld"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Darmstadt 98   vs   Arminia Bielefeld"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Darmstadt 98   vs   Arminia Bielefeld"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Darmstadt 98   vs   Arminia Bielefeld"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Darmstadt 98   vs   Arminia Bielefeld"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Darmstadt 98   vs   Arminia Bielefeld"
+        },
+        {
+            "channel": "ViaPlay \u00cdsland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Darmstadt 98   vs   Arminia Bielefeld"
+        },
+        {
+            "channel": "WOW Deutsch ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.wowtv.de/live-sport",
+            "related_to": "     Darmstadt 98   vs   Arminia Bielefeld"
+        },
+        {
+            "channel": "YouTube: Bundesliga",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@bundesliga/streams",
+            "related_to": "     Darmstadt 98   vs   Arminia Bielefeld"
+        },
+        {
             "compet": "German Frauen Bundesliga - Week 4",
             "match": "     Werder Bremen   vs   Hamburg",
             "flags": {
@@ -761,168 +1003,6 @@
             "related_to": "     Werder Bremen   vs   Hamburg"
         },
         {
-            "compet": "German 2. Bundesliga - Week 5",
-            "match": "     Darmstadt 98   vs   Arminia Bielefeld",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "16:30",
-            "date": "2026-09-11"
-        },
-        {
-            "channel": "Arena Premium 4 BiH HD",
-            "sat": " 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Darmstadt 98   vs   Arminia Bielefeld"
-        },
-        {
-            "channel": "Arena Sport 2 Srbija HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11798 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Darmstadt 98   vs   Arminia Bielefeld"
-        },
-        {
-            "channel": "beIN Sports Australia 3 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Darmstadt 98   vs   Arminia Bielefeld"
-        },
-        {
-            "channel": "Eleven Sports 4 Polska HD",
-            "sat": "Hotbird 13G 13.0\u00b0e",
-            "freq": "11278 V 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Darmstadt 98   vs   Arminia Bielefeld"
-        },
-        {
-            "channel": "Nova Sports 3 Cyprus HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "11823 H 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Darmstadt 98   vs   Arminia Bielefeld"
-        },
-        {
-            "channel": "Nova Sports 3 Hellas HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "11823 H 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Darmstadt 98   vs   Arminia Bielefeld"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     Darmstadt 98   vs   Arminia Bielefeld"
-        },
-        {
-            "channel": "Prima Sport RO PPV 2",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Darmstadt 98   vs   Arminia Bielefeld"
-        },
-        {
-            "channel": "Sky Sport Bundesliga 4 HD",
-            "sat": "Astra 1N 19.2\u00b0e",
-            "freq": "12032 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Darmstadt 98   vs   Arminia Bielefeld"
-        },
-        {
-            "channel": "Sport TV3 Slovenija",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Darmstadt 98   vs   Arminia Bielefeld"
-        },
-        {
-            "channel": "SportKlub 3 Hrvatska",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11387 H 30000  -3/4",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Darmstadt 98   vs   Arminia Bielefeld"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Darmstadt 98   vs   Arminia Bielefeld"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Darmstadt 98   vs   Arminia Bielefeld"
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Darmstadt 98   vs   Arminia Bielefeld"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Darmstadt 98   vs   Arminia Bielefeld"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Darmstadt 98   vs   Arminia Bielefeld"
-        },
-        {
-            "channel": "ViaPlay \u00cdsland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Darmstadt 98   vs   Arminia Bielefeld"
-        },
-        {
-            "channel": "WOW Deutsch ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.wowtv.de/live-sport",
-            "related_to": "     Darmstadt 98   vs   Arminia Bielefeld"
-        },
-        {
-            "channel": "YouTube: Bundesliga",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.youtube.com/@bundesliga/streams",
-            "related_to": "     Darmstadt 98   vs   Arminia Bielefeld"
-        },
-        {
             "compet": "Serbian Super League - Week 9",
             "match": "     Zeleznicar   vs   Macva Sabac",
             "flags": {
@@ -939,6 +1019,40 @@
             "encry": "HD Conax",
             "link": "#",
             "related_to": "     Zeleznicar   vs   Macva Sabac"
+        },
+        {
+            "compet": "T\u00fcrkiye 1. Lig - Week 7",
+            "match": "     Sariyer   vs   Bandirmaspor",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "17:00",
+            "date": "2026-09-11"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Sariyer   vs   Bandirmaspor"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye 2 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Sariyer   vs   Bandirmaspor"
+        },
+        {
+            "channel": "TRT Spor T\u00fcrkiye HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11054 V 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "related_to": "     Sariyer   vs   Bandirmaspor"
         },
         {
             "compet": "T\u00fcrkiye S\u00fcper Lig - Week 5",
@@ -1239,38 +1353,12 @@
             "related_to": "     Besiktas   vs   Erzurumspor"
         },
         {
-            "compet": "T\u00fcrkiye 1. Lig - Week 7",
-            "match": "     Sariyer   vs   Bandirmaspor",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "17:00",
-            "date": "2026-09-11"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Sariyer   vs   Bandirmaspor"
-        },
-        {
-            "channel": "beIN Sports T\u00fcrkiye 2 HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11676 V 24444 - 3/4",
-            "encry": "HD Irdeto",
+            "channel": "SuperSport 4 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
             "link": "#",
-            "related_to": "     Sariyer   vs   Bandirmaspor"
-        },
-        {
-            "channel": "TRT Spor T\u00fcrkiye HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11054 V 30000 - 3/4",
-            "encry": "FTA",
-            "link": "https://www.trtizle.com/canli/tv/trt-spor",
-            "related_to": "     Sariyer   vs   Bandirmaspor"
+            "related_to": "     Besiktas   vs   Erzurumspor"
         },
         {
             "compet": "Swedish Allsvenskan - Week 21",
@@ -1695,96 +1783,6 @@
             "related_to": "     Torreense   vs   Leix\u00f5es"
         },
         {
-            "compet": "French Ligue 2 - Week 6",
-            "match": "     Dijon   vs   Laval",
-            "flags": {
-                "team1": "france",
-                "team2": "france"
-            },
-            "time": "18:00",
-            "date": "2026-09-11"
-        },
-        {
-            "channel": "beIN Sports France 4 HD max",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11856 V 29700 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Dijon   vs   Laval"
-        },
-        {
-            "compet": "French Ligue 2 - Week 6",
-            "match": "     Clermont Foot   vs   Boulogne",
-            "flags": {
-                "team1": "france",
-                "team2": "france"
-            },
-            "time": "18:00",
-            "date": "2026-09-11"
-        },
-        {
-            "channel": "beIN Sports France 5 HD max",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11856 V 29700 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Clermont Foot   vs   Boulogne"
-        },
-        {
-            "compet": "French Ligue 2 - Week 6",
-            "match": "     Rodez   vs   Grenoble Foot 38",
-            "flags": {
-                "team1": "france",
-                "team2": "france"
-            },
-            "time": "18:00",
-            "date": "2026-09-11"
-        },
-        {
-            "channel": "beIN Sports France 6 HD max",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11856 V 29700 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Rodez   vs   Grenoble Foot 38"
-        },
-        {
-            "compet": "French Ligue 2 - Week 6",
-            "match": "     Montpellier   vs   Pau",
-            "flags": {
-                "team1": "france",
-                "team2": "france"
-            },
-            "time": "18:00",
-            "date": "2026-09-11"
-        },
-        {
-            "channel": "beIN Sports France 7 HD max",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11895 V 29700 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Montpellier   vs   Pau"
-        },
-        {
-            "compet": "French Ligue 2 - Week 6",
-            "match": "     Nancy   vs   Reims",
-            "flags": {
-                "team1": "france",
-                "team2": "france"
-            },
-            "time": "18:00",
-            "date": "2026-09-11"
-        },
-        {
-            "channel": "beIN Sports France 8 HD max",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11895 V 29700 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Nancy   vs   Reims"
-        },
-        {
             "compet": "Romanian Superliga - Week 9",
             "match": "     Csikszereda   vs   Dinamo Bucharest",
             "flags": {
@@ -1829,6 +1827,14 @@
             "date": "2026-09-11"
         },
         {
+            "channel": "HT Spor T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11837 V 30000 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Al Hazem"
+        },
+        {
             "channel": "Sport 24 Extra HD",
             "sat": "NSS 12 57.0\u00b0e",
             "freq": "4095 R 30000 - 3/4",
@@ -1842,6 +1848,14 @@
             "freq": "12360 H 27500 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
+            "related_to": "     Al Ahli   vs   Al Hazem"
+        },
+        {
+            "channel": "Sportitalia SoloCalcio HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11179 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://sportitalialive.it/sisolocalcio/",
             "related_to": "     Al Ahli   vs   Al Hazem"
         },
         {
@@ -1869,6 +1883,14 @@
             "related_to": "     Al Ahli   vs   Al Hazem"
         },
         {
+            "channel": "ST Sports Life",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "12418 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Al Ahli   vs   Al Hazem"
+        },
+        {
             "channel": "Thmanyah KSA [app]",
             "sat": "Download APP 0.0\u00b0",
             "freq": "0000 0",
@@ -1877,74 +1899,12 @@
             "related_to": "     Al Ahli   vs   Al Hazem"
         },
         {
-            "compet": "Bulgarian First League - Week 9",
-            "match": "     Cherno More Varna   vs   Lokomotiv Sofia",
-            "flags": {
-                "team1": "bulgaria",
-                "team2": "bulgaria"
-            },
-            "time": "18:00",
-            "date": "2026-09-11"
-        },
-        {
-            "channel": "Diema Sport HD",
-            "sat": "AzerSpace 2 45.0\u00b0e",
-            "freq": "12520 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
+            "channel": "ZBC Channel 2",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "11043 V 45000 - 5/6",
+            "encry": "MPEG-4 Nagra",
             "link": "#",
-            "related_to": "     Cherno More Varna   vs   Lokomotiv Sofia"
-        },
-        {
-            "channel": "SportKlub 6 Slovenija",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Cherno More Varna   vs   Lokomotiv Sofia"
-        },
-        {
-            "channel": "SportKlub 8 Hrvatska",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Cherno More Varna   vs   Lokomotiv Sofia"
-        },
-        {
-            "compet": "Bosnia-Herzegovina Premier Liga - Week 7",
-            "match": "     Celik Zenica   vs   Radnik Bijeljina",
-            "flags": {
-                "team1": "bosnia",
-                "team2": "bosnia"
-            },
-            "time": "18:00",
-            "date": "2026-09-11"
-        },
-        {
-            "channel": "Arena Premium 1 BiH HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Celik Zenica   vs   Radnik Bijeljina"
-        },
-        {
-            "compet": "Serbian 1st League (Prva liga Srbija) - Week 8",
-            "match": "     Spartak Subotica   vs   Napredak",
-            "flags": {
-                "team1": "serbia",
-                "team2": "serbia"
-            },
-            "time": "18:00",
-            "date": "2026-09-11"
-        },
-        {
-            "channel": "Arena Sport 10 Srbija HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Spartak Subotica   vs   Napredak"
+            "related_to": "     Al Ahli   vs   Al Hazem"
         },
         {
             "compet": "Dutch Eredivisie - Week 6",
@@ -1997,12 +1957,90 @@
             "related_to": "     AZ Alkmaar   vs   Willem II"
         },
         {
+            "channel": "Sportdigital FUSSBALL 2",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     AZ Alkmaar   vs   Willem II"
+        },
+        {
             "channel": "SportKlub 2 Hrvatska",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11678 V 30000 - 3/4",
             "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     AZ Alkmaar   vs   Willem II"
+        },
+        {
+            "compet": "Bosnia-Herzegovina Premier Liga - Week 7",
+            "match": "     Celik Zenica   vs   Radnik Bijeljina",
+            "flags": {
+                "team1": "bosnia",
+                "team2": "bosnia"
+            },
+            "time": "18:00",
+            "date": "2026-09-11"
+        },
+        {
+            "channel": "Arena Premium 1 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Celik Zenica   vs   Radnik Bijeljina"
+        },
+        {
+            "compet": "Serbian 1st League (Prva liga Srbija) - Week 8",
+            "match": "     Spartak Subotica   vs   Napredak",
+            "flags": {
+                "team1": "serbia",
+                "team2": "serbia"
+            },
+            "time": "18:00",
+            "date": "2026-09-11"
+        },
+        {
+            "channel": "Arena Sport 10 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Spartak Subotica   vs   Napredak"
+        },
+        {
+            "compet": "Bulgarian First League - Week 9",
+            "match": "     Cherno More Varna   vs   Lokomotiv Sofia",
+            "flags": {
+                "team1": "bulgaria",
+                "team2": "bulgaria"
+            },
+            "time": "18:00",
+            "date": "2026-09-11"
+        },
+        {
+            "channel": "Diema Sport HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Cherno More Varna   vs   Lokomotiv Sofia"
+        },
+        {
+            "channel": "SportKlub 6 Slovenija",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Cherno More Varna   vs   Lokomotiv Sofia"
+        },
+        {
+            "channel": "SportKlub 8 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Cherno More Varna   vs   Lokomotiv Sofia"
         },
         {
             "compet": "Belgian Challenger Pro League - Week 5",
@@ -2203,6 +2241,96 @@
             "related_to": "     Derby County U-21   vs   Tottenham U-21"
         },
         {
+            "compet": "French Ligue 2 - Week 6",
+            "match": "     Dijon   vs   Laval",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "18:00",
+            "date": "2026-09-11"
+        },
+        {
+            "channel": "beIN Sports France 4 HD max",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Dijon   vs   Laval"
+        },
+        {
+            "compet": "French Ligue 2 - Week 6",
+            "match": "     Clermont Foot   vs   Boulogne",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "18:00",
+            "date": "2026-09-11"
+        },
+        {
+            "channel": "beIN Sports France 5 HD max",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Clermont Foot   vs   Boulogne"
+        },
+        {
+            "compet": "French Ligue 2 - Week 6",
+            "match": "     Rodez   vs   Grenoble Foot 38",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "18:00",
+            "date": "2026-09-11"
+        },
+        {
+            "channel": "beIN Sports France 6 HD max",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Rodez   vs   Grenoble Foot 38"
+        },
+        {
+            "compet": "French Ligue 2 - Week 6",
+            "match": "     Montpellier   vs   Pau",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "18:00",
+            "date": "2026-09-11"
+        },
+        {
+            "channel": "beIN Sports France 7 HD max",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11895 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Montpellier   vs   Pau"
+        },
+        {
+            "compet": "French Ligue 2 - Week 6",
+            "match": "     Nancy   vs   Reims",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "18:00",
+            "date": "2026-09-11"
+        },
+        {
+            "channel": "beIN Sports France 8 HD max",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11895 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Nancy   vs   Reims"
+        },
+        {
             "compet": "Slovenian Prva Liga - Week 9",
             "match": "     Brinje Grosuplje   vs   Nafta 1903",
             "flags": {
@@ -2321,6 +2449,30 @@
             "related_to": "     Union Berlin   vs   Schalke 04"
         },
         {
+            "channel": "DAZN 1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12399 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Union Berlin   vs   Schalke 04"
+        },
+        {
+            "channel": "DAZN Portugal ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Union Berlin   vs   Schalke 04"
+        },
+        {
+            "channel": "Diema Sport 3 HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Union Berlin   vs   Schalke 04"
+        },
+        {
             "channel": "Digi Sport 4 Romania",
             "sat": "Intelsat 10-02 1.0\u00b0w",
             "freq": "12687 H 27500 - 3/4",
@@ -2333,6 +2485,22 @@
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "11488 H 27500 - 3/4",
             "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Union Berlin   vs   Schalke 04"
+        },
+        {
+            "channel": "MBC Action HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "12284 V 27500 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Union Berlin   vs   Schalke 04"
+        },
+        {
+            "channel": "Nova Sport 3 Czech HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11934 V 27500 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Union Berlin   vs   Schalke 04"
         },
@@ -2409,6 +2577,14 @@
             "related_to": "     Union Berlin   vs   Schalke 04"
         },
         {
+            "channel": "Sport 1 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Union Berlin   vs   Schalke 04"
+        },
+        {
             "channel": "Sport TV1 Slovenija",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11231 V 42000 - 3/5",
@@ -2420,6 +2596,22 @@
             "channel": "SportKlub 3 Hrvatska",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11387 H 30000  -3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Union Berlin   vs   Schalke 04"
+        },
+        {
+            "channel": "ST World Football HD",
+            "sat": "Eutelsat 10B 10.0\u00b0e",
+            "freq": "3736 R 07307 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Union Berlin   vs   Schalke 04"
+        },
+        {
+            "channel": "Tring Sport 3 HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10890 H 30000 - 5/6",
             "encry": "HD Conax",
             "link": "#",
             "related_to": "     Union Berlin   vs   Schalke 04"
@@ -2673,6 +2865,14 @@
             "related_to": "     Rennes   vs   Marseille"
         },
         {
+            "channel": "ART Motion Sport 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "     Rennes   vs   Marseille"
+        },
+        {
             "channel": "beIN Connect T\u00fcrkiye",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2753,6 +2953,22 @@
             "related_to": "     Rennes   vs   Marseille"
         },
         {
+            "channel": "Nova Sport 4 Czech HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11934 V 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Rennes   vs   Marseille"
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12600 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Rennes   vs   Marseille"
+        },
+        {
             "channel": "Prime Video UK PPV [$]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -2761,10 +2977,26 @@
             "related_to": "     Rennes   vs   Marseille"
         },
         {
+            "channel": "Sport TV3 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Rennes   vs   Marseille"
+        },
+        {
             "channel": "Star Sports Select HD2",
             "sat": "G-Sat 10 83.0\u00b0e",
             "freq": "11470 V 32720 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Rennes   vs   Marseille"
+        },
+        {
+            "channel": "SuperSport 3 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Rennes   vs   Marseille"
         },
@@ -2856,6 +3088,14 @@
             "freq": "11798 H 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
+            "related_to": "     Venezia   vs   Fiorentina"
+        },
+        {
+            "channel": "ART Motion Sport 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
             "related_to": "     Venezia   vs   Fiorentina"
         },
         {
@@ -2955,6 +3195,14 @@
             "related_to": "     Venezia   vs   Fiorentina"
         },
         {
+            "channel": "MAX Sport 3 Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12600 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Venezia   vs   Fiorentina"
+        },
+        {
             "channel": "Paramount+ USA ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2987,10 +3235,34 @@
             "related_to": "     Venezia   vs   Fiorentina"
         },
         {
+            "channel": "Sport 3 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Venezia   vs   Fiorentina"
+        },
+        {
+            "channel": "Sport TV2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Venezia   vs   Fiorentina"
+        },
+        {
             "channel": "SuperSport Football HD",
             "sat": "Intelsat 20 68.5\u00b0e",
             "freq": "11674 H 30000 - 5/6",
             "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Venezia   vs   Fiorentina"
+        },
+        {
+            "channel": "Tring Sport 1 HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Venezia   vs   Fiorentina"
         },
@@ -3539,10 +3811,26 @@
             "related_to": "     Sevilla   vs   Valencia"
         },
         {
+            "channel": "ART Motion Sport 2 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "     Sevilla   vs   Valencia"
+        },
+        {
             "channel": "beIN Sports MENA 4 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 V 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Sevilla   vs   Valencia"
+        },
+        {
+            "channel": "DAZN 2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Sevilla   vs   Valencia"
         },
@@ -3643,6 +3931,22 @@
             "related_to": "     Sevilla   vs   Valencia"
         },
         {
+            "channel": "MAX Sport 4 Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "11475 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Sevilla   vs   Valencia"
+        },
+        {
+            "channel": "Nova Sport 5 Czech HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Sevilla   vs   Valencia"
+        },
+        {
             "channel": "Premier Sports 2 Ireland HD",
             "sat": "Astra 2F 28.2\u00b0e",
             "freq": "12188 H 27500 - 3/4",
@@ -3711,6 +4015,22 @@
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "11727 V 28000 - 7/8",
             "encry": "Conax",
+            "link": "#",
+            "related_to": "     Sevilla   vs   Valencia"
+        },
+        {
+            "channel": "ST Sports Premium HD",
+            "sat": "Belintersat 1 51.5\u00b0e",
+            "freq": "11098 H 16665 - 1/2",
+            "encry": "Conax",
+            "link": "#",
+            "related_to": "     Sevilla   vs   Valencia"
+        },
+        {
+            "channel": "SuperSport 2 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Sevilla   vs   Valencia"
         },
@@ -3805,10 +4125,34 @@
             "related_to": "     West Ham United   vs   Wrexham"
         },
         {
+            "channel": "Diema Sport 2 HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12156 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     West Ham United   vs   Wrexham"
+        },
+        {
             "channel": "Magenta Hellas Sport 3 HD",
             "sat": "Eutelsat 9B 9.0\u00b0e",
             "freq": "11843 V 27500 - 3/5",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     West Ham United   vs   Wrexham"
+        },
+        {
+            "channel": "Nova Sport 6 Czech HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12090 V 29900 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     West Ham United   vs   Wrexham"
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     West Ham United   vs   Wrexham"
         },
@@ -3857,6 +4201,22 @@
             "sat": "Astra 2F 28.2\u00b0e",
             "freq": "12246 V 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     West Ham United   vs   Wrexham"
+        },
+        {
+            "channel": "Sport 2 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "12259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     West Ham United   vs   Wrexham"
+        },
+        {
+            "channel": "Sport TV6 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     West Ham United   vs   Wrexham"
         },
@@ -3933,6 +4293,14 @@
             },
             "time": "19:00",
             "date": "2026-09-11"
+        },
+        {
+            "channel": "5 STARS Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Benevento   vs   Hellas Verona"
         },
         {
             "channel": "Arena Sport 7 Srbija HD",
