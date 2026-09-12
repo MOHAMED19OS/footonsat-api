@@ -2,24 +2,6 @@
     "footonsat": [
         {
             "compet": "Spanish La Liga 2 - Week 5",
-            "match": "     Burgos   vs   Ceuta",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "time": "18:30",
-            "date": "2026-09-11"
-        },
-        {
-            "channel": "DAZN Espa\u00f1a ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Burgos   vs   Ceuta"
-        },
-        {
-            "compet": "Spanish La Liga 2 - Week 5",
             "match": "     Andorra   vs   Real Sociedad II",
             "flags": {
                 "team1": "spain",
@@ -48,6 +30,14 @@
         },
         {
             "channel": "DAZN Espa\u00f1a ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     C\u00e1diz   vs   Las Palmas"
+        },
+        {
+            "channel": "Megogo Futbol 4 ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
@@ -101,6 +91,14 @@
             "date": "2026-09-12"
         },
         {
+            "channel": "beIN Sports 2 HD (Astro)",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     C\u00f3rdoba   vs   Almer\u00eda"
+        },
+        {
             "channel": "DAZN Espa\u00f1a ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -120,6 +118,14 @@
             "channel": "Prima Sport RO PPV 1",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     C\u00f3rdoba   vs   Almer\u00eda"
+        },
+        {
+            "channel": "TSN Malta 7 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
             "encry": "",
             "link": "#",
             "related_to": "     C\u00f3rdoba   vs   Almer\u00eda"
@@ -157,6 +163,22 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Real Valladolid   vs   Real Oviedo"
+        },
+        {
+            "channel": "Megogo Futbol 4 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Real Valladolid   vs   Real Oviedo"
+        },
+        {
+            "channel": "ONE2 Sport Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Real Valladolid   vs   Real Oviedo"
         },
@@ -201,6 +223,22 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Tenerife   vs   Legan\u00e9s"
+        },
+        {
+            "channel": "Megogo Futbol 5 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Tenerife   vs   Legan\u00e9s"
+        },
+        {
+            "channel": "ONE2 Sport Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Tenerife   vs   Legan\u00e9s"
         },
