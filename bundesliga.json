@@ -2,1298 +2,6 @@
     "footonsat": [
         {
             "compet": "German 1. Bundesliga - Week 3",
-            "match": "     Borussia Dortmund   vs   Paderborn",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "13:30",
-            "date": "2026-09-12"
-        },
-        {
-            "channel": "Arena 4 Hungary HD",
-            "sat": "Thor 5 0.8\u00b0w",
-            "freq": "12265 V 28000 - 7/8",
-            "encry": "Conax",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Paderborn"
-        },
-        {
-            "channel": "Arena Sport 5 Srbija HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11798 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Paderborn"
-        },
-        {
-            "channel": "Arena Sport 6 BiH HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Paderborn"
-        },
-        {
-            "channel": "Azam Sports 4 HD",
-            "sat": "Eutelsat 7C 7.0\u00b0e",
-            "freq": "10981 V 45000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Paderborn"
-        },
-        {
-            "channel": "beIN Sports 3 HD (Astro)",
-            "sat": "Measat 3b 91.5\u00b0e",
-            "freq": "10732 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Paderborn"
-        },
-        {
-            "channel": "beIN Sports France 4 HD max",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11856 V 29700 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Paderborn"
-        },
-        {
-            "channel": "Canal+ Sport 1 Afrique HD",
-            "sat": "SES 4 22.0\u00b0w",
-            "freq": "11171 V 45000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Paderborn"
-        },
-        {
-            "channel": "DAZN 4 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12399 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Paderborn"
-        },
-        {
-            "channel": "DAZN Portugal ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Paderborn"
-        },
-        {
-            "channel": "Diema Sport HD",
-            "sat": "AzerSpace 2 45.0\u00b0e",
-            "freq": "12520 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Paderborn"
-        },
-        {
-            "channel": "Digi Sport 4 Romania",
-            "sat": "Intelsat 10-02 1.0\u00b0w",
-            "freq": "12687 H 27500 - 3/4",
-            "encry": "NagraVision",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Paderborn"
-        },
-        {
-            "channel": "Eleven Sports 2 Polska HD",
-            "sat": "Hotbird 13G 13.0\u00b0e",
-            "freq": "11488 H 27500 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Paderborn"
-        },
-        {
-            "channel": "Fast Sports 2 Armenia ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://fasttv.am/tv-channels/fastsports2",
-            "related_to": "     Borussia Dortmund   vs   Paderborn"
-        },
-        {
-            "channel": "MBC Action HD",
-            "sat": "Badr 8 26.0\u00b0e",
-            "freq": "12284 V 27500 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Paderborn"
-        },
-        {
-            "channel": "Nova Sport 6 Czech HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12090 V 29900 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Paderborn"
-        },
-        {
-            "channel": "Nova Sports 3 Cyprus HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "11823 H 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Paderborn"
-        },
-        {
-            "channel": "Nova Sports 3 Hellas HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "11823 H 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Paderborn"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     Borussia Dortmund   vs   Paderborn"
-        },
-        {
-            "channel": "Play Sports 4 Belgium",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Paderborn"
-        },
-        {
-            "channel": "Premier Sports 3 Mongolia HD",
-            "sat": "Telstar 18 138.0\u00b0e",
-            "freq": "12598 H 45000 - 5/6",
-            "encry": "MPEG-4 Verimatrix",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Paderborn"
-        },
-        {
-            "channel": "Prima Sport RO 4 HD",
-            "sat": "Hellas Sat 3 39.0\u00b0e",
-            "freq": "12405 V 30000 - 7/8",
-            "encry": "Viaccess",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Paderborn"
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Paderborn"
-        },
-        {
-            "channel": "See Dansk HD",
-            "sat": "Thor 6 5.0\u00b0e",
-            "freq": "11265 H 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Paderborn"
-        },
-        {
-            "channel": "Setanta Sports 1 Baltic",
-            "sat": "Astra 4A 5.0\u00b0e",
-            "freq": "11958 H 27500 - 5/6",
-            "encry": "MPEG-4 NDS",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Paderborn"
-        },
-        {
-            "channel": "Sky Sport 256 Italia HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "12418 V 29900 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Paderborn"
-        },
-        {
-            "channel": "Sky Sport Bundesliga 1 HD",
-            "sat": "Astra 1N 19.2\u00b0e",
-            "freq": "11914 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Paderborn"
-        },
-        {
-            "channel": "Sky Sport Bundesliga HD",
-            "sat": "Astra 1N 19.2\u00b0e",
-            "freq": "12304 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Paderborn"
-        },
-        {
-            "channel": "Sky Sport Bundesliga UHD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11798 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Paderborn"
-        },
-        {
-            "channel": "Sky Sport Top Event HD",
-            "sat": "Astra 1N 19.2\u00b0e",
-            "freq": "11914 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Paderborn"
-        },
-        {
-            "channel": "Sport 3 Israel HD",
-            "sat": "Dror 1 4.0\u00b0w",
-            "freq": "11259 V 30000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Paderborn"
-        },
-        {
-            "channel": "Sport TV 2 Azerbaijan (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Paderborn"
-        },
-        {
-            "channel": "Sport TV1 Slovenija",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11231 V 42000 - 3/5",
-            "encry": "MPEG-4 NDS",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Paderborn"
-        },
-        {
-            "channel": "SportKlub 5 Hrvatska",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Paderborn"
-        },
-        {
-            "channel": "ST World Football HD",
-            "sat": "Eutelsat 10B 10.0\u00b0e",
-            "freq": "3736 R 07307 - 5/6",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Paderborn"
-        },
-        {
-            "channel": "Tring Sport 2 HD",
-            "sat": "Hellas Sat 4 39.0\u00b0e",
-            "freq": "10890 H 30000 - 5/6",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Paderborn"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Paderborn"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Paderborn"
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Paderborn"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Paderborn"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Paderborn"
-        },
-        {
-            "channel": "ViaPlay \u00cdsland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Borussia Dortmund   vs   Paderborn"
-        },
-        {
-            "channel": "WOW Deutsch ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.wowtv.de/live-sport",
-            "related_to": "     Borussia Dortmund   vs   Paderborn"
-        },
-        {
-            "compet": "German 1. Bundesliga - Week 3",
-            "match": "     Hoffenheim   vs   Stuttgart",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "13:30",
-            "date": "2026-09-12"
-        },
-        {
-            "channel": "Arena Premium 4 BiH HD",
-            "sat": " 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Hoffenheim   vs   Stuttgart"
-        },
-        {
-            "channel": "Arena Sport 4 Srbija HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11798 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Hoffenheim   vs   Stuttgart"
-        },
-        {
-            "channel": "beIN Sports France 5 HD max",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11856 V 29700 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Hoffenheim   vs   Stuttgart"
-        },
-        {
-            "channel": "Go3 Sport Open Baltic",
-            "sat": "Astra 4A 5.0\u00b0e",
-            "freq": "11958 H 27500 - 5/6",
-            "encry": "MPEG-4 NDS",
-            "link": "https://go3.tv/en/live_tv",
-            "related_to": "     Hoffenheim   vs   Stuttgart"
-        },
-        {
-            "channel": "Nova Sport 3 Czech HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11934 V 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Hoffenheim   vs   Stuttgart"
-        },
-        {
-            "channel": "Nova Sports Extra 3 Hellas HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "12169 H 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Hoffenheim   vs   Stuttgart"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     Hoffenheim   vs   Stuttgart"
-        },
-        {
-            "channel": "Prima Sport RO PPV 3",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Hoffenheim   vs   Stuttgart"
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Hoffenheim   vs   Stuttgart"
-        },
-        {
-            "channel": "Sky Sport Bundesliga 4 HD",
-            "sat": "Astra 1N 19.2\u00b0e",
-            "freq": "12032 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Hoffenheim   vs   Stuttgart"
-        },
-        {
-            "channel": "Sport TV3 Slovenija",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Hoffenheim   vs   Stuttgart"
-        },
-        {
-            "channel": "SportKlub 1 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11471 H 30000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Hoffenheim   vs   Stuttgart"
-        },
-        {
-            "channel": "ST Sports Focus",
-            "sat": "Thor 6 5.0\u00b0e",
-            "freq": "11977 V 27500 - 3/4",
-            "encry": "MPEG-4 NDS",
-            "link": "#",
-            "related_to": "     Hoffenheim   vs   Stuttgart"
-        },
-        {
-            "channel": "Tring Sport 4 HD",
-            "sat": "Hellas Sat 4 39.0\u00b0e",
-            "freq": "10890 H 30000 - 5/6",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Hoffenheim   vs   Stuttgart"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Hoffenheim   vs   Stuttgart"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Hoffenheim   vs   Stuttgart"
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Hoffenheim   vs   Stuttgart"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Hoffenheim   vs   Stuttgart"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Hoffenheim   vs   Stuttgart"
-        },
-        {
-            "channel": "ViaPlay \u00cdsland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Hoffenheim   vs   Stuttgart"
-        },
-        {
-            "channel": "WOW Deutsch ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.wowtv.de/live-sport",
-            "related_to": "     Hoffenheim   vs   Stuttgart"
-        },
-        {
-            "compet": "German 1. Bundesliga - Week 3",
-            "match": "     Augsburg   vs   Bayer Leverkusen",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "13:30",
-            "date": "2026-09-12"
-        },
-        {
-            "channel": "Arena Sport 6 Srbija HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11817 V 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Augsburg   vs   Bayer Leverkusen"
-        },
-        {
-            "channel": "beIN Sports France 6 HD max",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11856 V 29700 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Augsburg   vs   Bayer Leverkusen"
-        },
-        {
-            "channel": "Nova Sport 4 Czech HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11934 V 27500 - 3/4",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Augsburg   vs   Bayer Leverkusen"
-        },
-        {
-            "channel": "Nova Sports 6 Cyprus HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "11804 V 29700 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Augsburg   vs   Bayer Leverkusen"
-        },
-        {
-            "channel": "Nova Sports 6 Hellas HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "11804 V 29700 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Augsburg   vs   Bayer Leverkusen"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     Augsburg   vs   Bayer Leverkusen"
-        },
-        {
-            "channel": "Prima Sport RO PPV 1",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Augsburg   vs   Bayer Leverkusen"
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Augsburg   vs   Bayer Leverkusen"
-        },
-        {
-            "channel": "Sky Sport Bundesliga 2 HD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11758 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Augsburg   vs   Bayer Leverkusen"
-        },
-        {
-            "channel": "Sport TV2 Slovenija",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Augsburg   vs   Bayer Leverkusen"
-        },
-        {
-            "channel": "SportKlub 8 Hrvatska",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Augsburg   vs   Bayer Leverkusen"
-        },
-        {
-            "channel": "ST Sports Arena",
-            "sat": "Thor 6 5.0\u00b0e",
-            "freq": "11938 V 27500 - 3/4",
-            "encry": "MPEG-4 NDS",
-            "link": "#",
-            "related_to": "     Augsburg   vs   Bayer Leverkusen"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Augsburg   vs   Bayer Leverkusen"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Augsburg   vs   Bayer Leverkusen"
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Augsburg   vs   Bayer Leverkusen"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Augsburg   vs   Bayer Leverkusen"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Augsburg   vs   Bayer Leverkusen"
-        },
-        {
-            "channel": "ViaPlay \u00cdsland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Augsburg   vs   Bayer Leverkusen"
-        },
-        {
-            "channel": "WOW Deutsch ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.wowtv.de/live-sport",
-            "related_to": "     Augsburg   vs   Bayer Leverkusen"
-        },
-        {
-            "compet": "German 1. Bundesliga - Week 3",
-            "match": "     Freiburg   vs   M\u00f6nchengladbach",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "13:30",
-            "date": "2026-09-12"
-        },
-        {
-            "channel": "beIN Sports France 7 HD max",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11895 V 29700 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Freiburg   vs   M\u00f6nchengladbach"
-        },
-        {
-            "channel": "Nova Sports Extra 2 Hellas HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "11823 H 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Freiburg   vs   M\u00f6nchengladbach"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     Freiburg   vs   M\u00f6nchengladbach"
-        },
-        {
-            "channel": "Prima Sport RO PPV 2",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Freiburg   vs   M\u00f6nchengladbach"
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Freiburg   vs   M\u00f6nchengladbach"
-        },
-        {
-            "channel": "Sky Sport Bundesliga 5 HD",
-            "sat": "Astra 1N 19.2\u00b0e",
-            "freq": "12032 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Freiburg   vs   M\u00f6nchengladbach"
-        },
-        {
-            "channel": "SportKlub 10 Hrvatska",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Freiburg   vs   M\u00f6nchengladbach"
-        },
-        {
-            "channel": "ST Sports Premium HD",
-            "sat": "Belintersat 1 51.5\u00b0e",
-            "freq": "11098 H 16665 - 1/2",
-            "encry": "Conax",
-            "link": "#",
-            "related_to": "     Freiburg   vs   M\u00f6nchengladbach"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Freiburg   vs   M\u00f6nchengladbach"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Freiburg   vs   M\u00f6nchengladbach"
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Freiburg   vs   M\u00f6nchengladbach"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Freiburg   vs   M\u00f6nchengladbach"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Freiburg   vs   M\u00f6nchengladbach"
-        },
-        {
-            "channel": "ViaPlay \u00cdsland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Freiburg   vs   M\u00f6nchengladbach"
-        },
-        {
-            "channel": "WOW Deutsch ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.wowtv.de/live-sport",
-            "related_to": "     Freiburg   vs   M\u00f6nchengladbach"
-        },
-        {
-            "compet": "German 1. Bundesliga - Week 3",
-            "match": "     Mainz 05   vs   Eintracht Frankfurt",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "13:30",
-            "date": "2026-09-12"
-        },
-        {
-            "channel": "Nova Sports Extra 1 Hellas HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "12169 H 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Mainz 05   vs   Eintracht Frankfurt"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     Mainz 05   vs   Eintracht Frankfurt"
-        },
-        {
-            "channel": "Prima Sport RO PPV 4",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Mainz 05   vs   Eintracht Frankfurt"
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Mainz 05   vs   Eintracht Frankfurt"
-        },
-        {
-            "channel": "Sky Sport Bundesliga 3 HD",
-            "sat": "Astra 1N 19.2\u00b0e",
-            "freq": "12304 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Mainz 05   vs   Eintracht Frankfurt"
-        },
-        {
-            "channel": "SportKlub 11 Hrvatska",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Mainz 05   vs   Eintracht Frankfurt"
-        },
-        {
-            "channel": "ST Sports Arena",
-            "sat": "Thor 6 5.0\u00b0e",
-            "freq": "11938 V 27500 - 3/4",
-            "encry": "MPEG-4 NDS",
-            "link": "#",
-            "related_to": "     Mainz 05   vs   Eintracht Frankfurt"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Mainz 05   vs   Eintracht Frankfurt"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Mainz 05   vs   Eintracht Frankfurt"
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Mainz 05   vs   Eintracht Frankfurt"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Mainz 05   vs   Eintracht Frankfurt"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Mainz 05   vs   Eintracht Frankfurt"
-        },
-        {
-            "channel": "ViaPlay \u00cdsland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Mainz 05   vs   Eintracht Frankfurt"
-        },
-        {
-            "channel": "WOW Deutsch ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.wowtv.de/live-sport",
-            "related_to": "     Mainz 05   vs   Eintracht Frankfurt"
-        },
-        {
-            "compet": "German 1. Bundesliga - Week 3",
-            "match": "     FC Cologne   vs   Werder Bremen",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "16:30",
-            "date": "2026-09-12"
-        },
-        {
-            "channel": "Arena 4 Hungary HD",
-            "sat": "Thor 5 0.8\u00b0w",
-            "freq": "12265 V 28000 - 7/8",
-            "encry": "Conax",
-            "link": "#",
-            "related_to": "     FC Cologne   vs   Werder Bremen"
-        },
-        {
-            "channel": "Arena Premium 4 BiH HD",
-            "sat": " 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     FC Cologne   vs   Werder Bremen"
-        },
-        {
-            "channel": "Arena Premium 5 Srbija HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12304 H 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     FC Cologne   vs   Werder Bremen"
-        },
-        {
-            "channel": "beIN Sports 3 HD (Astro)",
-            "sat": "Measat 3b 91.5\u00b0e",
-            "freq": "10732 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     FC Cologne   vs   Werder Bremen"
-        },
-        {
-            "channel": "beIN Sports France 2 HD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11856 V 29700 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     FC Cologne   vs   Werder Bremen"
-        },
-        {
-            "channel": "Canal+ Sport 1 Afrique HD",
-            "sat": "SES 4 22.0\u00b0w",
-            "freq": "11171 V 45000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     FC Cologne   vs   Werder Bremen"
-        },
-        {
-            "channel": "CRTV Sports Cameroon",
-            "sat": "AzerSpace 2 45.0\u00b0e",
-            "freq": "12610 H 12500 - 3/4",
-            "encry": "HEVC SD Nagravision",
-            "link": "#",
-            "related_to": "     FC Cologne   vs   Werder Bremen"
-        },
-        {
-            "channel": "DAZN 4 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12399 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     FC Cologne   vs   Werder Bremen"
-        },
-        {
-            "channel": "DAZN Portugal ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     FC Cologne   vs   Werder Bremen"
-        },
-        {
-            "channel": "Eleven Sports 2 Polska HD",
-            "sat": "Hotbird 13G 13.0\u00b0e",
-            "freq": "11488 H 27500 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     FC Cologne   vs   Werder Bremen"
-        },
-        {
-            "channel": "Nova Sport 3 Czech HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11934 V 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     FC Cologne   vs   Werder Bremen"
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "sat": "AzerSpace 2 45.0\u00b0e",
-            "freq": "12600 V 30000 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     FC Cologne   vs   Werder Bremen"
-        },
-        {
-            "channel": "Nova Sports Prime Cyprus HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "12130 H 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     FC Cologne   vs   Werder Bremen"
-        },
-        {
-            "channel": "Nova Sports Prime Hellas HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "12130 H 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     FC Cologne   vs   Werder Bremen"
-        },
-        {
-            "channel": "Okko Prime Sport HD ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     FC Cologne   vs   Werder Bremen"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     FC Cologne   vs   Werder Bremen"
-        },
-        {
-            "channel": "Premier Sports 5 Mongolia HD",
-            "sat": "Telstar 18 138.0\u00b0e",
-            "freq": "12598 H 45000 - 5/6",
-            "encry": "MPEG-4 Verimatrix",
-            "link": "#",
-            "related_to": "     FC Cologne   vs   Werder Bremen"
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     FC Cologne   vs   Werder Bremen"
-        },
-        {
-            "channel": "See Dansk HD",
-            "sat": "Thor 6 5.0\u00b0e",
-            "freq": "11265 H 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     FC Cologne   vs   Werder Bremen"
-        },
-        {
-            "channel": "Setanta Sports 2 Georgia HD",
-            "sat": " \u00b0",
-            "freq": " ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     FC Cologne   vs   Werder Bremen"
-        },
-        {
-            "channel": "Setanta Sports Qazaqstan HD",
-            "sat": "KazSat 3 58.5\u00b0e",
-            "freq": "12657 V 45000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     FC Cologne   vs   Werder Bremen"
-        },
-        {
-            "channel": "Setanta Sports+ Ukraine HD",
-            "sat": "Astra 4A 5.0\u00b0e",
-            "freq": "12207 V 30000 - 2/3",
-            "encry": "HD Verimatrix",
-            "link": "#",
-            "related_to": "     FC Cologne   vs   Werder Bremen"
-        },
-        {
-            "channel": "Sky Go UK [online]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     FC Cologne   vs   Werder Bremen"
-        },
-        {
-            "channel": "Sky Sport Bundesliga 1 HD",
-            "sat": "Astra 1N 19.2\u00b0e",
-            "freq": "11914 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     FC Cologne   vs   Werder Bremen"
-        },
-        {
-            "channel": "Sky Sport Bundesliga HD",
-            "sat": "Astra 1N 19.2\u00b0e",
-            "freq": "12304 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     FC Cologne   vs   Werder Bremen"
-        },
-        {
-            "channel": "Sky Sport Bundesliga UHD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11798 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     FC Cologne   vs   Werder Bremen"
-        },
-        {
-            "channel": "Sky Sport Top Event HD",
-            "sat": "Astra 1N 19.2\u00b0e",
-            "freq": "11914 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     FC Cologne   vs   Werder Bremen"
-        },
-        {
-            "channel": "Sky Sports Football HD",
-            "sat": "Astra 2E 28.2\u00b0e",
-            "freq": "12090 V 29500 - 8/9",
-            "encry": "MPEG-4 NDS",
-            "link": "#",
-            "related_to": "     FC Cologne   vs   Werder Bremen"
-        },
-        {
-            "channel": "Sport TV2 Slovenija",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     FC Cologne   vs   Werder Bremen"
-        },
-        {
-            "channel": "SportKlub 5 Hrvatska",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     FC Cologne   vs   Werder Bremen"
-        },
-        {
-            "channel": "ST Sports Life",
-            "sat": "Thor 6 5.0\u00b0e",
-            "freq": "12418 H 27500 - 3/4",
-            "encry": "MPEG-4 Conax",
-            "link": "#",
-            "related_to": "     FC Cologne   vs   Werder Bremen"
-        },
-        {
-            "channel": "Tring Sport 3 HD",
-            "sat": "Hellas Sat 4 39.0\u00b0e",
-            "freq": "10890 H 30000 - 5/6",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     FC Cologne   vs   Werder Bremen"
-        },
-        {
-            "channel": "V Sport 2 Norge HD",
-            "sat": "Thor 6 5.0\u00b0e",
-            "freq": "11345 H 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     FC Cologne   vs   Werder Bremen"
-        },
-        {
-            "channel": "V Sport Football HD",
-            "sat": "Thor 6 0.8\u00b0w",
-            "freq": "10809 V 25000 - 3/4",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     FC Cologne   vs   Werder Bremen"
-        },
-        {
-            "channel": "ViaPlay 1 Urheilu HD",
-            "sat": "Thor 5 0.8\u00b0w",
-            "freq": "11278 V 25000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     FC Cologne   vs   Werder Bremen"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     FC Cologne   vs   Werder Bremen"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     FC Cologne   vs   Werder Bremen"
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     FC Cologne   vs   Werder Bremen"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     FC Cologne   vs   Werder Bremen"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     FC Cologne   vs   Werder Bremen"
-        },
-        {
-            "channel": "ViaPlay \u00cdsland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     FC Cologne   vs   Werder Bremen"
-        },
-        {
-            "channel": "WOW Deutsch ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.wowtv.de/live-sport",
-            "related_to": "     FC Cologne   vs   Werder Bremen"
-        },
-        {
-            "channel": "ZBC Channel 2",
-            "sat": "Eutelsat 7C 7.0\u00b0e",
-            "freq": "11043 V 45000 - 5/6",
-            "encry": "MPEG-4 Nagra",
-            "link": "#",
-            "related_to": "     FC Cologne   vs   Werder Bremen"
-        },
-        {
-            "compet": "German 1. Bundesliga - Week 3",
             "match": "     RB Leipzig   vs   Hamburg",
             "flags": {
                 "team1": "germany",
@@ -1331,6 +39,14 @@
             "sat": "Eutelsat 7C 7.0\u00b0e",
             "freq": "10981 V 45000 - 5/6",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Hamburg"
+        },
+        {
+            "channel": "beIN Sports 3 HD (Astro)",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     RB Leipzig   vs   Hamburg"
         },
@@ -1463,6 +179,22 @@
             "related_to": "     RB Leipzig   vs   Hamburg"
         },
         {
+            "channel": "Setanta Sports 1 Baltic",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11958 H 27500 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Hamburg"
+        },
+        {
+            "channel": "Setanta Sports 2 Georgia HD",
+            "sat": " \u00b0",
+            "freq": " ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Hamburg"
+        },
+        {
             "channel": "Setanta Sports Premium HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -1507,6 +239,22 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Hamburg"
+        },
+        {
+            "channel": "V Sport 1 Sverige HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     RB Leipzig   vs   Hamburg"
+        },
+        {
+            "channel": "V Sport 2 Norge HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11345 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     RB Leipzig   vs   Hamburg"
         },
@@ -1593,6 +341,14 @@
             "related_to": "     Elversberg   vs   Bayern Munich"
         },
         {
+            "channel": "beIN Sports 3 HD (Astro)",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Elversberg   vs   Bayern Munich"
+        },
+        {
             "channel": "Canal+ Sport 1 Afrique HD",
             "sat": "SES 4 22.0\u00b0w",
             "freq": "11171 V 45000 - 3/4",
@@ -1649,8 +405,8 @@
             "related_to": "     Elversberg   vs   Bayern Munich"
         },
         {
-            "channel": "Eleven Sports 2 Polska HD",
-            "sat": "Hotbird 13G 13.0\u00b0e",
+            "channel": "Eleven Sports 3 Polska HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "11488 H 27500 - 3/4",
             "encry": "HD Viaccess",
             "link": "#",
@@ -1705,6 +461,14 @@
             "related_to": "     Elversberg   vs   Bayern Munich"
         },
         {
+            "channel": "Persiana Sports 3 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Elversberg   vs   Bayern Munich"
+        },
+        {
             "channel": "Play Sports 2 Belgium",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1745,10 +509,26 @@
             "related_to": "     Elversberg   vs   Bayern Munich"
         },
         {
+            "channel": "Setanta Sports 1 Baltic",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11958 H 27500 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Elversberg   vs   Bayern Munich"
+        },
+        {
             "channel": "Setanta Sports 2 Eurasia HD",
             "sat": "KazSat 3 58.5\u00b0e",
             "freq": "12657 V 45000 - 3/4",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Elversberg   vs   Bayern Munich"
+        },
+        {
+            "channel": "Setanta Sports 2 Georgia HD",
+            "sat": " \u00b0",
+            "freq": " ",
+            "encry": "",
             "link": "#",
             "related_to": "     Elversberg   vs   Bayern Munich"
         },
@@ -1805,6 +585,30 @@
             "sat": "Thor 6 5.0\u00b0e",
             "freq": "11345 V 30000 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Elversberg   vs   Bayern Munich"
+        },
+        {
+            "channel": "V Sport 2 Norge HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11345 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Elversberg   vs   Bayern Munich"
+        },
+        {
+            "channel": "V Sport Football HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Elversberg   vs   Bayern Munich"
+        },
+        {
+            "channel": "ViaPlay 3 Urheilu HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11823 V 27500 - 3/4",
+            "encry": "MPEG-4 NDS",
             "link": "#",
             "related_to": "     Elversberg   vs   Bayern Munich"
         },
@@ -2431,6 +1235,14 @@
             "date": "2026-09-20"
         },
         {
+            "channel": "beIN Sports France 2 HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Bayer Leverkusen   vs   RB Leipzig"
+        },
+        {
             "channel": "DAZN Deutsch ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2513,6 +1325,14 @@
             "date": "2026-09-20"
         },
         {
+            "channel": "beIN Sports France 5 HD max",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Schalke 04   vs   Elversberg"
+        },
+        {
             "channel": "DAZN Deutsch ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -2585,6 +1405,14 @@
             },
             "time": "17:30",
             "date": "2026-09-20"
+        },
+        {
+            "channel": "beIN Sports France 7 HD max",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11895 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Paderborn   vs   Hoffenheim"
         },
         {
             "channel": "DAZN Deutsch ($/geo/R)",
