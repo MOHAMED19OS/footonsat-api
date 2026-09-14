@@ -35,6 +35,14 @@
             "related_to": "     Ararat-Armenia   vs   Sparta Prague"
         },
         {
+            "channel": "Canal+ Live 2 France HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "12728 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Ararat-Armenia   vs   Sparta Prague"
+        },
+        {
             "channel": "Digi Sport 2 Romania HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "11823 H 30000 - 5/6",
@@ -125,6 +133,14 @@
             "related_to": "     Omonia Nicosia   vs   Celta Vigo"
         },
         {
+            "channel": "Canal+ Live 1 France HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Omonia Nicosia   vs   Celta Vigo"
+        },
+        {
             "channel": "DAZN 2 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
@@ -154,6 +170,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.hbomax.com",
+            "related_to": "     Omonia Nicosia   vs   Celta Vigo"
+        },
+        {
+            "channel": "Megogo Sport Ukraine HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12285 V 30000 - 2/3",
+            "encry": "FTA",
+            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
             "related_to": "     Omonia Nicosia   vs   Celta Vigo"
         },
         {
@@ -223,10 +247,26 @@
             "related_to": "     Sunderland   vs   AZ Alkmaar"
         },
         {
+            "channel": "ART Motion Sport 4 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "     Sunderland   vs   AZ Alkmaar"
+        },
+        {
             "channel": "Blue Sport 3 Live HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Sunderland   vs   AZ Alkmaar"
+        },
+        {
+            "channel": "Canal+ Live 7 France HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11934 V 29900 - 2/3",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Sunderland   vs   AZ Alkmaar"
         },
@@ -259,6 +299,14 @@
             "sat": "Astra 2F 28.2\u00b0e",
             "freq": "12188 H 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Sunderland   vs   AZ Alkmaar"
+        },
+        {
+            "channel": "SuperSport 3 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Sunderland   vs   AZ Alkmaar"
         },
@@ -337,6 +385,30 @@
             "related_to": "     Anderlecht   vs   Lyon"
         },
         {
+            "channel": "Canal+ Foot HD",
+            "sat": "Astra 1P 19.2\u00b0e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Anderlecht   vs   Lyon"
+        },
+        {
+            "channel": "Canal+ Foot UHD HDR",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12207 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Anderlecht   vs   Lyon"
+        },
+        {
+            "channel": "Canal+ Live 1 France HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Anderlecht   vs   Lyon"
+        },
+        {
             "channel": "DAZN 1 Portugal HD",
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12399 H 27500 - 3/4",
@@ -377,6 +449,14 @@
             "related_to": "     Anderlecht   vs   Lyon"
         },
         {
+            "channel": "SuperSport 4 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Anderlecht   vs   Lyon"
+        },
+        {
             "channel": "TNT Sports 4 HD",
             "sat": "Astra 2G 28.2\u00b0e",
             "freq": "11597 V 22000 - 5/6",
@@ -410,128 +490,6 @@
         },
         {
             "compet": "UEFA Europa League - League Phase: Round 1",
-            "match": "     AC Milan   vs   Benfica",
-            "flags": {
-                "team1": "italy",
-                "team2": "portugal"
-            },
-            "time": "19:00",
-            "date": "2026-09-16"
-        },
-        {
-            "channel": "Arena Premium 1 Srbija HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     AC Milan   vs   Benfica"
-        },
-        {
-            "channel": "Arena Sport 3 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11512 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     AC Milan   vs   Benfica"
-        },
-        {
-            "channel": "beIN Sports MENA 1 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     AC Milan   vs   Benfica"
-        },
-        {
-            "channel": "beIN Sports MENA English 1 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10850 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     AC Milan   vs   Benfica"
-        },
-        {
-            "channel": "Blue Sport 4 Live HDR",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     AC Milan   vs   Benfica"
-        },
-        {
-            "channel": "Blue Sport 5 Live HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     AC Milan   vs   Benfica"
-        },
-        {
-            "channel": "Blue Sport D 2 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     AC Milan   vs   Benfica"
-        },
-        {
-            "channel": "Digi Sport 1 Romania HD",
-            "sat": "Thor 6 0.8\u00b0w",
-            "freq": "11823 H 30000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     AC Milan   vs   Benfica"
-        },
-        {
-            "channel": "HBO Max (uk only) [$/geo/R]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.hbomax.com",
-            "related_to": "     AC Milan   vs   Benfica"
-        },
-        {
-            "channel": "Premier Sports 2 Ireland HD",
-            "sat": "Astra 2F 28.2\u00b0e",
-            "freq": "12188 H 27500 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     AC Milan   vs   Benfica"
-        },
-        {
-            "channel": "Prima Sport RO 2 HD",
-            "sat": "Hellas Sat 3 39.0\u00b0e",
-            "freq": "12565 V 30000 - 7/8",
-            "encry": "VideoGuard",
-            "link": "#",
-            "related_to": "     AC Milan   vs   Benfica"
-        },
-        {
-            "channel": "Sport TV5 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12360 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     AC Milan   vs   Benfica"
-        },
-        {
-            "channel": "TNT Sports 2 HD",
-            "sat": "Astra 2G 28.2\u00b0e",
-            "freq": "11597 V 22000 - 5/6",
-            "encry": "VideoGuard",
-            "link": "#",
-            "related_to": "     AC Milan   vs   Benfica"
-        },
-        {
-            "channel": "Ziggo Sport 2",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12129 V 29900 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "#",
-            "related_to": "     AC Milan   vs   Benfica"
-        },
-        {
-            "compet": "UEFA Europa League - League Phase: Round 1",
             "match": "     Bayer Leverkusen   vs   Celje",
             "flags": {
                 "team1": "germany",
@@ -557,6 +515,14 @@
             "related_to": "     Bayer Leverkusen   vs   Celje"
         },
         {
+            "channel": "ART Motion Sport 5 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "     Bayer Leverkusen   vs   Celje"
+        },
+        {
             "channel": "beIN Sports MENA Xtra 2 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10850 H 27500 - 2/3",
@@ -569,6 +535,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Bayer Leverkusen   vs   Celje"
+        },
+        {
+            "channel": "Canal+ Live 4 France HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11934 V 29700 - 2/3",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Bayer Leverkusen   vs   Celje"
         },
@@ -594,6 +568,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.hbomax.com",
+            "related_to": "     Bayer Leverkusen   vs   Celje"
+        },
+        {
+            "channel": "Megogo Sport Ukraine HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12285 V 30000 - 2/3",
+            "encry": "FTA",
+            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
             "related_to": "     Bayer Leverkusen   vs   Celje"
         },
         {
@@ -662,6 +644,160 @@
         },
         {
             "compet": "UEFA Europa League - League Phase: Round 1",
+            "match": "     AC Milan   vs   Benfica",
+            "flags": {
+                "team1": "italy",
+                "team2": "portugal"
+            },
+            "time": "19:00",
+            "date": "2026-09-16"
+        },
+        {
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     AC Milan   vs   Benfica"
+        },
+        {
+            "channel": "Arena Sport 3 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11512 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     AC Milan   vs   Benfica"
+        },
+        {
+            "channel": "ART Motion Sport 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "     AC Milan   vs   Benfica"
+        },
+        {
+            "channel": "beIN Sports MENA 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     AC Milan   vs   Benfica"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     AC Milan   vs   Benfica"
+        },
+        {
+            "channel": "Blue Sport 4 Live HDR",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     AC Milan   vs   Benfica"
+        },
+        {
+            "channel": "Blue Sport 5 Live HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     AC Milan   vs   Benfica"
+        },
+        {
+            "channel": "Blue Sport D 2 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     AC Milan   vs   Benfica"
+        },
+        {
+            "channel": "Canal+ Live 3 France HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "12090 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     AC Milan   vs   Benfica"
+        },
+        {
+            "channel": "Digi Sport 1 Romania HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "11823 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     AC Milan   vs   Benfica"
+        },
+        {
+            "channel": "GEM Sport 1 HD",
+            "sat": "Al Yah 1 52.5\u00b0e",
+            "freq": "12034 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     AC Milan   vs   Benfica"
+        },
+        {
+            "channel": "HBO Max (uk only) [$/geo/R]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.hbomax.com",
+            "related_to": "     AC Milan   vs   Benfica"
+        },
+        {
+            "channel": "Premier Sports 2 Ireland HD",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12188 H 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     AC Milan   vs   Benfica"
+        },
+        {
+            "channel": "Prima Sport RO 2 HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12565 V 30000 - 7/8",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     AC Milan   vs   Benfica"
+        },
+        {
+            "channel": "Sport TV5 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     AC Milan   vs   Benfica"
+        },
+        {
+            "channel": "SuperSport 2 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     AC Milan   vs   Benfica"
+        },
+        {
+            "channel": "TNT Sports 2 HD",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11597 V 22000 - 5/6",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     AC Milan   vs   Benfica"
+        },
+        {
+            "channel": "Ziggo Sport 2",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     AC Milan   vs   Benfica"
+        },
+        {
+            "compet": "UEFA Europa League - League Phase: Round 1",
             "match": "     Olympiacos   vs   Jagiellonia",
             "flags": {
                 "team1": "greece",
@@ -699,6 +835,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Olympiacos   vs   Jagiellonia"
+        },
+        {
+            "channel": "Canal+ Live 6 France HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "12728 V 29700 - 2/3",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Olympiacos   vs   Jagiellonia"
         },
@@ -769,6 +913,22 @@
             "related_to": "     Sturm Graz   vs   Rennes"
         },
         {
+            "channel": "Canal+ Live 2 France HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "12728 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Sturm Graz   vs   Rennes"
+        },
+        {
+            "channel": "Canal+ Sport France HD",
+            "sat": "Astra 1P 19.2\u00b0e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD Mediaguard",
+            "link": "#",
+            "related_to": "     Sturm Graz   vs   Rennes"
+        },
+        {
             "channel": "HBO Max (uk only) [$/geo/R]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -819,10 +979,26 @@
             "related_to": "     Hapoel Be'er Sheva   vs   Dinamo Zagreb"
         },
         {
+            "channel": "ART Motion Sport 6 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "     Hapoel Be'er Sheva   vs   Dinamo Zagreb"
+        },
+        {
             "channel": "Blue Sport 7 Live HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Hapoel Be'er Sheva   vs   Dinamo Zagreb"
+        },
+        {
+            "channel": "Canal+ Live 5 France HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Hapoel Be'er Sheva   vs   Dinamo Zagreb"
         },
@@ -889,6 +1065,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     OFI Crete   vs   Hoffenheim"
+        },
+        {
+            "channel": "Canal+ Live 2 France HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "12728 V 29700 - 2/3",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     OFI Crete   vs   Hoffenheim"
         },
@@ -999,6 +1183,14 @@
             "related_to": "     Levski Sofia   vs   Salzburg"
         },
         {
+            "channel": "Canal+ Live 3 France HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "12090 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Levski Sofia   vs   Salzburg"
+        },
+        {
             "channel": "HBO Max (uk only) [$/geo/R]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1089,6 +1281,22 @@
             "related_to": "     Crystal Palace   vs   Lech Poznan"
         },
         {
+            "channel": "Canal+ Foot HD",
+            "sat": "Astra 1P 19.2\u00b0e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Lech Poznan"
+        },
+        {
+            "channel": "Canal+ Live 2 France HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "12728 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Lech Poznan"
+        },
+        {
             "channel": "HBO Max (uk only) [$/geo/R]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1155,6 +1363,14 @@
             "related_to": "     Real Sociedad   vs   Bournemouth"
         },
         {
+            "channel": "ART Motion Sport 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
             "channel": "beIN Sports MENA 8 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 V 27500 - 2/3",
@@ -1171,6 +1387,14 @@
             "related_to": "     Real Sociedad   vs   Bournemouth"
         },
         {
+            "channel": "Canal+ Live 8 France HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "12090 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
             "channel": "HBO Max (uk only) [$/geo/R]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1183,6 +1407,14 @@
             "sat": "Hellas Sat 3 39.0\u00b0e",
             "freq": "12565 V 30000 - 7/8",
             "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
+            "channel": "SuperSport 4 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Real Sociedad   vs   Bournemouth"
         },
@@ -1241,6 +1473,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Celtic   vs   Ferencv\u00e1ros"
+        },
+        {
+            "channel": "Canal+ Live 4 France HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11934 V 29700 - 2/3",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Celtic   vs   Ferencv\u00e1ros"
         },
@@ -1327,6 +1567,14 @@
             "related_to": "     Juventus   vs   NEC Nijmegen"
         },
         {
+            "channel": "ART Motion Sport 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "     Juventus   vs   NEC Nijmegen"
+        },
+        {
             "channel": "beIN Sports MENA 1 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 H 27500 - 2/3",
@@ -1367,6 +1615,14 @@
             "related_to": "     Juventus   vs   NEC Nijmegen"
         },
         {
+            "channel": "Canal+ Live 5 France HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Juventus   vs   NEC Nijmegen"
+        },
+        {
             "channel": "HBO Max (uk only) [$/geo/R]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1379,6 +1635,14 @@
             "sat": "Hellas Sat 3 39.0\u00b0e",
             "freq": "12524 V 30000 - 7/8",
             "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Juventus   vs   NEC Nijmegen"
+        },
+        {
+            "channel": "SuperSport 2 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Juventus   vs   NEC Nijmegen"
         },
@@ -1465,11 +1729,51 @@
             "related_to": "     Besiktas   vs   Marseille"
         },
         {
+            "channel": "Canal+ France HD",
+            "sat": "Astra 1P 19.2\u00b0e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Besiktas   vs   Marseille"
+        },
+        {
+            "channel": "Canal+ France UHD HDR",
+            "sat": "Astra 1P 19.2\u00b0e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Besiktas   vs   Marseille"
+        },
+        {
+            "channel": "Canal+ Live 1 France HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Besiktas   vs   Marseille"
+        },
+        {
+            "channel": "GEM Sport 1 HD",
+            "sat": "Al Yah 1 52.5\u00b0e",
+            "freq": "12034 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Besiktas   vs   Marseille"
+        },
+        {
             "channel": "HBO Max (uk only) [$/geo/R]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.hbomax.com",
+            "related_to": "     Besiktas   vs   Marseille"
+        },
+        {
+            "channel": "Play RTS Sport (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.rts.ch/play/tv/categories/sport",
             "related_to": "     Besiktas   vs   Marseille"
         },
         {
@@ -1489,6 +1793,14 @@
             "related_to": "     Besiktas   vs   Marseille"
         },
         {
+            "channel": "RTK 1 Kosovo HD",
+            "sat": "Hellas Sat 4 39.0\u00b0e",
+            "freq": "10938 H 15835 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "https://www.rtklive.com/sq/livestream/rtk1/",
+            "related_to": "     Besiktas   vs   Marseille"
+        },
+        {
             "channel": "RTS 2 Suisse HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "10971 H 29700 - 2/3",
@@ -1497,11 +1809,27 @@
             "related_to": "     Besiktas   vs   Marseille"
         },
         {
+            "channel": "SRF Play (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.srf.ch/play/tv/sport-livestreams",
+            "related_to": "     Besiktas   vs   Marseille"
+        },
+        {
             "channel": "SRF Zwei Schweiz HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "10971 H 29700 - 2/3",
             "encry": "HD Panaccess",
             "link": "https://www.srf.ch/play/tv/live?tvLiveId=c49c1d64-9f60-0001-1c36-43c288c01a10",
+            "related_to": "     Besiktas   vs   Marseille"
+        },
+        {
+            "channel": "SuperSport 3 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
             "related_to": "     Besiktas   vs   Marseille"
         },
         {
@@ -1571,6 +1899,14 @@
             "related_to": "     Lillestr\u00f8m   vs   Torreense"
         },
         {
+            "channel": "Canal+ Live 6 France HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "12728 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Lillestr\u00f8m   vs   Torreense"
+        },
+        {
             "channel": "HBO Max (uk only) [$/geo/R]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1625,6 +1961,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
+            "link": "#",
+            "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
+        },
+        {
+            "channel": "Canal+ Live 7 France HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11934 V 29900 - 2/3",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
         },
