@@ -803,6 +803,14 @@
             "related_to": "     Al Ain   vs   Al Nassr"
         },
         {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Al Ain   vs   Al Nassr"
+        },
+        {
             "channel": "Spor Smart T\u00fcrkiye HD",
             "sat": "Turksat 4A 42.0\u00b0e",
             "freq": "12188 V 27500 - 5/6",
@@ -1037,40 +1045,6 @@
             "related_to": "     Al Hilal   vs   Al Gharafa"
         },
         {
-            "compet": "AFC Champions League 2 - Group Stage - 1",
-            "match": "     FC Seoul   vs   Persib Bandung",
-            "flags": {
-                "team1": "koreasouth",
-                "team2": "indonesia"
-            },
-            "time": "10:00",
-            "date": "2026-09-16"
-        },
-        {
-            "channel": "Astro Arena Bola 2 HD",
-            "sat": "Measat 3b 91.5\u00b0e",
-            "freq": "10892 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     FC Seoul   vs   Persib Bandung"
-        },
-        {
-            "channel": "Azam Sports 3 HD",
-            "sat": "Eutelsat 7C 7.0\u00b0e",
-            "freq": "10981 V 45000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     FC Seoul   vs   Persib Bandung"
-        },
-        {
-            "channel": "beIN Sports MENA 6 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     FC Seoul   vs   Persib Bandung"
-        },
-        {
             "compet": "AFC Champions League Elite - League Phase, Week 1",
             "match": "     Jeonbuk Motors   vs   Kashiwa Reysol",
             "flags": {
@@ -1105,12 +1079,62 @@
             "related_to": "     Jeonbuk Motors   vs   Kashiwa Reysol"
         },
         {
+            "channel": "Spor Smart T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "12188 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Jeonbuk Motors   vs   Kashiwa Reysol"
+        },
+        {
             "channel": "VOYO Pro TV Romania [$]",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "https://voyo.protv.ro/premier-league",
             "related_to": "     Jeonbuk Motors   vs   Kashiwa Reysol"
+        },
+        {
+            "compet": "AFC Champions League 2 - Group Stage - 1",
+            "match": "     FC Seoul   vs   Persib Bandung",
+            "flags": {
+                "team1": "koreasouth",
+                "team2": "indonesia"
+            },
+            "time": "10:00",
+            "date": "2026-09-16"
+        },
+        {
+            "channel": "Astro Arena Bola 2 HD",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10892 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     FC Seoul   vs   Persib Bandung"
+        },
+        {
+            "channel": "Azam Sports 3 HD",
+            "sat": "Eutelsat 7C 7.0\u00b0e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     FC Seoul   vs   Persib Bandung"
+        },
+        {
+            "channel": "beIN Sports MENA 6 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     FC Seoul   vs   Persib Bandung"
+        },
+        {
+            "channel": "Spor Smart 2 T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "12245 H 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     FC Seoul   vs   Persib Bandung"
         },
         {
             "compet": "AFC Champions League Elite - League Phase, Week 1",
@@ -1139,12 +1163,128 @@
             "related_to": "     Thai Port   vs   Vissel Kobe"
         },
         {
+            "channel": "Spor Smart T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "12188 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Thai Port   vs   Vissel Kobe"
+        },
+        {
             "channel": "ZBC Channel 2",
             "sat": "Eutelsat 7C 7.0\u00b0e",
             "freq": "11043 V 45000 - 5/6",
             "encry": "MPEG-4 Nagra",
             "link": "#",
             "related_to": "     Thai Port   vs   Vissel Kobe"
+        },
+        {
+            "compet": "AFC Champions League 2 - Group Stage - 1",
+            "match": "     Viettel   vs   Melbourne Victory",
+            "flags": {
+                "team1": "vietnam",
+                "team2": "australia"
+            },
+            "time": "12:15",
+            "date": "2026-09-16"
+        },
+        {
+            "channel": "Spor Smart 2 T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "12245 H 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Viettel   vs   Melbourne Victory"
+        },
+        {
+            "compet": "AFC Champions League 2 - Group Stage - 1",
+            "match": "     Al Khalidiya   vs   Nasaf Qarshi",
+            "flags": {
+                "team1": "bahrain",
+                "team2": "uzbekistan"
+            },
+            "time": "16:00",
+            "date": "2026-09-16"
+        },
+        {
+            "channel": "Spor Smart T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "12188 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Khalidiya   vs   Nasaf Qarshi"
+        },
+        {
+            "compet": "AFC Champions League 2 - Group Stage - 1",
+            "match": "     Al Nahda   vs   Al Taawoun",
+            "flags": {
+                "team1": "oman",
+                "team2": "saudiarabia"
+            },
+            "time": "16:00",
+            "date": "2026-09-16"
+        },
+        {
+            "channel": "Spor Smart 2 T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "12245 H 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Nahda   vs   Al Taawoun"
+        },
+        {
+            "compet": "AFC Champions League 2 - Group Stage - 1",
+            "match": "     Al Hussein   vs   East Bengal",
+            "flags": {
+                "team1": "jordan",
+                "team2": "india"
+            },
+            "time": "16:00",
+            "date": "2026-09-16"
+        },
+        {
+            "channel": "D Smart GO ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dsmartgo.com.tr/",
+            "related_to": "     Al Hussein   vs   East Bengal"
+        },
+        {
+            "compet": "AFC Champions League 2 - Group Stage - 1",
+            "match": "     Al Wahda   vs   Kuwait SC",
+            "flags": {
+                "team1": "uae",
+                "team2": "kuwait"
+            },
+            "time": "16:00",
+            "date": "2026-09-16"
+        },
+        {
+            "channel": "D Smart GO ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dsmartgo.com.tr/",
+            "related_to": "     Al Wahda   vs   Kuwait SC"
+        },
+        {
+            "compet": "AFC Champions League 2 - Group Stage - 1",
+            "match": "     Al Shorta   vs   Al Seeb",
+            "flags": {
+                "team1": "syria",
+                "team2": "oman"
+            },
+            "time": "18:15",
+            "date": "2026-09-16"
+        },
+        {
+            "channel": "Spor Smart 2 T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "12245 H 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Shorta   vs   Al Seeb"
         },
         {
             "compet": "AFC Champions League 2 - Group Stage - 1",
@@ -1160,6 +1300,14 @@
             "channel": "beIN Sports MENA 3 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Rayyan   vs   Al Faisaly"
+        },
+        {
+            "channel": "Spor Smart T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "12188 V 27500 - 5/6",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Al Rayyan   vs   Al Faisaly"
@@ -1191,6 +1339,50 @@
             "related_to": "     Adelaide United   vs   Tai Po"
         },
         {
+            "channel": "Spor Smart 2 T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "12245 H 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Adelaide United   vs   Tai Po"
+        },
+        {
+            "compet": "AFC Champions League 2 - Group Stage - 1",
+            "match": "     Home United   vs   Pathum United",
+            "flags": {
+                "team1": "singapore",
+                "team2": "thailand"
+            },
+            "time": "10:00",
+            "date": "2026-09-17"
+        },
+        {
+            "channel": "Spor Smart T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "12188 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Home United   vs   Pathum United"
+        },
+        {
+            "compet": "AFC Champions League 2 - Group Stage - 1",
+            "match": "     Machida Zelvia   vs   Svay Rieng",
+            "flags": {
+                "team1": "japan",
+                "team2": "cambodia"
+            },
+            "time": "10:00",
+            "date": "2026-09-17"
+        },
+        {
+            "channel": "D Smart GO ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dsmartgo.com.tr/",
+            "related_to": "     Machida Zelvia   vs   Svay Rieng"
+        },
+        {
             "compet": "AFC Champions League 2 - Group Stage - 1",
             "match": "     Phnom Penh Crown   vs   Kuching City",
             "flags": {
@@ -1206,6 +1398,14 @@
             "freq": "10810 V 27500 - 2/3",
             "encry": "HD VideoGuard",
             "link": "#",
+            "related_to": "     Phnom Penh Crown   vs   Kuching City"
+        },
+        {
+            "channel": "D Smart GO ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dsmartgo.com.tr/",
             "related_to": "     Phnom Penh Crown   vs   Kuching City"
         },
         {
@@ -1225,6 +1425,32 @@
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Shanghai Shenhua   vs   Tampines Rovers"
+        },
+        {
+            "channel": "Spor Smart T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "12188 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Shanghai Shenhua   vs   Tampines Rovers"
+        },
+        {
+            "compet": "AFC Champions League 2 - Group Stage - 1",
+            "match": "     Kitchee   vs   Gangwon",
+            "flags": {
+                "team1": "hongkong",
+                "team2": "koreasouth"
+            },
+            "time": "12:15",
+            "date": "2026-09-17"
+        },
+        {
+            "channel": "Spor Smart 2 T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "12245 H 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Kitchee   vs   Gangwon"
         }
     ]
 }
