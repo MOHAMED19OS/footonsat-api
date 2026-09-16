@@ -1,260 +1,14 @@
 {
     "footonsat": [
         {
-            "compet": "AFC Champions League Elite - League Phase, Week 1",
-            "match": "     Daejeon Citizen   vs   Kyoto Sanga",
+            "compet": "AFC Champions League 2 - Group Stage - 1",
+            "match": "     FC Seoul   vs   Persib Bandung",
             "flags": {
                 "team1": "koreasouth",
-                "team2": "japan"
+                "team2": "indonesia"
             },
             "time": "10:00",
-            "date": "2026-09-15"
-        },
-        {
-            "channel": "Astro Football HD",
-            "sat": "Measat 3b 91.5\u00b0e",
-            "freq": "10932 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Daejeon Citizen   vs   Kyoto Sanga"
-        },
-        {
-            "channel": "Azam Sports 4 HD",
-            "sat": "Eutelsat 7C 7.0\u00b0e",
-            "freq": "10981 V 45000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Daejeon Citizen   vs   Kyoto Sanga"
-        },
-        {
-            "channel": "beIN Sports MENA 4 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Daejeon Citizen   vs   Kyoto Sanga"
-        },
-        {
-            "channel": "D Smart GO ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.dsmartgo.com.tr/",
-            "related_to": "     Daejeon Citizen   vs   Kyoto Sanga"
-        },
-        {
-            "channel": "Diema Sport 2 HD",
-            "sat": "Hellas Sat 3 39.0\u00b0e",
-            "freq": "12156 H 30000 - 5/6",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Daejeon Citizen   vs   Kyoto Sanga"
-        },
-        {
-            "channel": "Sport 1 Ukraine",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Daejeon Citizen   vs   Kyoto Sanga"
-        },
-        {
-            "channel": "SportKlub 2 Slovenija",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11387 H 32000 - 3/4",
-            "encry": "MPEG-4 Irdeto",
-            "link": "#",
-            "related_to": "     Daejeon Citizen   vs   Kyoto Sanga"
-        },
-        {
-            "channel": "SportKlub 3 Hrvatska",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11387 H 30000  -3/4",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Daejeon Citizen   vs   Kyoto Sanga"
-        },
-        {
-            "channel": "TV Start Triumph HD",
-            "sat": "Eutelsat 36C 35.9\u00b0e",
-            "freq": "11996 L 27500 - 3/4",
-            "encry": "HD DRE-Crypt",
-            "link": "#",
-            "related_to": "     Daejeon Citizen   vs   Kyoto Sanga"
-        },
-        {
-            "channel": "YouTube: The AFC Hub",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "     Daejeon Citizen   vs   Kyoto Sanga"
-        },
-        {
-            "compet": "AFC Champions League Elite - League Phase, Week 1",
-            "match": "     Gamba Osaka   vs   C\u00f4ng An H\u00e0 N\u00f4i",
-            "flags": {
-                "team1": "japan",
-                "team2": "vietnam"
-            },
-            "time": "10:00",
-            "date": "2026-09-15"
-        },
-        {
-            "channel": "Astro Grandstand HD",
-            "sat": "Measat 3b 91.5\u00b0e",
-            "freq": "10932 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Gamba Osaka   vs   C\u00f4ng An H\u00e0 N\u00f4i"
-        },
-        {
-            "channel": "Azam Sports 2 HD",
-            "sat": "Eutelsat 7C 7.0\u00b0e",
-            "freq": "10981 V 45000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Gamba Osaka   vs   C\u00f4ng An H\u00e0 N\u00f4i"
-        },
-        {
-            "channel": "beIN Sports MENA 3 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Gamba Osaka   vs   C\u00f4ng An H\u00e0 N\u00f4i"
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "sat": "AzerSpace 2 45.0\u00b0e",
-            "freq": "12600 V 30000 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Gamba Osaka   vs   C\u00f4ng An H\u00e0 N\u00f4i"
-        },
-        {
-            "channel": "Q Sport Football HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Gamba Osaka   vs   C\u00f4ng An H\u00e0 N\u00f4i"
-        },
-        {
-            "channel": "Spor Smart T\u00fcrkiye HD",
-            "sat": "Turksat 4A 42.0\u00b0e",
-            "freq": "12188 V 27500 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Gamba Osaka   vs   C\u00f4ng An H\u00e0 N\u00f4i"
-        },
-        {
-            "channel": "Sport 1 Baltic",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Gamba Osaka   vs   C\u00f4ng An H\u00e0 N\u00f4i"
-        },
-        {
-            "channel": "SportKlub 2 Hrvatska",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11678 V 30000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Gamba Osaka   vs   C\u00f4ng An H\u00e0 N\u00f4i"
-        },
-        {
-            "channel": "SportKlub 3 Slovenija",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11231 V 42000 - 5/6",
-            "encry": "MPEG-4 Irdeto",
-            "link": "#",
-            "related_to": "     Gamba Osaka   vs   C\u00f4ng An H\u00e0 N\u00f4i"
-        },
-        {
-            "channel": "TV Start Russia HD",
-            "sat": "ABS 2A 75.0\u00b0e",
-            "freq": "11605 V 43200 - 7/8",
-            "encry": "MPEG-4 DreCrypt",
-            "link": "#",
-            "related_to": "     Gamba Osaka   vs   C\u00f4ng An H\u00e0 N\u00f4i"
-        },
-        {
-            "channel": "YouTube: The AFC Hub",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "     Gamba Osaka   vs   C\u00f4ng An H\u00e0 N\u00f4i"
-        },
-        {
-            "compet": "AFC Champions League Elite - League Phase, Week 1",
-            "match": "     Ratchaburi   vs   Shanghai Port",
-            "flags": {
-                "team1": "thailand",
-                "team2": "china"
-            },
-            "time": "10:00",
-            "date": "2026-09-15"
-        },
-        {
-            "channel": "Astro Stadium HD",
-            "sat": "Measat 3b 91.5\u00b0e",
-            "freq": "10852 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Ratchaburi   vs   Shanghai Port"
-        },
-        {
-            "channel": "beIN Sports MENA 5 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Ratchaburi   vs   Shanghai Port"
-        },
-        {
-            "channel": "D Smart GO ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.dsmartgo.com.tr/",
-            "related_to": "     Ratchaburi   vs   Shanghai Port"
-        },
-        {
-            "channel": "SportKlub 4 Hrvatska",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Ratchaburi   vs   Shanghai Port"
-        },
-        {
-            "channel": "SportKlub 4 Slovenija",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Ratchaburi   vs   Shanghai Port"
-        },
-        {
-            "channel": "YouTube: The AFC Hub",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "     Ratchaburi   vs   Shanghai Port"
-        },
-        {
-            "compet": "AFC Champions League Elite - League Phase, Week 1",
-            "match": "     Kashima Antlers   vs   Newcastle Jets",
-            "flags": {
-                "team1": "japan",
-                "team2": "australia"
-            },
-            "time": "10:00",
-            "date": "2026-09-15"
+            "date": "2026-09-16"
         },
         {
             "channel": "Astro Arena Bola 2 HD",
@@ -262,7 +16,7 @@
             "freq": "10892 V 30000 - 5/6",
             "encry": "HD VideoGuard",
             "link": "#",
-            "related_to": "     Kashima Antlers   vs   Newcastle Jets"
+            "related_to": "     FC Seoul   vs   Persib Bandung"
         },
         {
             "channel": "Azam Sports 3 HD",
@@ -270,325 +24,15 @@
             "freq": "10981 V 45000 - 5/6",
             "encry": "HD NagraVision",
             "link": "#",
-            "related_to": "     Kashima Antlers   vs   Newcastle Jets"
+            "related_to": "     FC Seoul   vs   Persib Bandung"
         },
         {
-            "channel": "beIN Sports MENA 2 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Kashima Antlers   vs   Newcastle Jets"
-        },
-        {
-            "channel": "beIN Sports MENA English 2 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "11390 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Kashima Antlers   vs   Newcastle Jets"
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "AzerSpace 2 45.0\u00b0e",
-            "freq": "12520 V 30000 - 5/6",
-            "encry": "MPEG-4 NDS",
-            "link": "#",
-            "related_to": "     Kashima Antlers   vs   Newcastle Jets"
-        },
-        {
-            "channel": "Spor Smart 2 T\u00fcrkiye HD",
-            "sat": "Turksat 4A 42.0\u00b0e",
-            "freq": "12245 H 27500 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Kashima Antlers   vs   Newcastle Jets"
-        },
-        {
-            "channel": "Sport 2 Baltic",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Kashima Antlers   vs   Newcastle Jets"
-        },
-        {
-            "channel": "Sport 2 Ukraine",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Kashima Antlers   vs   Newcastle Jets"
-        },
-        {
-            "channel": "Sportdigital 1+ Deutsch HD",
-            "sat": "Astra 1L 19.2\u00b0e",
-            "freq": "11186 V 22000 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Kashima Antlers   vs   Newcastle Jets"
-        },
-        {
-            "channel": "SportKlub 1 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11471 H 30000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Kashima Antlers   vs   Newcastle Jets"
-        },
-        {
-            "channel": "SportKlub 1 Slovenija HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11471 H 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Kashima Antlers   vs   Newcastle Jets"
-        },
-        {
-            "channel": "YouTube: The AFC Hub",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "     Kashima Antlers   vs   Newcastle Jets"
-        },
-        {
-            "compet": "AFC Champions League Elite - League Phase, Week 1",
-            "match": "     Beijing Guoan   vs   Pohang Steelers",
-            "flags": {
-                "team1": "china",
-                "team2": "koreas"
-            },
-            "time": "12:15",
-            "date": "2026-09-15"
-        },
-        {
-            "channel": "Astro Arena Bola 2 HD",
-            "sat": "Measat 3b 91.5\u00b0e",
-            "freq": "10892 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Beijing Guoan   vs   Pohang Steelers"
-        },
-        {
-            "channel": "Azam Sports 3 HD",
-            "sat": "Eutelsat 7C 7.0\u00b0e",
-            "freq": "10981 V 45000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Beijing Guoan   vs   Pohang Steelers"
-        },
-        {
-            "channel": "beIN Sports MENA 4 HD",
+            "channel": "beIN Sports MENA 6 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 V 27500 - 2/3",
             "encry": "HD VideoGuard",
             "link": "#",
-            "related_to": "     Beijing Guoan   vs   Pohang Steelers"
-        },
-        {
-            "channel": "beIN Sports MENA English 2 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "11390 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Beijing Guoan   vs   Pohang Steelers"
-        },
-        {
-            "channel": "Spor Smart 2 T\u00fcrkiye HD",
-            "sat": "Turksat 4A 42.0\u00b0e",
-            "freq": "12245 H 27500 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Beijing Guoan   vs   Pohang Steelers"
-        },
-        {
-            "channel": "Sport 1 Baltic",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Beijing Guoan   vs   Pohang Steelers"
-        },
-        {
-            "channel": "Sport 1 Ukraine",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Beijing Guoan   vs   Pohang Steelers"
-        },
-        {
-            "channel": "SportKlub 1 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11471 H 30000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Beijing Guoan   vs   Pohang Steelers"
-        },
-        {
-            "channel": "SportKlub 2 Slovenija",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11387 H 32000 - 3/4",
-            "encry": "MPEG-4 Irdeto",
-            "link": "#",
-            "related_to": "     Beijing Guoan   vs   Pohang Steelers"
-        },
-        {
-            "channel": "TV Start Russia HD",
-            "sat": "ABS 2A 75.0\u00b0e",
-            "freq": "11605 V 43200 - 7/8",
-            "encry": "MPEG-4 DreCrypt",
-            "link": "#",
-            "related_to": "     Beijing Guoan   vs   Pohang Steelers"
-        },
-        {
-            "channel": "YouTube: The AFC Hub",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "     Beijing Guoan   vs   Pohang Steelers"
-        },
-        {
-            "compet": "AFC Champions League Elite - League Phase, Week 1",
-            "match": "     Johor Darul Ta'zim   vs   Buriram United",
-            "flags": {
-                "team1": "malaysia",
-                "team2": "thailand"
-            },
-            "time": "12:15",
-            "date": "2026-09-15"
-        },
-        {
-            "channel": "Astro Arena Bola HD",
-            "sat": "Measat 3b 91.5\u00b0e",
-            "freq": "10772 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Johor Darul Ta'zim   vs   Buriram United"
-        },
-        {
-            "channel": "Azam Sports 2 HD",
-            "sat": "Eutelsat 7C 7.0\u00b0e",
-            "freq": "10981 V 45000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Johor Darul Ta'zim   vs   Buriram United"
-        },
-        {
-            "channel": "beIN Sports MENA 1 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Johor Darul Ta'zim   vs   Buriram United"
-        },
-        {
-            "channel": "D Smart GO ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.dsmartgo.com.tr/",
-            "related_to": "     Johor Darul Ta'zim   vs   Buriram United"
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "AzerSpace 2 45.0\u00b0e",
-            "freq": "12520 V 30000 - 5/6",
-            "encry": "MPEG-4 NDS",
-            "link": "#",
-            "related_to": "     Johor Darul Ta'zim   vs   Buriram United"
-        },
-        {
-            "channel": "Q Sport Football HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Johor Darul Ta'zim   vs   Buriram United"
-        },
-        {
-            "channel": "Sport 2 Baltic",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Johor Darul Ta'zim   vs   Buriram United"
-        },
-        {
-            "channel": "Sport 2 Ukraine",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Johor Darul Ta'zim   vs   Buriram United"
-        },
-        {
-            "channel": "SportKlub 1 Slovenija HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11471 H 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Johor Darul Ta'zim   vs   Buriram United"
-        },
-        {
-            "channel": "SportKlub 2 Hrvatska",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11678 V 30000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Johor Darul Ta'zim   vs   Buriram United"
-        },
-        {
-            "channel": "TV Start Triumph HD",
-            "sat": "Eutelsat 36C 35.9\u00b0e",
-            "freq": "11996 L 27500 - 3/4",
-            "encry": "HD DRE-Crypt",
-            "link": "#",
-            "related_to": "     Johor Darul Ta'zim   vs   Buriram United"
-        },
-        {
-            "channel": "YouTube: The AFC Hub",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "     Johor Darul Ta'zim   vs   Buriram United"
-        },
-        {
-            "compet": "AFC Champions League 2 - Group Stage - 1",
-            "match": "     Arkadag   vs   Muharraq",
-            "flags": {
-                "team1": "turkmenistan",
-                "team2": "bahrain"
-            },
-            "time": "13:45",
-            "date": "2026-09-15"
-        },
-        {
-            "channel": "Al Kass 7 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10770 H 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Arkadag   vs   Muharraq"
-        },
-        {
-            "channel": "beIN Sports MENA 3 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Arkadag   vs   Muharraq"
-        },
-        {
-            "channel": "D Smart GO ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.dsmartgo.com.tr/",
-            "related_to": "     Arkadag   vs   Muharraq"
+            "related_to": "     FC Seoul   vs   Persib Bandung"
         },
         {
             "channel": "Nova Sport Bulgaria HD",
@@ -596,23 +40,47 @@
             "freq": "12600 V 30000 - 5/6",
             "encry": "HD Irdeto",
             "link": "#",
-            "related_to": "     Arkadag   vs   Muharraq"
+            "related_to": "     FC Seoul   vs   Persib Bandung"
         },
         {
-            "channel": "SportKlub 4 Hrvatska",
+            "channel": "Spor Smart 2 T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "12245 H 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     FC Seoul   vs   Persib Bandung"
+        },
+        {
+            "channel": "Sport 2 Baltic",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "#",
-            "related_to": "     Arkadag   vs   Muharraq"
+            "related_to": "     FC Seoul   vs   Persib Bandung"
         },
         {
-            "channel": "SportKlub 4 Slovenija",
+            "channel": "Sport 2 Ukraine",
             "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
+            "freq": "0000 0",
             "encry": "",
             "link": "#",
-            "related_to": "     Arkadag   vs   Muharraq"
+            "related_to": "     FC Seoul   vs   Persib Bandung"
+        },
+        {
+            "channel": "SportKlub 2 Hrvatska",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11678 V 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     FC Seoul   vs   Persib Bandung"
+        },
+        {
+            "channel": "SportKlub 2 Slovenija",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11387 H 32000 - 3/4",
+            "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     FC Seoul   vs   Persib Bandung"
         },
         {
             "channel": "TV Start Triumph HD",
@@ -620,429 +88,7 @@
             "freq": "11996 L 27500 - 3/4",
             "encry": "HD DRE-Crypt",
             "link": "#",
-            "related_to": "     Arkadag   vs   Muharraq"
-        },
-        {
-            "channel": "YouTube: The AFC Hub",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "     Arkadag   vs   Muharraq"
-        },
-        {
-            "compet": "AFC Champions League 2 - Group Stage - 1",
-            "match": "     Gol Gohar   vs   Al Jazira",
-            "flags": {
-                "team1": "iran",
-                "team2": "uae"
-            },
-            "time": "13:45",
-            "date": "2026-09-15"
-        },
-        {
-            "channel": "Al Kass 6 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10770 H 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Gol Gohar   vs   Al Jazira"
-        },
-        {
-            "channel": "beIN Sports MENA 2 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Gol Gohar   vs   Al Jazira"
-        },
-        {
-            "channel": "IRIB Varzesh HD",
-            "sat": "Intelsat 39 62.0\u00b0e",
-            "freq": "11555 V 30000 - 2/3",
-            "encry": "HD BISS",
-            "link": "#",
-            "related_to": "     Gol Gohar   vs   Al Jazira"
-        },
-        {
-            "channel": "Persiana Sport HD",
-            "sat": "MonacoSat 52.0\u00b0e",
-            "freq": "10762 V 27500 - 2/3",
-            "encry": "FTA",
-            "link": "#",
-            "related_to": "     Gol Gohar   vs   Al Jazira"
-        },
-        {
-            "channel": "Spor Smart T\u00fcrkiye HD",
-            "sat": "Turksat 4A 42.0\u00b0e",
-            "freq": "12188 V 27500 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Gol Gohar   vs   Al Jazira"
-        },
-        {
-            "channel": "SportKlub 3 Hrvatska",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11387 H 30000  -3/4",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Gol Gohar   vs   Al Jazira"
-        },
-        {
-            "channel": "SportKlub 3 Slovenija",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11231 V 42000 - 5/6",
-            "encry": "MPEG-4 Irdeto",
-            "link": "#",
-            "related_to": "     Gol Gohar   vs   Al Jazira"
-        },
-        {
-            "channel": "YouTube: The AFC Hub",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "     Gol Gohar   vs   Al Jazira"
-        },
-        {
-            "compet": "AFC Champions League Elite - League Phase, Week 1",
-            "match": "     Al Ain   vs   Al Nassr",
-            "flags": {
-                "team1": "uae",
-                "team2": "saudiarabia"
-            },
-            "time": "16:00",
-            "date": "2026-09-15"
-        },
-        {
-            "channel": "Al Kass 5 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10770 H 27500 - 3/4",
-            "encry": "FTA",
-            "link": "http://www.alkass.net/alkass/live.aspx?ch=five",
-            "related_to": "     Al Ain   vs   Al Nassr"
-        },
-        {
-            "channel": "beIN Sports MENA 1 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Al Ain   vs   Al Nassr"
-        },
-        {
-            "channel": "beIN Sports MENA English 1 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10850 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Al Ain   vs   Al Nassr"
-        },
-        {
-            "channel": "Canal 11 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12437 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Al Ain   vs   Al Nassr"
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "AzerSpace 2 45.0\u00b0e",
-            "freq": "12520 V 30000 - 5/6",
-            "encry": "MPEG-4 NDS",
-            "link": "#",
-            "related_to": "     Al Ain   vs   Al Nassr"
-        },
-        {
-            "channel": "ESPN 1 Nederland HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "11739 V 29900 - 3/4",
-            "encry": "HD Mediaguard",
-            "link": "#",
-            "related_to": "     Al Ain   vs   Al Nassr"
-        },
-        {
-            "channel": "ESPN 4 Brazil HD",
-            "sat": "SES 6 40.5\u00b0w",
-            "freq": "3980 L 21600 - 5/6",
-            "encry": "HD PowerVu",
-            "link": "#",
-            "related_to": "     Al Ain   vs   Al Nassr"
-        },
-        {
-            "channel": "Futbol TV Uzbekistan",
-            "sat": "NSS 12 57.0\u00b0e",
-            "freq": "11610 H 20200 - 3/4",
-            "encry": "MPEG-4 Verimatrix",
-            "link": "#",
-            "related_to": "     Al Ain   vs   Al Nassr"
-        },
-        {
-            "channel": "IRIB Varzesh HD",
-            "sat": "Intelsat 39 62.0\u00b0e",
-            "freq": "11555 V 30000 - 2/3",
-            "encry": "HD BISS",
-            "link": "#",
-            "related_to": "     Al Ain   vs   Al Nassr"
-        },
-        {
-            "channel": "Persiana Sports 2 HD",
-            "sat": "MonacoSat 52.0\u00b0e",
-            "freq": "10804 H 27500 - 2/3",
-            "encry": "FTA",
-            "link": "https://pokertvfa.live/",
-            "related_to": "     Al Ain   vs   Al Nassr"
-        },
-        {
-            "channel": "Q Sport Football HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Al Ain   vs   Al Nassr"
-        },
-        {
-            "channel": "Solh TV",
-            "sat": "MonacoSat 52.0\u00b0e",
-            "freq": "10845 V 27500 - 2/3",
-            "encry": "FTA",
-            "link": "#",
-            "related_to": "     Al Ain   vs   Al Nassr"
-        },
-        {
-            "channel": "Spor Smart T\u00fcrkiye HD",
-            "sat": "Turksat 4A 42.0\u00b0e",
-            "freq": "12188 V 27500 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Al Ain   vs   Al Nassr"
-        },
-        {
-            "channel": "Sport 2 Baltic",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Al Ain   vs   Al Nassr"
-        },
-        {
-            "channel": "Sport 2 Ukraine",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Al Ain   vs   Al Nassr"
-        },
-        {
-            "channel": "Sport 6 Israel HD",
-            "sat": "Dror 1 4.0\u00b0w",
-            "freq": "11259 V 30000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Al Ain   vs   Al Nassr"
-        },
-        {
-            "channel": "Sportdigital 1+ Deutsch HD",
-            "sat": "Astra 1L 19.2\u00b0e",
-            "freq": "11186 V 22000 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Al Ain   vs   Al Nassr"
-        },
-        {
-            "channel": "SportKlub 3 Hrvatska",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11387 H 30000  -3/4",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Al Ain   vs   Al Nassr"
-        },
-        {
-            "channel": "SportKlub 3 Slovenija",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11231 V 42000 - 5/6",
-            "encry": "MPEG-4 Irdeto",
-            "link": "#",
-            "related_to": "     Al Ain   vs   Al Nassr"
-        },
-        {
-            "channel": "Sporty TV Africa",
-            "sat": "Astra 2F 28.2\u00b0e",
-            "freq": "12605 V 30000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Al Ain   vs   Al Nassr"
-        },
-        {
-            "channel": "TV Start Russia HD",
-            "sat": "ABS 2A 75.0\u00b0e",
-            "freq": "11605 V 43200 - 7/8",
-            "encry": "MPEG-4 DreCrypt",
-            "link": "#",
-            "related_to": "     Al Ain   vs   Al Nassr"
-        },
-        {
-            "channel": "VOYO Pro TV Romania [$]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://voyo.protv.ro/premier-league",
-            "related_to": "     Al Ain   vs   Al Nassr"
-        },
-        {
-            "channel": "YouTube: The AFC Hub",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "     Al Ain   vs   Al Nassr"
-        },
-        {
-            "compet": "AFC Champions League Elite - League Phase, Week 1",
-            "match": "     Al Hilal   vs   Al Gharafa",
-            "flags": {
-                "team1": "saudiarabia",
-                "team2": "qatar"
-            },
-            "time": "18:15",
-            "date": "2026-09-15"
-        },
-        {
-            "channel": "Al Kass 5 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10770 H 27500 - 3/4",
-            "encry": "FTA",
-            "link": "http://www.alkass.net/alkass/live.aspx?ch=five",
-            "related_to": "     Al Hilal   vs   Al Gharafa"
-        },
-        {
-            "channel": "Astro Grandstand HD",
-            "sat": "Measat 3b 91.5\u00b0e",
-            "freq": "10932 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Al Hilal   vs   Al Gharafa"
-        },
-        {
-            "channel": "beIN Sports MENA 1 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Al Hilal   vs   Al Gharafa"
-        },
-        {
-            "channel": "beIN Sports MENA English 2 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "11390 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Al Hilal   vs   Al Gharafa"
-        },
-        {
-            "channel": "Canal 11 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12437 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Al Hilal   vs   Al Gharafa"
-        },
-        {
-            "channel": "ESPN 1 Nederland HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "11739 V 29900 - 3/4",
-            "encry": "HD Mediaguard",
-            "link": "#",
-            "related_to": "     Al Hilal   vs   Al Gharafa"
-        },
-        {
-            "channel": "ESPN 2 Brazil HD",
-            "sat": "SES 6 40.5\u00b0w",
-            "freq": "3980 L 21600 - 3/4",
-            "encry": "HD PowerVu",
-            "link": "#",
-            "related_to": "     Al Hilal   vs   Al Gharafa"
-        },
-        {
-            "channel": "Q Sport Football HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Al Hilal   vs   Al Gharafa"
-        },
-        {
-            "channel": "Spor Smart T\u00fcrkiye HD",
-            "sat": "Turksat 4A 42.0\u00b0e",
-            "freq": "12188 V 27500 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Al Hilal   vs   Al Gharafa"
-        },
-        {
-            "channel": "Sport 2 Baltic",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Al Hilal   vs   Al Gharafa"
-        },
-        {
-            "channel": "Sport 2 Ukraine",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Al Hilal   vs   Al Gharafa"
-        },
-        {
-            "channel": "SportKlub 3 Hrvatska",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11387 H 30000  -3/4",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Al Hilal   vs   Al Gharafa"
-        },
-        {
-            "channel": "SportKlub 3 Slovenija",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11231 V 42000 - 5/6",
-            "encry": "MPEG-4 Irdeto",
-            "link": "#",
-            "related_to": "     Al Hilal   vs   Al Gharafa"
-        },
-        {
-            "channel": "Sporty TV Africa",
-            "sat": "Astra 2F 28.2\u00b0e",
-            "freq": "12605 V 30000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Al Hilal   vs   Al Gharafa"
-        },
-        {
-            "channel": "TV Start Russia HD",
-            "sat": "ABS 2A 75.0\u00b0e",
-            "freq": "11605 V 43200 - 7/8",
-            "encry": "MPEG-4 DreCrypt",
-            "link": "#",
-            "related_to": "     Al Hilal   vs   Al Gharafa"
-        },
-        {
-            "channel": "VOYO Pro TV Romania [$]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://voyo.protv.ro/premier-league",
-            "related_to": "     Al Hilal   vs   Al Gharafa"
-        },
-        {
-            "channel": "YouTube: The AFC Hub",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "     Al Hilal   vs   Al Gharafa"
+            "related_to": "     FC Seoul   vs   Persib Bandung"
         },
         {
             "compet": "AFC Champions League Elite - League Phase, Week 1",
@@ -1079,10 +125,66 @@
             "related_to": "     Jeonbuk Motors   vs   Kashiwa Reysol"
         },
         {
+            "channel": "Diema Sport 3 HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Jeonbuk Motors   vs   Kashiwa Reysol"
+        },
+        {
+            "channel": "FanCode India ($/geo/R)",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.fancode.com/rugby/schedule/upcoming",
+            "related_to": "     Jeonbuk Motors   vs   Kashiwa Reysol"
+        },
+        {
             "channel": "Spor Smart T\u00fcrkiye HD",
             "sat": "Turksat 4A 42.0\u00b0e",
             "freq": "12188 V 27500 - 5/6",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Jeonbuk Motors   vs   Kashiwa Reysol"
+        },
+        {
+            "channel": "Sport 1 Baltic",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Jeonbuk Motors   vs   Kashiwa Reysol"
+        },
+        {
+            "channel": "Sport 1 Ukraine",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Jeonbuk Motors   vs   Kashiwa Reysol"
+        },
+        {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Jeonbuk Motors   vs   Kashiwa Reysol"
+        },
+        {
+            "channel": "SportKlub 1 Slovenija HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Jeonbuk Motors   vs   Kashiwa Reysol"
+        },
+        {
+            "channel": "TV Start Russia HD",
+            "sat": "ABS 2A 75.0\u00b0e",
+            "freq": "11605 V 43200 - 7/8",
+            "encry": "MPEG-4 DreCrypt",
             "link": "#",
             "related_to": "     Jeonbuk Motors   vs   Kashiwa Reysol"
         },
@@ -1093,48 +195,6 @@
             "encry": "",
             "link": "https://voyo.protv.ro/premier-league",
             "related_to": "     Jeonbuk Motors   vs   Kashiwa Reysol"
-        },
-        {
-            "compet": "AFC Champions League 2 - Group Stage - 1",
-            "match": "     FC Seoul   vs   Persib Bandung",
-            "flags": {
-                "team1": "koreasouth",
-                "team2": "indonesia"
-            },
-            "time": "10:00",
-            "date": "2026-09-16"
-        },
-        {
-            "channel": "Astro Arena Bola 2 HD",
-            "sat": "Measat 3b 91.5\u00b0e",
-            "freq": "10892 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     FC Seoul   vs   Persib Bandung"
-        },
-        {
-            "channel": "Azam Sports 3 HD",
-            "sat": "Eutelsat 7C 7.0\u00b0e",
-            "freq": "10981 V 45000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     FC Seoul   vs   Persib Bandung"
-        },
-        {
-            "channel": "beIN Sports MENA 6 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     FC Seoul   vs   Persib Bandung"
-        },
-        {
-            "channel": "Spor Smart 2 T\u00fcrkiye HD",
-            "sat": "Turksat 4A 42.0\u00b0e",
-            "freq": "12245 H 27500 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     FC Seoul   vs   Persib Bandung"
         },
         {
             "compet": "AFC Champions League Elite - League Phase, Week 1",
@@ -1163,10 +223,58 @@
             "related_to": "     Thai Port   vs   Vissel Kobe"
         },
         {
+            "channel": "Diema Sport 3 HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Thai Port   vs   Vissel Kobe"
+        },
+        {
             "channel": "Spor Smart T\u00fcrkiye HD",
             "sat": "Turksat 4A 42.0\u00b0e",
             "freq": "12188 V 27500 - 5/6",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Thai Port   vs   Vissel Kobe"
+        },
+        {
+            "channel": "Sport 1 Baltic",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Thai Port   vs   Vissel Kobe"
+        },
+        {
+            "channel": "Sport 1 Ukraine",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Thai Port   vs   Vissel Kobe"
+        },
+        {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Thai Port   vs   Vissel Kobe"
+        },
+        {
+            "channel": "SportKlub 1 Slovenija HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Thai Port   vs   Vissel Kobe"
+        },
+        {
+            "channel": "TV Start Russia HD",
+            "sat": "ABS 2A 75.0\u00b0e",
+            "freq": "11605 V 43200 - 7/8",
+            "encry": "MPEG-4 DreCrypt",
             "link": "#",
             "related_to": "     Thai Port   vs   Vissel Kobe"
         },
@@ -1189,6 +297,22 @@
             "date": "2026-09-16"
         },
         {
+            "channel": "beIN Sports MENA 2 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Viettel   vs   Melbourne Victory"
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12600 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Viettel   vs   Melbourne Victory"
+        },
+        {
             "channel": "Spor Smart 2 T\u00fcrkiye HD",
             "sat": "Turksat 4A 42.0\u00b0e",
             "freq": "12245 H 27500 - 5/6",
@@ -1197,40 +321,52 @@
             "related_to": "     Viettel   vs   Melbourne Victory"
         },
         {
-            "compet": "AFC Champions League 2 - Group Stage - 1",
-            "match": "     Al Khalidiya   vs   Nasaf Qarshi",
-            "flags": {
-                "team1": "bahrain",
-                "team2": "uzbekistan"
-            },
-            "time": "16:00",
-            "date": "2026-09-16"
-        },
-        {
-            "channel": "Spor Smart T\u00fcrkiye HD",
-            "sat": "Turksat 4A 42.0\u00b0e",
-            "freq": "12188 V 27500 - 5/6",
-            "encry": "HD VideoGuard",
+            "channel": "Sport 2 Baltic",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
-            "related_to": "     Al Khalidiya   vs   Nasaf Qarshi"
+            "related_to": "     Viettel   vs   Melbourne Victory"
         },
         {
-            "compet": "AFC Champions League 2 - Group Stage - 1",
-            "match": "     Al Nahda   vs   Al Taawoun",
-            "flags": {
-                "team1": "oman",
-                "team2": "saudiarabia"
-            },
-            "time": "16:00",
-            "date": "2026-09-16"
-        },
-        {
-            "channel": "Spor Smart 2 T\u00fcrkiye HD",
-            "sat": "Turksat 4A 42.0\u00b0e",
-            "freq": "12245 H 27500 - 5/6",
-            "encry": "HD VideoGuard",
+            "channel": "Sport 2 Ukraine",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
-            "related_to": "     Al Nahda   vs   Al Taawoun"
+            "related_to": "     Viettel   vs   Melbourne Victory"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL 2",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Viettel   vs   Melbourne Victory"
+        },
+        {
+            "channel": "SportKlub 2 Hrvatska",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11678 V 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Viettel   vs   Melbourne Victory"
+        },
+        {
+            "channel": "SportKlub 2 Slovenija",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11387 H 32000 - 3/4",
+            "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Viettel   vs   Melbourne Victory"
+        },
+        {
+            "channel": "TV Start Triumph HD",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "11996 L 27500 - 3/4",
+            "encry": "HD DRE-Crypt",
+            "link": "#",
+            "related_to": "     Viettel   vs   Melbourne Victory"
         },
         {
             "compet": "AFC Champions League 2 - Group Stage - 1",
@@ -1243,12 +379,94 @@
             "date": "2026-09-16"
         },
         {
+            "channel": "Al Kass 8 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10770 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Al Hussein   vs   East Bengal"
+        },
+        {
+            "channel": "beIN Sports MENA 6 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Hussein   vs   East Bengal"
+        },
+        {
             "channel": "D Smart GO ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.dsmartgo.com.tr/",
             "related_to": "     Al Hussein   vs   East Bengal"
+        },
+        {
+            "compet": "AFC Champions League 2 - Group Stage - 1",
+            "match": "     Al Nahda   vs   Al Taawoun",
+            "flags": {
+                "team1": "oman",
+                "team2": "saudiarabia"
+            },
+            "time": "16:00",
+            "date": "2026-09-16"
+        },
+        {
+            "channel": "Al Kass 6 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10770 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Al Nahda   vs   Al Taawoun"
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Nahda   vs   Al Taawoun"
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12600 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Al Nahda   vs   Al Taawoun"
+        },
+        {
+            "channel": "Spor Smart 2 T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "12245 H 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Nahda   vs   Al Taawoun"
+        },
+        {
+            "channel": "Sport 1 Baltic",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Nahda   vs   Al Taawoun"
+        },
+        {
+            "channel": "SportKlub 3 Slovenija",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11231 V 42000 - 5/6",
+            "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Al Nahda   vs   Al Taawoun"
+        },
+        {
+            "channel": "SportKlub 6 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Nahda   vs   Al Taawoun"
         },
         {
             "compet": "AFC Champions League 2 - Group Stage - 1",
@@ -1261,6 +479,22 @@
             "date": "2026-09-16"
         },
         {
+            "channel": "Al Kass 5 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10770 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "http://www.alkass.net/alkass/live.aspx?ch=five",
+            "related_to": "     Al Wahda   vs   Kuwait SC"
+        },
+        {
+            "channel": "beIN Sports MENA 3 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Wahda   vs   Kuwait SC"
+        },
+        {
             "channel": "D Smart GO ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -1269,22 +503,94 @@
             "related_to": "     Al Wahda   vs   Kuwait SC"
         },
         {
+            "channel": "Sport 2 Baltic",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Wahda   vs   Kuwait SC"
+        },
+        {
+            "channel": "Sport 2 Ukraine",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Wahda   vs   Kuwait SC"
+        },
+        {
+            "channel": "SportKlub 8 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Wahda   vs   Kuwait SC"
+        },
+        {
             "compet": "AFC Champions League 2 - Group Stage - 1",
-            "match": "     Al Shorta   vs   Al Seeb",
+            "match": "     Al Khalidiya   vs   Nasaf Qarshi",
             "flags": {
-                "team1": "syria",
-                "team2": "oman"
+                "team1": "bahrain",
+                "team2": "uzbekistan"
             },
-            "time": "18:15",
+            "time": "16:00",
             "date": "2026-09-16"
         },
         {
-            "channel": "Spor Smart 2 T\u00fcrkiye HD",
-            "sat": "Turksat 4A 42.0\u00b0e",
-            "freq": "12245 H 27500 - 5/6",
+            "channel": "Al Kass 7 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10770 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Al Khalidiya   vs   Nasaf Qarshi"
+        },
+        {
+            "channel": "beIN Sports MENA 5 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
             "encry": "HD VideoGuard",
             "link": "#",
-            "related_to": "     Al Shorta   vs   Al Seeb"
+            "related_to": "     Al Khalidiya   vs   Nasaf Qarshi"
+        },
+        {
+            "channel": "Futbol TV Uzbekistan",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "#",
+            "related_to": "     Al Khalidiya   vs   Nasaf Qarshi"
+        },
+        {
+            "channel": "Spor Smart T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "12188 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Khalidiya   vs   Nasaf Qarshi"
+        },
+        {
+            "channel": "Sport 1 Ukraine",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Khalidiya   vs   Nasaf Qarshi"
+        },
+        {
+            "channel": "SportKlub 12 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Khalidiya   vs   Nasaf Qarshi"
+        },
+        {
+            "channel": "TV Start Triumph HD",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "11996 L 27500 - 3/4",
+            "encry": "HD DRE-Crypt",
+            "link": "#",
+            "related_to": "     Al Khalidiya   vs   Nasaf Qarshi"
         },
         {
             "compet": "AFC Champions League 2 - Group Stage - 1",
@@ -1297,10 +603,26 @@
             "date": "2026-09-16"
         },
         {
+            "channel": "Al Kass 5 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10770 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "http://www.alkass.net/alkass/live.aspx?ch=five",
+            "related_to": "     Al Rayyan   vs   Al Faisaly"
+        },
+        {
             "channel": "beIN Sports MENA 3 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 H 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Rayyan   vs   Al Faisaly"
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12600 V 30000 - 5/6",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Al Rayyan   vs   Al Faisaly"
         },
@@ -1311,6 +633,88 @@
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Al Rayyan   vs   Al Faisaly"
+        },
+        {
+            "channel": "Sport 1 Baltic",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Rayyan   vs   Al Faisaly"
+        },
+        {
+            "channel": "Sport 1 Ukraine",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Rayyan   vs   Al Faisaly"
+        },
+        {
+            "channel": "SportKlub 5 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Rayyan   vs   Al Faisaly"
+        },
+        {
+            "channel": "TV Start Triumph HD",
+            "sat": "Eutelsat 36C 35.9\u00b0e",
+            "freq": "11996 L 27500 - 3/4",
+            "encry": "HD DRE-Crypt",
+            "link": "#",
+            "related_to": "     Al Rayyan   vs   Al Faisaly"
+        },
+        {
+            "compet": "AFC Champions League 2 - Group Stage - 1",
+            "match": "     Al Shorta   vs   Al Seeb",
+            "flags": {
+                "team1": "syria",
+                "team2": "oman"
+            },
+            "time": "18:15",
+            "date": "2026-09-16"
+        },
+        {
+            "channel": "Al Kass 6 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10770 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Al Shorta   vs   Al Seeb"
+        },
+        {
+            "channel": "Spor Smart 2 T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "12245 H 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Shorta   vs   Al Seeb"
+        },
+        {
+            "channel": "Sport 2 Baltic",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Shorta   vs   Al Seeb"
+        },
+        {
+            "channel": "Sport 2 Ukraine",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Shorta   vs   Al Seeb"
+        },
+        {
+            "channel": "SportKlub 6 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Al Shorta   vs   Al Seeb"
         },
         {
             "compet": "AFC Champions League 2 - Group Stage - 1",
@@ -1347,6 +751,14 @@
             "related_to": "     Adelaide United   vs   Tai Po"
         },
         {
+            "channel": "Sport 1 Ukraine",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Adelaide United   vs   Tai Po"
+        },
+        {
             "compet": "AFC Champions League 2 - Group Stage - 1",
             "match": "     Home United   vs   Pathum United",
             "flags": {
@@ -1361,6 +773,14 @@
             "sat": "Turksat 4A 42.0\u00b0e",
             "freq": "12188 V 27500 - 5/6",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Home United   vs   Pathum United"
+        },
+        {
+            "channel": "Sport 1 Baltic",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Home United   vs   Pathum United"
         },
@@ -1380,6 +800,22 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.dsmartgo.com.tr/",
+            "related_to": "     Machida Zelvia   vs   Svay Rieng"
+        },
+        {
+            "channel": "Sport 2 Baltic",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Machida Zelvia   vs   Svay Rieng"
+        },
+        {
+            "channel": "Sport 2 Ukraine",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
             "related_to": "     Machida Zelvia   vs   Svay Rieng"
         },
         {
@@ -1409,6 +845,14 @@
             "related_to": "     Phnom Penh Crown   vs   Kuching City"
         },
         {
+            "channel": "Sport 1 Baltic",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Phnom Penh Crown   vs   Kuching City"
+        },
+        {
             "compet": "AFC Champions League 2 - Group Stage - 1",
             "match": "     Shanghai Shenhua   vs   Tampines Rovers",
             "flags": {
@@ -1435,6 +879,22 @@
             "related_to": "     Shanghai Shenhua   vs   Tampines Rovers"
         },
         {
+            "channel": "Sport 2 Baltic",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Shanghai Shenhua   vs   Tampines Rovers"
+        },
+        {
+            "channel": "Sport 2 Ukraine",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Shanghai Shenhua   vs   Tampines Rovers"
+        },
+        {
             "compet": "AFC Champions League 2 - Group Stage - 1",
             "match": "     Kitchee   vs   Gangwon",
             "flags": {
@@ -1449,6 +909,14 @@
             "sat": "Turksat 4A 42.0\u00b0e",
             "freq": "12245 H 27500 - 5/6",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Kitchee   vs   Gangwon"
+        },
+        {
+            "channel": "Sport 1 Ukraine",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Kitchee   vs   Gangwon"
         }
