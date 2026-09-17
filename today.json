@@ -1243,6 +1243,14 @@
             "related_to": "     OFI Crete   vs   Hoffenheim"
         },
         {
+            "channel": "Sport TV Azerbaijan (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     OFI Crete   vs   Hoffenheim"
+        },
+        {
             "channel": "Tabii Spor T\u00fcrkiye ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -1975,6 +1983,14 @@
             "related_to": "     Real Betis   vs   Getafe"
         },
         {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Real Betis   vs   Getafe"
+        },
+        {
             "channel": "Sp\u00edler 2 TV Hungary HD",
             "sat": "Thor 6 0.8\u00b0w",
             "freq": "11727 V 28000 - 7/8",
@@ -2183,6 +2199,14 @@
             "sat": "SES 6 40.5\u00b0w",
             "freq": "3980 L 21600 - 3/4",
             "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     Manchester City   vs   Norwich City"
+        },
+        {
+            "channel": "IRIB Varzesh HD",
+            "sat": "Intelsat 39 62.0\u00b0e",
+            "freq": "11555 V 30000 - 2/3",
+            "encry": "HD BISS",
             "link": "#",
             "related_to": "     Manchester City   vs   Norwich City"
         },
@@ -2451,6 +2475,14 @@
             "sat": "AzerSpace 2 45.0\u00b0e",
             "freq": "12600 V 30000 - 5/6",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     AFC Wimbledon   vs   Milton Keynes Dons"
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     AFC Wimbledon   vs   Milton Keynes Dons"
         },
@@ -2737,6 +2769,14 @@
             "related_to": "     Besiktas   vs   Marseille"
         },
         {
+            "channel": "New World Sport 1 Mauritius",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Besiktas   vs   Marseille"
+        },
+        {
             "channel": "Persiana Sports 3 HD",
             "sat": "MonacoSat 52.0\u00b0e",
             "freq": "11420 V 27500 - 2/3",
@@ -2829,6 +2869,14 @@
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "12073 V 29900 - 5/6",
             "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Besiktas   vs   Marseille"
+        },
+        {
+            "channel": "Sport TV Azerbaijan (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Besiktas   vs   Marseille"
         },
@@ -2935,6 +2983,352 @@
             "encry": "MPEG-4 Viaccess",
             "link": "#",
             "related_to": "     Besiktas   vs   Marseille"
+        },
+        {
+            "compet": "UEFA Europa League - League Phase: Round 1",
+            "match": "     Real Sociedad   vs   Bournemouth",
+            "flags": {
+                "team1": "spain",
+                "team2": "england"
+            },
+            "time": "19:00",
+            "date": "2026-09-17"
+        },
+        {
+            "channel": "Arena Premium 2 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
+            "channel": "Arena Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11678 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
+            "channel": "Arena Sport 3 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11798 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
+            "channel": "ART Motion Sport 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
+            "channel": "beIN Connect Hong Kong",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-hk.beinsports.com/en",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
+            "channel": "beIN Sports 3 HD (Astro)",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
+            "channel": "beIN Sports HK 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
+            "channel": "beIN Sports MENA 8 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
+            "channel": "Blue Sport 1 Live HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
+            "channel": "Canal+ Live 8 France HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "12090 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
+            "channel": "CBS Sports Network USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
+            "channel": "Cytavision Sports 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
+            "channel": "Cytavision Sports 4K 1 UHD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
+            "channel": "Cytavision Sports PPV 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
+            "channel": "DAZN 2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
+            "channel": "Fast Sports 1 Armenia ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://fasttv.am/tv-channels/fastsports1",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
+            "channel": "HBO Max (uk only) [$/geo/R]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.hbomax.com",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
+            "channel": "M+ Liga de Campeones HD",
+            "sat": "Astra 1KR 19.2\u00b0e",
+            "freq": "11259 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
+            "channel": "Magenta Hellas Sport 4 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12149 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
+            "channel": "MAX Sport 3 Bulgaria HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12600 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
+            "channel": "Megogo Futbol 1 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
+            "channel": "Movistar Plus+ HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11097 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
+            "channel": "New World Sport 5 Togo",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
+            "channel": "Play Sports 5 Belgium",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
+            "channel": "Polsat Sport Extra 1 HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "12265 V 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
+            "channel": "Premier Sports 2 Mongolia HD",
+            "sat": "Telstar 18 138.0\u00b0e",
+            "freq": "12598 H 45000 - 5/6",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
+            "channel": "Prima Sport RO 2 HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12565 V 30000 - 7/8",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
+            "channel": "Q Sport Arena HD",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "10720 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
+            "channel": "Setanta Sports 2 Georgia HD",
+            "sat": " \u00b0",
+            "freq": " ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
+            "channel": "Sky Sport 253 Italia HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12341 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
+            "channel": "Sky Sport 3 Austria HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11758 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
+            "channel": "SportKlub 5 Slovenija",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
+            "channel": "SuperSport 4 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
+            "channel": "SuperSport Football Plus HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11594 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
+            "channel": "SuperSport M\u00e1Ximo 1 HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
+            "channel": "Tabii Spor 3 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
+            "channel": "TNT Sports 2 HD",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11597 V 22000 - 5/6",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
+            "channel": "TSN Malta 7 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
+            "channel": "TVNet Sport Azerbaijan (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
+            "channel": "V Sport 3 Norge HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11345 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
+            "channel": "VOOsport World 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
+        },
+        {
+            "channel": "Ziggo Sport 3",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Real Sociedad   vs   Bournemouth"
         },
         {
             "compet": "UEFA Europa League - League Phase: Round 1",
@@ -3147,6 +3541,14 @@
             "related_to": "     Juventus   vs   NEC Nijmegen"
         },
         {
+            "channel": "New World Sport 2 Mauritius",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Juventus   vs   NEC Nijmegen"
+        },
+        {
             "channel": "Okko Prime Sport HD ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -3279,6 +3681,14 @@
             "sat": "Dror 1 4.0\u00b0w",
             "freq": "11259 V 30000 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Juventus   vs   NEC Nijmegen"
+        },
+        {
+            "channel": "Sport TV 2 Azerbaijan (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "#",
             "related_to": "     Juventus   vs   NEC Nijmegen"
         },
@@ -3517,6 +3927,14 @@
             "related_to": "     Crystal Palace   vs   Lech Poznan"
         },
         {
+            "channel": "New World Sport 4 Togo",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Lech Poznan"
+        },
+        {
             "channel": "Polsat Sport 1 HD",
             "sat": "Hotbird 13G 13.0\u00b0e",
             "freq": "12265 V 27500 - 3/4",
@@ -3662,6 +4080,192 @@
         },
         {
             "compet": "UEFA Europa League - League Phase: Round 1",
+            "match": "     Viktoria Plzen   vs   Union St Gilloise",
+            "flags": {
+                "team1": "czechia",
+                "team2": "belgium"
+            },
+            "time": "19:00",
+            "date": "2026-09-17"
+        },
+        {
+            "channel": "Arena Sport 10 Hrvatska HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
+        },
+        {
+            "channel": "Arena Sport 6 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
+        },
+        {
+            "channel": "Arena Sport 7 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11817 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
+        },
+        {
+            "channel": "beIN Connect Hong Kong",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-hk.beinsports.com/en",
+            "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
+        },
+        {
+            "channel": "Blue Sport 3 Live HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
+        },
+        {
+            "channel": "Canal+ Live 7 France HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11934 V 29900 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
+        },
+        {
+            "channel": "Digi Sport 4 Romania",
+            "sat": "Intelsat 10-02 1.0\u00b0w",
+            "freq": "12687 H 27500 - 3/4",
+            "encry": "NagraVision",
+            "link": "#",
+            "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
+        },
+        {
+            "channel": "HBO Max (uk only) [$/geo/R]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.hbomax.com",
+            "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
+        },
+        {
+            "channel": "M+ Liga de Campeones 7",
+            "sat": "Astra 1KR 19.2\u00b0e",
+            "freq": "11686 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "#",
+            "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
+        },
+        {
+            "channel": "Magenta Hellas Sport 8 HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12149 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
+        },
+        {
+            "channel": "Megogo Futbol 7 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
+        },
+        {
+            "channel": "New World Sport 6 Togo",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
+        },
+        {
+            "channel": "Polsat Sport Extra 4 HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "10911 V 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
+        },
+        {
+            "channel": "Prima Sport RO 5 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
+        },
+        {
+            "channel": "RTBF Tipik Belgique",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11411 H 27500 - 5/6",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
+        },
+        {
+            "channel": "Sport 1 Czechia HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12070 H 27500 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
+        },
+        {
+            "channel": "Sport 1 Slovakia HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12012 V 29900 - 3/4",
+            "encry": "HD CryptoWorks",
+            "link": "#",
+            "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
+        },
+        {
+            "channel": "SuperSport Kickoff HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
+        },
+        {
+            "channel": "Tabii Spor 4 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
+        },
+        {
+            "channel": "TNT Sports 8",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11597 V 22000 - 5/6",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
+        },
+        {
+            "channel": "ViaPlay \u00cdsland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
+        },
+        {
+            "channel": "VRT Canvas Belgium HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "12188 H 29900 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
+        },
+        {
+            "compet": "UEFA Europa League - League Phase: Round 1",
             "match": "     Lillestr\u00f8m   vs   Torreense",
             "flags": {
                 "team1": "norway",
@@ -3781,514 +4385,6 @@
             "encry": "",
             "link": "#",
             "related_to": "     Lillestr\u00f8m   vs   Torreense"
-        },
-        {
-            "compet": "UEFA Europa League - League Phase: Round 1",
-            "match": "     Real Sociedad   vs   Bournemouth",
-            "flags": {
-                "team1": "spain",
-                "team2": "england"
-            },
-            "time": "19:00",
-            "date": "2026-09-17"
-        },
-        {
-            "channel": "Arena Premium 2 BiH HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Real Sociedad   vs   Bournemouth"
-        },
-        {
-            "channel": "Arena Sport 1 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11678 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Real Sociedad   vs   Bournemouth"
-        },
-        {
-            "channel": "Arena Sport 3 Srbija HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11798 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Real Sociedad   vs   Bournemouth"
-        },
-        {
-            "channel": "ART Motion Sport 3 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://artmotion.net/tv/",
-            "related_to": "     Real Sociedad   vs   Bournemouth"
-        },
-        {
-            "channel": "beIN Connect Hong Kong",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://connect-hk.beinsports.com/en",
-            "related_to": "     Real Sociedad   vs   Bournemouth"
-        },
-        {
-            "channel": "beIN Sports 3 HD (Astro)",
-            "sat": "Measat 3b 91.5\u00b0e",
-            "freq": "10732 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Real Sociedad   vs   Bournemouth"
-        },
-        {
-            "channel": "beIN Sports HK 3 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Real Sociedad   vs   Bournemouth"
-        },
-        {
-            "channel": "beIN Sports MENA 8 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Real Sociedad   vs   Bournemouth"
-        },
-        {
-            "channel": "Blue Sport 1 Live HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Real Sociedad   vs   Bournemouth"
-        },
-        {
-            "channel": "Canal+ Live 8 France HD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "12090 V 29700 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Real Sociedad   vs   Bournemouth"
-        },
-        {
-            "channel": "CBS Sports Network USA",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Real Sociedad   vs   Bournemouth"
-        },
-        {
-            "channel": "Cytavision Sports 3 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Real Sociedad   vs   Bournemouth"
-        },
-        {
-            "channel": "Cytavision Sports 4K 1 UHD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Real Sociedad   vs   Bournemouth"
-        },
-        {
-            "channel": "Cytavision Sports PPV 1 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Real Sociedad   vs   Bournemouth"
-        },
-        {
-            "channel": "DAZN 2 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Real Sociedad   vs   Bournemouth"
-        },
-        {
-            "channel": "Fast Sports 1 Armenia ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://fasttv.am/tv-channels/fastsports1",
-            "related_to": "     Real Sociedad   vs   Bournemouth"
-        },
-        {
-            "channel": "HBO Max (uk only) [$/geo/R]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.hbomax.com",
-            "related_to": "     Real Sociedad   vs   Bournemouth"
-        },
-        {
-            "channel": "M+ Liga de Campeones HD",
-            "sat": "Astra 1KR 19.2\u00b0e",
-            "freq": "11259 V 22000 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Real Sociedad   vs   Bournemouth"
-        },
-        {
-            "channel": "Magenta Hellas Sport 4 HD",
-            "sat": "Eutelsat 9B 9.0\u00b0e",
-            "freq": "12149 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Real Sociedad   vs   Bournemouth"
-        },
-        {
-            "channel": "MAX Sport 3 Bulgaria HD",
-            "sat": "AzerSpace 2 45.0\u00b0e",
-            "freq": "12600 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Real Sociedad   vs   Bournemouth"
-        },
-        {
-            "channel": "Megogo Futbol 1 ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
-            "related_to": "     Real Sociedad   vs   Bournemouth"
-        },
-        {
-            "channel": "Movistar Plus+ HD",
-            "sat": "Astra 1L 19.2\u00b0e",
-            "freq": "11097 V 22000 - 5/6",
-            "encry": "NagraVision",
-            "link": "#",
-            "related_to": "     Real Sociedad   vs   Bournemouth"
-        },
-        {
-            "channel": "Play Sports 5 Belgium",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Real Sociedad   vs   Bournemouth"
-        },
-        {
-            "channel": "Polsat Sport Extra 1 HD",
-            "sat": "Hotbird 13G 13.0\u00b0e",
-            "freq": "12265 V 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Real Sociedad   vs   Bournemouth"
-        },
-        {
-            "channel": "Premier Sports 2 Mongolia HD",
-            "sat": "Telstar 18 138.0\u00b0e",
-            "freq": "12598 H 45000 - 5/6",
-            "encry": "MPEG-4 Verimatrix",
-            "link": "#",
-            "related_to": "     Real Sociedad   vs   Bournemouth"
-        },
-        {
-            "channel": "Prima Sport RO 2 HD",
-            "sat": "Hellas Sat 3 39.0\u00b0e",
-            "freq": "12565 V 30000 - 7/8",
-            "encry": "VideoGuard",
-            "link": "#",
-            "related_to": "     Real Sociedad   vs   Bournemouth"
-        },
-        {
-            "channel": "Q Sport Arena HD",
-            "sat": "KazSat 3 58.5\u00b0e",
-            "freq": "10720 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Real Sociedad   vs   Bournemouth"
-        },
-        {
-            "channel": "Setanta Sports 2 Georgia HD",
-            "sat": " \u00b0",
-            "freq": " ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Real Sociedad   vs   Bournemouth"
-        },
-        {
-            "channel": "Sky Sport 253 Italia HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "12341 V 29900 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Real Sociedad   vs   Bournemouth"
-        },
-        {
-            "channel": "Sky Sport 3 Austria HD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11758 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Real Sociedad   vs   Bournemouth"
-        },
-        {
-            "channel": "SportKlub 5 Slovenija",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Real Sociedad   vs   Bournemouth"
-        },
-        {
-            "channel": "SuperSport 4 Albania HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "10845 H 30000 - 3/5",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Real Sociedad   vs   Bournemouth"
-        },
-        {
-            "channel": "SuperSport Football Plus HD",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "11594 H 30000 - 5/6",
-            "encry": "Irdeto",
-            "link": "#",
-            "related_to": "     Real Sociedad   vs   Bournemouth"
-        },
-        {
-            "channel": "SuperSport M\u00e1Ximo 1 HD",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "11594 V 27500 - 5/6",
-            "encry": "Irdeto",
-            "link": "#",
-            "related_to": "     Real Sociedad   vs   Bournemouth"
-        },
-        {
-            "channel": "Tabii Spor 3 ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Real Sociedad   vs   Bournemouth"
-        },
-        {
-            "channel": "TNT Sports 2 HD",
-            "sat": "Astra 2G 28.2\u00b0e",
-            "freq": "11597 V 22000 - 5/6",
-            "encry": "VideoGuard",
-            "link": "#",
-            "related_to": "     Real Sociedad   vs   Bournemouth"
-        },
-        {
-            "channel": "TSN Malta 7 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Real Sociedad   vs   Bournemouth"
-        },
-        {
-            "channel": "V Sport 3 Norge HD",
-            "sat": "Thor 6 5.0\u00b0e",
-            "freq": "11345 H 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Real Sociedad   vs   Bournemouth"
-        },
-        {
-            "channel": "VOOsport World 1 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Real Sociedad   vs   Bournemouth"
-        },
-        {
-            "channel": "Ziggo Sport 3",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Real Sociedad   vs   Bournemouth"
-        },
-        {
-            "compet": "UEFA Europa League - League Phase: Round 1",
-            "match": "     Viktoria Plzen   vs   Union St Gilloise",
-            "flags": {
-                "team1": "czechia",
-                "team2": "belgium"
-            },
-            "time": "19:00",
-            "date": "2026-09-17"
-        },
-        {
-            "channel": "Arena Sport 10 Hrvatska HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
-        },
-        {
-            "channel": "Arena Sport 6 BiH HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
-        },
-        {
-            "channel": "Arena Sport 7 Srbija HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11817 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
-        },
-        {
-            "channel": "beIN Connect Hong Kong",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://connect-hk.beinsports.com/en",
-            "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
-        },
-        {
-            "channel": "Blue Sport 3 Live HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
-        },
-        {
-            "channel": "Canal+ Live 7 France HD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "11934 V 29900 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
-        },
-        {
-            "channel": "Digi Sport 4 Romania",
-            "sat": "Intelsat 10-02 1.0\u00b0w",
-            "freq": "12687 H 27500 - 3/4",
-            "encry": "NagraVision",
-            "link": "#",
-            "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
-        },
-        {
-            "channel": "HBO Max (uk only) [$/geo/R]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.hbomax.com",
-            "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
-        },
-        {
-            "channel": "M+ Liga de Campeones 7",
-            "sat": "Astra 1KR 19.2\u00b0e",
-            "freq": "11686 V 22000 - 5/6",
-            "encry": "Seca",
-            "link": "#",
-            "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
-        },
-        {
-            "channel": "Magenta Hellas Sport 8 HD",
-            "sat": "Eutelsat 9B 9.0\u00b0e",
-            "freq": "12149 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
-        },
-        {
-            "channel": "Megogo Futbol 7 ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
-        },
-        {
-            "channel": "Polsat Sport Extra 4 HD",
-            "sat": "Hotbird 13G 13.0\u00b0e",
-            "freq": "10911 V 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
-        },
-        {
-            "channel": "Prima Sport RO 5 HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
-        },
-        {
-            "channel": "RTBF Tipik Belgique",
-            "sat": "Hotbird 13G 13.0\u00b0e",
-            "freq": "11411 H 27500 - 5/6",
-            "encry": "MPEG-4 Nagra",
-            "link": "#",
-            "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
-        },
-        {
-            "channel": "Sport 1 Czechia HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12070 H 27500 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
-        },
-        {
-            "channel": "Sport 1 Slovakia HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "12012 V 29900 - 3/4",
-            "encry": "HD CryptoWorks",
-            "link": "#",
-            "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
-        },
-        {
-            "channel": "SuperSport Kickoff HD",
-            "sat": "Intelsat 20 68.5\u00b0e",
-            "freq": "11594 V 27500 - 5/6",
-            "encry": "Irdeto",
-            "link": "#",
-            "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
-        },
-        {
-            "channel": "Tabii Spor 4 ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
-        },
-        {
-            "channel": "TNT Sports 8",
-            "sat": "Astra 2G 28.2\u00b0e",
-            "freq": "11597 V 22000 - 5/6",
-            "encry": "VideoGuard",
-            "link": "#",
-            "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
-        },
-        {
-            "channel": "ViaPlay \u00cdsland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
-        },
-        {
-            "channel": "VRT Canvas Belgium HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "12188 H 29900 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Viktoria Plzen   vs   Union St Gilloise"
         },
         {
             "compet": "UEFA Europa League - League Phase: Round 1",
