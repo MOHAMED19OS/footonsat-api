@@ -43,6 +43,30 @@
             "related_to": "     Bristol City   vs   Watford"
         },
         {
+            "channel": "CBS Sports Golazo N/W (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "FTA",
+            "link": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
+            "related_to": "     Bristol City   vs   Watford"
+        },
+        {
+            "channel": "ESPN 4 Brazil HD",
+            "sat": "SES 6 40.5\u00b0w",
+            "freq": "3980 L 21600 - 5/6",
+            "encry": "HD PowerVu",
+            "link": "#",
+            "related_to": "     Bristol City   vs   Watford"
+        },
+        {
+            "channel": "Nova Sport 6 Czech HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12090 V 29900 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Bristol City   vs   Watford"
+        },
+        {
             "channel": "Paramount+ USA ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -95,6 +119,30 @@
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12246 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Bristol City   vs   Watford"
+        },
+        {
+            "channel": "TSN Malta 6 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Bristol City   vs   Watford"
+        },
+        {
+            "channel": "V Sport 2 Norge HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11345 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Bristol City   vs   Watford"
+        },
+        {
+            "channel": "V Sport Extra Sverige HD",
+            "sat": "Thor 6 0.8\u00b0w",
+            "freq": "10903 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Bristol City   vs   Watford"
         },
@@ -293,6 +341,22 @@
             "related_to": "     Millwall   vs   West Ham United"
         },
         {
+            "channel": "TSN Malta 7 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Millwall   vs   West Ham United"
+        },
+        {
+            "channel": "TV3 MAX Dansk HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11345 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Millwall   vs   West Ham United"
+        },
+        {
             "channel": "UTV Northern Ireland HD",
             "sat": "Astra 2E 28.2\u00b0e",
             "freq": "11386 V 27500 - 3/4",
@@ -403,6 +467,14 @@
             "related_to": "     Wrexham   vs   Southampton"
         },
         {
+            "channel": "TSN Malta 4 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Wrexham   vs   Southampton"
+        },
+        {
             "compet": "English Championship - Week 8",
             "match": "     Wolves   vs   West Bromwich Albion",
             "flags": {
@@ -473,6 +545,14 @@
             "sat": "Hispasat 30W-5 30.0\u00b0w",
             "freq": "12360 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Wolves   vs   West Bromwich Albion"
+        },
+        {
+            "channel": "TSN Malta 5 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
             "link": "#",
             "related_to": "     Wolves   vs   West Bromwich Albion"
         },
@@ -2265,6 +2345,14 @@
             "date": "2026-12-04"
         },
         {
+            "channel": "Sky Go UK [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Sheffield United   vs   West Ham United"
+        },
+        {
             "channel": "Sky Sports Football HD",
             "sat": "Astra 2E 28.2\u00b0e",
             "freq": "12090 V 29500 - 8/9",
@@ -2281,6 +2369,14 @@
             },
             "time": "12:30",
             "date": "2026-12-05"
+        },
+        {
+            "channel": "Sky Go UK [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Bolton Wanderers   vs   Blackburn Rovers"
         },
         {
             "channel": "Sky Sports Football HD",
@@ -2337,12 +2433,128 @@
             "date": "2026-12-06"
         },
         {
+            "channel": "Sky Go UK [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Burnley   vs   Preston N.E."
+        },
+        {
             "channel": "Sky Sports Football HD",
             "sat": "Astra 2E 28.2\u00b0e",
             "freq": "12090 V 29500 - 8/9",
             "encry": "MPEG-4 NDS",
             "link": "#",
             "related_to": "     Burnley   vs   Preston N.E."
+        },
+        {
+            "compet": "English Championship - Week 20",
+            "match": "     Wrexham   vs   Charlton Athletic",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:45",
+            "date": "2026-12-08"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Wrexham   vs   Charlton Athletic"
+        },
+        {
+            "compet": "English Championship - Week 20",
+            "match": "     Swansea City   vs   Bolton Wanderers",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:45",
+            "date": "2026-12-08"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Swansea City   vs   Bolton Wanderers"
+        },
+        {
+            "compet": "English Championship - Week 20",
+            "match": "     Queens Park Rangers   vs   Wolves",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:45",
+            "date": "2026-12-08"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Queens Park Rangers   vs   Wolves"
+        },
+        {
+            "compet": "English Championship - Week 20",
+            "match": "     Blackburn Rovers   vs   Norwich City",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:45",
+            "date": "2026-12-08"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Blackburn Rovers   vs   Norwich City"
+        },
+        {
+            "compet": "English Championship - Week 20",
+            "match": "     West Bromwich Albion   vs   Cardiff City",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:45",
+            "date": "2026-12-08"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     West Bromwich Albion   vs   Cardiff City"
+        },
+        {
+            "compet": "English Championship - Week 20",
+            "match": "     Millwall   vs   Sheffield United",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:45",
+            "date": "2026-12-08"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Millwall   vs   Sheffield United"
         },
         {
             "compet": "English Championship - Week 20",
@@ -2355,12 +2567,100 @@
             "date": "2026-12-08"
         },
         {
+            "channel": "Sky Go UK [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     West Ham United   vs   Middlesbrough"
+        },
+        {
             "channel": "Sky Sports Football HD",
             "sat": "Astra 2E 28.2\u00b0e",
             "freq": "12090 V 29500 - 8/9",
             "encry": "MPEG-4 NDS",
             "link": "#",
             "related_to": "     West Ham United   vs   Middlesbrough"
+        },
+        {
+            "compet": "English Championship - Week 20",
+            "match": "     Birmingham City   vs   Watford",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "20:00",
+            "date": "2026-12-08"
+        },
+        {
+            "channel": "Sky Go UK [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Birmingham City   vs   Watford"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Birmingham City   vs   Watford"
+        },
+        {
+            "compet": "English Championship - Week 20",
+            "match": "     Lincoln City   vs   Stoke City",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:45",
+            "date": "2026-12-09"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Lincoln City   vs   Stoke City"
+        },
+        {
+            "compet": "English Championship - Week 20",
+            "match": "     Derby County   vs   Bristol City",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:45",
+            "date": "2026-12-09"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Derby County   vs   Bristol City"
+        },
+        {
+            "compet": "English Championship - Week 20",
+            "match": "     Preston N.E.   vs   Portsmouth",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:45",
+            "date": "2026-12-09"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Preston N.E.   vs   Portsmouth"
         },
         {
             "compet": "English Championship - Week 20",
@@ -2371,6 +2671,14 @@
             },
             "time": "20:00",
             "date": "2026-12-09"
+        },
+        {
+            "channel": "Sky Go UK [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Southampton   vs   Burnley"
         },
         {
             "channel": "Sky Sports Football HD",
@@ -2391,6 +2699,14 @@
             "date": "2026-12-11"
         },
         {
+            "channel": "Sky Go UK [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Bolton Wanderers   vs   Wrexham"
+        },
+        {
             "channel": "Sky Sports Football HD",
             "sat": "Astra 2E 28.2\u00b0e",
             "freq": "12090 V 29500 - 8/9",
@@ -2407,6 +2723,14 @@
             },
             "time": "12:30",
             "date": "2026-12-12"
+        },
+        {
+            "channel": "Sky Go UK [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Stoke City   vs   West Bromwich Albion"
         },
         {
             "channel": "Sky Sports Football HD",
@@ -2463,6 +2787,14 @@
             "date": "2026-12-18"
         },
         {
+            "channel": "Sky Go UK [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     West Bromwich Albion   vs   Sheffield United"
+        },
+        {
             "channel": "Sky Sports Football HD",
             "sat": "Astra 2E 28.2\u00b0e",
             "freq": "12090 V 29500 - 8/9",
@@ -2494,6 +2826,14 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://www.itv.com/watch?channel=itv",
+            "related_to": "     Birmingham City   vs   West Ham United"
+        },
+        {
+            "channel": "Sky Go UK [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "#",
             "related_to": "     Birmingham City   vs   West Ham United"
         },
         {
@@ -2530,6 +2870,24 @@
         },
         {
             "compet": "English Championship - Week 22",
+            "match": "     Swansea City   vs   Preston N.E.",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "12:30",
+            "date": "2026-12-19"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Swansea City   vs   Preston N.E."
+        },
+        {
+            "compet": "English Championship - Week 22",
             "match": "     Watford   vs   Bolton Wanderers",
             "flags": {
                 "team1": "england",
@@ -2557,6 +2915,14 @@
             "date": "2026-12-26"
         },
         {
+            "channel": "Sky Go UK [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Sheffield United   vs   Middlesbrough"
+        },
+        {
             "channel": "Sky Sports Football HD",
             "sat": "Astra 2E 28.2\u00b0e",
             "freq": "12090 V 29500 - 8/9",
@@ -2573,6 +2939,14 @@
             },
             "time": "18:00",
             "date": "2026-12-29"
+        },
+        {
+            "channel": "Sky Go UK [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Wrexham   vs   Blackburn Rovers"
         },
         {
             "channel": "Sky Sports Football HD",
@@ -2629,6 +3003,14 @@
             "date": "2026-12-29"
         },
         {
+            "channel": "Sky Go UK [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Southampton   vs   West Ham United"
+        },
+        {
             "channel": "Sky Sports Football HD",
             "sat": "Astra 2E 28.2\u00b0e",
             "freq": "12090 V 29500 - 8/9",
@@ -2647,6 +3029,14 @@
             "date": "2026-01-01"
         },
         {
+            "channel": "Sky Go UK [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Millwall   vs   Wolves"
+        },
+        {
             "channel": "Sky Sports Football HD",
             "sat": "Astra 2E 28.2\u00b0e",
             "freq": "12090 V 29500 - 8/9",
@@ -2663,6 +3053,14 @@
             },
             "time": "17:30",
             "date": "2026-01-01"
+        },
+        {
+            "channel": "Sky Go UK [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Burnley   vs   Sheffield United"
         },
         {
             "channel": "Sky Sports Football HD",
