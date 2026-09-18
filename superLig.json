@@ -53,6 +53,14 @@
             "related_to": "     Kasimpasa   vs   Konyaspor"
         },
         {
+            "channel": "ART Motion Sport 4 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "     Kasimpasa   vs   Konyaspor"
+        },
+        {
             "channel": "beIN Connect Australia",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -299,32 +307,6 @@
             "related_to": "     Sariyer   vs   Boluspor"
         },
         {
-            "compet": "T\u00fcrkiye S\u00fcper Lig - Week 6",
-            "match": "     Corum FK   vs   Alanyaspor",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "14:00",
-            "date": "2026-09-19"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Corum FK   vs   Alanyaspor"
-        },
-        {
-            "channel": "beIN Sports T\u00fcrkiye Max 1 HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11676 V 24444 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Corum FK   vs   Alanyaspor"
-        },
-        {
             "compet": "T\u00fcrkiye 1. Lig - Week 8",
             "match": "     Ke\u00e7i\u00f6reng\u00fcc\u00fc   vs   Sivasspor",
             "flags": {
@@ -360,6 +342,32 @@
         },
         {
             "compet": "T\u00fcrkiye S\u00fcper Lig - Week 6",
+            "match": "     Corum FK   vs   Alanyaspor",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "14:00",
+            "date": "2026-09-19"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Corum FK   vs   Alanyaspor"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye Max 1 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Corum FK   vs   Alanyaspor"
+        },
+        {
+            "compet": "T\u00fcrkiye S\u00fcper Lig - Week 6",
             "match": "     Trabzonspor   vs   Galatasaray",
             "flags": {
                 "team1": "turkey",
@@ -367,6 +375,14 @@
             },
             "time": "17:00",
             "date": "2026-09-19"
+        },
+        {
+            "channel": "ART Motion Sport 5 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "     Trabzonspor   vs   Galatasaray"
         },
         {
             "channel": "beIN Connect T\u00fcrkiye",
@@ -425,6 +441,14 @@
             "related_to": "     Trabzonspor   vs   Galatasaray"
         },
         {
+            "channel": "SuperSport 1 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Trabzonspor   vs   Galatasaray"
+        },
+        {
             "compet": "T\u00fcrkiye S\u00fcper Lig - Week 6",
             "match": "     Istanbul Basaksehir   vs   Gen\u00e7lerbirligi",
             "flags": {
@@ -449,40 +473,6 @@
             "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Istanbul Basaksehir   vs   Gen\u00e7lerbirligi"
-        },
-        {
-            "compet": "T\u00fcrkiye 1. Lig - Week 8",
-            "match": "     Erokspor   vs   Fatih Karag\u00fcmr\u00fck",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "17:00",
-            "date": "2026-09-19"
-        },
-        {
-            "channel": "beIN Connect T\u00fcrkiye",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Erokspor   vs   Fatih Karag\u00fcmr\u00fck"
-        },
-        {
-            "channel": "beIN Sports T\u00fcrkiye Max 2 HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11180 H 29750 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Erokspor   vs   Fatih Karag\u00fcmr\u00fck"
-        },
-        {
-            "channel": "TRT Avaz T\u00fcrkiye HD",
-            "sat": "Yamal 401 90.0\u00b0e",
-            "freq": "10972 H 11200 - 3/4",
-            "encry": "FTA",
-            "link": "https://www.trtizle.com/canli/tv/trt-avaz",
-            "related_to": "     Erokspor   vs   Fatih Karag\u00fcmr\u00fck"
         },
         {
             "compet": "T\u00fcrkiye 1. Lig - Week 8",
@@ -519,6 +509,40 @@
             "related_to": "     Batman Petrolspor   vs   Bursaspor"
         },
         {
+            "compet": "T\u00fcrkiye 1. Lig - Week 8",
+            "match": "     Erokspor   vs   Fatih Karag\u00fcmr\u00fck",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "17:00",
+            "date": "2026-09-19"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Erokspor   vs   Fatih Karag\u00fcmr\u00fck"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye Max 2 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11180 H 29750 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Erokspor   vs   Fatih Karag\u00fcmr\u00fck"
+        },
+        {
+            "channel": "TRT Avaz T\u00fcrkiye HD",
+            "sat": "Yamal 401 90.0\u00b0e",
+            "freq": "10972 H 11200 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.trtizle.com/canli/tv/trt-avaz",
+            "related_to": "     Erokspor   vs   Fatih Karag\u00fcmr\u00fck"
+        },
+        {
             "compet": "T\u00fcrkiye S\u00fcper Lig - Week 6",
             "match": "     Fenerbah\u00e7e   vs   Ey\u00fcpspor",
             "flags": {
@@ -534,6 +558,14 @@
             "freq": "12246 V 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
+            "related_to": "     Fenerbah\u00e7e   vs   Ey\u00fcpspor"
+        },
+        {
+            "channel": "ART Motion Sport 5 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
             "related_to": "     Fenerbah\u00e7e   vs   Ey\u00fcpspor"
         },
         {
@@ -556,14 +588,6 @@
             "channel": "beIN Sports MENA 3 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Fenerbah\u00e7e   vs   Ey\u00fcpspor"
-        },
-        {
-            "channel": "beIN Sports MENA 4 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 V 27500 - 2/3",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Fenerbah\u00e7e   vs   Ey\u00fcpspor"
@@ -597,6 +621,14 @@
             "sat": "KazSat 3 58.5\u00b0e",
             "freq": "10720 H 30000 - 3/4",
             "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Fenerbah\u00e7e   vs   Ey\u00fcpspor"
+        },
+        {
+            "channel": "SuperSport 6 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10804 H 29950 - 2/3",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Fenerbah\u00e7e   vs   Ey\u00fcpspor"
         },
@@ -653,6 +685,14 @@
             "related_to": "     Manisa FK   vs   Istanbulspor"
         },
         {
+            "channel": "TRT Spor T\u00fcrkiye HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11054 V 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "related_to": "     Manisa FK   vs   Istanbulspor"
+        },
+        {
             "compet": "T\u00fcrkiye 1. Lig - Week 8",
             "match": "     Pendikspor   vs   Bodrumspor",
             "flags": {
@@ -679,6 +719,14 @@
             "related_to": "     Pendikspor   vs   Bodrumspor"
         },
         {
+            "channel": "Tabii Spor 6 ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Pendikspor   vs   Bodrumspor"
+        },
+        {
             "compet": "T\u00fcrkiye S\u00fcper Lig - Week 6",
             "match": "     Amedspor   vs   Besiktas",
             "flags": {
@@ -694,6 +742,14 @@
             "freq": "11798 H 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
+            "related_to": "     Amedspor   vs   Besiktas"
+        },
+        {
+            "channel": "ART Motion Sport 5 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
             "related_to": "     Amedspor   vs   Besiktas"
         },
         {
@@ -949,6 +1005,14 @@
             "sat": "KazSat 3 58.5\u00b0e",
             "freq": "10720 H 30000 - 3/4",
             "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Amedspor   vs   Besiktas"
+        },
+        {
+            "channel": "SuperSport 4 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
             "link": "#",
             "related_to": "     Amedspor   vs   Besiktas"
         },
