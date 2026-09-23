@@ -1,6 +1,24 @@
 {
     "footonsat": [
         {
+            "compet": "T\u00fcrkiye 2. Lig - Red Group: Round 4",
+            "match": "     52 Orduspor   vs   Kahramanmarasspor",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "16:00",
+            "date": "2026-09-26"
+        },
+        {
+            "channel": "Tivibu Spor 4 HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "11880 H 20000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     52 Orduspor   vs   Kahramanmarasspor"
+        },
+        {
             "compet": "T\u00fcrkiye 1. Lig - Week 9",
             "match": "     Sivasspor   vs   Pendikspor",
             "flags": {
