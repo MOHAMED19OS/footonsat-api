@@ -79,6 +79,40 @@
             "related_to": "     Namibia   vs   Congo BR"
         },
         {
+            "compet": "Friendly International",
+            "match": "     Uzbekistan   vs   Iran",
+            "flags": {
+                "team1": "uzbekistan",
+                "team2": "iran"
+            },
+            "time": "14:00",
+            "date": "2026-09-24"
+        },
+        {
+            "channel": "Futbol TV Uzbekistan",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "11610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "#",
+            "related_to": "     Uzbekistan   vs   Iran"
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Intelsat 39 62.0\u00b0e",
+            "freq": "11555 V 30000 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Uzbekistan   vs   Iran"
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Uzbekistan   vs   Iran"
+        },
+        {
             "compet": "Arabian Gulf Cup - Round 1",
             "match": "     U.A.E.   vs   Yemen",
             "flags": {
@@ -89,6 +123,14 @@
             "date": "2026-09-24"
         },
         {
+            "channel": "Abu Dhabi Sports 1 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11804 H 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%201",
+            "related_to": "     U.A.E.   vs   Yemen"
+        },
+        {
             "channel": "Al Kass 1 HD",
             "sat": "Badr 4 26.0\u00b0e",
             "freq": "12245 H 27500 - 5/6",
@@ -97,11 +139,11 @@
             "related_to": "     U.A.E.   vs   Yemen"
         },
         {
-            "channel": "Al Kass 2 HD",
+            "channel": "Bahrain Sports 1 HD",
             "sat": "Badr 4 26.0\u00b0e",
-            "freq": "12245 V 27500 - 5/6",
+            "freq": "12226 H 27500 - 3/4",
             "encry": "FTA",
-            "link": "http://www.alkass.net/alkass/live.aspx?ch=two",
+            "link": "#",
             "related_to": "     U.A.E.   vs   Yemen"
         },
         {
@@ -113,7 +155,7 @@
             "related_to": "     U.A.E.   vs   Yemen"
         },
         {
-            "channel": "KSA Sports 1 HD",
+            "channel": "KSA Sports 2 HD",
             "sat": "Al Yah 1 52.5\u00b0e",
             "freq": "11747 H 27500 - 5/6",
             "encry": "FTA",
@@ -251,6 +293,14 @@
             "related_to": "     Andorra   vs   Malta"
         },
         {
+            "channel": "Fox Soccer Plus USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Andorra   vs   Malta"
+        },
+        {
             "channel": "Megogo Futbol 3 ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -299,14 +349,6 @@
             "related_to": "     Andorra   vs   Malta"
         },
         {
-            "channel": "Okko Sport HD ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Andorra   vs   Malta"
-        },
-        {
             "channel": "Premier Sports 2 Mongolia HD",
             "sat": "Telstar 18 138.0\u00b0e",
             "freq": "12598 H 45000 - 5/6",
@@ -325,7 +367,7 @@
         {
             "channel": "Sky Sport Calcio HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "12073 V 29900 - 3/4",
+            "freq": "11958 V 27500 - 3/4",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Andorra   vs   Malta"
@@ -571,6 +613,14 @@
             "date": "2026-09-24"
         },
         {
+            "channel": "Abu Dhabi Sports 2 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11804 H 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%202",
+            "related_to": "     Qatar   vs   Bahrain"
+        },
+        {
             "channel": "Al Kass 1 HD",
             "sat": "Badr 4 26.0\u00b0e",
             "freq": "12245 H 27500 - 5/6",
@@ -584,6 +634,14 @@
             "freq": "12245 V 27500 - 5/6",
             "encry": "FTA",
             "link": "http://www.alkass.net/alkass/live.aspx?ch=two",
+            "related_to": "     Qatar   vs   Bahrain"
+        },
+        {
+            "channel": "Bahrain Sports 1 HD",
+            "sat": "Badr 4 26.0\u00b0e",
+            "freq": "12226 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "     Qatar   vs   Bahrain"
         },
         {
@@ -847,6 +905,22 @@
             "related_to": "     Portugal   vs   Wales"
         },
         {
+            "channel": "Fox Soccer Plus USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Portugal   vs   Wales"
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Intelsat 39 62.0\u00b0e",
+            "freq": "11555 V 30000 - 3/4",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Portugal   vs   Wales"
+        },
+        {
             "channel": "L\u00b4\u00c9quipe Live Foot (geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -884,6 +958,14 @@
             "freq": "11804 V 29700 - 3/4",
             "encry": "HD Irdeto",
             "link": "#",
+            "related_to": "     Portugal   vs   Wales"
+        },
+        {
+            "channel": "Persiana Sports 2 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
             "related_to": "     Portugal   vs   Wales"
         },
         {
@@ -940,6 +1022,14 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "https://sgorio.cymru/live-games/?lang=en",
+            "related_to": "     Portugal   vs   Wales"
+        },
+        {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "     Portugal   vs   Wales"
         },
         {
@@ -1217,6 +1307,22 @@
             "related_to": "     Netherlands   vs   Germany"
         },
         {
+            "channel": "GEM Sport 1 HD",
+            "sat": "Al Yah 1 52.5\u00b0e",
+            "freq": "12034 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Netherlands   vs   Germany"
+        },
+        {
+            "channel": "IRIB Varzesh HD",
+            "sat": "Intelsat 39 62.0\u00b0e",
+            "freq": "11555 V 30000 - 2/3",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Netherlands   vs   Germany"
+        },
+        {
             "channel": "L\u00b4\u00c9quipe Live Foot (geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -1269,6 +1375,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Netherlands   vs   Germany"
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Netherlands   vs   Germany"
         },
@@ -1454,6 +1568,14 @@
             "freq": "0000 - -",
             "encry": "HD NagraVision",
             "link": "https://tv8.it/streaming.html?zoneid=menu_streaming",
+            "related_to": "     Netherlands   vs   Germany"
+        },
+        {
+            "channel": "TVE La 1 HD Espa\u00f1a",
+            "sat": "*DTT 0.0\u00b0-",
+            "freq": "0000 - -",
+            "encry": "NagraVision",
+            "link": "http://www.rtve.es/directo/la-1/",
             "related_to": "     Netherlands   vs   Germany"
         },
         {
@@ -1877,6 +1999,14 @@
             "related_to": "     Norway   vs   Denmark"
         },
         {
+            "channel": "Fox Sports 1 USA HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Norway   vs   Denmark"
+        },
+        {
             "channel": "L\u00b4\u00c9quipe Live Foot (geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -1913,6 +2043,14 @@
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "12130 H 27500 - 3/4",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Norway   vs   Denmark"
+        },
+        {
+            "channel": "Persiana Sports 3 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Norway   vs   Denmark"
         },
@@ -2675,6 +2813,14 @@
             "sat": "SES 5 5.0\u00b0e",
             "freq": "12341 H 27500 - 3/4",
             "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Ivory Coast   vs   Ghana"
+        },
+        {
+            "channel": "Sport TV5 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Ivory Coast   vs   Ghana"
         },
