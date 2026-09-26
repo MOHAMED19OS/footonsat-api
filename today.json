@@ -1124,40 +1124,6 @@
         },
         {
             "compet": "CAF African Cup of Nations - Group D, Round 1",
-            "match": "     Kenya   vs   Eritrea",
-            "flags": {
-                "team1": "kenya",
-                "team2": "eritrea"
-            },
-            "time": "13:00",
-            "date": "2026-09-26"
-        },
-        {
-            "channel": "5 SPORT Israel HD",
-            "sat": "Dror 1 4.0\u00b0w",
-            "freq": "11259 V 30000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Kenya   vs   Eritrea"
-        },
-        {
-            "channel": "beIN Sports 3 HD (Astro)",
-            "sat": "Measat 3b 91.5\u00b0e",
-            "freq": "10732 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Kenya   vs   Eritrea"
-        },
-        {
-            "channel": "KBC 1 Kenya",
-            "sat": "Express AMU1 36.1\u00b0e",
-            "freq": "12265 V 31420 - 3/4",
-            "encry": "Irdeto",
-            "link": "#",
-            "related_to": "     Kenya   vs   Eritrea"
-        },
-        {
-            "compet": "CAF African Cup of Nations - Group D, Round 1",
             "match": "     South Africa   vs   Guinea",
             "flags": {
                 "team1": "southafrica",
@@ -1191,6 +1157,14 @@
             "related_to": "     South Africa   vs   Guinea"
         },
         {
+            "channel": "New World Sport 1 Mauritius",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     South Africa   vs   Guinea"
+        },
+        {
             "channel": "RTG Guinea",
             "sat": "SES 5 5.0\u00b0e",
             "freq": "11766 H 27500 - 3/4",
@@ -1205,6 +1179,56 @@
             "encry": "MPEG-4 Nagra",
             "link": "#",
             "related_to": "     South Africa   vs   Guinea"
+        },
+        {
+            "channel": "Sportitalia HD",
+            "sat": "Eutelsat 9B 9.0\u00b0e",
+            "freq": "12341 V 31400 - 5/6",
+            "encry": "FTA",
+            "link": "https://sportitalialive.it/sihd/",
+            "related_to": "     South Africa   vs   Guinea"
+        },
+        {
+            "compet": "CAF African Cup of Nations - Group D, Round 1",
+            "match": "     Kenya   vs   Eritrea",
+            "flags": {
+                "team1": "kenya",
+                "team2": "eritrea"
+            },
+            "time": "13:00",
+            "date": "2026-09-26"
+        },
+        {
+            "channel": "5 SPORT Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Kenya   vs   Eritrea"
+        },
+        {
+            "channel": "beIN Sports 3 HD (Astro)",
+            "sat": "Measat 3b 91.5\u00b0e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Kenya   vs   Eritrea"
+        },
+        {
+            "channel": "KBC 1 Kenya",
+            "sat": "Express AMU1 36.1\u00b0e",
+            "freq": "12265 V 31420 - 3/4",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "     Kenya   vs   Eritrea"
+        },
+        {
+            "channel": "New World Sport 3 Togo",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Kenya   vs   Eritrea"
         },
         {
             "compet": "Italian Womens Serie A - Week 1",
@@ -1611,6 +1635,40 @@
             "related_to": "     Barry Town United   vs   Connah's Quay"
         },
         {
+            "compet": "German Regionalliga: Nordost - Week 11",
+            "match": "     Eintracht 1949   vs   Chemnitz",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "14:00",
+            "date": "2026-09-26"
+        },
+        {
+            "channel": "FreiePresse [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 -",
+            "encry": "",
+            "link": "https://www.freiepresse.de/sport",
+            "related_to": "     Eintracht 1949   vs   Chemnitz"
+        },
+        {
+            "channel": "LVZ Live Sport [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.lvz.de/themen/sachsen-livesport/",
+            "related_to": "     Eintracht 1949   vs   Chemnitz"
+        },
+        {
+            "channel": "MZ Deutsch Live [online]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 -",
+            "encry": "",
+            "link": "https://www.mz.de/live",
+            "related_to": "     Eintracht 1949   vs   Chemnitz"
+        },
+        {
             "compet": "English National League South - National League South - 10",
             "match": "     Dagenham & Redbridge   vs   Hampton & Richmond",
             "flags": {
@@ -1885,24 +1943,6 @@
             "related_to": "     IFK Norrk\u00f6ping   vs   BK H\u00e4cken"
         },
         {
-            "compet": "Serbian 1st League (Prva liga Srbija) - Week 11",
-            "match": "     Borac Cacak   vs   TSC Backa",
-            "flags": {
-                "team1": "serbia",
-                "team2": "serbia"
-            },
-            "time": "14:00",
-            "date": "2026-09-26"
-        },
-        {
-            "channel": "Arena Sport 10 Srbija HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Borac Cacak   vs   TSC Backa"
-        },
-        {
             "compet": "English League One - Week 8",
             "match": "     Cambridge United   vs   AFC Wimbledon",
             "flags": {
@@ -1929,30 +1969,22 @@
             "related_to": "     Cambridge United   vs   AFC Wimbledon"
         },
         {
-            "compet": "English League One - Week 8",
-            "match": "     Milton Keynes Dons   vs   Bromley",
+            "compet": "Serbian 1st League (Prva liga Srbija) - Week 11",
+            "match": "     Borac Cacak   vs   TSC Backa",
             "flags": {
-                "team1": "england",
-                "team2": "england"
+                "team1": "serbia",
+                "team2": "serbia"
             },
             "time": "14:00",
             "date": "2026-09-26"
         },
         {
-            "channel": "** P-O-S-T-P-O-N-E-D **",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
+            "channel": "Arena Sport 10 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
-            "related_to": "     Milton Keynes Dons   vs   Bromley"
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Milton Keynes Dons   vs   Bromley"
+            "related_to": "     Borac Cacak   vs   TSC Backa"
         },
         {
             "compet": "Scottish Challenge Cup - Group Stage - 5",
@@ -2421,58 +2453,6 @@
             "related_to": "     Aldershot   vs   Tamworth"
         },
         {
-            "compet": "English League One - Week 8",
-            "match": "     Notts County   vs   Blackpool",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "14:00",
-            "date": "2026-09-26"
-        },
-        {
-            "channel": "** P-O-S-T-P-O-N-E-D **",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Notts County   vs   Blackpool"
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Notts County   vs   Blackpool"
-        },
-        {
-            "compet": "English League Two - Week 8",
-            "match": "     Port Vale   vs   Northampton Town",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "14:00",
-            "date": "2026-09-26"
-        },
-        {
-            "channel": "** P-O-S-T-P-O-N-E-D **",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Port Vale   vs   Northampton Town"
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Port Vale   vs   Northampton Town"
-        },
-        {
             "compet": "Northern Ireland Premiership - Week 9",
             "match": "     Limavady United   vs   Cliftonville",
             "flags": {
@@ -2543,24 +2523,6 @@
             "encry": "",
             "link": "https://nifltv.co.uk/en",
             "related_to": "     Ballymena United   vs   Portadown"
-        },
-        {
-            "compet": "German Regionalliga: Nordost - Week 11",
-            "match": "     Eintracht 1949   vs   Chemnitz",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "14:00",
-            "date": "2026-09-26"
-        },
-        {
-            "channel": "FreiePresse [online]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 -",
-            "encry": "",
-            "link": "https://www.freiepresse.de/sport",
-            "related_to": "     Eintracht 1949   vs   Chemnitz"
         },
         {
             "compet": "English League One - Week 8",
@@ -2653,24 +2615,6 @@
             "related_to": "     Swindon Town   vs   Accrington Stanley"
         },
         {
-            "compet": "English League One - Week 8",
-            "match": "     Stevenage   vs   Sheffield Wednesday",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "14:00",
-            "date": "2026-09-26"
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Stevenage   vs   Sheffield Wednesday"
-        },
-        {
             "compet": "English League Two - Week 8",
             "match": "     Shrewsbury Town   vs   Colchester United",
             "flags": {
@@ -2726,42 +2670,6 @@
         },
         {
             "compet": "English League Two - Week 8",
-            "match": "     Newport County   vs   Grimsby Town",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "14:00",
-            "date": "2026-09-26"
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Newport County   vs   Grimsby Town"
-        },
-        {
-            "compet": "English League One - Week 8",
-            "match": "     Mansfield Town   vs   Leyton Orient",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "14:00",
-            "date": "2026-09-26"
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Mansfield Town   vs   Leyton Orient"
-        },
-        {
-            "compet": "English League Two - Week 8",
             "match": "     Fleetwood Town   vs   Rochdale",
             "flags": {
                 "team1": "england",
@@ -2813,24 +2721,6 @@
             "encry": "",
             "link": "#",
             "related_to": "     Bristol Rovers   vs   Exeter City"
-        },
-        {
-            "compet": "English League One - Week 8",
-            "match": "     Bradford City   vs   Barnsley",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "14:00",
-            "date": "2026-09-26"
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Bradford City   vs   Barnsley"
         },
         {
             "compet": "Spanish La Liga 2 - Week 7",
@@ -2895,6 +2785,74 @@
             "related_to": "     Ajax   vs   ADO Den Haag"
         },
         {
+            "compet": "UEFA U-21 Championship 2027 Qualifiers",
+            "match": "     Croatia U-21   vs   Hungary U-21",
+            "flags": {
+                "team1": "croatia",
+                "team2": "hungary"
+            },
+            "time": "15:00",
+            "date": "2026-09-26"
+        },
+        {
+            "channel": "Arena Sport 1 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11720 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Croatia U-21   vs   Hungary U-21"
+        },
+        {
+            "channel": "M4 Sport Hungary HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11778 V 29900 - 2/3",
+            "encry": "HD Conax",
+            "link": "https://m4sport.hu/elo/mtv4live/",
+            "related_to": "     Croatia U-21   vs   Hungary U-21"
+        },
+        {
+            "channel": "MAX Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11512 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Croatia U-21   vs   Hungary U-21"
+        },
+        {
+            "channel": "MAX Sport 2 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11595 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Croatia U-21   vs   Hungary U-21"
+        },
+        {
+            "compet": "UEFA U-21 Championship 2027 Qualifiers",
+            "match": "     Georgia U-21   vs   Greece U-21",
+            "flags": {
+                "team1": "georgia",
+                "team2": "greece"
+            },
+            "time": "15:00",
+            "date": "2026-09-26"
+        },
+        {
+            "channel": "1TV Sporti Georgia HD",
+            "sat": "Eutelsat 36D 35.9\u00b0e",
+            "freq": "11221 H 30000 - 2/3",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Georgia U-21   vs   Greece U-21"
+        },
+        {
+            "channel": "ERT 2 Sport Hellas HD",
+            "sat": "Hellas Sat 3 39.0\u00b0e",
+            "freq": "12223 H 13381 - 3/4",
+            "encry": "MPEG-4 Biss",
+            "link": "#",
+            "related_to": "     Georgia U-21   vs   Greece U-21"
+        },
+        {
             "compet": "Arabian Gulf Cup - Round 2",
             "match": "     Kuwait   vs   Iraq",
             "flags": {
@@ -2921,14 +2879,6 @@
             "related_to": "     Kuwait   vs   Iraq"
         },
         {
-            "channel": "Al Kass 2 HD",
-            "sat": "Badr 4 26.0\u00b0e",
-            "freq": "12245 V 27500 - 5/6",
-            "encry": "FTA",
-            "link": "http://www.alkass.net/alkass/live.aspx?ch=two",
-            "related_to": "     Kuwait   vs   Iraq"
-        },
-        {
             "channel": "Bahrain Sports 1 HD",
             "sat": "Badr 4 26.0\u00b0e",
             "freq": "12226 H 27500 - 3/4",
@@ -2945,7 +2895,7 @@
             "related_to": "     Kuwait   vs   Iraq"
         },
         {
-            "channel": "KSA Sports 1 HD",
+            "channel": "KSA Sports 2 HD",
             "sat": "Al Yah 1 52.5\u00b0e",
             "freq": "11747 H 27500 - 5/6",
             "encry": "FTA",
@@ -2999,40 +2949,6 @@
             "encry": "HD Viaccess",
             "link": "#",
             "related_to": "     Kuwait   vs   Iraq"
-        },
-        {
-            "compet": "UEFA U-21 Championship 2027 Qualifiers",
-            "match": "     Croatia U-21   vs   Hungary U-21",
-            "flags": {
-                "team1": "croatia",
-                "team2": "hungary"
-            },
-            "time": "15:00",
-            "date": "2026-09-26"
-        },
-        {
-            "channel": "Arena Sport 1 BiH HD",
-            "sat": "Astra 3B 23.5\u00b0e",
-            "freq": "11720 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Croatia U-21   vs   Hungary U-21"
-        },
-        {
-            "channel": "MAX Sport 1 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11512 H 30000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Croatia U-21   vs   Hungary U-21"
-        },
-        {
-            "channel": "MAX Sport 2 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0\u00b0e",
-            "freq": "11595 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Croatia U-21   vs   Hungary U-21"
         },
         {
             "compet": "Norwegian Toppserien (W) - Week 17",
@@ -3637,6 +3553,14 @@
             "related_to": "     Iceland   vs   Estonia"
         },
         {
+            "channel": "New World Sport 2 Mauritius",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Iceland   vs   Estonia"
+        },
+        {
             "channel": "Nova Sports Start Hellas HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "11804 V 29700 - 3/4",
@@ -3991,6 +3915,48 @@
             "related_to": "     San Marino   vs   Finland"
         },
         {
+            "compet": "UEFA U-21 Championship 2027 Qualifiers",
+            "match": "     Latvia U-21   vs   Germany U-21",
+            "flags": {
+                "team1": "latvia",
+                "team2": "germany"
+            },
+            "time": "16:00",
+            "date": "2026-09-26"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Latvia U-21   vs   Germany U-21"
+        },
+        {
+            "channel": "DAZN France ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Latvia U-21   vs   Germany U-21"
+        },
+        {
+            "channel": "SAT.1 Deutschland HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12545 H 22000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Latvia U-21   vs   Germany U-21"
+        },
+        {
+            "channel": "YouTube: German Football (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.youtube.com/@GermanFootball/streams",
+            "related_to": "     Latvia U-21   vs   Germany U-21"
+        },
+        {
             "compet": "UEFA Nations League - League C Group 3 Round 1",
             "match": "     Faroe Islands   vs   Kazakhstan",
             "flags": {
@@ -4267,24 +4233,6 @@
             "encry": "",
             "link": "https://www.vgtv.no/live",
             "related_to": "     London City   vs   Brighton H.A."
-        },
-        {
-            "compet": "UEFA U-21 Championship 2027 Qualifiers",
-            "match": "     Latvia U-21   vs   Germany U-21",
-            "flags": {
-                "team1": "latvia",
-                "team2": "germany"
-            },
-            "time": "16:00",
-            "date": "2026-09-26"
-        },
-        {
-            "channel": "YouTube: German Football (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.youtube.com/@GermanFootball/streams",
-            "related_to": "     Latvia U-21   vs   Germany U-21"
         },
         {
             "compet": "T\u00fcrkiye 2. Lig - Red Group: Round 4",
@@ -4633,11 +4581,11 @@
             "date": "2026-09-26"
         },
         {
-            "channel": "Abu Dhabi Sports 1 HD",
+            "channel": "Abu Dhabi Sports 2 HD",
             "sat": "Badr 8 26.0\u00b0e",
             "freq": "11804 H 30000 - 3/4",
             "encry": "FTA",
-            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%201",
+            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%202",
             "related_to": "     Oman   vs   Saudi Arabia"
         },
         {
@@ -4646,6 +4594,14 @@
             "freq": "12245 H 27500 - 5/6",
             "encry": "FTA",
             "link": "http://www.alkass.net/alkass/live.aspx?ch=one",
+            "related_to": "     Oman   vs   Saudi Arabia"
+        },
+        {
+            "channel": "Al Kass 2 HD",
+            "sat": "Badr 4 26.0\u00b0e",
+            "freq": "12245 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "http://www.alkass.net/alkass/live.aspx?ch=two",
             "related_to": "     Oman   vs   Saudi Arabia"
         },
         {
@@ -4684,14 +4640,6 @@
             "channel": "MBC Action HD",
             "sat": "Badr 8 26.0\u00b0e",
             "freq": "12284 V 27500 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Oman   vs   Saudi Arabia"
-        },
-        {
-            "channel": "MBC MENA HD",
-            "sat": "Badr 8 26.0\u00b0e",
-            "freq": "12399 V 27500 - 3/4",
             "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Oman   vs   Saudi Arabia"
@@ -5027,6 +4975,14 @@
             "related_to": "     England   vs   Spain"
         },
         {
+            "channel": "Meraj TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11221 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     England   vs   Spain"
+        },
+        {
             "channel": "Monomax Streaming ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -5055,6 +5011,14 @@
             "sat": "Thor 7 0.6\u00b0w",
             "freq": "12476 H 30000 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     England   vs   Spain"
+        },
+        {
+            "channel": "New World Sport 1 Mauritius",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     England   vs   Spain"
         },
@@ -5111,6 +5075,14 @@
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "11958 V 27500 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     England   vs   Spain"
+        },
+        {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     England   vs   Spain"
         },
@@ -5525,6 +5497,14 @@
             "related_to": "     Czechia   vs   Croatia"
         },
         {
+            "channel": "New World Sport 2 Mauritius",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Czechia   vs   Croatia"
+        },
+        {
             "channel": "Nova Sports 3 Hellas HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "11823 H 27500 - 3/4",
@@ -5581,10 +5561,10 @@
             "related_to": "     Czechia   vs   Croatia"
         },
         {
-            "channel": "Sky Sport 251 Italia HD",
+            "channel": "Sky Sport 254 Italia HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "12418 V 29900 - 3/4",
-            "encry": "HD VideoGuard",
+            "freq": "12073 V 29900 - 5/6",
+            "encry": "VideoGuard",
             "link": "#",
             "related_to": "     Czechia   vs   Croatia"
         },
@@ -6376,22 +6356,6 @@
             "channel": "Premier Sports 1 UK HD",
             "sat": "Astra 2G 28.2\u00b0e",
             "freq": "11686 V 23000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Queen of the South   vs   Rangers B"
-        },
-        {
-            "channel": "Premier Sports 2 Ireland HD",
-            "sat": "Astra 2F 28.2\u00b0e",
-            "freq": "12188 H 27500 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Queen of the South   vs   Rangers B"
-        },
-        {
-            "channel": "Premier Sports 2 UK HD",
-            "sat": "Astra 2G 28.2\u00b0e",
-            "freq": "11671 H 23000 - 2/3",
             "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Queen of the South   vs   Rangers B"
