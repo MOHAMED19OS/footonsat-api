@@ -46,32 +46,6 @@
         },
         {
             "compet": "Major League Soccer (MLS) - Week",
-            "match": "     New York Red Bulls   vs   St Louis City",
-            "flags": {
-                "team1": "usa",
-                "team2": "usa"
-            },
-            "time": "23:30",
-            "date": "2026-09-26"
-        },
-        {
-            "channel": "Apple TV ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://tv.apple.com/",
-            "related_to": "     New York Red Bulls   vs   St Louis City"
-        },
-        {
-            "channel": "MLS Season Pass [$]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     New York Red Bulls   vs   St Louis City"
-        },
-        {
-            "compet": "Major League Soccer (MLS) - Week",
             "match": "     Charlotte   vs   Chicago Fire",
             "flags": {
                 "team1": "usa",
@@ -561,6 +535,14 @@
             "related_to": "     Inter Milan   vs   Fiorentina"
         },
         {
+            "channel": "Fox Soccer Plus USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Inter Milan   vs   Fiorentina"
+        },
+        {
             "compet": "Swedish Damallsvenskan - Week 20",
             "match": "     Roseng\u00e5rd   vs   Pite\u00e5",
             "flags": {
@@ -719,6 +701,56 @@
             "related_to": "     Rangers   vs   Celtic"
         },
         {
+            "compet": "English Womens Super League - Week 4",
+            "match": "     Manchester United   vs   West Ham United",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "12:00",
+            "date": "2026-09-27"
+        },
+        {
+            "channel": "Sky Sport 9 NZ HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Manchester United   vs   West Ham United"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Manchester United   vs   West Ham United"
+        },
+        {
+            "channel": "Sportdigital 1+ Deutsch HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Manchester United   vs   West Ham United"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
+            "related_to": "     Manchester United   vs   West Ham United"
+        },
+        {
+            "channel": "YouTube: Sky Sports WSL",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 -",
+            "encry": "",
+            "link": "https://www.youtube.com/@SkySportsWSL/streams",
+            "related_to": "     Manchester United   vs   West Ham United"
+        },
+        {
             "compet": "German Regionalliga: Nordost - Week 11",
             "match": "     Erzgebirge Aue   vs   Chemie Leipzig",
             "flags": {
@@ -793,48 +825,6 @@
             "encry": "Seca",
             "link": "#",
             "related_to": "     Real Valladolid   vs   C\u00f3rdoba"
-        },
-        {
-            "compet": "English Womens Super League - Week 4",
-            "match": "     Manchester United   vs   West Ham United",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "12:00",
-            "date": "2026-09-27"
-        },
-        {
-            "channel": "Sky Sport 9 NZ HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Manchester United   vs   West Ham United"
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Manchester United   vs   West Ham United"
-        },
-        {
-            "channel": "Sportdigital 1+ Deutsch HD",
-            "sat": "Astra 1L 19.2\u00b0e",
-            "freq": "11186 V 22000 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Manchester United   vs   West Ham United"
-        },
-        {
-            "channel": "VG+ Sport Norge ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.vgtv.no/live",
-            "related_to": "     Manchester United   vs   West Ham United"
         },
         {
             "compet": "German W/Cup (DFB-Pokal Frauen) - Round 1",
@@ -1099,6 +1089,14 @@
             "related_to": "     Lithuania   vs   Azerbaijan"
         },
         {
+            "channel": "Fox Sports 2 USA HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Lithuania   vs   Azerbaijan"
+        },
+        {
             "channel": "LRT Plius HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1143,6 +1141,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Lithuania   vs   Azerbaijan"
+        },
+        {
+            "channel": "New World Sport 1 Mauritius",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     Lithuania   vs   Azerbaijan"
         },
@@ -1331,6 +1337,124 @@
             "related_to": "     Lithuania   vs   Azerbaijan"
         },
         {
+            "compet": "Italian Womens Serie A - Week 1",
+            "match": "     Sassuolo   vs   Roma",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "13:00",
+            "date": "2026-09-27"
+        },
+        {
+            "channel": "DAZN 1 Italia HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11843 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Sassuolo   vs   Roma"
+        },
+        {
+            "channel": "DAZN Italia ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Sassuolo   vs   Roma"
+        },
+        {
+            "channel": "Fox Soccer Plus USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Sassuolo   vs   Roma"
+        },
+        {
+            "compet": "English Womens Super League - Week 4",
+            "match": "     Tottenham Hotspur   vs   Aston Villa",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "13:00",
+            "date": "2026-09-27"
+        },
+        {
+            "channel": "Sky Sport Select NZ HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Tottenham Hotspur   vs   Aston Villa"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Tottenham Hotspur   vs   Aston Villa"
+        },
+        {
+            "channel": "Sport 1 Israel HD",
+            "sat": "Dror 1 4.0\u00b0w",
+            "freq": "11259 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Tottenham Hotspur   vs   Aston Villa"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
+            "related_to": "     Tottenham Hotspur   vs   Aston Villa"
+        },
+        {
+            "channel": "YouTube: Sky Sports WSL",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 -",
+            "encry": "",
+            "link": "https://www.youtube.com/@SkySportsWSL/streams",
+            "related_to": "     Tottenham Hotspur   vs   Aston Villa"
+        },
+        {
+            "compet": "English Womens Super League - Week 4",
+            "match": "     Birmingham City   vs   Crystal Palace",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "13:00",
+            "date": "2026-09-27"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Birmingham City   vs   Crystal Palace"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
+            "related_to": "     Birmingham City   vs   Crystal Palace"
+        },
+        {
+            "channel": "YouTube: Sky Sports WSL",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 -",
+            "encry": "",
+            "link": "https://www.youtube.com/@SkySportsWSL/streams",
+            "related_to": "     Birmingham City   vs   Crystal Palace"
+        },
+        {
             "compet": "German W/Cup (DFB-Pokal Frauen) - Round 1",
             "match": "     M\u00f6nchengladbach   vs   Bayern Munich",
             "flags": {
@@ -1421,32 +1545,6 @@
             "related_to": "     M\u00f6nchengladbach   vs   Bayern Munich"
         },
         {
-            "compet": "Italian Womens Serie A - Week 1",
-            "match": "     Sassuolo   vs   Roma",
-            "flags": {
-                "team1": "italy",
-                "team2": "italy"
-            },
-            "time": "13:00",
-            "date": "2026-09-27"
-        },
-        {
-            "channel": "DAZN 1 Italia HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "11843 V 29900 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Sassuolo   vs   Roma"
-        },
-        {
-            "channel": "DAZN Italia ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Sassuolo   vs   Roma"
-        },
-        {
             "compet": "English Womens Super League - Week 4",
             "match": "     Liverpool   vs   Everton",
             "flags": {
@@ -1527,74 +1625,6 @@
             "encry": "",
             "link": "https://www.vgtv.no/live",
             "related_to": "     Liverpool   vs   Everton"
-        },
-        {
-            "compet": "English Womens Super League - Week 4",
-            "match": "     Tottenham Hotspur   vs   Aston Villa",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "13:00",
-            "date": "2026-09-27"
-        },
-        {
-            "channel": "Sky Sport Select NZ HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Tottenham Hotspur   vs   Aston Villa"
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Tottenham Hotspur   vs   Aston Villa"
-        },
-        {
-            "channel": "Sport 1 Israel HD",
-            "sat": "Dror 1 4.0\u00b0w",
-            "freq": "11259 V 30000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Tottenham Hotspur   vs   Aston Villa"
-        },
-        {
-            "channel": "VG+ Sport Norge ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.vgtv.no/live",
-            "related_to": "     Tottenham Hotspur   vs   Aston Villa"
-        },
-        {
-            "compet": "English Womens Super League - Week 4",
-            "match": "     Birmingham City   vs   Crystal Palace",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "13:00",
-            "date": "2026-09-27"
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Birmingham City   vs   Crystal Palace"
-        },
-        {
-            "channel": "VG+ Sport Norge ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.vgtv.no/live",
-            "related_to": "     Birmingham City   vs   Crystal Palace"
         },
         {
             "compet": "Greek Super League 2 - Week 4",
@@ -1851,104 +1881,6 @@
             "encry": "HD Mediaguard",
             "link": "#",
             "related_to": "     Heerenveen   vs   Utrecht"
-        },
-        {
-            "compet": "Arabian Gulf Cup - Round 2",
-            "match": "     Yemen   vs   Qatar",
-            "flags": {
-                "team1": "yemen",
-                "team2": "qatar"
-            },
-            "time": "15:00",
-            "date": "2026-09-27"
-        },
-        {
-            "channel": "Abu Dhabi Sports 2 HD",
-            "sat": "Badr 8 26.0\u00b0e",
-            "freq": "11804 H 30000 - 3/4",
-            "encry": "FTA",
-            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%202",
-            "related_to": "     Yemen   vs   Qatar"
-        },
-        {
-            "channel": "Al Kass 1 HD",
-            "sat": "Badr 4 26.0\u00b0e",
-            "freq": "12245 H 27500 - 5/6",
-            "encry": "FTA",
-            "link": "http://www.alkass.net/alkass/live.aspx?ch=one",
-            "related_to": "     Yemen   vs   Qatar"
-        },
-        {
-            "channel": "Al Kass 2 HD",
-            "sat": "Badr 4 26.0\u00b0e",
-            "freq": "12245 V 27500 - 5/6",
-            "encry": "FTA",
-            "link": "http://www.alkass.net/alkass/live.aspx?ch=two",
-            "related_to": "     Yemen   vs   Qatar"
-        },
-        {
-            "channel": "Bahrain Sports 1 HD",
-            "sat": "Badr 4 26.0\u00b0e",
-            "freq": "12226 H 27500 - 3/4",
-            "encry": "FTA",
-            "link": "#",
-            "related_to": "     Yemen   vs   Qatar"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Yemen   vs   Qatar"
-        },
-        {
-            "channel": "KSA Sports 2 HD",
-            "sat": "Al Yah 1 52.5\u00b0e",
-            "freq": "11747 H 27500 - 5/6",
-            "encry": "FTA",
-            "link": "#",
-            "related_to": "     Yemen   vs   Qatar"
-        },
-        {
-            "channel": "Kuwait Sport HD",
-            "sat": "Badr 4 26.0\u00b0e",
-            "freq": "12523 H 27500 - 2/3",
-            "encry": "FTA",
-            "link": "#",
-            "related_to": "     Yemen   vs   Qatar"
-        },
-        {
-            "channel": "MBC Action HD",
-            "sat": "Badr 8 26.0\u00b0e",
-            "freq": "12284 V 27500 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Yemen   vs   Qatar"
-        },
-        {
-            "channel": "Oman TV Sport HD",
-            "sat": "Badr 8 26.0\u00b0e",
-            "freq": "12456 H 27500 - 3/4",
-            "encry": "FTA",
-            "link": "#",
-            "related_to": "     Yemen   vs   Qatar"
-        },
-        {
-            "channel": "Sharjah Sports HD",
-            "sat": "Eutelsat 8 West B 8.0\u00b0w",
-            "freq": "11013 V 27500 - 5/6",
-            "encry": "FTA",
-            "link": "https://sba.net.ae/channels/tv/35/stream",
-            "related_to": "     Yemen   vs   Qatar"
-        },
-        {
-            "channel": "Sportdigital FUSSBALL HD",
-            "sat": "Astra 1L 19.2\u00b0e",
-            "freq": "11186 V 22000 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Yemen   vs   Qatar"
         },
         {
             "compet": "Scottish SWPL 1 - Week 6",
@@ -2245,6 +2177,96 @@
             "related_to": "     Perugia   vs   Reggiana"
         },
         {
+            "compet": "Arabian Gulf Cup - Round 2",
+            "match": "     Yemen   vs   Qatar",
+            "flags": {
+                "team1": "yemen",
+                "team2": "qatar"
+            },
+            "time": "15:55",
+            "date": "2026-09-27"
+        },
+        {
+            "channel": "Abu Dhabi Sports 2 HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "11804 H 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%202",
+            "related_to": "     Yemen   vs   Qatar"
+        },
+        {
+            "channel": "Al Kass 1 HD",
+            "sat": "Badr 4 26.0\u00b0e",
+            "freq": "12245 H 27500 - 5/6",
+            "encry": "FTA",
+            "link": "http://www.alkass.net/alkass/live.aspx?ch=one",
+            "related_to": "     Yemen   vs   Qatar"
+        },
+        {
+            "channel": "Bahrain Sports 1 HD",
+            "sat": "Badr 4 26.0\u00b0e",
+            "freq": "12226 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Yemen   vs   Qatar"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Yemen   vs   Qatar"
+        },
+        {
+            "channel": "KSA Sports 2 HD",
+            "sat": "Al Yah 1 52.5\u00b0e",
+            "freq": "11747 H 27500 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Yemen   vs   Qatar"
+        },
+        {
+            "channel": "Kuwait Sport HD",
+            "sat": "Badr 4 26.0\u00b0e",
+            "freq": "12523 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Yemen   vs   Qatar"
+        },
+        {
+            "channel": "MBC Action HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "12284 V 27500 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Yemen   vs   Qatar"
+        },
+        {
+            "channel": "Oman TV Sport HD",
+            "sat": "Badr 8 26.0\u00b0e",
+            "freq": "12456 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Yemen   vs   Qatar"
+        },
+        {
+            "channel": "Sharjah Sports 2 HD",
+            "sat": "Eutelsat 8 West B 8.0\u00b0w",
+            "freq": "11013 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Yemen   vs   Qatar"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Yemen   vs   Qatar"
+        },
+        {
             "compet": "UEFA Nations League - League A Group 2 Round 2",
             "match": "     Serbia   vs   Netherlands",
             "flags": {
@@ -2367,6 +2389,14 @@
             "related_to": "     Serbia   vs   Netherlands"
         },
         {
+            "channel": "Fox Sports 2 USA HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Serbia   vs   Netherlands"
+        },
+        {
             "channel": "GEM Sport 1 HD",
             "sat": "Al Yah 1 52.5\u00b0e",
             "freq": "12034 V 27500 - 3/4",
@@ -2411,6 +2441,14 @@
             "sat": "Thor 7 0.6\u00b0w",
             "freq": "12476 H 30000 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Serbia   vs   Netherlands"
+        },
+        {
+            "channel": "New World Sport 2 Mauritius",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     Serbia   vs   Netherlands"
         },
@@ -2507,6 +2545,14 @@
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "11958 V 27500 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Serbia   vs   Netherlands"
+        },
+        {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Serbia   vs   Netherlands"
         },
@@ -3527,6 +3573,14 @@
             "date": "2026-09-27"
         },
         {
+            "channel": "beIN Sports MENA English 2 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "11390 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Spain U-20   vs   North Korea U-20"
+        },
+        {
             "channel": "DAZN Deutsch ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -3567,10 +3621,74 @@
             "related_to": "     Spain U-20   vs   North Korea U-20"
         },
         {
+            "channel": "Fox Soccer Plus USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Spain U-20   vs   North Korea U-20"
+        },
+        {
+            "channel": "L\u00b4\u00c9quipe Live Foot (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://lequipe.fr/",
+            "related_to": "     Spain U-20   vs   North Korea U-20"
+        },
+        {
             "channel": "MATCH! Futbol 3 HD",
             "sat": "Horizons 2 84.8\u00b0e",
             "freq": "11840 H 28800 - 2/3",
             "encry": "MPEG-4 Irdeto",
+            "link": "#",
+            "related_to": "     Spain U-20   vs   North Korea U-20"
+        },
+        {
+            "channel": "NBC Universo USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Spain U-20   vs   North Korea U-20"
+        },
+        {
+            "channel": "New World Sport 1 Mauritius",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Spain U-20   vs   North Korea U-20"
+        },
+        {
+            "channel": "Teledeporte Espa\u00f1a",
+            "sat": "*DTT 0.0\u00b0-",
+            "freq": "0000 - -",
+            "encry": "HD NagraVision",
+            "link": "http://www.rtve.es/directo/teledeporte/",
+            "related_to": "     Spain U-20   vs   North Korea U-20"
+        },
+        {
+            "channel": "TSN Canada 2 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Spain U-20   vs   North Korea U-20"
+        },
+        {
+            "channel": "TSN+ Canada ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.tsn.ca/tsnplus",
+            "related_to": "     Spain U-20   vs   North Korea U-20"
+        },
+        {
+            "channel": "TVP Sport Polska HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "10834 V 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "#",
             "related_to": "     Spain U-20   vs   North Korea U-20"
         },
@@ -3742,6 +3860,14 @@
             "freq": "12245 H 27500 - 5/6",
             "encry": "FTA",
             "link": "http://www.alkass.net/alkass/live.aspx?ch=one",
+            "related_to": "     Bahrain   vs   U.A.E."
+        },
+        {
+            "channel": "Al Kass 2 HD",
+            "sat": "Badr 4 26.0\u00b0e",
+            "freq": "12245 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "http://www.alkass.net/alkass/live.aspx?ch=two",
             "related_to": "     Bahrain   vs   U.A.E."
         },
         {
@@ -4067,6 +4193,14 @@
             "related_to": "     Norway   vs   Portugal"
         },
         {
+            "channel": "IRIB Varzesh HD",
+            "sat": "Intelsat 39 62.0\u00b0e",
+            "freq": "11555 V 30000 - 2/3",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Norway   vs   Portugal"
+        },
+        {
             "channel": "L\u00b4\u00c9quipe Live Foot (geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -4111,6 +4245,14 @@
             "sat": "Thor 7 0.6\u00b0w",
             "freq": "12476 H 30000 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Norway   vs   Portugal"
+        },
+        {
+            "channel": "New World Sport 1 Mauritius",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     Norway   vs   Portugal"
         },
@@ -4379,6 +4521,14 @@
             "related_to": "     Norway   vs   Portugal"
         },
         {
+            "channel": "ViX TV [app] (geo/R)",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Norway   vs   Portugal"
+        },
+        {
             "channel": "Ziggo Sport 4",
             "sat": "Eutelsat 9B 9.0\u00b0e",
             "freq": "11727 V 30000 - 3/4",
@@ -4509,6 +4659,14 @@
             "related_to": "     Germany   vs   Greece"
         },
         {
+            "channel": "Fox Sports 2 USA HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Germany   vs   Greece"
+        },
+        {
             "channel": "L\u00b4\u00c9quipe Live Foot (geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
@@ -4545,6 +4703,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Germany   vs   Greece"
+        },
+        {
+            "channel": "New World Sport 2 Mauritius",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     Germany   vs   Greece"
         },
@@ -4749,6 +4915,14 @@
             "related_to": "     Germany   vs   Greece"
         },
         {
+            "channel": "ViX TV [app] (geo/R)",
+            "sat": "Download APP 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Germany   vs   Greece"
+        },
+        {
             "channel": "Ziggo Sport 2",
             "sat": "Astra 3C 23.5\u00b0e",
             "freq": "12129 V 29900 - 3/4",
@@ -4868,6 +5042,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://fasttv.am/tv-channels/fastsports2",
+            "related_to": "     Israel   vs   Ireland"
+        },
+        {
+            "channel": "Fox Soccer Plus USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
             "related_to": "     Israel   vs   Ireland"
         },
         {
