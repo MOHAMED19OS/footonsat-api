@@ -2,32 +2,6 @@
     "footonsat": [
         {
             "compet": "UEFA Champions League - League Phase: Round 2",
-            "match": "     Sabah   vs   Slavia Prague",
-            "flags": {
-                "team1": "azerbaijan",
-                "team2": "czechia"
-            },
-            "time": "16:45",
-            "date": "2026-10-13"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Sabah   vs   Slavia Prague"
-        },
-        {
-            "channel": "HBO Max (uk only) [$/geo/R]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.hbomax.com",
-            "related_to": "     Sabah   vs   Slavia Prague"
-        },
-        {
-            "compet": "UEFA Champions League - League Phase: Round 2",
             "match": "     Lens   vs   Sporting Lisbon",
             "flags": {
                 "team1": "france",
@@ -53,11 +27,53 @@
             "related_to": "     Lens   vs   Sporting Lisbon"
         },
         {
+            "channel": "TNT Sports 2 HD",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11597 V 22000 - 5/6",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Lens   vs   Sporting Lisbon"
+        },
+        {
             "compet": "UEFA Champions League - League Phase: Round 2",
-            "match": "     Villarreal   vs   Napoli",
+            "match": "     Sabah   vs   Slavia Prague",
             "flags": {
-                "team1": "spain",
-                "team2": "italy"
+                "team1": "azerbaijan",
+                "team2": "czechia"
+            },
+            "time": "16:45",
+            "date": "2026-10-13"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Sabah   vs   Slavia Prague"
+        },
+        {
+            "channel": "HBO Max (uk only) [$/geo/R]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.hbomax.com",
+            "related_to": "     Sabah   vs   Slavia Prague"
+        },
+        {
+            "channel": "TNT Sports 4 HD",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11597 V 22000 - 5/6",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Sabah   vs   Slavia Prague"
+        },
+        {
+            "compet": "UEFA Champions League - League Phase: Round 2",
+            "match": "     Arsenal   vs   Lille",
+            "flags": {
+                "team1": "england",
+                "team2": "france"
             },
             "time": "19:00",
             "date": "2026-10-13"
@@ -68,7 +84,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
-            "related_to": "     Villarreal   vs   Napoli"
+            "related_to": "     Arsenal   vs   Lille"
         },
         {
             "channel": "HBO Max (uk only) [$/geo/R]",
@@ -76,7 +92,73 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.hbomax.com",
-            "related_to": "     Villarreal   vs   Napoli"
+            "related_to": "     Arsenal   vs   Lille"
+        },
+        {
+            "channel": "TNT Sports 1 HD",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "3775 L 09583 - 2/3",
+            "encry": "Irdeto [c]",
+            "link": "#",
+            "related_to": "     Arsenal   vs   Lille"
+        },
+        {
+            "channel": "TNT Sports Ultimate UHD",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12207 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Arsenal   vs   Lille"
+        },
+        {
+            "compet": "UEFA Champions League - League Phase: Round 2",
+            "match": "     Galatasaray   vs   Barcelona",
+            "flags": {
+                "team1": "turkey",
+                "team2": "spain"
+            },
+            "time": "19:00",
+            "date": "2026-10-13"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Galatasaray   vs   Barcelona"
+        },
+        {
+            "channel": "HBO Max (uk only) [$/geo/R]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.hbomax.com",
+            "related_to": "     Galatasaray   vs   Barcelona"
+        },
+        {
+            "channel": "TNT Sports 2 HD",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11597 V 22000 - 5/6",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Galatasaray   vs   Barcelona"
+        },
+        {
+            "channel": "TNT Sports 8",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11597 V 22000 - 5/6",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Galatasaray   vs   Barcelona"
+        },
+        {
+            "channel": "TRT 1 T\u00fcrkiye HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11096 H 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "https://www.trtizle.com/canli/tv/trt-1",
+            "related_to": "     Galatasaray   vs   Barcelona"
         },
         {
             "compet": "UEFA Champions League - League Phase: Round 2",
@@ -105,6 +187,56 @@
             "related_to": "     Viking   vs   Bayern Munich"
         },
         {
+            "channel": "TNT Sports 4 HD",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11597 V 22000 - 5/6",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Viking   vs   Bayern Munich"
+        },
+        {
+            "channel": "TNT Sports 9",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11597 V 23000 - 2/3",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Viking   vs   Bayern Munich"
+        },
+        {
+            "compet": "UEFA Champions League - League Phase: Round 2",
+            "match": "     Villarreal   vs   Napoli",
+            "flags": {
+                "team1": "spain",
+                "team2": "italy"
+            },
+            "time": "19:00",
+            "date": "2026-10-13"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Villarreal   vs   Napoli"
+        },
+        {
+            "channel": "HBO Max (uk only) [$/geo/R]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.hbomax.com",
+            "related_to": "     Villarreal   vs   Napoli"
+        },
+        {
+            "channel": "TNT Sports 6",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11597 V 22000 - 5/6",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Villarreal   vs   Napoli"
+        },
+        {
             "compet": "UEFA Champions League - League Phase: Round 2",
             "match": "     RB Leipzig   vs   PSV Eindhoven",
             "flags": {
@@ -128,6 +260,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.hbomax.com",
+            "related_to": "     RB Leipzig   vs   PSV Eindhoven"
+        },
+        {
+            "channel": "TNT Sports 7",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11597 V 22000 - 5/6",
+            "encry": "VideoGuard",
+            "link": "#",
             "related_to": "     RB Leipzig   vs   PSV Eindhoven"
         },
         {
@@ -157,38 +297,12 @@
             "related_to": "     Inter Milan   vs   Club Brugge"
         },
         {
-            "compet": "UEFA Champions League - League Phase: Round 2",
-            "match": "     Galatasaray   vs   Barcelona",
-            "flags": {
-                "team1": "turkey",
-                "team2": "spain"
-            },
-            "time": "19:00",
-            "date": "2026-10-13"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
+            "channel": "TNT Sports 5 HD",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11597 V 22000 - 5/6",
+            "encry": "VideoGuard",
             "link": "#",
-            "related_to": "     Galatasaray   vs   Barcelona"
-        },
-        {
-            "channel": "HBO Max (uk only) [$/geo/R]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.hbomax.com",
-            "related_to": "     Galatasaray   vs   Barcelona"
-        },
-        {
-            "channel": "TRT 1 T\u00fcrkiye HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11096 H 30000 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "https://www.trtizle.com/canli/tv/trt-1",
-            "related_to": "     Galatasaray   vs   Barcelona"
+            "related_to": "     Inter Milan   vs   Club Brugge"
         },
         {
             "compet": "UEFA Champions League - League Phase: Round 2",
@@ -234,32 +348,6 @@
         },
         {
             "compet": "UEFA Champions League - League Phase: Round 2",
-            "match": "     Arsenal   vs   Lille",
-            "flags": {
-                "team1": "england",
-                "team2": "france"
-            },
-            "time": "19:00",
-            "date": "2026-10-13"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Arsenal   vs   Lille"
-        },
-        {
-            "channel": "HBO Max (uk only) [$/geo/R]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.hbomax.com",
-            "related_to": "     Arsenal   vs   Lille"
-        },
-        {
-            "compet": "UEFA Champions League - League Phase: Round 2",
             "match": "     LASK Linz   vs   Liverpool",
             "flags": {
                 "team1": "austria",
@@ -282,6 +370,38 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.hbomax.com",
+            "related_to": "     LASK Linz   vs   Liverpool"
+        },
+        {
+            "channel": "TNT Sports 2 HD",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11597 V 22000 - 5/6",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     LASK Linz   vs   Liverpool"
+        },
+        {
+            "channel": "Virgin Media PLAY (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     LASK Linz   vs   Liverpool"
+        },
+        {
+            "channel": "Virgin Media TV [app] (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     LASK Linz   vs   Liverpool"
+        },
+        {
+            "channel": "Virgin Media Two HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11856 V 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
             "related_to": "     LASK Linz   vs   Liverpool"
         },
         {
@@ -311,6 +431,140 @@
             "related_to": "     Feyenoord   vs   Como 1907"
         },
         {
+            "channel": "TNT Sports 4 HD",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11597 V 22000 - 5/6",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Feyenoord   vs   Como 1907"
+        },
+        {
+            "compet": "UEFA Champions League - League Phase: Round 2",
+            "match": "     Manchester City   vs   Paris St Germain",
+            "flags": {
+                "team1": "england",
+                "team2": "france"
+            },
+            "time": "19:00",
+            "date": "2026-10-14"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Manchester City   vs   Paris St Germain"
+        },
+        {
+            "channel": "HBO Max (uk only) [$/geo/R]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.hbomax.com",
+            "related_to": "     Manchester City   vs   Paris St Germain"
+        },
+        {
+            "channel": "TNT Sports 1 HD",
+            "sat": "NSS 12 57.0\u00b0e",
+            "freq": "3775 L 09583 - 2/3",
+            "encry": "Irdeto [c]",
+            "link": "#",
+            "related_to": "     Manchester City   vs   Paris St Germain"
+        },
+        {
+            "channel": "TNT Sports Ultimate UHD",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12207 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Manchester City   vs   Paris St Germain"
+        },
+        {
+            "compet": "UEFA Champions League - League Phase: Round 2",
+            "match": "     Aston Villa   vs   Fenerbah\u00e7e",
+            "flags": {
+                "team1": "england",
+                "team2": "turkey"
+            },
+            "time": "19:00",
+            "date": "2026-10-14"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Fenerbah\u00e7e"
+        },
+        {
+            "channel": "HBO Max (uk only) [$/geo/R]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.hbomax.com",
+            "related_to": "     Aston Villa   vs   Fenerbah\u00e7e"
+        },
+        {
+            "channel": "TNT Sports 2 HD",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11597 V 22000 - 5/6",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Fenerbah\u00e7e"
+        },
+        {
+            "channel": "TRT 1 T\u00fcrkiye HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11096 H 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "https://www.trtizle.com/canli/tv/trt-1",
+            "related_to": "     Aston Villa   vs   Fenerbah\u00e7e"
+        },
+        {
+            "compet": "UEFA Champions League - League Phase: Round 2",
+            "match": "     Roma   vs   Real Madrid",
+            "flags": {
+                "team1": "italy",
+                "team2": "spain"
+            },
+            "time": "19:00",
+            "date": "2026-10-14"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Roma   vs   Real Madrid"
+        },
+        {
+            "channel": "HBO Max (uk only) [$/geo/R]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.hbomax.com",
+            "related_to": "     Roma   vs   Real Madrid"
+        },
+        {
+            "channel": "TNT Sports 10",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11597 V 23000 - 2/3",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Roma   vs   Real Madrid"
+        },
+        {
+            "channel": "TNT Sports 4 HD",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11597 V 22000 - 5/6",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     Roma   vs   Real Madrid"
+        },
+        {
             "compet": "UEFA Champions League - League Phase: Round 2",
             "match": "     Slovan Bratislava   vs   Stuttgart",
             "flags": {
@@ -334,6 +588,14 @@
             "freq": "0000 ",
             "encry": "",
             "link": "https://www.hbomax.com",
+            "related_to": "     Slovan Bratislava   vs   Stuttgart"
+        },
+        {
+            "channel": "TNT Sports 7",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11597 V 22000 - 5/6",
+            "encry": "VideoGuard",
+            "link": "#",
             "related_to": "     Slovan Bratislava   vs   Stuttgart"
         },
         {
@@ -363,30 +625,12 @@
             "related_to": "     Shakhtar Donetsk   vs   AEK Athens"
         },
         {
-            "compet": "UEFA Champions League - League Phase: Round 2",
-            "match": "     Roma   vs   Real Madrid",
-            "flags": {
-                "team1": "italy",
-                "team2": "spain"
-            },
-            "time": "19:00",
-            "date": "2026-10-14"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
+            "channel": "TNT Sports 8",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11597 V 22000 - 5/6",
+            "encry": "VideoGuard",
             "link": "#",
-            "related_to": "     Roma   vs   Real Madrid"
-        },
-        {
-            "channel": "HBO Max (uk only) [$/geo/R]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.hbomax.com",
-            "related_to": "     Roma   vs   Real Madrid"
+            "related_to": "     Shakhtar Donetsk   vs   AEK Athens"
         },
         {
             "compet": "UEFA Champions League - League Phase: Round 2",
@@ -415,30 +659,12 @@
             "related_to": "     Real Betis   vs   FC Porto"
         },
         {
-            "compet": "UEFA Champions League - League Phase: Round 2",
-            "match": "     Manchester City   vs   Paris St Germain",
-            "flags": {
-                "team1": "england",
-                "team2": "france"
-            },
-            "time": "19:00",
-            "date": "2026-10-14"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
+            "channel": "TNT Sports 6",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11597 V 22000 - 5/6",
+            "encry": "VideoGuard",
             "link": "#",
-            "related_to": "     Manchester City   vs   Paris St Germain"
-        },
-        {
-            "channel": "HBO Max (uk only) [$/geo/R]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.hbomax.com",
-            "related_to": "     Manchester City   vs   Paris St Germain"
+            "related_to": "     Real Betis   vs   FC Porto"
         },
         {
             "compet": "UEFA Champions League - League Phase: Round 2",
@@ -467,38 +693,12 @@
             "related_to": "     Bod\u00f8/Glimt   vs   Borussia Dortmund"
         },
         {
-            "compet": "UEFA Champions League - League Phase: Round 2",
-            "match": "     Aston Villa   vs   Fenerbah\u00e7e",
-            "flags": {
-                "team1": "england",
-                "team2": "turkey"
-            },
-            "time": "19:00",
-            "date": "2026-10-14"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
+            "channel": "TNT Sports 5 HD",
+            "sat": "Astra 2G 28.2\u00b0e",
+            "freq": "11597 V 22000 - 5/6",
+            "encry": "VideoGuard",
             "link": "#",
-            "related_to": "     Aston Villa   vs   Fenerbah\u00e7e"
-        },
-        {
-            "channel": "HBO Max (uk only) [$/geo/R]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://www.hbomax.com",
-            "related_to": "     Aston Villa   vs   Fenerbah\u00e7e"
-        },
-        {
-            "channel": "TRT 1 T\u00fcrkiye HD",
-            "sat": "Turksat 3A 42.0\u00b0e",
-            "freq": "11096 H 30000 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "https://www.trtizle.com/canli/tv/trt-1",
-            "related_to": "     Aston Villa   vs   Fenerbah\u00e7e"
+            "related_to": "     Bod\u00f8/Glimt   vs   Borussia Dortmund"
         },
         {
             "compet": "UEFA Champions League - League Phase: Round 3",
