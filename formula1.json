@@ -2,6 +2,216 @@
     "footonsat": [
         {
             "compet": "Formula 1 Grand Prix - Round 16",
+            "match": "       Bahrain Grand Prix       ",
+            "flags": {
+                "team1": "bahrain",
+                "team2": "bahrain"
+            },
+            "time": "07:00",
+            "date": "2026-10-04"
+        },
+        {
+            "channel": "Apple TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.apple.com/",
+            "related_to": "       Bahrain Grand Prix       "
+        },
+        {
+            "channel": "Canal+ France HD",
+            "sat": "Astra 1P 19.2\u00b0e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "       Bahrain Grand Prix       "
+        },
+        {
+            "channel": "Canal+ France UHD HDR",
+            "sat": "Astra 1P 19.2\u00b0e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "       Bahrain Grand Prix       "
+        },
+        {
+            "channel": "DAZN Espa\u00f1a ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "       Bahrain Grand Prix       "
+        },
+        {
+            "channel": "DAZN F1 HD Espa\u00f1a",
+            "sat": "Astra 1KR 19.2\u00b0e",
+            "freq": "10906 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "       Bahrain Grand Prix       "
+        },
+        {
+            "channel": "F1 TV ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://f1tv.formula1.com/",
+            "related_to": "       Bahrain Grand Prix       "
+        },
+        {
+            "channel": "Play RTS Sport (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.rts.ch/play/tv/categories/sport",
+            "related_to": "       Bahrain Grand Prix       "
+        },
+        {
+            "channel": "Setanta Sports 1 Eurasia HD",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "12657 V 45000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "       Bahrain Grand Prix       "
+        },
+        {
+            "channel": "Setanta Sports Ukraine HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "12207 V 30000 - 2/3",
+            "encry": "HD Verimatrix",
+            "link": "#",
+            "related_to": "       Bahrain Grand Prix       "
+        },
+        {
+            "channel": "Sky Sport 3 NZ HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "       Bahrain Grand Prix       "
+        },
+        {
+            "channel": "Sky Sport F1 Deutsch HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "11720 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "       Bahrain Grand Prix       "
+        },
+        {
+            "channel": "Sky Sport F1 Italia 4K UHD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11219 H 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "       Bahrain Grand Prix       "
+        },
+        {
+            "channel": "Sky Sport F1 Italia HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "11996 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "       Bahrain Grand Prix       "
+        },
+        {
+            "channel": "Sky Sports F1 UK HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11934 V 27500 - 5/6",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "       Bahrain Grand Prix       "
+        },
+        {
+            "channel": "Sky Sports F1 UK UHD",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12324 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "       Bahrain Grand Prix       "
+        },
+        {
+            "channel": "Sky Sports Main Event HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11934 V 27500 - 5/6",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "       Bahrain Grand Prix       "
+        },
+        {
+            "channel": "Sky Sports Main Event UHD",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12207 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "       Bahrain Grand Prix       "
+        },
+        {
+            "channel": "SuperSport 1 Albania HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "       Bahrain Grand Prix       "
+        },
+        {
+            "channel": "SuperSport Motorsport HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11130 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "#",
+            "related_to": "       Bahrain Grand Prix       "
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "       Bahrain Grand Prix       "
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "       Bahrain Grand Prix       "
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "       Bahrain Grand Prix       "
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "       Bahrain Grand Prix       "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "       Bahrain Grand Prix       "
+        },
+        {
+            "channel": "ViaPlay \u00cdsland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "       Bahrain Grand Prix       "
+        },
+        {
+            "compet": "Formula 1 Grand Prix - Round 17",
             "match": "       Singapore Grand Prix       ",
             "flags": {
                 "team1": "singapore",
@@ -147,7 +357,7 @@
             "related_to": "       Singapore Grand Prix       "
         },
         {
-            "compet": "Formula 1 Grand Prix - Round 17",
+            "compet": "Formula 1 Grand Prix - Round 18",
             "match": "       United States Grand Prix       ",
             "flags": {
                 "team1": "usa",
@@ -293,7 +503,7 @@
             "related_to": "       United States Grand Prix       "
         },
         {
-            "compet": "Formula 1 Grand Prix - Round 18",
+            "compet": "Formula 1 Grand Prix - Round 19",
             "match": "       Mexican Grand Prix       ",
             "flags": {
                 "team1": "mexico",
@@ -439,7 +649,7 @@
             "related_to": "       Mexican Grand Prix       "
         },
         {
-            "compet": "Formula 1 Grand Prix - Round 19",
+            "compet": "Formula 1 Grand Prix - Round 20",
             "match": "       Brazilian Grand Prix       ",
             "flags": {
                 "team1": "brazil",
@@ -585,7 +795,7 @@
             "related_to": "       Brazilian Grand Prix       "
         },
         {
-            "compet": "Formula 1 Grand Prix - Round 20",
+            "compet": "Formula 1 Grand Prix - Round 21",
             "match": "       Las Vegas Grand Prix       ",
             "flags": {
                 "team1": "usa",
@@ -731,7 +941,7 @@
             "related_to": "       Las Vegas Grand Prix       "
         },
         {
-            "compet": "Formula 1 Grand Prix - Round 21",
+            "compet": "Formula 1 Grand Prix - Round 22",
             "match": "       Qatar Grand Prix       ",
             "flags": {
                 "team1": "qatar",
@@ -877,7 +1087,7 @@
             "related_to": "       Qatar Grand Prix       "
         },
         {
-            "compet": "Formula 1 Grand Prix - Round 22",
+            "compet": "Formula 1 Grand Prix - Round 23",
             "match": "       Abu Dhabi Grand Prix       ",
             "flags": {
                 "team1": "uae",
