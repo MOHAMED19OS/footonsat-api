@@ -285,6 +285,14 @@
             "date": "2026-10-10"
         },
         {
+            "channel": "ESPN 2 Nederland HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11856 V 29900 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Fortuna Sittard   vs   Twente"
+        },
+        {
             "channel": "ESPN Extra Nederland",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -301,6 +309,14 @@
             },
             "time": "19:00",
             "date": "2026-10-10"
+        },
+        {
+            "channel": "ESPN 1 Nederland HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11739 V 29900 - 3/4",
+            "encry": "HD Mediaguard",
+            "link": "#",
+            "related_to": "     Ajax   vs   NEC Nijmegen"
         },
         {
             "channel": "ESPN Extra Nederland",
@@ -329,6 +345,14 @@
             "date": "2026-10-11"
         },
         {
+            "channel": "ESPN 1 Nederland HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11739 V 29900 - 3/4",
+            "encry": "HD Mediaguard",
+            "link": "#",
+            "related_to": "     Utrecht   vs   Willem II"
+        },
+        {
             "channel": "ESPN Extra Nederland",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -345,6 +369,14 @@
             },
             "time": "12:30",
             "date": "2026-10-11"
+        },
+        {
+            "channel": "ESPN 1 Nederland HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11739 V 29900 - 3/4",
+            "encry": "HD Mediaguard",
+            "link": "#",
+            "related_to": "     Telstar   vs   ADO Den Haag"
         },
         {
             "channel": "ESPN Extra Nederland",
@@ -365,6 +397,14 @@
             "date": "2026-10-11"
         },
         {
+            "channel": "ESPN 2 Nederland HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11856 V 29900 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     PEC Zwolle   vs   Cambuur-Leeuwarden"
+        },
+        {
             "channel": "ESPN Extra Nederland",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -383,12 +423,494 @@
             "date": "2026-10-11"
         },
         {
+            "channel": "ESPN 1 Nederland HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11739 V 29900 - 3/4",
+            "encry": "HD Mediaguard",
+            "link": "#",
+            "related_to": "     Excelsior   vs   Groningen"
+        },
+        {
             "channel": "ESPN Extra Nederland",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
             "link": "#",
             "related_to": "     Excelsior   vs   Groningen"
+        },
+        {
+            "compet": "Dutch Eredivisie - Week 9",
+            "match": "     Heerenveen   vs   Excelsior",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "18:00",
+            "date": "2026-10-16"
+        },
+        {
+            "channel": "ESPN 2 Nederland HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11856 V 29900 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Heerenveen   vs   Excelsior"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Heerenveen   vs   Excelsior"
+        },
+        {
+            "compet": "Dutch Eredivisie - Week 9",
+            "match": "     ADO Den Haag   vs   PSV Eindhoven",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "14:30",
+            "date": "2026-10-17"
+        },
+        {
+            "channel": "ESPN 2 Nederland HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11856 V 29900 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     ADO Den Haag   vs   PSV Eindhoven"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     ADO Den Haag   vs   PSV Eindhoven"
+        },
+        {
+            "compet": "Dutch Eerste Divisie - Week 11",
+            "match": "     Emmen   vs   Almere City",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "14:30",
+            "date": "2026-10-17"
+        },
+        {
+            "channel": "ESPN 1 Nederland HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11739 V 29900 - 3/4",
+            "encry": "HD Mediaguard",
+            "link": "#",
+            "related_to": "     Emmen   vs   Almere City"
+        },
+        {
+            "compet": "Dutch Eredivisie - Week 9",
+            "match": "     Telstar   vs   Feyenoord",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "18:00",
+            "date": "2026-10-17"
+        },
+        {
+            "channel": "ESPN 1 Nederland HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11739 V 29900 - 3/4",
+            "encry": "HD Mediaguard",
+            "link": "#",
+            "related_to": "     Telstar   vs   Feyenoord"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Telstar   vs   Feyenoord"
+        },
+        {
+            "compet": "Dutch Eredivisie - Week 9",
+            "match": "     Sparta Rotterdam   vs   Willem II",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "19:00",
+            "date": "2026-10-17"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Sparta Rotterdam   vs   Willem II"
+        },
+        {
+            "compet": "Dutch Eerste Divisie - Week 11",
+            "match": "     RKC Waalwijk   vs   Volendam",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "10:15",
+            "date": "2026-10-18"
+        },
+        {
+            "channel": "ESPN 3 Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     RKC Waalwijk   vs   Volendam"
+        },
+        {
+            "compet": "Dutch Eredivisie - Week 9",
+            "match": "     PEC Zwolle   vs   Go Ahead Eagles",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "10:15",
+            "date": "2026-10-18"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     PEC Zwolle   vs   Go Ahead Eagles"
+        },
+        {
+            "compet": "Dutch Eredivisie - Week 9",
+            "match": "     Cambuur-Leeuwarden   vs   AZ Alkmaar",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "12:30",
+            "date": "2026-10-18"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Cambuur-Leeuwarden   vs   AZ Alkmaar"
+        },
+        {
+            "compet": "Dutch Eredivisie - Week 9",
+            "match": "     Groningen   vs   Ajax",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "14:45",
+            "date": "2026-10-18"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Groningen   vs   Ajax"
+        },
+        {
+            "compet": "Dutch Eerste Divisie - Week 11",
+            "match": "     MVV Maastricht   vs   Heracles Almelo",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "14:45",
+            "date": "2026-10-18"
+        },
+        {
+            "channel": "ESPN 3 Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     MVV Maastricht   vs   Heracles Almelo"
+        },
+        {
+            "compet": "Dutch Eredivisie - Week 9",
+            "match": "     Twente   vs   Utrecht",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "18:00",
+            "date": "2026-10-18"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Twente   vs   Utrecht"
+        },
+        {
+            "compet": "Dutch Eredivisie - Week 9",
+            "match": "     NEC Nijmegen   vs   Fortuna Sittard",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "18:00",
+            "date": "2026-10-18"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     NEC Nijmegen   vs   Fortuna Sittard"
+        },
+        {
+            "compet": "Dutch Cup (KNVB Beker) - 1st Round Proper",
+            "match": "     Excelsior 31   vs   ADO Den Haag",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "17:45",
+            "date": "2026-10-27"
+        },
+        {
+            "channel": "ESPN 2 Nederland HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11856 V 29900 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Excelsior 31   vs   ADO Den Haag"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Excelsior 31   vs   ADO Den Haag"
+        },
+        {
+            "compet": "Dutch Cup (KNVB Beker) - 1st Round Proper",
+            "match": "     Kloetinge   vs   Cambuur-Leeuwarden",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "19:00",
+            "date": "2026-10-27"
+        },
+        {
+            "channel": "ESPN 3 Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Kloetinge   vs   Cambuur-Leeuwarden"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Kloetinge   vs   Cambuur-Leeuwarden"
+        },
+        {
+            "compet": "Dutch Cup (KNVB Beker) - 1st Round Proper",
+            "match": "     Koninklijke HFC   vs   Go Ahead Eagles",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "20:00",
+            "date": "2026-10-27"
+        },
+        {
+            "channel": "ESPN 4 Nederland HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11739 V 29900 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Koninklijke HFC   vs   Go Ahead Eagles"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Koninklijke HFC   vs   Go Ahead Eagles"
+        },
+        {
+            "compet": "Dutch Cup (KNVB Beker) - 1st Round Proper",
+            "match": "     Sparta Rotterdam   vs   Fortuna Sittard",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "17:45",
+            "date": "2026-10-28"
+        },
+        {
+            "channel": "ESPN 2 Nederland HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11856 V 29900 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Sparta Rotterdam   vs   Fortuna Sittard"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Sparta Rotterdam   vs   Fortuna Sittard"
+        },
+        {
+            "compet": "Dutch Cup (KNVB Beker) - 1st Round Proper",
+            "match": "     JOS Watergraafsmeer   vs   NAC Breda",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "19:00",
+            "date": "2026-10-28"
+        },
+        {
+            "channel": "ESPN 3 Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     JOS Watergraafsmeer   vs   NAC Breda"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     JOS Watergraafsmeer   vs   NAC Breda"
+        },
+        {
+            "compet": "Dutch Cup (KNVB Beker) - 1st Round Proper",
+            "match": "     Excelsior Maassluis   vs   Heerenveen",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "20:00",
+            "date": "2026-10-28"
+        },
+        {
+            "channel": "ESPN 4 Nederland HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11739 V 29900 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Excelsior Maassluis   vs   Heerenveen"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Excelsior Maassluis   vs   Heerenveen"
+        },
+        {
+            "compet": "Dutch Cup (KNVB Beker) - 1st Round Proper",
+            "match": "     Kozakken Boys   vs   Utrecht",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "17:45",
+            "date": "2026-10-29"
+        },
+        {
+            "channel": "ESPN 2 Nederland HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11856 V 29900 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Kozakken Boys   vs   Utrecht"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Kozakken Boys   vs   Utrecht"
+        },
+        {
+            "compet": "Dutch Cup (KNVB Beker) - 1st Round Proper",
+            "match": "     De Treffers   vs   Heracles Almelo",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "19:00",
+            "date": "2026-10-29"
+        },
+        {
+            "channel": "ESPN 3 Nederland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     De Treffers   vs   Heracles Almelo"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     De Treffers   vs   Heracles Almelo"
+        },
+        {
+            "compet": "Dutch Cup (KNVB Beker) - 1st Round Proper",
+            "match": "     Groningen   vs   Emmen",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "20:00",
+            "date": "2026-10-29"
+        },
+        {
+            "channel": "ESPN 4 Nederland HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11739 V 29900 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "#",
+            "related_to": "     Groningen   vs   Emmen"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Groningen   vs   Emmen"
         }
     ]
 }
