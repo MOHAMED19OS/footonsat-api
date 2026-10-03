@@ -763,6 +763,14 @@
             "date": "2026-10-03"
         },
         {
+            "channel": "ART Motion Sport 1 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "     Finland   vs   Albania"
+        },
+        {
             "channel": "beIN Sports MENA 3 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 H 27500 - 2/3",
@@ -883,6 +891,14 @@
             "related_to": "     Finland   vs   Albania"
         },
         {
+            "channel": "New World Sport 1 Mauritius",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Finland   vs   Albania"
+        },
+        {
             "channel": "Nova Sports 1 Hellas HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "12130 H 27500 - 3/4",
@@ -895,6 +911,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Finland   vs   Albania"
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Finland   vs   Albania"
         },
@@ -1092,6 +1116,32 @@
         },
         {
             "compet": "Italian Womens Serie A - Week 2",
+            "match": "     Napoli   vs   Como 1907",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "13:00",
+            "date": "2026-10-03"
+        },
+        {
+            "channel": "DAZN Italia ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Napoli   vs   Como 1907"
+        },
+        {
+            "channel": "Fox Soccer Plus USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Napoli   vs   Como 1907"
+        },
+        {
+            "compet": "Italian Womens Serie A - Week 2",
             "match": "     Fiorentina   vs   Sassuolo",
             "flags": {
                 "team1": "italy",
@@ -1115,24 +1165,6 @@
             "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     Fiorentina   vs   Sassuolo"
-        },
-        {
-            "compet": "Italian Womens Serie A - Week 2",
-            "match": "     Napoli   vs   Como 1907",
-            "flags": {
-                "team1": "italy",
-                "team2": "italy"
-            },
-            "time": "13:00",
-            "date": "2026-10-03"
-        },
-        {
-            "channel": "DAZN Italia ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Napoli   vs   Como 1907"
         },
         {
             "compet": "Swedish Damallsvenskan - Week 21",
@@ -1371,6 +1403,14 @@
             "related_to": "     India   vs   Brazil"
         },
         {
+            "channel": "L\u00b4\u00c9quipe Live Foot (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://lequipe.fr/",
+            "related_to": "     India   vs   Brazil"
+        },
+        {
             "channel": "M+ #Vamos Bar 1",
             "sat": "Astra 1M 19.2\u00b0e",
             "freq": "10876 V 22000 - 5/6",
@@ -1441,6 +1481,66 @@
             "encry": "LiveOnSat.com",
             "link": "#",
             "related_to": "     India   vs   Brazil"
+        },
+        {
+            "compet": "Scottish Championship - Week 9",
+            "match": "     Greenock Morton   vs   Raith Rovers",
+            "flags": {
+                "team1": "scotland",
+                "team2": "scotland"
+            },
+            "time": "14:00",
+            "date": "2026-10-03"
+        },
+        {
+            "channel": "Greenock Morton TV [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.gmfc.net/sponsors/",
+            "related_to": "     Greenock Morton   vs   Raith Rovers"
+        },
+        {
+            "channel": "Raith TV Live [$]",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.raith.tv/",
+            "related_to": "     Greenock Morton   vs   Raith Rovers"
+        },
+        {
+            "compet": "German Frauen Bundesliga - Week 6",
+            "match": "     FC Cologne   vs   Freiburg",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "14:00",
+            "date": "2026-10-03"
+        },
+        {
+            "channel": "DAZN 1 Bar Deutsch HD",
+            "sat": "Astra 1N 19.2\u00b0e",
+            "freq": "12070 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     FC Cologne   vs   Freiburg"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     FC Cologne   vs   Freiburg"
+        },
+        {
+            "channel": "Magenta Deutsch Sport ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": "     FC Cologne   vs   Freiburg"
         },
         {
             "compet": "Scottish Championship - Week 9",
@@ -1625,40 +1725,6 @@
             "related_to": "     Burton Albion   vs   Huddersfield Town"
         },
         {
-            "compet": "German Frauen Bundesliga - Week 6",
-            "match": "     FC Cologne   vs   Freiburg",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "14:00",
-            "date": "2026-10-03"
-        },
-        {
-            "channel": "DAZN 1 Bar Deutsch HD",
-            "sat": "Astra 1N 19.2\u00b0e",
-            "freq": "12070 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     FC Cologne   vs   Freiburg"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     FC Cologne   vs   Freiburg"
-        },
-        {
-            "channel": "Magenta Deutsch Sport ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
-            "related_to": "     FC Cologne   vs   Freiburg"
-        },
-        {
             "compet": "Russian Womens Supreme Division - Week 21",
             "match": "     Rostov   vs   FK Krasnodar",
             "flags": {
@@ -1711,24 +1777,6 @@
             "encry": "",
             "link": "https://www.alloaathletic.co.uk/product-category/wasp-tv/",
             "related_to": "     Ross County   vs   Alloa Athletic"
-        },
-        {
-            "compet": "Scottish Championship - Week 9",
-            "match": "     Greenock Morton   vs   Raith Rovers",
-            "flags": {
-                "team1": "scotland",
-                "team2": "scotland"
-            },
-            "time": "14:00",
-            "date": "2026-10-03"
-        },
-        {
-            "channel": "Raith TV Live [$]",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.raith.tv/",
-            "related_to": "     Greenock Morton   vs   Raith Rovers"
         },
         {
             "compet": "Norwegian 1. Divisjon - Week 24",
@@ -2491,11 +2539,11 @@
             "date": "2026-10-03"
         },
         {
-            "channel": "Abu Dhabi Sports 1 HD",
+            "channel": "Abu Dhabi Sports 2 HD",
             "sat": "Badr 8 26.0\u00b0e",
             "freq": "11804 H 30000 - 3/4",
             "encry": "FTA",
-            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%201",
+            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%202",
             "related_to": "     Saudi Arabia   vs   Qatar"
         },
         {
@@ -2508,6 +2556,14 @@
         },
         {
             "channel": "KSA Sports 1 HD",
+            "sat": "Al Yah 1 52.5\u00b0e",
+            "freq": "11747 H 27500 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Saudi Arabia   vs   Qatar"
+        },
+        {
+            "channel": "KSA Sports 3 HD",
             "sat": "Al Yah 1 52.5\u00b0e",
             "freq": "11747 H 27500 - 5/6",
             "encry": "FTA",
@@ -2621,6 +2677,14 @@
             },
             "time": "16:00",
             "date": "2026-10-03"
+        },
+        {
+            "channel": "A Spor T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "12053 H 27500 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Croatia   vs   England"
         },
         {
             "channel": "Alpha TV Hellas HD",
@@ -2751,6 +2815,14 @@
             "related_to": "     Croatia   vs   England"
         },
         {
+            "channel": "IRIB Varzesh HD",
+            "sat": "Intelsat 39 62.0\u00b0e",
+            "freq": "11555 V 30000 - 2/3",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Croatia   vs   England"
+        },
+        {
             "channel": "ITV 1 England HD",
             "sat": "Astra 2E 28.2\u00b0e",
             "freq": "11344 H 27500 - 2/3",
@@ -2767,11 +2839,35 @@
             "related_to": "     Croatia   vs   England"
         },
         {
+            "channel": "La Nouvelle Cha\u00eene Ivorienne",
+            "sat": "SES 5 5.0\u00b0e",
+            "freq": "12303 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "https://www.nci.ci/",
+            "related_to": "     Croatia   vs   England"
+        },
+        {
+            "channel": "L\u00b4\u00c9quipe Live Foot (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://lequipe.fr/",
+            "related_to": "     Croatia   vs   England"
+        },
+        {
             "channel": "Megogo Futbol 1 ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
             "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
+            "related_to": "     Croatia   vs   England"
+        },
+        {
+            "channel": "Meraj TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11221 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "     Croatia   vs   England"
         },
         {
@@ -2799,6 +2895,14 @@
             "related_to": "     Croatia   vs   England"
         },
         {
+            "channel": "New World Sport 1 Mauritius",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Croatia   vs   England"
+        },
+        {
             "channel": "Nova Sports Prime Hellas HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "12130 H 27500 - 3/4",
@@ -2811,6 +2915,14 @@
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "11387 H 30000 - 3/5",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Croatia   vs   England"
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Croatia   vs   England"
         },
@@ -2851,6 +2963,14 @@
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "11958 V 27500 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Croatia   vs   England"
+        },
+        {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Croatia   vs   England"
         },
@@ -3137,6 +3257,14 @@
             "related_to": "     Iceland   vs   Bulgaria"
         },
         {
+            "channel": "L\u00b4\u00c9quipe Live Foot (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://lequipe.fr/",
+            "related_to": "     Iceland   vs   Bulgaria"
+        },
+        {
             "channel": "MAX One Bulgaria HD",
             "sat": "Hellas Sat 3 39.0\u00b0e",
             "freq": "12309 H 30000 - 3/4",
@@ -3182,6 +3310,14 @@
             "freq": "11804 V 29700 - 3/4",
             "encry": "HD Irdeto",
             "link": "#",
+            "related_to": "     Iceland   vs   Bulgaria"
+        },
+        {
+            "channel": "Persiana Sports 2 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
             "related_to": "     Iceland   vs   Bulgaria"
         },
         {
@@ -3303,6 +3439,176 @@
             "encry": "",
             "link": "#",
             "related_to": "     Iceland   vs   Bulgaria"
+        },
+        {
+            "compet": "UEFA Nations League - League C Group 1 Round 3",
+            "match": "     Belarus   vs   San Marino",
+            "flags": {
+                "team1": "belarus",
+                "team2": "sanmarino"
+            },
+            "time": "16:00",
+            "date": "2026-10-03"
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Belarus   vs   San Marino"
+        },
+        {
+            "channel": "DAZN Canada ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Belarus   vs   San Marino"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Belarus   vs   San Marino"
+        },
+        {
+            "channel": "Diema Sport HD",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Belarus   vs   San Marino"
+        },
+        {
+            "channel": "Fox Soccer Plus USA",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Belarus   vs   San Marino"
+        },
+        {
+            "channel": "Monomax Streaming ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.monomax.me/premierleague",
+            "related_to": "     Belarus   vs   San Marino"
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "     Belarus   vs   San Marino"
+        },
+        {
+            "channel": "Nova Sports 2 Hellas HD",
+            "sat": "Hotbird 13F 13.0\u00b0e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Belarus   vs   San Marino"
+        },
+        {
+            "channel": "Okko Sport HD ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Belarus   vs   San Marino"
+        },
+        {
+            "channel": "Persiana Sports 3 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Belarus   vs   San Marino"
+        },
+        {
+            "channel": "Prima Sport RO PPV 2",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Belarus   vs   San Marino"
+        },
+        {
+            "channel": "Rtv San Marino DTT",
+            "sat": "Eutelsat 5 West B 5.0\u00b0w",
+            "freq": "12606 V 35300 - 2/3",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Belarus   vs   San Marino"
+        },
+        {
+            "channel": "Sport TV Belarus",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Belarus   vs   San Marino"
+        },
+        {
+            "channel": "Sport TV6 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Belarus   vs   San Marino"
+        },
+        {
+            "channel": "SportKlub 12 Hrvatska",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Belarus   vs   San Marino"
+        },
+        {
+            "channel": "SuperSport OTT 5",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Belarus   vs   San Marino"
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "     Belarus   vs   San Marino"
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "     Belarus   vs   San Marino"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "LiveOnSat.com",
+            "link": "#",
+            "related_to": "     Belarus   vs   San Marino"
+        },
+        {
+            "channel": "ViaPlay \u00cdsland HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Belarus   vs   San Marino"
         },
         {
             "compet": "UEFA Nations League - League C Group 4 Round 3",
@@ -3481,168 +3787,6 @@
             "encry": "",
             "link": "#",
             "related_to": "     Estonia   vs   Luxembourg"
-        },
-        {
-            "compet": "UEFA Nations League - League C Group 1 Round 3",
-            "match": "     Belarus   vs   San Marino",
-            "flags": {
-                "team1": "belarus",
-                "team2": "sanmarino"
-            },
-            "time": "16:00",
-            "date": "2026-10-03"
-        },
-        {
-            "channel": "beIN Sports MENA 4 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Belarus   vs   San Marino"
-        },
-        {
-            "channel": "DAZN Canada ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Belarus   vs   San Marino"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Belarus   vs   San Marino"
-        },
-        {
-            "channel": "Diema Sport HD",
-            "sat": "AzerSpace 2 45.0\u00b0e",
-            "freq": "12520 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Belarus   vs   San Marino"
-        },
-        {
-            "channel": "Fox Soccer Plus USA",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Belarus   vs   San Marino"
-        },
-        {
-            "channel": "Monomax Streaming ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.monomax.me/premierleague",
-            "related_to": "     Belarus   vs   San Marino"
-        },
-        {
-            "channel": "MTV Katsomon+ ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.mtv.fi/urheilu",
-            "related_to": "     Belarus   vs   San Marino"
-        },
-        {
-            "channel": "Nova Sports 2 Hellas HD",
-            "sat": "Hotbird 13F 13.0\u00b0e",
-            "freq": "12130 H 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Belarus   vs   San Marino"
-        },
-        {
-            "channel": "Okko Sport HD ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Belarus   vs   San Marino"
-        },
-        {
-            "channel": "Prima Sport RO PPV 2",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Belarus   vs   San Marino"
-        },
-        {
-            "channel": "Rtv San Marino DTT",
-            "sat": "Eutelsat 5 West B 5.0\u00b0w",
-            "freq": "12606 V 35300 - 2/3",
-            "encry": "FTA",
-            "link": "#",
-            "related_to": "     Belarus   vs   San Marino"
-        },
-        {
-            "channel": "Sport TV Belarus",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Belarus   vs   San Marino"
-        },
-        {
-            "channel": "Sport TV6 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12360 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Belarus   vs   San Marino"
-        },
-        {
-            "channel": "SportKlub 12 Hrvatska",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Belarus   vs   San Marino"
-        },
-        {
-            "channel": "SuperSport OTT 5",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Belarus   vs   San Marino"
-        },
-        {
-            "channel": "TV2 Play Danmark ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://play.tv2.dk/sport",
-            "related_to": "     Belarus   vs   San Marino"
-        },
-        {
-            "channel": "TV2 Play Norge ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://play.tv2.no/sport",
-            "related_to": "     Belarus   vs   San Marino"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "LiveOnSat.com",
-            "link": "#",
-            "related_to": "     Belarus   vs   San Marino"
-        },
-        {
-            "channel": "ViaPlay \u00cdsland HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Belarus   vs   San Marino"
         },
         {
             "compet": "Italian Womens Serie A - Week 2",
@@ -3869,7 +4013,23 @@
             "related_to": "     U.A.E.   vs   Oman"
         },
         {
-            "channel": "KSA Sports 1 HD",
+            "channel": "Al Kass 2 HD",
+            "sat": "Badr 4 26.0\u00b0e",
+            "freq": "12245 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "http://www.alkass.net/alkass/live.aspx?ch=two",
+            "related_to": "     U.A.E.   vs   Oman"
+        },
+        {
+            "channel": "KSA Sports 2 HD",
+            "sat": "Al Yah 1 52.5\u00b0e",
+            "freq": "11747 H 27500 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     U.A.E.   vs   Oman"
+        },
+        {
+            "channel": "KSA Sports 4 HD",
             "sat": "Al Yah 1 52.5\u00b0e",
             "freq": "11747 H 27500 - 5/6",
             "encry": "FTA",
@@ -4185,11 +4345,35 @@
             "related_to": "     Spain   vs   Czechia"
         },
         {
+            "channel": "IRIB Varzesh HD",
+            "sat": "Intelsat 39 62.0\u00b0e",
+            "freq": "11555 V 30000 - 2/3",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Spain   vs   Czechia"
+        },
+        {
+            "channel": "L\u00b4\u00c9quipe Live Foot (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://lequipe.fr/",
+            "related_to": "     Spain   vs   Czechia"
+        },
+        {
             "channel": "Megogo Futbol 1 ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
             "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
+            "related_to": "     Spain   vs   Czechia"
+        },
+        {
+            "channel": "Meraj TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11221 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "#",
             "related_to": "     Spain   vs   Czechia"
         },
         {
@@ -4217,6 +4401,14 @@
             "related_to": "     Spain   vs   Czechia"
         },
         {
+            "channel": "New World Sport 1 Mauritius",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Spain   vs   Czechia"
+        },
+        {
             "channel": "Nova Sports 1 Hellas HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "12130 H 27500 - 3/4",
@@ -4229,6 +4421,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Spain   vs   Czechia"
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Spain   vs   Czechia"
         },
@@ -4277,6 +4477,14 @@
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "11958 V 27500 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Spain   vs   Czechia"
+        },
+        {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Spain   vs   Czechia"
         },
@@ -4611,6 +4819,14 @@
             "related_to": "     Switzerland   vs   Slovenia"
         },
         {
+            "channel": "L\u00b4\u00c9quipe Live Foot (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://lequipe.fr/",
+            "related_to": "     Switzerland   vs   Slovenia"
+        },
+        {
             "channel": "Megogo Futbol 2 ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -4648,6 +4864,14 @@
             "freq": "12130 H 27500 - 3/4",
             "encry": "HD Irdeto",
             "link": "#",
+            "related_to": "     Switzerland   vs   Slovenia"
+        },
+        {
+            "channel": "Persiana Sports 2 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
             "related_to": "     Switzerland   vs   Slovenia"
         },
         {
@@ -4981,6 +5205,14 @@
             "related_to": "     North Macedonia   vs   Scotland"
         },
         {
+            "channel": "L\u00b4\u00c9quipe Live Foot (geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://lequipe.fr/",
+            "related_to": "     North Macedonia   vs   Scotland"
+        },
+        {
             "channel": "Match 4 Hungary HD",
             "sat": "Thor 7 0.6\u00b0w",
             "freq": "12130 H 28000 - 7/8",
@@ -5025,6 +5257,14 @@
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "11804 V 29700 - 3/4",
             "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     North Macedonia   vs   Scotland"
+        },
+        {
+            "channel": "Persiana Sports 3 HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     North Macedonia   vs   Scotland"
         },
@@ -5147,6 +5387,32 @@
             "encry": "",
             "link": "#",
             "related_to": "     North Macedonia   vs   Scotland"
+        },
+        {
+            "compet": "Friendly International",
+            "match": "     Ivory Coast   vs   Cameroon",
+            "flags": {
+                "team1": "ivorycoast",
+                "team2": "cameroon"
+            },
+            "time": "19:00",
+            "date": "2026-10-03"
+        },
+        {
+            "channel": "CRTV Sports Cameroon",
+            "sat": "AzerSpace 2 45.0\u00b0e",
+            "freq": "12610 H 12500 - 3/4",
+            "encry": "HEVC SD Nagravision",
+            "link": "#",
+            "related_to": "     Ivory Coast   vs   Cameroon"
+        },
+        {
+            "channel": "La Nouvelle Cha\u00eene Ivorienne",
+            "sat": "SES 5 5.0\u00b0e",
+            "freq": "12303 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "https://www.nci.ci/",
+            "related_to": "     Ivory Coast   vs   Cameroon"
         },
         {
             "compet": "French F\u00e9minine Premi\u00e8re Ligue - Week 4",
