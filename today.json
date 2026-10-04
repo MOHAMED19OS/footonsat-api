@@ -919,6 +919,14 @@
             "related_to": "     Azerbaijan   vs   Lithuania"
         },
         {
+            "channel": "New World Sport 1 Mauritius",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Azerbaijan   vs   Lithuania"
+        },
+        {
             "channel": "Nova Sports 1 Hellas HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "12130 H 27500 - 3/4",
@@ -1077,6 +1085,40 @@
             "encry": "HD Mediaguard",
             "link": "#",
             "related_to": "     Azerbaijan   vs   Lithuania"
+        },
+        {
+            "compet": "Friendly International - V\u00e9lodrome, Marseille, France",
+            "match": "     Senegal   vs   Comoros",
+            "flags": {
+                "team1": "senegal",
+                "team2": "comoros"
+            },
+            "time": "13:00",
+            "date": "2026-10-04"
+        },
+        {
+            "channel": "ORTC Comoros",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "10845 H 30000 - 2/3",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Senegal   vs   Comoros"
+        },
+        {
+            "channel": "RTS 1 Senegal HD",
+            "sat": "AsiaSat 5 100.5\u00b0e",
+            "freq": "4080 H 30000 - 5/6",
+            "encry": "MPEG-4 Conax",
+            "link": "https://live.rts.sn/livetv/rts1",
+            "related_to": "     Senegal   vs   Comoros"
+        },
+        {
+            "channel": "RTS 2 Senegal HD",
+            "sat": "Amos 17 17.0\u00b0e",
+            "freq": "11968 V 34030 - 5/6",
+            "encry": "HD Conax",
+            "link": "https://live.rts.sn/livetv/rts2",
+            "related_to": "     Senegal   vs   Comoros"
         },
         {
             "compet": "English Womens Super League - Week 5",
@@ -2197,6 +2239,14 @@
             "related_to": "     Kosovo   vs   Austria"
         },
         {
+            "channel": "New World Sport 1 Mauritius",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Kosovo   vs   Austria"
+        },
+        {
             "channel": "Nova Sports Start Hellas HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "11804 V 29700 - 3/4",
@@ -2829,6 +2879,58 @@
             "related_to": "     Sarmiento   vs   River Plate"
         },
         {
+            "compet": "Friendly International",
+            "match": "     Morocco   vs   Mali",
+            "flags": {
+                "team1": "morocco",
+                "team2": "mali"
+            },
+            "time": "18:00",
+            "date": "2026-10-04"
+        },
+        {
+            "channel": "Arryadia TNT HD",
+            "sat": "Eshail 1 25.5\u00b0e",
+            "freq": "11180 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "channel": "ORTM 1 Mali",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12604 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Morocco   vs   Mali"
+        },
+        {
+            "compet": "Friendly International",
+            "match": "     Egypt   vs   South Africa",
+            "flags": {
+                "team1": "egypt",
+                "team2": "southafrica"
+            },
+            "time": "18:00",
+            "date": "2026-10-04"
+        },
+        {
+            "channel": "ON Sport HD",
+            "sat": "Nilesat 201 7.0\u00b0w",
+            "freq": "12015 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Egypt   vs   South Africa"
+        },
+        {
+            "channel": "SABC 3 HD",
+            "sat": "Intelsat 20 68.5\u00b0e",
+            "freq": "11514 V 28750 - 1/2",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Egypt   vs   South Africa"
+        },
+        {
             "compet": "Italian Serie C Girone C - Girone C - 8",
             "match": "     Salernitana   vs   Bari",
             "flags": {
@@ -2937,9 +3039,9 @@
             "date": "2026-10-04"
         },
         {
-            "channel": "A2 TV T\u00fcrkiye HD",
+            "channel": "A Haber HD",
             "sat": "Turksat 4A 42.0\u00b0e",
-            "freq": "12207 H 27500 - 3/4",
+            "freq": "11883 V 07500 - 2/3",
             "encry": "FTA",
             "link": "#",
             "related_to": "     Portugal   vs   Norway"
@@ -3125,6 +3227,14 @@
             "sat": "Thor 7 0.6\u00b0w",
             "freq": "12476 H 30000 - 3/4",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Portugal   vs   Norway"
+        },
+        {
+            "channel": "New World Sport 1 Mauritius",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     Portugal   vs   Norway"
         },
@@ -3369,6 +3479,14 @@
             "related_to": "     Portugal   vs   Norway"
         },
         {
+            "channel": "TV8 Italia HD",
+            "sat": "*DTT 0.0\u00b0-",
+            "freq": "0000 - -",
+            "encry": "HD NagraVision",
+            "link": "https://tv8.it/streaming.html?zoneid=menu_streaming",
+            "related_to": "     Portugal   vs   Norway"
+        },
+        {
             "channel": "TVE La 1 HD Espa\u00f1a",
             "sat": "*DTT 0.0\u00b0-",
             "freq": "0000 - -",
@@ -3449,6 +3567,14 @@
             },
             "time": "18:45",
             "date": "2026-10-04"
+        },
+        {
+            "channel": "A2 TV T\u00fcrkiye HD",
+            "sat": "Turksat 4A 42.0\u00b0e",
+            "freq": "12207 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Greece   vs   Germany"
         },
         {
             "channel": "Alpha TV Hellas HD",
@@ -3583,6 +3709,14 @@
             "sat": "Thor 5 0.8\u00b0w",
             "freq": "11247 V 24500 - 7/8",
             "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Greece   vs   Germany"
+        },
+        {
+            "channel": "New World Sport 2 Mauritius",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
             "link": "#",
             "related_to": "     Greece   vs   Germany"
         },
@@ -3954,6 +4088,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.mtv.fi/urheilu",
+            "related_to": "     Netherlands   vs   Serbia"
+        },
+        {
+            "channel": "New World Sport 3 Togo",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "12604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "#",
             "related_to": "     Netherlands   vs   Serbia"
         },
         {
