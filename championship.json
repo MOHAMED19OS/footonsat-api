@@ -117,6 +117,22 @@
             "related_to": "     West Bromwich Albion   vs   Birmingham City"
         },
         {
+            "channel": "Sky Sports Main Event HD",
+            "sat": "Astra 2E 28.2\u00b0e",
+            "freq": "11934 V 27500 - 5/6",
+            "encry": "VideoGuard",
+            "link": "#",
+            "related_to": "     West Bromwich Albion   vs   Birmingham City"
+        },
+        {
+            "channel": "Sky Sports Main Event UHD",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12207 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     West Bromwich Albion   vs   Birmingham City"
+        },
+        {
             "compet": "English Championship - Week 9",
             "match": "     Swansea City   vs   Norwich City",
             "flags": {
@@ -131,6 +147,14 @@
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
+            "link": "#",
+            "related_to": "     Swansea City   vs   Norwich City"
+        },
+        {
+            "channel": "Sky Sports+ TV HD",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12148 H 27500 - 2/3",
+            "encry": "VideoGuard",
             "link": "#",
             "related_to": "     Swansea City   vs   Norwich City"
         },
@@ -233,6 +257,14 @@
             "sat": "Astra 2F 28.2\u00b0e",
             "freq": "12207 V 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Southampton   vs   Portsmouth"
+        },
+        {
+            "channel": "Sky Sports+ TV HD",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12148 H 27500 - 2/3",
+            "encry": "VideoGuard",
             "link": "#",
             "related_to": "     Southampton   vs   Portsmouth"
         },
