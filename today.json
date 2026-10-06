@@ -872,6 +872,50 @@
         },
         {
             "compet": "UEFA U-21 Championship 2027 Qualifiers",
+            "match": "     Kosovo U-21   vs   Finland U-21",
+            "flags": {
+                "team1": "kosova",
+                "team2": "finland"
+            },
+            "time": "17:00",
+            "date": "2026-10-06"
+        },
+        {
+            "channel": "ART Motion Sport 3 HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "     Kosovo U-21   vs   Finland U-21"
+        },
+        {
+            "compet": "Friendly International",
+            "match": "     Algeria   vs   Niger",
+            "flags": {
+                "team1": "algeria",
+                "team2": "niger"
+            },
+            "time": "17:00",
+            "date": "2026-10-06"
+        },
+        {
+            "channel": "ENTV Alg\u00e9rie HD",
+            "sat": "Eutelsat 7 West A 7.0\u00b0w",
+            "freq": "11680 H 27500 - 2/3",
+            "encry": "HD BISS",
+            "link": "#",
+            "related_to": "     Algeria   vs   Niger"
+        },
+        {
+            "channel": "ON Sport Max HD",
+            "sat": "Nilesat 201 7.0\u00b0w",
+            "freq": "11977 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Algeria   vs   Niger"
+        },
+        {
+            "compet": "UEFA U-21 Championship 2027 Qualifiers",
             "match": "     T\u00fcrkiye U-21   vs   Hungary U-21",
             "flags": {
                 "team1": "turkey",
@@ -895,24 +939,6 @@
             "encry": "FTA",
             "link": "#",
             "related_to": "     T\u00fcrkiye U-21   vs   Hungary U-21"
-        },
-        {
-            "compet": "Friendly International",
-            "match": "     Algeria   vs   Niger",
-            "flags": {
-                "team1": "algeria",
-                "team2": "niger"
-            },
-            "time": "17:00",
-            "date": "2026-10-06"
-        },
-        {
-            "channel": "ENTV Alg\u00e9rie HD",
-            "sat": "Eutelsat 7 West A 7.0\u00b0w",
-            "freq": "11680 H 27500 - 2/3",
-            "encry": "HD BISS",
-            "link": "#",
-            "related_to": "     Algeria   vs   Niger"
         },
         {
             "compet": "UEFA U-21 Championship 2027 Qualifiers",
@@ -1047,14 +1073,6 @@
             "related_to": "     Ireland U-21   vs   England U-21"
         },
         {
-            "channel": "The FA Player (geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 ",
-            "encry": "",
-            "link": "https://faplayer.thefa.com/home/womens-super-league",
-            "related_to": "     Ireland U-21   vs   England U-21"
-        },
-        {
             "compet": "English League Trophy - Group South - 2",
             "match": "     Stevenage   vs   Leicester City",
             "flags": {
@@ -1139,7 +1157,7 @@
             "related_to": "     Saudi Arabia   vs   U.A.E."
         },
         {
-            "channel": "KSA Sports 3 HD",
+            "channel": "KSA Sports 2 HD",
             "sat": "Al Yah 1 52.5\u00b0e",
             "freq": "11747 H 27500 - 5/6",
             "encry": "FTA",
@@ -1583,6 +1601,14 @@
             "related_to": "     Croatia   vs   Spain"
         },
         {
+            "channel": "CBC Sport HD",
+            "sat": "AzerSpace 1 46.0\u00b0e",
+            "freq": "11095 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "#",
+            "related_to": "     Croatia   vs   Spain"
+        },
+        {
             "channel": "Cytavision Sports 4 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1668,6 +1694,14 @@
             "freq": "11555 V 30000 - 2/3",
             "encry": "HD BISS",
             "link": "#",
+            "related_to": "     Croatia   vs   Spain"
+        },
+        {
+            "channel": "La Nouvelle Cha\u00eene Ivorienne",
+            "sat": "SES 5 5.0\u00b0e",
+            "freq": "12303 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "https://www.nci.ci/",
             "related_to": "     Croatia   vs   Spain"
         },
         {
@@ -3991,10 +4025,26 @@
             "related_to": "     Argentina   vs   Benin"
         },
         {
+            "channel": "OneFootball [app] ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     Argentina   vs   Benin"
+        },
+        {
             "channel": "ORTB Benin",
             "sat": "Eutelsat 16A 16.0\u00b0e",
             "freq": "10804 H 30000 - 2/3",
             "encry": "MPEG-4 Conax",
+            "link": "#",
+            "related_to": "     Argentina   vs   Benin"
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0\u00b0e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "FTA",
             "link": "#",
             "related_to": "     Argentina   vs   Benin"
         },
