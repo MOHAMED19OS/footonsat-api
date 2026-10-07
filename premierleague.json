@@ -11,6 +11,38 @@
             "date": "2026-10-10"
         },
         {
+            "channel": "Arena Premium 1 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Arsenal   vs   Leeds United"
+        },
+        {
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Arsenal   vs   Leeds United"
+        },
+        {
+            "channel": "Arena Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11678 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Arsenal   vs   Leeds United"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye 3 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Arsenal   vs   Leeds United"
+        },
+        {
             "channel": "Canal+ Extra 1 Polska HD",
             "sat": "Hotbird 13G 13.0\u00b0e",
             "freq": "11278 V 27500 - 5/6",
@@ -244,7 +276,7 @@
         },
         {
             "compet": "English Premier League - Week 6",
-            "match": "     Ipswich Town   vs   Fulham",
+            "match": "     Chelsea   vs   Bournemouth",
             "flags": {
                 "team1": "england",
                 "team2": "england"
@@ -253,44 +285,92 @@
             "date": "2026-10-10"
         },
         {
-            "channel": "beIN Sports MENA 4 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Ipswich Town   vs   Fulham"
-        },
-        {
-            "channel": "Canal+ Extra 6 Polska HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
+            "channel": "Arena Premium 1 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
             "freq": "0000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Ipswich Town   vs   Fulham"
-        },
-        {
-            "channel": "Canal+ Live 8 France HD",
-            "sat": "Astra 1M 19.2\u00b0e",
-            "freq": "12090 V 29700 - 2/3",
             "encry": "HD NagraVision",
             "link": "#",
-            "related_to": "     Ipswich Town   vs   Fulham"
+            "related_to": "     Chelsea   vs   Bournemouth"
         },
         {
-            "channel": "Canal+ Sport 7 Czech HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Bournemouth"
+        },
+        {
+            "channel": "Arena Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11678 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Bournemouth"
+        },
+        {
+            "channel": "beIN Sports MENA 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Bournemouth"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Bournemouth"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye 3 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Bournemouth"
+        },
+        {
+            "channel": "Canal+ Extra 1 Polska HD",
+            "sat": "Hotbird 13G 13.0\u00b0e",
+            "freq": "11278 V 27500 - 5/6",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Bournemouth"
+        },
+        {
+            "channel": "Canal+ Live 6 France HD",
+            "sat": "Astra 1L 19.2\u00b0e",
+            "freq": "12728 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Bournemouth"
+        },
+        {
+            "channel": "Canal+ Sport 1 Czech HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "11973 V 29900 - 3/4",
+            "encry": "HD Viaccess",
             "link": "https://livetv.skylink.cz",
-            "related_to": "     Ipswich Town   vs   Fulham"
+            "related_to": "     Chelsea   vs   Bournemouth"
         },
         {
-            "channel": "Cytavision Sports 6 HD",
+            "channel": "Cytavision Sports 3 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
             "link": "#",
-            "related_to": "     Ipswich Town   vs   Fulham"
+            "related_to": "     Chelsea   vs   Bournemouth"
+        },
+        {
+            "channel": "DAZN 1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0\u00b0w",
+            "freq": "12399 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Bournemouth"
         },
         {
             "channel": "DAZN Canada ($/geo/R)",
@@ -298,7 +378,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
-            "related_to": "     Ipswich Town   vs   Fulham"
+            "related_to": "     Chelsea   vs   Bournemouth"
         },
         {
             "channel": "DAZN Espa\u00f1a ($/geo/R)",
@@ -306,7 +386,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "#",
-            "related_to": "     Ipswich Town   vs   Fulham"
+            "related_to": "     Chelsea   vs   Bournemouth"
         },
         {
             "channel": "DAZN Portugal ($/geo/R)",
@@ -314,15 +394,23 @@
             "freq": "0000 0",
             "encry": "",
             "link": "#",
-            "related_to": "     Ipswich Town   vs   Fulham"
+            "related_to": "     Chelsea   vs   Bournemouth"
         },
         {
-            "channel": "Hub Premier 4 HD ($/geo/R)",
+            "channel": "Hub Premier 1 HD ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.starhubtvplus.com/eplmatches",
-            "related_to": "     Ipswich Town   vs   Fulham"
+            "related_to": "     Chelsea   vs   Bournemouth"
+        },
+        {
+            "channel": "Hub Premier 5 HD ($/geo/R)",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.starhubtvplus.com/eplmatches",
+            "related_to": "     Chelsea   vs   Bournemouth"
         },
         {
             "channel": "Monomax Streaming ($/geo/R)",
@@ -330,15 +418,15 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.monomax.me/premierleague",
-            "related_to": "     Ipswich Town   vs   Fulham"
+            "related_to": "     Chelsea   vs   Bournemouth"
         },
         {
-            "channel": "Nova Sports Start Hellas HD",
+            "channel": "Nova Sports Premier League HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "11804 V 29700 - 3/4",
             "encry": "HD Irdeto",
             "link": "#",
-            "related_to": "     Ipswich Town   vs   Fulham"
+            "related_to": "     Chelsea   vs   Bournemouth"
         },
         {
             "channel": "Premier League+ [APP] ($/geo/R)",
@@ -346,7 +434,39 @@
             "freq": "0000 -",
             "encry": "",
             "link": "#",
-            "related_to": "     Ipswich Town   vs   Fulham"
+            "related_to": "     Chelsea   vs   Bournemouth"
+        },
+        {
+            "channel": "Premier Sports 1 Ireland HD",
+            "sat": "Astra 2F 28.2\u00b0e",
+            "freq": "12188 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Bournemouth"
+        },
+        {
+            "channel": "Setanta Sports 1 Eurasia HD",
+            "sat": "KazSat 3 58.5\u00b0e",
+            "freq": "12657 V 45000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Bournemouth"
+        },
+        {
+            "channel": "Setanta Sports Premium HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.kyivstar.ua/en/setantasports",
+            "related_to": "     Chelsea   vs   Bournemouth"
+        },
+        {
+            "channel": "TV3 MAX Dansk HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11345 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Chelsea   vs   Bournemouth"
         },
         {
             "channel": "ViaPlay Danmark HD",
@@ -354,7 +474,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
-            "related_to": "     Ipswich Town   vs   Fulham"
+            "related_to": "     Chelsea   vs   Bournemouth"
         },
         {
             "channel": "ViaPlay Nederland HD",
@@ -362,7 +482,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "#",
-            "related_to": "     Ipswich Town   vs   Fulham"
+            "related_to": "     Chelsea   vs   Bournemouth"
         },
         {
             "channel": "ViaPlay Norge HD",
@@ -370,7 +490,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
-            "related_to": "     Ipswich Town   vs   Fulham"
+            "related_to": "     Chelsea   vs   Bournemouth"
         },
         {
             "channel": "ViaPlay Suomi HD",
@@ -378,7 +498,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
-            "related_to": "     Ipswich Town   vs   Fulham"
+            "related_to": "     Chelsea   vs   Bournemouth"
         },
         {
             "channel": "ViaPlay Sverige HD",
@@ -386,7 +506,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
-            "related_to": "     Ipswich Town   vs   Fulham"
+            "related_to": "     Chelsea   vs   Bournemouth"
         },
         {
             "compet": "English Premier League - Week 6",
@@ -399,10 +519,42 @@
             "date": "2026-10-10"
         },
         {
+            "channel": "Arena Premium 4 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Brighton H.A."
+        },
+        {
+            "channel": "Arena Sport 3 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11512 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Brighton H.A."
+        },
+        {
+            "channel": "Arena Sport 4 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11895 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Brighton H.A."
+        },
+        {
             "channel": "beIN Sports MENA 3 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 H 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Sunderland   vs   Brighton H.A."
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye Max 2 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11180 H 29750 - 5/6",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Sunderland   vs   Brighton H.A."
         },
@@ -545,10 +697,42 @@
             "date": "2026-10-10"
         },
         {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Brentford"
+        },
+        {
+            "channel": "Arena Sport 1 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11720 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Brentford"
+        },
+        {
+            "channel": "Arena Sport 5 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11678 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Brentford"
+        },
+        {
             "channel": "beIN Sports MENA 2 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 H 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Brentford"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye Max 1 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Aston Villa   vs   Brentford"
         },
@@ -681,6 +865,14 @@
             "related_to": "     Aston Villa   vs   Brentford"
         },
         {
+            "channel": "ViaPlay Sport News Dansk",
+            "sat": "Thor 5 0.8\u00b0w",
+            "freq": "11325 H 25000 - 3/4",
+            "encry": "MPEG-4 NDS",
+            "link": "#",
+            "related_to": "     Aston Villa   vs   Brentford"
+        },
+        {
             "channel": "ViaPlay Suomi HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -698,7 +890,7 @@
         },
         {
             "compet": "English Premier League - Week 6",
-            "match": "     Chelsea   vs   Bournemouth",
+            "match": "     Ipswich Town   vs   Fulham",
             "flags": {
                 "team1": "england",
                 "team2": "england"
@@ -707,60 +899,68 @@
             "date": "2026-10-10"
         },
         {
-            "channel": "beIN Sports MENA 1 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Chelsea   vs   Bournemouth"
-        },
-        {
-            "channel": "beIN Sports MENA English 1 HD",
-            "sat": "Eshail 2 25.5\u00b0e",
-            "freq": "10850 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Chelsea   vs   Bournemouth"
-        },
-        {
-            "channel": "Canal+ Extra 1 Polska HD",
-            "sat": "Hotbird 13G 13.0\u00b0e",
-            "freq": "11278 V 27500 - 5/6",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Chelsea   vs   Bournemouth"
-        },
-        {
-            "channel": "Canal+ Live 6 France HD",
-            "sat": "Astra 1L 19.2\u00b0e",
-            "freq": "12728 V 29700 - 2/3",
+            "channel": "Arena Sport 5 Srbija HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11798 H 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "#",
-            "related_to": "     Chelsea   vs   Bournemouth"
+            "related_to": "     Ipswich Town   vs   Fulham"
         },
         {
-            "channel": "Canal+ Sport 1 Czech HD",
-            "sat": "Astra 3C 23.5\u00b0e",
-            "freq": "11973 V 29900 - 3/4",
-            "encry": "HD Viaccess",
+            "channel": "Arena Sport 7 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11595 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Ipswich Town   vs   Fulham"
+        },
+        {
+            "channel": "beIN Connect T\u00fcrkiye",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 ",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Ipswich Town   vs   Fulham"
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "sat": "Eshail 2 25.5\u00b0e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Ipswich Town   vs   Fulham"
+        },
+        {
+            "channel": "Canal+ Extra 6 Polska HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "     Ipswich Town   vs   Fulham"
+        },
+        {
+            "channel": "Canal+ Live 8 France HD",
+            "sat": "Astra 1M 19.2\u00b0e",
+            "freq": "12090 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Ipswich Town   vs   Fulham"
+        },
+        {
+            "channel": "Canal+ Sport 7 Czech HD",
+            "sat": "* IPTV/Stream 0.0\u00b0",
+            "freq": "0000 0",
+            "encry": "",
             "link": "https://livetv.skylink.cz",
-            "related_to": "     Chelsea   vs   Bournemouth"
+            "related_to": "     Ipswich Town   vs   Fulham"
         },
         {
-            "channel": "Cytavision Sports 3 HD",
+            "channel": "Cytavision Sports 6 HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
             "encry": "",
             "link": "#",
-            "related_to": "     Chelsea   vs   Bournemouth"
-        },
-        {
-            "channel": "DAZN 1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0\u00b0w",
-            "freq": "12399 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Chelsea   vs   Bournemouth"
+            "related_to": "     Ipswich Town   vs   Fulham"
         },
         {
             "channel": "DAZN Canada ($/geo/R)",
@@ -768,7 +968,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
-            "related_to": "     Chelsea   vs   Bournemouth"
+            "related_to": "     Ipswich Town   vs   Fulham"
         },
         {
             "channel": "DAZN Espa\u00f1a ($/geo/R)",
@@ -776,7 +976,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "#",
-            "related_to": "     Chelsea   vs   Bournemouth"
+            "related_to": "     Ipswich Town   vs   Fulham"
         },
         {
             "channel": "DAZN Portugal ($/geo/R)",
@@ -784,23 +984,15 @@
             "freq": "0000 0",
             "encry": "",
             "link": "#",
-            "related_to": "     Chelsea   vs   Bournemouth"
+            "related_to": "     Ipswich Town   vs   Fulham"
         },
         {
-            "channel": "Hub Premier 1 HD ($/geo/R)",
+            "channel": "Hub Premier 4 HD ($/geo/R)",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.starhubtvplus.com/eplmatches",
-            "related_to": "     Chelsea   vs   Bournemouth"
-        },
-        {
-            "channel": "Hub Premier 5 HD ($/geo/R)",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.starhubtvplus.com/eplmatches",
-            "related_to": "     Chelsea   vs   Bournemouth"
+            "related_to": "     Ipswich Town   vs   Fulham"
         },
         {
             "channel": "Monomax Streaming ($/geo/R)",
@@ -808,15 +1000,15 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.monomax.me/premierleague",
-            "related_to": "     Chelsea   vs   Bournemouth"
+            "related_to": "     Ipswich Town   vs   Fulham"
         },
         {
-            "channel": "Nova Sports Premier League HD",
+            "channel": "Nova Sports Start Hellas HD",
             "sat": "Hotbird 13F 13.0\u00b0e",
             "freq": "11804 V 29700 - 3/4",
             "encry": "HD Irdeto",
             "link": "#",
-            "related_to": "     Chelsea   vs   Bournemouth"
+            "related_to": "     Ipswich Town   vs   Fulham"
         },
         {
             "channel": "Premier League+ [APP] ($/geo/R)",
@@ -824,31 +1016,15 @@
             "freq": "0000 -",
             "encry": "",
             "link": "#",
-            "related_to": "     Chelsea   vs   Bournemouth"
+            "related_to": "     Ipswich Town   vs   Fulham"
         },
         {
-            "channel": "Premier Sports 1 Ireland HD",
-            "sat": "Astra 2F 28.2\u00b0e",
-            "freq": "12188 H 27500 - 2/3",
+            "channel": "TV3 Sport Dansk HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11345 V 30000 - 3/4",
             "encry": "HD VideoGuard",
             "link": "#",
-            "related_to": "     Chelsea   vs   Bournemouth"
-        },
-        {
-            "channel": "Setanta Sports 1 Eurasia HD",
-            "sat": "KazSat 3 58.5\u00b0e",
-            "freq": "12657 V 45000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Chelsea   vs   Bournemouth"
-        },
-        {
-            "channel": "Setanta Sports Premium HD",
-            "sat": "* IPTV/Stream 0.0\u00b0",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://tv.kyivstar.ua/en/setantasports",
-            "related_to": "     Chelsea   vs   Bournemouth"
+            "related_to": "     Ipswich Town   vs   Fulham"
         },
         {
             "channel": "ViaPlay Danmark HD",
@@ -856,7 +1032,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
-            "related_to": "     Chelsea   vs   Bournemouth"
+            "related_to": "     Ipswich Town   vs   Fulham"
         },
         {
             "channel": "ViaPlay Nederland HD",
@@ -864,7 +1040,7 @@
             "freq": "0000 ",
             "encry": "",
             "link": "#",
-            "related_to": "     Chelsea   vs   Bournemouth"
+            "related_to": "     Ipswich Town   vs   Fulham"
         },
         {
             "channel": "ViaPlay Norge HD",
@@ -872,7 +1048,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
-            "related_to": "     Chelsea   vs   Bournemouth"
+            "related_to": "     Ipswich Town   vs   Fulham"
         },
         {
             "channel": "ViaPlay Suomi HD",
@@ -880,7 +1056,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
-            "related_to": "     Chelsea   vs   Bournemouth"
+            "related_to": "     Ipswich Town   vs   Fulham"
         },
         {
             "channel": "ViaPlay Sverige HD",
@@ -888,7 +1064,7 @@
             "freq": "0000 ",
             "encry": "LiveOnSat.com",
             "link": "#",
-            "related_to": "     Chelsea   vs   Bournemouth"
+            "related_to": "     Ipswich Town   vs   Fulham"
         },
         {
             "compet": "English Premier League - Week 6",
@@ -899,6 +1075,30 @@
             },
             "time": "16:30",
             "date": "2026-10-10"
+        },
+        {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "#",
+            "related_to": "     Manchester United   vs   Tottenham Hotspur"
+        },
+        {
+            "channel": "Arena Sport 1 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11720 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Manchester United   vs   Tottenham Hotspur"
+        },
+        {
+            "channel": "Arena Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11678 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Manchester United   vs   Tottenham Hotspur"
         },
         {
             "channel": "beIN MENA 4K UHD",
@@ -921,6 +1121,14 @@
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10850 V 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Manchester United   vs   Tottenham Hotspur"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye 3 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Manchester United   vs   Tottenham Hotspur"
         },
@@ -1109,6 +1317,14 @@
             "related_to": "     Manchester United   vs   Tottenham Hotspur"
         },
         {
+            "channel": "TV3+ Dansk HD",
+            "sat": "Astra 4A 5.0\u00b0e",
+            "freq": "11823 V 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Manchester United   vs   Tottenham Hotspur"
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "sat": "* IPTV/Stream 0.0\u00b0",
             "freq": "0000 ",
@@ -1159,6 +1375,30 @@
             "date": "2026-10-11"
         },
         {
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Nottingham Forest"
+        },
+        {
+            "channel": "Arena Sport 3 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11895 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Nottingham Forest"
+        },
+        {
+            "channel": "Arena Sport 6 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11554 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Nottingham Forest"
+        },
+        {
             "channel": "beIN Sports MENA 1 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 H 27500 - 2/3",
@@ -1171,6 +1411,14 @@
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10850 V 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Crystal Palace   vs   Nottingham Forest"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye 4 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Crystal Palace   vs   Nottingham Forest"
         },
@@ -1361,10 +1609,42 @@
             "date": "2026-10-11"
         },
         {
+            "channel": "Arena Premium 5 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12304 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Hull City   vs   Everton"
+        },
+        {
+            "channel": "Arena Sport 1 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11720 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Hull City   vs   Everton"
+        },
+        {
+            "channel": "Arena Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11678 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Hull City   vs   Everton"
+        },
+        {
             "channel": "beIN Sports MENA 2 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 H 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Hull City   vs   Everton"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye 3 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Hull City   vs   Everton"
         },
@@ -1547,6 +1827,30 @@
             "date": "2026-10-11"
         },
         {
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Liverpool   vs   Manchester City"
+        },
+        {
+            "channel": "Arena Sport 1 BiH HD",
+            "sat": "Astra 3B 23.5\u00b0e",
+            "freq": "11720 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Liverpool   vs   Manchester City"
+        },
+        {
+            "channel": "Arena Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11678 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Liverpool   vs   Manchester City"
+        },
+        {
             "channel": "beIN MENA 4K UHD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "11310 H 27500 - 2/3",
@@ -1567,6 +1871,14 @@
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10850 V 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Liverpool   vs   Manchester City"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye 3 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Liverpool   vs   Manchester City"
         },
@@ -1687,6 +1999,14 @@
             "sat": "Download APP 0.0\u00b0",
             "freq": "0000 -",
             "encry": "",
+            "link": "#",
+            "related_to": "     Liverpool   vs   Manchester City"
+        },
+        {
+            "channel": "See Dansk HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11265 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Liverpool   vs   Manchester City"
         },
@@ -1813,6 +2133,22 @@
             "date": "2026-10-12"
         },
         {
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Astra 3C 23.5\u00b0e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "#",
+            "related_to": "     Coventry City   vs   Newcastle United"
+        },
+        {
+            "channel": "Arena Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0\u00b0e",
+            "freq": "11678 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "#",
+            "related_to": "     Coventry City   vs   Newcastle United"
+        },
+        {
             "channel": "beIN Sports MENA 1 HD",
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10810 H 27500 - 2/3",
@@ -1833,6 +2169,14 @@
             "sat": "Eshail 2 25.5\u00b0e",
             "freq": "10850 V 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Coventry City   vs   Newcastle United"
+        },
+        {
+            "channel": "beIN Sports T\u00fcrkiye 3 HD",
+            "sat": "Turksat 3A 42.0\u00b0e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
             "link": "#",
             "related_to": "     Coventry City   vs   Newcastle United"
         },
@@ -1929,6 +2273,14 @@
             "sat": "Download APP 0.0\u00b0",
             "freq": "0000 -",
             "encry": "",
+            "link": "#",
+            "related_to": "     Coventry City   vs   Newcastle United"
+        },
+        {
+            "channel": "See Dansk HD",
+            "sat": "Thor 6 5.0\u00b0e",
+            "freq": "11265 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "#",
             "related_to": "     Coventry City   vs   Newcastle United"
         },
